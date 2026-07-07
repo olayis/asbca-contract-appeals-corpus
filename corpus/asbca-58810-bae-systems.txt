@@ -1,0 +1,3115 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeals of --                                 )
+                                              )
+BAE Systems San Francisco Ship Repair         )       ASBCA Nos. 58810, 59642
+                                              )
+Under Contract No. W912SU-04-U-0005           )
+
+APPEARANCE FOR THE APPELLANT:                         Peter B. Jones, Esq.
+                                                       Jones & Donovan
+                                                       Newport Beach, CA
+
+APPEARANCES FOR THE GOVERNMENT:                       Raymond M. Saunders, Esq.
+                                                       Army Chief Trial Attorney
+                                                      CPT Tyler L. Davidson, JA
+                                                      CPT Harry M. Parent, III, JA
+                                                       Trial Attorneys
+
+                  OPINION BY ADMINISTRATIVE JUDGE TING
+
+         In 2006, the Army's Northern Region Contracting Center Mission Contracting
+'Division at Fort Eustis, Virginia (the Army or the government) issued Delivery Order
+ No. 2 (DO No. 2) under an existing multiple-award task order contract (MATOC) -
+ Contract No. W912SU-04-U-0005 (Contract 0005)- to BAE Systems San Francisco Ship
+ Repair (BAE) to overhaul an Army Logistics Support Vessel, the MG Charles P. Gross
+ (LSV-5). Among other work, DO No. 2 required BAE to remove all existing potable
+ water, air-conditioning and gray water drain systems and to replace them with new
+ copper/nickel (90/10 CUNI) piping. During the course of performance of the delivery
+ order, after the bulkheads and ceilings were removed, BAE's piping subcontractor,
+ Custom Ship Interiors, Inc. (CSI) discovered that the piping systems existing on the
+ vessel, which were not visible during ship check, were not as depicted on the contract
+ drawings. CSI through BAE submitted 19 Condition Found Reports (CFRs) or change
+ proposals for additional labor and materials required to complete the piping replacement
+ work. Lacking input from her on-site Ship Surveyor, the contracting officer (CO), who
+ was located in Virginia, was unable to initiate discussion to negotiate or settle any of the
+ CFRs. Facing an approaching contract completion deadline, BAE and CSI proceeded to
+ complete the piping replacement work with funding advanced by BAE.
+
+       The government acknowledged that BAE discovered additional piping repair
+requirements that were not anticipated at the time DO No. 2 was issued. Since
+completion of the contract work in 2007, the parties were unable to settle the quantum
+of equitable adjustment. In July 2011, BAE converted its piping Request for Equitable
+Adjustment (REA No. 7) into a certified claim. The CO's 2013 decision partially
+granted BAE's claim. BAE appealed the decision (ASBCA No. 58810). In 2014, the
+CO issued an amended decision, claiming that she overpaid BAE in her 2013 decision.
+BAE appealed the decision (ASBCA No. 59642).
+
+       We have jurisdiction to decide the parties' dispute under the Contract Disputes
+Act, 41 U.S.C. §§ 7101-7109.
+
+                                  FINDINGS OF FACT
+
+        1. In April 2004, the U.S. Army's Northern Region Contracting Center Mission
+Contracting Division at Fort Eustis, Virginia, awarded an Indefinite-Delivery,
+Indefinite-Quantity contract - Contract 0005 - to San Francisco Drydock, Inc. 1 (R4, tab I
+at 1 of 440). 2 The contract, in the estimated amount of over $22 million, was for the
+programmed and unprogrammed drydocking, cleaning, painting, repairs and
+modifications of active Army Logistics Support Vessels stationed on the West Coast of
+the United States or Hawaii (id. at 4 of 440). Work would be ordered as task or delivery
+orders under Contract 0005 (R4, tab 13 7 at 1 of 8).
+
+       2. The base period of Contract 0005 ran from the date of award until
+30 November 2005. The contract provided for four one-year option periods ending on
+30 November 2009. (R4, tab 1 at 2 of 440) The events in this appeal occurred during
+Option Period Two from 1December2006 through 30 November 2007 (id. at 2 of
+440). Contract 0005 provided that "[t]ask orders under this contract will be issued
+only by the Contracting Officer" (id. at 2 of 440 n.6) and liquidated damages of $3,626
+per day would be assessed if the contractor failed to deliver the supplies or to perform
+services within the time specified in the delivery order (id.). Time, therefore, was of
+the essence in completing the work specified in the delivery order.
+
+       3. Contract 0005 contained the Department of Defense FAR Supplement
+(DFARS) 252.217-7028, OVER AND ABOVE WORK (DEC 1991) clause. This clause
+defined "Over and above work" to mean "work discovered during the course of
+performing overhaul, maintenance, and repair efforts that is - (i) Within the general
+scope of the contract; (ii) Not covered by the line item(s) for the basic work under the
+
+
+1
+    San Francisco Drydock, Inc. became a part of BAE Systems in 2005 and changed
+         its name to BAE Systems San Francisco Ship Repair (BAE) (tr. 1/106, 3/203).
+2
+    In citing to the record, we use the consecutive numbers at the bottom of the page, where
+         000009 is shortened to 9. A document without a consecutive number is cited to the
+         typed page number on the document, for example, R4, tab 1 at 1 of 440.
+
+
+                                            2
+contract; and (iii) Necessary in order to satisfactorily complete the contract." The clause
+provided that:
+
+              (c) Upon discovery of the need for over and above work, the
+              Contractor shall prepare and furnish to the Government a
+              work request in accordance with the agreed-to-procedures.
+
+
+              ( e) The Contractor shall promptly submit to the
+              Contracting Officer, a proposal for the over and above
+              work. The Government and Contractor will then negotiate
+              a settlement for the over and above work. Contract
+              modifications will be executed to definitize all over and
+              above work.
+
+              (f) Failure to agree on the price of over and above work
+              shall be a dispute within the meaning of the Disputes
+              clause of this contract.
+
+(R4, tab 1 at 350-51 of 440)
+
+        4. Contract 0005 also incorporated by reference DF ARS 252.243-7001,
+PRICING OF CONTRACT MODIFICATIONS (DEC 1991 ), providing "When costs are a
+factor in any price adjustment under this contract, the contract cost principles and
+procedures in FAR Part 31 and D FARS Part 231, in effect on the date of this contract,
+apply" (R4, tab 1 at 329 of 440).
+
+        5. FAR 31.201-2 (2003) 3, Determining allowability, provides in part:
+
+                    (a) The factors to be considered in determining
+              whether a cost is allowable include the following:
+
+                     ( 1) Reasonableness.
+
+                     (2) Allocability.
+
+                     (3) Standards promulgated by the CAS Board, if
+              applicable; otherwise, generally accepted accounting
+              principles and practices appropriate to the circumstances.
+
+3
+    Since Contract 0005 was awarded in April 2004, the 2003 version of the FAR was
+        applicable.
+
+                                            3
+                      (4) Terms of the contract.
+
+                      (5) Any limitations set forth in this subpart.
+
+        6. FAR 31.201-3, Determining reasonableness, provides in part:
+
+                        (a) A cost is reasonable if, in its nature and amount,
+               it does not exceed that which would be incurred by a
+               prudent person in the conduct of competitive business.
+               Reasonableness of specific costs must be examined with
+               particular care in connection with firms or their separate
+               divisions that may not be subject to effective competitive
+               restraints. No presumption of reasonableness shall be
+               attached to the incurrence of costs by a contractor. If an
+               initial review of the facts results in a challenge of a specific
+               cost by the contracting officer or the contracting officer's
+               representative, the burden of proof shall be upon the
+               contractor to establish that such cost is reasonable.
+
+       7. Contract 0005 included a provision establishing fully burdened labor, G&A,
+and profit rates for various contract periods. The "OFFEROR'S FULLY BURDENED
+LABOR RA TE FOR THE SECOND OPTION PERIOD" provision (fully burdened
+rate provision) provided:
+
+                       a. Changes are inherent to vessel repair contracts
+               and should be expected by the Contractors. Offerors shall
+               include a fully burdened labor rate to be used in
+               negotiating changes. The rate must include all costs for
+               negotiating changes, including but not limited to, G&A,
+               overhead, profit, cost of money, etc. The offeror shall
+               insert rates below that it agrees to use in negotiating
+               changes for new or additional work.
+
+(R4, tab 1 at 393 of 440) For the second option period, BAE inserted $73.50 as its
+fully burdened labor rate, 8.82% as its G&A rate, and 10% as its profit rate (id.). 4 The
+parties disagree whether the provision precluded BAE from charging a differential
+($36.75) for any overtime labor hour worked to complete the changed work.
+
+
+4
+    The Contract 0005 rates were restated in DO No. 2 awarded to BAE (R4, tab 3 at 10 of 26).
+
+                                              4
+       Delivery Order Request for Proposal Requirements
+
+        8. Section C.YY. of Amendment No. 0001 to the Request for Task Order proposal
+(RFP) pertained to the replacement of the potable water, air conditioning and drain piping
+systems of the LSV-5. The RFP referenced Moss Point Marine, Drawing P-3, Rev P,
+"Potable and Sanitary Water Systems," and Moss Point Marine, Drawing P-13, Rev 7,
+dated 1987, "Air Conditioning Drains." (App. supp. R4, tab 501, §§ C.YY.1.1.,
+C.YY.1.2) The RFP required the contractor to "[r]emove all existing potable water
+piping and drains throughout the entire vessel to include all air conditioning condensate
+drains," and "[r]eplace entire piping system with copper nickel, 90110 (CUNI) piping and
+all associated fittings as per referenced drawing" (id.,§ C.YY.2). The work included the
+disassembling and removal of "all necessary deck plate grating sections, joiner
+bulkheads, overhead tiles, flooring tiles, terrazzo and interferences" (id.,§ C.YY.4.2),
+and after installation, the replacement of "all disturbed or damaged insulation/lagging,
+joiner bulkheads and ceiling tiles, flooring tiles, terrazzo affected by the repairs" (id. at 2,
+§ C.YY.5.5).
+
+        9. Gregory Dewhurst was BAE's senior estimator (tr. 2/5). He had 19 years of
+experience estimating piping work (tr. 2118-19). The LSV-5 was made available for ship
+check in Honolulu, Hawaii, on 28 and 29 November 2006 (R4, tab 105 at 38). In
+preparing to submit BAE's bid, Mr. Dewhurst went to Honolulu for the ship check
+(tr. 11163). He testified he did not have the disc of the Moss Point drawings of the
+vessel's potable water, air conditioning and drain piping systems (P/W, A/C and Drain
+Piping Systems) until the CO "left it at the desk of her hotel for me" the evening before
+the ship check. He testified that he printed a few drawings at a copying store and found
+that the drawings had no quantity information on them. (Tr. 1/164-65) For that reason, he
+considered the drawings he was given practically useless for bidding purposes (tr. 2/6).
+
+       10. During ship check, Mr. Dewhurst could not see piping and what type of
+piping was behind the overhead and the bulkheads in the housing areas of the vessel
+because they were still in place (tr. 2/16). To come up with a rough estimate of footage
+of piping and fittings, he "walked off' certain levels of the vessel and took into account
+deck drains and showers and "what kind of services were on those levels" (tr. 216- 7).
+
+        11. After the Honolulu ship check, BAE emailed the government and said it
+would need "additional GFI [government-furnished information] to support the
+development of pricing for the ... work items received with the solicitation." The email
+said as a result of the site visit, it had developed "a list of questions and issues by work
+item." (R4, tab 105 at 38)
+
+
+                                              5
+       12. BAE's email inquiry was four pages long. On the Potable Water System
+referenced in the specifications at C.YY.1.1, Moss Point Marine, Drawing P-3, Rev 3,
+its email said:
+
+               1.) ... The reference drawing received during the site visit
+                   contained an incomplete bill of materials where the
+                   footages of piping and quantities of various fittings
+                   were identified as "A/R", which was understood to
+                   mean AS REQUIRED. The Drawing was a reduced
+                   size of the original that was not developed in sufficient
+                   detailing as to "scale" off of to determine the
+                   approximate quantities of piping and fittings required
+                   for the replacement of the piping system that were
+                   identified as "AIR". Please provide a listing of the
+                   materials for the replacement of the Potable Water
+                   System throughout the entire vessel as required by the
+                   work item.
+
+Using similar language, BAE's email made inquiries on the Air Conditioning and the
+Gray Water Drain Systems 5 which we omit here for brevity. (R4, tab 105 at 39)
+
+      13. BAE's email also asked about the boundaries of the Gray Water Drain
+System requiring replacement:
+
+               5.) During the site visit the Gray Water Drain System was
+                   found to tie into the Black Water system in several
+                   areas. On Port and Starboard sides of the vessel, the
+                   statement of work does not identify the limit of renewal
+                   of the Gray water system, in fact in this case without
+                   determining the extent of the renewal, the Offeror will
+                   have no way of pricing the system the Govt. intends to
+                   replace. Please revise specification to identify the Gray
+                   Water Drain System boundaries requiring replacement.
+
+(R4, tab 105 at 40)
+
+        14. CO Patricia Shepherd's 11December2006 reply told all bidders that "[a] copy
+of all drawings available for the LSV-5 are being forwarded under separate cover via
+federal express." On the Gray Water Drain System boundaries, the CO advised that based
+on the specification, "the contractor shall remove the entire existing gray water system.
+
+5
+    Gray water is water from sinks, showers, or deck drains (tr. 2/203, 3/164).
+
+
+                                             6
+No change is required. If there is a tie into the black water system, this is to be identified
+to the ship surveyor. This item is for the gray water system." The letter enclosed a
+revised list of parts and a revised specification, and extended the date for receipt of task
+order proposal to 20 December 2006. (R4, tab 105 at 43-44)
+
+       BAE's Bid Price on Item No. 2062
+
+        15. CSI is a small privately owned company that specializes in interior work of
+ships. CSI, based in Solomons Island, Maryland, was established in 1986.
+(Tr. 2/147-48) Prior to doing work on the LSV-5, CSI had worked in BAE's shipyards
+in San Francisco, San Diego, and Los Angeles (tr. 2/149). At the time of the LSV-5
+overhaul, Andrew Brown was its co-owner and director of estimating (tr. 21145-46).
+
+       16. Based on the Moss Point Marine drawings, CSI prepared an estimate of
+materials required for the P/W, A/C and Drain Piping Systems work required for the
+LSV-5 (tr. 2/155). While the Moss Point Marine drawings listed pipe sizes, they gave
+no quantity information. As for quantities, the specifications merely said "AR" or "As
+Required." Because the Moss Point Marine drawings were not as-builts but "flat"
+drawings, CSI had to add "dropdowns," "fittings," and other parts. (Tr. 2/156)
+
+        17. BAE initially issued Subcontractor Order No. S-75178 to CSI to "[p]rovide
+labor material and equipment to accomplish requirements of specifications Item 2062" for
+$172,556.00. Under the subcontractor order, BAE would provide: Staging, Ventilation,
+Lights, 110 V Elec. Power, Gas Free Cert., Welding/Burning Equipment & Gases, Parking
+For Company Vehicles, and Crane Services. CSI subsequently reduced its price by
+$22,507 to $150,049.00. (R4, tab 105 at 9-10, tab 113 at 8-9; tr. 2/152, 245) CSI's
+reduced price required a 45% deposit with bi-weekly draws to cover its overhead including
+mobilization, transporting employees to the job site, hotel and initial material costs
+(tr. 21157). After it began work, CSI billed BAE and was paid the deposit (tr. 2/158).
+
+        18. According to Mr. Brown, he based his estimate on the "initial drawings,"
+"gaging how wide the ship is, how long it is, counting the number of rungs ... adding
+some additional footage for drops" (tr. 2/256). BAE's Mr. Dewhurst testified he did
+not find the P/W, A/C and Drain Piping Systems drawings useful because "no
+overheads or bulkheads [were] removed to actually see where the piping was, so you
+couldn't validate the drawings at all" (tr. 1/166). To prepare BAE's estimate, he
+testified:
+
+              I figured the width of the ship and the super structure area
+              where the accommodation was, and I went through each
+              level figuring out what fixtures there were on each level,
+              deck drains, sinks, and put piping systems together on a
+              sketch that I made up. And then pretty much figured what
+
+
+                                             7
+             kind of piping I would need to go ahead and tie it down
+             into the main system down below.
+
+(Tr. 11165) Mr .. Dewhurst testified he used CSI's $150,049.00 proposal, added BAE's
+labor and materials to assist CSI, and submitted a price of$214,913.23 to perform
+Item No. 2062, "Potable Water and Air Conditioning Drain Piping Systems
+Replacement for LSV-5" (tr. 2/8, 25; R4, tab 3 at 7of26). Under BAE's agreement
+with CSI, CSI would buy the piping materials needed to accomplish the replacement
+(tr. 2/21).
+
+       19. Contract section C.0.1.4, Contracting Officer, provides that "Contracting
+Officer is a person with the authority to enter into, administer, and/or terminate
+contracts, make related determinations and findings and issue delivery/task orders.
+Only the Contracting Officer has the authority to extend the performance period of the
+contract and/or delivery/task orders." (R4, tab 1 at 24 of 440)
+
+       20. CO Kathleen H. Panton awarded DO No. 2 to BAE on 27 December 2006 for
+the programmed docking, cleaning, painting and repairs of the LSV-5. The DO was in
+the amount of$4,889,413.73. (R4, tab 3 at 1, 7of26) It required BAE to perform
+numerous "DEFINITE" and "INDEFINITE" items (id. at 3-8 of 26). Definite items
+were work known to be required; Indefinite items were pre-priced items but it was not
+known how much of the work would be required (see R4, tab 1 at 24 of 440, §§ C.0.1.7,
+C.0.1.12). Item No. 2062 was among the Definite items awarded (R4, tab 3 at 1, 7 of
+26). Modification No. 1 to DO No. 2 established a 120-calendar day performance period
+running from 30 March through 27 July 2007 (R4, tab 6 at 1, 3of12).
+
+       21. Section C.62 ofthe LSV-5 specifications pertain to "POTABLE WATER
+AND AIR CONDITIONING DRAIN PIPING SYSTEMS REPLACEMENTS FOR
+LSV-5 (DEFINITE)." SECTION C.62.1, referred to Moss Point Marine Drawing P-3,
+Rev P, "Potable and Sanitary Water Systems," and P-13, Rev 7, "Air Conditioning
+Drains." (R4, tab 3 at 20of26) Section C.62.2, Scope of Work, provided:
+
+             Remove all existing potable water piping and drains
+             throughout the entire vessel to include all air conditioning
+             condensate drains. Replace entire piping system with
+             copper nickel, 90/10 (CUNI) piping and all associated
+             fittings as per referenced drawing. This will also include
+             any overboard through hull penetrations, fill and suction
+             piping in the potable water tanks, piping to and from the
+             hot water heater, and pressure sets. Replacement does not
+             include any copper tubing that supplies potable water to
+             the water fountains, coffee makers, etc. All piping
+
+
+                                           8
+               supports, hangers and watertight penetrations will be
+               replaced with new.
+
+(Id.)
+
+        22. In terms of requirements, the DO No. 2 specifications required, in part:
+
+               C.62.3.2. Contractor shall identify and tag each valve
+               location prior to removal.
+
+
+               C.62.3.5. Upon removal of existing piping, the Contractor
+               shall furnish to the Ship Surveyor an original and four (4)
+               copies of a report listing parts and components for
+               installation. Report shall include unit price, part number
+               and availability.
+
+(R4, tab 3 at 20 of 26)
+
+        23. In terms of removals, the DO No. 2 specifications required, in part:
+
+               C.62.4.1. Remove and reinstall all necessary interferences
+               to facilitate with the removal and reinstallation process.
+
+               C.62.4.2. Disassemble and remove all necessary deck
+               plate grating sections, joiner bulkheads, overhead tiles,
+               flooring tiles, terra[ zzo] and interferences to facilitate
+               removal of all existing potable water and condensate drain
+               piping and associated fittings for installation of new copper
+               nickel 90/10 (CUNI) piping as per referenced drawing.
+
+(R4, tab 3 at 20 of 26)
+
+        24. In terms of installation, the DO No. 2 specifications required, in part:
+
+               C.62.5. Installation: Refer to Moss Point Marine drawing,
+               P-3, Revision 3, Potable and Sanitary Water System and
+               Moss Point Marine drawing, P-13, Air Conditioning
+               Drains for installation guidance.
+
+               C.62.5.1. Replace potable water system in its entirety,
+               using 90/10 CUNI piping.
+
+
+                                             9
+              C.62.5.2. Replace existing gray water drain system in its
+              entirety, using 90/ 10 CUNI piping.
+
+              C.62.5.3. Replace existing air-conditioning system
+              condensate drains in their entirety, with 90/10 CUNI pipes.
+
+
+              C.62.5.5. Replace all disturbed or damaged
+              insulation/lagging, joiner bulkheads and ceiling tiles,
+              flooring tiles, terra[ zzo] affected by the repairs.
+
+(R4, tab 3 at 20-21 of 26)
+
+       25. In terms of reinstallation, the DO No. 2 specifications required, in part:
+
+              C.62.7.1 Reinstall all removals.
+
+              C.62.7.2. Potable water system and air conditioning
+              condensate drains shall be operationally verified during
+              specification item, "Trials and Tests[,]" and left ready for
+              service.
+
+(R4, tab 3 at 21 of 26)
+
+        26. CSI's Mr. Brown was "on the job every d[a]y," "from the beginning to the
+very end" (tr. 2/160). He testified the P/W, A/C and Drain Piping Systems
+replacement work as depicted on the contract drawings "looked to be straightforward"
+(tr. 21159). He testified CS I's part of the overhaul was to open up the overheads and
+bulkheads, trace the lines to see "what went where," identify the different systems,
+remove the existing systems and replace them with new piping systems (tr. 2/159).
+
+        27. When CSI opened up the ceilings and the bulkheads, however, it found
+there was "a lot more piping involved in the systems." The piping on the LSV-5 was
+found to divide into a port and a starboard system. At the lower decks, the two
+systems unexpectedly "rejoined." The piping "cross-connected to each other in
+several different places and went everywhere." (Tr. 2/162) Initially, CSI had planned
+to install the piping itself. Once it discovered the magnitude of the work involved, it
+decided it needed more pipefitters skilled in copper/nickel piping. (Tr. 21161) In
+addition to using its own labor force, CSI added Worldwide Labor Support, Inc.' s
+skilled labor for brazing work (tr. 2/226, 278).
+
+
+                                           10
+        28. Brown testified that he was there in every case where it was discovered that
+the piping was not as represented on the Moss Point Marine drawings. He testified he
+would discuss what he found with BAE' ship manager, Ron Bain, and he would submit
+a CFR because he "wanted to be compensated for all the additional piping [CSI] was
+going to have to do." (Tr. 2/165-66) Each of the CSI's CFRs would be accompanied by
+(1) a spreadsheet of the additional materials (e.g. valves, elbows, couplings, sleeves,
+tees, unions) and a material price quote (see, e.g., R4, tab 13 at 3of3) and (2) its
+estimated labor hours needed to accomplish the unanticipated replacement work
+(tr. 2/170). CSI would then submit the CFR to BAE (tr. 2/261). CSI's estimates were
+based upon "[i]nspection onboard the ship and then counting what was there, where we
+had to go, and what we had to do." Brown testified his estimates were based upon his
+"personal observations." (Tr. 2/168) On the CFRs he estimated, Brown testified that
+"[he] expected [he would] have to stand there with somebody and explain to them
+exactly what [he] wrote [in the CFR], and they could see it" (tr. 2/183).
+
+      29. Upon receipt of a CFR from CSI, BAE would check the areas CSI was
+concerned about (tr. 2/266). Bain testified he would not "reestimate each one," but he
+would examine some based on a general "rule of thumb" (tr. 2178) from his experience
+"coming up through the pipefitting trade" (tr. 2173). Bain testified "[i]f it seemed
+reasonable or look[ ed] like it was in line with what we were doing," he would submit
+CSI's CFR to the government along with BAE's own Change Order Route Slip (CORS)
+adding the labor and materials BAE needed to furnish on its part (tr. 2/56-61, 261 ).
+
+        CSI's Per Diem Costs
+
+        30. The hourly workers CSI employed were from out-of-town. Because CSI's
+pipefitters were not "living in tents," CSI paid them $80.00 per day to cover their hotel
+costs, "[t]wo guys to a room." Per diem costs would also cover "[r]ental cars, gas,
+tolls." CSI's per diem payment was based upon man days. One man day was based
+on "[t]en hours a day." (Tr. 2/276-77) We find the per diem rate paid reasonable in
+covering its employees' hotel, car rental, gas, tolls and other expenses.
+FAR 31.205-46(a)(l) (2004), Travel costs, provided that "Costs for transportation,
+lodging, meals, and incidental expenses .. .incurred by contractor personnel on official
+company business are allowable, subject to the limitations contained in this
+subsection." The Federal Travel Regulation per diem rate for San Francisco during
+2007 was $140.00 for lodging and $64.00 for meals and incidentals. 6
+
+
+6
+    See http:/www.gsa.gov/portal/content/103168 at spreadsheet "FY 07 Per Diem Rates."
+
+
+                                           11
+       CSI' s Material Costs
+
+       31. The copper/nickel piping materials specified in the contract had to be
+obtained from specific parts suppliers (tr. 2/176). Brown testified that the material
+market in 2007 was volatile because "China was buying everything and it was just
+impossible to get some stuff' (tr. 2/219). The price for the same copper/nickel item
+from Tork Systems, Inc. for example, could fluctuate from purchase order to purchase
+order depending upon whether the part was out of stock and had to be obtained from
+another local vendor or an out-of-town vendor, or from a wholesale supplier (tr. 2/218;
+R4, tab 113 at 105). According to Brown, due to the shortages and volatility of the
+market in 2007, the prices of parts could change between the time they were quoted
+and the time they were shipped (tr. 2/176).
+
+       32. According to its initial calculation, CSI spent $187 ,652.02 for piping
+materials on the LSV-5 overhaul (app. supp. R4, tab 507; tr. 2/220). Of this amount,
+$176,564.27 was for materials from various suppliers, and $11,087.75 was for
+California sales tax which Tork Systems invoiced separately (tr. 2/221 ).
+
+      CSI's Labor Costs
+
+       33. CSI estimated whether overtime (OT) was required by "the number of days
+we thought it would take and ... whether it fell on a Saturday or a Sunday." If a
+three-day job were to start on a Monday, OT was less likely to be required. (Tr. 2/276)
+Because the needed parts did not always arrive when needed, CSI' s labor force "had to
+go wherever ... [there was] work" (tr. 2/178). Brown testified CSI kept its piping work
+separate from its other work on the LSV-5 (tr. 2/177), and since he witnessed the
+performance of the piping work, he believed the actual labor hours worked by CSI
+employees "commensurate[d] with" what he estimated (tr. 2/178).
+
+       34. When CSI/BAE submitted a proposal, it went initially to the government's
+Ship Surveyor Denny D. Large (Ship Surveyor Large) (tr. 4/101). If there was a
+disagreement between BAE/CS I and Ship Surveyor Large on the costs of additional
+work, as in the case of the cloverleaf replacement (see BAE Systems San Francisco
+Ship Repair, ASBCA No. 58809, 16-1 BCA ~ 36,226), Ship Surveyor Large would
+prepare a government estimate on a Specification Worksheet providing the CO with
+information to negotiate a change order (tr. 4/102). Normally, Ship Surveyor Large's
+Specification Worksheet would be forwarded first to his supervisor at Fort Eustis.
+After his review, the supervisor would forward the Specification Worksheet with his
+comments to the CO. (Tr. 4/139) There is no evidence that Ship Surveyor Large
+prepared a Specification Worksheet (or government estimate) on any of the piping
+CFRs. Consequently, the CO was left without meaningful information to act on the
+piping CFRs when they were submitted by BAE.
+
+
+                                          12
+        35. No Specification Worksheet was prepared by Ship Surveyor Large on any
+of the 19 CFRs in dispute. Ship Surveyor Large was regularly aboard the LSV-5. He
+acknowledged he had the opportunity to look at the piping systems as they were being
+removed and replaced. (Tr. 3/169) Except for the fact he did not have time, Large
+acknowledged he could have measured the pipes and counted the fittings to be
+removed and replaced (tr. 3/169-70). There is no evidence that Ship Surveyor Large
+went out and checked CSI's and BAE's estimates (tr. 41101). When BAE submitted
+CFRs to him, he would note on the CFRs they were being reviewed by the CO. He
+testified he was not made aware of the results of the CO's review (tr. 3/171).
+
+        36. We find CSI's CFR estimates, based upon Mr. Brown's actual observations
+at the time (tr. 2/184) and with the expectation that the CFRs he prepared would have
+to be explained or justified to both BAE and the government credible evidence on how
+much additional labor and materials would have to be expended to accomplish the
+P/W, A/C and Drain Piping Systems replacement work required by the specifications.
+
+        37. After it submitted its CFRs, CSI expected BAE would "get back to us and
+give us direction" (tr. 2/265). In this case, CSI nonetheless began work when formal
+approval did not come because, as Brown explained, "[t]he spec. was written that what
+was there had to be replaced" (tr. 2/267). He also explained that "with all the people I
+had onsite, I'm not going to have them standing around waiting three or four days for
+something to happen" (tr. 2/167). We find BAE knew and permitted CSI to proceed
+immediately with the copper/nickel piping and deteriorated parts replacement work as
+soon as the actual conditions on the vessel were discovered and the CFRs and CORS
+were being provided to the government. We find the CO knew BAE/CSI was
+proceeding apace to meet the vessel redelivery date. We find the CO took no action to
+try to negotiate, much less to settle, the piping-related CFRs when they reached her
+from mid-May until mid-July 2007.
+
+        38. In anticipation of performing work on the LSV-5, BAE developed a
+bar-chart schedule (app. supp. R4, tab 508). The schedule was used by "the
+production crafts to set up their manpower" to do the work and was updated weekly
+(tr. 2/71). According to BAE ship manager Mr. Bain, the additional piping work
+caused disruption in preventing the new piping systems from being installed, tested,
+closed up, and from vacating the spaces involved (tr. 2/67).
+
+       CFRs Relating to Defective Drawings
+
+              CFR No. 155 -Additional Piping on Poop Deck
+
+        39. CSI's Report No. LSV-018 dated 14 May 2007 notified BAE that during
+installation of the potable water system, it found significant differences between what
+was shown on the drawings and the as found conditions on Levels 03 and 04 of the
+
+
+                                           13
+vessel (R4, tab 105 at 46). CSI attached a spreadsheet showing additional piping parts
+and fittings were needed at an estimated cost of $1,670.60 (id. at 48). Mr. Brown
+testified that the spreadsheets which accompanied his CFR to BAE was developed on
+the basis of being "[p]hysically on the boat" and seeing "what was exactly there and
+what we thought we would have to do to [re]place what was there" (tr. 2/272).
+
+       40. CSI's 15 May 2007 letter to BAE proposed $16,504.60 to do the additional
+work: $10,920.00 in additional straight time (ST) labor (210 hours x $52.00);
+$1,742.00 in overtime (OT) differential (67 hours x $26.00); $1,600.00 in per diem
+cost (20 man days x $80.00); and $2,242.60 in materials 7 (R4, tab 105 at 49).
+
+       41. BAE's CORS (BAE's estimate) added $12,348.00 in ST labor (168 hours x
+$73.50); $1,543.50 in OT differential (42 hours x $36.75); and $137.76 in materials.
+With $16,504.60 in subcontractor (CSI) costs $1,467.86 in G&A (8.82%) and
+$1,650.46 in profit (10%) 8 ; the CORS amount came to $33,652.18. The CORS
+indicated the work would take 11 days to accomplish. (R4, tab 105 at 51)
+
+       42. On 17 May 2007, BAE submitted to the government CFR No. 155
+recommending that the government "[i]ssue C/O to provide and install additional
+material" (R4, tab 105 at 45). Ship Surveyor Large acknowledged receipt of CFR
+No. 155 on 17 May 2007 noting under "CUSTOMER DIRECTION": "See C.0.2.14
+of the General Requirements. Further disagreements will need to be sent to the
+contracting officer in writing." The CORS indicated the additional work would take
+11 days. (R4, tab 105 at 45)
+
+               CFR No. 196-Potable Water System Piping in A/C Room
+
+       43. CSI's Report No. LSV-024 dated 29 May 2007 notified BAE that "[d]uring
+the installation of the new Potable Water Piping running from the Water Heaters it was
+noted that there were significant differences between the piping installed in
+comparison to the Government Furnished Information (GFI)." CSI's attached
+spreadsheet showed it would need to install 17 additional piping parts and 29 fittings.
+(R4, tab 105 at 53, 54)
+
+       44. CSI's 29 May 2007 letter to BAE proposed $8,123.80 to do the additional
+piping work: $5,096.00 in ST labor (98 hours x $52.00); $832.00 in OT differential
+(32 hours x $26.00); $800.00 in per diem cost (10 man days x $80.00); and $1,395.80
+in materials (R4, tab 105 at 55).
+
+7
+    CSI's letter used $2,462.60 for material. The materials listed, however, added up to
+       $2,242.60 (R4, tab 105 at 49).
+8
+    BAE' s G&A rate is applied to the sum of total subcontractor costs and its own
+       material costs; its profit rate is applied only to total subcontractor costs.
+
+                                            14
+       45. BAE's CORS added $7,570.50 in ST labor (103 hours x $73.50); $955.50
+in OT differential (26 hours x $36.75); and $84.46 in materials. With $8, 123.80 in
+subcontractor (CSI) cost; $723.97 in G&A (8.82%); and $812.38 in profit (10%); the
+CORS amount came to $18,270.61. The CORS indicated the work would take 7 days
+to accomplish. (R4, tab 105 at 57)
+
+       46. On 29 May 2007, BAE submitted to the government CFR No. 196
+recommending that it "[i]ssue C/O to provide and install additional required
+materials." Ship Surveyor Large acknowledged receipt of CFR No. 196 on 30 May
+2007 noting under "CUSTOMER DIRECTION": "This issue is being reviewed by the
+contracting officer, no decision has been made yet." (R4, tab 105 at 52)
+
+              CFR No. 203 - Potable Water System Piping Located in Ship's Workshop
+
+       47. CSI's Report No. LSV-026 dated 26 May 2007 notified BAE that "[d]uring
+the installation of the new Potable Water Piping located in the Ships Workshop it was
+noted that there were significant differences between the piping installed in
+comparison to the Government Furnished Information (GFI)" (R4, tab 105 at 59).
+CSI's attached spreadsheet showed 49 additional elbows, tees, unions and fittings
+would be required (id. at 60).
+
+        48. CSI's 30 May 2007 letter to BAE quoted a price of $8,295.31 to do the
+additional work: $5,096.00 in ST labor (98 hours x $52.00); $832.00 in OT
+differential (32 hours x $26.00); $800.00 in per diem (10 man hours x $80.00).
+Because all of the pipe hangers were found to be in excellent condition, CSI offered
+$2,449.50 (150 hangers x $16.33 each) in credit against $1,567.31 in material costs, or
+a net credit of $882.19 in material costs. With a $3,900 credit in labor costs for not
+removing and installing the hangers, CSI offered $6,349.50 in total credit and to
+perform the work for $1,945.81 ($8,295.31 - $6,349.50). (R4, tab 105 at 62)
+
+       49. BAE's CORS added $6,468.00 (88 hours x $73.50) in ST labor; $808.50 in
+OT differential (22 hours x $36.75); $72.16 in materials; $8,295.31 in subcontractor
+(CSI) costs; $738.01 in G&A (8.82%); and $829.53 in profit (10%), deducted
+$6,350.00 in credit; and arrived at a total of $10,862.01 to do the additional work. The
+CORS indicated the work would take 6 days to accomplish. (R4, tab 105 at 64)
+
+       50. On 31 May 2007, BAE submitted CFR No. 203 to the government,
+recommending that it "Issue C/O for labor material and equipment to install additional
+material per attached list" (R4, tab 105 at 58) Ship Surveyor Large acknowledged
+receipt of CFR No. 203 on 1 June 2007 noting under "CUSTOMER DIRECTION":
+"Under review by contracting officer." BAE noted on 4 June 2007 "Contractor is
+waiting for further direction and C/O to proceed." (Id.)
+
+
+                                           15
+                CFR No. 204 - Additional Piping on 03 and 04 Levels
+
+        51. CSI's Report No. LSV-019 dated 29 May 2007 notified BAE that "[d]uring
+the installation of the vessel[']s potable water system it was noted that there were
+significant differences between the Government Furnished Information (GFI) and the
+actual piping installed onboard the vessel" on the 03 and 04 decks (R4, tab 105 at 66).
+CSI's attached spreadsheet showed an additional 95 fittings including elbows, angles,
+tees, and unions were required at an estimated cost of $1,788.00 (R4, tab 105 at 68).
+
+       52. CSI's 29 May 2007 letter to BAE proposed $19,428.40 to do the additional
+work: $12,324.00 in ST labor (237 hours x $52.00); $2,054 in OT differential (79
+hours x $26.00); $1,840.00 in per diem cost (23 man days x $80.00); $3, 110.409 in
+materials and $100.00 in freight (R4, tab 105 at 69).
+
+       53. BAE's CORS added $12,936.00 in ST labor (176 hours x $73.50); $1,617 in OT
+differential (44 hours x $36.75); $144.32 in materials; $19,428.40 in subcontractor (CSI)
+cost; $1,726.31 in G&A (8.82%); and $1,942.84 in profit (10%) for a total of $37,794.87.
+The CORS indicated the work would take 12 days to accomplish. (R4, tab 105 at 71)
+
+        54. On 1June2007, BAE submitted CFR No. 204 to the government
+recommending that it "Issue C/O to provide additional labor material and equipment to
+install 95 ea. S. B. bronze fittings not identified with government provided
+information." Ship Surveyor Large acknowledged receipt of CFR No. 204 on 1 June
+2007, noting under "CUSTOMER DIRECTION": "Under review by contracting
+officer." BAE noted on 4 June 2007 "Contractor is waiting for further direction and
+CIO to proceed." (R4, tab 105 at 65)
+
+                CFR No. 209 - Potable Waterlines in Laundry/Engineer's Office
+
+        55. CSI's Report No. LSV-029 dated 31 May 2007 notified BAE that "During
+the installation of the new Potable Water Piping located in the Engineers
+Office/Laundry/FM-200 Room, it was noted that there were significant differences
+between the piping installed in comparison to the Government Furnished Information
+(GFI)" (R4, tab 105 at 73). CSI's attached spreadsheet showed an additional 67 fittings
+including elbows and tees were required at an estimated cost of $1,473.90 (Id.).
+
+       56. CSI's 31 May 2007 letter to BAE proposed to perform the additional work
+for $15,904.50: $10,452.00 in ST labor (201 hours x $52.00); $1,742.00 in OT
+differential (67 hours x $26.00); $1,600.00 in per diem costs (20 man days x $80.00);
+and $2,110.50 in materials (R4, tab 105 at 76).
+
+9
+    CSI's letter used $3,210.40 for materials. The materials listed, however, added up to
+         $3, 110.40 (R4, tab 105 at 69).
+
+                                             16
+        57. BAE's CORS added $10,878.00 in ST labor (148 hours x $73.50);
+$1,359.75 in OT differential (37 hours x $36.75); $121.36 in materials, $1[5],904.50 10
+in subcontractor (CSI) cost; $1,413.48 in G&A (8.82%); and $1,590.45 in profit (10%)
+for a total of$31,267.54. The CORS indicated the work would take 10 days to
+accomplish. (R4, tab 105 at 77)
+
+       58. On 4 June 2007, BAE submitted CFR No. 209 to the government
+recommending that the government "Issue C/O to provide additional labor and material
+to accomplish installation of P/W piping per attached list." Ship Surveyor Large
+acknowledged receipt of CFR No. 209 on 5 June 2007, noting under "CUSTOMER
+DIRECTION": "Issue is under review by contracting officer." (R4, tab 105 at 72)
+
+              CFR No. 211 - Potable Water Tank Piping System
+
+       59. CSI's Report No. LSV-023 dated 29 May 2007 notified BAE that there
+were significant djfferences in the new potable water piping running from the engine
+room to the potable water tanks to be installed "in comparison to the Government
+Furnished Information (GFI)" (R4, tab 105 at 79). CSI's attached spreadsheet showed
+additional parts (elbows, couplings, tees and sleeves), piping, and 32 additional fittings
+at an estimated cost of$4,555.40 were required (id. at 80-81).
+
+       60. CSI's 29 May 2007 letter to BAE proposed to do the work for $27,017.00:
+$16,640.00 in ST labor (320 hours x $52.00); $2,756.00 in OT differential (106 hours
+x $26.00); $2,560.00 in per diem cost (32 man days x $80.00); and $5,061.00 in
+materials (R4, tab 105 at 82).
+
+        61. BAE's CORS added $23,226.00 in ST labor (316 hours x $73.50);
+$2,903.25 in OT differential (79 hours x $36.75); $259.12 in materials; $27,017.00 in
+subcontractor (CSI) cost; $2,405.75 in G&A (8.82%) and $2,701.70 in profit (10%)
+for a total of$58,512.82. The CORS indicated the work would take 10 days to
+accomplish. (R4, tab 105 at 84)
+
+      62. On 5 June 2007, BAE submitted CFR No. 211 to the government
+recommending that it issue a C/O to accomplish the additional work. Ship Surveyor
+Large acknowledged receipt of the CFR on 6 June 2007 noting under "CUSTOMER
+DIRECTION": "Under review by contracting officer." (R4, tab 105 at 78)
+
+
+10
+     BAE erroneously used $16,904.50 in its CORS; the correct amount should be
+       $15,904.50. The G&A, profit, and total amounts were correct.
+
+                                            17
+              CFR No. 212 -Additional A/C Drain Piping
+
+       63. CSI's Report No. LSV-031 dated 5 June 2007 notified BAE that the A/C
+drain piping installed throughout the vessel was significantly different from that shown
+on the drawings (R4, tab 105 at 86). CSI's attached spreadsheet showed various
+additional elbows, couplings, sleeves, tees, unions; piping and fittings were required at
+an estimated cost of$15,028.74 (id. at 88).
+
+        64. As Mr. Brown explained at the hearing, "All the air conditioning units in
+each cabin had a dual drain system that tied together" and went either overboard or
+into a holding tank (tr. 2/196). The A/C drawing provided showed "two drains tied
+together and going down." CSI expected the drains would go down, tie into each
+other, and go off somewhere, but it found individual drains "ran significant ... distances
+on their own," dropped down on their own, and did not necessarily tie together.
+(Tr. 2/196-97) Since the A/C drain system was located throughout the vessel, it was
+an extensive system to replace (tr. 2/196).
+
+       65. CSI's 5 June 2007 letter proposed to do the additional work for $67,876.74:
+$38,584.00 in ST labor (742 hours x $52.00); $6,422.00 in OT differential (247 hours
+x $26.00); $5,920.00 in per diem cost (74 man days x $80.00); $16,650.74 in
+materials; and $300.00 in freight (R4, tab 105 at 89).
+
+        66. BAE's CORS added $26,166.00 (356 hours x $73.50) in ST labor;
+$3,270.75 in OT differential (89 hours x $36.75); $2,012.06 in materials and rents;
+$67,876.74 in subcontractor (CSI) cost; $6,164.19 in G&A (8.82%); and $6,787.67 in
+profit (10%) for a total of $112,277.42. The COR indicated the work would take
+20 days to accomplish. (R4, tab 105 at 91)
+
+       67. On 6 June 2007, BAE submitted CFR No. 212 to the government
+recommending that the government issue a C/O to provide for additional labor, material
+and equipment to remove and install the additional A/C drain piping materials listed
+(R4, tab 105 at 85). Ship Surveyor Large acknowledged receipt of CFR No. 212 on
+6 June 2007 noting under "CUSTOMER DIRECTION": "See email DTD 6 JUN 07
+from Contracting Officer" (id.).
+
+              CFR No. 213 - Additional Lines to Brominator
+
+       68. CSI's Report No. LSV-028 dated 31 May 2007 notified BAE that the potable
+water piping installed onboard the vessel that ran to and from the Brominator System
+differed from what was shown on the contract drawing (R4, tab 105 at 93). CSI's
+attached spreadsheet showed additional valves, elbows, couplings, sleeves, piping and
+additional fittings at an estimated cost of $2,902.50 would be required (id. at 94).
+
+
+                                            18
+        69. Mr. Brown explained that the Brominator System was located in the back of
+the engine room. Pipes from above went into it. While the drawings showed some of the
+piping, "there was significantly more piping involved" (tr. 2/200). CSI's 31 May 2007
+letter to BAE proposed $14,352.10 to do the additional work: $8,320.00 in ST labor
+(160 hours x $52.00); $1,378.00 in OT differential (53 hours x $26.00); $1,280.00 in per
+diem cost (16 man days x $80.00); and $3,374.10 in materials (R4, tab 105 at 95).
+
+        70. BAE's CORS added $8,820.00 in ST labor (120 hours x $73.50); $1,102.50
+in OT differential (30 hours x $36.75); $345.40 in materials; $14,352.10 in
+subcontractor (CSI) cost; $1,296.32 in G&A (8.82%); and $1,435.21 in profit (10%)
+for a total of$27,351.53. The CORS indicated the work would take 8 days to
+accomplish. (R4, tab 105 at 97)
+
+       71. BAE submitted CFR No. 213 to the government recommending that a C/O
+be issued to provide additional labor, material and equipment to remove and install the
+additional Brominator piping. Ship Surveyor Large acknowledged receipt of CFR
+No. 213 on 6 June 2007 noting under "CUSTOMER DIRECTION": "See email DTD
+6 JUN 07 from Contracting Officer." (R4, tab 105 at 92)
+
+              CFR No. 223 - Gray Water Piping System
+
+       72. CSI's Report No. LSV-030 dated 31 May 2007 notified BAE that the Gray
+Water Piping System required to be replaced was significantly different from what was
+expected (R4, tab 105 at 104). According to Brown, CSI never received any gray
+water drawings (tr. 2/203-04), and it based its estimate upon observations and actual
+measurements onboard the vessel (tr. 2/205).
+
+       73. CSI's attached spreadsheets showed various additional piping, fittings and
+materials in the amount of $108,020.55 would be required to replace the Gray Water
+Piping System (R4, tab 105 at 106).
+
+       74. CSI's 9 June 2007 letter to BAE proposed $364,632.55 to do the additional
+work: $194,376.00 in ST labor (3,738 hours x $52.00); $32,396.00 in OT differential
+(1,246 hours x $26.00); $29,840.00 in per diem (373 man days x $80.00); and
+$108,020.55 in materials (R4, tab 105 at 107).
+
+       75. Mr. Brown explained that replacing the Gray Water Piping System was more
+expensive than the other piping work because: (1) CSI "didn't have any drawings,"
+(2) CSI's "expectation weren't near as involved as this system ended up being"; (3) this
+was not a "single-source drainage system" but "[ e]verything came down and then
+cross-connected," which "made it a lot more involved ... [and] nothing you would
+normally anticipate finding" (tr. 2/207-08). In addition, the Gray Water Piping System
+was found "throughout the vessel" and gray water called for bigger pipes (tr. 2/208).
+
+
+                                          19
+Mr. Brown testified that in estimating how much materials and labor would be required
+for replacement, he personally looked at the system all over the vessel (tr. 2/208).
+
+       76. BAE's CORS added $69,384.00 in ST labor (944 hours x $73.50);
+$8,673.00 in OT differential (236 hours x $36.75); $1,974.00 in materials;
+$364,632.55 in subcontractor (CSI) cost; $32,334.70 in G&A (8.82%); and $36,463.26
+in profit (10%) for a total of $513,461.59. The CORS indicated it would take 57 days
+to do the work (R4, tab 105 at 109).
+
+        77. BAE submitted CFR No. 223 to the government on 12 June 2007. The CFR
+stated that "contractor has never received government guidance dwgs for gray water
+system" and there was "significant differences from what was expected and what you
+have." The CFR recommended that a C/O be issued to provide labor, material and
+equipment to complete installation of the Gray Water Piping System. (R4, tab 105 at 103)
+
+        78. After he received CFR No. 223, Ship Surveyor did look at the Gray Water
+System. He did not, however, make an effort to verify the quantity of piping and
+fittings on CSI's material spreadsheet. (Tr. 3/172)
+
+               CFR No. 319 - Interferences Not Shown on the Contract Drawings
+
+       79. By letter dated 16 July 2007, CSI forwarded to BAE a five-page outline of the
+interferences it encountered that were not shown on the contract drawings or could be
+seen during ship check. The outline covered "the ale drains, hot & cold potable water
+and gray water drains not shown," and "vent lines and piping runs in walls which [were]
+not expected along with the added runs not shown on plans." (R4, tab 105 at 126-31)
+
+       80. The outline listed 14 areas of interferences for which CSI sought
+$46,586.00 11 : (1) Bridge Deck ($2,008.00); (2) Officer SIR 03-96-B ($652.00);
+(3) Officer SIR 03-96-0 ($208.00); (4) Officer SIR 03-96-14 ($652.00), (5) Sick Bay
+($2,828.00); (6) Crew Mess ($1,696.00); (7) Galley ($416.00); (8) Officer Mess
+($1,840.00); (9) 02 Level Passageway Starboard Side ($2,400.00); (10) 02 level
+Passageway Portside ($416.00); (11) T-S 01-100-1 ($2,232.00); (12) T-S 01-100-2
+($2,232.00), (13) Overhead Car deck ($11,498.00); and (14) Gray Water Piping
+($20,392.00). (R4, tab 105 at 127-31)
+
+        81. The government has not disputed that CSI ran into unexpected
+interferences at various places of the vessel. No detailed fact finding is therefore
+
+
+11
+     Adding the 14 areas of interference as stated in Rule 4, tab 105 at 127-31, we arrive
+       at $49,470.00.
+
+                                            20
+necessary. The following examples gives a flavor of CSI' s additional removal and
+restoration work. In the "Sick Bay," CSI's letter stated:
+
+             The plans show the ac unit in the wrong location. All
+             piping is going down the wall where it was supposed to be.
+             We had to remove 2 wall panels, trim, base, ceiling tile and
+             cabinets to gain access at the new location as well as 2
+             panels, ceiling tile, trim and base for the gray water line on
+             the opposite wall. The pipes were separate[ d] by several
+             feet requiring extras, bulkhead removal and ceiling. Once
+             tested all bulkheads, trim, base ceiling and furniture had to
+             be reinstalled.
+             Overhead florescent lighting had to be removed and
+             [temporarily] suspended during pipe installation then
+             repositioned in original location in ceiling grid.
+
+(R4, tab 105 at 128)
+
+      82. In the "Galley," CSI's letter stated:
+
+             We have 2 pipes next to the refrigerator not shown,
+             requiring us to remove one additional wall panel, trim,
+             base, and ceiling tile. Once complete we ... reinstall[ed]
+             [the] panel, trim, base and ceiling.
+             Overhead florescent lighting had to be removed and
+             [temporarily] suspended during pipe installation then
+             repositioned in original location in ceiling grid.
+
+(R4, tab 105 at 129)
+
+       83. BAE's CORS added $3,528.00 in ST labor (48 hours x $73.50); $39.36 in
+materials; $46,586.00 in subcontractor (CSI) cost; $4,112.36 in G&A (8.82%) and
+$4,658.60 in profit (10%) for a total of $58,924.32 (R4, tab 105 at 132).
+
+        84. BAE's CFR No. 319 signed by Mr. Bain on 14 July 2007 recommended
+that the government issue a C/O for labor, material and equipment to accomplish the
+restoration work (R4, tab 105 at 125).
+
+
+                                          21
+              CFRs Relating to Defective Parts Discovered
+
+              CFR No. 166-Replacement of Clogged A/C Room Water Heater Valves
+
+        85. CSI's Report No. LSV-017 dated 14 May 2007 notified BAE that during
+removal of the pipe and fittings for the water heaters in the A/C Room, it was
+discovered that all of the valves/check valves were 80 to 95% clogged. The report
+identified (1) four 1 114" Gate Valves, (2) four 3/4" Gate Valves, and (3) one 3/4" Ball
+Check Valves needing to be replaced. (R4, tab 105 at 169)
+
+       86. CSI's 15 May 2007 letter proposed to replace the valves for $3,955.00:
+$832.00 in ST labor (16 hours x $52.00); $130.00 in OT differential (5 hours x
+$26.00); $160.00 in per diem cost (2 man days x $80.00); and $2,833.00 in material
+and shipping costs (R4, tab 105 at 170).
+
+       87. BAE's CORS, revised 16 June 2007, added $1,176.00 in ST labor (16
+hours x $73.50); $53.12 in materials; $3,955.00 in subcontractor (CSI) costs; $353.52
+in G&A (8.82%); $395.50 in profit (10%) and $60.00 for shipping, and came up with
+$5,993.14 to replace the valves. The CORS indicated the work would take 2 days to
+accomplish. (R4, tab 105 at 172)
+
+       88. BAE submitted CFR No. 166 to the government on 21 May 2007
+recommending that it issue a C/O to provide labor, material and equipment to replace
+the valves (R4, tab 105 at 168).
+
+              CFR No. 173 - Replacement of Cutout Valves
+
+       89. CSI's Report No. LSV-022 dated 14 May 2007 notified BAE that during
+removal of the potable water system valves, it was noted that the valves were
+"severely corroded and clogged" (R4, tab 105 at 174). CSI's attached spreadsheets
+showed 50 valves at 18 locations needed to be replaced (R4, tab 105 at 17 5-76).
+
+      90. CSI's 18 May 2007 letter to BAE proposed to do the work for $15,016.00:
+$5,200.00 in ST labor (100 hours x $52.00); $858.00 in OT differential (33 hours x
+$26.00); $800.00 in per diem (10 man days x $80.00); $8,078.00 in materials; and
+$80.00 for shipping (R4, tab 105 at 177).
+
+       91. BAE's CORS, revised 19 June 2007, added no labor costs, but added
+$1,324.41 in G&A (8.82%) and $1,501.60 in profit (10%) to the subcontractor (CSI)
+cost of $15,016.00 plus $80.00 in shipping to arrive at the total amount of $17,922.01 to
+replace the valves. The CORS indicated the work would take 10 days to accomplish.
+(R4, tab 105 at 179)
+
+
+                                           22
+       92. BAE's CFR No. 173 to the government recommended that the government
+issue a C/O to provide for labor, material and equipment to replace the deteriorated
+cutout valves found (R4, tab 105 at 173).
+
+             CFR No. 224- Half Inch Valves in Potable Water System - Coffee
+             Makers, Sinks, etc.
+
+      93. CSI's Report No. LSV-012 dated 23 April 2007 notified BAE that when
+removing the piping for the stateroom sinks, coffee makers, water fountains, etc., it
+was discovered that many of the "commercial grade" valves "did not hold." CSI
+recommended all 68 of the valves be replaced so that the hydro testing would not be
+impacted. (R4, tab 105 at 181)
+
+       94. CSI's 10 May 2007 letter to BAE proposed to replace the valves for
+$6,028.00: $3,536.00 in ST labor (68 hours x $52.00); $572.00 in OT differential
+(22 hours x $26.00); $560.00 in per diem (7 man days x $80.00); and $1,360.00 in
+materials (R4, tab 105 at 182).
+
+        95. BAE's CORS added no labor costs for its part, but added $531.67 for G&A
+(8.82%) and $602.80 for profit (10%) to $6,028.00 in subcontractor (CSI) cost for a
+total of $7, 162.47 to replace the fresh waterline valves. The CORS indicated the work
+would take 7 days to accomplish. (R4, tab 105 at 184)
+
+       96. BAE submitted CFR No. 224 to the government on 12 June 2007
+recommending that it issue a C/O for labor, material and equipment to replace 68
+valves (R4, tab 105 at 180).
+
+             CFR No. 220 - Replacing Damaged Bulkhead Panels
+
+       97. CSI's Report No. LSV-010 dated 23 April 2007 reported that when
+removing the paneling in the port side corridor on the main deck by the main exit door,
+it found several of the panels were damp or wet, and fell apart when the seam strip was
+removed. The report said that the source of the water had not been determined. It
+recommended that the panels be replaced. (R4, tab 105 at 100)
+
+       98. CSI's 10 May 2007 letter provided BAE "a per panel price" because "the exact
+extent of the water/moisture damage has not been determined." The per panel replacement
+price was quoted at $550.00 including $270.00 in labor (6 hours x $45.00) and $280.00 in
+materials. (R4, tab 105 at 101) Thus, replacing five panels would cost $2,750.00.
+
+      99. BAE's CORS added $514.50 in ST labor (7 hours x $73.50); $147.00 in
+OT differential (4 hours x $36.75); $2,750.00 in subcontractor (CSI) cost; $242.55 in
+
+
+                                          23
+G&A (8.82%); and $275.00 in profit (10%) for a total of $3,929.05 to replace five
+bulkhead panels (R4, tab 105 at 102).
+
+       100. BAE submitted CFR No. 220 on 11June2007 (replacing CFR No. 151
+submitted earlier on 16 May 2007) recommending that the government issue a C/O
+providing for labor, material and equipment to renew the damaged bulkhead panels.
+CFR indicated that ship check was accomplished with port engineer and found five
+panels needed to be replaced. (R4, tab 105 at 98-99)
+
+              CFR No. 225 - Fuel Oil Tank Baffle Plate
+
+        101. CSI's Report No. LSV-032 dated 5 June 2007 notified BAE that during
+removal of piping running through the fuel tank forward of the engine room on the
+starboard side, it found that the pipe/sleeve/tunnel was installed in two sections with a
+baffle plate welded in the middle. The piping running through the sleeve/tunnel was
+found welded to the baffle on both sides making it impossible to remove the piping.
+The report said that the baffle plate was not shown on the contract drawings. CSI
+recommended cutting and removing the middle section of the tunnel, and fabricating
+and installing a new baffle plate. (R4, tab 105 at 111)
+
+       102. CSI's 5 June 2007 letter to BAE proposed to do the work for $14,142.00:
+$10,400.00 in ST labor (200 hours x $52.00); $1,716.00 in OT differential (66 hours x
+$26.00); $1,600.00 in per diem cost (20 man days x $80.00); and $426.00 in materials
+(R4, tab 105 at 112).
+
+        103. BAE's CORS added $14,112.00 in ST labor (192 hours x $73.50);
+$1,764.00 in OT differential (48 hours x $36.75); $157.44 in materials; $14,142.00 in
+subcontractor (CSI) cost; $1,261.21 in G&A (8.82%); and $1,414.20 in profit (10%)
+for a total of $32,850.85 to do the work. The CORS indicated the work would take 10
+days to accomplish. (R4, tab 105 at 113)
+
+       104. BAE submitted CFR No. 225 to the government on 12 June 2007
+recommending that the government issue a C/O to cut out and remove the middle
+section of the tunnel (R4, tab 105 at 110).
+
+              CFR No. 226-Engine Room Potable Water System Valves
+
+        105. CSI's Report No. LSV-033 dated 13 June 2007 notified BAE that during
+removal of the potable water system valves and strainers in the engine room, it found
+that the valves were severely clogged. CSI recommended replacing the clogged valves
+with new ones and attached a list of sizes and quantities. (R4, tab 105 at 186-87)
+
+
+                                           24
+        106. CSI's 13 June 2007 letter to BAE proposed to do the work for $4,489.70:
+$624.00 in ST labor (12 hours x $52.00); $104.00 in OT differential (4 hours x
+$26.00); $80.00 in per diem (1 man day x $80.00); $3,541.70 in material and $140.00
+in freight (R4, tab 105 at 188).
+
+       107. BAE's CORS added $1,984.50 in ST labor (27 hours x $73.50); $147.00 in
+OT differential (4 hours x $36.75); $22.14 in materials; $4,489.70 in subcontractor (CSI)
+cost; $397.94 in G&A (8.82%); and $448.97 in profit (10%) for a total of $7,490.25. The
+CORS indicated the work would take 2 days to accomplish. (R4, tab 105 at 190).
+
+     108. BAE submitted CFR No. 226 to the government on 13 June 2007
+recommending that a C/O be issued to replace the listed valves (R4, tab 105 at 185).
+
+               CFR No. 231 - Replacing Deteriorated A/C Cooling Coil Evaporator Baffles
+
+        109. CSI's Report No. LSV-035 dated 14 June 2007 notified BAE that during
+installation of the new stainless steel filter housing, it found that the A/C cooling coil
+evaporator baffles were severely deteriorated and would need to be replaced (R4,
+tab 105 at 115).
+
+       110. CSI's 14 June 2007 letter to BAE proposed to do the work for
+$2,716.00 12 : $1,560.00 in ST labor (30 hours x $52.00); $936.00 in OT differential
+(12 hours x $78.00); and $220.00 in materials (R4, tab 105 at 117).
+
+       111. BAE's CORS added no labor or materials of its own. It added $239.55
+G&A (8.82%) and $271.60 in profit (10%) to the subcontractor (CSI) cost and arrived
+at $3,227.15 to do the work. The CORS indicated the work would take 4 days to
+accomplish. (R4, tab 105 at 119)
+
+        112. BAE submitted CFR No. 231 to the government on 14 June 2007
+recommending that a C/O be issued to replace the A/C cooling coil evaporator baffles
+(R4, tab 105 at 114 ). After the hearing, BAE in its post-hearing brief dropped this
+CFR; it acknowledged that the parties had settled this CFR as a part of Modification
+No. 9 (app. br. at 40, 68; R4, tab 94 at 3, at 9of13). Until this occurred however, the
+parties' litigated all 19 CFRs. As a result of the settlement ofCFR No. 231, we deduct
+from CSI's labor hour claim 30 ST hours and 12 OT differential hours, and we deduct
+from CSI's material claim $220.00.
+
+
+12
+     CSI erroneously used $78.00 instead of the normal $26.00 OT differential.
+        Properly calculated, CSI's proposal should be $2,092.00 ($1,560.00 + $312.00
+       + $220.00). As will be seen, this error has no effect on the decision we reach
+        (see Footnote 14).
+
+                                            25
+              CFR No. 238 -A/C Drain System Check Valve Replacement
+
+        113. CSI's Report No. LSV-036 dated 15 June 2007 notified BAE that while
+tying into the check valves for the A/C Drain System, it discovered that the check
+valves were badly eroded and need to be replaced. The report listed three 1 1/2" check
+valves and two 3/4" check valves. (R4, tab 105 at 192)
+
+       114. CSI's 15 June 2007 letter to BAE proposed to do the work for $2,446.00:
+$1,040.00 in ST labor (20 hours x $52.00); $156.00 in OT differential (6 hours x
+$26.00); and $1,251.00 in materials (R4, tab 105 at 193).
+
+       115. BAE's CORS added $1,176.00 in ST labor (16 hours x $73.50), $147.00 in OT
+differential (4 hours x $36. 75); $13 .12 in materials; $2,446.00 in subcontractor (CSI) costs;
+$216.69 in G&A (8.82%); $244.60 in profit (10%) for a total of $4,243.61 to do the work.
+The CORS indicated the work would take 3 days to accomplish. (R4, tab 105 at 195)
+
+       116. BAE submitted CFR No. 238 to the government on 15 June 2007
+requesting a C/O for additional labor and material, and said "This item is impacting
+completion." Ship Surveyor Large acknowledged receipt of the CFR on 19 June 2007
+and noted under "CUSTOMER DIRECTION": "under Review." (R4, tab 105 at 191)
+
+              CFR No. 260 - Replacement of A/C Unit Drain Hoses
+
+       117. CSI' s Report No. LSV-03 8 dated 18 June 2007 notified BAE that during
+replacement of the A/C drain piping, it found that the clear flex hoses were badly
+deteriorated and clogged with debris. CSI recommended replacing the hose and
+clamps for each unit before reconnection. (R4, tab 105 at 121)
+
+      118. CSI's 18 June 2007 letter to BAE proposed to do the work for $888.00 13 :
+$624.00 in ST labor (12 hours x $52.00); $104.00 in OT differential (4 hours x $26.00);
+$80.00 in per diem (1 man day x $80.00); and $160.00 in materials (R4, tab 105 at 122).
+
+        119. BAE's CORS added no labor and materials for itself. It added $78.32 in
+G&A (8.82%); $88.80 in profit (10%) and $888.00 in subcontractor (CSI) cost for a
+total of $1,055.12 to do the work. The CORS indicated the work would take 2 days to
+accomplish. (R4, tab 105 at 124)
+
+      120. BAE submitted CFR No. 260 to the government on 18 June 2007
+recommending that a C/O be issued to replace the deteriorated hose and clamps at each
+AIC unit (R4, tab 105 at 120).
+
+
+13
+     The correct number should be $968.00 ($624.00 + $104.00 + $80.00 + $160.00).
+
+                                           26
+         121. As summarized in the following table, between mid-May and mid-July,
+2007, BAE submitted to the CO 19 CFRs. Ten of the CFR stemmed from outdated,
+inaccurate, incomplete or otherwise defective drawings the government referenced in
+its solicitation. The rest of the CFRs stemmed from deteriorated parts CSI found in
+replacing the existing P/W, A/C and Drain Systems:
+
+  CFRNo.       Date Submitted        Proposed Amount               Work Duration
+    155         17 May 2007             $ 33,652.18                   11 days
+    196         29 May 2007             $ 18,270.61                   7 days
+    203         31May2007               $ 10,862.01                   6 days
+    204          1June2007              $ 37,794.87                  12 days
+    209          4 June 2007            $ 31,267.54                   10 days
+    211          5 June 2007            $ 58,512.82                  10 days
+    212          6 June 2007           $112,277.42                   20 days
+    213          6 June 2007            $ 27,351.53                   8 days
+    223         12 June 2007           $513,461.59                   57 days
+    319         14 July 2007            $ 58,924.32                 not stated
+    166         21May2007               $ 5,993.14                    2 days
+    173         21May2007               $ 17,922.01                  10 days
+   224          12 June 2007            $ 7,162.47                    7 days
+    220         11June2007              $ 3,929.05                  not stated
+    225         12 June 2007            $ 32,850.85                  10 days
+    226         13 June 2007            $ 7,490.25                    2 days
+   231          14 June 2007            $ 3,227.15                    4 days
+   238          15 June 2007            $ 4,243.61                    3 days
+   260          18 June 2007            $ 1,055.12                    2 days
+                                       $986,248.54
+
+       122. Adding the labor hours in the CFRs above, we find that CSI proposed
+roughly 6,262 ST hours for additional piping work and roughly 2,081 OT differential
+hours for additional piping work for all 19 CFRs. We use the word "roughly" because
+a few of CSI's estimates (e.g. CFR Nos. 319, 220) provided only dollar estimates and
+no labor hour estimates. We find BAE's CORS proposed 2,725 ST hours and 665 OT
+differential hours for its part of the additional piping work for all 19 CFRs. For all 19
+CFRs, we find CSI and BAE estimated before they began replacing the piping they
+would incur roughly $604,456.25 in additional labor costs:
+
+              (CSI) 6,262 hours x $52.00 = $325,624.00
+              (CSI) 2,081 hours x $26.00 = $54, 106.00
+              (BAE) 2, 725 hours x $73.50 = $200,287.50
+              (BAE) 664 hours x $36.75 =     $24,438.75
+                                            $604,456.25
+
+
+                                           27
+As the discussion which follows will show, the amounts BAE and CSI are entitled to
+can be determined on an actual cost basis from the contemporaneous records such as
+timesheets and material invoices kept. The calculations above nonetheless provide
+some comparison to see if the actual labor hours BAE/CSI ultimately claimed for all
+19 CFRs are reasonable.
+
+       123. On the piping-related CFRs, CSI estimated $160,692.80 worth of
+additional materials would be required:
+
+                        CFRNo.       CSI's Estimated
+                                       Additional
+                                     Material Costs
+                           155              $2,462.60
+                           196              $1,395.80
+                           203              ($862.19)
+                           204              $3,210.40
+                           209              $2, 110.50
+                           211              $5,061.00
+                           212            $16,650.74
+                           213              $3,374.10
+                           223           $108,020.55
+                           319
+                           166             $2,833.00
+                           173             $8,078.00
+                           224             $1,360.00
+                           220             $2,750.00
+                           225               $426.00
+                           226             $3,541.70
+                           231             $220.00 14
+                           238             $1,251.00
+                          260                $160.00
+                       Total             $162,043.20
+
+CSI's estimated material costs (not including freight or shipping (see, e.g., CFR
+Nos. 173, 212) and sales tax in some cases) provide us with some measure of whether
+its material costs ultimately incurred are reasonable.
+
+
+14
+     As the CO later discovered in 2014, this amount for material for CFR No. 231 had been
+        paid as a part of Modification No. 9of25 August 2007 (R4, tab 94 at 3, at 9of13)
+
+                                          28
+       124. On 15 of the 19 CFRs above, CSI projected that 619 man days of per
+diem costs or $49,520.00 (619 man days x $80.00) would be necessary to perform the
+additional piping work:
+
+                   CFRNo.          Projected Man       Projected Per
+                                   Days of Per         Diem Costs
+                                   Diem
+                   155                     20                $1,600.00
+                   196                     10                  $800.00
+                   203                     10                  $800.00
+                   204                     23                $1,840.00
+                   209                     20                $1,600.00
+                   211                     32                $2,560.00
+                   212                     74                $5,920.00
+                   213                     16                $1,280.00
+                   223                    373               $29,840.00
+                   319                   None                        0
+                   166                      2                  $160.00
+                   173                     10                  $800.00
+                   224                      7                  $560.00
+                   220                   None                        0
+                   225                     20                $1,600.00
+                   226                      1                   $80.00
+                   231                   None                        0
+                   238                   None                        0
+                   260                      1                   $80.00
+                   Total                  619               $49,520.00
+
+       125. With all of the CFRs being submitted, and with her inability to visualize
+what had been found from her East Coast office in Virginia, CO Panton decided she
+"needed a firsthand look" (tr. 3/212). On 27 and 28 June 2007, CO Panton and her
+attorney visited BAE's shipyard in San Francisco. CSI's Mr. Brown led a
+walk-through with drawings in hand. He showed CO Panton all of the piping not
+shown on the contract drawings so that she could see exactly what had to be done.
+The walk-through took "a significant portion of the day." (Tr. 2/236-37)
+
+       126. CO Panton testified that, as a result of the walk-through, she "got a much,
+much clearer understanding of the magnitude of what they [BAE/CSI] were talking
+about." She acknowledged that, before the visit, she did not have a complete
+understanding of the changes in the piping system. (Tr. 3/212) She testified that after the
+bulkheads were removed, BAE/CSI expected to see the piping "come straight down" but
+"the piping ... would go to here to here to here to here and then down. It was ... a bit of a
+
+
+                                            29
+mess." (Tr. 3/213) She testified after seeing the problems BAE and CSI were having, she
+realized "how poor our drawings really were" (tr. 4/83). BAE's Mr. Bain testified he
+understood the CO would go back and "look at everything ... [and] would be acting on the
+changes" (tr. 2/51 ).
+
+        127. Mr. Brown testified when he discovered all of the piping not shown on the
+drawings when the bulkheads and partitions were removed, he showed them to Ship
+Surveyor Large who was "onboard every day" (tr. 2/235). Mr. Brown testified he was
+told that the CO would "look into it and get back to us" (tr. 2/237). He testified
+normally he would send a CFR through the prime contractor and negotiate an agreed
+price before proceeding with the work (tr. 2/228). That did not occur on the
+piping-related CFRs and BAE/CSI proceeded with the work nonetheless (tr. 2/229). It
+is undisputed that CO Panton did not attempt to negotiate or settle on any of the
+19 CFRs in dispute before BAE completed all of the work replacing the P/W, A/C and
+Drain Piping Systems on the vessel (tr. 41135-36).
+
+        128. During a telephone discussion held on 6 July 2007 between Mr. Bain and
+CO Panton, they "agreed on a contract extension date of 8/23/07 based on additional
+growth work for the PWAC and Gray water piping system" 15 (R4, tab 76 at 3 of 4).
+We find that by 6 July 2007, BAE had submitted all but one of its piping-related
+CFRs. We find the CO knew from the CORSs BAE submitted along with the CFRs
+that it would require OT and charge OT differential to assist CSI to complete the
+piping-related CFRs. We find that up to 6 July 2007, the CO knew that BAE had
+worked OT. We find the CO knew that BAE did not interpret the fully burdened rate
+provision to preclude it from claiming OT differentials on unsettled changed work.
+We find that, with full knowledge of BAE's interpretation of that provision, the CO
+did not address or object to OT charges but entered into an agreement with BAE to
+extend the contract. There is no evidence that BAE agreed to the 27-day extension
+(from 27 July to 23 August 2007) without charging extra for overtime.
+
+        129. BAE advised CO Panton by letter dated 12 July 2007 that its
+subcontractor CSI "will be unable to continue with additional growth work" on the
+P/W, A/C and Gray Water Piping Systems without settlement of the outstanding
+CFRs. The letter said the government had so far failed to negotiate and settle the
+additional growth work associated with the piping systems and asked the government
+to take immediate action to negotiate and settle the CFR growth work or to issue
+
+15
+     The parties' 6 July 2007 oral agreement was subsequently incorporated along with
+        other additional work into Modification No. 6. Although that modification was
+        issued unilaterally and the parties disagreed on the equitable adjustment relating
+        to the cloverleaf replacement, there is no disagreement relating to the 27-day
+        extension to complete the additional P/W, A/C and Drain Piping Systems
+        replacement work.
+
+                                            30
+unilateral direction to proceed with the CFRs submitted. To expedite negotiations,
+BAE provided copies of CSI's material invoices through 24 June 2007. (R4, tab 63)
+CSI was running out of money because it planned to work on what it originally
+estimated and not on what it actually encountered (tr. 2/51).
+
+       130. CO Panton, who was in Japan, replied by email dated 11 July 2007, that she
+was working on the invoices and "there seems to be a discrepancy between what you show
+as actuals and what you have purchased." She said that she could not come up with a
+bottom line offer until she had all the invoices. She then reminded BAE that, "[a]s
+previously agreed, the revised completion date for redelivery of the vessel is 23 Aug 07."
+She directed BAE to "proceed diligently with the work," to "complete performance," and
+she was leaving "management of your subcontractor. .. to your capable hands." (R4, tab 62)
+
+        131. Without meaningful technical input from Ship Surveyor Large and others
+at Fort Eustis, we find CO Panton was simply not in a position to intelligently
+negotiate any piping-related CFRs. CO Panton testified that, until she heard
+Mr. Brown testify at the hearing, she was not aware that due to volatility of the market
+in 2007, material prices could vary between the time they were quoted and the time
+they were invoiced (tr. 3/248-49).
+
+        132. Unable to settle the CFRs with the government, BAE issued five purchase
+orders and advanced $350,000.00 to CSI so that it could continue to work to complete
+installation of the P/W, A/C and Gray Water Piping Systems (tr. 2/52). The purchase
+orders noted they were issued pending government settlement of the P/W, A/C and
+Gray Water Piping Systems:
+
+             PIO       Invoice No.    Invoice Date       Amount
+          S-75238      98370                 713107    $100,000.00
+          S-75239      98373                7/20/07     $62,500.00
+          S-75240      98378                7/27 /07    $62,500.00
+          S-75235      98384                 8/1/07     $62,500.00
+          S-77254      98409                 915107     $62,500.00
+                                                       $350,000.00
+
+(R4, tab 105 at 17-30) We find BAE conditionally advanced the payments to enable
+CSI to continue with the expectation that it would ultimately recover the additional
+costs, believed to exceed the $350,000.00, from the government.
+
+       133. On 19 July 2007, CO Panton issued unilateral Modification No. 6. The
+modification required four items of additional work none of which related to the PW,
+AIC and Drain Piping Systems replacement work. These additional items were funded
+through the cancellation of DO No. 2 Work Items. Paragraph c. of the modification
+dealt with the time extension for, but not the costs of, the additional piping work:
+
+                                           31
+                      c. The period of performance is extended
+              twenty-seven (27) calendar days as agreed during our
+              meeting on 28 Jun 07 and e-mail dated 6 Jul 07 due to
+              additional piping repairs. All work, including trials and
+              tests, shall be completed by the revised completion date.
+              The revised period of performance is 30 Mar 07 through
+              23 Aug 07, a period of one hundred forty-seven (147)
+              calendar days.
+
+(R4, tab 72 at 2)
+
+        134. BAE's copper/nickel piping replacement work was "100% complete" and
+accepted by the government on 25 August 2007 (tr. 2/224-25; R4, tab 139 at subtab 12).
+Up through the completion of the LSV-5, BAE and CSI never received any adjustments
+for the additional piping work and piping related work they performed (tr. 2/82).
+
+        135. Two months after the completion of the overhaul, BAE by email dated
+10 October 2007 to the CO sought reimbursement of $1,546,63 5.46 for outstanding
+work items including: (1) Additional ABS (American Bureau of Shipping) Cost
+($16,214.00); (2) Additional P/W/ A/C Ovbd Drains ($1,069,715.36); (3) Contract
+Extension ($121,170.00); (4) Items Government Direction to Proceed ($339,536.15)
+(R4, tab 97 at 1). BAE sought an equitable adjustment for 22 piping-related CFRs:
+CFRNos. 155, 166, 193, 196,203,204,209,211,212,213, 166, 173,213,220,223,
+224, 225, 226, 231, 238, 260 and 319 (id. at 3). The correct number of CFRs should
+be 19. CFR No. 193 was incorrectly listed, and CFR Nos. 213 and 166 were listed
+twice. In comparing BAE's request for reimbursement on the CFRs (R4, tab 97 at 3
+of 5) with the CFR proposals it submitted in May, June and July, 2007 (finding 121 ),
+we find BAE's piping-related CFR requests for reimbursement were based on its
+initial CFR estimates.
+
+        136. CO Panton's 29 November 2007 letter corrected the errors she found on
+CFR Nos. 166, 193 and 213. She adjusted BAE's piping claims to $978,058.20. She
+highlighted the discrepancies she found between the invoices CSI paid and the prices
+stated on its estimate. For example, on CFR No. 166, she found CSI quoted the 1114
+gate valves at $385.00 but found CSI paid an average of $342.00 for the nine valves
+purchased. On the% inch gate valves, she found CSI quoted $242.00 but paid
+$209.00. And, she found the Check Valve was quoted at $265.00 but CSI paid
+$159.00. Contending that "materials are to be charged at cost," the CO said "this
+continuing issue has slowed down the analysis." (R4, tab 98 at 2of3)
+
+     137. BAE's 10 December 2007 response corrected the errors associated with
+BAE Nos. 193, 213, 166 and 231 by deducting amounts for those CFRs. BAE added
+
+
+                                          32
+$3,227.15 to CFR No. 231 and arrived at its final price of$994,324.97. BAE explained
+that the minor discrepancies in material prices were due to the fact that "the material
+pricing provided to the Army were estimates" provided by subcontractors and vendors.
+BAE also explained that "the invoices that the Army has received do not show the 8%
+sales tax that CSI had to pay for all of the materials," and "[t]he material supplier totaled
+this tax and a bill was provided prior to settling the final bill for all of the material
+provide[ d] to CSI for the job." (R4, tab 99 at 2 of 8) The record shows Tork Systems
+invoiced CSI $11,087.75 on 28 September 2007 for 8.50% sales tax not previously
+included when materials CSI purchased were billed (app. supp. R4, tab 500).
+
+        138. In July 2009, BAE and CSI entered into "AGREEMENT CONCERNING
+PROSECUTION OF CLAIMS." Paragraph 2 of the agreement provided that
+"[BAE's] liability to Subcontractor [CSI] on this claim is contingent on [BAE's]
+recovery from the Government in respect to [CSI's] claim and shall not exceed the
+amount of any such recovery." (App. supp. R4, tab 506, encl. (1)). A spreadsheet
+enclosed with BAE's 29 June 2009 letter transmitting the agreement showed CSI's
+claim on the 19 CFRs totaled $634,802.20. With the initial subcontract between BAE
+and CSI for Item No. 2062 for $150,049.00, this meant CSI was due $784,851.20
+($150,049.00 + $634,802.20). The spreadsheet also showed that, with $150,049.00
+paid for Item No. 2062 and with $350,000.00 paid as "REA Total Partial Advance
+Payments," CSI would be due from BAE a balance of $284,802.20 ifBAE prevailed
+on all of its CFR claims:
+
+         CSI's Claim for 19 CFRs                               $634,802.20
+         BAE/CSI Subcontract Amount                            $150,049.00
+         Amount Due CSI                                        $784,851.20
+         Amount Paid                                         ($150,049 .00)
+         Partial Total Amount Advanced & Paid                ($350,000.00)
+         Amount Due CSI if Prevailed on All 19 CFRs            $284,802.20
+
+(App. supp. R4, tab 506 at enclosure (2)) We find the agreement provided that BAE
+would prosecute CSI's piping claim and BAE would be liable to CSI for the amount
+BAE recovered from the government.
+
+       139. We have compared the amount CSI estimated versus the amount claimed
+for each CFR. Except for CFR No. 203 for which CSI estimated $8,295.31 but
+claimed $1,945.81, or $6,349.50 less, CSl's claim was based upon what it estimated:
+
+
+                                            33
+              CFRNo.       As Estimated              As Claimed
+                                                   (App. supp. R4,
+                                                  tab 506, encl. (2))
+            155               $16,504.60                  $16,504.60
+            196                $8,123.80                   $8,123.80
+            203                $8,295.31                   $1,945.81
+            204               $19,428.40                  $19,428.40
+            209               $15,904.50                  $15,904.50
+            211               $27,017.00                  $27,017.00
+            212               $67,876.74                  $67,876.74
+            213               $14,352.10                  $14,352.10
+            223              $364,632.55                $364,632.55
+            319               $46,586.00                  $46,586.00
+            166                $3,955.00                   $3,955.00
+            173               $15,016.00                  $15,016.00
+            224                $6,028.00                   $6,028.00
+            220                $2,750.00                   $2,750.00
+            225               $14,142.00                  $14,142.00
+            226                $4,489.70                   $4,489.70
+            231                $2,716.00                   $2,716.00
+            238                $2,446.00                   $2,446.00
+            260                  $888.00                     $888.00
+            Total            $641, 151. 70              $634,802.20
+
+      Request for Equitable Adjustment CREA) No. 7
+
+        140. BAE's 8 July 2009 REA sought $1,684,917.00 for "additional costs
+incurred in accomplishing the subject Programmed and Unprogrammed Drydocking,
+Cleaning, Painting and Repairs to the LSV-5." The REA divided open issues into
+five sections. Section 3 dealt with "Piping Issues, REA 007 for Piping Fittings and
+Valves." (R4, tab 103 at 3)
+
+       141. REA No.7 summarized the causes of its piping claim: During ship check
+for bidding purposes, BAE was unable to determine the piping and fittings required to
+replace the existing piping system because the ceilings and bulkhead panels were in
+place. In addition, in spaces where the piping was exposed, the lack of markings made
+it impossible to trace the piping to the specification Work Item. BAE had to rely on
+the drawings provided by the government to "produce the cost estimate for its bid."
+When BAE removed the panels during performance, it discovered that the government
+furnished drawings were "grossly in error." BAE reported its findings to the
+government by way of CFRs. (R4, tab 105 at 2)
+
+
+                                             34
+        142. BAE alleged that it found 3,257 feet of piping were required to
+accomplish the piping replacement work when the contract drawings showed 682 feet
+of piping was required. Similarly, 1,873 fittings were allegedly required when the
+drawings showed 399 fittings were required. BAE contended that it had to "remove
+and install an additional 2,575 feet [an increase of 478%] of piping and 1,474 fittings
+[an increase of 469%] over and above the bid estimate." It contended that it
+encountered numerous interferences in removing and reinstalling pipes. It contended
+that the government directed it to replace all of the valves in the pipe runs when the
+CFRs reported they were plugged or deteriorated. (R4, tab 105 at 2) Attached to REA
+No. 7 was CSI's Invoice No. 98310 dated 21 March 2007 for $77,650.20 to BAE. CSI
+billed BAE this amount as "deposit ... to order material," under its contract (Purchase
+Order S-75178 LSV5) with BAE to perform the original piping work. (R4, tab 105
+at 11) We find that based upon the Moss Point Marine drawings CSI estimated
+$77,650.20 in materials would be required to perform Item No. 2062 piping work.
+
+       143. BAE's REA No. 7 went on to explain that the massive increase in piping
+work requiring more than a 450% increase in materials and its attempt to maintain its
+schedule resulted in a variation in material prices for the same parts. Because material
+demands exceeded what suppliers had in stock, they had to rush to procure the
+materials from vendors and to have deliveries expedited. Also, the massive amount of
+added work required CSI personnel to remain in San Francisco longer, thus incurring
+overtime labor hours and additional per diem costs. (R4, tab 105 at 3)
+
+       144. BAE's REA maintained that:
+
+             No costs are duplicated between the base estimate and the
+             new work, and the pricing method for the new work is the
+             same as for the base work (i.e., based upon the material
+             cost and increased labor to remove, prepare, fit, run and
+             weld the increased footage of pipe, fittings and install 143
+             new valves).
+
+BAE also explained that the fire watch labor costs were for the new work only and do
+not overlap the fire watch costs for the base work. (R4, tab 105 at 3)
+
+       145. Attached to REA No. 7 were BAE's CORS for the "2062 Piping Systems"
+and a spreadsheet for Item 2062. They summarized the elements of its request as follows:
+
+
+                                          35
+                       Cost Element                      Amount
+
+               2,725 ST hours@ $73.50                  $200,288.00
+               527 OT differential@ $36.75             $ 19,391.00 16
+               Materials                               $ 5,436.00
+               Subcontractor (CSI)                     $634,802.00
+               G&A@8.82%                               $ 56,661.00
+               Profit@ 10%                             $ 69,690.00
+               TOTAL                                   $986,268.00
+
+(R4, tab 105 at 7-8)
+
+       146. CO Panton responded to BAE's 8 July 2009 REA by letter dated 30 March
+2010. With respect to REA No. 7, "Piping, Fittings and Valves," she said "The Army
+agrees with BAE that the specifications did not disclose the amount of materials needed.
+Once the panels were removed, conditions found by BAE were not in accordance with the
+drawings. The only issue left to be resolved is quantum." (R4, tab 109 at 4of7)
+
+       14 7. In providing an equitable adjustment for REA No. 7, CO Panton used the
+"benefit-of-the-bargain" approach: She noted in BAE's July 2009 submission, CSI
+expected to spend approximately $77,650.20 of its $150,049.00 contract with BAE on
+materials. Based on her finding that CSI substantiated spending $162,482.40 on
+materials, or about 2.1 times the expected material amount of $77,650.20, CO Panton
+allowed an equitable adjustment of $449,703.00, or roughly 2.1 times the $214,913.23
+amount BAE bid for Item 2062. From this offer of $449,703.00, CO Panton said "the
+Army would need to subtract any amount already paid for this line item." (R4, tab 109
+at 4-5of7) Rounding up from $234,789.77, she offered BAE an equitable adjustment
+of$235,000.00 ($449,703.00 - $214,913.23 = $234,789.77) for REA No. 7. Her letter
+said "Other than using the material amounts, the only other way this portion of the
+claim could be settled would be through an audit" (id. at 5 of 7).
+
+       148. CO Panton gave the following reasons for resorting to her 2.1 times
+material approach in providing equitable adjustment for REA No. 7:
+
+               Based on your REA documentation, and invoices
+               previously submitted from Custom Ship Interiors, your
+               claim lacks substantiation. What you have not provided is
+               any type of contemporaneous accounting that shows the
+               hours were spent for the claimed Item. Where are the
+
+16
+     The 527 OT differential multiplied by $36.75 yields $19,367.25 not $19,391.00.
+        This minor computational error does not affect the ultimate outcome of the
+        appeals.
+
+                                           36
+              workload documentation and material receipts? Where are
+              the time cards? The invoices from CSI are misleading as it
+              appears you have submitted paid invoices along with
+              speculative invoices, all intermingled. You show a
+              subcontractor total of $634,802; however, the "invoices"
+              totaled $500,049.00. Without substantiation, you have not
+              carried the burden of proving the amount of your request
+              for equitable adjustment.
+
+(R4, tab 109 at 5 of 7)
+
+         149. BAE's 3 June 2010 letter provided a point-by-point response to CO Panton's
+30 March 2010 letter. BAE asked CO Panton to stop using "prior Piping and Valve
+Fitting documents" to evaluate its REA because those documents were superseded by the
+documents contained in its 8 July 2009 REA. BAE questioned the logic of the CO's
+approach in analyzing its request. BAE said the government was approaching REA No. 7
+as if it were a total cost claim which it was not. (R4, tab 113 at 1-2)
+
+         150. On BAE's labor hours in support of CSI, BAE's letter said that it had
+reviewed the original estimate as compared to its Job Labor Status Report. BAE stated
+that it collected the labor hours in support of the added piping work CSI had to do in
+two accounts: Work Item 2062 and Work Item 3000. BAE said that it determined
+"Work Item 2062 incurred 520 hours and work item 3000 incurred 1,331 hours for a
+total of 1,851 hours" and it was therefore reducing its labor hours claimed from 2,215
+hours to 1,851 hours consisting of 1,572 regular hours and 279 overtime hours. BAE
+attached its Job Labor Status Reports in support. (R4, tab 113 at 2)
+
+        151. On its material costs in support of CSI' s additional piping work, BAE said
+it had reviewed its original material estimates versus its Material Status Report. BAE
+stated it collected its material costs in two internal accounts: Work Item 2062 and
+Work Item No. 3000. Based on its review, BAE said Work Item 2062 collected
+$430.00 in material costs and Work Item 3000 collected $2,694.00 in material costs.
+Based on its review, BAE said it would reduce its material costs from its estimated
+amount of$5,436.00 down to $3,124.00. BAE attached its Material Status Reports.
+Albeit not organized by CFR, BAE also attached numerous material invoices from CSL
+(R4, tab 113 at 2, 6-272)
+
+       152. On subcontractor (CSI) costs, BAE's letter said it also collected the costs
+in two accounts: BAE stated Work Item 2062 showed BAE incurred $150,049 for the
+basic work and $287,500 for REA No. 7, and Work Item 3000 showed BAE incurred
+$62,500 for REA No. 7. BAE said it incurred $350,000.00 ($287,500 + $62,500.00)
+which it had advanced "for the Army's account. .. as shown in the attached MSRs,
+
+
+                                          37
+Purchase Orders, Invoices and Checks." BAE said that "CSI's subcontract value of
+the REA still remains at $634,802." (R4, tab 113 at 2)
+
+         153. On CSI's labor, BAE provided a summary showing CSI spent 7,202 regular
+hours and 3,451.5 OT hours on REA No. 7 work. The summary included 3, 178 regular
+hours and 1,217 OT hours from CSI's subcontractor, World Wide Labor, Inc. Adding
+all of the hours, BAE said CSI's total labor hours consisted of 10,380 regular hours and
+4,668.50 OT hours for a grand total of 15,048.5 hours. (R4, tab 113 at 2)
+
+       154. CSI' s labor hour summary was supported by its "LSV5/Copper Nick[ el]
+Piping Job Time Sheet":
+
+        Week Ending       ST Hours     OT Differential         Total
+                                          Hours
+       4-13-07                    96                24                120
+       4-20-07                   176                86                262
+       4-27-07                   240               140                380
+       5-4-07                    280               130                410
+       5-10-07                   240               120                360
+       5-18-07                   276               118                394
+       5-25-07                   352             166.5              518.5
+       6-1-07                    360               149                509
+       6-8-07                    296               134                430
+       6-15-07                   509               226                735
+       6-22-07                   560               282                842
+       6-29-07                   576               274                850
+       7-6-07                    446               210                656
+       7-13-07                   432               208                640
+       7-20-07                   432               208                640
+       7-27-07                   424               196                620
+       8-3-07                    416               208               624
+       8-10-07                   432               268                700
+       8-17-07                   352               147               499
+       8-23-07                   187                76               263
+       8-31-07                   120                81               201
+       Total                   7,202          3,451.50          10,653.50
+
+(R4, tab 113 at 84-104)
+
+       155. Since CSI did not submit the first of its piping-related CFRs stemming
+from defective contract drawings until 14 May 2007 (see CFR Nos. 155, 166, 173), it
+could not have been working on CFR-related work prior to that date. We therefore
+
+
+                                          38
+disallow 1,032 ST hours and 500 OT differential ofCSI's labor hours claimed. We
+also disallow 120 ST hours and 81 OT differential claimed for the week ending
+31 August 2007 because the work on the vessel was completed on 25 August 2007:
+
+        Week Ending      ST Hours       OT Differential       Total
+                                           Hours
+       4-13-07                   96                  24              120
+       4-20-07                  176                   86             262
+       4-27-07                  240                 140              380
+       5-4-07                   280                 130              410
+       5-10-07                  240                 120              360
+       8-31-07                  120                   81             201
+       Total                  1,152                 581            1,733
+
+In other words, we find that CSI incurred 6,050 ST hours (7,202 hours - 1,032 hours -
+120 hours) and 2,870.50 OT differential hours (3,451.50 hours - 500 hours - 81 hours)
+performing additional piping work.
+
+       156. At the CO's request, BAE by email on 13 July 2010 provided World
+Wide Labor's time sheets (R4, tab 114 at 1-16of19). BAE did not submit World
+Wide Labor's timesheet for the week ending 8 July 2007 at the time (see R4, tab 114
+at 4-16 of 19). Apparently, DCAA saw the time sheet during its audit and found
+World Wide Labor charged 240 ST and 80 OT differential that week. This would
+increase the labor hours BAE claimed for World Wide Labor from 3, 178 to 3,418 ST
+hours and OT hours from 1,217 to 1,297 hours. DCAA' s worksheet (R4, tab 140,
+subtab D5 at 1) shows World Wide Labor was paid $194,454.45 for its labor:
+
+          Week Ending      ST Hours      OT Differential     Labor Cost
+                                            Hours
+          5-13-07                 140                  30        $6,716.70
+          5-20-07                 123                 40         $6,587.24
+          6-3-07                  190                  50        $9,420.21
+          6-10-07                 440                100        $21,533.10
+          6-17-07                 400                170        $23,458.90
+          6-24-07                 366                176        $22,411.60
+          7-1-07                  235                  54       $11,455.62
+          7-8-07                  240                 80        $12,935.20
+          7-15-07                 330                160        $20,709.80
+          7-22-07                 280                137        $17,883.59
+          7-29-07                 370                130        $20,770.21
+          8-5-07                  295                170        $20,236.40
+          8-19-07                   9                   0          $335.88
+
+
+                                          39
+         I Total                 3,418 I              1,297 I    $194,454.45 I
+
+In reviewing World Wide Labor's labor costs, DCAA auditor's work papers
+commented "The claimed hours reconcile to the claim. WWL appears to be internally
+consistent. Claimed costs appear to be reasonable." (R4, tab 140, subtab DlO) We
+disallow 140 ST and 30 OT differential hours worked during the week ending 13 May
+2007 because World Wide Labor could not have been performing additional
+piping-related CFR work before 14 May 2007. We allow $187,737.75 ($194,454.45 -
+$6,716.70) as a part of CSI's labor cost paid to the second tier contractor World Wide
+Labor, in performing some of the additional piping work.
+
+       157. On CSI materials, BAE provided a summary with back up documents
+consisting of invoices of "actual cost to CSI with no overhead or profit added" totaling
+$159,781.74 (R4, tab 113 at 105-272).
+
+        158. Lastly, BAE's 3 June 2010 response (finding 149) explained that it
+entered into a subcontract with CSI to perform the basic Work Item 2062 P/W, A/C
+and Drain Piping replacement work for $172,556.00, and CSI subsequently agreed to
+reduce the amount by $22,507.00 to $150,049.00. BAE explained that as work
+progressed and as the nature and extent of the piping work emerged, it acted quickly
+on behalf of the government and paid CSI $100,000.00 and four $62,500.00 payments
+totaling $350,000.00 to enable CSI to "make payroll and remain solvent" while
+performing a massive amount of additional piping work. BAE stated it "has not
+received any payment for this REA from the Army even though we have already
+incurred and paid CSI $350,000 against their total costs of $634,802." (R4, tab 113
+at 3)
+
+       159. As of its 3 June 2010 response, BAE sought $903,973.00 for REA No. 7:
+
+              1,851 hours@ $73.50                       $136,049.00
+              279 hours at OT differential@ $36.75      $ 10,253.00
+              Materials                                 $ 3,124.00
+              Subcontractor (CSI)                       $634,802.00
+              G&A@8.82%                                 $ 56,265.00
+              Profit on Subcontract @ 10%               $ 63,480.00
+                     Total                              $903,973.00
+
+(R4, tab 113 at 3)
+
+        160. Almost four years after completion of the LSV-5 overhaul, BAE's general
+manager, Hugh Vanderspek, by letter dated 6 July 2011, converted REA No. 7 into a
+certified claim for $903,973.00. The letter demanded payment or the CO's decision.
+(R4, tab 120) The letter summarized the bases of the claim: The Moss Point Marine
+
+
+                                           40
+Drawings P-3 and P-13 issued as Item C.YY. and awarded as Item C.62 for replacing
+LSV-5's P/W, A/C and Drain Piping Systems were "essentially schematics." The
+drawings provided no dimensions for the piping and material requirements were stated as
+"AIR" (as required). From the drawings, BAE's piping subcontractor CSI understood it
+needed to replace 682 feet of piping and 399 fittings. As it turned out, CSI was required
+to replace 3,257 feet of piping and 1,873 fittings. During the course of performance in
+May, June, and July 2007, CSI submitted 19 CFRs providing detailed schedules which
+compared "the quantities anticipated based on the drawings and the actual installed
+quantities." BAE promptly submitted CSI's CFR estimates for additional labor and
+materials along with BAE's CORS for additional (BAE) labor, materials, G&A and profit
+to the government. And, although the government "acknowledged that additional piping
+work was done," it never compensated BAE even though the REA supplement provided
+"labor hour records of both CSI and BAESFSR as well as voluminous CSI material cost
+records." BAE's letter reiterated that its claimed amount for REA No. 7 was $903,973.
+(Id. at 1-2 of 8)
+
+       BAE's Accounting System
+
+        161. For management and recordkeeping purposes, BAE maintains what it refers
+to as a "job cost accounting system" (tr. 1/90). This accounting system applies to every
+job on the shipyard, whether commercial or government work (tr. 1/91). Fundamentally,
+BAE's job order accounting system has two sides: On the labor side, the system
+"collect[ s] hours that are worked by the employees that are charged to various projects and
+items." On the material side, purchase orders are filled out and approved, and "material
+costs to be charged to various projects and items" are collected. (Tr. 1190)
+
+        162. Under BAE's accounting system, a time sheet was filled out daily by
+supervisors for each hourly employee and was submitted daily to the payroll
+department for entry into BAE's computer system (tr. 1192, 94). The time sheets
+served two purposes: (1) "for the employees [to] get paid"; and (2) "for the hours to
+be allocated to the correct project and item number that [the employees were] working
+on" (tr. 1/92). The supervisors entered the hours on the timesheets; they also
+determined the job and the item "to which each employee's time [was] attributable"
+(tr. 1193). Timesheet information was entered into BAE's computer system by BAE's
+payroll supervisor (tr. 1194). Because BAE's employee time sheets were filled out
+daily by supervisors who reported to management and not by the hourly employees
+themselves, we find BAE's Job Labor Status Reports - based on the timesheet data
+entered daily into BAE' s computer system - an accurate record of the labor hours
+BAE employees spent on any work item.
+
+        163. BAE's Job Order Accounting System produced Job Order Status Reports
+(see, e.g., R4, tab 112 at 4). A Job Order Status Report showed "the number of hours
+on a particular project" (tr. 1195). The Job Order Status Report for the piping-related
+
+
+                                           41
+CFRs was assigned account number 43631.3002 (Account 3002). The first number -
+43631 - designated the vessel involved. The second number - 3002 - designated the
+"subproject," in this case the additional work on the P/W, A/C and Drain Piping
+Systems replacement. The Job Order Status Reports were the products of the same
+computer system in which BAE employee time sheets were entered. (Tr. 1/68, 95-96)
+The base contract Item No. 2062, "Potable Water and Air Conditioning Drain Piping
+Systems Replacement for LSV-5" was assigned Account 2062 (R4, tab 169 at 4).
+BAE's work to "ASSIST CSI W/ITEM 2062" was charged to Account 3000 (id.).
+
+        164. BAE's Job Cost Accounting System was capable of producing Labor
+Distribution Reports. The Labor Distribution Report BAE submitted in support of its
+claim summarized by labor category, by trade and by date, the ST and OT hours each
+BAE hourly employee worked and charged to specific accounts such as Account 3000
+established for the additional piping work. (R4, tab 139, subtab 56 at 1-43) Subject to
+judgmental errors such as charging labor hours after the vessel was completed, we find
+BAE's Labor Distribution Report the most reliable source, by far, for determining the
+additional labor hours BAE incurred in assisting CSI in accomplishing the CFR work.
+
+      165. Account 3000 was established to collect the ST and OT labor hours
+BAE's trades incurred in assisting CSI in accomplishing the additional CFR work.
+Account 3000 showed:
+
+ Labor Category          Trade              ST/OT Hours      After 8/25/07 Hours
+ 405              SHIPFITTERS                      89.00               8 (8/27/07)
+ 411              WHSE/TOOLROOM                   188.00
+ 404              RIGGERS                          88.50                8 (8/27 /07)
+ 412              CARPENTERS                       32.00
+ 414              CRANE                            70.00                4 (8/27/07)
+ 402              PAINT                            56.00
+ 407              ELECTRICAL                       99.00                4 (8/27/07)
+ 415              SHEETMETAL                       28.00
+ 418              LAGGERS                         282.50
+ 460              PURCHASING                       11.00            4 (8/28-30/07)
+ 406              PIPEFITTER                      112.00          6 (8/28-9/12/07)
+ 401              TRANSPORTATION                   20.00            8 (8/27-28/07)
+ 409              FACILITIES                        6.00            4 (8/27-28/07)
+ 405-0T           SHIPFITTERS                      29.50
+ 411-0T           WHSE/TOOLROOM                    32.75
+ 402-0T           PAINT                             5.00
+ 418-0T           LAGGERS                         112.00
+ 406-0T           PIPEFITTERS                      34.00
+ 407-0T           ELECTRICAL                       19.00               18 (8/26/07)
+
+
+                                          42
+ 414-0T            CRANE                              13.00             8 (8/26/07)
+ 404-0T            RIGGERS                             4.00             4 (8/26/07)
+                        TOTAL                   1,331.25          46 ST+ 30 OT
+
+(R4, tab 139, subtab 56 at 1-12) From the table above, we find that BAE charged
+1,331.25 hours to Account 3000 assisting CSI in removing the existing P/W, A/C and
+Drain Water Systems and replacing them with the new copper/nickel piping systems
+and other piping-related work. Of the 1,331.25 hours, 1,082 were ST hours and
+249 .25 were OT differential hours.
+
+        166. Of the 1,082 ST hours, we find 46 ST hours not chargeable to Account 3000
+because they were incurred after the vessel was 100% compete on 25 August 2007. For
+the same reason, we find 30 OT differential hours not chargeable to Account 3000. This
+left 1,036 ST hours and 219.25 OT differential hours chargeable to Account 3000.
+
+         167. Even though the trades involved encompassed more than the seven trades
+(rigging, crane services, staging, electrical, ventilation, fire watches and cleaners) BAE
+initially agreed to furnish to assist CSI (see R4, tab 105 at 56), we find other BAE
+trades were required based upon the conditions of the pipes actually found and the new
+pipes needed to be installed. We find Ship Surveyor Large and the CO knew what
+trades BAE had to furnish based upon the CORS it provided with each CFR.
+
+       168. Account 2062 ofBAE's Labor Distribution Report showed the following
+labor categories were used and the following ST and OT labor hours were incurred for
+the base contract piping work:
+
+              Labor Category            Trade                 ST/OT Hours
+              460                 PURCHASING                          1.00
+              401                 TRANSPORTATION                      3.00
+              407                 ELECTRICAL                         12.00
+              411                 WHSE/TOOLROOM                       5.00
+              412                 CARPENTERS                         64.50
+              409                 FACILITIES                          1.00
+              410                 LABORERS                          320.00
+              415                 SHEETMETAL                         25.00
+              402                 PAINT                              58.50
+              402-0T              PAINT                              29.00
+              410-0T              LABORERS                            0.50
+                                       TOTAL                        519.50
+
+(R4, tab 139, subtab 56 at 13-16) We find BAE charged to Account 2062 519.50
+hours of which 29.50 hours were OT hours. Having established Account 3000
+
+
+                                           43
+specifically to collect hours to assist CSI in performing the additional piping-related
+work, any such work should not have been charged to Account 2062. We find to the
+extent BAE performed base contract Item No. 2062 work, it collected hours in that
+account. We find the 519.50 ST/OT hours were charged to Account 2062 as a part of
+the original DO No. 2 work, and therefore are not recoverable.
+
+       169. To purchase material, a purchase order was also filled out by a supervisor.
+The project/item description number (e.g., Accounts 2062, 3000) was entered in the
+description box (see R4, tab 112 at 37; tr. 11103). The PO was then entered into
+BAE's computer system by a purchasing employee (tr. 11103). The material
+procurement would then be entered into BAE's Material Status Report (R4, tab 112
+at 5). BAE's Material Status Report for Account 3000 showed that it incurred
+$2,694.39 (R4, tab 113 at 46-48). We allow this amount.
+
+       170. We find that BAE had a structured and reliable cost accounting system in
+place for collecting and allocating actual incurred labor and material costs for changed
+work. BAE did not, however, charge labor and materials to each individual CFR.
+Although it would have been easier for all concerned if BAE had established a separate
+charge account for each CFR, we find it was not unreasonable for BAE to establish
+one separate account - Account 3000 - to collect all the hours relating to the additional
+piping-related CFR work since the work all stemmed from one contract line item -
+Item No. 2062.
+
+       Defense Contract Audit Agency (DCAA) Audit
+
+         171. The DCAA conducted an audit and issued a report - Audit Report
+No. 4281-2012Wl 7200001 - on 31August2012 (the DCAA audit) as requested by
+the CO on 28 October 2011 (R4, tab 129). The audit examined BAE's price
+adjustment proposals under REA No. 6 (cloverleaf replacement) and REA No. 7 (P/W,
+AIC and Drain Piping Systems replacement). The audit report made clear that DCAA
+examined BAE's equitable adjustment claims "to determine ifthe proposed costs are
+acceptable for settlement" assuming that BAE "can demonstrate legal entitlement"
+(id. at 3 of 16). Applying the requirements of Federal Acquisition Regulation (FAR)
+and Defense FAR Supplement (DF ARS), DCAA concluded that BAE had "submitted
+adequate data to support its claim" and the claims were "acceptable ... for negotiation
+of fair and reasonable settlements" (id. at 4 of 16).
+
+             Labor Hours
+
+       172. Of the $903,407 BAE claimed for REA No. 7, $136,049 was for ST labor
+(R4, tab 129 at 5of16). The DCAA took "no exception to the proposed labor cost,
+labor hours and labor rate" for REA No. 7 (id. at 6 of 16). DCAA said it was able to
+reconcile "the proposed labor hours from the claim to the labor distribution report for
+
+
+                                           44
+each REA." The report explained "Employee labor charges were selectively traced to
+the labor distribution report for each REA." (Id. at 6-7 of 16).
+
+               Materials
+
+        173. Of the $903,407 BAE claimed for REA No. 7, $3, 124 was for materials it
+provided in support of CSI's work (R4, tab 129 at 5of16). The audit report said it did
+not review BAE' s proposed $3, 124 claimed for materials "[ d]ue to materiality" since
+"it represented less than 4 percent of total cost[ s]." The DCAA report said it took "no
+exception to the ... REA No. 7 material costs proposed by BAE." (Id. at 7of16)
+
+               Overtime
+
+       174. Overtime was claimed at a differential of $36.75, half of the straight time
+(ST) rate of $73.50. During the audit, William P. Bernacchi ofDCAA by email on
+11 June 2012 asked Rick Brandt, BAE's controller, whether there was any
+documentation authorizing overtime. The email stated: "If not, the contracting
+authority may have to issue one retroactively." 17 (R4, tab 139, subtab 29 at 2)
+
+        175. Mr. Brandt's 12 June 2012 email replied:
+
+               As far as I know, there is no requirement in the LSV-5
+               contract for Government authorization of overtime .... We
+               believe that if O/T was necessary to complete the work
+               within schedule, that it is recoverable.
+
+(R4, tab 139, subtab 29 at 2) Mr. Bernacchi testified that he did not receive from CO Panton
+anything indicating that overtime hours were not appropriate or unallowable (tr. 1/35).
+
+        176. DCAA took no exception to the overtime labor hours claimed for REA
+No. 7 (R4, tab 129 at 10of16). Although BAE acknowledged that overtime had not
+been specifically authorized by the contract, it contended that the government set the
+delivery schedule for REA No. 7 and overtime was required to meet that schedule.
+The audit report said that DCAA was able to reconcile the overtime hours from BAE's
+labor distribution reports to its claim, and BAE subcontractor overtime was included in
+its reconciliation of the CFR. The audit report pointed out that FAR 22-103-4(a-i)
+
+
+17
+     FAR 22.103-4(a) (Jan 2003), Approvals, authorizes overtime to "(I) Meet essential
+       delivery or performance schedules"; and (2) "Make up for delays beyond the
+       control and without the fault or negligence of the contractor." FAR 22.103-4(i)
+       provides "Approvals for using overtime shall ordinarily be prospective, but, if
+       justified by emergency circumstances, approvals may be retroactive."
+
+                                           45
+provided the contracting activities with "alternatives" to "how 'overtime' should be
+settled" (id. at 11 of 16).
+
+              Subcontract Costs
+
+        177. Of the $903,407 BAE claimed for REA No. 7, $634,282 was for
+subcontractor (CSI) costs (R4, tab 129 at 5of16). Of the $634,282, $159,782 was for
+subcontractor material costs, and the rest, $474,500 ($634,282 - $159,782) was for its
+labor (id. at 8 of 16).
+
+        178. With respect to the REA No. 7 subcontractor material costs, the DCAA
+report said:
+
+                    We reviewed and computed a total amount for
+             materials for all CFRs. We also selectively reviewed
+             vendor invoices, provided by CSI, to determine [if] the
+             material costs were actually incurred and/or paid. The
+             vendor invoices and records of payment totaled more than
+             the proposed amount of $159,782.
+
+(R4, tab 129 at 8of16) (Emphasis added)
+
+       179. With respect to CSI's labor, the DCAA report said it was able to reconcile
+the "proposed labor hours to individual employee's timecards." The DCAA however,
+found "twenty hours of overtime proposed that were not recorded." The DCAA
+applied the $26 OT differential rate and questioned $520 (20 hours x $26) of CSI
+subcontractor labor costs claimed. (R4, tab 129 at 8 of 16) BAE chose not to dispute
+the $520 questioned (app. br. at 67). We deduct this amount, together with $46.00 in
+G&A, and $52.00 in profit on this amount (finding 182) from CSI's final recovery.
+
+        180. For CSI's second tier subcontractor, World Wide Labor, the DCAA report
+said it was able to reconcile "total labor hours to employee's timecards completed
+during the period of performance" (R4, tab 129 at 8of16).
+
+             Per Diem Costs
+
+       181. At the hearing, in response to appellant counsel's question whether he
+actually saw support that CSI paid per diem, DCAA auditor Mr. Bernacchi testified "I
+believe so, yes" (tr. 1/65). His audit work papers showed that he computed CSI's per
+diem cost. In comparing Mr. Bernacchi's computation with CSI's original estimates,
+we find the auditor's computation was derived from CSI's CFRs and not from to
+actual payment records:
+
+
+                                          46
+                CFRNo.     LSV No. (CSI        Per Diem
+                             Estimate)         Amount
+               155         LSV-018              $1,600.00
+               196         LSV-024                $800.00
+               203         LSV-025                $800.00
+               204         LSV-019              $1,840.00
+               209         LSV-029              $1,600.00
+               211         LSV-023              $2,560.00
+               212         LSV-031              $5,920.00
+               213         LSV-028              $1,280.00
+               223         LSV-030             $29,840.00
+               319
+               166         LSV-017                $160.00
+               173         LSV-022                $800.00
+               224         LSV-012                $560.00
+               220         LSV-101
+               225         LSV-032              $1,800.00
+               226         LSV-033                 $80.00
+               231         LSV-035
+               238         LSV-036                 $80.00
+               260         LSV-038                 $80.00
+                           LSV-5                $5,680.00
+                           Total               $55,480.00
+
+(R4, tab 140, subtab D5 at 2) CSI has failed to show to which CFR the $5,680 for LSV-5
+pertained. Based on the testimonial and documentary evidence in the record, we find that
+CSI did incur a reasonable number of man days and per diem costs in performing
+additional piping-related CFR work. The evidence does not allow us to determine with
+precision exactly how much was paid. We therefore award $49,800 ($55,480 - $5,680)
+based on CSI's CFR estimate.
+
+
+         182. Of the $903,407 claimed for REA No. 7, $56,265 was for G&A (R4, tab 129
+at 5 of 16). DCAA verified that the contractually negotiated rate of 8.82% was applied to
+''the materials and subcontract costs." Because DCAA questioned $520 in subcontractor
+cost, it applied 8.82% to $520 and questioned $46 claimed for G&A (id. at 9of16).
+BAE chose not to dispute the $520 in CSI OT labor cost questioned (app. br. at 67). We
+therefore deduct the $46 in G&A and $52 in profit for a total of $98 on that amount from
+CSI's final recovery.
+
+
+                                          47
+       183. Of the $903,407 BAE claimed for REA No. 7, $63,480 was for profit (R4,
+tab 129 at 5 of 16). The DCAA applied the 10% negotiated profit rate to the
+subcontracts and took no exception (id. at 10 of 16).
+
+        184. CO Panton faulted DCAA for not getting "technical advice" in auditing
+REA No. 7. When asked from whom DCAA should have obtained technical advice,
+CO Panton answered "Mr. Large." (Tr. 3/256) Ship Surveyor Large was on the vessel
+daily during the LSV-5 overhaul. He was given notice and had the opportunity to see
+firsthand when the CFRs and the CORSs were estimated. He could have verified the
+pipes, elbows, tees, couples, and other parts required to be purchased and installed. He
+did not. He could have provided the CO his estimates on Specification Worksheets for
+the various piping installations as in the case of the cloverleaf replacement. He did
+not. Moreover, knowing the nature ofBAE's claim in REA No. 7, CO Panton could
+and should have offered DCAA her Ship Surveyor's technical help when she requested
+the audit in October 2011. There is no evidence she did.
+
+        185. Because CSI's material supplier invoices were not segregated by CFR,
+tracing which parts belong to which CFR became impossible. Foreseeing this
+difficulty, the Board by email on 3 1 December 2014 directed the CO to annotate her
+decision to provide Rule 4 references to the material costs claimed with material
+invoices paid. The government provided the CO' s annotation at the hearing. In going
+through several examples at the hearing, it became clear that some of the government's
+assertions of material overcharging in the CO decision were incorrect (tr. 4/125-29).
+As it now stands, the completed DCAA's audit did not question the material costs
+claimed as having been incurred. CO Panton acknowledged she was unware of the
+sales tax issue until she heard it at the hearing (tr. 41130). The material prices could
+vary from the time they were quoted to the time they were shipped (finding 3 1) which
+also explained some of the variations the CO found.
+
+       CSI's Material Costs
+
+        186. BAE submitted hundreds of invoices in support of CSI's claim for
+materials (see R4, tab 113 ). Unable to reconcile what BAE claimed and what the
+government was able to verify before and at the hearing, the Board's 27 January 2015
+letter provided the parties the following briefing instructions:
+
+                    Excluding the $11,087.75 in sales tax, there is a
+             discrepancy ($14,081.87) between the amount appellant
+             claimed as material costs incurred over and above the
+             original piping work ($176,564.27) (app. R4. supp., tab
+             507) and the amount the government claimed as material
+
+
+                                          48
+             costs incurred over and above the original piping work
+             ($162,482.40) (ex. B-1at12). To isolate where the
+             differences lie, each party is to run a calculator tape and
+             annotate the tape with document references in the Rule 4
+             file. Each party is to submit its tape as an appendix to the
+             brief. Each party may then address the other party's tape
+             in its reply brief. To the extent possible, the parties are
+             encouraged to stipulate to those additional material costs
+             that are not in dispute.
+
+       187. BAE's 27 January 2015 email forwarded to the Board 16 pages of CSI credit
+card records which were not included in the Rule 4 file, tab 113. The parties agreed that
+the 16 pages should be added to tab 113 as pages 229-A through 229-P. In addition to
+material purchases, CSI's credit card records show payments made for car rental, food
+and lodging. We find CSI charged some of its per diem costs to its credit cards. CSI,
+however, has not provided a separate accounting of the per diem costs paid.
+
+        188. BAE's opening brief provided a summary of the material costs claimed by
+CSL The summary was supported by a calculator tape for each vendor. Each amount
+on the calculator tape cross-referenced a supporting document under tab 113. (App.
+br., app'x B) The government did not provide a calculator tape with its opening brief;
+it provided a typed listing of amounts with cross-references to vendor invoices in its
+reply brief (gov't reply br., ex. 1 at 1-4 ).
+
+       189. Comparing the parties' numbers, we find only minor differences, highlighted
+in bold, with respect to two vendors: ( 1) McMaster-Carr and (2) Center Hardware:
+
+         Vendor/Record             CSI Invoiced         Gov't Verification
+                                     Amount                 Amount
+     Tork Systems                      $144,755.58             $144,755.58
+     Tork Systems Sale Tax              $11,087.75              Undisputed
+     Master Card                          $3,215.16              $3,215.16
+     McMaster-Carr                        $5,274.51              $4,399.73
+     Grainger                                $45.39                  $45.39
+     Air Gas                                $599.77                $599.77
+     Ferguson                               $761.62                $761.61
+     Praxair                                $336.82                $336.82
+     Center Hardware                        $501.61                $550.13
+     Am.Ex.                             $13,130.67              $13,130.67
+     Bearing Engineering                      $5.82                   $5.82
+     BAE Store                           $7,672.14               $7,672.14
+     Home Depot                              $56.19                  $56.19
+
+
+                                          49
+     Lowes                                   $159.50               $159.50
+     Grainger                                  $49.74               $49.74
+                Total                     $187,652.27          $175,738.25
+
+(App. br., app'x B; gov't reply br., ex. 1)
+
+        190. The parties' difference of $874.78 ($5,274.51 - $4,399.73) for materials
+purchased from McMaster-Carr came about because the government failed to include
+the following payments:
+
+                            Invoice No.        Amount
+                           69989121              $50.59
+                           69227393             $168.46
+                           69108466              $36.25
+                           68855182             $251.54
+                           6970943-02           $216.72
+                           68263999              $35.40
+                           68122206             $115.82
+                               Total            $874.78
+
+(R4, tab 113 at 121, 123-25, 127-29)
+
+       191. The parties' difference of$48.52 ($550.13 - $501.61) with respect to
+materials purchased from Center Hardware came about because the government
+included Invoice 77755 for $24.26 (R4, tab 113 at 142) for which BAE did not claim
+and thus gave the government a $24.26 credit (app. br., app'x Bat 8).
+
+       192. Referring to its material invoice summary, CSI's Brown testified that
+CSI's total cost for materials on the "entire copper nickel job" was $187,652 including
+$11,087.75 in Tork Systems sales tax (app. supp. R4, tab 507; tr. 2/299). Unlike BAE,
+CSI did not establish a separate account to collect CFR material costs as distinguished
+from material costs it originally estimated it would have to buy in performing the
+unchanged work. Some of the material invoices from Tork Systems were dated 14
+May 2007 or shortly thereafter (see Invoice Nos. 8054, 8055, 8085, 8123, 8124, 8125)
+(R4, tab 113 at 196-202). This indicates those materials were ordered before CSI
+discovered CFR work was required (finding 39). Documentary evidence shows that
+CSI originally expected to spend $77,650.20 on materials to perform the unchanged
+Item No. 2062 work (finding 142). So that CSI does not end up with a windfall, we
+find once the piping conditions behind the bulkheads and above the ceilings were
+exposed, CSI should have spent all of the $77,650.20 it originally allotted for piping
+materials and claimed only the additional materials ultimately needed to accomplish
+the piping replacement work. Based upon findings 189, 190 and 191 above, we find
+
+
+                                              50
+CSI incurred $187,652.27 in material costs. We find the government is entitled to a
+$77,650.20 credit. Thus, we find CSI is entitled to $110,002.07 ($187,652.27 -
+$77,650.20) in additional material costs. The government has not disputed the
+$11,087.75 of California sale tax which Tork Systems separately invoiced CSI
+(finding 32). Taking into consideration the parties have settled CFR No. 231, we
+deduct $220.00 in material cost. We therefore allow a total $120,869.82 ($110,002.07
++ $11,087.75 - $220.00) in CSI material costs.
+
+       The Government's Post-Audit Equitable Adjustment Approach
+
+        193. After she reviewed the audit report, CO Panton by letter dated 28 May
+2013 made a final offer to settle the cloverleaf and piping claims. CO Panton did not
+find DCAA's audit helpful. Her letter said "Unfortunately, the DCAA audit did not
+clarify if the hours or amounts were actually incurred, but seemed to only provide a
+[superficial] affirmation that the arithmetic in your claim was correct." She offered to
+settle REA No. 7 for $630,467.00. (R4, tab 131 at 4 of 4)
+
+        194. The $630,467.00 equitable adjustment offer was based on BAE's recent
+bid price on the same work item for the LSV-3. When BAE bid on the LSV-5
+overhaul, it bid $214,913.00 for Item No. 2062, "Potable Water and Air Conditioning
+Drain Piping System Replacement." On the LSV-3, BAE bid $845,380.00 for the
+same item. The difference between BAE's bid on the LSV-3 and the LSV-5 for the
+same work item was $630,467.00 ($845,380.00 - $214,913.00). (R4, tab 131 at 4 of 4)
+
+        195. As explained at the hearing, the LSV-3 was LSV-5's sister ship (tr. 4/105)
+and LSV-3 's solicitation for maintenance followed closely "on the heels" of the
+completion of the LSV-5 (tr. 4/103, 110). For the LSV-3 specifications, the
+government used "the volumes of pipe and fittings that were submitted on [BAE' s
+LSV-5] invoices" in addition to the Moss Point Marine Drawings because the
+government knew the drawings "were wrong" (tr. 4/104-6; R4, tab 105 at 210). We
+find that the government must have considered that the piping runs and fittings
+ultimately installed on the LSV-5 were reasonable and would not mislead LSV-3
+bidders. CO Panton acknowledged that, in the case of the LSV-5, "there was [not]
+much dispute on the material," rather, "[i]t was more the labor" (tr. 4/108).
+
+      CO Decision
+
+      196. CO Panton issued her decision by letter dated 1August2013 (R4, tab 138).
+The decision granted $351,244.12 of the $903,973.00 claimed, and denied $552,728.88.
+The decision dismissed DCAA's audit findings for the following reasons:
+
+             All DCAA did, unfortunately, was verify the addition of the
+             claim without verifying any of the underlying facts. DCAA
+
+
+                                           51
+               did not have any of the original time cards or any other
+               information beyond the summary you provided. DCAA
+               took no exception to the proposed material costs. DCAA
+               specifically did not examine entitlement, but only looked at
+               quantum. DCAA had no knowledge of the actual facts and
+               did not look beyond the information offered by BAE.
+
+(Id. at 11 of 13)
+
+       197. In rendering her decision, CO Panton divided the CFRs into two groups:
+The first group of 10 CFRs all involved contract drawings that the government conceded
+were incomplete and misleading for pricing labor and material costs for the P/W, A/C
+and Drain Systems replacement work on the vessel. This group included CFR Nos. 155,
+196, 203, 204, 209, 211, 212, 213, 223 and 319. (R4, tab 138 at 12of13)
+
+       198. For this group, CO Panton granted equitable adjustment using what she
+described as "the benefit of the bargain" approach. Based on the information
+submitted, CO Panton found that CSI originally anticipated spending $77,650.20 for
+materials for Item No. 2062, but ultimately spent what she found to be a substantiated
+amount of $162,482.40, or 2.1 times the original amount. Applying 2.1 times to the
+bid amount of $214,913.23 for Item No. 2062, CO Panton arrived at $494,703.00 18
+which she believed would equitably compensate BAE/CSI for the 10 CFRs. For the
+10 CFRs in this group, the CO decided BAE was entitled to an equitable adjustment of
+$279,790.00 ($494,703.00 - $214,913.00). (R4, tab 138 at 12of13)
+
+       199. On the remaining nine CFRs, CO Panton applied a 33% decrease on the
+labor and 43% decrease on the materials based on BAE's 3 June 2010 REA which
+reduced its labor hours claimed by 33% from 2,215 to 1,851 hours, and material costs
+by 43% from $5,436.00 to $3,124.00 (see findings 150, 151). She also disallowed all
+OT differential 19 and what she believed to be unsubstantiated per diem costs. On these
+nine CFRs, she allowed a total of$71,454.12:
+
+               CFR No. 166                        $ 5,150.00
+               CFRNo. 173                         $16,920.00
+
+18
+     The CO erroneously determined 2.1 times $162,482.40 was $494, 703 .00. The
+        correct multiplication should yield $451,317. 78. The CO corrected this error in
+        her amended decision issued on 3 October 2014. That decision was timely
+        appealed and docketed as ASBCA No. 59642.
+19
+     When asked why she disallowed overtime, CO Panton testified that BAE agreed to
+        a fully burdened rate of $73 .50 per hour to perform changes, and its contract
+        was a "Calendar day" not a "Monday through Friday" contract and "[i]t's up to
+        the contractor. .. to plan their time" (tr. 4/45-46).
+
+                                           52
+               CFRNo. 220                         $ 3,635.00
+               CFR No. 224                        $ 6,602.47
+               CFRNo. 225                         $24,600.00
+               CFRNo. 226                         $ 6,616.00
+               CFR No. 231                        $ 3,227.15
+               CFR No. 238                        $ 3,728.50
+               CFR No. 260                        $ 975.00
+                    Total                         $71,454.12
+
+(R4, tab 138 at 12-13of13) Thus, the CO granted a total equitable adjustment of
+$351,244.12 ($279,790.00 + $71,454.12) (R4, tab 138 at 1 of 13). BAE acknowledged
+it has been paid $351,244.12 20 ($279,790.00 + $71,454.12) (app. br. at 68).
+
+        200. On a number of CFRs, the CO questioned the parts prices claimed. On
+CFR No. 166, for example, the CO observed that the 1 1/4" gate valves for which CSI
+quoted a price of $385 each were purchased by CSI for $345 (Tork Systems Invoice
+8124). And, CSI claimed $242 each for the 3/4" gate valves which it purchased for
+$209 (Tork Systems Invoice 8124). (R4, tab 138 at 4of13, tab 113 at 200, 201)
+Since CSI's material claim is determined on invoiced prices, what the CFR quoted are
+inconsequential. Moreover, the minor differences in prices has been explained:
+( 1) Parts prices could change between the time they were quoted and the time they
+were delivered due to market volatility in 2007 (finding 31); and (2) Tork Systems
+invoiced CSI for parts sales tax separately (finding 137).
+
+      201. BAE timely appealed the CO decision by notice dated 2 August 2013.
+The Board docketed the appeal on 7 August 2013 as ASBCA No. 58810. The appeal
+was heard together with ASBCA No. 58809 (the cloverleaf replacement case) and
+ASBCA No. 59642 (government's overpayment case).
+
+        ASBCA No. 59642- CO's 3 October 2014 Amended Decision
+
+       202. CO Panton amended her I August 2013 decision by her 3 October 2014
+decision. The new decision was issued to (1) disallow $3,227.15 BAE already received
+through bilateral Modification No. 9 and (2) correct a calculation error in her prior
+decision. (R4, tab 167 at I of 3) The CO's 2014 decision reiterated that she had to
+"create a way to compensate BAE for the additional work it performed" because BAE's
+substantiating documentation "rolled up all CFRs into one single piping claim" making
+it impossible to make "a determination for each individual CFR" (id. at 1-2 of 3 ).
+
+
+20
+     BAE mistakenly used $351,144.12, $100.00 off, in its brief (app. br. at 68). The
+       CO's I August 2013 decision used $351,244.12 (R4, tab 138 at I of 13).
+
+                                           53
+        203. Following the same approach used previously, CO Panton found that BAE
+in bidding Item No. 2062 for $214,913.23 originally planned to spend $77,650.20 for
+materials. She found that CSI's material costs ultimately increased 2.1 times to
+$162,482.40. Applying the same multiple (2.1 times) across each category ofBAE's
+claim, including subcontractor and BAE's costs, CO Panton found that $450,734.96 21
+(2.1 x $214,913.23) above BAE's original bid price or $235,821.73 ($450,734.96 -
+$214, 913 .23) would be a fair and reasonable equitable adjustment. Since her 1 August
+2013 decision erroneously computed $279,790.00 as equitable adjustment, CO Panton
+decided that for the 10 defective drawing related CFRs the amount allowed should be
+$43,968.27 less ($279,790.00 - $235,821.73). CO Panton also found that her 1 August
+2013 decision erroneously allowed payment of $3,227.15 for REA No. 231, Coil
+Baffle repair, because "BAE was already paid the entirety of that $3 ,227 .15 through
+bilateral modification 09." (R4, tab 167 at 2 of 3)
+
+         204. Since her 1 August 2013 decision allowed and paid $351,244.12 as
+equitable adjustment, her 3 October 2014 amended decision found that BAE was over
+paid $47,195.42 ($43,968.27 + $3,227.15). Her amended decision allowed
+$304,048.70 ($351,244.12 - $47,195.42) instead. (R4, tab 167 at 2-3 of3) In its brief,
+BAE now acknowledges that it has been paid $3,277.15 for CFR No. 231 as a part of
+Modification No. 9, effective 18 September 2007 (R4, tab 94 at 3, at 9of13; app. hr.
+at 40, 68). Since we reject the government's benefit-of-the-bargain as an appropriate
+approach for equitable adjustment, we need not address whether the government's
+1August2013 CO decision overpaid BAE $43,968.27 ($47,195.42 - $3,227.15). The
+$3 ,22 7 .15 paid will be deducted from BAE' s total recovery. As a result of deducting
+$3,227.15 from the $903,407.00 claimed, the net amount ofBAE's claim is reduced to
+$900,179.85 (app. hr. at 68).
+
+        205. Recalculating the interest ($19,075.34) paid on the $351,244.12, CO Panton
+found the government owed $16,506.68 on $304,048.70. Adding $16,506.68 in interest
+to the $304,048.70, the CO determined the amount of equitable adjustment allowed
+should be $320,555.38 ($304,048.70 + $16,506.68), with "the net result ... BAE now
+owes the Government $30,688.74" ($351,244.12 - $320,555.38). (R4, tab 167 at 3of3)
+
+      206. BAE appealed the decision by notice dated 23 October 2014. The Board
+docketed the appeal as ASBCA No. 59642 on 24 October 2014.
+
+
+21
+     Multiplying $214,913.23 by 2.1 is $451,317.78 not $450,734.96.
+
+                                          54
+                                       DECISION
+
+                                   ASBCA No. 58810
+
+Limitation of Government Liability to Amounts Already Paid
+
+       The government acknowledges that BAE "discovered additional piping repair
+requirements that were not originally anticipated at the time the task order was issued"
+(gov't br. at 87). Of the $634,802 BAE claims for CSI, the government contends that
+BAE "at most. . .incurred an additional $350,000 in subcontractor costs" based on the
+five purchase orders BAE issued to CSI (id. at 88). It argues "when BAE submitted its
+claim to the CO four years after the LSV-5 work was completed, it still had only
+incurred $350,000 in additional subcontractor costs .... There is no evidence to suggest
+that over the four year period any additional payments to CSI were made, or were
+required to be made, by appellant." (Id. at 88-89)
+
+        Although the government does not directly say so, it appears to invoke what is
+commonly referred to as the Severin doctrine. As explained in United States v.
+Johnson Controls, Inc., 713 F.2d 1541, 1552 & n.8 (Fed. Cir. 1983), the Severin
+doctrine, first articulated in Severin v. United States, 99 Ct. Cl. 435 (1943), cert.
+denied, 322 U.S. 733 (1944 ), held that "a prime contractor cannot recover on behalf of
+a subcontractor unless the prime contractor has reimbursed the subcontractor or is
+liable to make such reimbursement." In Severin, the contract between the prime
+contractor and the subcontractor included an exculpatory clause holding the prime
+contractor harmless from any claim caused by the actions of the government. The
+court held that it had no jurisdiction to hear any claim caused by actions of the
+government.
+
+        Application of the Severin doctrine, however, has been narrowly construed.
+See, e.g., Blount Bros. Construction Co. v. United States, 346 F.2d 962, 964-65 (Ct.
+Cl. 1965). If the prime contractor proves it has paid the subcontractor or is liable to
+the subcontractor for damages sustained by it, then the prime contractor has shown
+injury to itself from government action. This showing would overcome the lack of
+privity between the government and the subcontractor. E.R. Mitchell Constr. Co. v.
+Danzig, 175 F.3d 1369, 1370 (Fed. Cir. 1999). Indeed, "an iron-bound release or
+contract provision immunizing the prime contractor completely from any liability to
+the sub" would be necessary to preclude a prime contractor's claim for its
+subcontractor. "If the contract is silent as to the prime's ultimate liability to the sub,
+suit by the former will generally be permitted." Cross Construction Co. v. United
+States, 225 Ct. Cl. 616, 618 (1980). Moreover, the government has the burden to
+prove that the prime contractor is not responsible for the costs incurred by the
+subcontractor that are at issue in the pass-through suit. E.R. Mitchell, 175 F.3d at 1370
+
+
+                                            55
+(citing Blount Bros., 346 F.2d at 964-65; John McShain, Inc. v. United States, 412
+F.2d 1281, 1283 (Ct. Cl. 1969)).
+
+       In this case, between mid-May and mid-July 2007, CSI through BAE submitted
+19 CFRs with material and labor estimates proposing over $986,000 worth of
+additional piping-related work (finding 121). The CO's inability to settle these CFRs
+and her direction for BAE to "proceed diligently with the work" (finding 130) forced
+BAE to advance CSI $350,000.00 so that it could "make payroll and remain solvent"
+to continue to finish the massive amount of additional piping work uncovered (finding
+158). The five purchase orders BAE issued to CSI made clear they were issued
+pending government settlement of the additional piping replacement work. We found
+BAE conditionally advanced the payments to enable CSI to continue with the
+expectation that it would ultimately recover from the government the additional costs,
+known at the time to exceed $350,000.00. (Finding 132)
+
+        In July 2009, BAE entered into an agreement with CSI on prosecuting CSI's
+piping claim against the government. The agreement provided that BAE would be
+liable to CSI for the amount it recovered from the government over and above what
+CSI had been paid (the original purchase order price of$150,049 plus the $350,000
+advanced). (Finding 138)
+
+       Because BAE advanced CSI $350,000.00 so that it would be able to continue to
+perform the unexpected and additional piping work to complete the contract, and
+because BAE acknowledged it would be liable to CSI for the additional piping-related
+costs over and above the amount ($150,049 + $350,000) it already paid CSI, we
+conclude that BAE is not barred from recovery under the Severin doctrine.
+
+Equitable Adjustment Based Upon Actual Costs Incurred
+
+       The government contends that BAE's and CSI's claimed costs for labor and
+materials "were entirely based upon estimates" and they never revised their estimates
+(gov't hr. at 89). The government also contends the estimates were "inaccurate"
+because they "were based on drawings that did not contain comprehensive
+information," and "were overstatements of the actual work required, and the CFR
+estimates are inaccurate" (id.).
+
+       The "preferred" method of proving a claim is by "actual cost method." This
+method is preferred because "it provides the court, or contracting officer, with
+documented underlying expenses, ensuring that the final amount of the equitable
+adjustment will be just that - equitable - and not a windfall for either the government
+or the contractor." Propel/ex Corp. v. Brownlee, 342 F.3d 1335, 1338 (Fed. Cir.
+2003); Advanced Engineering & Planning Corp., ASBCA Nos. 53366, 54044, 05-1
+BCA ~ 32,806 at 162,336. Estimates are a preferred method of pricing equitable
+
+
+                                           56
+adjustment only where actual costs are not available. Bregman Construction Corp.,
+ASBCA No. 15020, 72-1BCA~9411at43,716 (rejecting both contractor and
+government estimates where estimates did not conform to available actual cost data).
+
+       Although BAE's 10 October 2007 request for reimbursement was based upon
+estimates (finding 135), BAE's 3 June 2010 letter submitted documentary proof from
+which the actual costs incurred by itself, CSI, and its subcontractor, World Wide Labor,
+can be determined. The evidence shows during the course of the LSV-5 overhaul, BAE
+maintained a Job Cost Accounting System. This system reported labor and material costs
+incurred for a project down to the item level. Labor hours incurred were reported in
+BAE's Job Order Status Reports, and within that report, a specific account, such as
+Account 3000, was established to collect the labor hours for the additional P/C, AIC and
+Drain Water Piping Systems replacement work (finding 163 ). Additionally, BAE' s Job
+Order Accounting System was capable of producing Labor Distribution Reports which
+summarized by labor category, by trade, and by date, the ST and OT hours each BAE
+hourly employee worked and charged to specific accounts such as Account 3000
+(finding 164). Under BAE's Job Order Accounting System, material procurements were
+reported in the Material Status Reports and specific accounts, such as Account 3000,
+were established to collect material costs of changed items (finding 169).
+
+       BAE's 3 June 2010 letter which supplemented REA No. 7 provided
+documentary proof based upon actual costs (finding 149): For its labor hours in
+support of CS I's piping-related CFR work, BAE provided its Job Labor Status Reports
+(finding 150). For its material costs in support of CSI's CFR piping work, BAE
+provided its Material Status Report. Albeit not organized by CFRs, BAE also
+provided numerous material invoices from CSL (Finding 151) For CSI's labor, BAE
+furnished CSI's "LSV5/Copper Nick[ el] Piping Job Time Sheet" (findings 153, 154).
+At the CO's request, BAE by email on 13 July 2010 provided World Wide Labor's
+time sheets (finding 156).
+
+        The government argues that BAE's Job Labor Status Report included labor
+hours of its own employees "starting as early as 2 April 2007, despite the fact that CSI
+did not discover a need for additional piping work until 14 April 2007" (gov't br. at
+90). It also argues "CSI's timesheets included labor hours for after the piping work
+was finished" (gov't br. at 91 ). These charging errors, however, should not prevent
+BAE from using its Job Order Status Report, and its Labor Distribution Report (for
+Account 3000), from proving its labor costs. Nor should they prevent CSI and World
+Wide Labor from using their time sheets in proving their labor costs. It is true that
+BAE submitted its first piping-related CFR (LSV-018) on 14 May 2007 (finding 39)
+and its work on the vessel was 100% complete on 25 August 2007 (finding 166). If
+labor hours were charged by BAE, CSI or World Wide Labor before 14 May 2007 or
+after 25 August 2007, they can be disallowed and deducted.
+
+
+                                           57
+       The government does not dispute that BAE is entitled to charge $73 .50 per hour
+for ST labor and CSI is entitled to charge $52.00 per hour for ST labor. To the extent
+BAE is entitled to charge an OT differential, which we will address next, the
+government has not disputed BAE's $36.75 OT differential. The government has not
+challenged the OT differential rate of $26.00 charged by CSL Hence, the actual labor
+costs BAE and CSI incurred in performing the piping-related CFRs can be determined
+by multiplying the allowable labor hours by the undisputed hourly rates. The actual
+material costs BAE and CSI incurred in performing the piping-related CFRs can be
+determined from the invoices provided.
+
+Payment of OT Differential
+
+       The government contends that "[t]he Contract never authorized overtime."
+Relying upon the contract's fully burdened rate provision (finding 7), the government
+argues that BAE is not entitled, "as a matter of law, to $110.25 per hour for
+unauthorized overtime work" (gov't hr. at 84).
+
+        The fully burdened rate provision provides that "Offerors shall include a fully
+burdened labor rate to be used in negotiating changes. The rate must include all costs
+for negotiating changes .... The offeror shall insert rates below that it agrees to use in
+negotiating changes for new or additional work." (Finding 7) We disagree with the
+CO's interpretation that the $73.50 per hour fully burdened rate is applicable to the OT
+hours BAE worked. First, the fully burdened rate provision does not mention overtime
+at all. Second, the provision requires that the $73.50 per hour rate to be used "in
+negotiating changes." In this case, between 17 May and 14 July 2007, BAE submitted
+19 CFRs (finding 121). In all but six CFRs (319, 166, 173, 224, 231and260), BAE's
+CORS indicated OT would be required in assisting CSL Not once did the CO object
+to the inclusion of OT or offer to negotiate a change order to settle any of the CFRs.
+
+         To impose the $73.50 fully burdened rate on OT work when there was no
+negotiation would be inconsistent with the plain meaning of the fully burdened rate
+provision of the contract. In interpreting contract provisions, we must "begin with the
+plain language," and we must "interpret the contract in a manner that gives meaning to
+all of its provisions and makes sense." McAbee Construction, Inc. v. United States, 97
+F.3d 1431, 1435 (Fed. Cir. 1996).
+
+        Moreover, "[a] party who willingly and without protest enters into a contract
+with know ledge of the other party's interpretation of it is bound by such interpretation
+and cannot later claim that it thought something else was meant." Perry and Wallis,
+Inc. v. United States, 427 F.2d 722, 725 (Ct. Cl. 1970); Cresswell v. United States, 146
+Ct. Cl. 119, 127 (1959) ("If one party to a contract knows the meaning that the other
+intended to convey by his words, then he is bound by that meaning."); United
+Technologies Corp., Pratt & Whitney Group, Government Engines and Space
+
+
+                                           58
+Propulsion, ASBCA Nos. 46880, 46881, 97-1BCAii28,818 at 143,800; The Public
+Warehousing Company, ASBCA No. 56022, 15-1 BCA ii 36,062 at 176, 111.
+
+       On 6 July 2007, BAE and the CO orally agreed to a 27-day time extension to
+the contract completion date so that BAE could finish the additional P/W, A/C and
+Drain Water Piping Systems replacement work on the vessel (finding 128). By 6 July
+2007, BAE had submitted all but one (the catchall CFR No. 319 relating to the
+removal of interferences and subsequent restoration) of the piping-related CFRs. We
+found the CO knew from the CORSs BAE submitted along with the CFRs that it
+would require OT and charge OT differential to assist CSI to complete the
+piping-related CFRs. We found that up to 6 July 2007, the CO knew that BAE had
+worked OT. We found the CO knew that BAE did not interpret the fully-burdened
+rate provision to preclude it from claiming OT differentials on unsettled changed
+work. We found that wi~h full knowledge of BAE's interpretation of that provision,
+the CO did not address or object to OT charges but entered into an agreement with
+BAE to extend the contract. There is no evidence that BAE agreed to the 27-day
+extension (from 27 July to 23 August 2007) without charging extra for overtime. (Id.)
+
+       The parties' 6 July 2007 oral agreement to extend the contract completion date
+was subsequently incorporated into Modification No. 6. Although Modification No. 6
+was issued by the CO unilaterally and the parties disagree on some parts of it, such as the
+equitable adjustment relating to the cloverleaf replacement work, the parties do not
+disagree that the 27-day extension was binding. Under these circumstances, we conclude
+the government is bound by BAE's interpretation that payment of OT differential, to the
+extent incurred and met the requirements of FAR 31.201, is allowable.
+
+The CO 's Benefit-of-the-Bargain Approach in Granting Equitable Adjustment
+
+       The CO's I August 2013 decision granted an equitable adjustment of
+$351,244.12 for the 19 CFRs (finding 199). The decision divided the 19 CFRs into two
+groups: The first group of 10 CFRs all involved contract drawings that the government
+conceded were incomplete and misleading for pricing labor and material costs for the
+P/W, A/C and Drain Water Piping Systems replacement work on the vessel. This group
+included CFR Nos. 155, 196, 203, 204, 209, 211, 212, 213, 223, and 319. (Finding 197)
+For this group, the CO granted equitable adjustment using "the benefit of the bargain"
+approach: Based on her finding that CSI originally anticipated spending $77,650.20 for
+materials for Item No. 2062, but ultimately spent what she found to be a substantiated
+amount of$162,482.40 or 2.1 times the original amount, the CO granted 2.1 times the
+amount BAE bid for Item No. 2062 and arrived at $494,703.00. Deducting the original
+bid amount, the CO found that BAE was entitled to $279,790.00 ($494,703.00 -
+$214,913.00) for the 10 CFRs. (Finding 198) On the remaining nine CFRs involving
+deteriorated parts replacements, the CO applied a 33% reduction to the labor costs
+claimed and a 43% reduction to the materials costs claimed based upon BAE's 3 June
+
+
+                                           59
+2010 reduction. And, disallowing all OT differential and what the CO believed to be
+unsubstantiated per diem costs, the CO allowed $71,454.12 for these nine CFRs (CFR
+Nos. 166, 173, 220, 224, 225, 226, 231, 238 and 260). (Finding 199)
+
+       One way fora remedy a breach of contract is to award damages based on the
+non-breaching party's expectation interest or the interest in having the benefit of his
+bargain by being put in "as good a position as he would have been in had the contract
+been performed." RESTATEMENT (SECOND) OF CONTRACTS,§ 344 cmt. a (1981).
+Glendale Federal Bank, FSB v. United States, 239 F.3d 1374, 1380 (Fed. Cir. 2001).
+"Expectation damages are recoverable provided they are actually foreseen or reasonably
+foreseeable, are caused by the breach of the promisor, and are proved with reasonable
+certainty." Bluebonnet Sav. Bank, F.S.B. v. United States, 266 F.3d 1348, 1355 (Fed.
+Cir. 2001); RESTATEMENT(SECOND)OFCONTRACTS §§ 347, 351, 352 (1981).
+
+        In this case, because the Moss Point Marine drawings the government provided
+for bidding purposes were admittedly misleading, and because the ceilings and
+bulkheads were in place when the vessel was made available for ship check, neither
+the government nor any bidder could have "actually or reasonably foreseen" the
+amount of piping, fittings and interferences that ultimately had to be removed and
+installed in order to accomplish Item No. 2062. Based on our determination that the
+actual cost method can be used to determine an equitable adjustment, we conclude
+resorting to the benefit-of-the-bargain approach in the first instance is unnecessary and
+inappropriate. The fact that CSI ultimately had to spend 2.1 times the amount
+originally estimated for materials bore no relationship to the labor hours ultimately
+required to accomplish the copper/nickel piping replacement work.
+
+Computation ofEquitable Adjustment
+
+      Having decided the overarching issues above, we address next the details of the
+quantum of adjustment. BAE's certified claim was based upon the following
+formulation:
+
+       1,851 hours@ $73.50 (BAE)                         $136,049.00
+       279 hours@ OT differential at $36.75 (BAE)        $ 10,253.00
+       Materials (BAE)                                   $ 3,124.00
+       Subcontractor (CSI)                               $634,802.00
+       G&A@8.82%                                         $ 56,265.00
+       Profit on Subcontract @ 10%                       $ 63,480.00
+       Total                                             $903,973.00
+
+(Finding 159) In its post-hearing brief, BAE acknowledged that it had been paid
+$3,277.15 for CFR No. 231 as a part of Modification No. 9 {app. br. at 67-68). As a
+result of deducting $3,277.15 from $903,407.00, the net amount of BAE's claim is
+
+
+                                           60
+reduced to $900,129.85 ($903,407.00 - $3,277.15). This acknowledgement also
+reduced the CFRs in dispute from 19 to 18. Since the subcontractor's claim
+constitutes about 70% of BAE's overall claim, we address CSI's claim first.
+
+        The determination of equitable adjustment is not an exact science; where
+responsibility for damage is clear, it is not essential that the damage amount be ascertainable
+with absolute or mathematical precision. Electronic & Missile Facilities, Inc. v. United
+States, 416 F.2d 1345, 1358 (Ct. Cl. 1969). In Wunderlich Contracting Co. v. United
+States, 351 F .2d 956, 968 (Ct. Cl. 1965) (citations omitted), the Court of Claims stated:
+
+              A claimant need not prove his damages with absolute
+              certainty or mathematical exactitude. It is sufficient if he
+              furnishes the court with a reasonable basis for
+              computation, even though the result is only approximate.
+              Yet this leniency as to the actual mechanics of computation
+              does not relieve the contractor of his essential burden of
+              establishing the fundamental facts of liability, causation,
+              and resultant injury.
+
+See also Specialty Assembling & Packing Co. v. United States, 355 F.2d 554, 572 (Ct.
+Cl. 1966) ("It is enough if the evidence adduced is sufficient to enable a court or jury
+to make a fair and reasonable approximation.").
+
+              CSI's Labor Costs
+
+        In support of its claim, CSI submitted its time sheets which show that it charged
+7,202 ST hours and 3,451.50 OT differential hours for additional piping work
+(finding 154). We disallow 1,032 ST hours and 500 OT differential hours because CSI
+did not submit the first of its piping-related CFRs stemming from defective drawings
+until 14 May 2007 (findings 39, 155) and could not therefore have been working on
+CPR-related work before that date. We also disallow 120 ST hours and 81 OT
+differential hours CSI claimed for the week ending 31 August 2007 because work on the
+vessel was completed on 25 August 2007 (finding 155). To account for the labor hours
+attributable to CFR No. 231 which was settled through Modification No. 9, we deduct
+30 ST hours and 12 OT differential hours which CSI included as a part of the overall
+$3,227.15 proposal which the government accepted (findings 110, 112). Based upon the
+foregoing deductions, we conclude that CSI incurred 6,020 ST hours (7 ,202 hours -
+1,032 hours - 120 hours - 30 hours) and 2,858.50 OT differential hours (3,451.5 - 500
+hours - 81 hours - 12 hours) performing additional piping-related CFR work.
+
+      There is no dispute that CSI paid its hourly employees $52.00 per ST hour and
+$26.00 per OT differential hour. We conclude that CSI is entitled to an additional
+$387,361.00 in additional labor costs:
+
+
+                                           61
+                        Hours x Rate                    Amount
+            6,020 ST hours x $52.00                   $313,040.00
+            2,858.5 OT differential hours x $26.00    $ 74,321.00
+            Total                                     $387,361.00
+
+             Labor Costs Incurred by CSI's Second Tier Subcontractor World Wide Labor
+
+         At the CO's request, BAE also submitted World Wide Labor's time sheets showing
+that it incurred 3,418 ST hours and 1,297 OT differential hours "in support of REA No. 7."
+DCAA's audit worksheet shows that CSI paid World Wide Labor $194,454.45 for work in
+support of REA No. 7. We disallow 140 ST hours and 30 OT differential hours World
+Wide Labor worked during the week ending 13 May 2007 because it could not have been
+working on additional piping-related CFR work before the first CFR was submitted (CFR
+No. 155) on 14 May 2007. We therefore disallow $6,716.70 World Wide labor charged
+before 14 May 2007 and allow $187,737.75 ($194,454.45 - $6,716.70). (Finding 156)
+
+             CSI's Material Costs
+
+        In support of its claim for the cost of materials purchased to complete the
+additional piping-related CFRs, CSI submitted hundreds of invoices from its material
+suppliers (finding 186). The CO in her decision stated that CSI's was able to
+substantiate $162,482.40 (finding 198). At the Board's request, each party ran a
+calculator tape adding all of the vendor invoices submitted (findings 186-88). As a
+result of this exercise, the Board was able to reconcile the parties' differences and
+found CSI incurred $187,652.27 in material costs (findings 189-92). Of the
+$187,652.27 verified, we deduct $220.00 for materials CSI estimated for CFR No. 231
+which was settled through Modification No. 9 (findings 110, 204). Based upon the
+Moss Point Marine drawings, CSI estimated $77,650.20 in materials would be
+required to perform the original Item No. 2062 work. Because CSI was already
+obligated to furnish $77 ,650.20 worth of materials and had been paid that amount by
+BAE (finding 142), we conclude that CSI must credit the government $77,650.20 on
+the $187,652.27 material costs it proved as having been incurred to complete the
+copper/nickel piping replacement work (finding 192). Except for CFR No. 231, we
+allow $120,869.82 in CSI material costs required to perform the additional
+piping-related CFR work:
+
+             Material Costs Invoiced                  $187 ,652.27
+             Deduct CFR No. 231 Material                 ($220.00)
+             Deduct Original Material Proposed        ($77,650.20)
+             Tork Systems Sales Tax                     $11,087.75
+             Total                                    $120,869.82
+
+
+                                          62
+              CSI's Per Diem Costs
+
+       The hourly workers CSI employed at the shipyard were from out of the
+San Francisco area (finding 30). In 15 of the 19 CFRs CSI submitted, it advised the
+CO there would be per diem costs associated with its employees in performing the
+additional piping-related work (finding 124). FAR 31.205-46 (a)(l ), Travel costs,
+provided that "Costs for transportation, lodging, meals and incidental
+expenses .. .incurred by contractor personnel on official company business are
+allowable, subject to the limitations contained in this subsection." CSI paid $80.00 per
+diem for each employee. We consider the amount reasonable when compared with the
+Federal Travel Regulation 2007 per diem rates for San Francisco at $140.00 for
+lodging and $64.00 for meals and incidentals. (Finding 30)
+
+       Although CSI has not provided a detailed listing of the per diem costs paid, there is
+evidence that CSI charged some of its per diem costs to its credit cards (finding 187). At
+the hearing, the DCAA auditor testified that he saw support that CSI paid per diem costs
+(finding 181 ). Based upon the testimonial and documentary evidence in the record, we
+conclude that CSI has shown, by a preponderance of the evidence, that per diem costs
+were incurred in the course of performing the piping-related CFRs.
+
+       Based on its CFR estimates, the DCAA audit work papers listed $55,480 in CSI
+per diem costs. CSI did not show to which CFR the $5,680 for LSV-5 pertained. The
+testimonial and documentary evidence in the record, however, is sufficient for us to
+conclude CSI did incur per diem costs in performing additional piping-related CFR
+work. Except for the $5,680 which CSI did not account for as pertaining to any of the
+CFRs, we allow $49,800 ($55,480 - $5,680) in CSI per diem costs. (Finding 181)
+
+              Total Subcontractor Costs
+
+        In claiming subcontractor costs of $634,802.00, BAE did not provide a
+breakdown. In reviewing the documentary and testimonial evidence in the record, we
+find BAE is entitled to $745,768.57 in subcontractor costs. The difference is mainly
+attributable to additional evidence provided during the course of litigation on ( 1)
+World Wide Labor's costs; (2) CSI's material costs; and (3) CSI's per diem costs:
+
+               Subcontract Cost Elements                Amount
+         6,020 ST hours x $52.00                       $313,040.00
+         2,858.5 OT differential hours x $26.00        $ 74,321.00
+         World Wide Labor Costs                        $187,737.75
+         CSI Material Costs                            $120,869.82
+         CSI Per Diem Costs                            $ 49,800.00
+         Total                                         $745,768.57
+
+                                           63
+             BAE' s Labor Costs
+
+       We determine next the equitable adjustment due BAE in its role assisting CSI
+in accomplishing the piping-related CFRs. BAE seeks 1,851 ST hours at $73 .50 per
+hour and 279 OT differential hours at $36.75 per hour plus $3,124.00 in materials
+(finding 159). BAE's Labor Distribution Report which summarized by labor category,
+by trade, and by date, the ST and OT hours each of its hourly employees charged to
+Account 3000 established to "ASSIST CSI W/ITEM 2062" shows BAE charged a
+total of 1,331.25 labor hours. Of the 1,331.25 hours, 1,082 were ST hours and 249.5
+were OT differential hours. (Findings 163-65)
+
+       Of the 1,082 ST hours, we found 46 ST hours not chargeable to Account 3000
+because they were charged after the vessel was 100% complete on 25 August 2007.
+For the same reason, we found 30 OT differential hours not chargeable to Account
+3000. This left 1,036 ST hours and 219.25 OT differential hours chargeable to
+Account 3000. (Finding 166) We do not deduct any BAE ST and OT differential
+hours for CFR No. 231 which was settled as a part of Modification No. 9. As
+indicated in its CORS, BAE saw no need and did not assist CSI in accomplishing the
+work in CFR No. 231. (Findings 112, 204)
+
+      We conclude that BAE is entitled to the following piping-related CFR labor costs:
+
+                               Hours                  Amount
+            1,036 ST hours x $76.50                  $79,254.00
+            219.25 OT differential hours x $36.75    $ 8,057.44
+            Total                                    $87,311.44
+
+             BAE' s Material Costs
+
+       BAE seeks $3, 124.00 for material used to assist CSI (finding 159). The DCAA
+did not review BAE's claim for materials "[d]ue to materiality" because "it
+represented less than 4 percent of total cost[ s]." The DCAA report said it took "no
+exception to the ... REA No. 7 material costs proposed by BAE." (Finding 173)
+BAE's Job Order Accounting System collected material costs for changed work
+(finding 161). We found BAE's Material Status Report for Account 3000 showed
+BAE collected $2,694.39 in material costs. We allow this amount. (Finding 169)
+
+
+                                         64
+               Claimed Versus Allowed Cost Summary
+
+       We summarize below the amounts BAE claimed versus the amounts we
+allowed based upon the parties' Rule 4 submissions and the documentary and
+testimonial evidence admitted during the hearing:
+
+         Claimed                  Amount              Allowed                  Amount
+ 1,851 ST x $73.50 (BAE)       $136,049.00 1,036 ST x $73.50                  $79,254.00
+                                             (finding 166)
+ 279 OT diff. x $36.75.00        $10,253.00 219.25 OT diff. x $36.75          $ 8,057.44
+ (BAE)                                       (finding 166)
+ Materials (BAE)                  $3,124.00 Materials (finding 169)            $2,694.39
+ Subcontractor (CSI)           $634,802.00 Subcontractor (CSI)
+                                             6,020 ST£221x $52.00            $313,040.00
+                                             (findings 110-11, 155)
+                                             2,858.5 OT diff.l 23 l x        $ 74,321.00
+                                             $26.00 (findings 110-11,
+                                             155)
+                                             • World Wide Labor              $187,737.75
+                                             (finding 156)
+                                             • CSI MateriaJC2 4 l(findings   $120,869.82
+                                             110-11, 142, 192)
+                                             • CSI Per Diem (finding         $ 49,800.00
+                                             181)
+                                             • Questioned CSI OT               ($618.00)
+                                             (findings 179, 182)
+ G&A (a!, 8.82%                  $56,265.00 G&A (a!, 8.82%                   $ 65,964.51
+ Profit on Sub. (a!, 10%         $63,480.00 Profit on Sub. @J 10%            $ 74,520.26
+ Subtotal                      $903,973.00
+ Deduct for CFR No. 231         ($3,227 .15)
+ Total                         $900, 179. 85                                 $975,641.17
+
+Reasonableness ofBAE 's Costs
+
+         The government contends that the costs BAE claimed are unreasonable because
+it ( 1) "has provided no evidence that it imposed any competitive restraints on its
+subcontractor, CSI" (gov't hr. at 94); (2) "has not shown that the original estimate was
+reasonable or well thought out, so any growth from its initial proposed price, plus the
+
+22
+     Thirty (30) ST estimated deducted as a result of settlement of CFR No. 231.
+23
+     Twelve ( 12) OT differential deducted as a result of settlement of CFR No. 231.
+24
+     $220.00 in material cost deducted as a result of settlement of CFR No. 231.
+
+                                            65
+piping amounts allowed by Ms. Panton, could be due to poor planning"; and (3) "the
+staggering increase in BAE SFSR's alleged costs associated with the piping work
+indicates it either incorrectly billed those hours and materials, or operated with an
+unreasonable level of inefficiency" (gov't br. at 96).
+
+       To be allowable, Contract 0005 requires application of FAR Part 31 (finding 4).
+Under FAR 31.201-2, whether a cost is allowable depends, among other factors, upon
+whether the cost is reasonable, allocable, and compliant with the contract terms and the
+FAR limitations (finding 5). In determining reasonableness, FAR 31.201-3(a) provides
+"A cost is reasonable if, in its nature and amount, it does not exceed that which would be
+incurred by a prudent person in the conduct of competitive business." The same FAR
+provision says "No presumption of reasonableness shall be attached to the incurrence of
+costs by a contractor." Interpreting this FAR provision, the Federal Circuit has
+confirmed that the contractor has the burden of proof, unaided by a presumption of
+reasonableness, to establish the costs it incurred were reasonable. Kellogg Brown &
+Root Services, Inc. v. United States, 728 F.3d 1348, 1363 (Fed. Cir. 2013).
+
+        The standard of proof in demonstrating quantum entitlement is a preponderance
+of the evidence, not beyond a reasonable doubt. Teledyne McCormick-Selph v. United
+States, 588 F .2d 808, 810 (Ct. Cl. 1978). Once a contractor makes a prima facie
+showing of quantum recovery, the government is required to come forward to contest
+the prima facie case. If the government fails to do so, the prima facie case stands
+uncontroverted and the contractor, with the burden of proof, will have established its
+case by a preponderance of the evidence. Environmental Safety Consultants, Inc.,
+ASBCA No. 53485, 05-1BCAii32,903 at 163,019.
+
+              ( 1) Competitive Restraints
+
+       FAR 31.201-3 cautioned that "Reasonableness of specific costs must be examined
+with particular care in connection with firms or their separate divisions that may not be
+subject to effective competitive restraints" (finding 6). The government has not explained
+why this FAR provision is relevant in this appeal. As far as the evidence shows, CSI was
+not a division of BAE. There is no proof of any business arrangements between BAE and
+CSI that would call into question any competitive restraint issues. Being in the ship repair
+business, we expect BAE and CSI to know where to buy its parts and materials. There is no
+evidence that BAE and CSI bought parts and materials at excessive prices. Given the
+urgency of the work involved, it would not have been prudent for BAE and CSI to seek
+competitive bids each time a piping change surfaced. Other than disputing whether OT
+differential is allowable, the government has not taken the position that the labor rates BAE
+and CSI paid are unreasonable.
+
+
+                                            66
+              (2) BAE and CSI Have Established a Prima Facie Case of Cost Reasonableness
+
+        BAE's and CSI's CFRs were estimated by experienced estimators: CSI's
+Mr. Brown was the director of estimating of his firm where he was co-owner
+(finding 15). BAE's Mr. Bain who reviewed CSI's CFRs and added BAE's labor and
+materials came up "through the pipefitting trade" (finding 29). Moreover, BAE's and
+CSI's CFRs were based upon on site personal observations of what needed to be done:
+Mr. Brown was on the vessel and at the location in every case where it was discovered
+that the piping was not as represented on the contract drawings. His material estimates
+were upon "[i]nspection onboard the ship and then counting what was there, where we
+had to go, and what we had to do." He testified that he estimated with the expectation
+that others could see what were found and he would have to account for his estimates.
+(Finding 28) Although Mr. Bain did not redo CSI's estimates, he did check the areas
+CSI was concerned about and reviewed CS I's estimates based on his "rule of thumb"
+derived from his experience "coming up.through the pipefitting trade" (finding 29).
+
+       Following procedures outlined in the contract (finding 3), BAE and CSI
+submitted 19 CFRs with a total estimated price of $986,248.54 (finding 121).
+Excluding CFR No. 231 which CSI estimated and settled for $3,227 .15 (finding 111 ),
+CSI estimated it would cost $983,021.39 ($986,248.54 - $3,227.15) for the remaining
+18 CFRs. After deducting the materials ($220.00) and labor hours (30 ST and 12 OT)
+for CFR No. 231, and the labor hours we found unallowable (findings 155, 166, 168),
+we found BAE, through documents kept in the ordinary course of business, such as
+time sheets, Job Labor Status Reports, Labor Distribution Reports, Material Status
+Reports and material invoices, was able to establish that $975,641.17, or 99.24% of the
+$983,021.39 it estimated to accomplish the copper/nickel piping replacement work
+was incurred. 25
+
+       In terms of labor hours, CSI and BAE estimated they would need roughly
+$604,456.25 in ST and OT to accomplish the additional work called for by the 19
+CFRs (finding 122). CSI and BAE proved that they incurred $662,410.19 ($79,254.00
++ $8,057.44 + $313,040.00 + $74,321.00 + $187,737.75) in ST and OT costs, just
+9 .6% more, in performing the CFRs.
+
+       In terms of materials, CSI's CFR estimated an additional $160,692.80 worth of
+piping parts, not including freight and sales tax in some cases, would be needed
+(finding 123). Based on the invoices CSI submitted, the CO found substantiation of
+$162,482.40 (finding 198). Excluding the sales tax Tork Systems separately billed,
+
+
+25
+     We recognize we have made a number ofunallowable deductions (findings 155
+       (CSI labor), 166, 168 (BAE labor), 169 (BAE material). Their impact on the
+       total costs incurred was insignificant.
+
+                                          67
+CSI proved that it incurred $176,564.52 ($187,652.27 - $11,087.75), 9.8% more than
+estimated.
+
+       With minor exceptions such as CSI's unrecorded 20 OT hours (findings 179, 182),
+DCAA, in auditing BAE's and CSI's time sheets and material invoices, was able to verify and
+reconcile the labor and material costs recorded with the costs claimed (findings 171-83 ).
+
+       Moreover, the maintenance on the LSV-3, LSV-5's sister ship, followed closely
+"on the heels" of the LSV-5. The government used "the volumes of pipe and fittings that
+were submitted on [BAE's LSV-5] invoices" in soliciting proposals for the LSV-3. We
+found that the government must have considered that the piping runs and fittings
+ultimately installed on the LSV-5 were reasonable and would not mislead LSV-3 bidders.
+(Finding 195)
+
+       We conclude that BAE has established a prima facie case that the costs it
+incurred are reasonable.
+
+       The government, on the other hand, has failed to contest or rebut the
+reasonableness of the costs shown to have been incurred: The government's Ship
+Surveyor was regularly aboard the vessel and had the opportunity to look at the piping
+systems as they were being removed and installed. There is no evidence Ship Surveyor
+Large went out and checked CSI's and BAE's estimates. (Finding 35) As the CO's eyes
+and ears at the shipyard and one charged with the responsibility to advise the CO on
+technical issues, Ship Surveyor Large prepared no Specification Worksheet (government
+estimate) on any of the CFRs (finding 34). Without estimates, the CO granted an
+equitable adjustment based on the benefit-of-the-bargain approach which we rejected.
+The CO took no exceptions to the audit findings but complained that DCAA did not
+obtain "technical advice" in reaching its conclusions. The CO had it backwards. She and
+her technical team, not DCAA, were in the better position to assess the claim from a
+technical standpoint (finding 184 ).
+
+             (3) Labor Hours Unrelated to the Piping CFRs have been Disallowed
+and there was No Proof of Operation Inefficiency
+
+       To the extent CSI and BAE erroneously charged labor hours unrelated to the
+piping CFR work, they have been disallowed (findings 155-56, 165-66, 168). There is
+no evidence BAE and CSI "operated with an unreasonable level of inefficiency."
+When CFR work was discovered, CSI and BAE promptly submitted CFRs. Despite
+the CO's inaction, CSI and BAE proceeded with the work nonetheless because the
+specification required "what was there had to be replaced," and CSI did not want its
+workers "standing around waiting ... for something to happen" (findings 37, 127).
+
+
+                                          68
+                                    CONCLUSION
+
+       Because BAE has proven, by a preponderance of the evidence, that it incurred
+additional labor, material, and subcontractor costs in accomplishing the unanticipated
+and additional work in replacing LSV-5's Potable Water, Air Conditioning, and Drain
+Piping Systems, we hold that it is entitled to $97 5,641.17.
+
+       Because the CO granted and paid $351,244.12 in her decision, we hold that
+BAE is entitled to $624,397.05 ($975,641.17 - $351,244.12) with interest pursuant to
+41 U.S.C. § 7109 running from 11 July 2011, the putative date on which the CO
+received BAE's 6 July 2011 letter (finding 160) converting REA No. 7 into a certified
+claim.
+
+                                  ASBCA No. 59642
+
+       The CO's 3 October 2014 decision amended her 1August2013 decision by asserting
+that BAE was over paid $47,195.42. Of this amount, (1) $43,968.27 was due to a
+calculation error when she computed equitable adjustment of the piping claim using the
+benefit-of-the-bargain approach, and (2) $3,227 .15 was due to her discovery that the parties
+had actually settled CFR No. 231 in 2007 through Modification No. 9. (Findings 203, 204)
+Recalculating the CDA interest ($19,075.34) paid on the $351,244.12, CO Panton found the
+government owed $16,506.68 on $304,048.70. Adding $16,506.68 in interest to the
+$304,048.70, the CO determined the equitable adjustment allowed should be $320,555.38
+($304,048.70 + $16,506.68), with the net result that BAE now owes the government
+$30,688.74 ($351,244.12 - $320,555.38) (finding 205).
+
+                                    CONCLUSION
+
+      Because we rejected the benefit-of-the bargain approach as a way of
+determining equitable adjustment for the piping CFRs, the CO's calculation error
+based on that approach is inconsequential, and BAE' s appeal is granted to the extent
+determined in ASBCA No. 58810.
+
+      Because BAE has acknowledged that the parties settled CFR No. 231, and the
+government has paid the agreed amount through Modification No. 9, ASBCA
+
+
+                                          69
+No. 59642 is dismissed as moot. In the Board's overall determination of the quantum
+of adjustment in ASBCA No. 58810, we have taken the settlement into account.
+
+      Dated: 13 June 2016
+
+                                                ..
+                                                     PETER D. TING
+                                                     Administrative Judge
+                                                     Armed Services Board
+                                                     of Contract Appeals
+
+ I concur                                            I concur
+
+
+   / L~c/t/. ~-i
+     / ; / _ /
+
+                     <')   .-   . - -   -
+                                            -
+
+
+ MJ\RK. N. STEMPLER                                  RICHARD SHACKLEFORD
+ Administrative Judge                                Administrative Judge
+ Acting Chairman                                     Vice Chairman
+ Armed Services Board                                Armed Services Board
+ of Contract Appeals                                 of Contract Appeals
+
+
+       I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA Nos. 58810, 59642, Appeals of
+BAE Systems, San Francisco Ship Repair, rendered in conformance with the Board's
+Charter.
+
+      Dated:
+
+
+                                                     JEFFREY D. GARDIN
+                                                     Recorder, Armed Services
+                                                     Board of Contract Appeals
+
+
+                                                70

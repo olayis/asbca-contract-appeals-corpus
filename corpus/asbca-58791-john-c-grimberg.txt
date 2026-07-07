@@ -1,0 +1,3029 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeals of --                                   )
+                                                )
+John C. Grimberg Co., Inc.                      )      ASBCA Nos. 58791, 59167, 59168
+                                                )                 59169, 59170,59171
+                                                )                 59717
+                                                )
+Under Contract No. W912DR-09-C-0038             )
+
+APPEARANCES FOR THE APPELLANT:                         Edward J. Parrott, Esq.
+                                                       Stephanie M. Rochel, Esq.
+                                                        Watt, Tieder, Hoffar & Fitzgerald, LLP
+                                                        McLean, VA
+
+APPEARANCES FOR THE GOVERNMENT:                        Michael P. Goodman, Esq.
+                                                        Engineer Chief Trial Attorney
+                                                       Scott C. Seufert, Esq.
+                                                       David B. Jerger, Esq.
+                                                        Engineer Trial Attorneys
+                                                        U.S. Army Engineer District, Baltimore
+
+                OPINION BY ADMINISTRATIVE JUDGE PEACOCK
+
+       These appeals involve claims for alleged differing site conditions, delays,
+acceleration and multiple changes arising out of construction of a Bio lab facility at
+Fort Detrick, Maryland. Entitlement only is before us for decision. For the reasons
+detailed below, we sustain ASBCA No. 58791, sustain in part ASBCA No. 59717 and
+deny ASBCA Nos. 59167, 59168, 59169 and 59170. At trial, the parties agreed to
+dismiss ASBCA No. 59171 with prejudice (tr. 4/6-7).
+
+                                 FINDINGS OF FACT
+
+A. CAISSONS DIFFERING SITE CONDITION-ASBCA No. 58791
+
+        1. The referenced contract was awarded to John C. Grimberg Co., Inc. (appellant.
+JCG or Grimberg) by the Baltimore, Maryland, District U.S. Army Corps of Engineers
+(Corps or government) on May 29, 2009, for construction of the Navy Medical
+Biological Defense Research Laboratory (Biolab or Project) (R4, tab 2 at I). The amount
+of the contract was $21,087,000.00 (id. at 2). The period of performance was 720 days
+from receiving notice to proceed (id. at 1). The contract was a design-build contract
+(id; GPF 62 1). As is typical of a design-build contract, no unit prices for rock excavation
+were set forth because the contractor's foundation solution is not established at the time
+of award (tr. 2/43, 4/40; GPF 63). The contract incorporated Federal Acquisition
+Regulation (FAR) 52.236-2, DIFFERING SITE CONDITIONS (APR 1984J(the DSC clause);
+FAR 52.243-4, CHANGES (JUN 2007); and FAR 52.249-10, DEFAULT (FIXED-PRICE
+CONSTRUCTION) (APR 1984) (APFs 5-9; GPF 13).
+
+t.    Fort Detrick and its Karst Geology Generally
+
+        2. The Project is located at Fort Detrick in Frederick County, Western Maryland
+(tr. 5/28, 31). Geologically, the rock beneath Fort Detrick is part of the Frederick Formation
+(R4, tab 5 at 2-3). The Frederick Formation is known for its karst geology (tr. 5/26; GPF 1).
+
+        3. Karst geology is a geological formation shaped by the dissolution of a layer or
+layers of soluble bedrock, usually carbonate rock such as limestone, dolomite, or gypsum,
+but has also been documented for weathering-resistant rocks, such as quartzite, given the
+right conditions (R4, tab l at 4 n.3). Karst is a recognized geohazard, "[k]nown for its
+variability and its degree of inconsistency, both vertically and horizontally over extremely
+short distances" (tr. 5/27). Karst also has significant top of rock variation (tr. 8/127, 167).
+Karst is unique in that the existence of a solid appearing outcrop right at the location of a
+footing or pier does not guarantee that good rock will appear below the outcrop (tr. 7/167).
+For this reason offerors should anticipate that conditions at one location can differ from
+conditions at another location (tr. 7/169). Karst conditions can vary over short distances
+(tr. 8/139). In karst, "you can have a mass of soil in the solution feature, or a karst feature,
+and immediately adjacent to it is good hard rock (tr. 3/89, see also tr~ 8/139, 141). Karst is
+"consistently inconsistent" (tr. 5/32-33; GPF 2).
+
+       4. Voids are present throughout the Frederick Formation (tr. 8/130). They are
+present in areas without strong evidence of ·'strike and dip'' (tr. 8/159-60). Strike and dip
+are considerations in karst limestone but are not the defining features for understanding
+
+1
+     The Board issued a briefing order in these appeals, inter alia, requirihg that each party,
+          in its initial post-hearing brief, propose findings of fact supported by detailed
+          citations to pertinent portions of the record. The briefing order.further required that
+          each party, in its reply brief, respond to the opposing party's proposed findings of
+          fact with specificity interposing all objections it had to those proposed findings.
+          Both parties have filed excellent briefs in compliance with that\>rder. Accordingly,
+          the Board has extensively adopted many of each party's findings to the extent that
+          there was no objection. Appellant's and the government's proposed findings are
+          designated APF and GPF, respectively followed by the proposed finding number.
+          In adopting party-proposed findings, the Board generally incorporates the citations
+          to the record set forth in the proposed findings (without repetition in this decision)
+          as support for the Board's own findings.
+
+                                                 2
+conditions at the Project site (tr. 8/123, 155-56, 159-60). Other factors and conditions
+that can impact incompetent rock, 2 such as top of rock variation, must be accounted for
+(tr. 8/128, 139, 141; GPF 3).
+
+        5. Grimberg has pe1formed several contracts at Fmt Detrick, which is approximately
+40 miles from Grimberg's home office (tr. 1/53). The other Grimberg projects at Fort Detrick
+involving deep foundations were design-bid-build projects and had unit prices for rock
+excavation. On at least one of these prior contracts, Grimberg contracted with the same
+drilling subcontractor, Seaboard Foundations, as it did on this project. One prior contract
+involved construction of the Steam Sterilization Plant (SSP), located approximately 400 yards
+from the Project (tr. 1/57). Because the earlier contracts were design-bid-build, the
+government, not Grimberg, performed all design functions. (Tr. 1/57-58, 62, 149; GPF 5)
+
+      6. Grimberg had not bid a design-build project at Fort Detrick with deep
+foundations before. In addition, this was Grimberg's first project involving deep
+foundations that did not contain unit prices. (Tr. 1/147; GPF 6)
+
+ii. The Government's Constntction Cost Estimate Foundation Assumptions
+
+       7. Mr. Brian Glock is a senior geotechnical engineer with the Baltimore District,
+Corps of Engineers. He has lived and worked in the Baltimore area almost his entire life.
+He has extensive geotechnical knowledge of the Baltimore area and experience covering the
+design of numerous foundation types, including drilled piers, and in designs involving karst
+geology. (Tr. 4/32-37; GPF 7)
+
+        8. On October 14, 2008, Mr. Glock prepared assumptions for the government's
+construction cost estimate for the Project's deep foundation work (R4, tab 156;
+tr. 4/42-43; GPF 8).
+
+        9. Mr. Glock' s estimate assumed a contractor would install drilled piers with
+an average diameter of 4 feet, and an average total length of 35 feet (tr. 4/156-57; R4,
+tab 156). Each pier would end with a rock socket, the portion of the pier that carries the
+Project building's structural load. The rock socket must be set in competent rock. (See, e.g.,
+R4, tab 5 at 9, tab 9 at 5) The piers would extend through an estimated 20 feet of soil and
+15 feet of rock (R4, tab 156 at 2). Mr. Glock did not differentiate between estimated
+quantities of competent and incompetent rock to be excavated (id.). Mr. Glock indicated in
+his trial testimony, however, that of the 15 feet of rock excavation, 10 to 11 feet he assumed
+would be allocated for incompetent rock and 4 to 5 feet was allocated for competent rock, in
+which the rock socket would be set (tr. 4/181-82). The 15-foot figure represented his
+estimated average across all drilled piers (tr. 4/158-59, 8/136; GPF 9).
+
+2
+    As used by both parties, "incompetent" rock refers to poor quality rock unsuitable for
+         supporting the drilled pier foundation designed for this project.
+
+                                               3
+      10. Mr. Glock included excavation costs for approximately 10 to 11 feet of
+incompetent rock in his estimate (GPF 10).
+
+lll.   The Contract Geotechnical Report
+
+     11. The request for proposals (RFP) contained two volumes of specifications.
+Volume 1, section 01 10 00, paragraph 5.2.1, provided that:
+
+               A preliminary geotechnical report has been prepared
+               describing the general subsurface conditions in the vicinity of
+               the Project site. The geotechnical data and discussion in this
+               report are intended to provide the Offeror with sufficient
+               information to identify the general subsurface conditions at
+               the site. The report also discusses geotechnical related
+               requirements for the Project and is included as "Appendix A -
+               Geotechnical Report and Requirements.''
+
+(R4, tab 4 at l; GPF 14)
+
+       12. Mr. Glock prepared the contract's Geotechnical Report. He reviewed existing
+subsurface information, determined which information should be included in the Geotechnical
+Report, and prepared a narrative describing that information. (Tr. 4/41, 49; GPF 15)
+
+        13. The Geotechnical Report appeared in Volume 2, Appendix A, of the RFP
+specifications (R4, tab 5). It described the general subsurface conditions at the Project site,
+detailing the unpredictable "karstic" nature of the regional geology. The purpose of the
+Geotechnical Report was to inform bidders of the subsurface conditions in which they
+would perform, prepare their bid and plan for foundation design and construction. (Id. at 2;
+tr. 4/49-51; GPF 16)
+
+       14. After award, the contractor was responsible for the full geotechnical
+investigation, design and construction. Design was required to be performed by a
+professional engineer registered in Maryland and take into account the regional geology.
+(R4, tab 5 at 2, 9; tr. 4/50-53; GPF 17)
+
+        15. The Geotechnical Report noted that "[f]or bidding purposes, it should be
+assumed that the NMBDRL [Biolab] building will require a deep foundation system
+of drilled piers or drilled micropiles, socketed into sound rock" (R4, tab 5 at 9). No
+particular foundation type was required (GPF 18).
+
+
+                                              4
+       16. Regarding the karst geology, section II.H stated:
+
+              Considerations in Karst Terrain: The subsurface conditions
+              in the area consist of residual soils and disintegrated rock
+              over solution weathered limestone. The variable rock surface
+              and fracturing, voids, etc[.] within the rock raise issues such
+              as rock excavation and the potential for sinkhole formation
+              that must be considered by the geotechnical designer. The
+              contractor's geotechnical designer must consider and address
+              the impacts of this karst geology on all aspects of the
+              Project's design and construction. Such considerations
+              include, but are not limited to, related impacts on foundation
+              type and design, slab type and design, earthwork operations,
+              earthwork materials, layout of site features, grading, handling
+              of surface drainage and drainage off of structures, rock
+              inspection and treatment requirements.
+
+(R4, tab 5 at 5; GPF 19)
+
+       17. Regarding potential rock excavation at the site, section III. C stated:
+
+             The limestone bedrock is subject to solution weathering and
+             variations in the depth to rock may be experienced over
+             limited horizontal distances. It should therefore be
+             anticipated that excavations below grade may encounter rock.
+             The contractor's geotechnical designer shall evaluate the
+             potential for rock excavation in the work. The limestone
+             bedrock beneath Ft. Detrick ranges from thin bedded shaley
+             limestones that are sometimes rippable in mass excavation to
+             more massive or thick bedded limestone that cannot easily be
+             ripped and generally requires mechanical means of rock
+             excavation or drilling and blasting for removal.
+
+(R4, tab 5 at 6; GPF 20)
+
+       18. Section ILG stated that:
+
+             On another project at Ft. Detrick referred to as [the
+             USAMRIID] Project voids were encountered in 152 test
+             borings out of a total of 257 borings drilled. While numerous
+             drill holes encountered voids, most voids were small.
+             Aggregate void thickness exceeded five feet in 23 of the
+             257 boreholes, and was as high as 20 feet. Plotting of the
+
+
+                                             5
+              aggregate void distribution revealed that the larger voids
+              occurred in clusters aligned along the bedding strike.
+
+(R4, tab 5 at 4) At trial, Mr. Glock described how this language indicates that larger, but
+not all, voids lined up with the rock's bedding strike (tr. 4/203; GPF 21).
+
+        19. Attached to the Geotechnical Report was a "Boring Location Plan,'' showing
+the lpcations of various soil and rock borings, as well as a total of 46 boring logs (R4,
+tab 5 at 12). These borings were generally only a few inches in diameter and are
+comparable to the diameter of a compact disk (tr. 5/35). Also attached to the
+Geotechnical Report were photos of certain borings, laboratory testing data and other
+materials (R4, tab 5 at 14-170).
+
+        20. Mr. Glock selected these 46 borings after reviewing several hundred borings
+(tr. 4/92-94). Mr. Glock included this number of borings due to the need for lots of data
+when designing in a karst context (tr. 4/52, 78-79). "[O]ur end goal is to provide
+information which looked at in total can be considered representative of the conditions by
+bidders of the site." "[W]e wanted to provide information in the general area of the site, and
+a sufficient quantity of and quality of information as well, that could be properly,
+reasonably interpreted for the conditions.'' In selecting the 46 borings, Mr. Glock wanted to
+provide enough borings that bidders could be reasonably informed of the karst's variability,
+but not so many borings that analysis would be unmanageable. (Tr. 4/113-14; GPF 22)
+
+       21. By reviewing all 46 borings, Mr. Glock considered a bidder would understand
+the range of conditions at the Project site (tr. 8/142, 163-64). "[W]e were looking and
+intending to provide information that would have generated assumptions of large
+amounts of incompetent rock" (GPF 24).
+
+        22. Boring DH-11 notes that "LIMESTONE" was encountered at a depth of
+21 feet (R4, tab 5 at 17). Boring DH-12 notes that "LIMESTONE" was encountered at
+15.4 feet (id. at 18). Photographs of these two borings were also attached to the
+Geotechnical Report (R4, tab 5 at 97-98; tr. 4/122). The purpose for including the
+photos in the Geotechnical Report was to show detail in the rock (tr. 4/87, 119). The
+photographs of the rock samples generally suggest that rock removed at the locations of
+borings DH-11 and -12 was of relatively good quality, containing only limited fracturing
+(tr. 4/87; R4, tab 5 at 97-98; GPF 28).
+
+        23. Five of the logs contain the designation "ECS" and are related to the site of
+another then recently-completed project located "directly to the southeast of the [Project
+site]" ["ECS Borings''] (R4, tab 5 at 26-32). These borings were included due to their
+relative proximity to the site (tr. 4/129-30). After contract award, Grimberg hired ECS to
+conduct the post-award geotechnical investigation (finding 45). The ECS Borings used
+
+
+                                             6
+in the pre-award Geotechnical Report are separate and distinct from the material
+assembled by ECS on Grimberg's behalf after contract award (GPF 29).
+
+       24. Regarding eleven National Interagency Biodefense Campus (NIBC) Borings
+and the seven ECS Borings, which were taken in the vicinity of the Project site, section
+II.G of the Geotechnical Report stated:
+
+              Bedrock indicated by the test borings is a medium gray
+              limestone interbedded with shale. The limestone ranges from
+              thin to thick bedded with thin shale beds and healed calcite
+              veins. The rock varies from soft to very hard, with varying
+              degrees of solution weathering. Boring data included herein
+              from previous projects obtained within the immediate
+              boundaries of this site and the borings drilled by ECS to the
+              east were free of voids within the limestone bedrock.
+              However, voids were encountered in many of the boreholes
+              drilled to the south and west of this site. It should not be
+              assumed that the rock below this site will be free of voids as
+              the borehole data included for the NMBDRL site [i.e., the
+              NIBC Borings] was obtained from a few widely spaced
+              boreholes. The highest density of boreholes drilled for the
+              data included was on the USAMRIID site to the south, where
+              all accessible columns were drilled to determine design
+              bottom elevations for the planned milled pier foundations.
+
+(R4, tab 5 at 4)
+
+        25. Thirty borings provided in the Geotechnical Report were taken from a
+highly-dense cluster of boreholes to the south of the Project. These borings were related
+to the USAMRIID project (USAMRIID Borings). (R4, tab 5 at 3) The USAMRIID
+Borings were made to establish actual drilled pier depths for the USAMRIID project
+(tr. 4/126-27, 136-37). They show between zero and twenty feet of incompetent rock
+(tr. 7/170). Within this variation is a lot of poor quality rock material (tr. 3/90). Like the
+NIBC Borings, the USAMRIID Borings show the depths and elevations at which soil and
+rock were encountered (GPF 31).
+
+       26. In contrast to the NIBC Borings, the USAMRIID Borings contain little to no
+description of the soil encountered, but do contain detailed descriptions regarding the quality
+and character of the rock itself, discussing color, density, weathering and other characteristics
+(R4, tab 5 at 33-95). The Geotechnical Report was explicit about this disparity, stating:
+
+              It should also be noted that rock descriptions in the attached
+              NIBC borings are relatively generalized due to the
+
+
+                                              7
+
+                                                                                                    i
+               preliminaty nature of that investigation. Boring logs from the
+               adjacent planned USAMRIID building show the rock
+               conditions in more detail and therefore better describe the
+               general rock conditions in the area.
+
+(Id. at 3; GPF 32)
+
+1v.   The Pre-Proposal Alphatec Analysis and Seaboard Subcontractor Quote
+
+        2 7. Grunberg selected Alphatec, P. C. as the designer of record for this Project
+(APF 19). Alphatec prepared and submitted a preliminaty design analysis to Grimberg
+prior to Grimberg bidding on the Project (Alphatec Report) (R4, tab 157; tr. 1/79; see
+also R4, tab 158). Alphatec prepared its Report by reviewing the RFP (R4, tab 157 at 7;
+tr. 1/110). Alphatec worked with ECS to prepare the Report (tr. 8/40; GPF 42).
+
+       28. At section C.3, "Preliminaty Geotechnical Recommendations," the Alphatec
+Report contains a discussion of geotechnical considerations on the Project, including a
+description of the karstic subsurface conditions. Critically, the Alphatec Report stated:
+
+              Our preliminaty recommendations for drilled shaft and
+              micropile foundations are provided below. Please note that
+              these recommendations are preliminaty in nature and are for
+              budgeting purposes only. The Project site is located in karst
+              geology where the depths to rock from existing ground
+              surface may vaty greatly within a short horizontal distance
+              and the contractor may have to drill through deeper depth of
+              overburden than what is presented in the soil borings.
+              Likewise deeper drilling into rock may be necessaty to
+              account for uncertainty related to rock quality, voids, and
+              seams encountered within the socket or bond lengths. The
+              contractor, therefore. should include a significant allowance
+              in their bid to compensate for probable unknown or
+              unforeseen site conditions. These conditions may include,
+              but are not limited to additional drilling and rock coring,
+              difficulties in drilling due to vatying depth of overburden,
+              unknown rock conditions, additional probe holes or rock
+              coring, grouting of voids, additional micropile bond length,
+              etc. [Emphasis added]
+
+(R4, tab 157 at 7; see also tr. 1/110-12; GPF 43)
+
+
+                                             8
+        29. The Alphatec Report recommends a minimum length of five feet for rock
+sockets for the Project's caissons (drilled reinforced concrete piers) (R4, tab 157 at 6;
+tr. 1/129-30; GPF 47).
+
+        30. Mr. Grimberg edited portions of the Alphatec Report and included them in
+Grimberg' s technical proposal for the Project, discussed in more detail, below (tr. 1/ 111-13 ).
+In particular, he struck the language from the Alphatec Report recommending that Grimberg
+·'include a significant allowance in their bid to compensate for probable unknown or
+unforeseen site conditions" because Grim berg does not ·'bid projects that way" (tr. 1/81-82 ).
+Mr. Jim Graham indicated that he would not have allowed such an ·'allowance" to go into
+Grimberg's bid (tr. 8/48; GPF 45).
+
+        3 1. Grimberg solicited quotes from drilling subcontractors for the Project prior to
+submitting its proposal to the government. On March 30, 2009, Seaboard Foundations
+submitted a quote in the amount of $200,492.00 (app. supp. R4, tab 219 at 39). This bid
+was based on drilling through five feet of rock (id; tr. 1/164). This bid also contained
+unit prices for rock excavation exceeding the five-foot socket (id.; GPF 48).
+
+       32. Grimberg instructed Seaboard to include only five feet of rock excavation in
+its quote (R4, tab 155 at 5; GPFs 50-51).
+
+v. The JCG Proposal
+
+       33. JCG submitted its Technical Proposal and its best and final offer on March 31,
+2009 (APF 14). The JCG Technical Proposal became part of the contract (R4, tab 3 at
+80). In formulating its costs for drilling, Grimberg used Seaboard's quote and added
+$45,000 for additional rebar and $100,000 for an additional five feet of rock excavation
+and socket, assuming that the design loads required the additional five feet for the socket.
+The additional five feet was not required and is unrelated to JCG's estimate of subsurface
+conditions. (Tr. 8/49-50) This resulted in a caissons bid of $345,492 from Grimberg to
+the government (app. supp. R4, tab 219 at l; GPF 53).
+
+       34. Grimberg timely submitted a proposal (Proposal) in response to the RFP. The
+Proposal contained extensive representations regarding Grimberg' s Fort Detrick karst
+experience and its intended approach to the geotechnical aspects of the Project. (R4,
+tab 7; GPF 54)
+
+       35. The Proposal's cover letter notes:
+
+              The enclosed proposal demonstrates Grimberg' s unique
+              qualifications, including its quality control program
+              developed according to the strict standards of the USACE
+              certification requirements, relevant experience with BSL2
+
+
+                                              9
+             laboratories and precision control systems, and familiarity
+             with Fort Detrick's unique karst topography and other base
+             regulations. Grimberg maintains an existing infrastructure for
+             ongoing contracts at Fort Detrick, and has received multiple
+             awards and commendations for projects successfully
+             completed at the Army base.
+
+(R4, tab 7 at 2; GPF 55)
+
+    36. Regarding its experience at Fort Detrick, the Proposal's ·'Executive
+Summary'' stated:
+
+             Grimberg also maintains an existing infrastructure at Fort
+             Detrick and is familiar with base-specific construction
+             procedures required by the unique karst topography, as well
+             as other base regulations.
+
+
+             Furthermore, Grimberg is thoroughly familiar with the
+             construction challenges at Fort Detrick, including site and
+             foundation preparation work required for the karst
+             topography. Grimberg has one ongoing contract on site and
+             has completed numerous past projects with outstanding
+             results. The contractor's existing infrastructure is prepared to
+             address the unique site conditions, thus ensuring an efficient
+             project start-up, execution, and completion.
+
+
+             Added Value Highlight (Relevant Experience)
+
+             USAMRIID Steam Sterilization Plant, Fort Detrick:
+             Grimberg is serving as the prime contractor to construct the
+             new, $30,000,000 steam sterilization plant with the capacity
+             to decontaminate 126,000 gallons of liquid bio-waste per day.
+             In addition, the project requires extensive site preparations of
+             the karst topography, including substrate excavation, rock
+             removal, vibration controls for facility foundations, and
+             relocation of laboratory sanitary sewer lines.
+
+
+                                            10
+             USACE and Fort Detrick Experience: A successful contract
+             completion is also ensured by Grimberg' s extensive military
+             contracting experience, which includes dozens of projects
+             performed for federal/USACE owners at secure and occupied
+             military bases virtually identical to Fort Detrick. Moreover,
+             Grim berg maintains an existing infrastructure at Fort Detrick
+             for ongoing projects, and is experienced with Fort Detrick' s
+             unstable karst topography, including unique site preparation
+             requirements to deal with the limestone sq.bstrate.
+
+(R4, tab 7 at 4-6; GPF 56)
+
+       37. In the same section, Grimberg notes that "[t]he foundation system shall
+consist of drilled piers (caissons).'' The caissons were to have a minimum five-foot rock
+socket. (R4, tab 7 at 7) Grimberg had concerns about the use of micropiles in lieu of
+caissons and thought caissons were more "predictable" (tr. 1/90-91; GPF 57).
+
+       38. The Proposal also presents an extensive discussion of the karst geology of the
+site and Grimberg's planned approach to dealing with the unique issues raised thereby:
+
+             C. Geotechnical
+
+
+             2. Subsurface Conditions: Based on the geotechnical data
+             provided in the RFP, the design team understands that the
+             Project site is underlain by shallow fill soils over residual
+             soils. Based on the borings, the residual soils are underlain
+             by limestone rock, which was encountered at depths of about
+             5 to 27 feet. Solution features (such as sinkholes) are
+             considered possible on sites underlain by limestone bedrock.
+             The limestone units underlying the site are the Grove and
+             Frederick Formations, which are known to have significant
+             sinkhole problems.
+
+             3. Preliminary Geotechnical Recommendations: The
+             offeror' s preliminary recommendations for drilled shaft and
+             micropile foundations are provided below. Please note that
+             these recommendations are preliminary in nature and are for
+             budgeting purposes only.
+
+             The Project site is located in karst geology where the depths
+             to rock from existing ground surface may vary greatly within
+
+
+                                            11
+
+                                                                                            I
+I   a short horizontal distance, and the contractor may have to
+    drill through deeper depth of overburden than what is
+    presented in the soil borings. Likewise, deeper drilling into
+    rock may be necessary to account for uncertainty related to
+    rock quality, voids, and seams encountered within the socket
+    or bond lengths. Probable unknown or unforeseen site
+    conditions may include, but are not limited to, additional
+    drilling and rock coring, difficulties in drilling due to varying
+    depth of overburden, unknown rock conditions, additional
+    probe holes or rock coring, grouting of voids, additional
+    micropile bond length, etc.
+
+    4. Drilled Shafts: The building may be supported on straight
+    sided drilled shafts founded on limestone rock. .. The shafts
+    should have a minimum 5-foot rock socket. The offoror [sic]
+    recommends designing the shaft diameters as small as
+    possible to limit the volume of rock excavation.
+
+    To achieve the design bearing pressures, the shafts should be
+    founded in suitable limestone rock. Based on the information
+    provided in the RFP, it is expected that suitable rock will be
+    encountered at depths of about 5 to 30 feet below the ground
+    surface. Based on the estimated shaft grades, shaft lengths of
+    about 10 to 35 feet are estimated.
+
+
+    Rock excavation with a coring barrel is expected in the shafts
+    to reach suitable bearing rock materials. The limestone rock
+    may be steeply sloped and very hard. Excavation through
+    rock is expected in all shafts where the rock is sloped or
+    uneven. Additionally, voids ranging from about 0.5 to 20 feet
+    were encountered within the limestone rock in the test
+    borings. Therefore, additional rock removal should be
+    expected where voids are encountered during installation of
+    the drilled shafts.
+
+
+    5. Micropiles: A structural foundation system using
+    high-capacity, drilled and grouted micropiles may also be
+    considered to support the proposed strnctures. The least
+    amount of risk for cost overruns is believed to be associated
+
+
+                                   12
+                  with this foundation approach. Micropiles develop their
+                  capacity in skin friction. Typically, due to their small size
+                  and construction methods, end-bearing is neglected. A
+                  significant advantage of using micropiles is that the
+                  installation often uses continuous casing with rotary
+                  percussion duplex drilling methods that would not be
+                  significantly affected by floating boulders, voids, and rock
+                  ledges in the karst geology and would provide a stable hole in
+                  areas of soft materials ....
+
+                  It is recommended that seven inch diameter micropiles be
+                  used for preliminary foundation design due the possible
+
+I                 presence of boulders and pinnacles within the residual soils
+                  and voids within the limestone rock. ...
+
+
+                 If mud or air-filled voids are encountered within the bond
+                 length of the micropile, the casing should be extended to the
+                 bottom of the void and drilling for the new bond length
+                 should commence. The contractor must carry a reasonable
+                 allowance for additional micropile lengths into the rock until
+                 a sufficient length of competent rock is encountered. The
+                 total length of the micropiles will depend upon the depth to
+                 competent rock at the foundation locations ....
+
+
+                 Since the Project site is in karst geology, the designer
+                 recommends that micropile be installed using a suitable
+                 drilling method (such as "Duplex'' drilling systems) that
+                 advances the casing down hole with the drill string and thus
+                 protects the hole stability by mechanical means.... However,
+                 in karst conditions, drilling air may travel great distances due
+                 to open karst features.
+
+    (R4, tab 7 at 9-11) The above language is virtually identical to the corresponding sections of
+    the Alphatec Report, minus the deletion of the language recommending that Grimberg include
+    a "significant allowance" in its bid ''to compensate for probable unknown or unforeseen site
+    conditions" (R4, tab 157 at 7-9). At paragraph 5, though, the language does retain a similar
+    "allowance" recommendation relating to micropiles (R4, tab 7 at 11; GPF 58).
+
+
+                                                13
+       39. Grimberg's discussion of its proposed organizational approach to the Project,
+found in the ·'Factor 7: Project Plan-Construction Organization" section, notes:
+
+              Experience with Fort Detrick limestone substrate: Grimberg
+              has extensive relevant expertise with earthwork in karst
+              topography, including complex excavations involving
+              sinkholes, caves, depressions, bedrock, and other faults and the
+              vibration controls and other measures necessary for
+              construction in the location. The company is also experienced
+              in the careful coordination and monitoring of the
+              subcontractors associated with this difficult phase of a project.
+              The company's experience performing projects at Fort Detrick
+              and its coordination and oversight will provide extremely cost-
+              effective solutions, as well as ensure that all work is performed
+              efficiently, safely, and in a manner that both meets and
+              exceeds the Corps' expectations.
+
+(R4, tab 7 at 12)
+
+vi. Notice to Proceed, The Seaboard Subcontract and September 2009 ECS Report
+
+      40. Grimberg was given notice to proceed with work on the contract on June 29,
+2009 (R4, tab 8; GPF 64 ).
+
+       41. After award, Grimberg entered into a subcontract with Seaboard in the
+amount of $208,690 on August 3, 2010 (app. supp. R4, tab 57 at 1). This subcontract
+contained unit prices for rock excavation (tr. 2/41-43; GPF 66).
+
+       42. Its contract with the government required Grimberg to produce a final
+geotechnical evaluation report, as well as verify the completeness of the provided drawings,
+verify all utility connects, and crossings, and report any discrepancies to the contracting
+officer (R4, tab 4 at 1). The report was to be submitted "along with the first foundation
+design submittal" and was to:
+
+              [S]ummarize the subsurface conditions; provide
+              recommendations for the design of appropriate foundations,
+              floor slabs, retaining walls, embankments, pavements and any
+              other geotechnical related features. The report shall discuss
+              site stratigraphy, regional geology, bedrock stratigraphy, and
+              all other features of the subsurface. The report shall analyze
+              and provide necessary requirements for all items including
+              but not limited to foundation type and capacities, foundation
+              elevations, settlement analyses, lateral load parameters, slope
+
+
+                                            14
+              stability, soil and rock excavation, excavation support, and
+              parameters for seismic design.
+
+(R4, tab 4 at 2)
+
+        43. On June 15, 2009, Dr. Giovanni Bonita, Ph.D., P.E., P.G. of GEi Consultants,
+Inc., emailed Grimberg in response to a request for proposal from Grimberg to have
+GEi Consultants pe1form the post-award geotechnical survey (R4, tab 83 at 49-50).
+Dr. Bonita stated that based on his past experience at the Project site, "the terrain consisted
+of voided limestone and soft clays" (id at 50). He also warned Grimberg that its proposed
+boring program for the entire site may not identify voided limestone, and noted that such ·
+a failure could negatively impact Grimberg's project performance (id; GPF 68).
+
+       44. On June 16, 2009, Dr. Bonita provided Grimberg his assessment of the information
+contained in the RFP's Geotechnical Report (R4, tab 83 at 49). Dr. Bonita stated that the
+Geotechnical Report showed "soft soils underlain by a limestone with voids" (id; GPF 69).
+GEi Consultants did not get the post-award survey contract.
+
+        45. Grimberg hired ECS LLC Mid-Atlantic (ECS) to perform the post-award
+geotechnical work. On September 22, 2009, ECS submitted a report to Grimberg
+("September ECS Report") (R4, tab 160). The September ECS Report recommended
+that Grimberg use at minimum a 10-foot rock socket for its caissons (R4, tab 160 at 10;
+tr. 1/85). It also stated that "due to the irregularity of the limestone rock and poor quality of
+portions of the bedrock, caissons may extend below the estimated elevations given above"
+(GPF 70).
+
+       46. The charts in the September ECS Report show rock excavation quantities of
+up to 28 feet and a significant variation in depth to rock throughout the Project site (R4,
+tab 160 at 10, 17; tr. 5/150-55).
+
+vii. The Osterberg Test Report, Socket Length and the November ECS Report
+
+        4 7. After award, the government provided Grimberg a copy of an Osterberg Test
+Report performed for the USAMRIID project (R4, tab 161). The Osterberg Test Report
+identifies pier strength values with a high degree of precision (tr. 4/ 16-17). This allows for
+a more efficient design that eliminates unnecessary drilling (tr. 5/70-71 ). Seaboard assisted
+the contractor who performed the Osterberg test by drilling holes (tr. 4/168; GPF 72).
+
+        48. During November 2009, Grimberg was seeking information internally
+regarding the rationale for its bid for the caissons work. On November 23, 2009,
+Mr. Joe Duda of Grimberg emailed other Grimberg personnel stating that Grimberg's bid
+for the Project's structural and foundation design was based on the Alphatec Report.
+
+
+                                              15
+(R4, tab 158 at 1) The email's attachment has an excerpt of the report, with p01tions
+highlighted. The highlighted portion reads, in part:
+
+             All caissons are to have a minimum of 5' rock socket.
+             Caisson lengths are estimated to be 10'-35' based on
+             information in the geotechnical report provided in the RFP.
+             Please note that a significant amount of voids were
+             encountered in the borings taken at the site. The presence of
+             these voids can significantly affect depth of caisson, amount
+             of rock excavation and quantity of concrete and rebar
+             required.
+
+(Id at 2; GPF 74)
+
+       49. On November 6, 2009, ECS submitted a revised report to Grimberg (R4,
+tab 162). It contained information similar to the September ECS Report, including a
+recommendation for a 10-foot rock socket (id at 10; GPF 75).
+
+viii. Final December 2009 ECS Report and Foundation Design Drawings
+
+       50. The post-award Geotechnical eport that Grimberg was required to produce
+pursuant to the contract was finalized on December 18, 2009 (Final ECS Report) (R4,
+tab 9; GPF 76).
+
+      51. The Final ECS Report informed Grimberg that it may encounter more
+incompetent rock than priced into its proposal (tr. 1/113; GPF 77).
+
+      52. In preparing the Final ECS Report, ECS based its conclusions on:
+
+             [O]ur field subsurface explorations, previous soil borings
+             drilled at the adjacent NBACC site by ECS [i.e. the ECS
+             Borings], laboratory testing, our understanding of the Project,
+             and review of available geologic data. The subsurface
+             exploration program included a total of 14 soil borings
+             extended to depths of 10 feet to 24 feet below the existing
+             ground surface. We also preformed 38 rock probes to verify
+             depths to rock and the presence of voids. Laboratory tests
+             were then performed on selected soil and rock samples to
+             identify the soils and to assist in determination of the
+             engineering properties of the on-site soils and bedrock. We
+             have also visited the site recently to conduct a site
+             reconnaissance of current conditions.
+
+
+                                           16
+(R4, tab 9 at 5) The Final ECS Report did not reference NIBC Borings DH-11 and
+DH-12 (GPF 79).
+
+       53. The Final ECS Report noted that:
+
+              The site is mapped as containing rock of the Frederick
+              Limestone formation, which is thought to correlate with the
+              Conestoga Limestone of central Pennsylvania. The Frederick
+              Limestone is of Late Cambrian age and is generally
+              composed of dark blue/gray, thin-bedded argillaceous
+              limestone with some minor amounts of shale. The limestone
+              generally weathers to a reddish brown silty residual clay,
+              which can vary considerably in thickness over short
+              horizontal distances.
+
+(R4, tab 9 at 8; GPF 81)
+
+       54. The Final ECS Report recommended that drilled piers be used for foundation
+support for the Project's main building (R4, tab 9 at 10). Grimberg believed that drilled
+piers posed the least risk to the Project schedule (tr. 8/115). The Final ECS Report
+recommended a five-foot rock socket, based on the results of the Osterberg test provided
+by the government (R4, tab 9 at 10; GPF 82).
+
+       55. The Final ECS Report provided that "[d]ue to the irregularity of the limestone
+rock and poor quality of portions of the bedrock, drilled piers may need to extend below the
+estimated top of rock elevations [described in the Report] to reach suitable rock" (R4, tab 9
+at 11; GPF 83). While constructing the drilled piers, the Final ECS Report noted that:
+
+             Since the drilled piers are expected to advance through
+             weathered zones of rock and into substantial bedrock, it will
+             be necessary to provide adequate construction equipment so
+             that adequate penetration can be achieved by drilling
+             techniques.... Some difficulties with drilled pier installation
+             should be expected due to the pinnacled bedrock, float rock,
+             and boulders associated with karst geology.
+
+(R4, tab 9 at 12-14; GPF 84)
+
+       56. The Final ECS Report further discussed the need to excavate rock from the
+Project site:
+
+             Material requiring rock excavation methods was encountered in
+             our recent borings and in [the previously-performed ECS
+
+
+                                            17
+              Borings]. Considering the proposed grades for the new
+              construction, it is expected that rock excavation will not be
+              necessary for the building, however, rock excavation methods
+              could be required during installation of underground utility lines
+              at the site. Significant rock excavation and coring will be
+              necessary for the installation of the drilled piers.
+
+(R4, tab 9 at 18; GPF 85)
+
+        57. This Final ECS Report also stated that "due to the irregularity of the limestone
+rock and poor quality of portions of the bedrock, drilled piers may need to extend below
+the estimated top of rock elevations given above'' (GPF 87).
+
+       58. Each of the ECS Reports included estimated design depths for the Project's
+piers. ECS obtained this information by using probe holes at the piers' locations (tr. 4/138).
+Probe holes are a quicker but less accurate measure of rock strength than core borings and
+may lead to longer pier lengths than are necessary (tr. 4/226, 5/48, 8/173-75; GPF 88).
+
+        59. Mr. Glock reviewed the ECS Reports in the course of contract administration
+and found they correlated with his pre-award assumptions (tr. 4/43-45). These reports
+showed much more than five feet of rock excavation in certain locations (tr. 8/151 ).
+Based on his reviews, Mr. Glock recommended that Grimberg consider using micropiles
+in lieu of drilled piers (tr. 8/152; GPF 89).
+
+        60. On January 5, 2010, Grimberg's designer issued the foundation design drawings
+(R4, tab 179 at III-4 ). Drawing S-101 identifies the design depths for the caissons
+(tr. 7/20-21, 43-44, 8/46-47). Drawing S-101 does not separately identify the amount of
+soil and rock to be excavated (tr. 7/20-21, 43-44, 8/46-47; R4, tab 179 at III-32).
+
+ix. Caisson Drilling Operations
+
+        61. JCG's original plan was for its subcontractor, Seaboard, to drill caissons using
+a single drill rig (APF 219). On March 8, 2010, Seaboard mobilized the caisson drill rig
+to the site and on March 9, 2010, began drilling the first caisson (GPF 93). Grimberg
+eventually drilled 48 caissons (GPF 95).
+
+       62. Grimberg planned to drill 1.5 caissons per day (tr. 2/74). For the drilling,
+Grimberg would use one type of bit for drilling through soil. \Vhen it reached rock,
+it would switch out the drill's bit to one suitable for rock drilling. (Tr. 1/165, 8/220;
+GPF 94)
+
+      63. On March 10, 2010, appellant orally notified the government that it was
+encountering what it considered were excessive quantities of incompetent rock constituting
+
+
+                                              18
+differing site conditions (DSC) and the parties began tracking rock drilling quantities on
+each caisson (tr. 2/73, 107-11, 150).
+
+        64. As of March 24, 2010, Seaboard had mobilized and was using a second
+drilling rig (app. supp. R4, tab 88 at 155-65). As of April 9, 20 I 0, the subcontractor had
+mobilized a third drilling rig (APF 225).
+
+       65. On March 31, 2010, JCG's site superintendent f01warded an email to
+appellant's project manager (PM). The email was from JCG's subcontractor, Frede1ick
+Concrete (FC), requesting additional compensation for extending the caisson rebar
+because of the unanticipated rock quantities encountered (APF 227).
+
+      66. On the same date, appellant's PM fo1warded FC's cost proposal to the Corps
+and notified the USACE regarding the alleged DSC stating (APF 228):
+
+              I will send a formal letter but this is just a heads up. We are
+              experiencing unforeseen conditions with the Drilled Piers.
+              Through the inspection process voids and incompetent rock is
+              being experienced. This is causing the Drilled Pier to be
+              extended. Additional rebar for the extended pier and possible
+              additional concrete to fill the voids.
+
+        67. According to JCG's PM, the purpose of his March 31, 2010 email was to
+memorialize previous discussions with the Corps regarding "differing site conditions on
+this drilled piers and [this was] kind of a formal notice to the Corps that we're
+experiencing some unforeseen conditions with the drilled piers'' (APF 229; tr. 2/107).
+
+        68. The PM's March 31, 2010 email was forwarded within the Corps and brought
+to the attention of a Ms. Maryam Khan with the notation, "FYI, mod coming differing
+site conditions'' (APF 231).
+
+        69. The minutes of an April 2, 2010 Progress Meeting with the Corps, note the
+drilling issues JCG was encountering and that JCG was "[ e]xp~riencing voids in
+unsuitable rock causing depth of drilled pier to be extended'' (APF 232).
+
+        70. JCG's original plan for caisson drilling was to proceed with one rig
+consecutively through three specified areas of the foundation. JCG's "follow the leader''
+drilling plan would allow expedited construction as the grade beam and slab construction
+could commence in one area as caisson drilling continued in the other areas in a
+consecutive "follow the leader" fashion. Grimberg's original foundation plan was faster
+than waiting for all caisson drilling to be completed before commencing concreting of
+grade beams and slabs in all three areas. (Tr. 3/157; APF 247)
+
+
+                                             19
+       71. The April 15, 2010 Project Schedule Update indicated that grade beams and
+rough-in of underslab mechanical, electrical and plumbing (MEP) were among the items
+of work scheduled to be performed along with caisson drilling from April 15, 2010 to
+May 15, 2010 (exs. A-229-30).
+
+       72. Due to the crowding caused by the three rigs Seaboard had mobilized to the site,
+JCG was not able to perform grade beam work and MEP rough-in work concurrent with
+caisson operations, except for a few days at the end of May 2010, and only after two drill
+rigs had been removed from the site (app. supp. R4, tab 87 at 204; tr. 2/78-79; APFs 250-51).
+
+        73. The critical path method (CPM) updates show that grade beams were
+originally planned to precede the underground utility MEP rough-in. This sequence was
+reversed to expedite the work (i.e., utility work preceded grade beam work) (APF 250;
+tr. 2/23 ). Underground MEP rough-in began once two of the three drill rigs were
+removed from the site (app. supp. R4, tab 87 at 204).
+
+        74. JCG was not able to operate three caisson drill rigs and concurrently prosecute
+grade beam work, particularly given the unpredictability of how long it would take to
+drill each caisson. The specifications prohibited caisson drilling within 20 feet of
+concrete placed in the past three days further complicating the sequencing of drilling with
+three rigs operating. (Tr. 8/65, 99-103)
+
+       75. Although ECS performed the post-award geotechnical investigation, Grimberg
+did not employ ECS for construction oversight and approving final pier lengths. Grimberg
+instead used Hillis Carnes, a firm that was uninvolved in the design (R4, tab 155).
+
+       76. On April 13, 2010, the Corps' ACO responded in writing to JCG's March 31,
+2010 letter:
+
+             I looked over the caisson extension proposal, and I noticed
+             the costs are for 12 caissons. Since you all have a total of
+             48 caissons, do you foresee encountering the same
+             incompetent rock issue with some of the other caisson work
+             to come? If so, I would suggest keeping track of all of the
+             costs and doing one mod for all this work at the end instead of
+             piece-mealing (in this case, I would issue a formal RFP to
+             you and you can respond to that letter with total final costs).
+             However, if you do not foresee any additional costs as part of
+             this specific work, let me know and I will go ahead and
+             review the current proposal and process mod.
+
+(R4, tab 154 at 42-43)
+
+
+                                            20
+       77. Appellant's site superintendent responded: "I agree, we will keep track
+and submit as one proposal. I just wanted to give [the Corps] a heads [up] that we were
+experiencing some additional costs due to extending these caissons." (R4, tab 154
+at 42-43)
+
+      78. The government then indicated its intent to issue a formal RFP for the
+incompetent rock issue (R4, tab 154 at 42-43 ).
+
+      79. Grimberg completed drilling piers on May 27, 2010 (app. supp. R4, tab 88 at 265).
+Grimberg tracked the amount of rock excavated totaling 923 feet (almost four times the
+amount of rock that it allegedly expected to excavate in its Proposal) (tr. 2/110-11; GPF 100).
+
+x. Development of the Dispute
+
+       80. By letter of August 16, 2010, to the government, JCG submitted a proposal to
+increase the contract amount by $374,341.00 for direct costs relating to "Cassion [sic]
+Additional Drilling" and characterized work associated with the construction of the
+caissons as a change to the contract (R4, tab 11). Most of the costs described related
+to additional drilled pier construction and earth and rock excavation work performed
+by Seaboard Foundations (R4, tab 11; GPF 102).
+
+        81. On August 25, 2010, the government responded. The government cited portions
+of the Geotechnical Report and concluded that "[b]ased on the information provided in the
+solicitation and the actual field data you submitted, the drilling depth encountered is within
+expected range of caisson and rock excavation depth." The response invited Grimberg to
+resubmit the request for compensation if additional information was available or to submit a
+request for a contracting officer's decision. (R4, tab 13; GPF 103)
+
+      82. By letter dated May 18, 2012, Grimberg submitted a Request for Equitable
+Adjustment (REA). The letter acknowledged the government's August 25, 2010 denial of
+Grimberg' s original request for additional compensation, provided additional explanation and
+support, and revised the amount requested downward to $345,363. (R4, tab 14; GPF 106)
+
+        83. The REA alleges that Grimberg encountered a "Type I" DSC 3 Specifically, the
+letter notes that Grimberg relied on only two of the NIBC Borings, DH-11 and DH-12, for
+bidding purposes, due to the proximity of these borings to the Project site (R4, tab 14 at 2).
+Grimberg, however, found that conditions at the Project site differed considerably from
+what was depicted by these two borings, that it did not encounter rock at an average of 18.2
+feet below the surface, and that when it did encounter rock, it varied in quality, leading to
+more rock excavation than it had estimated (R4, tab 14 at 2-3; GPF 107).
+
+3
+    A type I DSC occurs when the conditions at a site differ materially from those represented by
+         the government, pre-bid.
+
+                                              21
+       84. On June 8, 2012, the government denied the REA on the grounds that:
+1) it was unreasonable to rely on only two of the 46 borings in the RFP; 2) actual
+conditions encountered were accurately represented by the RFP; and 3) Grimberg was
+responsible for designing acceptable foundations, pavements and other geotechnical
+aspects of the Project (R4, tab 15; GPF 108).
+
+          85. Grimberg submitted a certified DSC claim, dated December 7, 2012, in which it
+alleges that it is entitled to $345,363.00 in additional compensation based upon a ·'Type I"
+DSC theory. The claim is essentially a reiteration of Grimberg's position in its REA, with
+further explanation, including discussion of the expert opinions and discussion of what
+Grimberg perceives to be the legal principles relevant to the resolution of the dispute. The
+claim states that "Grimberg' s claim rests upon the presence of unanticipated incompetent
+rock. .. causing Grimberg to drill through rock for a greater distance, and at increased costs, ·
+before encountering the required depth of competent rock." According to the claim,
+"[Seaboard] encountered rock at 12.5 feet, drilled another 13.6 feet to competent rock at
+depth 26.1 and then drilled 5 to 6 feet to achieve the [caisson] socket: 13.6 feet plus 6 feet
+equals 19.6 feet of rock." (R4, tab 19 at 5; GPF 119)
+
+       86. The claim was denied by the contracting officer in a final decision dated
+April 30, 2013 (R4, tab 1). JCG timely appealed to the Board on July 23, 2013, and the
+appeal was docketed as ASBCA No. 58791.
+
+xi. Dr. Heuer 's Expert Opinion
+
+       87. In the summer of 2012, JCG engaged Dr. Ronald Heuer to analyze whether JCG
+had encountered a DSC during drilling for the Biolab foundation caissons (tr. 3/59; APF 372).
+Dr. Heuer has a bachelor's degree in civil engineering, a master's degree in geology, and a
+Ph.D. in civil engineering specializing in geotechnology (tr. 3/52; APF 373). Dr. Heuer has
+been engaged in geotechnical consulting for over 40 years (tr. 3/52; app. supp. R4, tab 276 at
+l; APF 374). Dr. Heuer has worked on over 1,100 projects: 1) for engineers and owners as a
+consultant during project planning and design; 2) for contractors conducting pre-bid studies of
+subsurface conditions to be reasonably anticipated based on geotechnical data; and 3)
+addressing problems that arise during construction (tr. 3/54-55; APF 375). Dr. Heuer has
+substantial experience and expertise with respect to limestone, karst topography, and the
+weathering process that leads to karst (tr. 3/56-58; APF 376).
+
+       88. Dr. Heuer testified that karst geologic formations result from a weathering
+process where original limestone formations (calcium carbonate) are degraded over
+thousands of years by a karst process or "solution" (tr. 3/57; APF 377).
+
+       89. The karst solution occurs when organic materials in soil mix with ground
+water, air and carbon dioxide. As described by Dr. Heuer, these elements combine to
+
+
+                                              22
+
+                                                                                                    I
+form a weak carbonic acid that seeps along cracks and fissures ultimately degrading the
+limestone after thousands of years:
+
+              And in the weathering process, the surface soil materials, the
+              organic materials, create this, mixing with the air, carbon
+              dioxide, and that gets mixed with the ground water, percolates
+              down, and the combination of carbon dioxide and water, it
+              can form a weak carbonic acid, and that weak acid then, in
+              the ground, it tends to seep along cracks and fissures in the
+              limestone, and over a period of many, many years, thousands
+              of years, can dissolve some of the limestone material.. ..
+
+(Tr. 3/57; APF 378)
+
+      90. According to Dr. Heuer, the karst variation features are highly localized in
+concentrated zones, but are not uniformly distributed across a site (tr. 3/77).
+
+        91. Dr. Heuer emphasized that when interpreting expected ground conditions, it is
+a principle of geotechnical engineering that greatest reliance is placed upon relevant
+borings located closest to the site of interest, less reliance on borings further away
+(tr. 3/61-62; app. supp. R4, tab 49 at 2).
+
+       92. He noted that only two borings, DH-11 and DH-12, were within the
+approximate footprint of the Biolab (R4, tab 24 at 15; APF 388). Specifically, borings
+DH-11 and DH-12 are located immediately adjacent to the southwest and northeast sides
+of the proposed new Biolab building, respectively (APF 389).
+
+        93. The text of the RFP Geotechnical Report concedes the importance of
+proximity in his view. In its selection of borings for the Bio lab Project, the Corps
+selected borings on different sides of the planned Biolab having the closest proximity to
+the site:
+              Note: The borings included herein represent only a portion of
+              the drilling performed at the project sites indicated. As
+              several hundred borings exist (primarily for USAMRIID
+              project) the intent was to select borings on different sides of
+              the planned NMBDRL and generally having the closest
+              proximity to the site.
+
+(R4, tab 24 at 6; APF 391)
+
+       94. Borings other than DH-11 and DH-12 are located further away, with some as
+far away as 800 to 1,000 feet (R4, tab 24; APF 391).
+
+
+                                            23
+       95. A box on the Boring Location Plan labeled "USAMRIID Project Borings''
+references a cluster of borings and a general location about 300 to 500 feet from the new
+Biolab building (APF 392).
+
+       96. Borings DH-11 and DH-12 straddle the building foundations in a bookend
+fashion on the northwest and southeast sides of the Biolab Project site. These borings
+show "top of rock'' sound limestone commencing at respective depths of 21. 00 and
+15.40 feet. (Tr. 3/64; app. supp. R4, tab 49 at 4; APF 398) Based on the general
+principle of greatest reliance on closest borings, Dr. Heuer opined that a bidder
+interpreting the Biolab Project subsurface conditions would be expected to rely primarily
+on borings DH-11 and DH-12 as the closest proximate borings (tr. 3/62).
+
+        97. The RFP Geotechnical Report contained photographs of core box samples from
+borings DH-11 and DH-12, as well as other borings (R4, tab 24 at 99-103; tr. 3/65). The
+photographs were accompanied by core recovery and rock quality designations (RQD) for the
+limestone materials at DH-11 and DH-12 (tr. 3/65). Dr. Heuer described the core recovery at
+DH-11 and DH-12 as a main source of information about the limestone quality where
+geologists had studied the bores and described their findings (tr. 3/65). Dr. Heuer interpreted
+the recovery and RQD accompanying the DH-11 and DH-12 core box photographs to
+represent "good sound limestone" (tr. 3/63, 68; APF 400). Mr. Glock agreed that the DH-11
+and DH-12 borings (and photos) identify competent limestone, suitable for a rock socket
+(tr. 4/179; APF 401). The Corps' contracting officer's final decision (COFD) on JCG's DSC
+Claim concurs that the limestone shown in DH-11 and DH-12 was good quality. Paragraph 8
+of the COFD "Findings of Fact" reports that the photographs of rock samples at DH-11 and
+DH-12 suggest "relatively good quality rock with only limited fracturing." (R4, tab I at 4;
+tr. 3/72-73; APF 402)
+
+       98. Based on his examination of DH-11 and DH-12 (along with associated
+photographs of the cored materials), and other borings in the vicinity of the Biolab
+building, Dr. Heuer opined that it was reasonable, "a conservative estimate,'' for a
+contractor to anticipate drilling through 25 feet of soil and 5 feet into the rock for the rock
+socket. He noted that the other borings in the vicinity found top of ro·ck at even higher,
+16-18 foot depths. (Tr. 3/99-100)
+
+       99. Compressive strength tests on the 01iginal Fort Detrick Limestone Formation
+demonstrate Project-wide limestone strengths in the average range of 9,000 psi, twice the
+strength of structural concrete (tr. 3/65, 92-95; R4, tab 24 at 165). Across the entire site,
+and so long as the limestone had not been subject to karst solution effect, the original
+limestone formation was very strong (tr. 3/93-95; APF 403).
+
+       100. Dr. Heuer also selected and analyzed the seven borings (including DH-11
+and DH-12), of the total of 46 borings in the Geotechnical Report, most proximate to the
+Biolab building site, in his evaluation of whether JCG's interpretation of borings DH-11
+
+
+                                              24
+and DH-12 was reasonable (app. supp. R4, tab 49 at 3-4). He determined that competent
+bedrock was reached on average at approximately 17 feet, whereas analysis of DH-11
+and DH-12 alone, indicated it would be reached at an average of 18.2 feet (APFs 406-07).
+
+        101. According to Dr. Heuer, the variability of karst limestone formations and the
+dependence of the karst solution effect on local (not random) features make the proximity of
+borings to a building site vital (tr. 3/70-71; APF 413). Dr. Heuer considered that borings at
+the USAMRIID site approximately 300 to 500 feet away from the Biolab building
+foundation would not necessarily be representative of conditions there because of the highly
+localized and non-uniformly distributed nature of karst weathering (tr. 3/70- 7 L 78-79;
+APFs 414-15).
+
+       102. Dr. Heuer testified that the karst effect of the carbonic acid solution on
+limestone is concentrated in vertical joints in the rock (tr. 7/141-42; APF 417).
+
+      103. To address Mr. Glock' s and the Corps contention that borings from the
+USAMRIID were representative of actual Biolab conditions, Dr. Heuer prepared an
+independent analysis designed to estimate the amount of incompetent rock indicated at
+each USAMRIID boring (app. supp. R4, tab 287; APF 424).
+
+        104. Dr. Heuer's analysis compared the Corps' analysis and data regarding
+the contract indications set forth in the USAMRIID boring logs to the actual
+subsurface conditions encountered by JCG while drilling the Biolab foundation caissons
+(tr. 7/151-57; app. supp. R4, tab 287; APFs 427-29).
+
+        105. Dr. Heuer' s analysis concluded that there was a great deal of variability in the
+USAMRIID subsurface conditions regarding the top of competent rock (tr. 7/154-55;
+APF 430). The analysis also demonstrated that the bad quality rock was not randomly
+distributed within USAMRIID but rather occurred in concentrated clusters (tr. 7/157;
+APF 431).
+
+        106. This Heuer analysis further concluded that the variance between the top of
+rock and top of rock socket at USAMRIID was far less than actually experienced by JCG
+while drilling the foundation caissons (tr. 7/157; APF 432). Dr. Heuer concluded that the
+government's analysis of the USAMRIID borings showed an average of 6. 7 feet of
+drilling before reaching the top of rock socket, whereas his understanding was that JCG
+actually drilled an average of 13.6 feet of incompetent rock before reaching top of
+competent rock for the Biolab foundation (tr. 7/157, 8/33). Thus, he considered that the
+actual Biolab site conditions were considerably worse than reasonably determinable from
+the USAMRIID borings (tr. 7/161; APFs 433-36).
+
+        107. Dr. Heuer's expert report concluded that the extra rock encountered during
+the caisson drilling operation was different than reasonably should have been expected
+
+
+                                             25
+based on the RFP Geotechnical Report data, and consequently Grimberg had encountered
+a DSC (app. supp. R4, tab 49 at 3; APF 410).
+
+       108. Dr. Heuer was not aware of what analysis of the borings Grimberg
+performed prior to submitting its bid (tr. 7/ 171 ). However, the Heuer opinion states that:
+
+              I understand the [government's] position that limestone
+              bedrock can often contain erratic and variable
+              solutioning/weathering deterioration, which may vary from
+              place to place across a site. The [Geotechnical Report]
+              contains logs of 46 borings from the Fort Detrick site.
+              A large percentage of these borings found substantial
+              thicknesses of poor quality rock, often 10 to sometimes 20 ft
+              thick, before competent rock was encountered.
+
+(R4, tab 18 at l; GPF 112)
+
+       109. Dr. Heuer acknowledged that the limestone under Fort Detrick is one
+formation, but the beds vary (tr. 7/168). Dr. Heuer agreed that the variability in the
+USAMRIID borings shows O to 20 feet of bad rock in an area that the Project building
+would fit within (tr. 7/ 170-71 ). He agreed that the description of conditions found in the
+Alphatec Report is consistent with the USAMRIID borings (tr. 7/173). He also agreed that
+the Alphatec Report shows the potential for problems at the Project site (tr. 7/174-75).
+
+xii. Mr. DiMaggio's Expert Report and Testimony
+
+        110. The government retained Mr. Jerry DiMaggio to provide expert analysis
+and testimony regarding the geotechnical issues in this case (R4, tab 165). Mr. DiMaggio
+has lived in the area for 40 years (tr. 5/6). He has more than four decades of geotechnical
+engineering experience, primarily with the Federal Highway Administration, and
+emphasizing deep foundation work (tr. 5/6-20). Mr. DiMaggio visited Fort Detrick and
+interviewed Project staff in connection with formulating his opinions about this case
+(tr. 5/21; GPFs 120-21).
+
+        111. Mr. DiMaggio testified that JCG should have significantly adjusted its bid and
+included an '"allowance" (as opposed to a "'contingency") in the form of time and money
+for the possibility of encountering incompetent rock (tr. 5/39-41, 91-92; APF 454).
+
+       112. Mr. DiMaggio's report also stated that a reasonable contractor would have
+consulted with a local geotechnical engineering specialist at the proposal development
+phase and would have based their bid in anticipation of variations in required drilled shaft
+lengths based ori specifically encountered rock conditions during construction (R4,
+tab 165 at 14; APF 456).
+
+
+                                             26
+       113. Mr. DiMaggio explained in his report that since JCG was a design-build
+contractor, it assumed more risk of subsurface conditions than a traditional
+design-bid-builder: This Project delivery approach differs from the design-bid-build
+method. This vety important difference and the associated transfer of risks should be
+well understood among experienced designers and contractors and Grimberg should have
+been aware that the site subsurface conditions and complex foundation conditions was the
+design-build team's responsibility. (R4, tab 165/15; APF 457)
+
+                            DECISION-ASBCA No. 58791
+
+         Appellant contends that it encountered a Type I DSC during the drilling of the
+caissons for the Biolab foundation. The DSC clause, FAR 52.236-2, entitles a contractor
+to an equitable adjustment for a Type I DSC when ·'subsurface or latent physical conditions
+at the site differ materially from those indicated in the contract." Case law interpreting the
+DSC clause provides that a contractor must prove, by a preponderance of the evidence:
+( 1) the conditions indicated in the contract differed materially from those actually
+encountered during performance; (2) the conditions actually encountered were reasonably
+unforeseeable based on all information available to the contractor at the time of bidding; (3)
+the contractor reasonably relied upon its interpretation of the contract and contract-related
+documents; and (4) the contractor was damaged as a result of the material variation between
+expected and encountered conditions. E.g., Comtrol, Inc. v. United States, 294 F.3d 1357,
+1362 (Fed. Cir. 2002).
+
+        The government argues that the DSC clause is applied more restrictively in the
+design-build versus the design-bid-build context, citing CCI, Inc., ASBCA No. 57316,
+14-1 BCA ,r 35,546, in support of this argument. But such differentiation has consistently
+been rejected by us and the Federal Circuit. In Metcalf Construction v. United States,
+742 F.3d 984, 995-96 (Fed. Cir. 2014), the Federal Circuit ruled that the design-build
+nature of the contract did not transfer the risk of inaccurate subsurface data to the
+contractor. Cf Haskell Corp., ASBCA No. 54171 et al., 06-2 BCA ,r 33,422 at 165,700.
+The identical DSC clause is required to be included in fixed-price construction projects,
+whether the design-bid-build or design-build method of contracting is utilized.
+FAR 36.502. There is no justification for interpreting the clause differently in
+the design-build context. As appellant concedes, design risk is transferred to contractors
+in the design-bid context, but not the risk of DSCs. A design-builder does not forfeit its
+rights under the DSC clause to rely on solicitation representations of subsurface site
+conditions.
+
+       CCI is inapposite for several reasons. In CCI the Board examined a design-build
+project for design and construction of a pier and seawall in Iraq. The bidders had
+4 months to submit "best and final" offers-as compared to the Biolab's 36 days.
+Critically, in CCI, two reports were included in the RFP and relied upon by the
+contractor. But the reports were not drafted by the U.S. Government for the purpose of
+
+
+                                            27
+providing "sufficient information to identify the general subsurface conditions of the
+site," as is the case with the Biolab RFP Geotechnical Report authored by the Corps.
+Instead, the two reports in CCI were composed at much earlier dates than the RFP, and
+for different purposes, by the Iraqi government and a civilian foreign aid agency. Thus,
+the reports were authored by individuals not involved in the CCI project or even the
+Corps, and so the RFP in that case spectfically stated that USA CE could not guarantee
+the relevance, timeliness, or accuracy of the reports. In addition to this unequivocal
+express disclaimer, the CCI Board further found that the contractor's reliance was
+unreasonable because specific CCI contract language provided that ·'site specific
+geotechnical information necessary to design and construct the project was the
+contractor's responsibility." 14-1 BCA fl 35,546 at 174,198. In contrast, the contract at
+issue here contains no unambiguous disclaimers, instead specifically providing-in several
+locations throughout the RFP-that JCG was entitled to rely upon the government's
+Geotechnical Report in formulating its offer. Moreover, the contractor's duty to furnish a
+geotechnical report on the Biolab Project was not triggered until aper the contract was
+awarded.
+
+       For the reasons detailed below, we decide that appellant encountered a Type I
+DSC. The quantities of rock encountered greatly exceeded the quantity reasonably
+foreseeable based on a fair reading of contractual indications, albeit the Project was
+constructed in highly-variable karst topography at the site. However, neither appellant's
+pre-bid reliance solely on two borings most relevant and proximate to the Biolab
+foundation, nor the government's position (as refined at trial) that appellant should have
+performed, as a minimum, a detailed analysis of the USAMRIID borings hundreds of
+yards distant from the Biolab site, are reasonable. Appellant assumed perfection-no
+rock above competent rock for installation of the five-foot rock socket. And, the
+government contentions assume essentially a .worst-case scenario, i.e., JCG should have
+anticipated exactly what it encountered given the unpredictability of drilling in the karst.
+In these circumstances, and in particular what we consider to be the extreme variance in
+the amount of rock actually encountered versus what a reasonable interpretation of the
+contractual indications would have predicted, we conclude that appellant is entitled to
+recovery, with the adjustments set forth herein that consider all of the facts,
+circumstances and contractual indications of subsurface conditions in this case.
+
+        JCG relied p1imarily on indications from borings DH-11 and DH-12, because those
+two borings were most proximate to the Biolab building footprint and showed the top of
+competent rock at an average depth of 18.2 feet, overlaid by soil. Borings DH-11 and
+DH-12 did not call out or indicate any rock between the ground surface (grade) and the top
+of competent rock. Based on the 2 boring representations, JCG's caisson drilling estimate,
+as well as its contract price, was based on drilling through soil until striking the top of
+competent rock at an average depth of 18.2 feet. JCG's plan then called for drilling 5 feet
+into the competent limestone rock to establish the 5-foot rock socket. With a plan for
+48 caissons, the total as proposed amount of rock drilling in the JCG estimate was 240 feet.
+
+
+                                             28
+JCG's subcontract with Seaboard Foundations was also based on drilling 5 feet of rock (the
+socket) for each caisson and a total linear foot rock drilling subcontract for 240 feet.
+Nevertheless, the Seaboard subcontract provided for unit prices for quantities in excess of
+the 5-foot socket. We have found that JCG actually drilled a total rock quantity of 923 feet,
+an increase over estimate of 375%.
+
+        Although reliance on those two borings was unreasonable as we have stated
+above, in our view it was more reasonable than the government's analysis and reliance on
+the USAMRIID borings 300-500 feet away. At the hearing, all witnesses testified to the
+importance of proximity when interpreting subsurface conditions. The borings selected
+for the Geotechnical Report failed to include sufficient borings at the critical site of the
+Bio lab's foundation. Borings DH-11 and DH-12 were the only borings bordering the
+footprint of the Biolab building and did not indicate any rock between grade and the top
+of competent rock. Moreover, the core box photos for the borings very persuasively
+supported appellant's conclusions about subsurface conditions generally and the quality
+of the rock encountered at those boring locations.
+
+        However, a primary reason for our conclusion that JCG is entitled to relief despite
+its misreliance solely on DH-11 and DH-12, is the gross disparity between the quantities
+of incompetent rock actually encountered and the quantity that we consider was
+reasonably indicated in the contract's Geotechnical Report. Even if it had expanded its
+pre-proposal analyses to include the seven most proximate borings to the Biolab site, as
+in the Heuer study, or devoted the time and effort to analyze the 26 USAMRIID borings
+as did the Corps at trial, the disparity was material and not reasonably foreseeable.
+
+       First, the USAMRIID borings were up to 500 feet distant from the Biolab
+foundation. Moreover, the government's analysis thereof was refuted by both Dr. Heuer
+and JCG's chief estimator, who performed separate independent analyses of those borings.
+Both witnesses convincingly demonstrated that the actual Biolab subsurface drilling
+conditions were far worse (and different) than one would predict based on the USAMRIID
+borings. Mr. Graham testified that an analysis of the USAMRIID borings alone revealed
+that JCG could have expected an average of 3.72 feet of incompetent rock; and when
+combined with the other 7 closest borings to the Biolab building could have expected an
+average of 3.29 feet of incompetent rock or an additional total 158 feet over appellant's
+240-foot (48 caissons) estimate. JCG actually drilled through an average of about 14 feet of
+incompetent rock before it reached sound limestone for the 5-foot rock socket, or
+approximately 3.75 times the amount of rock that could have been anticipated based on the
+USAMRIID borings. Since the actual rock encountered totaled 923 feet, Biolab subsurface
+conditions were not reasonably foreseeable, even considering the USAMRIID borings.
+
+        Nevertheless, we consider some "allowance'' for incompetent rock is appropriate.
+We have carefully considered all of our findings and the extensive contractual indications
+in the solicitation' s Geotechnical Report of subsurface variability and potential problems
+
+
+                                            29
+with incompetent rock in drilling through the karst (findings 3-4, 13, 16-18, 24-26). In
+developing the ·'allowance'' we have placed particular emphasis on: Dr. Heuer's extensive
+and persuasive expert opinion regarding the karst formation; the close proximity of only
+borings DH-11 and DH-12 to the Biolab site and the failure of the government to provide
+other boring data directly at the critical foundation site; the conclusions of Dr. Heuer's
+expanded study of the seven most proximate borings to the Biolab site; JCG's (and
+Seaboard's) foundation work on the SSP project where it did not encounter significant
+quantities of incompetent rock; and, the absence of any persuasive government analysis of
+why the rock actually encountered was reasonably foreseeable. Based on our consideration
+of all of the foregoing, in the nature of a ·'jury verdict'' we conclude that the contract
+reasonably indicated that 360 feet of rock drilling would be required, or an additional
+2.5 feet per caisson on average. This represents an allowance of 120 feet of drilling
+through incompetent rock plus appellant's. planned 5 feet of drilling through sound rock for
+installation of the rock socket for each of the 48 caissons. Appellant actually excavated
+923 feet of rock, 563 feet more than we consider was reasonably indicated.
+
+       In reaching our conclusions, we have fully and carefully considered all of the
+parties' competing contentions relative to proof of the DSC although we do not address
+each of them individually.
+
+        We stress that the 120-foot "allowance'' and increase in the rock drilling quantity
+over that estimated by JCG in its proposal is not a disfavored "contingency" which the
+DSC clause was intended to deter and discourage. See, e.g., Foster Constntction CA. &
+ Williams Bros. Co. v. United States, 435 F.2d 873, 887 (Ct. CL 1970). The allowance
+simply reflects a fair and reasonable estimate of what we have concluded was realistically
+indicated regarding the extent of incompetent rock at the Biolab site in the geotechnical
+report. Appellant argues that any allowance, above rock drilling quantities sho\\'n in the
+small subset of two borings (DH-11 and DH-12), is such a "contingency.'' That contention
+is unsound. Appellant failed to fully and reasonably consider the most relevant contractual
+indications in their entirety. The fact that rock drilling quantities in the karst are difficult to
+estimate, does not make estimates above the perfection appellant assumed (no incompetent
+rock for all 48 caissons across the entire footprint of the Biolab building) a "contingency."
+In this regard, we agree with Mr. DiMaggio's general distinction between disfavored
+contingencies and realistic "allowances'' that reasonably consider contractual
+representations and indications in context and their entirety. Difficulty in quantifying the
+extent of that adjustment does not transform such reasonably required allowances into a
+"contingency." In this case, appellant's conclusion that it could estimate with accuracy the
+rock drilling quantity based on two borings was overly optimistic and simplistic. Its
+implicit assumption that DH-11 and DH-12 representations at those locations were
+scientifically precise while other less optimistic representations would result in inclusion of
+unquantifiable, imprecise "contingencies" is flawed. JCG's geotechnical subcontractor
+Alphatec also contemporaneously recommended inclusion of a "significant allowance" and
+stressed that JCG "bid accordingly." Even JCG discussed the need for an "allowance" in
+
+
+                                               30
+ the micropile section of its technical proposal, in essence adopting the Alphatec
+ recommendation. We fail to see how Grimberg can find an "allowance'' warranted and
+ reasonable for a micropile foundation, but a disfavored "contingency" for deep foundation
+ piers and caisson drilling at the same site. Under the circumstances here appellant's sole
+ reliance on the two borings, giving them ''preeminent importance,'' was unreasonable. Cf
+ WD. l'vfcCullough Constr. Co., ENG BCA No. 4593, 87-1 BCA ,r 19,515 at 98,639 (in
+ finding the contractor entitled to a Type I DSC, the Board observed, "The Government's
+ suggestion that Appellant should have included a contingency in its bid, giving pre-eminent
+ importance to [certain specifications] while ignoring the specification references and
+ meaning of [others] defeats the intent of the 'Differing Site Conditions' clause'').
+ Confronted with the plethora of cautionary contractual indications, "cherry picking" a
+ subset of 2 of 46 borings, regardless of their proximity to the Bio lab foundation, was
+ unjustifiable in the circumstances of this case. Even appellant's proposal emphasized the
+ inherent uncertainties. (Findings 37-38) Nevertheless, the decisive fact in this case is that
+ JCG encountered far more incompetent rock than was fairly reasonable indicated in the
+ contract. Under these circumstapces, we consider that our discretionary "jury verdict''
+ "allowance," based on our best judgment giving careful consideration to the entire record,
+ provides the appropriate remedy on the facts of this case.
+
+          On the other hand, we reject the Corps' assertions that appellant failed to give timely
+  notice of the DSC. We agree with appellant that various general, theoretical advisements
+  (including the December 2009 ECS report), regarding the future possibility that JCG might
+  encounter materially more extensive incompetent rock than estimated, were too generic and
+  speculative to trigger an obligation to provide the government notice prior to actually
+  encountering the DSC after drilling commenced in March 2010. Moreover, the government
+  was not prejudiced by any such delays. Appellant timely provided requisite notice soon after
+  drilling commenced and both parties tracked actual rock quantities encountered. The
+  government contemporaneously could also have tracked and, or challenged calculation of the
+  quantities as the work progressed. The government's unpersuasive contentions now
+. questioning the accuracy of the quantities are untimely and also highly speculative.
+  Moreover, any advantages of revamping the foundation design and substituting a "micropile''
+  methodology were also speculative and fully considered and rejected by JCG and its
+  designer during the design process. Micropiles would have introduced foundation re-design
+  delay. In any event, any material net cost/time savings are pure conjecture and have not been
+  persuasively addressed, analyzed and proved by the government.
+
+        Government contentions that conditions were not materially different because
+ JCG's proposal contained an additional five-foot design allowance for seating the
+ rock socket are also without merit. The record establishes that the additional five-foot of
+ socket was a design allowance to address the possibility of building design loads
+ exceeding the capacities of a five-foot socket. We have found that the additional five feet
+ was unrelated to subsurface conditions prior to reaching the top of sound rock
+ (Finding 33)
+
+
+                                              31
+       In addition, government assertions, that Grimberg's damages were self-inflicted in
+part due to drilling deeper than necessary, are speculative and unsupported by the
+contemporaneous record of substantial persuasive testimony. We consider that appellant
+reasonably attempted to mitigate adverse impacts of the DSC through completion of the
+MEP work and grade beam installation. Again, this is a matter that should have been
+raised by the government and discussed contemporaneously during the actual drilling
+process.
+
+B. DELAY, ACCELERATION. AND IMPACT-ASBCA No. 59717
+
+                         ADDITIONAL FINDINGS OFF ACT
+
+i. Baseline Schedule and Schedule Updates
+
+       114. The Biolab Project was subject to the requirements of the 2005 Base
+Realignment and Closure Act (BRAC) (APF 138). The BRAC statute established a
+mandatory date (September 15, 2011) for the Navy's facility to be closed and realigned.
+Compliance with this mandate was considered nonnegotiable by the administrative
+contracting officer (ACO). In the event that the Project was excusably delayed, the ACO
+advised appellant that the government wanted to be able to consider accelerating the
+Project to ensure its timely completion. (App. supp. R4, tab 109; tr. 6/21, 115)
+
+        115. The contract contained specifications related to schedules (R4, tab· 23
+at 278). The specifications required Grimberg to submit a baseline schedule and periodic
+updates thereafter (id at 287-88). Grimberg was also required to submit narrative reports
+with its schedules (id. at 289; GPFs 128-29).
+
+        116. Mr. Bobbin, appellant's PM, was responsible for the Project schedule
+(tr. 2/66; GPF 131). During performance, Grimberg updated schedules on a monthly
+basis. These updates identified progress as of the date of the schedule update and
+projected Grimberg' s future activities from the date of the update to substantial
+completion of the Project. (See, e.g., app. supp. R4, tab 251; GPF .134)
+
+        117. In January 2010, Mr. Bobbin began working with a third-party scheduler,
+Aegis, in preparing schedule updates (tr. 8/86, 95-96). Mr. Bobbin then prepared
+monthly schedule narratives to accompany the monthly updates (tr. 1/96, 2/68-69, 8/86).
+When Aegis became the scheduler, it would summarize the schedules for Mr. Bobbin to
+assist in writing his schedule narratives (tr. 7/211 ). These updates were typically
+prepared to reflect the status of the Project at mid-month (tr. 2/69, 8/87-88).
+
+       118. The baseline schedule required Grimberg to relocate a waterline running
+beneath the Biolab foundation by February 11, 2010 (app. supp. R4, tab 249 at 1). Once
+the waterline work was complete, Grimberg was to begin drilling caissons in "Area 1."
+
+
+                                           32
+Fallowing completion of that activity, Grimberg was to begin installing grade beams in
+·'Area I.'' (App. supp. R4, tab 249 at l; GPF 133) The Update Package was prepared
+"between the 15th and the end of the month." The package was compiled to be submitted
+to the Corps ·'usually around the 25th of each month.'' (Tr. 8/88)
+
+       119. Beginning with Update Four, prepared in January 2010, Grimberg retained
+Aegis to prepare its schedule updates (tr. 2/165, 4/8, 7/206). Mr. Hatwell prepared
+schedule Updates Four, Five, and Six, which covered January, February, and March of
+2010, respectively. He also worked on Update Eleven, Grimberg' s alleged "acceleration
+schedule.'' (Tr. 4/8, 7/207; GPF 137)
+
+        120. The parties' experts have extensively analyzed contractual activities (and
+their alleged delaying impacts, if any, on the schedule) prior to the co:mm:encement
+of Seaboard's mobilization and caisson drilling on March 8-9, 2010. However, the
+only delay-related claims involve the appropriate time extension for the DSC (ASBCA
+No. 58791) which commenced on March 9, 2010, with the drilling of the first caisson and
+which we have resolved above, and the appellant's acceleration claim for the period
+commencing in August 2010 after completion of drilling. Moreover, we have denied
+JCG's post-July 2010 Changes clause acceleration claim for numerous reasons, as detailed
+below. Accordingly, we need not address in detail the parties' contentions with respect to
+delaying events in the pre-caisson drilling period. We note however, that the parties
+entered into a bilateral agreement (Mod. A 1) extending the contract completion date by
+six days for adverse weather in the February-March 2010 period (referred to as
+"snowmaggedon") immediately preceding commencement of caisson drilling (finding 148
+below).
+
+ii. The ACO 's July 30 Letter and Immediate Aftermath
+
+        121. At the June 11, 2010 Progress Meeting, schedule delays from the alleged
+caisson DSC and unusually severe weather were discussed including accelerating concrete
+activities with JCG's concrete subcontractor (FC) to mitigate those delays (app. supp. R4,
+tab 108; tr. 8/75-76). The narrative for the June 15, 2010 schedule update further indicated
+that JCG was "looking into ways to make up" time (APF 271). The update contained logic
+and duration changes made by JCG to accelerate the Project (tr. 7/41).
+
+       122. The July 15, 2010 schedule update narrative states, inter alia, that JCG
+had been delayed 13 days by the weather and 26 days as a result of the alleged DSC
+(app. supp. R4, tab 232).
+
+       123. On July 27, 2010, appellant emailed the Corps to confirm that it was continuing
+to work on schedule improvements to mitigate delays associated with the alleged DSC
+(APF 274).
+
+
+                                            33
+       124. JCG's Narrative for the July 15, 2010 Project Schedule reported that the
+Project was 39 work days behind schedule because of the original snow delay and
+unsuitable rock. JCG further noted in the Narrative that "we are looking into ways to
+make up some of this time." (APF 275)
+
+       125. By letter dated July 30, 2010, Mr. Denis du Breuil, the Corps ACO for the
+Project, instructed JCG:
+
+             This Project is authorized and funded as part of the Navy
+             response to the requirements of the BRAC 2005 statute. One
+             key provision of the statute is its mandate to close/realign
+             installations by no later September 15, 2011. To meet the
+             requirements of this date, your Project must be completed on
+             schedule. Meeting this date is not an objective that we are
+             striving to achieve; it is one that we must meet. Let me be
+             clear, this is not business as usual.
+
+             One tool the government is planning on using to overcome
+             delays caused by government initiated changes to the contract
+             is to provide compensation to your firm to accelerate to
+             recover your scheduled completion where it makes sense. To
+             aid the decision making process of this effort, from this date
+             forward, all contractor proposals with schedule impacts shall
+             be submitted with two separate proposals. The first shall be a
+             proposal with costs and time without acceleration. The
+             second shall be a proposal with costs without time but with
+             acceleration. All costs shall be proposed in strict accordance
+             with the contract requirements. Both submissions shall be
+             submitted with sufficient detail to allow for simultaneous
+             negotiation.
+
+             All proposed impacts to the Contract Required Completion
+             Date shall be supported by reference to the approved baseline
+             schedule. Justification is required for any proposed time
+             extension. This justification shall include, at a minimum, a
+             schedule fragment network showing the impacts and a
+             schedule fragment network showing the acceleration.
+
+             This direction applies to all contractor proposals whether in
+             response to a Government Initiated Request for Proposal or a
+             contractor initiated Request for Equitable Adjustment.
+             Further, this direction applies to all proposed impacts to the
+             Contract Required Completion Date as defined in the Notice
+
+
+                                           34
+              to Proceed Date plus the Contract Duration (including settled
+              changes).
+
+             Lastly, this direction applies to Weather/Time Extensions. If
+             a Monthly Weather Evaluation, after it has been reviewed and
+             agreed to by the Government's Onsite Representative,
+             indicated that additional time should be added to the Contract
+             Required Completion Date the contractor should submit a
+             proposal to accelerate this schedule to eliminate the weather
+             impacts.
+
+ (APF 276)
+
+       126. Without complying with the instructions and without providing the
+information requested in the ACO's July 30 letter, JCG accelerated its work in August
+2010 until the Project was completed (tr. 1/100-08, 2/14-22, 114-17, 3/193-94; app. supp.
+R4, tab 46; R4, tab 179 at 111-37-38).
+
+       127. On August 2, 2010, the Corps' project engineer emailed appellant as follows:
+
+             Let this serve as a heads-up that we will be requesting a
+             "'recovery schedule" in the near future. The topic of [The
+             Project's] schedule has reached our own North Atlantic
+             Division (NAO) with some notoriety. Aware that you've
+             been in touch your concrete subcontractor regarding this
+             matter, I'm asking you for a preliminary status for this
+             recovery. As such, are there more subs that you have or will
+             be contacting in an attempt to adjust their schedule? If so,
+             which ones? I'm requesting this information in an effort to
+             forestall having you provide a detailed, official
+             "'recovery schedule" until a more opportune time.
+
+(R4, tab 154 at 335)
+
+       128. In an August 2, 2010 letter from JCG to its subcontractor FC, JCG stated
+(R4, tab 150 at 14):
+
+             SUBJECT: Proposal No. 13-Acceleration Directive
+
+             Gentlemen:
+
+                 As discussed at our meetings on July 27 and July 29, 2010,
+             this project is a BRAC project, which means that the project
+
+
+                                           35
+              completion cannot slip. The United States Anny Corps of
+              Engineers recently requested a recovery schedule from
+              Grimberg to indicate how Grimberg will meet the required
+              completion date for the project.
+
+                 Currently, the project's critical path goes through concrete
+              and is entirely based on work that is your firm's
+              responsibility.
+
+       129. An internal Corps "Information Paper'' (IP) was issued August 6, 2010, the
+purpose of which was to "address[] issues potentially impacting [the] Project. .. including
+recoverable delays" (app. supp. R4, tab 11 at 6). After noting that the Project was
+39 work days behind schedule, the IP stated:
+
+              Issues:
+
+              1. Contractor is behind schedule due to laboratory design
+              challenges, deeper than expected drilled pier foundations, and
+              extraordinary adverse weather events.
+
+                    a. Contractor adjusted work schedule to 10-hour days
+              and weekends as necessary and is actively coordinating
+              recovery schedule with subcontractor/suppliers~ anticipating
+              on-time completion.
+
+                     b. CENAB issuing RFP to contractor for buyback of
+              documented adverse weather days and additional time
+              associated with increased drilled pier depth. Contingency
+              funds will be requested when appropriate.
+
+(Id.)
+
+       130. By an August 8, 2010 email, JCG continued to advise that it was entitled to a
+time extension of 39 work days for the excusable delay and absent a time extension, it
+would "need to accelerate various tasks" (APF 285).
+
+       131. JCG's Narratives for the August 15, September 15 and October 15, 2010,
+Project Schedule Updates all state:
+
+             Please note that the schedule provided with this update
+             incorporates accelerated work activities and manpower. The
+             schedule is provided as a recovery schedule. Grim berg is
+             seeking compensation for the acceleration effort of this work.
+
+
+                                            36
+             Previously, the project showed -39 days, this was primarily
+             due to the original snow delay and unsuitable rock being
+             encountered at the rock sockets in which additional drilling of
+             rock was required.
+
+(APF 287)
+
+        132. The minutes of the August 27, 2010 Progress Meeting, under ·'Schedule
+Update as of August 15, 2010'' state, ··'A recovery schedule was submitted showing zero
+day float. Accelerated efforts by Frederick Concrete allow schedule to be brought back
+to zero." (APF 288)
+
+       133. In addition to the concrete work, JCG also made other changes in the
+scheduled logic, sequencing and prosecution of the work along with increasing the
+resources, labor and equipment and subcontractor resources devoted to the Project to
+shorten the duration of scheduled activities and accelerate completion of the Project
+(APFs 289-90, 297-300; tr. 1/100-01, 106-08, 2/17-22).
+
+      134. JCG's August 15, 2010 Accelerated Schedule Update showed substantial
+completion by the contractually-specified date of June 20, 2011 (app. supp. R4, tab 259;
+APF 291).
+
+       135. By letter dated August 16, 2010, JCG submitted its Proposal No. 1 for costs
+associated with "Caisson Additional Drilling" (APF 292).
+
+       136. Also by letter dated August 16, 2010, JCG submitted its Proposal No. 13 for
+"Acceleration for 10 Weeks, 23 Overtime Work Days Due To Drilled Pier Delays'' in the
+amount of $319,797 (APFs 293, 296). This proposal did not provide a justification for the
+extension or schedule fragment networks showing impacts of alleged delays and proposed
+acceleration efforts to overcome those delays, as requested in Mr. du Breuil' s July 30,
+2010 letter. It states that it is seeking an extension for "unknown" days. (R4, tab 12)
+
+        137. On August 19, 2010, JCG advised the government of its acceleration efforts
+and that it was seeking payment therefor (APF 294). On the same date, the government
+notified JCG that it would review the above proposals (along with others) but also
+advised JCG that the Corps "has not directed [appellant] to accelerate" (app. supp. R4,
+tab 75 at 2; APFs 294-96).
+
+     138. JCG's Narrative for the October 15, 2010 Project Schedule Update
+communicated (APF 303):
+
+             JCG's ongoing acceleration efforts, as well as JCG's
+             expectation to be compensated:
+
+
+                                           37
+             Please note that the schedule provided with this update
+             incorporates accelerated work activities and manpower to
+             show a zero float in a project on schedule. The schedule is
+             provided as a recovery schedule. Grimberg is seeking
+             compensation for the acceleration effort of this work.
+
+      139. The government did not request appellant to stop the acceleration effort
+(APF 305).
+
+      140. On February 17, 2011, the Corps' contracting officer, Robert Wood, advised
+JCG (APF 306):
+
+             As you are aware, it is imperative that subject project be
+             completed by the June 20, 2011 contract completion date.
+             This is necessary in order to allow the Customer ample time
+             to fit-out the facility, move personnel and be operational by
+             the Congressional Base Realignment Closure mandate of
+             September 15, 2011.
+
+             As part of achieving this congressional mandate and in the
+             spirit of cooperation and partnering, I would ask that all major
+             material suppliers (e.g., exterior windows) and major vendors
+             (e.g., elevators) be strongly encouraged to make a concerted
+             effort to fabricate and deliver their respective material and
+             equipment in a timely manner to meet the current scheduling
+             needs. There has been exemplary teamwork on this project as
+             we have progressed to our current 75o/o completion.
+             However, with only sixteen (16) weeks remaining all
+             stakeholders, including their important material suppliers and
+             vendors, must continue to pull together to meet the contract
+             completion date.
+
+             Please reinforce with your material and equipment vendors
+             their critical role on this project. The US Army Corps of
+             Engineers is appreciative of their continued focus and
+             partnering to make timely deliveries. These efforts will
+             ultimately result in making this project a success.
+
+      141. JCG's CPM updates from August 2010 through June 2011 projected
+completion no later than the required contractual date, as modified (APF 308).
+
+
+                                           38
+        142. Although the ACO knew that appellant was ''initiating actions to recover lost
+time," he interpreted appellant's "recove:ry schedule" as implying that JCG considered
+that project delays were not government-caused (APF 309; tr. 6/118-19).
+
+         143. In a December 15, 2010 internal Corps' memorandum regarding
+"Notification of Option to Accelerate Construction Contract Due to Excusable Delay,"
+the government acknowledged that "severe snow and Fort Detrick installation shut down
+prevented critical path activities for six days in Februa:ry 20 IO." The memorandum
+further stated that "since this is a BRA.C project, there is the option to buy back the lost
+time, which would not extend the contract duration.'' Finally, the memorandum indicated
+that ''sufficient funds are not in place to have executed work associated with all of these
+changes identified to date." (APF 310)
+
+Ill.   Permanent Utilities
+
+        144. The Corps was responsible for providing certain permanent utilities from the
+Fort Detrick Central Utility Plant (CUP), including permanent electric power, steam and
+chilled water. The power for the facility was provided by the CUP owned and operated by
+Chevron. The CUP was under contract to the government to also provide chilled water and
+steam to the Biolab and several other facilities at Fort Detrick. (APFs 314, 321)
+
+         145. Permanent power, chilled water, steam and hot water are utilities that are all
+required to run the Biolab when completed and also required to start up the equipment,
+test it, and then to ultimately commission the Project (APFs 315-16; tr. 6/37).
+
+       146. The August 15, 2010 (accelerated) CPM Schedule Update shows that the
+"Permanent Power Complete'' Milestone finish date was December 31, 2010, with
+17 calendar days of float (APF 319).
+
+        147. In addition, the August 15, 2010 CPM Schedule Update shows equipment
+start-up and commissioning activities beginning in Janua:ry 2011 and continuing
+commissioning activities to project completion in June 2011 (APF 320).
+
+        148. On April 15, 2011, the government transmitted Modification No. AOOOOl
+(Mod. Al) to JCG for signature, granting a time extension pursuant to the Default clause
+for all adverse weather delays from May 29, 2009 to October 31, 2010, including the
+"Snowmaggedon" delay of six calendar days. The revised contract completion date
+was June 26, 2011. Appellant executed Mod. Al, without reservation. (App. supp. R4,
+tab 194; APFs 311-12, 331; GPF 172)
+
+       149. As of April 13, 2011, Chevron and the government had not provided power,
+steam or chilled water to the Biolab Project. Appellant had planned to "energize" the
+week of April 18, 2011. However, as noted in an email of April 26, 2011, it was delayed
+
+
+                                             39
+by its subcontractor, RCD Electric, who was not yet ready for permanent power. (R4,
+tab 15 1 at 713)
+
+       150. Permanent power was provided on May 5, 2011 (APF 324).
+
+       151. The start-up of the HVAC systems had an actual start date of May 6, 2011
+with a planned duration of five days. However, the activity was not completed for over a
+month. (App. supp. R4, tab 250 at 12, tab 262 at 12)
+
+        152. Other utilities were provided as of the end of May 2011. Appellant
+requested that they be furnished by June 1, 2011. (R4, tab 178 at 28) There is
+insufficient evidence to conclude that JCG was delayed solely by the government's
+failure to provide power and utilities in a timely fashion.
+
+      153. By June 30, 2011, the Biolab's life safety system was approved by the fire
+marshall for beneficial occupancy (app. supp. R4, tab 87 at 630).
+
+        154. The narrative for the July 15, 2011 Project Schedule Update notes that
+''during the last weeks numerous changes have been implemented in the Project"
+including the following (APF 339):
+
+              • Storm drain changes;
+              • Change FE7 type fence to ornamental type security fence;
+              • Install additional FFE items;
+              • Install additional built-in counters;
+              • Perform design of water filter system;
+              • Install additional 48-strand fiber;
+              • Install control conduit for Chevron devices;
+              • Install additional telecom cabling to MH-49. This included
+                extensive research to identify existing spare cables;
+              • Install new CDX-09 hardware;
+              • Install new ice machines;
+              • Started procurement on water filter;
+              • Procurement of new "baker" clean benches; and
+              • Changes to ECP card reader access.
+
+       155. The government did not extend the contract completion date for the changes
+directed and/or issued in the summer of 2011, nor did the Corps assess liquidated
+damages (APF 342). The timing and nature of these "changes'' has not been detailed.
+Nor has appellant attempted to prove their "criticality" or that they delayed completion of
+the Project. No claims have been filed with respect to such summer 2011 changes.
+
+
+                                            40
+       156. As of July 27, 2011, the lab portion of the Biolab was not functional
+(app. supp. R4, tab 87). Essential testing of the Biolab continued as late as August 12,
+2011 (id at 666).
+
+        157. The Biolab building was actually commissioned on August 15, 2011 (R4,
+tab 79). The Corps determined and we find that the project was substantially completed
+on August 19, 2011, although significant "punchlist" work remained that did not impact
+beneficial occupancy of the building (R4, tab 152 at 86, tab 175; tr. 7/34-35).
+
+iv. Expert Analysis of Project Schedule Delays and Acceleration
+
+       158. Appellant called Mr. David Hatwell with Aegis Project Controls, as a schedule
+expert to testify regarding causes of, and responsibility for, Project delay and acceleration.
+Mr. Hatwell also prepared an expert report dated November 15, 2016. (APF 471)
+
+        159. The government called Mr. Stuart Ockman, as its schedule expert. Prior to
+testifying, Mr. Ockman prepared expert reports issuing a final report dated November 27,
+2016. (APF 472)
+
+        160. Mr. Hatwell and Mr. Ockman used different methodologies to perform their
+Schedule Analyses (APF 486). However, they agree that JCG's baseline schedule was a
+reasonable plan for the Project (APF 487). They further agree that the Project was behind
+schedule on July 30, 2010, when the Corps issued its July 30, 2010 letter regarding the
+alleged acceleration of the Project. They disagree as to the causes of and responsibility
+for that delay. (APF 488)
+
+       161. Mr. Hatwell and Mr. Ockman agree that JCG accelerated the Project from
+August 2010 through completion, recovering delay experienced up to August 2010,
+although they disagree as to the extent of the delay recovered (APF 489).
+
+        162. Mr. Hatwell determined there were critical path delays to the start of caissons,
+installation of caissons and completion of the foundation grade beams and underslab MEP
+rough-in activities, followed by JCG's acceleration of the work to Project completion (APF 490).
+
+      163. Mr. Ockman identified three controlling delays and presented three Time
+Impact Analyses (APF 491):
+
+              • Time Impact# 1: Late submittal of geotechnical report,
+                which, Mr. Ockman contends, delayed the start of caissons;
+
+              • Time Impact #2: Late finish of caissons;
+
+             • Time Impact #3: Late start of grade beams.
+
+
+                                            41
+
+                                                                                                   l
+       164. Finally, Mr. Ockman's analysis contains a Time Impact Analysis #4, a
+comparison of Mr. Ockman's ·'as-built" schedule to his Time Impact Analysis #3 schedule.
+Mr. Ockman's Time Impact Analysis #4 acknowledges JCG accelerated the Biolab
+completion. Mr. Ockman's Time Impact Analysis #4 found that Grimberg recovered
+55 days during this time. (APF 493; tr. 5/163; R4, tab 179 at III-5, III-6)
+
+        165. As noted above, we need not resolve the expert's differing opinions on the
+cause of any delays prior to commencement of caisson drilling. Furthermore, we have
+concluded that appellant encountered a DSC. Consequently, a considerable portion of
+Mr. Ockman' s analyses are fundamentally flawed since they are premised on the
+incorrect assumption that there was no DSC. Moreover, we have carefully reviewed and
+weighed Mr. Ockman's analyses of allegedly concurrent JCG delays attributable to
+failure to effectively prosecute and sequence the caisson drilling, MEP work and grade
+beam installation and find them to be without merit because the evidence at the hearing
+demonstrated that his proposed means of construction were inconsistent with the site and
+specification restrictions. Accordingly, we have substantially adopted Mr. Hatwell's
+conclusions regarding the impacts, delays, resequencing, and inefficiencies and
+pre-August 2010 acceleration (including mobilization of three drill rigs), caused by and
+essential to overcome the DSC through completion of the MEP work and grade beams, in
+our findings below.
+
+v. Caisson Drilling and Grade Beam Installation Delays
+
+       166. The parties agree that caisson drilling and placement of grade beams took
+longer than planned and critically delayed Project completion (APF 531).
+
+       167. JCG contends that the caisson DSC caused JCG to drill through
+approximately 400% more rock than planned (923 actual feet, versus 240 feet planned),
+delayed caisson completion and, in turn, delayed grade beam work for a resulting delay to
+Project completion of 39 calendar days (APF 532).
+
+       168. The Corps denies that JCG encountered a DSC and ascribes all critical path
+delay to the caisson and grade beam work to JCG (APF 533).
+
+       169. We have concluded that JCG encountered a Type 1 DSC (excessive
+incompetent rock), during the drilling of the caissons and that the drilling of extra rock
+greatly slowed caisson drilling operations and prevented JCG from achieving the baseline
+schedule plan of approximately 1.5 caissons per work day. We have further found that to
+mitigate the impact of the extra rock, JCG added a second drill rig on March 18, 2010
+and third drill rig on April 12, 2010.
+
+       170. In total, the caisson work took from March 8, 2010 through May 27, 2010,
+a period of 81 calendar days and required a total of 116 rig days to complete (as
+
+
+                                           42
+compared to 32 rig days as-planned drilling 1.5 caissons per day) (APF 548). As
+adjusted for the ''allowance'' for incompetent rock we have determined above, appellant
+should have planned for 48 rig days ( 50% more than planned), all other considerations
+being equal and unchanged. Thus, the adverse impacts of the DSC included an
+additional 68 rig days i.e., 116 actual rig days less the 48 rig days that appellant has
+estimated taking into consideration our "allowance.''
+
+      171. The JCG Narrative for the May 2010 Monthly Schedule Update, prepared as
+of May 15, 2010, summarized the impact as follows (APF 549):
+
+              As of this update, the Project shows minus 33 days. This is
+              primarily due to the original snow delay and unsuitable rock
+              being encountered at the rock sockets in which additional
+              drilling of rock is required. Seaboard Foundation mobilized
+              additional drill rig[ s] to assist with drilled pier installation.
+              This has greatly increased the production and helped recover
+              time. Although, due to the increased amount of unsuitable
+              rock encountered, the Project is behind due to this problem.
+              Additional drilling to extend rock sockets will have
+              significant impact on the drilled pier installation and cost.
+
+       172. The baseline schedule showed a combined duration for underground MEP
+rough-in and grade beams of 64 calendar days. The work was actually completed in
+60 calendar days. (APF 554) Although grade beam and underground MEP rough-ins
+were planned to be performed concurrent with the caissons, on an as-built basis, this
+work was performed almost entirely after the completion of caissons for reasons that will
+be described below (APF 553). JCG began the layout for the underground MEP rough-in
+on May 25, 2010, and started underground piping installation activities on May 26, 2010
+(APF 551).
+
+       173. On an as-built basis, the grade beam work was completed on July 28, 2010,
+focusing on the grade beam work continuously instead of concurrent with the caissons,
+JCG was able to reduce the grade beam duration from 56 calendar days in the baseline
+schedule to 29 calendar days (APF 552).
+
+       174. Mr. Hatwell concluded that there were two delays caused by the caisson
+DSC. First, the DSC caused an extended performance for the caisson installation.
+Second, the DSC caused JCG to mobilize three drill rigs instead of just one to mitigate
+the impact of the DSC, grade beams and underground MEP rough-in that could not be
+performed concurrently with the caissons. (APF 555) We so find.
+
+      175. According to Mr. Hatwell, as of the March 16, 2010 CPM Update (UP06),
+which was prepared shortly after critical path caisson work began, the Project was still
+
+
+                                              43
+17 calendar days behind schedule, i.e. there had been no further schedule slippage as
+compared to the February 15, 2010 CPM Update (APF 558).
+
+        176. Mr. Hatwell determined that, as of the May 15, 2010 CPM Update (UP08),
+the caissons were projected to be complete by May 26, 2010, and substantial completion
+was projected to be August 4, 2011, with a total negative float of 45 calendar days,
+resulting in a schedule slippage of 28 calendar days as compared to the March 16, 20.10
+update (i.e., 45 calendar days minus 17 calendar days equals 28 calendar days)
+(APF 559). Mr. Hanvell allocated this 28 calendar days of delay to the caisson DSC
+(APF 560).
+
+        177. In the UP08, the critical path ran through the completion of Area 1 caissons,
+the start of Area 1 grade beams concurrent with Area 1 caissons, and followed by Area 1
+underground MEP rough-in (APF 561). However, because JCG had to use three drill rigs
+to mitigate the impact of the caisson DSC, JCG did not have sufficient access to start
+either the underground MEP rough-ins or the grade beams until the caissons were nearly
+complete. We so find. (See findings 71-72; tr. 3/172, 220, 227-29, 4/22-23)
+
+        178. As of the July 15, 2010 CPM Update (UPlO), the remaining grade beam
+work was on the critical path and projected to be completed on July 27, 2010 with
+substantial completion projected as August 15, 2011, or 56 calendar days (39 work days)
+later than the contract completion date (APF 563).
+
+         179. As compared to the May 15, 2010 CPM Update (UP08) which showed
+45 calendar days of negative float, the July 15, 2015 Schedule Update shows an
+additional 11 calendar days of delay to project completion during the grade beam work
+(i.e., 56 calendar days minus 45 calendar days equals 11 calendar days) (APF 564).
+
+       180. Mr. Hatwell classified this additional 11 calendar day delay as part of the
+caisson DSC delay in that, but for the need to mobilize two additional rigs to mitigate the
+DSC, the grade beam work could have been performed concurrent with caissons pursuant
+to JCG's original plan (APF 565).
+
+        181. Mr. Hatwell concluded further, and we so find, that JCG's decision to use
+three rigs and defer grade beam and underground MEP work until the drilling was
+completed in lieu of using a single rig and performing concrete grade beam operations
+concurrently saved 54 calendar days of delay in that:
+
+              a. Per the daily reports, JCG completed the caisson drilling in
+              116 rig-days, using three rigs.
+
+             b. If only one (I) rig had been used, drilling the caissons
+             would have taken 116 work days, or 160 calendar days.
+
+
+                                            44
+              c. Thus, given an actual start of drilling caissons on ·March 9,
+              2010, with one rig, the caisson work would not have been
+              completed until August 15, 2010 (i.e., March 9, 2010 plus
+              160 calendar days equals August 15, 2010).
+
+              d. As originally planned, and as reflected in the January 2010
+              update, the grade beam and underground MEP work was to
+              be completed 36 calendar days after the completion of
+              caissons in all three areas using one rig.
+
+              e. Given an August 15, 2010 completion date of caissons using
+              one rig and 36 calendar days additional time to complete the
+              grade beams and MEP work, the grade beams and MEP work
+              would have been completed by September 20, 2010.
+
+              f. The underground MEP rough-ins and grade beam work
+              was actually completed on July 28, 2010 or 54 calendar days
+              earlier than the September 20, 2010 date had only one rig
+              been used.
+
+(APF 566)
+
+vi. Acceleration and Schedule Recovery:
+
+       182. The parties agree that from August 2010 through June 2011, JCG accelerated
+the Project and successfully performed at a rate better than originally planned (APF 589).
+
+       183. JCG contends that its acceleration overcame all of the Project delay prior to
+August 2011, plus most of the impact of the government's delayed provision of
+permanent utilities and allowed JCG to substantially complete the Project by the end
+of June 2011 (APF 590).
+
+       184. The Corps contends that JCG recovered 55 calendar days of delay and
+substantially completed the Project on August 19, 2011 (APF 591). We have so found above.
+
+       185. In his analysis, Mr. Hatwell states that by the time JCG submitted the
+August 15, 2010 CPM update (UPll), the total Project delay had grown to 56 calendar
+days as a result of prior excusable delays (DSC and excusable delays to pre-drilling site
+work activities). As a result, Grimberg developed an acceleration schedule demonstrating
+how the lost time would be recovered. (APF 5 92)
+
+       186. JCG's UPI 1 showed that the Project would be substantially completed by
+June 21, 2011, essentially on time (APF 593).
+
+
+                                            45
+       187. Mr. Hatwell analyzed the August 15, 2010 accelerated schedule and
+concluded that the 56 calendar days of delay prior to August 2010 were projected to be
+recovered through adjustments to both activity durations and logic (APF 594).
+
+        188. Mr. Hatwell determined that through JCG's acceleration efforts, the Project
+continued to essentially remain on time from August 2010 until alleged substantial
+completion in June 2011. Although there were months where the schedule would slip a day
+or two due to duct rough-in and/or drywall, JCG quickly recovered those days in the next
+update (APF 595). We have previously rejected the major bases for his determination that
+substantial completion occurred in late June 2011 in our findings based on our independent
+analysis of the contemporaneous records and associated testimony (see findings 142-57
+above). To the extent that Mr. Hatwelrs conclusions are based on changes to the Project
+directed by the government near the conclusion of the job, there is insufficient evidence to
+evaluate the detailed nature, criticality and delaying impacts of the changes. Appellant has
+not filed separate claims for delays allegedly related to the changes.
+
+       189. Mr. Ockman also concluded that appellant had accelerated completion of the
+Project, finding, "[f]rom August 2010 through June 2011., Grimberg performed more
+quickly than originally planned, and that resulted in pulling back the projected
+completion date, which shows up as October 13, 2011..., pulling that back to August 19,
+2011, 55 calendar days schedule recovery" (tr. 5/163).
+
+                            DECISION-ASBCA No. 59717
+
+Pre-August 2010 Delay and Acceleration to Overcome and Mitigate Impacts of DSC
+
+       Appellant contends that it was delayed a total of 39 days as a result of the DSC
+and adverse weather. Adverse weather issues were resolved by bilateral Mod. Al which
+granted a time extension of 6 days, leaving 33 days related to the DSC.
+
+        We have reviewed the expert analyses and associated portions of the evidentiary
+record and, for the most part, agree with Mr. Hatwell's analysis of the period commencing
+with the start of caisson drilling on March 9, 20 I 0, through the completion of the grade
+beam work on July 28, 2010. Pursuant to the DSC clause, we conclude that JCG is
+entitled to an equitable adjustment to compensate it for the extensive adverse impacts of
+the DSC. In particular, we conclude that appellant is entitled to recover its increased
+labor, material, equipment and other costs related to its efforts to overcome and mitigate
+the adverse effects of the DSC through resequencing its planned activities, the resulting
+inefficiencies associated with resequencing, and accelerating its efforts to complete the
+grade beam and MEP rough-in work. However, we have also found that appellant should
+have included an allowance for an additional 16 rig days (or a total of 48 rig days) given
+the extensive contract indications of incompetent rock. Subtracting that total from the
+
+
+                                           46
+actual 116 rig days, adverse impacts of the DSC include an additional 68 rig days for
+which appellant is entitled to compensation. (See finding 70)
+
+        Given the interrelation and confluence of the caisson drilling, MEP rough-in and
+grade beam work, appellant's resequencing activities and its acceleration of completion of
+the grade beam work, and additional complexities introduced by our "allowance," we
+remand all issues related to the quantum ramifications and impacts (including delay days)
+of the DSC to the parties for negotiation. However, for purpose of their deliberations, we
+emphasize that government contentions regarding appellant-caused drilling delays and
+inefficient planning of the drilling, MEP and grade beam work have been rejected in our
+prior findings and in our discussion of the DSC above. We also emphasize for purposes of
+our discussion of JCG's post-July 2010 acceleration claim that any equitable adjustment
+for delays attributable to the DSC, in no event, can exceed the 33 days found by
+Mr. Hatwell in his expert analysis.
+
+Post-July 20 IO Acceleration
+
+        To prevail on its post-July 2010 acceleration claim under the contract's Changes
+clause, Grimberg must show: ( 1) that the contractor encountered a delay that is
+excusable under the contract; (2) that the contractor made a timely and sufficient request
+for an extension of the contract schedule; (3) that the government denied the contractor's
+request for an extension or failed to act on it within a reasonable time; (4) that the
+government insisted on completion of the contract within a period shorter than the period
+to which the contractor would be entitled by taking into account the period of excusable
+delay, after which the contractor notified the government that it regarded the alleged
+order to accelerate as a constructive change in the contract; and (5) that the contractor
+was required to expend extra resources to compensate for the lost time and remain on
+schedule. Fraser Constr. Co. v. United States, 384 F.3d 1354, 1360-61 (Fed. Cir. 2004).
+It is not enough to show that the government delayed a particular segment of work.
+Grimberg must establish that the delay to the Project was a delay on the critical path and
+must account for any concurrent contractor-caused delay. Win Ballance, Inc., ASBCA
+No. 53710, 05-2 BCA ,r 33,081. Grimberg must also establish the number of days of
+relief to which it is entitled. Phillips Nat 'l, Inc., ASBCA No. 53241, 04-1 BCA ,r 32,567.
+
+       Appellant has failed to establish entitlement to recover for its post-July 2010
+acceleration efforts. Grimberg's claim and complaint identified the DSC, and only the
+DSC, as the cause of delay to both the caisson and grade beam construction work. 4 We
+
+4
+    The Hatwell Report determined that rough grading and weather at the site were
+         additional causes of delay. It also identified waterline installation as a delay,
+         though it did not quantify this delay. However, no claim covering the pre-March
+         2010 period prior to commencement of drilling was filed by JCG requesting time
+         extensions for rough grading, CUP contractor and/or waterline delays.
+
+                                              47
+have found above that appellant encountered a DSC and is entitled to a time extension as
+a result of the DSC not to exceed 33 days. The weather delay was resolved by bilateral
+modification and appellant was granted a 6-day time extension.
+
+       Appellant asserts that the ACO' s July 30, 2010 letter satisfied the requisite ''order''
+element essential to proof of acceleration. Significantly, however, appellant had begun
+accelerating well before the alleged "order'' was issued. Moreover, that letter did not
+constitute an "order.'' It was simply a preliminary informational request that was
+intended to allow the government to consider acceleration options to ''buy back'' time and
+ensure project completion in compliance with the BRAC statute. It did not direct
+Grimberg to accelerate. It requested proposals to evaluate whether Grimberg should be
+directed to accelerate and anticipated that the parties would first negotiate before any
+compensable acceleration occurred. Appellant never complied with the ACO's July 30,
+2010 letter to provide a detailed acceleration plan for government review. Grimberg
+simply accelerated and then informed the government after the fact, thereby depriving the
+Corps of any role in deciding how to manage the Project.
+
+       In short, there was no "order'' to accelerate by the government, much less any
+notice to the Corps that appellant considered any government directive to be such an
+order. JCG also did not make a timely and sufficient request for an extension to the
+contract completion date. Failure to timely request an extension bars recovery. Cf
+Commercial Contractors Equipment, Inc., ASBCA No. 52930 et al., 03-2 BCA ,r 32,381.
+
+       In addition, the contract was not substantially complete in late June 2011. We have
+determined that substantial completion did not occur prior to August 19, 2011. Since we
+have concluded that appellant was entitled to a time extension for the DSC of no more than
+Mr. Hatwell's 33 days, appellant was at most only entitled to an extension of the completion
+date through the end of July 2011, including the 6 weather days granted in Mod. Al. The
+government never required appellant to complete by the originally-scheduled completion
+date. Nor did the Corps threaten or assess imposition of liquidated damages.
+
+        We further note with respect to substantial completion, both Grimberg' s claim and
+complaint concluded that the Project was complete on August 15, 2011, not June 28, 2011.
+To the extent that the Hatwell Report could be read to conclude that the Project was
+complete on June 28, 2011, it failed to analyze schedule updates in the post-June 2011
+period. 5 We have previously rejected the major bases for his determination that substantial
+completion occurred on June 28, 2011. To the extent, if any, that his conclusions are based
+on changes to the Project directed by the gov~rnment near the conclusion of the job, there
+
+5
+    The Hatwell Report also inconsistently concludes that the Project was not substantially
+         complete as of June 28, 2011, due to delays caused by the government's alleged
+         failure to provide permanent power. The Hatwell Report does not however
+         allocate any delay days to this event.
+
+                                              48
+is insufficient evidence to evaluate the detailed nature, criticality and delaying impacts of
+the changes. Appellant has not filed separate claims related to any alleged changes other
+than those discussed below, and there is no persuasive JCG analysis of delays in the
+post-June 2011 period.
+
+       JCG also has failed to establish that it made a timely request for a time extension
+that was denied by the government. Contrary to appellant's assertions, the statutory
+deadline did not preclude all time extensions, so long as the September 15, 2011 deadline
+was met. As originally scheduled, the contract completion date was late June 2011,
+allowing adequate time for extensions beyond the weather delays granted by Mod. A 1 to
+compensate appellant for the impacts of the DSC.
+
+        ASBCA No. 59717 is sustained in part with respect to the delays and impacts
+attributable to the DSC prior to August 2010 under the DSC clause to the extent
+indicated, but is denied with respect to appellant's claim for the costs of accelerating
+Project completion during the post-July 2010 period.
+
+C. ASBCA Nos. 59167. 59168, 59169, 59170
+
+                          ADDITIONAL FINDINGS OF FACT
+
+        190. On October 3, 2013, appellant filed a consolidated certified claim with the
+contracting officer requesting a total of $387,715 for six different claims and asserting that
+it was entitled to relief under the Changes clause. Five of the six consolidated claims were
+denied by the contracting officer in a final decision dated January 15, 2014. Grimberg
+timely appealed the final decision on February 20, 2014. In docketing the appeal on
+February 24, 2014, the Board assigned separate docket numbers for the five components of
+appellant's consolidated claim denied by the contracting officer as follows: ASBCA
+No. 59167-fire hydrant and waterline claim; ASBCA No. 59168-increased asphalt;
+ASBCA No. 59169-additional card readers; ASBCA No. 59170-temporary electric
+power; and, ASBCA No. 59171-epoxy seams. As noted above, the parties agreed to
+dismiss the latter appeal, ASBCA No. 59171 with prejudice.
+
+      191. The contract incorporated FAR 52.236-21, SPECIFICATIONS AND DRAWINGS
+FOR CONSTRUCTION (FEB 1997). The clause stated in part:
+
+                     (a) ... Anything mentioned in the specifications and not
+              shown on the drawings, or shown on the drawings and not
+              mentioned in the specifications, shall be of like effect as if
+              shown or mentioned in both. In case of difference between
+              drawings and specifications, the specifications shall govern.
+              In case of discrepancy in the figures, in the drawings, or in the
+              specifications, the matter shall be promptly submitted to the
+
+
+                                             49
+             Contracting Officer, who shall promptly make a determination
+             in writing. Any adjustment by the Contactor without such a
+             determination shall be at its own risk and expense.
+
+(R4, tab 3 at 65)
+
+      192. The contract included, in full text, the following pertinent clauses:
+
+             DESIGN-BUILD-CONTRACT-ORDER OF PRECEDENCE
+
+             (a) The contract includes the standard contract clauses and
+             schedules current at the time of contract award. It entails ( 1)
+             the solicitation in its entirety, including all drawings, cuts,
+             and illustrations, and any amendments, and (2) the successful
+             offeror's accepted proposal. The contract constitutes and
+             defines the entire agreement between the Contractor and the
+             Government. No documentation shall be omitted which in
+             any way bears upon the terms of that agreement.
+
+             (b) In the event of conflict or inconsistency between any of
+             the provisions of this contract, precedence shall be given in
+             the following order:
+
+                    ( 1) Betterments: Any portions of the accepted
+             proposal which both conform to and exceed the provisions of
+             the solicitation.
+
+                   (2) The provisions of the solicitations. (See also
+             Contract Clause: SPECIFICATIONS AND DRAWINGS
+             FOR CONSTRUCTION.)
+
+                    (3) All other provisions of the accepted proposal.
+
+                    (4) Any design products including, but not limited to,
+             plans, specifications, engineering studies and analyses, shop
+             drawings, equipment installation drawings, etc. These are
+             "deliverables" under the contract and are not part of the
+             contract itself. Design products must conform with all
+             provisions of the contract, in the order of precedence herein.
+
+
+                                           50
+              RESPONSIBILITY OF THE CONTRACTOR FOR DESIGN
+
+              (a) The Contractor shall be responsible for the professional
+              quality, technical accuracy, and the coordination of all designs,
+              drawings, specifications, and any other non-construction
+              services furnished by the Contractor under this contract. The
+              Contractor shall, without additional compensation, correct or
+              revise any errors or deficiency in its designs, drawing,
+              specifications, and other non-construction services.
+
+              (b) Neither the Government's review, approval or acceptance
+              of, nor payment for, the services required under this contract
+              shall be construed to operate as a waiver of any rights under
+              this contract or of any cause of action arising out of the
+              performance of this contract, and the Contractor shall be and
+              remain liable to the Government in accordance with
+              applicable law for all damages to the Government caused by
+              the Contractor's negligent performance of any of the services
+              described in paragraph (a) furnished under this contract.
+
+              The rights and remedies of the Government provided for
+              under this contract are in addition to any other rights and
+              remedies provided by law.
+
+(R4, tab 3 at 80-81)
+
+        193. Section 00100, paragraph 1.3, of the solicitation "Instructions,'' required, inter
+alia, that offerors were to submit technical and price proposals (R4, tab 3 at 5). Regarding
+the evaluation of the price proposal, the solicitation stated at paragraph 2.3 in part:
+
+              2.3 Volume II (Price Proposal, Factor 9 and Factor 10) of the
+              proposal will be evaluated by a Price Evaluation Committee
+              (PEC) established by the Source Selection Authority (SSA).
+              Price will be evaluated for reasonableness, but will not be
+              scored. Proposals will be evaluated using price analysis
+              techniques. Prices in an offeror's proposal and breakdown
+              are required to be reasonable for the work to be performed
+              and consistent with relevant elements of the technical
+              proposals.
+
+(Id. at 8)
+
+
+                                             51
+       194. Further relative to the evaluation of the price proposal, the solicitation stated
+in paragraph 6 of section 00100 in pertinent part:
+
+              6.0 VOLUME II: EVALUATION CRITERIA (PRICE or
+              COST PROPOSAL)
+
+              6.1 DEFINITIONS
+
+                     a. Price Analysis: The process of examining and
+              evaluating an offeror' s proposed price to determine if it is fair
+              and reasonable without evaluating its separate cost elements and
+              proposed profit/fee. Price analysis always involves some sort of
+              comparison with other prices; e.g., comparing an offeror's
+              proposed price with the proposed prices of competing offerors
+              or with previously proposed prices for the same or similar items.
+
+(R4, tab 3 at 17)
+
+i. Fire Hydrants and Waterline-ASBCA No. 59167
+
+       195. The RFP and contract contained contract drawing CLI01, "LAYOUT AND
+UTILITIES PLAN." The new construction on the drawing depicted two fire hydrants to
+be installed outside the main Biolab building. There was no hydrant indicated on the
+drawing outside the Project Entry Control Point. JCG's proposal assumed that only two
+hydrants were required, and a two-inch diameter potable waterline to the Entry Control
+Point Building (ECP). (Tr. 1/159; R4, tab 22 at 110; app. supp. R4, tab 219 at 364)
+
+        196. Contract specification section 01 10 00, paragraph 4.2, entitled
+"APPLICABLE MILITARY CRITERIA,'' stated "The Project shall conform to the
+following criteria'' to include "UFC 3-600-01 Design: Fire Protection Engineering for
+Facilities, Sept. 2006" (UFC or sometimes hereinafter Fire Code) (R4, tab 23 at 89).
+
+       197. UFC section 01 10 00, paragraph 6.5.8.5(5)(d)(ii)(d) "Spacing Requirements,'' stated:
+
+              A sufficient number of hydrants must be provided so that hose
+              stream demand can be met without taking more than 1,250 gpm
+              from any single hydrant. Hydrants must also be spaced in
+              accordance with the following requirements.
+
+                    a. All parts of the building exterior must be within 350 ft of a
+                    hydrant with consideration given to accessibility and obstructions.
+
+(R4, tab 23 at 125)
+
+
+                                              52
+     198. UFC 3-600-01, "DESIGN: FIRE PROTECTION ENGINEERING FOR
+FACILITIES," paragraph 3-7.3.2 "Spacing Requirements,'' stated:
+
+              A sufficient number of hydrants must be provided so that
+              hose stream demand can be met without taking more than
+              4, 740/L/min (1,250 gpm) from any single hydrant. Hydrants
+              must also be spaced in accordance with the following
+              requirements:
+
+                        •   All parts of the building exterior must be within
+                            106 m (350 ft) of a hydrant with consideration
+                            given to accessibility and obstructions.
+
+(R4, tab 31 at 32)
+
+        199. One prospective subcontractor submitted a quote to Grimberg that included
+three fire hydrants. Another submitted a quote that only included two hydrants.
+(APF 619; R4, tab 141 at 207-10; tr. 2/48-49)
+
+       200. To satisfy the Fire Code requirements, a third hydrant was needed to provide
+sufficient coverage of the ECP (R4, tab 22 at 110, tab 24 at 257; tr. 1/31-32). JCG's bid
+did not include cost for a third hydrant at the ECP site (APFs 616-18). There is no
+express language in appellant's proposal indicating that JCG did not intend to comply
+with the UFC requirements.
+
+       201. However, the JCG proposal stated (APF 620):
+
+              The RFP and conceptual drawings do not indicate a fire
+              hydrant in close proximity to the guard house [ECP]. It is
+              recommended, due to the size of the ECP, that a new hydrant
+              be installed in the general vicinity. This hydrant would be
+              supplied by an 8" diameter water service from the building
+              loop.
+
+      202. Following award, the Corps required appellant to install the third hydrant in
+compliance with the Fire Code (APF 622).
+
+       203. To accommodate the water flow for the third hydrant at the ECP building,
+JCG changed the waterline from a two-inch PVC-pipe waterline to an eight-inch ductile
+iron pipe waterline (APF 623).
+
+       204. On or about May 12, 2011, JCG submitted a request for equitable adjustment in
+the form of "Proposed Change Order 7" (PCO 7) for the claimed additional costs of $98,727
+
+
+                                            53
+associated with the third hydrant and eight-inch ductile iron pipe waterline at the ECP (R4,
+tab 32). The Corps rejected this proposal in a letter dated June 9, 2011 (APF 629).
+
+       205. By letter dated June 11, 2012, Grimberg stated that the pertinent contract
+drawing only depicted two fire hydrants and that, under MA. Mortenson Company,
+ASBCA No. 39978, 93-3 BCA ,r 26,189, Grimberg was entitled to rely on the contract
+drawings for purposes of preparing its cost proposal (R4, tab 35). On October 3, 2013,
+Grimberg filed a certified claim for the waterline in which it requested $57,525 for the
+alleged waterline changes (R4, tab 25 at 5-6).
+
+ii. Asphalt Pavement-ASBCA No. 59168
+
+    206. Subsection 5.2.3 of the Statement of Work, "GENERAL TECHNICAL
+REQUIREMENTS," addresses "Pavement'' and stated in part:
+
+             The Offeror' s geotechnical report shall contain flexible and
+             rigid pavement design( s) including design CBR and modulus
+             of subgrade reaction and the required compaction effort for
+             subgrades. Pavements shall be designed in accordance with
+             Federal Department of Transportation[.] Regardless of the
+             pavement design, a minimal flexible pavement section shall
+             consist of 3 inches of asphalt and 8 inches of subbase. The
+             minimum subbase can be neglected if the subgrade has a
+             CBR greater than 30.
+
+(APF 670)
+
+       207. Other standards also applied to the design of the pavement including the
+Corps Pavement-Transportation Computer Assisted Structural Engineering (PCASE)
+program and the AASHTO Guide for Design of Pavement Structures standards (R4,
+tab 4 at 1, tab 24 at 10).
+
+       208. The depth of the pavement section could not be determined accurately during
+the bid period as the design had to await completion of the post-award final geotechnical
+analysis (APF 122). JCG's estimate and technical proposal for the Project contemplated
+a 1.5-inch asphalt surface and a 2.5-inch asphalt base for both the parking lot and the
+access road "for bidding purposes," but further stated:
+
+             The pavement design shall be performed in accordance with
+             the USACE Pavement Transportation Computer Assisted
+             Structural Engineering program or AASHTO Guide for
+             Design of Pavement Structures method. The ESAL design
+             criteria listed in the RFP will be used as the basis of the
+
+
+                                            54
+              pavement section design. Because the actual CBR value for
+              the pavement subgrade will be determined by future
+              geotechnical investigations, the pavement section cannot be
+              accurately determined at this time.
+
+(R4, tab 22 at 108)
+
+       209. On May 17, 20 I 0, G1imberg' s designer submitted its initial design analysis
+on the Project. Grimberg's pavement design required a total of 6 inches asphalt (2 inches
+asphalt surface course + 4 inches asphalt base course) for the heavy duty access road and
+4.5 inches asphalt ( 1.5 inches asphalt surface course + 3 inches asphalt base course) for
+the standard-duty parking lot. (GPF 319)
+
+        210. On December 9, 2010, Grimberg filed RFI 0076 titled ·'Asphalt Thickness" in
+which it requests additional compensation for installing asphalt over thickness of 3 inches.
+In its request, Grimberg states the RFP indicated an asphalt thickness of 3 inches and that
+additional thickness of asphalt was added to design by Corps. (GPF 320)
+
+        211. On December 10, 2010, the Corps responded to RFI 0076 by directing
+Grimberg to comply with the asphalt thickness quantities specified in Grimberg's design.
+for the Project as stated in Grimberg's design analysis (GPF 321).
+
+       212. Ultimately, JCG installed 4.5 inches of asphalt on the parking lot and 6 inches
+of asphalt on the access road (R4, tab 21 at 7; tr. 2/143).
+
+       213. On or about August 23, 2011, JCG submitted Proposed Change Order 52
+(PCO 52) for the additional costs in the amount of $82,910 associated with increasing the
+asphalt thickness beyond four inches, i.e., the amount included in JCG's cost proposal
+(APF 677; GPF 322). The Corps rejected this proposal in a letter dated February 3, 2012
+(APF 678).
+
+       214. After the Corps rejected PCO 52, JCG submitted PCO 52 as a certified
+claim in the amount of $49,702 on October 3, 2013. The Corps' contracting officer
+issued a final decision rejecting JCG's certified claim on this issue on January 15, 2014.
+(APF 679; GPF 324)
+
+       215. JCG filed a notice of appeal with the Board on February 20, 2014, and filed a
+consolidated complaint regarding PCO 52 on March 24, 2014, in ASBCA No. 59168.
+
+
+                                            55
+m. Additional Card Readers at Entry Control Point (ECP)-ASBCA No. 59169
+
+       216. Section 01 10 00, paragraph 6.19.1(6) of the specifications stated (APF 660):
+
+              (6) Provide a visitor processing area at the perimeter entrance
+              to the compound. This visitor processing area is the single
+              point of entry for all visitors entering into the new facility.
+              This facility shall contain a physical security entry check-point,
+              and registration check-in area. Provide infrastructure for X-ray
+              and Walk-Thru Metal Detector. Provide a card reader for
+              after-hours access and a turnstile for egress.
+
+       217. Section O1 10 00, paragraph 1.1 (3) of the contract specifications, entitled
+"Guiding Principles," stated "(3) The new facility must meet all security, antiterrorism
+and force protection requirements" (R4, tab 23 at 31 ).
+
+       218. RFP Statement of Work, volume 1, section 01 10 00, paragraph 3.8.2, Entry
+Control Point Facility, contains a description of general requirements for the ECP and
+provided a general conceptual layout of the ECP. The sketch does not depict locations
+for card readers or any card readers at all. (R4, tab 23 at 81-82)
+
+        219. The sketch depicts only one entry and one egress point at the ECP where
+visitors enter into or exit from the Biolab building (APF 661). The sketch does not depict
+locations for card readers or any card readers (R4, tab 23 at 82).
+
+     220. Section 01 10 00, paragraph 4.2 of the contract specifications, entitled
+"APPLICABLE MILITARY CRITERIA,'' stated:
+
+              The Project shall conform to the following criteria. Certain
+              design impacts and features due to these criteria are noted for
+              the benefit of the Offeror. However, all requirements of the
+              referenced criteria will be applicable, whether noted or not,
+              unless otherwise specified herein.
+
+(R4, tab 23 at 89)
+
+       221. Section 01 10 00, paragraph 4.2 also incorporated UFC 4-510-01, DoD
+Medical Military Facilities, Design and Construction Criteria, as one of the applicable
+military criteria (R4, tab 23 at 89).
+
+     222. Section O1 10 00, paragraph 6.19 of the contract specifications, entitled
+"SECURITY," stated:
+
+
+                                            56
+              All entries/exits into the facility are controlled with access
+              control system and are monitored by CCTV. The Offeror shall:
+              ( 1) Design the security/CCTV system and infrastructure (all
+              wires, cables,' back boxes, etc.) for a complete and operable
+              system. The Offeror shall include all devices and infrastructure
+              to provide a fully-functional and operational security system.
+
+(R4, tab 23 at 273-74)
+
+       223. Section 01 10 00, paragraph 6.19.1 of the contract specifications, entitled
+·'Security System," stated:
+
+              Provide the design of the Fort Detrick Standard automated
+              access control and security system to monitor all areas of the
+              new facility. The Integrated Commercial Intrusion Detection
+              System (ICIDS) III shall be used to meet the client's security
+              requirements. The system interconnects with and·is
+              monitored by existing Fort Detrick ICIDS III System. A
+              separate, dedicated security network shall be installed to
+              support the system. The design of the security system is
+              included in the design/build contract. The Offeror shall
+              coordinate with the installation for all system requirements.
+              The Offeror shall include as a bid option the installation and
+              operational testing of all security components to include
+              connection to the head end equipment in the Provost
+              Marshalls Office.
+
+(R4, tab 23 at 274)
+
+       224. Section 01 10 00, paragraph 6.19.1(6) of the contract specifications also stated:
+
+              Provide a visitor processing area at the perimeter entrance to
+              the compound. This visitor processing area is the single point
+              of entry for all visitors entering into the new facility. This
+              facility shall contain a physical security entry check-point,
+              and registration check-in area. Provide infrastructure for
+              X-ray and Walk-Thru metal detector. A card reader for
+              after-hours access and a turnstile for egress. As part of the
+              bid option, include procurement and installation of the
+              equipment.
+
+(R4, tab 23 at 275)
+
+
+                                            57
+      225. Section 01 10 00, paragraph 6.19.1(7) of the contract specifications stated:
+"Provide employee entrance(s) with card reader. Entrances shall be monitored with
+CCTV. Readers shall support anti-passback." (R4, tab 23 at 275)
+
+       226. RFP Drawing A005, entitled "Guard House Plans & Elevations," provided a
+general conceptual layout for the ECP (R4, tab 24 at 285). No card readers are depicted in the
+conceptual layout nor are other security requirements depicted on the layout. The vestibule
+immediately adjacent to the room labeled "Security Office" is labeled "Security Vestibule-.''
+
+        227. UFC 4-510-01, DoD Medical Military Facilities, Design and Construction
+Criteria, paragraph 12-14.1, stated: "Provide an ESS for Military Medical Facilities
+utilizing various combinations of capabilities for intrusion detection, duress alarm, door
+access control, Infant Protection Alarm, Staff Assist Alarm in behavioral health areas,
+video surveillance, and photo badging. Refer to Chapter 14, Physical Security, for
+additional information and requirements.'' (R4, tab 53 at 218)
+
+       228. UFC 4-510-01, paragraph 12-14. 6, "Door Access Control," stated: "Provide
+electronic door access control capability at the locations listed here as required by the
+project-specific criteria" (R4, tab 53 at 222). These door access controls included card readers:
+
+                      Monitor and control of door access activity and events
+              shall utilize the integrator network Workstation. Provide an
+              interface between the video surveillance and the door access
+              control capabilities to initiate video monitoring and recording
+              of surveillance cameras anytime these doors are opened
+              unless an authorized access control card has been read by the
+              card reader, or an authorized personal identification number
+              (PIN) is entered in an access control keypad.
+
+(Id)
+
+        229. UFC 4-510-01, paragraph 12-14.6.1, "Access Controlled Door Locations,"
+identified security offices as one of the locations with electronic door access controls.
+"Electronic door access control devices shall be provided at these locations: ... (r)
+Security Office and storage room doors." (R4, tab 53 at 222-23)
+
+        230. As-Built Drawing E 112 depicted the final security layout after construction of
+the ECP. Card Readers identified as "CR" on the drawing, are placed in Rooms 001, 002,
+003. Each of these rooms is an entrance/exit into the ECP. One card reader is placed
+in each room to secure access into or out of the ECP. Card readers are also placed in
+Rooms 004 and 006, the security office and security vestibule. One card reader is placed
+in each of these rooms to secure access into the security office section of the ECP. (R4,
+tab 52)
+
+
+                                            58
+       231. On December 2, 2010, G1imberg sent an email to the government explaining
+that Grimberg had complied with the card reader design for the ECP and that it
+considered the government's request by Messrs. Bill Conroy and Horace King for card
+readers at the security office to be a change (R4, tab 48). The email attached a picture of
+the ECP showing card readers place at each entrance and exit as well as card readers
+placed at the security office (id at 2 ).
+
+        232. By letter dated February 4, 2011, Grimberg requested costs in the amount of
+$32,306 for installing two additional card readers and related equipment (R4, tab 49). This
+letter requested cost for card readers installed over the ··one entry and one exit requirement
+per RFP'' and attaches a picture of the ECP showing card readers at each enh·ance and exit
+but not at the security office (id at 7).
+
+       233. By letter dated February 22, 2011, the government denied Grimberg's
+request. It stated that the contract required card readers at each entrance/exit of the ECP
+and thus no change to the contract occurred. (R4, tab 50)
+
+       234. On May 11, 2011, RCD Elechic submitted revised costs for the two
+additional card readers and related equipment. This letter is incorrectly dated October 29,
+2010. (R4, tab 25 at 148-49)
+
+        235. On October 3, 2013, Grimberg submitted its claim on the ECP card readers,
+seeking a revised cost of $43,578 (R4, tab 25 at 9). The reason Grimberg provided for
+requesting compensation was the contract allegedly did not require card readers to be
+installed at the security office (id. at 8-9). RCD's request only requested costs for two
+card readers (tr. 3/8; R4, tab 49 at 4).
+
+       236. JCG's proposal included only the cost of installing a single card reader for
+access to the ECP at the single entrance, and a turnstile at the single exit (R4, tab 49).
+
+        237. After JCG submitted its bid and the Corps awarded the contract to JCG, the
+Corps directed JCG to install additional card readers. The final design called for a total
+of five card readers at the ECP. (APFs 664-65)
+
+       238. JCG installed the additional card readers under protest. JCG considers the
+additional card reader devices at the ECP additional work that constitutes a change to the
+contract for which JCG is entitled to be compensated.
+
+       239. On February 4, 2011, JCG submitted Proposed Change Order 26 (PCO 26) for
+the additional costs associated with the second card reader system at the ECP. The Corps
+rejected this proposal in a letter dated February 22, 2011. (APF 667)
+
+
+                                             59
+iv. Temporary Pmrer-ASBCA No. 59170
+
+      240. Grimberg had a trailer on the Project site that required temporary power.
+Under the contract, Grimberg was also required to provide two trailers for the
+government and parking for at least seven vehicles. All of the trailers required power,
+sewer and water. (GPF 344)
+
+         241. Section O1 05 00, paragraph 1.4.l of the contract specifications, entitled
+·'Availability of Utilities Including Lavatory Facilities,'' stated: ·'It shall be the responsibility
+of the Offeror to provide all utilities he may require during the entire life of the contract. He
+shall make his own investigation and determination as to the availability and adequacy of
+utilities for his use for construction purposes and domestic consumption." (GPF 346)
+
+       242. Drawing CD 101, entitled "Existing Conditions & Demolition Plan'' depicts
+an overview of the Project site closely centered upon the construction area for the Project
+(R4, tab 24 at 255).
+
+      243. To the north, is an electric corridor (Northern Electric Corridor) (R4, tab 57).
+Two groups of electric lines run horizontally, east-west, in the Northern Electtic Corridor.
+The Northern Electric Corridor is identified as a power easement. (Id.; GPF 348)
+
+        244. Drawing CD 101 also depicts on its east side, a second electric corridor
+(Eastern Electric Corridor) outlined in green on the annotated drawing (R4, tab 57). The
+electric lines in the Eastern Electric Corridor run underground vertically, north-south.
+Drawing CD 101 does not identify the voltages of the electric power lines running in
+either the Northern Electric Corridor or the Eastern Electric Corridor. (GPFs 349-50; R4,
+tab 24 at 255, tab 57)
+
+       245. RFP Drawing CL 100, entitled "Overall Layout & Utilities Plan," depicts an
+overview of the site at a greater distance than RFP Drawing CD 101 so that more of the
+topographical area around the building site is shown. The drawing displays the proposed
+building layout and both electric corridors. In the western comer of the drawing, a
+T-shaped building is also displayed. (GPF 351)
+
+        246. Drawing CE 100, entitled "Overall Existing Conditions," depicts an overview of
+the site. The drawing does not show the proposed building layout. In the western comer of
+the drawing, the T-shaped building and electric corridors are again depicted. (GPF 352)
+RFP Drawing CE 100 also identifies electric lines running through the Northern Electric
+Corridor as: "65' wide overhead 230 KV [kilovolt] line & 34.5 KV line, Conglomerate RIW,
+(Allegheny Power Company).'' One kilovolt is equivalent to 1,000 volts. (GPF 353)
+
+     247. During the Biolab pre-proposal period, a potential offeror asked the Corps,
+"Where are the temporary electric power and telecomm services for the consttuction and
+
+
+                                               60
+trailer areas being supplied from and what size/type services are they?'' The government
+response stated:
+
+              The Contractor will contact the Directorate of Installation
+              Services (DIS) with a request to connect to the Post utilities.
+              Contact information will be provided after contract award.
+              The DIS will provide the locations, specifics, and
+              requirements for making these connections. All requests,
+              work, and materials are the responsibility of the contractor.
+
+(APF 102) The above Q&A was incorporated into the RFP via solicitation Amendment
+No. 2 (id.; GPF 354 ).
+
+       248. FAR clause 52.236-27, SITE VISIT (CONSTRUCTION) (FEB 1995), is
+incorporated into the contract. It reads: "(a) The clauses at 52.236-2, Differing Site
+Conditions, and 52.236-3, Site Investigations and Conditions Affecting the Work, will be
+included in any contract awarded as a result of this solicitation. Accordingly, offerors or
+quoters are urged and expected to inspect the site where the work will be performed."
+(GPF 355) This clause provided information regarding a site visit to offerors. The visit
+was to occur on March 5, 2009, from 10:00 am to 12:00 pm (GPF 356).
+
+        249. On March 5, 2009, the site visit took place. The site visit would have shown
+that the Northern Electric Corridor's electrical lines were mounted on steel frames rather
+than wooden utility poles and would appear from visual inspection to be high voltage
+transmission lines that were not a reasonable, cost-efficient option for the temporary
+power source. Among other things, a highly expensive "step down'' transformer and
+associated equipment would have been required, none of which were included in
+appellant's proposal. The site visit would have shown that no above-ground electrical
+lines were located in the Eastern Electric Corridor. There is no evidence as to the
+location of suitable manholes that appellant had identified for access prior to bidding, or
+that JCG relied on the existence of a suitable and proximate manhole in preparing its
+proposal or any indication how appellant intended to access the underground lines.
+(GPFs 357,367; ex. G-8; tr. 6/88-91, 149-51) Nor is there any evidence that appellant at
+any time sought to make arrangements with the public utility owning the lines running
+through the Northern Electric Corridor.
+
+        250. For its temporary power needs, JCG's proposal and the contract price were
+based on tapping into the existing electrical lines within the "limits of disturbance'' and
+within 100-150 feet of the "'laydown area'' where appellant would locate its site office and
+trailers. Power was previously provided within the "limits of disturbance'' on five prior
+projects that JCG performed at Fort Detrick. (Tr. 1/154-58, 2/53-54, 134-35; APF 639)
+
+
+                                             61
+                                                                                               f
+                                                                                               I
+       251. The Corps did not offer access to power from the Northern or Eastern Electric
+Corridors within the "limits of disturbance" of the Project site, and instead directed JCG to
+a source (the I-shaped building) over 1,000 feet away from the Biolab construction site,
+instead of the 100 feet contemplated in the JCG proposal (APF 646).
+
+       252. On or about May 12, 2010, JCG submitted Proposed Change Order 10 (PCO 10)
+for $45,285.00 to provide temporary generators at the Project site prior to the start of permanent
+power to the site. Alternatively, JCG's PCO 10 indicated that it would provide utility poles,
+transformer and overhead lines from an outside source to the Project site. (APFs 653-54)
+
+       253. The Corps rejected PCO 10 in a letter dated May 21, 2010 (APF 655).
+
+       254. JCG continued to use temporary generators at the Project site until permanent
+power was supplied from the CUP in April 2011 (APFs 656-57). Prior to April 2011,
+appellant had not installed necessary switchgear and progressed to the point where it was
+ready for permanent power (tr. 2/166, 3/11-12, 6/40-42; R4, tab 151 at 711-13).
+
+      255. On October 3, 2013, Grimberg filed a certified claim for temporary electric
+power requesting $151,776.
+
+                  DECISION ASBCA Nos. 59167. 59168, 59169, 59170
+
+General Issues
+
+        We have grouped these appeals together for factual analysis because they share
+several common themes. First, appellant alleges that it is entitled to relief in each
+appeal based on our opinion in MA. Mortenson Co., 93-3 BCA 126,189, and refers to
+the claims and associated appeals collectively as the Mortenson claims. Second, JCG
+argues that it is entitled to relief because the contract included its proposal which
+allegedly contained its estimating assumptions related to the claims. According to
+appellant, the government was placed on notice regarding how appellant "bid" the
+contract, and had a duty to engage in discussions with JCG to the extent that it disagreed
+with those assumptions. Neither contention has merit here.
+
+        Mortenson is inapposite. In that case, the government expressly represented the
+detailed quantities of structural concrete and reinforcing steel in the solicitation. There was
+no dispute that the contractor's "takeoffs" were accurately computed based on its selection
+of the framing system and associated govemment~provided quantities in the drawings. The
+government effectively and unambiguously made the requisite and key estimating
+assumptions to be used by appellant and other bidders. The preliminary 35% design
+included in the solicitation was obviously incomplete and the design-build contractor in
+Mortenson was informed of its general duty to verify the accuracy of the drawing
+information in preparing the 65% and final design. However, of critical importance, the
+
+
+                                             62
+solicitation also expressly stated that the indicated drawing quantities "may be used to form
+the basis for the pricing proposal." 93-3 BCA ,r 26,189 at 130,364, 130,367. Under the
+circumstances, potential offerors were placed on equal estimating footing, without need to
+perform independent, extensive design analyses and quantity takeoffs. The obvious intent
+was to relieve offerors of the meticulous estimating effort and necessity to prepare such
+intricate and, to an extent, subjective "takeoffs.'' The best information and data available
+were the work product and conclusions of the government's architect-engineer (A/E) who
+brought the design to the 35% stage. There was no reason to question the best judgment
+and accuracy of the data prepared and presented by the government's A/E, albeit at the
+preliminary design stage. The common, general, standard post-award duty of the
+contractor's A/E to "verify and validate'' in developing later designs did not make
+pre-award reliance on the government A/E's professional product unreasonable.
+Moreover, there was nothing elsewhere in the solicitation that should have placed bidders
+on notice that it was unreasonable to rely on the solicitation quantities.
+
+        In contrast, here in ASBCA Nos. 59167, 59168, 59169, the contractor made its own
+estimating assumptions that were not reasonably based on the contract read as a whole and
+giving meaning to all its parts. There is no dispute that the Fire Code required three hydrants
+(and associated waterline). There is no dispute that DOT's et al., paving design
+requirements mandated the asphalt actually placed by JCG. There is no dispute that the
+number of card readers installed by appellant were required by the contract's security/access
+provisions regarding the ECP. In essence, appellant ignored those detailed contractual and
+design requirements and relied solely on a single drawing or specification provision which
+appellant interpreted to permit lesser requirements. Appellant's interpretations of the
+drawings also failed to consider the contract's Specifications and Drawings for Construction
+clause. That clause expressly states, "Anything mentioned in the specifications, and not
+shown on the drawings, or shown on the drawings and not mentioned in the specifications,
+shall be of like effect as if shown or mentioned in both.'' Moreover, the clause gives primacy
+to the specifications in the case of differences. The design risk of complying with the
+detailed dictates of the specification requirements remained with appellant. In the
+circumstance of this case, we find Grimberg's reliance and interpretation to be unreasonable.
+Our rationale and conclusions are explained in greater detail in connection with our further
+discussion of each of the appeals below.
+
+        Secondly, appellant appears to argue that, because its proposal was incorporated
+into the contract, the government should have known that JCG was proposing only
+two hydrants, four inches of asphalt and one card reader. This contention is also
+meritless. First, the only relevant mention of any asphalt quantity or card readers was in
+appellant's price proposal not the technical proposal (TP). As discussed further below,
+JCG's "recommendation'' in the TP that a third hydrant be installed was, as a minimum,
+ambiguous with respect to whether appellant anticipated additional money for the third
+hydrant. Cf MARCON Engineering, Inc., ASBCA No. 57471, 15-1 BCA ,r 35,974 at
+175, 769-71 (appellant's technical proposal unambiguously and effectively relaxed
+
+
+                                            63
+restrictions on the Project's drainage design). Reasonably read, the "recommendation''
+implied that appellant had read the Fire Code and concluded that it was required, even
+though not actually depicted for the ECP building in the pertinent drawing.
+
+       Regarding the asphalt quantity and card readers, the government here had no duty
+to decipher the minutiae and implicit bidding assumptions tucked away in JCG's
+$127 million cost proposal. Any such cost/price realism analyses would have required
+overly detailed and meticulous analyses by expert government reviewers well-versed in
+the design details and requirements of the Project. Indeed, the solicitation specifically
+informed appellant that only a broad evaluation of the proposed price for reasonableness
+would be performed by the Corps. Appellant could have had no realistic expectation that
+the government would delve into the minutiae of its possible pavement, hydrant and card
+reader assumptions. Moreover, there was nothing in the fine particulars of even the price
+proposal that reasonably and unambiguously implied that appellant's final design would
+not comply with all contractual requirements, much less raised a duty to conduct
+discussions on perceived misestimates. Finally, the contractual "Order of Precedence''
+clause gave precedence to the contract specifications over other parts of the accepted
+proposal, including appellant's price proposal.
+
+Fire Hydrants Waterline-ASBCA No. 59167
+
+         As emphasized above, the Fire Code required the third hydrant and associated
+service line. To the extent that appellant relied solely on the two hydrants depicted on the
+pertinent 35% conceptual drawing/sketch, it failed to read the contract as a whole as
+detailed above. Had appellant read all pertinent contract provisions, it should have known
+that a third hydrant was required. To the extent that appellant considered that the contract
+was ambiguous, the ambiguity was patent and appellant should have resolved the perceived
+ambiguity before submitting its proposal. Indeed one of the two contractors that submitted
+quotes that included this work to appellant for consideration in preparing its price proposal,
+made provision for three hydrants. Nothing in appellant's price proposal reasonably put
+the government on notice that appellant did not intend to comply with the Fire Code and
+supply the requisite additional hydrant. Had appellant clearly conveyed such an intent not
+to supply the hydrant or made its proposal conditional upon that assumption, it risked
+rejection of its proposal as technically unacceptable. See Classic Site Solutions, Inc.,
+ASBCA Nos. 58375, 58572, 14-1 BCA ,r 35,664 at 174,579 n.1. Nor was responsibility
+for clarification shifted to the government to address the possible technically unacceptable
+noncompliance by engaging in discussions. If anything, it was reasonable to interpret
+JCG's ambiguous "recommendation" as an indication that it was required to supply the
+hydrant. As a minimum, the "recommendation'' further enforces our conclusion that
+appellant had actual knowledge of any perceived conflict and should have inquired and
+resolved the matter by pre-proposal inquiry if it considered that it was not required to
+install the third hydrant to service the ECP building. Cf White v. Edsall Constntction Co.,
+
+
+                                            64
+296 F.3d 1081, 1085 (Fed. Cir. 2002); Brantley Constr. Co., ASBCA No. 27604, 84-3
+BCA ,r 17,532; Wickham Contracting Co., ASBCA No. 19069, 75-1 BCA ,r 11,248.
+
+Asphalt Pavement-ASBCA No. 59168
+
+        This claim also is meritless. The contract did not identify precise, specific
+thicknesses for the asphalt. The final design was to be prepared post-award and dependent
+ upon post-award studies and analyses. Even appellant's proposal expressly acknowledged
+this fact. The specifications state that "[p ]avements shall be designed in accordance with
+Federal Department of Transportation" and explains "[r]egardless of the pavement design, a
+minimum flexible pavement section shall consist of 3 inches of asphalt.'' Construed as a
+whole, the contract required the contractor to meet a performance objective. Appellant was
+to design pavement asphalt thicknesses to meet DOT standards and warned contractors that
+even if one-inch asphalt thickness met DOT standards, that the design would be inadequate,
+because a minimum of three inches asphalt was required. The Geotechnical Report
+reiterates this requirement. It states "Pavements shall be designed in accordance with ... the
+AASHTO Guide for Design of Pavement Structures" and "Regardless of the method used,
+in no case should the pavement section thickness be less than the minimums stated herein."
+It was left to the design-builder's business judgment to estimate an amount of asphalt that
+would meet the design standards. This understanding of the specification is reflected in
+Grimberg' s Proposal, in which it stated that the pavement design shall be completed in
+accordance with AASHTO standards. JCG applied its business acumen to estimate four
+inches of asphalt to be used in the Project, rather than propose the minimum three inches
+as its estimate. The design and price risk that its estimate of four inches would be
+insufficient was on the design-build contractor JCG. E.g., Elter S.A., ASBCA Nos. 52792,
+53082, 02-1 BCA ,r 31,667; McGrail Equip. Co., ASBCA No. 20555, 76-1 BCA ,r 11,723.
+That risk was not shifted by appellant's inclusion of its four-inch assumption in the minutiae
+of its cost proposal estimate. Again, the government was not reasonably placed on notice
+that appellant did not intend to fully comply with the contract and develop a final post-
+award design that met all specification and DOT requirements.
+
+Card Readers-ASBCA No. 59169
+
+       The RFP required the constructed Project to meet "all security, antiterrorism and
+force protection requirements," and directed the contractor in multiple locations to design
+the security requirements. This claim flows from appellant's failure to adequately
+consider those requirements in preparing its proposal.
+
+       JCG relies on the conceptual sketch and the word "a" in specification paragraph
+6.19.1 to support its interpretation that only one card reader was required. That
+interpretation is unreasonable and failed to consider the entirety of its responsibilities for
+designing the security system. Read as a whole and giving meaning to all pertinent
+portions of the specifications, those requirements clearly required additional card readers.
+
+
+                                              65
+In particular, the specifications required that the access control system encompass "All
+entries/exits into" the ECP and that the contractor was to "Provide employee entrance(s)
+with card reader." One card reader could not secure the ECP which had multiple
+exits/entrances. Reasonably interpreted, the contract required a card reader at each of
+them. The contract also required Grimberg to install card readers to safeguard the
+security office. Design criteria for the security offices were specified, inter alia, in UFC
+4-510-01, DoD Medical Military Facilities, Design and Construction Criteria, which
+required all security offices in medical facilities to be secured by a card reader or other
+door access control.
+
+      We conclude that the government did not impose extra-contractual requirements
+for more card readers than mandated by the specifications.
+
+       ASBCA Nos. 59167, 59168, 59169 are denied.
+
+Temporary Power-ASBCA No. 59170
+
+       The contract made no representations as to the source of temporary power, much
+less one "within the limits of disturbance" of the site. Instead, as awarded, the solicitation
+expressly directed JCG to contact cognizant government personnel. Appellant allegedly
+assumed that power would be supplied via the Eastern or Northern Electric Corridors
+within the limits of construction based on its prior work at Fort Detrick. In this case, any
+such assumption was unreasonable without further investigations, analysis and inquiry.
+
+       An adequate site visit and investigation would have disclosed that the lines
+running through the Northern Corridor were privately-owned and very high voltage.
+E.g., Lovering Johnson, Inc., ASBCA No. 53902, 06-1 BCA ,I 33,126. Without making
+arrangements with the private utility and providing costly equipment, the lines were
+not a viable source for appellant's temporary power needs. There is no indication in
+appellant's proposal that appellant included the cost of the necessary equipment or that
+JCG contacted the utility at any time.
+
+        Regarding the Eastern Corridor, the electric lines ran underground and the voltage
+was undisclosed. There is no evidence that there was any reasonably proximate and suitable
+manhole access point to tie into the lines or that appellant researched the voltage of the lines
+and potential access points, if any, in preparing its proposal. Again, a reasonably thorough
+site visit would have disclosed the absence of a suitable manhole for access.
+
+       ASBCA No. 59170 is denied.
+
+
+                                             66
+                                     CONCLUSION
+
+        For the reasons detailed above, we sustain ASBCA No. 58791, sustain in part ASBCA
+No. 59717, and deny ASBCA Nos. 59167, 59168, 59169 and 59170. By agreement of the
+
+
+                                                  G~
+parties, ASBCA No. 59171 is dismissed with prejudice.
+
+       Dated: October 25, 2018
+
+                                                  R! BERT T. P ACOCK
+                                                  Administrative Judge
+                                                  Armed Services Board
+                                                  of Contract Appeals
+
+
+ I concur                                         I concur
+
+
+ RICHARD SHACKLEFORD                              J. REID PROUTY
+ Administrative Judge                             Administrative Judge
+ Acting Chairman                                  Vice Chairman
+ Armed Services Board                             Armed Services Board
+ of Contract Appeals                              of Contract Appeals
+
+
+       I certify that the foregoing is a true copy of the Opinion and Decision of the Armed
+Services Board of Contract Appeals in ASBCA Nos. 58791, 59167, 59168, 59169, 59170,
+59171, 59717, Appeals of John C. Grimberg Co., Inc., rendered in conformance with the
+Board's Charter.
+
+      Dated:
+
+                                                 JEFFREY D. GARDIN
+                                                 Recorder, Armed Services
+                                                 Board of Contract Appeals
+
+
+                                            67
+                                                                                              f
+                                                                                              l

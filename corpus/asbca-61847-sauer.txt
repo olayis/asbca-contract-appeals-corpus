@@ -1,0 +1,1075 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+ Appeal of -                                    )
+                                                )
+ Sauer, Inc.                                    )    ASBCA No. 61847
+                                                )
+ Under Contract No. N40085-09-D-5026            )
+
+ APPEARANCE FOR THE APPELLANT:                       Jack Rephan, Esq.
+                                                      Pender & Coward, P.C.
+                                                      Virginia Beach, VA
+
+ APPEARANCES FOR THE GOVERNMENT:                     Craig D. Jensen, Esq.
+                                                      Navy Chief Trial Attorney
+                                                     Devin A. Wolak, Esq.
+                                                      Trial Attorney
+
+                 OPINION BY ADMINISTRATIVE JUDGE EYESTER
+
+       Sauer, Inc. (Sauer or appellant) appeals a deemed denial of a certified claim
+concerning the construction of a multi-story barracks in Hampton Roads, Virginia,
+pursuant to a task order issued by the Naval Facilities Engineering Command (NAVFAC
+or government). Sauer submitted the claim on behalf of itself and its subcontractor for
+money and time delay. The parties have agreed to waive a hearing and have the appeal
+decided on the written record pursuant to Board Rule 11. Both parties have filed briefs in
+support of their respective positions. 1 We have jurisdiction pursuant to the Contract
+Disputes Act of 1978 (CDA), 41 U.S.C. §§ 7101-7109. For the reasons set forth below,
+the appeal is sustained in part and the remainder is denied.2
+
+
+1 Appellant’s prayer for relief in its opening brief contained a request for attorney’s fees
+
+       under the Equal Access to Justice Act (EAJA) (app. br. at 44). However, a request
+       for attorney’s fees under EAJA is inappropriate during the briefing stage of the
+       appeal, and would require a separate application pursuant to Addendum I of the
+       Board’s rules after the disposition of the appeal has become final.
+2 The parties jointly stipulated entitlement regarding two issues under this appeal. The
+
+       first issue, for work related to the Condenser Water Loop tie-in (Count IV), the
+       parties agreed that appellant should be awarded $23,000 for this portion of its
+       claim. The second issue, relating to Modification No. 004 (Mod. 004) for
+       Electrical Equipment Change (Count V(b) extended overhead), was also resolved
+       in favor of the appellant in the amount of $62,299.72. Thus, the parties requested
+       that the Board’s final judgment include the previously agreed upon amounts.
+       (Joint status rpt. 1/29/2021 at 1) Accordingly, this decision deals with the
+       remaining issues under the above-captioned appeal.
+                             FINDINGS OF FACT (FOF)
+
+Background
+
+       1. On December 3, 2008, NAVFAC awarded Contract No. N40085-09-D-5026 to
+Sauer. The contract was a Design Build/Design Bid Build Multiple Award Construction
+Contract (MACC) 3 for New Construction, Renovations, Alterations, and Repair Projects
+for Facilities in Hampton Roads, Virginia. (R4, tab 1 at 1294) 4
+
+       2. The MACC included the following clause:
+
+          5252.201-9300 CONTRACTING OFFICER AUTHORITY
+          (JUN 1994)
+
+          In no event shall any understanding or agreement between the
+          Contractor and any Government employee other than the
+          Contracting Officer on any contract, modification, change order,
+          letter or verbal direction to the Contractor be effective or binding
+          upon the Government. All such actions must be formalized by a
+          proper contractual document executed by an appointed
+          Contracting Officer. The Contractor is hereby put on notice that
+          in the event a Government employee other than the Contracting
+          Officer directs a change in the work to be performed, it is the
+          Contractor’s responsibility to make inquiry of the Contracting
+          Officer before making the deviation. Payments will not be made
+          without being authorized by an appointed Contracting Officer
+          with the legal authority to bind the Government.
+
+(R4, tab 1 at 1312) The MACC also incorporated by reference Federal Acquisition
+Regulation (FAR) 52.243-4, CHANGES (JUN 2007), and FAR 52.246-12,
+INSPECTION OF CONSTRUCTION (AUG 1996) (R4, tab 1 at 1303).
+
+       3. On October 31, 2013, NAVFAC issued fixed-price Task Order No. 0005 to
+Sauer in the amount of $27.406 million and with a completion date of December 16,
+2015, for the design and build of a multi-story barracks for enlisted technical training
+students at the Naval Air Station Oceana, Virginia Beach, Virginia 5 (R4, tab 1.5
+at 1193-95, tab 1.6 at 1211-12, tab 1.1 at 1072). NAVFAC issued the task order
+
+
+3 Pursuant to an Order of the Board, the parties provided a copy of the MACC and
+
+       included it as part of the government’s Rule 4 file.
+4 We cite to the “Bates stamp” type of pagination affixed by the parties.
+5 The award included other line items for planned modifications that are not relevant to
+
+       the decision here (R4, tab 1.5 at 1195-97, tab 1.6 at 1212-1214).
+                                             2
+pursuant to Sauer’s MACC, which stated that the task order was subject to the MACC’s
+terms and conditions (R4, tab 1 at 1305).
+
+       4. The task order required Sauer to “provide all labor, supervision, engineering,
+materials, equipment, tools, parts, supplies and transportation to accomplish the work in
+accordance with” the solicitation (including the amendments); Sauer’s proposals
+submitted November 1, 2012 and August 13, 2013; and the final design (R4, tab 1.5
+at 1194, tab 1.6 at 1211, tab 1.0 at 70).
+
+        5. The incorporated solicitation included four parts. As relevant here, part 3, the
+engineering system requirements (ESR), set forth the project’s specific requirements.
+Part 4, the performance technical specifications (PTS), provided “generalized technical
+requirements that apply to multiple facility types and include more requirements than are
+applicable to this project” (see generally R4, tab 1.0 at 500).
+
+        6. The task order required Sauer to establish and maintain a quality control (QC)
+program that used, among other things, a submittal review and approval process and “QC
+certifications and documents necessary to provide design, materials, equipment,
+workmanship, fabrication, construction and operations which comply with the
+requirements of” the task order (R4, tab 1.0 at 100). There were procedures for both
+design and construction submittals (R4, tab 1.0 at 45, 53).
+
+       7. Some submittals required government review and approval while others
+required either a QC certification and designer of record review and approval, or QC
+approval and copy sent to the designer of record (R4, tab 1.0 at 6; app. supp. R4, tab 4.2
+at 4022). A QC certification for a submittal affirmed that the submittal complied with the
+task order requirements (R4, tab 1.0 at 47, 51, 56-57).
+
+        8. The task order required design documents created by Sauer to comply with the
+solicitation (R4, tab 1.0 at 55). In addition, Sauer was to provide all design submittals,
+including specifications, to the government for approval (R4, tab 1.0 at 55-56).
+
+        9. The task order set forth the procedures for design changes and variations. A
+design change was to be considered prior to government approval of the final design and
+a variation was to be considered after government approval of the final design (R4,
+tab 1.0 at 49). A design change was required to “meet the minimum requirements of the
+solicitation and the accepted proposal” and could be approved by the designer of record
+and brought to the attention of the government before being incorporated into the design
+documents. In contrast, the task order stated the following with respect to variations:
+
+              Variations from contract requirements including the
+              solicitation, the accepted proposal, and the final design,
+              require Government approval. Variations to the contract
+              requirements must be approved by the Designer of Record
+                                             3
+               prior to resubmitting the design to the Government for
+               approval of the variation.
+
+(R4, tab 1.0 at 50) 6
+
+       10. Sauer’s designer of record for the award was VOA Associates Inc. (R4,
+tab 1.3 at 1131). VOA entered into a subcontract with Hankins & Anderson to serve as
+the mechanical, electrical and plumbing engineer for the project (app. supp. R4, tab 4.15,
+Forbes decl. ¶ 3). Sauer also entered into a subcontract with Smith & Keene Electrical
+Service, Inc. (S&K) to furnish and install the plumbing, and the heating, ventilating and
+air conditioning (HVAC) work required under Sauer’s task order (app. br. ¶ 2).
+
+        11. On May 8, 2018, Sauer submitted a claim to the contracting officer pursuant
+to the Contract Disputes Act (R4, tab 2 at 2001). Sauer submitted the claim on behalf of
+itself and its subcontractor S&K regarding costs incurred: (a) in removing and replacing
+Polyvinyl Chloride (PVC) pipe for the building’s above ground waste pipe system;
+(b) for the government’s failure to resolve, in a reasonable amount of time, the issue of
+whether the specifications allowed press-on fittings; and (c) for the government’s change
+in task order requirements when it ordered Sauer to install balancing dampers in the
+ceiling duct above the toilets and showers (R4, tab 2 at 2003-08). Sauer also requested an
+adjustment to the final completion date of 44 days (R4, tab 2 at 2001).
+
+        12. The contracting officer stated that she would issue a final decision on or
+before October 9, 2018 (R4, tab 3 at 3002). On October 11, the contracting officer
+stated that she would issue a decision on or before January 9, 2019 (R4, tab 3 at 3003).
+On October 18, 2018 Sauer filed a notice of appeal with the Board.
+
+Count I - PVC vs. Cast Iron Piping for Above Ground Waste Systems
+
+        13. The ESR for the project’s plumbing system stated at paragraph D203001,
+Waste Pipe and Fittings, that the contractor was to “[p]rovide cast iron hub and spigot or
+hubless pipe and fittings with rubber compression gasket joints for above ground
+installation” (R4, tab 1.0 at 250). Paragraph D203002, Vent Pipe and Fittings, also
+required the contractor to “[p]rovide cast iron hub and spigot or hubless pipe and
+fittings,” and that “[p]lastic PVC piping, fittings, and solvent cement may be provided in
+lieu of cast iron for vent piping only” (R4, tab 1.0 at 250-51).
+
+       14. The corresponding paragraph in the PTS, paragraph D203001, Piping and
+Fittings, stated the following:
+
+               Cast iron hub and spigot pipe and fittings, rubber
+               compression gasket joints or cast-iron hubless pipe and
+
+6 The task order uses the term contract rather than task order in many instances.
+
+                                             4
+              fittings, CISPI 301 with CISPI 310 couplings. Where
+              indicated in ESR Section D20, plastic PVC or ABS piping,
+              fittings, and solvent cement . . . may be provided . . . .
+
+(R4, tab 1.0 at 508)
+
+       15. Sauer’s November 1, 2012 proposal, which was incorporated by reference
+into the task order, set forth the same requirements regarding sanitary waste and vent
+piping. Specifically, Sauer’s proposal stated that “[s]anitary piping material will be cast
+iron. Vent piping will be either cast iron or PVC per the [request for proposals (RFP)]”
+(R4, tab 1.3 at 1140). Sauer’s August 13, 2013 revised proposal stated the same (R4,
+tab 1.4 at 1173).
+
+        16. The initial design submittal for the building, dated April 14, 2014, stated that
+cast iron soil, waste and vent piping shall be installed (R4, tab 2 at 2364, 2326).
+However, the initial design document stated at Table I, Pipe and Fitting Material for
+Drainage, Waste and Vent Piping Systems, that cast iron soil and pipe fittings or PVC
+plastic drain, waste and vent pipe and fittings can be used for above ground soil, waste,
+and drain in buildings (R4, tab 2 at 2381).
+
+        17. The final design submittal signed by Sauer and dated September 10, 2014,
+stated that cast iron soil, waste and vent piping shall be used (app. supp. R4, tab 4.2
+at 4013, 4042). The final design further stated that materials for the various services
+“shall be in accordance with TABLES I and II” (app. supp. R4, tab 4.2 at 4026). Table I,
+Pipe and Fitting Material for Drainage, Waste and Vent Piping Systems, stated that only
+cast iron soil pipe and fittings were to be used for above ground soil, waste, and drainage
+in buildings (app. supp. R4, tab 4.2 at 4059). We find that although the initial design
+document allowed for the use of PVC for above ground waste piping, Sauer was to
+perform work on the project in accordance with the solicitation, Sauer’s proposals, and
+the final design and these documents all required Sauer to utilize cast iron for the above
+ground waste piping systems.
+
+      18. Despite this well-defined task order requirement, on February 3, 2015, S&K
+informed Sauer that PVC pipe is allowed for waste piping and due to the upfront savings
+on material, S&K offered a credit to use the PVC pipe. S&K stated that the use of PVC
+instead of cast iron was being corrected as part of an upcoming architect’s supplemental
+instruction (ASI). (App. supp. R4, tab 4.4 at 4138)
+
+     19. On February 18, Sauer submitted a design change order package to NAVFAC
+(app. supp. R4, tab 4.4 at 4066). The change order package included a letter from S&K
+to Sauer stating that the final design inadvertently removed the specification permitting
+PVC piping for above ground sanitary waste systems, and was being corrected as part of
+an upcoming ASI. The letter also stated that schedule 40 PVC is allowed for sanitary
+waste systems and has been used above and below slab successfully on many NAVFAC
+                                              5
+projects. (App. supp. R4, tab 4.4 at 4138) There is nothing in the record showing that
+NAVFAC approved this design change order package. Further, the task order required
+design changes meet the minimum requirements of the solicitation (R4, tab 1.0 at 50).
+This design change order package did not meet the minimum task order requirement for
+the use of cast iron for the waste piping system. In addition, since it was not approved by
+the contracting officer, Sauer could not incorporate this change, which was a variation to
+the task order requirements, into the design documents without government approval.
+
+          20. Prior to April 2015, VOA drafted ASI 004. ASI 004, which was unsigned,
+stated:
+
+                During the pre-final submittal dated 4/14/2014 the
+                specification section 3.13 table I & II had PVC as an
+                acceptable aboveground and underground material for
+                sanitary waste along with storm drain and
+                aboveground/underground vent. PVC was a product
+                substitution that was agreed to as part of a discussion with the
+                Navy project team in the design review meetings.
+
+                The resubmission of the pre-final submittal dated 5/30/2014
+                had inadvertently removed several items including PVC as a
+                viable option. The specifications need to be changed to
+                reflect the pre-final submittal dated 4/14/2014.
+
+ASI 004 also addressed mop basins which were changed to service sinks and
+miscellaneous changes to schedules. (R4, tab 2 at 2322)
+
+        21. NAVFAC received a copy of ASI 004 in April 2015 (see R4, tab 2 at 2324).
+In an email dated April 5, 2015, a mechanical engineer for Hankins & Anderson asked
+Daniel Crosby, the NAVFAC mechanical engineer, if he had any issues with ASI 004.
+David Yost, the NAVFAC architect, and Brandon Wade, the NAVFAC construction
+manager, were copied on the email. (R4, tab 2 at 2311) In response, Daniel Crosby
+stated, “no, I did not have any issues with it,” and wanted to know why the mop basins
+were changed to services sinks (R4, tab 2 at 2310). ASI 004 did not specifically request a
+variation to the specification concerning the use of cast iron for waste piping but stated
+only that the specifications needed to be changed. Therefore, we find that
+Daniel Crosby’s statement that he did not have any issues with “it” did not serve as an
+approval or agreement to a variance in task order specifications regarding the use of PVC
+instead of cast iron for above ground waste piping.
+
+       22. Sauer included in the record a position description for a GS-12 mechanical
+engineer for NAVFAC dated January 10, 2013 to show Daniel Crosby’s responsibilities.
+The position description states that the mechanical engineer serves as the Navy technical
+representative under the contracting officer’s technical representative. One of the many
+                                               6
+duties assigned the mechanical engineer is to “[p]rovide[] the necessary advice and
+decisions required at the beginning of work and as problems develop . . . .” (App. supp. R4,
+tab 4.1 at 4003) The position description does not state that the mechanical engineer
+approves variations submitted by a contractor under a contract or task order (see app. supp.
+R4, tab 4.1). Accordingly, we find that Daniel Crosby, as the NAVFAC mechanical
+engineer for the project, did not have authority to approve variations to the task order
+specifications or requirements.
+
+        23. Starting in April 2015, S&K installed PVC pipe for the above ground waste
+systems (R4, tab 2 at 2004). In early June of 2015, Sauer provided a plumbing submittal
+designated as SD-03 for architect approval (app. supp. R4, tab 4.6 at 4145; tab 4.15,
+Forbes decl. ¶ 5). Submittals labeled with code SD-03, Product Data, did not have to be
+approved by the government but required Sauer’s QC certification and designer of record
+approval (app. supp. R4, tab 4.15, Forbes decl. ¶ 4). In addition, the final design stated
+the following for an SD-03, Product Data, submittal for the plumbing system:
+
+              Diagrams, instructions, and other sheets proposed for posting.
+              Manufacturer’s recommendations for the installation of bell
+              and spigot and hubless joints for cast iron soil pipe.
+
+(App. supp. R4, tab 4.2 at 4023)
+
+      24. Despite the task order requirements, including the final design, the SD-03
+plumbing submittal Sauer submitted on June 1 for plumbing fittings, valves, accessories
+and backflows, stated the following:
+
+              Section A: 220000 2.1 and 2.11 Aboveground and below
+              ground plumbing systems for [drain, waste and vent (DWV)]
+              pipe and fittings (schedule 40 PVC)
+
+(App. supp. R4, tab 4.6 at 4149) The submittal included the product literature for the
+PVC pipes used for the above and below ground plumbing systems for DWV pipe and
+fittings and is signed by Ed Forbes, Sauer’s QC manager (app. supp. R4, tab 4.6 at 4146,
+4150-51). Hankins & Anderson approved the submittal and accepted the above ground
+and below ground plumbing systems for DWV pipe and fittings on June 8 (app. supp. R4,
+tab 4.6 at 4144). VOA acknowledged the submittal on June 9, and marked it as revise
+and resubmit (app. supp. R4, tab 4.6 at 4143).
+
+        25. A plumbing submittal for materials (i.e., a submittal labeled SD-03, Product
+Data) did not require government approval; however, that is because such a submittal was
+required to comply with the solicitation requirements. In other words, the products set
+forth in the plumbing submittal were to have met the minimum solicitation requirements.
+Here, Sauer’s plumbing submittal did not meet the minimum solicitation requirement to
+use cast iron for above ground waste piping and the QC manager or designer of record
+                                              7
+should not have approved the submittal showing the use of PVC instead of cast iron pipe.
+Therefore, Sauer could not use a plumbing submittal for product data to vary the task
+order requirement to use cast iron pipe for above ground waste systems.
+
+       26. In an August 18 email between individuals from Sauer and its subcontractors,
+the Sauer project manager explained that the NAVFAC construction manager was
+concerned with the use of PVC instead of cast iron pipe for the above ground waste
+system. Specifically, NAVFAC’s “primary concern using PVC is the sound
+transmission. [NAVFAC] suggested we present an alternative solution to their [c]ast
+[i]ron direction, and they would be open to discuss it with us.” The Sauer project
+manager further stated that if Sauer “can demonstrate a similar, or greater level of sound
+protection can be achieved by sound proofing the PVC, we may be able to avoid tearing
+out the existing PVC.” (App. supp. R4, tab 4.7 at 4197) In an email dated August 20,
+Sauer’s QC manager Ed Forbes stated that he looked through the internet for opinions
+relating to the use of cast iron versus PVC pipe. One article noted that the greatest issue
+with PVC pipe is sound transmission. (R4, tab 2 at 2303) There is nothing in the record
+showing that Sauer or S&K proposed a plan, or even demonstrated to the government
+that sound proofing the PVC would provide a similar or greater level of sound protection
+than cast iron pipe.
+
+        27. On August 22, Sauer’s QC manager Ed Forbes emailed several individuals,
+including Pavel Turenkov, the S&K director of operations. According to the email, the
+first correspondence Mr. Forbes had on the PVC for waste piping issue concerned
+ASI 004; Mr. Forbes asked if there was other correspondence on the matter. (R4, tab 2
+at 2301) On August 24, 2015, S&K emailed Sauer and stated:
+
+
+              I have my notes about the use of PVC in lieu of cast iron from
+              the [concept design workshop] and 60% review, meeting we
+              had at NAVFAC’s office and 08/22/14 conference call during
+              which Dan Crosby while talking in regards to condenser
+              water piping material and insulation, said, quote: “I’ve
+              approved PVC for sanitary but I’d never agreed to allow
+              PVC for condenser water piping . . .” but I think you are
+              looking for notes/emails by someone else because I’m the
+              benefitting party. . . . If the AS1004 approval by Dan Crosby
+              and the fact Brandon Wade has been inspecting PVC sanitary
+              close to a year and has been sitting on credit for 7 months
+              means nothing to Tom Hernandez and David Yost then notes,
+              emails or even a conf. call recording produced by me won't
+              matter either! It is a shame they took this position but I hope
+              after everything we had presented, they can act honestly and
+              in best interest of the end user who prefers PVC sanitary to
+              cast iron due to constant multi-million maintenance issue on
+                                             8
+              another project and also in best interest of the project since
+              above-ground sanitary piping is close to 40-45% being done.
+
+(R4, tab 2 at 2300)
+
+       28. On August 27, 2015, the contracting officer emailed Sauer and stated:
+
+              In response to the “Cast Iron vs PVC” issue, the
+              government’s decision is to leave the PVC that was installed
+              underground, in place. However, Sauer is directed (per the
+              RFP Part 3 Chapter 6 Section D203001 Waste Pipe &
+              Fittings) to provide cast iron hub and spigot or hubless pipe
+              and fittings with rubber compression gasket joints for above
+              ground installation. PVC will be allowed for vent piping
+              only.
+
+(R4, tab 2 at 2307-08) Sauer states that as a result of the directive by the contracting
+officer, it had to remove 80 percent of the installed PVC pipe (R4, tab 2 at 2004).
+
+        29. According to the government, cost estimates and calculations were not
+required for the consideration or conclusion that preceded the government’s
+remove/replace order concerning the PVC pipe. The government states that it is
+“undisputable” that the value of the project was lower with PVC piping by virtue of the
+contract credit for the use of PVC instead of cast iron pipe for below ground piping.
+(App. supp. R4, tab 4.10, interrogatory No. 8 at 4211) The government further states that
+it determined that PVC “is not the functional equivalent to cast iron piping for the
+relevant application” (app. supp. R4, tab 4.10, interrogatory No. 9 at 4211). The
+government states it considered the public interest when it modified the task order to
+allow for the use of PVC for below ground sanitary waste piping, where noise would not
+be an issue, but not above ground sanitary waste piping, where noise would be an issue
+(see gov’t reply br. at 62).
+
+      30. On July 10, 2017, the agency issued Mod. 14 which decreased the total price of
+the task order (R4, tab 1.7 at 1291). Modification 14 stated that a “[proposed change]
+039 Cast Iron Piping Credit” had been added as a result of a “Design Deficiency.” The
+proposed change was to “[d]elete cast iron piping not required.” The modification further
+stated that an extension of time was not required as a result of the modification. (R4,
+tab 1.7 at 1292) Modification 14 permitted the use of PVC pipe for underground sanitary
+waste systems only.
+
+
+                                              9
+Count II - Press-On Fittings and Unreasonable Delays 7
+
+        31. The ESR for the plumbing system stated, at paragraph D202001, that the
+contractor was to provide “[c]opper tubing and fittings for above ground and buried
+piping . . . . Extruded and groove-type pipe and tube fittings shall not be used” (R4,
+tab 1.0 at 249). The ESR did not specifically preclude or permit the use of press-on
+fittings for the copper tubing.
+
+       32. The PTS that corresponded to the ESR paragraph at issue here—paragraph
+D202001, Pipes and Fittings—specifically allowed for the use of press-on copper fittings
+for copper tubing, as follows:
+
+              Use copper tubing and fittings for pipe sizes 4 inches (100
+              mm) or smaller. Use type L tubing above ground with either
+              solder fittings, or press-on copper fittings. For buried piping,
+              use type K tubing with either solder fittings, or press-on
+              copper fittings.
+
+(R4, tab 1.0 at 505) The task order stated that PTS requirements that “correspond [to]
+and further define the [ESR] requirements are specific to this project, other [PTS]
+requirements are not required” (R4, tab 1.0 at 500).
+
+        33. In addition, the task order references the United Facilities Guide
+Specifications (UFGS), which the Navy argues controls here. For example, the
+solicitation’s part 2 general requirements states that UFGS sections referenced in the PTS
+are “required to be submitted as part of the design submittal” (R4, tab 1.0 at 47). There
+are no UFGS sections referenced in the PTS relating to the issue here.
+
+       34. However, part 2 of the solicitation also stated that Sauer “shall prepare design
+specifications that include a UFGS specification for each product, material, or system on
+the project” (R4, tab 1.0 at 60). With respect to the UFGS sections, Sauer was to:
+
+
+              Choose UFGS Sections that describe the products, materials,
+              and systems that are used on the project. Use current UFGS
+              Sections that are available on the Whole Building Design
+              Guide website and give priority to the UFGS sections that are
+              prepared by NAVFAC. Only use UFGS sections prepared by
+              other Agencies if an applicable NAVFAC prepared
+              specification section does not exist.
+
+7 The parties and documents refer to these type of fittings as press fittings, press-on or
+
+       press-connect fittings. According to the record, a special tool is used to fasten
+       these type of fittings (R4, tab 2 at 2399).
+                                              10
+(R4, tab 1.0 at 61) Several references to the UFGS refer to the Whole Building Design
+Guide website, located at www.wbdg.org (see, e.g., R4, tab 1.0 at 63).
+
+   35. In addition, Sauer was to “[e]dit UFGS sections in accordance with RFP Part 4,
+PTS, Section Z-10, and Design Submittals” (R4, tab 1.0 at 60-61). The PTS at section
+Z-10 states:
+
+              UFGS Section 01 33 10.05 20, Design Submittal Procedures
+              some PTS sections require[] the use of UFGS sections in the
+              development of the contractor originated specification. The
+              Designer of Record (DOR) shall edit the UFGS sections for
+              the project and submit the edited specification as a part of the
+              design submittal. The DOR shall edit the UFGS as follows:
+
+              (1) Prepare UFGS Specifications as part of the project
+              specification,
+              (2) Delete only portions of the UFGS specification that are
+              not applicable to the project,
+              (3) Edit only the bracketed choices that are within the UFGS
+              specification text,
+              (4) Edit blank bracketed options to include requirements that
+              exercise prudence and adherence to acceptable industry
+              standards,
+              (5) Comply with the directions, directives, and requirements
+              of all UFGS Criteria Notes. The UFGS Criteria Notes are
+              typically bordered on the top and bottom by a line of asterisks
+              to highlight their location . . . .
+
+(R4, tab 1.0 at 643 (emphasis in original))
+
+        36. The final design submitted by Sauer addressed press-connect and soldered
+fittings. Part 2.1.1 of the final design, Pipe Joint Materials, set forth the requirements for
+all of the pipe joint materials, which included the materials for solder and press-connect
+fittings (app. supp. R4, tab 4.2 at 4027-28). Part 3.1.2.4, Copper Tube and Pipe,
+addressed the requirements for brazed, soldered, copper tube extracted joint, and copper
+and copper alloy press connect fittings (app. supp. R4, tab 4.2 at 4042). For example,
+both parts stated the following for press-connect fittings: copper and copper alloy press
+fittings “shall conform to material requirements of ASME B16.18 or ASME Bl6.22”
+(app. supp. R4, tab 4.2 at 4028, 4042). These sections of the document did not state that
+press-connect fittings would be used, they merely explained the material or other
+requirements if they were used on the project.
+
+
+                                              11
+       37. As noted above, the final design also stated that the “[m]aterials for the
+various services shall be in accordance with TABLES I and II” (app. supp. R4, tab 4.2
+at 4026). Table II, Pipe and Fitting Materials for Pressure Piping Systems, states the
+following:
+
+ Item           Pipe and             Service        Service         Service          Service
+ No.            Fitting              A              B               C                D
+                Materials
+ 2              Wrought copper       X              X                                X
+                and bronze
+                solder-joint
+                pressure
+                fittings, ASME
+                B16.22 for use
+                with Item 8
+ 3              Cast copper          X              X                                X
+                alloy solder-joint
+                pressure fittings,
+                ASME B16.18
+                for use with Item
+                8
+
+
+        Press Fittings:
+        A - Cold Water Service Aboveground
+        B - Hot and Cold Water Distribution 180 degrees F Maximum
+        Aboveground
+        C - Rainwater harvesting distribution piping (water closets)
+        D - Cold Water Service Belowground
+
+(App. supp. R4, tab 4.2 at 4059-60) There was no “Item 8” in the table. In addition, it is
+interesting to note that the initial design also included the following, which is
+conspicuously absent in the final design:
+
+
+                                               12
+ Item           Pipe and         Service            Service          Service          Service
+ No.            Fitting          A                  B                C                D
+                Materials
+ 4              Press connect    X                  X                                 X
+                fittings: copper
+                and copper
+                alloy press
+                fittings,
+                ASME B 16.18,
+                ASME B16.22.
+
+
+(R4, tab 2 at 2382)
+
+        38. Neither party specifically discussed the initial and final design specifications
+as it relates to this issue. We find upon review that although the final design set forth
+standards and requirements if press-connect fittings were used, Table II did not state that
+Sauer was to use press-connect fittings for pressure piping systems. Further, although
+Table II references ASME B16.18, which is a material requirement for press-connect
+fittings, the table states that it would be used for Item 8, and there is no Item 8.
+Therefore, Table II stated that only soldered fittings would be used. If the final design
+permitted press-connect fittings, it would have specifically and more clearly stated so, as
+it did in the initial design.
+
+       39. On June 10, 2015, Sauer issued RFI 79 requesting the government “confirm
+that press fittings are acceptable [] for copper piping. They are allowed by the
+specifications and have been approved by the [designer of record] but it is our
+understanding that this method is not being allowed on some facilities” (R4, tab 2
+at 2398).
+
+       40. On June 12, 2015, NAVFAC’s mechanical engineer Daniel Crosby responded
+in writing as follows:
+
+              It is [our] policy that copper domestic water piping is to have
+              soldered or brazed fittings only. UFGS 22 00 00 section 2.1.1
+              contains a designer’s note which states “NOTE: Do NOT use
+              the following paragraph for Navy projects” before the
+
+
+                                             13
+              paragraph describing press fittings. Provide soldered or
+              brazed fittings for all copper piping.
+
+(R4, tab 2 at 2398) 8
+
+      41. In addition, according to Sauer, on June 13, the contracting officer verbally
+responded to Sauer’s RFI 79 (app. reply br. at 15).
+
+       42. On June 15, Sauer emailed NAVFAC construction manager Brandon Wade
+and stated that the specifications permitted press fittings (app. supp. R4, tab 4.13
+at 4298). Sauer included in its email a statement from a Hankins & Anderson engineer
+who argued that the project requirements were set forth in the solicitation and not the
+UFGS unless the UFGS specification was specifically incorporated into the solicitation as
+a project requirement. According to the Hankins & Anderson engineer, the solicitation
+did not include a reference to UFGS specification section 22 00 00 as a project
+requirement and therefore the designer of record could edit the specification in any way,
+as long as it did not violate code or the solicitation. (App. supp. R4, tab 4.13 at 4299)
+
+        43. On June 24, Sauer sent a letter to the NAVFAC construction manager
+Brandon Wade and stated again that Sauer believed the solicitation permitted press-on
+fittings and that the issue was impacting the schedule (app. supp. R4, tab 4.13
+at 4313-14). Sauer admitted that it was NAVFAC’s policy to use brazed or soldered
+fittings but argued that press-on fittings were allowed under the solicitation and Sauer
+intended to use them (app. supp. R4, tab 4.13 at 4314).
+
+       44. On July 13, Brandon Wade confirmed NAVFAC’s position regarding the use
+of soldered fittings instead of press-on fittings (app. supp. R4, tab 4.13 at 4328-29).
+
+       45. On July 29, Sauer again sent a letter to Brandon Wade and argued that the
+task order permitted the use of press-on fittings and that if the government changed the
+requirement to require soldered fittings, there would be a cost of $306,535, and a
+schedule impact. Sauer stated that it intended to proceed with pressed fittings unless the
+government issued a clear directive otherwise. (App. supp. R4, tab 4.13 at 4331-32)
+
+        46. On August 13, 2015, the contracting officer sent a letter to Sauer stating that it
+is NAVFAC’s “policy that press-on fittings are not permitted on any project and that all
+fittings for copper tube and pipe shall be solder type fittings.” The contracting officer
+
+8 The Navy did not provide a copy of the UFGS for the record.      Rather, the Navy states
+       that the UFGS can be found at the WBDG website and the current specification
+       shows that UFGS 22 00 00 was revised to allow press fittings/press connections
+       for Navy projects starting in 2018 (gov’t br. at 17 n.1 (citing
+       www.wbdg.org/ffc/dod/unified-facilities-guide-specifications-ufgs/ufgs-22-00-
+       00)).
+                                            14
+further stated that the ESR “neither allows nor prohibits the use of press-on fittings” and
+the PTS mentions press-on fittings in section D20. The contracting officer stated that
+since the ESR does not mention press-on fittings, they “should not be considered to be
+allowed by” the PTS. The contracting officer also stated:
+
+              Furthermore, Part 2 [general requirements] Section 01 33
+              10.05 20 of the RFP clearly describes the order or precedence
+              of the RFP and indicates that Part 2 overrides Part 4 in the
+              event of a conflict or inconsistency . . . . Part 2 of the RFP
+              also states that the contractor must provide design
+              specifications and edit the UFGS sections in accordance with
+              RFP Part 4, PTS Section Z-10, and Design Submittals . . . .
+              Part 4, PTS Section Z-10 states that the Designer of Record
+              (DOR) shall edit the UFGS sections for the project and shall
+              comply with the directions, directives, and requirements of all
+              UFGS Criteria Notes . . . . UFGS Section 22 00 00 contains a
+              UFGS Criteria Note which directs the editor to delete press
+              fittings for Navy projects . . . . Therefore, the DOR was
+              required to delete press-on fitting[s] from the specifications
+              for this project.
+
+(App. supp. R4, tab 4.13 at 4335)
+
+       47. On August 27, 2015, the contracting officer reconsidered her decision
+regarding press-on fittings and stated they would be allowed as long as the contractor
+provided the press fitting tool to the government at no cost. The contracting officer stated
+that Sauer could still “use soldered fittings as described in the” solicitation but may use
+the press fittings if preferred, “as long as it is at no cost to the government.” (App. supp.
+R4, tab 4.13 at 4338)
+
+Count III – Balancing Dampers
+
+     48. With respect to the building’s HVAC system, the ESR stated at paragraph
+D304001 that Sauer must:
+
+              Provide factory assembled air volume balance dampers with
+              solid shafts and end bearings in all branch ducts. All air
+              volume balance dampers shall be accessible. If air volume
+              balance dampers are located above hard ceilings (i.e., plaster,
+              etc.), provide lockable access panels to allow adjustment of
+              dampers. Provide adjusting handles for volume dampers with
+              rods of sufficient stand-off length such that the handle does
+              not compress the duct insulation.
+
+                                             15
+(R4, tab 1.0 at 262) The PTS stated the following with respect to volume dampers at
+paragraph D304001: “[p]rovide manual volume dampers in each branch take-off from
+the main duct to control air quantity except for primary supply ductwork on [variable air
+volume] systems . . . . ” (R4, tab 1.0 at 519). Accordingly, the task order required the
+installation of balance dampers in every branch duct—a duct that is off of the main
+duct—and does specifically say where in the duct, as long as they are in a location that
+makes the damper accessible.
+
+        49. Comment 813275 in the project’s ProjNet system, dated June 23, 2014,
+addressed balancing dampers. According to Daniel Crosby’s comment, on behalf of the
+NAVFAC Mechanical Acceptance Group, the “[m]anual balancing dampers are required
+to be installed in all branch ducts serving the diffusers, grilles, etc.” (R4, tab 2 at 2445).
+
+       50. The meeting minutes prepared by Hankins & Anderson for the July 9, 2014
+meeting with NAVFAC also addressed Comment 813275 regarding balancing dampers.
+The meeting minutes state that NAVFAC “prefer[s] to use integral opposed-blade
+dampers only if there is a manual damper somewhere along that duct. The [design/build]
+team notes that the sleeping unit exhaust small sub-ducts, and manual dampers are
+unlikely to fit, but we have provided a manual damper at the top of each shaft.
+Dan [Crosby] agrees with this approach and will close the comment.” (R4, tab 2 at 2443)
+
+       51. The evaluation text for Comment 813275, submitted by Hankins & Anderson
+on July 11, 2014, states that “[i]ntegral dampers are used for fine adjustment of airflow at
+diffusers. The exhaust shafts have a balancing damper at the top of each riser to balance
+the flow for that riser.” Daniel Crosby closed Comment 813275 on July 28, 2014. (R4,
+tab 2 at 2445)
+
+        52. In an email dated January 22, 2016, the NAVFAC mechanical acceptance
+engineer informed Sauer that “it is our opinion the manual dampers must be installed in
+all of the branch ducts to be in compliance with the RFP and to ensure the exhaust
+systems can be properly balanced the first time. Even though the [contractor] has stated
+they will install the dampers in the future if all the grilles cannot be properly balanced,
+past experience with this [contractor] and others tells us they will not install [the]
+dampers in the future” (R4, tab 2 at 2450).
+
+      53. In a memorandum dated January 28, 2016, the NAVFAC design supervisor
+recommended, as a result of a site visit, that Sauer install manual balancing dampers per
+the email of January 22 (R4, tab 2 at 2448).
+
+       54. On February 9, 2016, NAVFAC’s Brandon Wade informed Sauer that
+“[b]alancing dampers are to be installed in all toilet and shower areas” (R4, tab 2
+at 2446).
+
+
+                                              16
+       55. An email from Hankins & Anderson’s engineer, dated February 26, 2016, to
+Sauer, stated:
+
+              With regard to the dampers in the shower and toilet exhaust
+              ducts, this issue was discussed during the design with the
+              NAVFAC Mechanical Engineer, Dan Crosby. See the
+              attached meeting minutes, and ProjNet Comment 813275.
+              NAVFAC agreed that it was impractical to install dampers at
+              these duct locations, and providing a damper at the top of the
+              exhaust riser(s) was acceptable.
+
+(R4, tab 2 at 2441)
+
+        56. On October 16, 2017, S&K wrote to Sauer and stated that the cost of
+installing balancing dampers in the toilet and shower exhaust ducts in the berthing room,
+which were not shown on the IFC drawings, was $34,088.76 (R4, tab 2 at 2453).
+
+         57. The appellant relies on ASI 007, ASI 008 or ASI 009 to support its arguments,
+but did not provide copies of the documents in the supplemental Rule 4 file. Rather, the
+appellant submitted as part of the record the interrogatories and requests for admissions it
+provided to the government and the government’s responses relating to those ASIs. For
+example, the appellant requested that the government “[a]dmit that the document
+attached” as Exhibit L is a true and accurate copy of ASI 007, that Exhibit M is a true and
+correct copy of ASI 008, and that Exhibit N is a true and correct copy of ASI 009 (app.
+supp. R4, tab 4.10 at 4221-22). The government responded by referring to its response to
+request for admission 2 concerning Exhibit A, which essentially stated that if Sauer is
+offering the document as a supplement to the Rule 4 file, it is Sauer’s obligation to ensure
+it is a true and correct copy, and that if Sauer believes it is not a true copy, then Sauer
+should discuss with agency counsel (app. supp. R4, tab 4.10 at 4216).
+
+       58. The appellant requested that the government “[a]dmit that Architect's
+Supplemental Instruction 007 has no requirement for dampers to be installed in the ducts
+above the showers and toilets,” that ASI 008 requires fire dampers in the ducts, and that
+ASI 009 requires the installation of volume dampers in the ducts (app. supp. R4, tab 4.10
+at 4221-22). The government responded by referring to its response to request for
+admission 3, which stated that Sauer should not seek an admission “regarding the
+verbatim text, or clear meaning, of a contemporaneous document that is already, or can
+easily be, included in the Rule 4 file for this case” (app. supp. R4, tab 4.10 at 4216).
+
+       59. Even if we found the government’s responses above to be an admission, we
+have nothing in the record showing that any of these ASIs were signed or approved by
+the contracting officer. In fact, the only ASI in the record is a copy of ASI 004, discussed
+above, relating to PVC piping. According to ASI 004, an ASI is a supplemental
+instruction for how work will be performed. The ASI is created by the architect, VOA,
+                                            17
+and provided to Sauer and its subcontractors. (R4, tab 2 at 2322) Neither the
+government’s admissions nor appellant’s references to ASIs 007-009 demonstrate that the
+government agreed to a variation in the task order regarding balancing dampers in branch
+ducts.
+
+        60. Further, there is nothing in the record demonstrating that installation of a
+balancing damper at the top of each riser of an exhaust shaft meets the requirement to
+install a balancing damper in every branch duct and we therefore find it does not, in fact,
+meet the task order requirement. Therefore, we find that Sauer did not meet the task
+order’s requirements when it installed the balancing damper at the top of the riser of the
+exhaust shaft in the shower and toilet ducts, rather than in the actual branch duct.
+
+Count VI - 44-day Time Extension
+
+      61. The original contract completion date was extended to November 22, 2016 via
+Mod. 14 (R4, tab 1 at 1290).
+
+      62. Sauer contends that the project was substantially completed on January 5,
+2017 but cites no support for this statement.
+
+                                        DECISION
+
+       Count I - PVC Pipes for Above Ground Sanitary Systems
+
+       Sauer seeks a total of $302,330.57 for the removal and replacement of the PVC
+pipes (compl. ¶ 33). First, Sauer alleges that there was an error in the final design, which
+“inadvertently” eliminated the use of PVC for the above ground waste piping (compl.
+¶ 10). Sauer argues that its subcontractor S&K issued ASI 004 to inform Daniel Crosby
+and NAVFAC of the error, and that Daniel Crosby, acting as NAVFAC’s agent, used his
+implied authority to verbally and in writing assure Sauer and S&K that the use of PVC
+was acceptable (compl. ¶¶ 8-9, 11-12, 15; app. br. at 4-6, 19-20). Sauer further states that
+“[w]hile it is true that [Daniel Crosby] had no authority to change the terms of the [task
+order], he could not perform an integral part of his duty unless he had the authority to
+approve material submitted which necessitated that he determine that the materials were
+acceptable under the [task order]” (app. reply br. at 10).
+
+       Regardless of any alleged error in the final design, there is no doubt that the task
+order required Sauer to utilize cast iron piping for above ground sanitary waste piping
+systems (FOF ¶ 17). Further, any variation from this requirement required “government”
+approval (FOF ¶ 9). The issue presented is whether a Navy engineer, Daniel Crosby,
+could provide the required “government” approval.
+
+       When a contract expressly provides that only the contracting officer has the
+authority to change a contract (or task order), other government employees do not possess
+                                            18
+actual express or implied authority to change the contract (or task order). See Winter v.
+Cath-dr/Balti JV, 497 F.3d 1339, 1345-46 (Fed. Cir. 2007); Innoventor, Inc., ASBCA
+No. 59903, 17-1 BCA ¶ 36,798 at 179,358 (2017). As noted, Sauer’s task order was
+subject to the terms and conditions of the MACC, which included clause 5252.201-9300,
+CONTRACTING OFFICER AUTHORITY, and FAR clause 52.243-4, CHANGES (FOF
+¶ 2). These clauses state that only the contracting officer makes a modification or
+deviation in the work to be performed (FOF ¶¶ 2-3). In fact, clause 5252.201-9300 warns
+contractors that no understanding or agreement between the contractor and a government
+employee will be effective or binding on the parties (FOF ¶ 2). We conclude that the
+only individual that could provide the required government approval for a variation in the
+task order requirements was the contracting officer. As the NAVFAC mechanical
+engineer for the project, Daniel Crosby did not have the authority to verbally or in writing
+approve a variation in the task order requirement concerning cast iron piping (FOF ¶ 22).
+Even if he had the authority to decide whether materials were acceptable under the task
+order, this did not equate to the same authority to approve variations.
+
+       In addition, we note that with respect to ASI 004, this document did not
+specifically request a variation to the specification concerning the use of cast iron for
+above ground waste systems; instead, the document stated only that the specifications
+needed to be changed (FOF ¶ 20). Therefore, Daniel Crosby’s statement that he did not
+have any issues with “it” cannot serve as an approval or agreement to vary the task order
+specifications here even assuming he had authority to do so (FOF ¶ 21).
+
+       Task Order Submittal Process
+
+       Second, Sauer argues that decisions regarding plumbing materials for the project
+did not require government approval but could be submitted to the designer of record for
+approval, as Sauer did here (app. br. at 20). Sauer argues that if the designer of record
+believed that the use of “PVC pipe would be a change to [task order] requirements it
+would have submitted S&K’s submittal of the use of PVC to the Government for
+approval” (app. reply br. at 9-10).
+
+       Sauer’s argument that it could use a plumbing submittal for materials to
+circumvent the task order’s requirements for cast iron piping fails. We have established
+that government approval, specifically contracting officer approval, was required for
+variations from the task order requirements. Therefore, Sauer could not use its plumbing
+submittal for materials, which was not approved by the government, to vary the task
+order specifications requiring the use of cast iron for the above ground waste piping (FOF
+¶ 25). While we agree that a design change could be approved by the designer of record
+and brought to the attention of the government before being incorporated into the design
+documents, the task order required that such a design change meet the minimum
+requirements of the solicitation and accepted proposal (FOF ¶ 9). The plumbing
+submittal Sauer issued here, showing the use of PVC instead of cast iron for the above
+
+                                            19
+ground waste piping, did not meet the minimum requirements of the solicitation (FOF
+¶ 25).
+
+       Waiver and Estoppel of Strict Compliance Due to Constructive Acceptance
+
+        Third, Sauer contends that NAVFAC officials were continuously present and
+routinely observed S&K’s ongoing construction of the waste piping system using PVC
+and waited 16 weeks to direct Sauer to not use PVC pipe (app. reply br. at 5-7; app. br.
+at 23-24). Sauer argues this resulted in an unjustifiable delay by the government in
+informing Sauer that use of the PVC piping was prohibited by the task order and as a
+result, the government constructively accepted the work and waived its right to insist on
+strict compliance or is estopped from insisting on compliance (app. br. at 21, 25-28). The
+government argues that it did take action immediately upon learning of the issue and
+instructed Sauer to remove the non-compliant PVC pipe (gov’t br. at 58-59).
+
+        The government is generally entitled to insist upon strict compliance with the
+contract specifications and to require correction of nonconforming work. A.D. Roe
+Company, Inc., ASBCA No. 48782, 99-2 BCA ¶ 30,398 at 150,287. There are instances,
+however, where the government may waive strict compliance with contractual
+requirements and is estopped from later re-imposing those requirements upon the
+contractor. Watts Constructors, LLC, ASBCA No. 61493, 20-1 BCA ¶ 37563 at 182,387
+(citing Gresham & Co. v. United States, 470 F.2d 542, 554 (Ct. Cl. 1972) (“There can be
+no doubt that a contract requirement for the benefit of a party becomes dead if that party
+knowingly fails to exact its performance, over such an extended period, that the other side
+reasonably believes the requirement to be dead”); Worldwide Parts, Inc., ASBCA
+No. 38896, 91-2 BCA ¶ 23,717 at 118,712; Walsky Constr. Co., ASBCA No. 36940, 90-2
+BCA ¶ 22,934 at 115,125; see also Miller Elevator Co. v. United States, 30 Fed. Cl. 662,
+687-88 (1994). These cases require knowing failure to exact performance—presumably
+by one with authority to waive contractual terms.
+
+        Here, only the contracting officer could vary the task order requirements.
+Therefore, to establish waiver, Sauer must demonstrate that the contracting officer
+knowingly rescinded the government’s right to require compliance with a task order
+minimum requirement. ECC International, LLC, ASBCA No. 58875, 20-1 BCA
+¶ 37,683 at 182,966 (internal citations omitted). Even assuming government personnel
+on site may have observed the installation and use of PVC pipe, there is no evidence that
+the contracting officer knowingly waived the task order requirement. Cf. American West
+Constr., LLC, ASBCA No. 61094, 18-1 BCA ¶ 36,935 at 179,946 (administrative
+contracting officer and quality assurance representative were aware of and agreed to
+contractor’s decision to use levee instead of temporary bridges).
+
+       In addition, the record shows that the NAVFAC construction manager tried to
+work with Sauer upon realizing PVC and not cast iron pipe had been used. Specifically,
+the record shows that in August, the NAVFAC construction manager expressed concern
+                                            20
+with the use of PVC instead of cast iron pipe for the above ground waste system (FOF
+¶ 26). In late August, the contracting officer instructed Sauer to remove the
+non-compliant PVC pipe (FOF ¶ 28). Accordingly, there was no unjustified delay by the
+government in requiring Sauer to comply with the task order requirement. Cf. Brand S
+Roofing, ASBCA No. 24688, 82-1 BCA ¶ 15513 (finding unjustified delay where
+government officials, including contracting officer, discovered noncompliance in April
+and waited until July to inform appellant). Ultimately, the contracting officer issued
+Mod. 14, which permitted the use of PVC pipe for underground sanitary waste systems
+but not above ground sanitary waste systems (FOF ¶ 30). The record does not
+demonstrate that the government engaged in affirmative misconduct.
+
+      Economic Waste Doctrine and Public Interest
+
+       Fourth, Sauer argues that removing the less expensive PVC piping and replacing it
+with the required cast iron pipe violated the FAR’s Inspection of Construction clause and
+regulation, and therefore violated the economic waste doctrine (compl. ¶ 19; app. br.
+at 28-30). Sauer argues that PVC and cast iron piping are functionally equivalent
+because both remove wastewater and other waste product from the plumbing system in
+the barracks building (app. reply br. at 8).
+
+        Although, as noted, the government generally has the right to insist upon
+performance in strict compliance with the specifications of a contract or task order, the
+courts and boards have recognized that there are cases where it would be economically
+wasteful to require strict compliance if the work is acceptable for its intended purpose.
+See Granite Constr. Co. v. United States, 962 F.2d 998, 1007 (Fed. Cir. 1992); Shirley
+Constr. Corp., ASBCA No. 41098, 93-3 BCA ¶ 26,245 at 130,557 (government should
+not be permitted to require replacement under the Inspection of Construction clause if the
+installed product substantially complied with the specifications and removal would result
+in economic waste). To establish economic waste, the work performed must substantially
+comply with the specifications; the work must be adequate for the intended purpose; and
+the cost of correction must be economically wasteful. M.A. DeAtley Constr., Inc. v.
+United States, 75 Fed. Cl. 575, 582 (2007); see also, FAR 52.246-12(f). Economic waste
+does not ipso facto excuse non-performance but serves to limit excessive damages for
+repair of non-conforming work. Valenzuela Eng’g, Inc., ASBCA Nos. 53608, 53936,
+04-1 BCA ¶ 32,517 at 160,852 (citation omitted).
+
+        We conclude that Sauer did not substantially comply with the specifications here,
+which required the use of cast iron pipe for the above ground waste system. The record
+shows that the government was concerned with the noise level of waste water traveling
+through the PVC in the above ground waste piping of the barracks but was open to an
+alternative solution. There is nothing in the record showing that Sauer or S&K solved
+this issue and offered a remedial measure to ensure the PVC would provide a similar
+level of sound protection to the cast iron pipe. In fact, although Sauer downplays the
+issue, it does admit “that cast iron pipe may be a bit less noisy than PVC pipe when
+                                           21
+wastewater and waste product is flushed down a toilet,” (app. reply br. at 8), and the
+record shows that Sauer itself found an article noting that the greatest issue with PVC
+pipe is sound transmission. Moreover, the Corps did not require Sauer to remove the
+PVC pipe for the below ground system, further demonstrating that the Corps was not
+arbitrary and capricious in its direction regarding the use of PVC pipe. See Buck Town
+Contractors & Co., ASBCA No. 60939 et al., 20-1 BCA ¶ 37,486 at 182,087
+(government did not require Buck Town to degrade and rebuild the entire reach for
+levee).
+
+       Count II - Press-On Fittings and Count V(a) – Extended Overhead
+       Due to Unreasonable Delays
+
+        Sauer argues that it is entitled to an equitable adjustment under the Changes clause
+because the government delayed production for an unreasonable period of time before
+ultimately determining that press-on fittings were acceptable per the plain language in the
+solicitation (app. br. at 35-36). Sauer argues the government breached its implied
+obligation not to hinder or delay Sauer in the performance of its work (id. at 36). Sauer
+requests, on behalf of itself and S&K, a total of $107,415.58 for the costs incurred for the
+overtime labor, unabsorbed overhead expenses, and a time extension of 48 days for
+completion of the project (id. at 34; compl. ¶¶ 50-53, 66).
+
+        A finding of breach of the implied duty of good faith and fair dealing will
+demonstrate a change to the contract. Fireman’s Fund Ins. Co. v. United States, 92 Fed.
+Cl. 598, 674 (2010). “Both the duty not to hinder and the duty to cooperate are aspects of
+the implied duty of good faith and fair dealing.” Id. at 675 (quoting Precision Pine &
+Timber, Inc. v. United States, 596 F.3d 817, 820 n.1 (Fed. Cir. 2010)). The government
+breaches these duties when it acts unreasonably under the circumstances, such as when
+the government unreasonably delays the contractor or unreasonably fails to cooperate.
+Id. (citations omitted).
+
+        Here, the ESR did not specifically preclude or permit the use of press-on fittings
+for the copper tubing (FOF ¶ 31). The PTS that corresponded to the ESR paragraph at
+issue here did specifically allow for the use of press-on fittings for buried copper tubing
+(FOF ¶ 32). The final design, which was approved by Sauer, did not specifically state
+that press-on fittings would be used (FOF ¶ 38). Rather, the document only clearly
+showed that soldered fittings would be used (id.). As noted, variations from the final
+design required government approval. That is likely why Sauer issued the RFI on
+June 10, and asked the government to confirm that press fittings were acceptable for
+copper piping.
+
+        The government responded two days later in writing and stated that its policy is to
+only use soldered or brazed fittings with copper domestic water piping as a result of
+UFGS, which was incorporated into the task order requirements (FOF ¶ 40). Sauer states
+that the contracting officer verbally responded three days later (FOF ¶ 41).
+                                             22
+        Sauer proceeded to disagree with the Navy despite the fact that Sauer’s final
+design was consistent with the government’s interpretation (FOF ¶¶ 42-43, 45).
+Therefore, Sauer’s decision to wait two months for approval to use press-connect fittings
+is not the fault of the government. The task order permitted soldered fittings, the design
+document stated clearly only that soldered fittings would be used, and the government’s
+direction to use soldered fittings two days after Sauer issued the RFI does not evidence a
+lack of good faith and fair dealing on the part of the government. Sauer’s decision to
+wait until the agency reconsidered its original position is just that – Sauer’s decision.
+We conclude that the government did not cause a delay here. Cf. Fireman’s Fund Ins.
+Co., 92 Fed. Cl. at 679 (Corps gave first informal response 51 days and written response
+71 days after contractor issued RFI).
+
+       Count III – Balancing Dampers
+
+       Sauer claims that the government directed Sauer and S&K to install dampers
+which were not required under the task order (app. br. at 37). Sauer argues it is entitled
+to $39,008.38 for costs incurred due to this constructive change (app. reply br. at 18;
+compl. ¶ 83). Specifically, Sauer contends that although the RFP required dampers in all
+branch ducts, there was no specific requirement to install dampers in the ducts above the
+shower and toilet areas because neither the final project specifications nor drawings
+required dampers in those areas (app. br. at 37). Essentially, Sauer has argued that even
+though the RFP and specifications required balancing dampers in all branch ducts, the
+government “changed this requirement” under the authority of the Changes clause, and
+then “after having changed the [task order] to eliminate the requirement for these
+dampers, [and] accepted the ducting system as built,” the government changed the
+requirement again to require balancing dampers (app. br. at 38-39).
+
+        The task order required Sauer to install balancing dampers in all branch ducts
+(FOF ¶ 48). Sauer did not initially provide balancing dampers in the branch ducts that
+are above the shower and toilet area (FOF ¶ 55). Rather, Sauer installed balancing
+dampers at the top of each riser of an exhaust shaft, which did not meet the task order
+requirement. Further, although Sauer contends that the government agreed to this change
+via the design drawings prepared by Sauer, the record contains nothing to support this
+contention—not the ASIs, the drawings, or an approval by the government (FOF ¶ 59).
+Rather, we have only a document in the record showing that Daniel Crosby closed
+Comment 813275 in the project’s ProjNet system, dated June 23, 2014, which addressed
+balancing dampers, and that Mr. Crosby closed this comment after Hankins & Anderson
+commented that “[i]ntegral dampers are used for fine adjustment of airflow at diffusers.
+The exhaust shafts have a balancing damper at the top of each riser to balance the flow
+for that riser” (FOF ¶ 51).
+
+      As discussed above, any variation to the task order required government approval.
+There was no government approval here and Daniel Crosby, as the NAVFAC mechanical
+                                           23
+engineer for the project, did not have the authority to verbally or in writing approve a
+variation in the task order requirement. Because the government did not change the
+requirement that Sauer provide balancing dampers in the branch ducts, there was no
+change when the government required Sauer to adhere to the task order requirements.
+
+       Count VI - 44-Day Time Extension
+
+        Finally, Sauer seeks a 44-day extension of time to its contract completion date as a
+result of the Navy’s design changes and general interference with the task order. Sauer
+argues that it was granted a time extension to November 22, 2016 and the project was
+substantially complete on January 5, 2017 (and no liquidated damages have thus far been
+assessed) (app. br. at 43; app. reply br. at 18). Since Sauer has settled two claims and we
+have denied the remaining claims, we have no basis to conclude that Sauer is entitled to a
+44-day time extension.
+
+                                     CONCLUSION
+
+       Based on the foregoing, the appeal is sustained in part with regard to Count IV
+(Condenser Water Loop) and Count V(b) (Mod. 004 Electrical Equipment Change
+(extended overhead)), the remainder is denied.
+
+       Dated: September 29, 2021
+
+
+                                                   LAURA EYESTER
+                                                   Administrative Judge
+                                                   Armed Services Board
+                                                   of Contract Appeals
+
+
+ I concur                                            I concur
+
+
+ RICHARD SHACKLEFORD                                 OWEN C. WILSON
+ Administrative Judge                                Administrative Judge
+ Acting Chairman                                     Vice Chairman
+ Armed Services Board                                Armed Services Board
+ of Contract Appeals                                 of Contract Appeals
+
+
+                                            24
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA No. 61847, Appeal of Sauer, Inc.,
+rendered in conformance with the Board’s Charter.
+
+      Dated: September 29, 2021
+
+
+                                              PAULLA K. GATES-LEWIS
+                                              Recorder, Armed Services
+                                              Board of Contract Appeals
+
+
+                                         25

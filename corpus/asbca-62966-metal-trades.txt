@@ -1,0 +1,993 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+    Appeal of -                                )
+                                               )
+    Metal Trades, Inc.                         )    ASBCA No. 62966
+                                               )
+    Under Contract No. N39430-21-C-2201        )
+
+    APPEARANCES FOR THE APPELLANT:                  Mr. Shaun Flynn
+                                                     President
+                                                    Ms. Megan B. Dean
+                                                     Director of Contracts/Business Development
+
+    APPEARANCES FOR THE GOVERNMENT:                 Craig D. Jensen, Esq.
+                                                     Navy Chief Trial Attorney
+                                                    Michael J. Garcia, Esq.
+                                                     Trial Attorney
+
+
+    OPINION BY ADMINISTRATIVE JUDGE CLARKE PURSUANT TO RULE 12.2
+
+       This decision is issued in accordance with Board Rule 12.2 1 which was elected
+by Metal Trades, Inc. (MTI). We have jurisdiction pursuant to the Contract Disputes
+Act of 1978 (CDA), 41 U.S.C. §§ 7101-7109. Our factual analysis is intentionally
+longer than necessary for a Rule 12.2 Expedited Decision in order to fully consider
+what happened. We conclude the Navy’s ratification was based on mistaken facts and
+it improperly used cost analysis demanding cost data from MTI in this small fixed-
+price contract which prejudiced MTI.
+
+                                FINDINGS OF FACT
+
+August 2019 to September 2019 the Navy, GSA and MTI Work to Agree on a Price
+
+       1. On August 02, 2019, Megan Dean, Director of Contracts/Business
+Development, Metal Trades, Inc. emailed Mr. Kevin Flynn (K. Flynn), 2 Navy,
+Subject: Follow up on INLS Training Module. Ms. Dean thanked Mr. K. Flynn for a
+phone call and said MTI was “anxious to start this quoting process.” Ms. Dean also
+said she had contacted the GSA contracting officer (CO) to facilitate getting this item
+
+1
+  A decision under Rule 12.2 shall have no value as precedent, and in the absence of
+       fraud, shall be final and conclusive and may not be appealed or set aside.
+2
+  There are two Mr. Flynns, Mr. Shaun Flynn is MTI’s President, Mr. Kevin Flynn is
+       with the Navy.
+on MTI’s GSA contract. GSA recommended advertising as an RFQ on eBuy to satisfy
+any competition requirement. (App. supp. R4, tab 1 at 12)
+
+       2. On August 02, 2019, Mr. K. Flynn emailed Ms. Dean, Subject: Follow up
+on INLS Training Module. Attached to the email was a preliminary drawing of the
+project that was estimated to be finalized “next week.” (App. supp. R4, tab 1 at 11)
+
+       3. On August 05, 2019, Ms. Dean emailed Mr. K. Flynn and other Navy
+personnel, Subject: Follow up on INLS Training Module. Ms. Dean thanked the
+Navy for sending MTI information on the project and that she had her estimators
+working on the estimate to have a price available as soon as possible. (App. supp. R4,
+tab 1 at 11)
+
+       4. On August 13, 2019, Ms. Dean emailed Mr. K. Flynn and other Navy
+personnel, Subject: Follow up on INLS Training Module – quick question. Ms. Dean
+asked if shipping was to be included in their quote and if so please identify the ship-to
+address. (App. supp. R4, tab 1 at 8)
+
+       5. On August 14, 2019, Ms. Dean, emailed Mr. K. Flynn and other Navy
+personnel, Subject: INLS Training Modules – MTI Quote 219276. Attached to the
+email was MTI’s quote “per the drawing you sent us on 08/11/19.” 3 Also, “[o]nce you
+all approve cost, we can move forward as expeditiously as possible to get this on GSA
+and procured.” (App. supp. R4, tab 1 at 7)
+
+       6. On August 19, 2019 Ms. Tracie Crower, GSA, emailed Ms. Dean, Subject:
+INLS Training Module –MTI Quote 219276 – GSA. Ms. Crower stated GSA would
+need a couple of quotes and an exact delivery location but it was up to the agency on
+how they sought competition. Ms. Dean responded the same day stating the barge
+would be offered delivered and that MTI should be able to get several quotes to show
+completion. (App. supp. R4, tab 1 at 14)
+
+      7. Also on August 19, 2021, Ms. Dean emailed Mr. Chang, Navy, forwarding
+the GSA email on the same day asking for an exact delivery address and that the
+agency did not have to use eBuy. The Navy could probably buy the barge directly
+from MTI at the agreed upon price. (App. supp. R4, tab 1 at 13)
+
+       8. Also on August 19, 2020, Ms. Dean emailed Ms. Crower to “connect” her
+with Mr. Chang because the Navy was working on securing funding to buy the barge
+off of GSA “asap to meet fiscal year-end sales.” (App. supp. R4, tab 1 at 15)
+
+
+3
+    The attached quote is not in the record.
+                                               2
+       9. In an internal MTI email to Mr. Shaun Flynn and others dated August 20,
+2019, Ms. Dean wrote, “See exact delivery address below for INLS. Can we please
+update our towing cost? I need a couple (If possible) quoted please to satisfy GSA
+RQMT. I’ll need copy of estimates in order to add towing as delivery option.” (App.
+supp. R4, tab 2 at 17)
+
+      10. In an August 20, 2019 email to Mr. Chang, Ms. Dean wrote:
+
+             Thank you so much Mr. Chang for this information. It is
+             extremely helpful for us since we had assumed Norfolk
+             delivery. We are updating quotes for towing based on the
+             information you provided below.
+
+             One of the companies we are getting a towing quote from
+             said they were familiar with your facilities and asked us if
+             the Navy would have the ability to pick this module up out
+             of the water? This supplier also noted to us that whoever
+             delivers this module will need to consider this in their
+             quote and possibly arrange some land based transport.
+             Therefore can you please confirm at your earliest, will the
+             Navy consider acceptance of this module pier side? Or, is
+             the above a valid concern and do we need to take this into
+             consideration when quoting?
+
+(App. supp. R4, tab 2 at 19)
+
+      11. On August 21, 2019, Mr. Smith, Stevens Towing, sent MTI a quote as
+follows:
+
+             Stevens Towing Co., Inc. can offer the following quotation
+             for an INLS training module (80’' L x 25' B x 12’ D @
+             50,000 lbs) from Yonges Island, SC to Williamsburg, VA:
+
+             Barge transportation $78,500.00
+             Crane barge discharge and delivery to final location
+             $45,000.00.
+
+(App. supp. R4, tab 2 at 20)
+
+
+                                          3
+      12. In an August 22, 2019, MTI internal email to Mr. Crites and Mr. Barnes,
+Ms. Dean wrote:
+
+             Thank you for this quote. Was George at KMD able to
+             quote? I have a call into LCDR Boyd that emailed us back
+             yesterday to get a better idea of the logistics for this move.
+             In order to get on GSA I have to show at least 2 quotes,
+             even if astronomical. So, I need to really understand what
+             needs to occur to final delivery so I can accomplish this.
+
+(App. supp. R4, tab 2 at 20)
+
+       13. On August 23, 2019, Mr. Detyens, KMD Marine, sent MTI a quote for
+transportation:
+
+             Please find the following options for ILNS delivery from
+             Yonges Island to Cheatum Annex VA
+
+             A) Towing ILNS on own bottom
+             $48,000.00
+             Includes 8hrs free time on delivery
+             Demurrage $300.00/hour
+             Fuel NTE $2.25/gallon
+
+             B) ILNS on deck barge
+             $80,000.00
+             Includes 8hrs free time each end
+             Demurrage $400.00/hour
+             All Loading, unloading, barge prep/clean to others account
+             All risk cargo insurance available as cost reimbursable -
+             Cargo Legal Liability included
+             Fuel NTE $2.25/gallon
+
+             C) Offloading:See provided estimate from Crofton
+             Industries. Please let me know if you have any questions
+
+             I assume MTI will load and secure. I can take of[f] Crofton
+             and unloading expense if you would like at cost plus 20%.
+             Or MTI can handle direct.
+
+(App. supp. R4, tab 2 at 22-23)
+
+
+                                           4
+       14. On August 23, 2019, KMD Marine submitted a proposal “to provide a
+floating crane, riggers and tug service to mobilize and lift 1 ea. Ilns Unit (80x25x12
+approx 50,000#) from the deck of the transport barge and set into water at Cheatham
+Annex. Crane plans must be submitted and approved prior to entry (est. 5 days).” The
+total amount was $27,770. (App. supp. R4, tab 2 at 24)
+
+       15. On August 23, 2019, Ms. Dean sent an email to the Navy, Subject: INLS
+Training Modules – MTI Quote 219276 – GSA,
+
+             I hope this email finds you both well. I have been trying to
+             reach you all via phone since yesterday I know you are out
+             of the office, but I need some insight please into your
+             facilities so that I can accurately quote and offer you all the
+             most cost efficient solution for delivery of this INLS
+             Training Module. I know you said that using the pier as a
+             delivery option is not allowable. Therefore, our
+             subcontractors are quoting barge transport from MTI to
+             Williamsburg and then adding an additional fee to bring in
+             a crane barge for discharge and delivery to final location.
+             As you can imagine, this is very costly to you as the
+             customer. Also worth mentioning, there is an exception
+             that “loading, securing, or discharging the cargo (unless
+             optional discharge/delivery is requested)” is excluded from
+             the price offered. Therefore, I am hopeful to speak to you
+             to better understand the lay of the land of your facility.
+
+             • Most notably, would it be possible for us to get a land
+             based mobile crane to the pier to offload since this will be
+             a much more efficient option than rental of a crane barge?
+             • How far does this module have to transit from water to
+             land to meet your final destination?
+             • Can we leave it delivered set on the pier?
+             • Will customer be able to offer support for loading,
+             securing, discharging as noted in price exclusion?
+
+             Any additional information you can provide would be
+             extremely helpful for me to figure this out logistically.
+
+(App. supp. R4, tab 2 at 25) (emphasis added)
+
+
+                                           5
+      16. On August 23, 2019, Ms. Dean emailed the Navy stating in part:
+
+             I really appreciate the revised drawing, Kevin. Please see
+             our revised quote. Note: the fabrication cost reduced due
+             to smaller unit but due to the confirmation of the exact
+             shipping location the freight increased. Please note on
+             revised quote we broke out freight for you all. I need to
+             caveat our quote with freight is subject to change.
+
+(App. supp. R4, tab 3 at 31)
+
+      17. On September 1, 2019, Ms. Dean sent the following email to the Navy:
+
+             Please see MTI’s attached revised quote IAW Rev B. I
+             will move forward getting this added to MTI's GSA
+             schedule asap. Hopefully I can get it added by Weds. I
+             will keep you updated and please let me know if you have
+             any questions or concerns on your end. One quick note:
+             the caveat as stated last time remains- the freight is subject
+             to change.
+
+(App. supp. R4, tab 3 at 39)
+
+       18. On September 2, 2019, Ms. Dean emailed Ms. Crower, GSA, the
+following:
+
+             With pending Hurricane Dorian, I wanted to get ahead of
+             this and get the mod submitted. I sent the updated quote to
+             customer yesterday based on their Rev B drawing. Praying
+             everything is right with the mod! Attached is the total
+             package I uploaded into the e-mod system for your
+             information and approval. The emod ID is 8RUP8Z6V.
+             Please let me know if there is anything else you need or if
+             anything is wrong. Hopefully, if something is wrong, I
+             will be able to fix it asap (assuming we have power).
+
+(App. supp. R4, tab 4 at pdf 42/194)
+
+MTI’s Quote and Internal Estimate
+
+      19. By email dated September 1, 2019, MTI sent the Navy, Mr. K. Flynn,
+MTI’s quote (app. supp. R4, tab, 4 at 39). MTI’s quote, dated September 4, 2019,
+
+                                           6
+addressed to Mr. K. Flynn, NAVFAC, for “INLS Crane Training Intermediate Module
+– Approx 64’ x 25’ x 10’,” “FOB: Williamsburg, VA – (12) weeks ARO” at a price of
+$280,627.31. This price was made up of Barge Fabrication cost ($132,427.31), Barge
+(water) Freight Costs ($94,200) and Land Freight Costs ($54,000) or $148,200 total
+freight, slightly higher than the price for the barge. (App. supp. R4, tab 3 at 40) 4 Profit
+was included in the prices. This quote is supported by MTI’s Internal Job Estimate 5,
+date illegible, that indicated a contract value of $280,627.31 consisting of a cost of
+$249,822.77 and profit of $30,804.54 which is 12% or 11% depending how it is
+calculated 6. This estimate included total freight of $135,695.17 without profit 7. Profit
+on the barge and freight is included in the $30,804.54. (App. supp. R4, tab 12 at 177)
+
+         20. On September 9, 2019, Ms. Dean emailed the Navy as follows:
+
+               We are back to work and power has been restored. Sorry
+               for the lost time last week. With the hurricane and GSA
+               having to process exigency orders, this took longer than
+               expected to complete. BUT, I wanted to update you that I
+               received the mod package from my GSA KO on Sat, and I
+               just signed it! The cost I uploaded for this item is as listed
+               on the attached quote. I will get it loaded into eBuy asap
+               for you all to purchase.
+
+               NOTE: MTI’s GSA Contract Number is GS-07F-121BA.
+               I added this to SIN 260-12. Please let me know where you
+               all are with this on your side? Hopefully we can get this
+               procured by weeks end. If anything changes on freight, as
+               I noted before, I/we can modify the cost later.
+
+(App. supp. R4, tab 4 at 44)
+
+         21. On September 10, 2019 Ms. Crower, GAS, sent Ms. Dean the following
+email:
+
+               This is my Email verification that PN MTI IM TM was
+               recently approved on 9/9/2019, Modification PO-0013,
+
+4
+  We do not know why the email is dated September 1, 2019, and the quote is dated
+       September 4, 2019.
+5
+  MTI’s estimate was not included with the quote at this time.
+6
+  Depending on how profit is calculated, 12% is $30,804.54 / $249,822.77 = .123 or
+       11% is $30,804.54 / $280,627.31 = .109.
+7
+  The freight of $135,659.17 is a little less that the $148,200 for freight in the
+       September 4, 2019 quote that included profit.
+                                             7
+             under the Metal Trades GSA Contract GS-07F-121BA
+             at the GSA Customer Price delivered to Williamsburg, VA
+             of $279,920.44.
+
+             The SIP File for GSA Advantage will take a few days to
+             process but it has been submitted.
+
+(App. supp. R4, tab 4 at 46)
+
+       22. MTI’s offer was listed on GSA contract GS-07F-121BA, SIN 260 12 as
+“Improved Lighterage System Intermediate Module (IM) Training Module (TM)
+Delivered to Williamsburg VA” at a price of $279,920.44.” (App. supp. R4, tab 4
+at 52)
+
+The Navy Signs the Requisition for MTI’s Barge
+
+       23. On or about September 13, 2019, Mr. Sakowski, COS (Chief of Staff)
+signed (Block 10) a DD Form 1149, REQUISITION AND INVOICE/SHIPPING
+DOCUMENT, number V81464 9256 5550, dated 20190913. The requisition was
+issued to “GSA VENDOR, METAL TRADES, INC, P.O. BOX 129, HOLLYWOOD,
+SOUTH CAROLINA 29449” (Block 2). The material was required on September 13,
+2019, the same day (Block 7). The DD1149 was “from” V81464, SUPPLY
+OFFICER, NAVELSG-N41, 593 MAYFIELD STREET, WILLIAMSBURG, VA
+23185. It was to be shipped to NAVELSG V81464 N41, 593 MAYFIELD STREET,
+WILLIAMSBURG, VA 23185, POC: LS2 JALEEL DABREO (Block 3). The
+“authority or purpose” was INLS TRAINING AID (Block 9). CLIN 1 was “INLS
+CRANE TRAINING INTERMEDIATE MODULE APROX 64’ X25’ X10’.”
+APPROPRIATIONS DATA was “1791804.6C6C 0000 C582A E 056521 2D V81464
+9256 5550 PC” (Block 4). The “unit price” was $132,427.31, BARGE FREIGHT
+COST $94,200and LAND FREIGHT COST $54,000 for a total of $280,627.31.
+(Gov’t R4, tab 1 at 5) In his declaration Mr. Sakowski stated he was not a contracting
+officer and had no contracting authority (gov’t R4, tab 2 at 11). Otherwise, the DD
+1149 was completely filled out with all necessary information including fund cite.
+
+       24. By email dated September 16, 2019, the Navy, Mr. Jaleel Dabreo, N41
+Financial/Stock Control, sent Ms. Dean a “WAWF” number to allow MTI to invoice
+for payment:
+
+             The document number to reference for WAWF Invoices is
+             V81464-9256-5550. I attached a copy of our WAWF table
+             in case you need it as well. Thank you and please let me
+             know if there is any way I can assist you.
+
+
+                                          8
+(App. supp. R4, tab 5 at 56)
+
+The Barge Arrives
+
+      25. On January 28, 2020, LCDR Boyd, Director of Logistics and Expeditionary
+Support (N4), emailed Ms. Dean the following:
+
+             Good afternoon. The INLS Training Aide has arrived!
+             Thanks.
+             It was offloaded yesterday. The stanchions caused some
+             transport delays on base; it was a curve ball for the
+             contractor. But, this morning the crew resumed and moved
+             it the rest of the way to the training location. We haven’t
+             tested it out yet, but it looks like what we were going for!
+             We’ll click the buttons on our end to make sure all the
+             funding goes through. Thank for you and your company’s
+             professionalism and communication during the
+             construction and delivery process. This is a definitely a
+             “win” for our unit!!
+
+(App. supp. R4, tab 6 at 62) (emphasis added)
+
+MTI Tries to Get Paid
+
+       26. On January 28, 2020, Ms. Dean emailed the Navy, LCDR Boyd, stating the
+following:
+
+             I just wanted to circle up to make sure all went well with
+             the delivery. I assume no news is good news? Also, I just
+             wanted to thank you for being such a wonderful customer.
+             You really helped to make this project go smoothly. Hope
+             the end product is what you all need and wanted and that
+             we can hopefully support you all again in the future!
+
+(App. supp. R4, tab 6 at 63) (emphasis added)
+
+       27. On January 21, 2020, MTI sent an invoice in the amount of $280,627.31 to
+Mr. David Boyd, Navy, for review and processing. The invoice included INLS Crane
+Training Module, $132,427.31, Barge Freight Costs, $94,200, and Land Freight Cost,
+$54,000. (App. supp. R4, tab 6 at 67-68)
+
+
+                                          9
+Unauthorized Commitment
+
+         28. On August 13, 2020, Ms. Sanchez wrote:
+
+               Megan,
+
+               Just keeping you in the loop... We are still working on the
+               unauthorized commitment ratification document. I am
+               currently waiting for the technical team to answer some
+               questions that were asked by one of the reviewers. Looks
+               like this is taking much longer than I had anticipated.
+
+(App. supp. R4, tab 7 at 70) This is the first mention of an unauthorized commitment
+ratification in the record.
+
+MTI Makes a Mistake on the Profit
+
+         29. On 24 August, 2020, Ms. Dean emailed Ms. Sanchez the following:
+
+               The $24,700 was for profit. This subcontractor cost for
+               $123,500 was turnkey as broken out on the description of
+               their invoice I just sent you. This profit was calculated
+               with a simple 20% mark up on the $123,500. Therefore,
+               there is nothing to break out. Please let me know if you
+               need anything else or have any other questions.
+
+               In addition, when we added the INLS to GSA we had to
+               show cost reasonableness through obtaining multiple
+               quotes. I provided this information and this invoice and
+               proof of payment to David Boyd on 07/17/2020. Attached
+               FIO.
+
+               I don’t have any additional information to provide.
+
+(App. supp. R4, tab 8 at 80) (emphasis added). The $24,700 is comprised of Labor,
+$5,659, Cranes, $1,400, Transporter, $1,050, and Mark Up, $16,591 totaling $24,700.
+(App. supp. R4, tab 12 at 139-140) The profit of $16,591 for freight is 11%. 8 MTI
+was mistaken when it told the Navy the $24,700 was all profit.
+
+
+8
+    $16,591 / $148,200 = .112
+                                            10
+The Parties Agree on $255,927.31
+
+       30. On September 8, 2020, Ms. Dean emailed CO Koplos as follows:
+
+              Thank you for your time on the phone. I just spoke to
+              Shaun. Please proceed with immediate release of the
+              uncontested $255,927.31. Please confirm this amount
+              matches what you are proposing is uncontested to make
+              sure I didn't mistype it. MTI is going to proceed with
+              filing a claim for the additional $24,700 we are owed and
+              we also intend to seek interest payment for the months the
+              payment has been delinquent.
+
+(App. supp. R4, tab 9 at 87)
+
+       31. The record contains an unsigned Determination and Findings for
+Ratification of Unauthorized Commitment (D&F) (gov’t R4, tab 1 at 3). The D&F
+included a timeline of events that included, “It is evident that the Government parties
+did not know they were supposed to issue and execute an order off the
+contract/schedule as required by Federal Acquisition Regulation (FAR) 8.4 and
+DFARS 208.4.” (id. at 5) The D&F included:
+
+              MTI’s quote for freight was $148,200 and the IGE was
+              $123,500 for a difference of $24,700. The markup added
+              by MTI is their added cost to the subcontractor’s proposed
+              cost and accounts for the difference of $24,700. NAVFAC
+              finds no support for the markup, and the IGE did not
+              include a markup in their project analysis. . . . With the
+              lack of contractors who can perform this transport and the
+              complexity of moving the training module 450 miles, plus
+              the safety and infrastructure challenges in moving the
+              oversized module to Cheatham Annex, NAVFAC finds the
+              cost acceptable with the exception of the $24,700 mark up.
+
+(Id. at 7) The record does not include the referenced Independent Government
+Estimate (IGE) analysis / calculation. If it exists the Navy did not put it in the record.
+
+MTI Submits a Formal Claim
+
+        32. MTI’s formal claim for $24,700 is dated September 14, 2020 and addressed
+to CO Koplos. (App. br. at 23-24) Enclosure 2 was a copy of MTI’s internal estimate
+(id. at 25) with a correction of an administrative error. (Id. at 23 ¶ 4) Whatever the
+correction was it did not change the estimate. The New Contract Value remained the
+
+                                            11
+same at $280,627.31, Cost, $249,822.77 and Profit $30,804.54. The cost for freight
+was $135,659.17. The overall profit of $30,804.54 or 11% 9 was included in the
+$280,627.31. (Id. at 25) There are also labor hour logs for “Rigging” January 14, 2019
+through January 18, 2019 but without explanation we are not sure how they apply to
+this claim. MTI concluded the claim letter with the following:
+
+               We urge the Government to reconsider this decision to
+               reduce the reasonable request for payment owed to
+               Metal Trades, Inc. for this order and we request to be
+               paid interest as allowable under FAR 33.208. The
+               precedence the Government has established in this
+               situation of causing unnecessary hardship on a small
+               business who fulfilled our obligation to the Government,
+               when there was knowingly gross negligence and error
+               on behalf of all involved in this order is disheartening,
+               extremely disappointing, and reprehensible. We look
+               forward to a favorable response to our claim and to
+               being made whole for the amount we have been shorted
+               ($24,700).
+
+(App. br. at 24) (emphasis added)
+
+         33. On September 14, 2020, Ms. Dean emailed CO Koplos as follows:
+
+               Attached please see MTI’s formal claim letter requesting
+               the additional money owed to MTI in the amount of
+               $24,700.
+
+               There are 4 total attachments:
+
+               1. Metal Trades, Inc. Formal Claim Letter
+
+               2. Enclosure 1- Freight Costs
+
+               3. Enclosure 2- Revised Estimate and Time Clock Proof of
+               Hours to support Freight
+               4. Enclosure 3- Email to Ms. Sanchez demonstrating DOD
+               Precedence of 20% on other orders
+
+
+9
+    $30,804.54 / $280,627.31 = .1097
+                                           12
+             We appreciate your time to review and look forward to
+             your favorable response to this claim. If you have any
+             questions or concerns, please advise.
+
+(App. supp. R4, tab 8 at 83-84)
+
+The Navy Refuses to Consider MTI’s Formal Claim
+
+      34. On September 26, 2020, CO Koplos emailed Ms. Dean as follows:
+
+             I have received your Formal Claim. At this time, there is
+             no contract between the parties and therefore no Disputes
+             or any other clause on which your Formal Claim may be
+             based. Therefore, your Claim is premature and will not be
+             considered. Also, I am unable to open your attachment
+             entitled, “ATT00001.”
+
+(App. supp. R4, tab 8 at 83)
+
+The Unauthorized Commitment is Ratified but at a Lower Price
+
+       35. The Unauthorized Commitment was ratified in Contract
+No. N3943021C2201, effective November 25, 2020, which was agreed to for the
+manufacture of the INLS Training Aid (Barge) and freight in the amount of
+$255,927.31. MTI’s Mr. Shaun Flynn and CO Koplos both signed on November 30,
+2020. The amount is $24,700 less than what the Navy and MTI agreed to at time of
+the requisition on September 13, 2019. The parties understood that MTI was not
+giving up its claim for $24,700. (App. supp. R4, tab 10 at 91-94)
+
+        36. In his declaration, CO Koplos explained that a ratification of $255,927.31
+was the largest ratification he had seen and it was not uncommon for such a
+ratification to take fourteen months. (Gov’t R4 at tab 2 14) CO Koplos accepted
+GSA’s price for the barge itself as fair and reasonable but according to GSA it
+included 18% profit he thought was high. CO Koplos testified in his declaration:
+
+             The fact that this action was a ratification of an
+             unauthorized commitment meant that MTI had the
+             benefit of knowing their ACTUAL costs for freight and
+             associated costs, since the ratification process took place
+             far after delivery. The exactly 20% markup on freight
+             that was later described as an “administrative error” was
+             never justified to me as an actual cost associated with
+             freight.
+
+                                          13
+                    ....
+
+             The basis for my fair and reasonable determination on
+             the module itself rested on GSA’s fair and reasonable
+             determination, which included an 18% profit for the
+             production of the module, which I considered somewhat
+             high, but acceptable in this case in the interest of time.
+             Namely, had I chosen to do my own cost analysis, it
+             would have taken months longer. Further, I would have
+             likely justified a lower profit resulting in a reduced
+             overall ratified amount by nearly $8,000.
+
+(Gov’t supp. R4 at tab 2 15-16) (emphasis added) CO Koplos explained that he
+disallowed the 20% markup on freight ($24,700) given the higher than usual 18%
+profit on the barge. CO Koplos also stated MTI had not produced certified payrolls he
+requested. (Id. at 16) He also stated, “Quantum meruit would dictate the actual hours
+expended would be the correct amount to be paid, not the $16,591 that has no basis as
+to the labor expended and especially accounted for after the fact.” (Id. at 16-17)
+
+       37. On December 8, 2020, the CO, Ms. Megan Ault, signed SF 30,
+Modification No. P00001 to Contract No. N3943021C2201 DATED (SEE ITEM 13)
+25-NOV-2020. The Modification was issued by NAVFAC EXWC, CODE ACQ /
+NAVAL BASE VENTURA COUNTY, 1100 23RD AVE BLDG 1100, PORT
+HUENEME CA 93043-4301. It was issued to METAL TRADES, INC, MEGAN B.
+DEAN, 4194 HWY 165, YONGES ISLAND SC 29449-6041. The Facility Code was
+4G424. Block 13 E, read, “Contractor is not required to sign this document.” BLOCK
+13 C read “THIS SUPPLEMENTAL AGREEMENT IS ENTERED INTO
+PURSUANT TO AUTHORITY OF: FAR 52.243-1 Changes Fixed-Price
+(Aug 1987).” Block 14 DESCRIPTION OF AMENDMENT/MODIFICATION: “This
+administrative modification is to change the Pay DODAAC from N50082 to Pay
+DODAAC N68732 to match the Line of Accounting. All other terms and conditions
+remain the same.” There are no dollar amounts on this SF 30. (R4, tab 2 at 7)
+
+      38. On December 8, 2020, the Navy, Ms. Crystal Brooks, Contract Specialist,
+sent MTI the following email Subject N3943021C2201 Modification:
+
+             Attached is the fully executed modification for your
+             contract. The Pay DODAAC has been changed from
+             N50082 to the correct pay DODAAC N68732. Please
+             ensure when submitting the invoice that you use the
+             N68732 DODAAC. Please refer to the email instructions
+             that were sent to Daniel Reed to make the correction on
+             renaming the invoice and the inclusion of the Accepted
+
+                                         14
+             DODAAC and Inspected DODAAC for the 2-n-1
+             invoicing. You can proceed to resubmit your invoice for
+             payment. My apologies for the inconvenience, if you have
+             any questions please do not hesitate to ask. Have a great
+             day.
+
+(R4, tab 3) The modification corrected a Navy DODAAC number needed by MTI for
+payment of its invoice. There was no mention of a price change.
+
+      39. On January 5, 2021, Ms. Dean sent the following email to various Navy
+personnel:
+
+             Good morning Ms. Brooks, Ms. Contreras, and
+             Mr. Koplos,
+
+             Happy New Year to you all. I am reaching out with an
+             urgent request for an update please. To date we still have
+             not been paid for the INLS/Subject contract. As you are
+             aware we submitted the invoice on 12/07 only to realize it
+             was rejected because there needed to be a modification on
+             one of the lines of accounting. You promptly modified the
+             contract on 12/08 to correct the error and Daniel
+             resubmitted the invoice. It is possible you replied directly
+             to Daniel, but below is the last correspondence I have
+             record of and to date we still have not received payment.
+             Since it is almost 1 year exact to the date MTI in good faith
+             delivered this product to the Government for their
+             operational use, you can imagine that we are ready to be
+             paid and that it is imperative for us to receive payment as
+             soon as possible. Can you please check the status of our
+             invoice submission and advise asap on the anticipated
+             release of the funds to MTI?
+
+             Thank you for help and quick response and hopefully the
+             expedited release of these funds.
+
+(App. supp. R4, tab 10 at 119)
+
+
+                                          15
+        40. On January 07, 2021, CO Koplos sent out the following email within the
+Navy:
+              For clarity, this invoice is against a ratification contract I
+              put in place after receipt of the product. As the cognizant
+              KO, I confirm receipt in accordance with the contract.
+
+(App. supp. R4, tab 10 at 116)
+
+        41. On January 11, 2021, the following email was sent out within the Navy:
+
+              Please process the subject invoice for payment today. The
+              vendor is a small business and the invoice is past due.
+              Let Joyce know when the invoice is ready to certify.
+
+(App. supp. R4, tab 10 at 115)
+
+MTI Receives the $255,958.41
+
+       42. On January 20, 2021, MTI received payment of $255,958.41 and Ms. Dean
+wrote the following email to CO Koplos:
+
+              MTI received our payment today in the amount of
+              $255,927.31 with an interest payment of $31.10 for a total
+              received amount of $255,958.41. Therefore, we are re-
+              submitting the claim for the additional funds owed in the
+              amount of $24,700 plus interest. Now the ratification has
+              been completed, payment made, and acknowledgement
+              there was in fact a contract as FE on 11.30.2020 and as
+              referenced in the subject and the letter, we are requesting
+              your reconsideration of our substantiated claim.
+
+(App. supp. R4, tab 11 at 122)
+
+        43. On March 29, 2021, Ms. Dean emailed CO Koplos the following:
+
+              I don’t mean to continue to pester, but we are looking
+              forward to your response on our claim which to date has
+              exceeded 60 days. Please kindly advise the status. If you
+              are no longer the best POC for this or if I need to start
+              working this through the GAO, please advise.
+
+(App. supp. R4, tab 11 at 127)
+
+
+                                             16
+CO Koplos Again Denys MTI’s Claim
+
+       44. On May 3, 2021, CO Koplos emailed Ms. Dean as follows:
+
+              Your request for the mark-up on freight was previously
+              denied as not being a fair and reasonable charge under the
+              unauthorized commitment ratification. Consistent with my
+              previous communication, I am again denying your request.
+
+(App. supp. R4, tab 11 at 127)
+
+      45. By email dated June 29, 2021, MTI submitted to the Board a request for
+guidance. The Board treated the email as a notice of appeal and docketed it as
+ASBCA No. 62966 on July 6, 2021.
+
+MTI Objects to the Navy’s Position that Leaves it with No Profit on Freight
+
+       46. In its September 16, 2021 response to the government’s first set of
+interrogatories, MTI wrote in part concerning the $16,591 mark up:
+
+              Note: this is actually under 13% profit on this item which
+              is fair and reasonable. MTI is entitled to profit on the
+              freight and should not be expected to offer this delivery to
+              Government at Cost. See Enclosure 3 of original claim
+              sent on 1/20/21 which demonstrates 11 % is fair and
+              reasonable for mark up, since in the past MTI has received
+              20% Mark Up on other Government and DoD Contracts.
+              Historically, Metal Trades, Inc. uses 20% markup on items
+              that are high risk.
+
+(Italics added) (App. supp. R4, tab 12 at 140)
+
+                                      DECISION
+
+       We start by pointing out that this record supports our conclusion that MTI’s
+performance on this procurement has been for the most part impeccable. We cannot
+say as much for the Navy.
+
+
+                                           17
+Positions of the Parties
+
+       The Navy lists the issues in this case as follows:
+
+              The issues in this case are:
+
+              (1) Whether, pursuant to FAR 1.602-3(c)(4), a contracting
+              officer may partially ratify an unauthorized commitment
+              when he believes the price was not fair and reasonable; and
+
+              (2) If so, whether the Board may disturb the contracting
+              officer’s determination of what constitutes a “fair and
+              reasonable” price pursuant to an express ratification under
+              FAR 1.602-3.
+
+(Gov’t br. at 2) The Navy also contends:
+
+              Further, the determination of a “fair and reasonable” price,
+              pursuant to an express ratification, is inherently a matter of
+              the contracting officer’s discretion that cannot be disturbed
+              unless it is “arbitrary, capricious, an abuse of discretion, or
+              otherwise not in accordance with law . . . [and] [t]he
+              [Board] is not empowered to substitute its judgement for
+              that of the agency.”
+
+(Gov’t br. at 3) Notably, the Navy does not challenge our jurisdiction to consider this
+appeal. In any event, for today’s purposes, we agree that a contracting officer has the
+authority to partially ratify an unauthorized commitment so the remaining issue is can
+the Board “disturb” a contracting officer’s “fair and reasonable” price determination.
+The answer is of course we may consider the reasonableness and factual support for
+CO Kolpos’ decision, because a decision that is not supported by the facts is not in
+accordance with the regulation.
+
+       For its part MTI relies on the facts and writes:
+
+              MTI cannot argue the basis of law, as we are representing
+              ourselves pro se, but our argument here is that we should
+              be paid for many reasons—but above all else, because we
+              simply don’t understand why [we] wouldn’t be paid with
+              everything we have provided. It just seems to pay our
+              small business what we are owed is the right thing to do.
+
+(App. br. at 7)
+
+                                             18
+Burden of Proof
+
+        We need not sort out who has the burden of proof because, just like unilateral
+definitization, unilateral ratification is complicated, See Lockheed Martin Aeronautics
+Co., ASBCA No. 62505, 20221 WL 2912101, and makes no difference in the ultimate
+decision.
+
+The 18% Profit on the Barge was Mistaken
+
+       We put the Navy’s use of 18% profit on the barge up front because it is the
+most critical piece of evidence supporting the Navy’s argument. Mr. Koplos’
+explained the 18%:
+
+                 The basis for my fair and reasonable determination on
+                 the module itself rested on GSA’s fair and reasonable
+                 determination, which included an 18% profit for the
+                 production of the module, which I considered somewhat
+                 high, but acceptable in this case in the interest of time.
+
+(Gov’t R4 at 15 ¶ 8) CO Koplos accepted the 18% but offset profit on freight to
+effectively lower the profit overall and account for his concern over the 18% being
+“somewhat high” (findings 30-32). CO Koplos disallowed $24,700 profit on freight
+(finding 29). However, MTI made a mistake when it mischaracterized the $24,700 as
+all profit; it actually included Labor, $5,659, Cranes, $1,400, Transporter, $1,050 and
+$16,591 profit. (findings 29-30) The Navy appropriately reduced the $24,700 to
+$16,591 to account for these other costs (findings 30, 32, 36 n.9). Even after this
+reduction to $16,591 or 11% profit 10 on freight, the Navy still objected to 18% profit
+on the barge and denied MTI recovery of the $16,591. The Navy does not explain
+why it continued to rely on the GSA’s 18%.
+
+       Of particular importance is MTI’s internal estimate that is unassailably credible
+(findings 19, 32). MTI discusses the estimate in its reply brief: 11
+
+                 The Government’s basis for the determination MTI’s
+                 price was unfair and unreasonable, as noted in Clause 3
+                 of their Initial Brief, is MTI included 18% profit on the
+                 fabrication/production of the barge. However, with all
+
+10
+     $16,591 / $148,200 = .112
+11
+     MTI filed its reply brief early so the Navy had it before filing its reply. In its reply
+         brief the Navy did not comment on MTI’s internal estimate or the quote from
+         MTI’s reply brief.
+                                               19
+                due respect, this is simply incorrect. As shown on MTI's
+                estimate, which has been submitted on the record and is
+                enclosed in this reply for reference to this specific
+                claim, profit is clearly shown. The estimated profit for
+                MTI was anticipated to be in the amount of $30,804.54
+                for the entire job in the amount of $280,627.31, which
+                overall is less than a 15% profit on the entire job. Per
+                industry standard, 15% markup has historically been
+                considered fair and reasonable.
+
+(App. reply br. at 1-2) 12 MTI’s internal estimate is in the record and attached to MTI’s
+reply brief (findings 19, 32; app. reply br. at 5). Profit on the entire contract, including
+the barge, was 11% not 18%. (Finding 19) Simply put, Mr. Koplos mistakenly used
+the wrong number. His denial of MTI’s claim is tainted by this mistake which
+standing alone justifies our sustaining MTI’s appeal, but there is more to consider.
+
+Price v. Cost Analysis
+
+       Another significant problem with the Navy’s analysis is that it used cost
+analysis for ratification of this small fixed-price contract. FAR recognizes two
+methods to determine if a proposed price is reasonable, price analysis and cost
+analysis. FAR 15.404-1 PROPOSAL ANALYSIS TECHNIQUES includes:
+
+                (a)(2) Price analysis shall be used when certified cost or
+                pricing data are not required (see paragraph (b) of this
+                subsection and 15.404-3).
+
+                (3) Cost analysis shall be used to evaluate the
+                reasonableness of individual cost elements when certified
+                cost or pricing data are required. Price analysis should be
+                used to verify that the overall price offered is fair and
+                reasonable. . . .
+
+                (b) Price analysis for commercial and non-commercial
+                items.
+                (1) Price analysis is the process of examining and
+                evaluating a proposed price without evaluating its separate
+                cost elements and proposed profit.
+
+
+12
+     The Navy had MTI’s reply brief before it filed its reply brief but choose not to
+         comment on this quote.
+                                             20
+(Emphasis added). Cost analysis is only used when “certified cost or pricing data are
+required.” The FAR guidance quoted above is mandatory using “shall” in the text.
+We see no reason why this FAR guidance would not apply in this appeal.
+
+Price Analysis was Used by the Navy to Negotiate the $280,627.31 before the
+DD 1149 was Signed
+
+       From the record we have, this appears to have been a negotiated sole source
+fixed price small business contract. From this record we see no evidence that Cost and
+Pricing data was required or requested in this time period. Therefore, we conclude the
+Navy used price analysis to find the $280,627.31 reasonable.
+
+        In early August 2019, MTI learned about the Navy’s need for a training barge
+in accordance with Navy drawings (findings 1-2). Working with the Navy and GSA,
+MTI was responsive to the Navy’s and GSA’s requirements (findings 1-22). 13 MTI
+obtained quotes from vendors for transportation to the Navy’s desired delivery
+location (findings 11-14, 16-18). MTI warned the Navy that its insistence on delivery
+to Williamsburg, VA required both water and land transportation that was “very
+costly” to the Navy (finding 15). The total price mutually agreed to was $280,627.31.
+The freight price of $148,200 was, as MTI predicted, greater than the price of the
+barge of $132,427.31. (Findings 19, 32) On or about September 4, 2019, MTI and the
+Navy agreed on the total price of $280,627.31. MTI’s internal estimate, discussed
+above, calculated a total price of $280,627.31 with a total profit of $30,804.54 or 11%.
+(Id.) MTI did not calculate separate profit rates for the barge, water freight and land
+freight. Mr. Koplos received MTI’s internal estimate in September 2020 (finding 32)
+if not sooner 14 but it did not appear to have played a role in his analysis. Without
+evidence to the contrary, we believe that 11% profit on the barge and a difficult and
+expensive freight contract is reasonable. Also, the 20% profit on freight MTI initially
+provided to the Navy was mistaken and reduced to $16,591. (Findings 29, 36) Based
+on the record before September 13, 2019, we conclude the Navy and MTI did a good
+job negotiating a reasonable price of $280,627.31 with a profit of 11% (findings 1-22).
+We conclude that the Navy used price analysis, as it should have, to support the
+reasonableness of $280,627.31. For sure the DD 1149 was an unauthorized
+commitment, but that doesn’t mean the agreed upon price of $280,627.31 was
+unreasonable. There is little evidence that the Navy considered what the parties did to
+agree on the $280,627.31 price before September 13, 2019.
+
+
+13
+     All these findings illustrate how MTI tried to satisfy the Navy’s demands.
+14
+     MTI’s internal cost estimate was certainly available before and after the DD 1149
+          was signed on September 13, 2019.
+                                            21
+After September 13, 2019 The Navy Used Cost Analysis
+
+       On or about September 13, 2019, Mr. Sakowski 15 signed a DD Form 1149
+Requisition for MTI’s barge at the agreed upon price of $280,627.31. Mr. Sakowski
+had no authority to bind the Navy in contract when he signed. (Finding 23) The
+requisition somehow got to MTI that relied upon it and constructed and delivered a
+barge that the Navy liked. (Finding 25) The DD 1149 was an unauthorized
+commitment. This mistake set in motion the Navy’s ratification process that MTI got
+caught up in. It was however exacerbated by the Navy’s use of cost analysis where
+Mr. Koplos requested cost data. (Finding 36)
+
+        Consideration of profit and/or quantum meruit (finding 36; gov’t br. at 11 ¶ 38)
+are hallmarks of cost analysis. CO Koplos accepted GSA’s price for the barge but
+thought GSA’s 18% profit was high. (Finding 36) Turns out GSA’s 18% was wrong.
+As we have said, MTI priced its bid with 11% profit not 18%. (Findings 19, 32) To
+account for the “objectionable” 18% CO Koplos disallowed the 20% ($24,700) mark-
+up on the freight. (Findings 31, 36) Also, he requested that MTI produce cost data
+including certified payrolls; MTI produced some cost data for “rigging.” (Findings 32-
+33, 36 ) CO Koplos ultimately reduced the $24,700 to $16,591 to account for non-
+profit costs included in the $24,700 (findings 30, 36 n.9) but persisted in disallowing
+the $16,591 profit on freight. His decision unreasonably zeros out any profit on freight
+which was over half the contract price. MTI complained about this, “MTI is entitled
+to profit on the freight and should not be expected to offer this delivery to Government
+at Cost.” (Finding 46) We agree. It is clear that CO Koplos based his decision on a
+cost analysis (he said so in his declaration (finding 36)) and repeated it in the Navy’s
+brief (gov’t br. at 4 ¶ 14). The Navy’s use of cost analysis during ratification was
+inappropriate because there is no evidence cost and pricing data was required. Its use
+delayed and prejudiced MTI.
+
+                  The Navy’s Ratification is Mistaken and Unreasonable
+
+       The Navy argues that MTI must prove that the Navy’s conduct was “arbitrary,
+capricious, or otherwise contrary to law.” (Gov’t br. at 11 ¶40) We do not feel CO
+Koplos’s actions were driven by any improper motivations, but do find, as a result of
+the mistaken use of the 18% profit and improper use of cost analysis, that CO Koplos’
+actions were contrary to the FAR provisions governing ratification. We question the
+predicate for his exercise of judgment in treating a firm fixed price contract as if it
+were a cost based contract.
+
+15
+     We do not single out Mr. Sakowski because he must have had a team supporting
+        him. It is however inconceivable to us that no one on that team understood the
+        most fundamental concept of government contracting which is actual authority
+        is required to bind the government.
+                                           22
+                                      CONCLUSION
+
+          Pursuant to the above MTI’s appeal is sustained in the amount of $16,591. In
+  its brief MTI suggests that interest should run from the January 21, 2020, the date of
+  the first invoice, but an invoice alone is not a claim. We accept the Navy’s date of
+  November 30, 2020, for CDA interest to start accruing.
+
+         Dated: November 2, 2021
+
+
+                                                   CRAIG S. CLARKE
+                                                   Administrative Judge
+                                                   Armed Services Board
+                                                   of Contract Appeals
+
+
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA No. 62966, Appeal of Metal
+Trades, Inc., rendered in conformance with the Board’s Charter.
+
+      Dated: November 3, 2021
+
+
+                                                  PAULLA K. GATES-LEWIS
+                                                  Recorder, Armed Services
+                                                  Board of Contract Appeals
+
+
+                                             23

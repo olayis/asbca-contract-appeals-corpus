@@ -1,0 +1,2255 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeals of --                       )
+                                    )
+RBC Construction Corp.              )         ASBCA Nos. 59404, 59962, 60050
+                                    )                    60277, 60851
+                                    )
+Under Contract No. W912QR-11-C-0046 )
+
+APPEARANCES FOR THE APPELLANT:                   Brian S. Wood, Esq.
+                                                 Sarah K. Carpenter, Esq.
+                                                  Smith, Currie & Hancock LLP
+                                                  Washington, DC
+
+APPEARANCES FOR THE GOVERNMENT:                  Michael P. Goodman, Esq.
+                                                  Engineer Chief Trial Attorney
+                                                 Carlton A. Arnold, Esq.
+                                                 Nicole E. Angst, Esq.
+                                                  Engineer Trial Attorneys
+                                                  U.S. Army Engineer District, Louisville
+
+          OPINION BY ADMINISTRATIVE JUDGE D’ALESSANDRIS
+
+       Appellant, RBC Construction Corporation (RBC), was awarded a contract by
+respondent, the United States Army Corps of Engineers (USACE or government) for
+the construction of four structures at an Army Reserve base in greater San Juan,
+Puerto Rico. RBC appeals from a series of contracting officer final decisions
+stemming from alleged contractual changes and government-caused delays.
+Specifically, RBC alleges additional costs and delays related to the government’s
+design review, the discovery of asbestos on the project site, and a building layout
+change (ASBCA No. 59404); a purported contractual change related to the provision
+of kitchen equipment (ASBCA No. 59962); the government’s failure to process RBC’s
+tax exemption forms (ASBCA No. 60050); review and approval of RBC’s standing
+seam roofing and built-up roofing submittals (ASBCA No. 60277); and purportedly
+additional close-out work (ASBCA No. 60851).
+
+                               FINDINGS OF FACT
+
+      I. BACKGROUND
+
+      On September 22, 2011, the Louisville District of the USACE, entered into
+Contract No. W912QR-ll-C-0046 (the contract), a design/build contract with RBC,
+a company headquartered in San Juan, Puerto Rico. The contract was for the design
+and construction of the Caguas Army Reserve Center located in greater San Juan,
+Puerto Rico, in the original lump sum amount of $12,356,390 for the base proposal
+and option line items No. 0014-0017. (R4, tabs 3-4) The contract provided for the
+design and construction of four buildings: a training center; an assembly hall; an
+organizational maintenance shop (OMS); and an unheated storage building (UHS).
+The buildings were split between two sites, with the training center and assembly hall
+located on the existing Cpt. Euripides Rubio U.S. Army Reserve Center (also known
+as the Puerto Nuevo site) in San Juan, PR. The organizational maintenance shop,
+UHS, and a covered wash bay were located on the existing Fort Buchanan site, located
+near San Juan, PR. (R4, tab 4 at GR4_316) The Notice to Proceed was received on
+November 15, 2011, and RBC was to complete the work within 630 calendar days - or
+by August 6, 2013 (R4, tab 4, tab 5 at GR4_248). RBC filed five separate certified
+claims pertaining to the contract. We consider the claims in the order that they were
+appealed to the Board, but address the overlapping delay claims at the conclusion of
+this opinion.
+
+       II. Design Review and Asbestos (ASBCA No. 59404)
+
+        The contract contained detailed specifications for the project. “The complete
+requirements for each submittal are described in the Army Reserve Design Process
+and Submittal Requirements Manual – PART C – Design Build – Design
+Submittal Requirements After Award” (DPSR) (R4, tab 4 at GR4_1152-53 ¶ 1.3.7)
+(emphasis in original). “All design submission requirements are defined in the” DPSR
+and “[a]ll aspects will be followed” (R4, tab 4 at GR4_1161 ¶ 1.7.1) The DPSR
+“describes development of project detailed designs – the working drawings,
+specifications and other documents comprising completed project design documents.
+It applies to the design performed by the successful Design/Build (D/B) contractor
+after project award.” (R4, tab 22 at GR4_2233 ¶ 1.1)
+
+       RBC was permitted to use fast track submittals, including specifically site work,
+under the contract (tr. 1/63, 3/61; R4, tab 4 at GR4_1152 ¶ 1.3.4 (“The contractor shall
+design and detail a complete and usable facility before construction begins. Fast track
+design and construction will be permitted on this project. Fast-tracking includes
+site work, ordering long-lead materials, and mobilization.”) (emphasis in original)).
+
+      The contract also provides that the design submittals for fast track shall include
+a complete design analysis:
+
+              1.3.7 The design submittals shall include specifications,
+              drawings, design analysis, CID (FF&E, SID), permit
+              applications, confirmation notices and submittal registers.
+              The government will assist the contractor in finalizing the
+              final draft DD1354, however, it is the Contractor’s
+              responsibility to provide. The complete requirements for
+              each submittal are described in the Army Reserve Design
+
+                                           2
+              Process and Submittal Requirements Manual- PART C
+              – Design Build -- Design Submittal Requirements After
+              Award. This is referred to below as “DPSR Manual
+              Part C”.
+
+(R4, tab 4 at GR4_1152-53) (bold in original) “If fast track design is used, a
+geotechnical report shall be submitted as part of the first fast track submittal”
+(R4, tab 4 at GR4_1158 ¶ 1.6.1.3.1).
+
+       For projects utilizing fast-track, the contract requires the interim “building site
+design to include: building area/site layout, final grade elevations, site electrical,
+mechanical and civil utilities, permits, Design Analyses” (R4, tab 4 at GR4_1162
+¶ 1.7.4).
+
+        The purpose of a fast track submittal is to advance some specific work while the
+normal construction process continues concurrently (tr. 1/64). A portion of the design
+gets developed and released for work while the remaining design is being completed
+(tr. 2/103, 3/61, 7/7).
+
+        Generally, the design review process would begin with RBC submitting a design
+submittal to the government. The government would then review the submittal and
+enter its comments in the “DR checks” computer system. RBC would respond to the
+government’s comments in the DR checks system, and then a meeting would be held to
+discuss the package. (Tr. 1/67-68; 7/9; R4, tab 22 at GR4_2237-38 ¶¶ 1.6.4.1- 4.2)
+
+       Under the Contract, the government had 14 days to review each RBC design
+submittal (tr. 1/67, 165, 5/134, 202; R4, tab 2 at GR4_30-31 ¶¶ 7.1.5, 7.1.9, tab 10
+at GR4_2068 (“Government review periods are 14 calendar days rather than
+15 calendar days…”)). The government usually gives itself more than 14 days to
+review submittals (tr. 5/203). Generally, the government agrees to a 30-day
+government review period for submittals requiring government approval and a 21-day
+period for government conformance review of other submittals (tr. 5/204-05).
+According to the government’s area engineer for the Project, Luis Rivera, the
+government “shot [itself] in the feet” by only providing for a 14-day government
+review period (app. supp. R4, tab 41 at 1).
+
+       A. Fire Suppression Water Cistern
+
+        The solicitation included preliminary water flow test data to be used by offerors
+to bid the fire suppression system (R4, tab 4 at GR4_404 ¶ 13.2.2). The contractor
+was required to perform a water flow test at the project site in accordance with
+National Fire Protection Association (NFPA) 291 at nearby fire hydrants to determine
+static pressure, residual pressure, and water flow (R4, tab 4 at GR4_404 ¶ 13.2.3;
+tr. 7/14).
+
+                                             3
+        RBC submitted its site and foundation package, dated February 6, 2012, to the
+government on February 10, 2012 (tr. 1/65; ASBCA No. 59404 (59404) answer at 3
+¶ 13; R4, tab 12 at GR4_2114). RBC’s site and foundation package was a fast track,
+stand-alone package that was independent of the final design packages for the project
+(tr. 1/95; app. supp. R4, tab 85 at 1; R4, tab 11 at GR4_2072). During a pre-work
+conference on November 3-4, 2011, and also during the charrette meeting on
+December 8-9, 2011, the parties discussed RBC’s proposal to use an underground fire
+suppression water cistern (fire cistern) under the assembly hall building (app. supp.
+R4, tab 85 at 6-10).
+
+        Drawing PS-100, the “General Site Plan – Mechanical Layout,” within the site
+and foundation package showed a 40,000-gallon fire cistern below the assembly hall
+building (tr. 1/70-71; app. supp. R4, tab 22 at 68). The contract incorporated the
+DPSR which provided that preliminary hydraulic calculations were to be submitted as
+part of the interim design package for the project (tr. 1/72, 81-82; R4, tab 22
+at GR4_2237 ¶ 1.6.1.2, GR4_2262 ¶ 7.3.1.3(e)).
+
+         Government witnesses testified that water storage tanks are typically installed
+outside the building’s footprint where they can be easily accessed and, as such, are not
+part of a site foundation fast track package, and that the DPSR is written to reflect
+typical fire protection submissions that are not fast tracked and addressed in an interim
+design submission (tr. 7/48-50). The government witnesses interpreted the contractual
+requirement for a complete design submission as requiring RBC to include the cistern
+in its fast track site and foundation package because the cistern was within the
+building’s footprint, and in order to minimize the potential for any subsequent
+foundation tear-out (tr. 5/140, 7/49).
+
+        On February 23, 2012, government reviewer Julian Donahue opened multiple
+comments in the DR checks system regarding RBC’s site and foundation package,
+including comment 4446457 requesting the “preliminary calculations that detail
+sizing” for the fire cistern shown below the assembly hall building (tr. 1/68-70; R4,
+tab 13 at GR4_2204). In response to Mr. Donahue’s comment, on February 28, 2012,
+RBC’s design coordinator, Mr. Patrick J. Balcazar, referred the government to a fire
+protection calculation table included in a fire protection drawing, FP-103 (tr. 1/73; R4,
+tab 13 at GR4_2204). The fire cistern was a topic of conversation at a design review
+meeting held on February 29th and March 1, 2012, between RBC and the government
+to discuss the site and foundation package (R4, tab 36 at GR4_ 2365; tr. 1/74). The
+government directed RBC to provide the detailed calculations for the cistern as part of
+the site and foundation package (tr. 1/74-75).
+
+       On March 29, 2012, RBC submitted its corrected final site and foundation
+package to the government (R4, tab 14 at GR4_2212). As with the earlier submission,
+the government questioned the fire cistern, in addition to other issues (R4, tab 13
+
+                                            4
+at GR4_2204-07). In response to the government’s directive, RBC added preliminary
+fire protection calculations to plumbing drawing PL-105 in its corrected final site and
+foundation package (tr. 1/77; app. supp. R4, tab 25 at 74). Plumbing drawing PS-100
+within the corrected final site and foundation package called for the same 40,000-gallon
+fire cistern required by the site and foundation package (app. supp. R4, tab 22 at 68,
+tab 25 at 68).
+
+       On April 20, 2012, Mr. Balcazar commented to Mr. Donahue that PL-105 in its
+corrected final site and foundation package provided the detailed calculations requested
+by the government (R4, tab 13 at GR4_2204). On April 23, 2012, Mr. Donahue
+responded that the calculations provided by RBC did not “provide enough detail to
+determine if adequate reserve water is provided” and requested additional calculations,
+including information regarding hazard areas (tr. 1/79; R4, tab 13 at GR4_2204).
+Mr. Donahue’s comment on April 23, 2012, was made 25 calendar days after RBC
+submitted its corrected final site and foundation package to the government on
+March 29, 2012 (R4, tab 13 at GR4_2204, tab 14 at GR4_2212).
+
+       RBC’s building envelope and interim design packages do not appear to be in the
+record, but they were submitted on or about April 5, 2012 (R4, tabs 26, 41). From
+April 30, 2012, to May 1, 2012, RBC and the government conducted a design review
+regarding RBC’s building envelope package and interim design package (tr. 1/82;
+R4, tab 41). The building envelope package was a fast track submittal and the interim
+design package was a separate design package usually “done in tandem” with the fast
+track submittals (tr. 7/7, 41-42).
+
+        In its review of RBC’s building envelope and interim design packages, the
+government raised the same issues regarding the fire cistern that it raised in its review
+of the site and foundation package (tr. 1/86; R4, tab 41 at GR4_2428, item O,
+GR4_2435, item II, GR4_2436, item V). While discussing the interim design package
+with RBC, the government explained that it wanted the preliminary calculations to
+“ensure you [RBC] are on the right track. So if there is a need of a final adjustment
+you [RBC] do it on time, before the final submittal” (R4, tab 41 at GR4_2436).
+
+        On May 14, 2012, Mr. Juan Bertran, RBC’s fire protection contractor, provided
+RBC the data for the hydrant flow test he conducted at the Puerto Nuevo site on
+May 6, 2012 (app. supp. R4, tab 124). Mr. Bertran’s flow test data supplemented the
+flow test data contained in the contract, based on a flow test at the Puerto Nuevo site
+around April 2011 (tr. 7/46; R4, tab 4 at GR4_521). On May 17, 2012, Mr. Balcazar
+submitted this flow test data to the government through the DR checks system
+(tr. 1/88-89; R4, tab 13 at GR4_2204).
+
+      On May 18, 2012, RBC submitted a request for information (RFI) to the
+government regarding the fire cistern capacity and attached the flow test results to the
+RFI. RBC also provided hydraulic calculations, prepared by Mr. Jose Marrero, the
+
+                                            5
+Mechanical Engineer of Record for RBC’s Designer of Record, Harvard Jolly,
+confirming that a 40,000-gallon cistern complied with Unified Facilities Criteria (UFC)
+and contractual requirements. (Tr. 2/9, 15; app. supp. R4, tab 89) RBC indicated that
+the 40,000-gallon cistern complied with ¶ 3-4.2 Reduction in Storage Capacity of the
+UFC 3-600-01, which permits a reduction in storage capacity if an adequate
+replenishment source is available (tr. 2/16-17; app. supp. R4, tab 37 at 34 ¶ 3-4.2).
+
+        On May 23, 2012, the government responded to RBC’s RFI requiring RBC to
+resubmit its hydraulic calculations (app. supp. R4, tab 89 at 3). On May 24, 2012,
+Mr. Donahue entered into the DR checks system, the same response the government
+provided to RBC’s RFI (R4, tab 13 at GR4_2205). Through this point, the fire cistern
+was just one of the open issues in the DR checks system (R4, tab 13). On June 1,
+2012, the government closed its comment regarding drainage issues, leaving the fire
+cistern as the only open comment preventing approval of the site and foundation
+package (R4, tab 13 at GR4_2173). RBC’s expert, Mr. Mark Doran, stated, without
+citation to the record, that the government’s failure to close out comments in the DR
+checks system delayed RBC’s submissions (app. supp. R4, tab 118 at 14). To the
+extent Mr. Doran was alleging that the government failed to close out comments after
+the government was satisfied with RBC’s responses, we did not see evidence of this in
+the record and find that any government delay was concurrent with RBC delay through
+June 1, 2012.
+
+         On June 5, 2012, Mr. Balcazar submitted fire protection drawings and calculations
+to the government, which specifically included hazard area classifications (R4, tab 13
+at GR4_2205-06). On June 7, 2012, a new government reviewer, Mark Robertson
+responded to Mr. Balcazar’s comments in the DR checks system asserting that the
+40,000-gallon cistern proposed by RBC would result in “7,866.2 gallons short of demand
+required for 90 minutes of fire protection water supply as required by UFC 3-600-01”
+(R4, tab 13 at GR4_2206). Mr. Robertson and Mr. Balcazar continued to exchange
+comments regarding the fire cistern calculations between June 7, 2012, and June 19,
+2012, when Mr. Balcazar submitted a clean set of drawings without design changes
+(R4, tab 13 at GR4_2207). On June 21, 2012, 119 calendar days after the government’s
+first comment in the DR checks system regarding the 40,000-gallon cistern proposed for
+the assembly hall building, the government closed comment 4446457 (R4, tab 13
+at GR4_2207). On July 30, 2012, RBC submitted its certified final site and foundation
+package to the government, containing a 40,000-gallon fire cistern as originally proposed
+in its site and foundation package (app. supp. R4, tab 26; R4, tab 256).
+
+      B. Training Building Facade
+
+       The government began discussions with RBC in December 2011 for the
+design of a new entrance on the south side of the training building that would
+essentially mirror the front entrance (R4, tab 262). The change was discussed at the
+charrette meeting on December 8-9, 2011, and again on February 2, 2012. By letter
+
+                                           6
+RBC-009-CPN-H-007, RBC provided a rough order of magnitude for this item of
+approximately $25,000 (R4, tab 20 at GR4_2222, item 5). The government issued a
+Request for Proposal (RFP) on May 16, 2012, for changes to the training building
+facade (R4, tab 23). RBC responded to the RFP on May 29, 2012, with an estimate of
+$236,503.22, and requested extended overhead for 35 days (R4, tab 24 at GR4_2299,
+2303). Following discussions, the government issued unilateral modification
+A00005, which was signed on December 6, 2012, in the amount of $42,638.45 and
+no additional time (R4, tab 25).
+
+      RBC had been provided a release for construction of the certified site
+foundation on July 23, 2012 (R4, tab 17). RBC asserts that it’s certified site
+foundation design and its 50% interim design packages were delayed by the
+issuance of the modification for the training building facade (tr. 1/180). However,
+RBC submitted its certified site foundation design and its 50% interim design
+packages five months before the modification was issued (tr. 5/120-21). The
+interim 50% design and building shell packages were submitted on April 5, 2012
+(R4, tab 26). Release for construction and RBC’s certified site/foundation package
+was accepted and issued on July 23, 2012 (R4, tab 17).
+
+      C. Asbestos Removal
+
+        The contract required RBC to locate underground storage tanks and their related
+piping as per Drawings C-2 and C-3 (R4, tab 62 at GR4_2664 ¶ 1.7.4.5). On
+September 13, 2012, after the start of construction, RBC discovered two underground
+pipes possibly containing asbestos (tr. 1/57-58, 3/67; 59404 answer at 6 ¶ 18).
+Initially, RBC believed the pipes at issue to be abandoned electrical lines, because on
+November 4, 2011, the government provided a report to RBC that identified the pipes
+as electrical lines (59404 answer at 7 ¶ 23). Additionally, drawings provided by the
+government as part of the contract showed only lines running under the construction
+area and existing buildings (R4, tab 4 at GR4_939-45, app’x K). RBC did not intend
+to remove what it believed to be abandoned electrical lines. The contract only required
+RBC to “locate each of the existing underground storage tanks (USTs) and related
+piping…” and to “avoid the USTs.” (R4, tab 4 at GR4_324-25 ¶¶ 1.7.4.5-4.6)
+However, upon discovering that the lines were fuel pipes containing asbestos, as will
+be explained below, RBC had to remove the 2 pipes (tr. 5/8-9; app. supp. R4, tab 6 at 7
+¶ 23).
+
+        On October 4, 2012, RBC notified the government in writing of its discovery of
+two pipes possibly containing hazardous material or asbestos (R4, tab 66 at GR4_2683).
+The discovery of the asbestos was unexpected (tr. 5/8). Upon the suspected discovery of
+hazardous material on the project, the contract required RBC to “immediately stop work
+in the affected area, notify the Contracting Officer, and await Contracting Officer’s
+
+
+                                          7
+direction before proceeding with additional work in the area” (R4, tab 4 at GR4_323-24
+¶ 1.7.3). RBC stopped work due to the presence of the asbestos (app. supp. R4, tab 20
+at 9, 11, 13, 15-16, tab 81 at 1 (e-mail from Janice Rivera dated November 14, 2012,
+stating “please keep in mind that the contractor is doing minimal work right now.”);
+tab 82 at 1 (e-mail from Janice Rivera dated November 30, 2012, stating “right now
+[RBC] can’t do too much in the field due to the pipes [containing asbestos].”)). The
+government’s expert witness, Mr. Stuart Ockman, indicated in his expert report that
+RBC continued backfilling operations at the training building site until October 18,
+2012, when it suspended operations due to suspected asbestos. (R4, tab 285
+at GR4_7403-04; tr. 7/165). However, RBC’s expert, Mr. Doran, indicated that RBC
+planned to perform the backfill at the assembly building before performing backfill
+at the training building. Mr. Doran indicated that the backfill performed between
+October 3, 2012 and October 18, 2012, was performed out of sequence and was
+inefficient work. (App. supp. R4, tab 118 at 21; tr. 2/216)
+
+        On October 24, 2012, the government issued contract amendment 4, for RBC to
+test the pipes for asbestos (59404 answer at 7 ¶ 20; tr. 3/66-67; R4, tab 63). On
+November 20, 2012, the government issued unilateral modification A00006 to increase
+the contract in the amount of $25,000 as part 1, notice to proceed with the asbestos
+removal, and provided direction for RBC to obtain environmental permits (R4, tab 64).
+However, RBC’s project Manager Mr. Diaz testified that it could not apply for the permits
+until resolving the scope of the abatement work, including whether the pipes needed to be
+flushed to remove fuel residue before disposing of the asbestos-contaminated pipe
+(tr. 3/68-69).
+
+       On December 3, 2012, RBC submitted its proposal for removal of the asbestos-
+contaminated pipes (59404 answer at 7 ¶ 21). On December 20, 2012, the government
+issued contract amendment 7, which was signed by RBC on December 26, 2012, for
+removal of the asbestos pipes. Amendment 7 increased the contract amount by
+$14,862.89 and 0 calendar days. (R4, tab 65) Removing asbestos unexpectedly
+discovered on a project is not a quick process (tr. 1/59-60). When asbestos is not
+anticipated on a project, it can take the contractor longer to arrange the appropriate
+subcontractors. RBC presented testimony from Mr. Balcazar, that, in his experience, it
+could take approximately 12 to 18 weeks to obtain permitting and safely remove the
+asbestos (tr. 1/60). RBC’s expert witness, Mr. Mark Doran further testified that the
+time necessary to arrange asbestos remediation depends, in part, on whether asbestos is
+anticipated on a project (tr. 2/144-45). On projects where asbestos problems are
+anticipated, the contractor may have already identified an asbestos abatement
+contractor (tr. 2/145). Ms. Rivera testified for the government that, in her experience,
+contractors are normally able to retain and mobilize an asbestos subcontractor within
+
+
+                                           8
+10 to 15 days (tr. 5/73). However, Ms. Rivera was unable to clarify whether her
+experience involved projects where asbestos was anticipated (tr. 6/86-87).
+
+        Prior to beginning of the asbestos removal, RBC was required to submit a work
+plan with a defined scope of work to the Environmental Quality Board for approval
+(tr. 3/68-69). RBC contends that the environmental board was closed for the end of
+year holidays when RBC received Amendment 7, and it could not submit its work plan
+to the board until after the January 6 Three Kings Day holiday (also known as the
+Epiphany) (tr. 3/69-70). The government disputes that the environmental board closed
+for the holidays (tr. 5/75). However, Ms. Rivera conceded that, although the office
+remained open, there might be reduced staffing (tr. 5/154). By January 17, 2013, RBC
+had obtained its environmental permit and hired an asbestos remediation contractor
+(tr. 5/73). On January 24, 2013, RBC completed the removal of the pipes (R4, tab 285
+at GR4_7404-05).
+
+        On June 12, 2013, by letter CPN-C-0055, the government found that “the delay
+claimed by you [RBC] for the asbestos in the fuel lines has some merit” and proposed
+a contractual modification for 102 non-compensable calendar days caused by the
+removal of the asbestos (R4, tab 66 at GR4_2683). On October 18, 2013, the
+government issued a modification, amendment 11, to the contract under the changes
+clause for a 102 non-compensable calendar day extension, from October 18, 2012, to
+January 28, 2013 (app. supp. R4, tab 13 at 19-21; R4, tab 66 at GR4_2683). The
+government acknowledged that RBC provided formal notice of the hazardous
+condition on October 4, 2012, and RBC was not able to “go back to work on the tasks
+in the original contract” until January 28, 2013, a time period of 116 calendar days
+(R4, tab 66 at GR4_2683). However, the government claimed October 18, 2013, as
+the “actual delay start date” because the contract permits the government up to
+14 calendar days to investigate the hazardous condition (id.; R4, tab 4 at GR4_1244-45
+¶ 3.1.3). The contract does not state that the 14-day government investigation period
+will be deducted from the duration of any delay caused by a hazardous condition (R4,
+tab 4 at GR4_1244-45 ¶ 3.1.3).
+
+       D. OMS Building Change
+
+        The tool room in the OMS building was not required by the contract to be
+adjacent to the work bay (tr. 5/24-25, 122; R4, tab 4 at GR4_317 ¶ 1.2.4.3 (“The
+diagrammatic drawings indicate typical adjacencies, they are not indicated to dictate the
+final layout for the project.”); tab 74 (adjacency drawing, A-001 showing work bay and
+tool room as “typically adjacent to each other.”)). On March 19, 2013, upon noticing
+that the design did not require the tool room to be adjacent to the work bay in the OMS
+building, a representative for the end-user of the project requested that the two rooms be
+adjacent, and the USACE subsequently issued a RFP for the change (tr. 5/121-23). On
+June 11-12, and 21, 2013, RBC poured the concrete OMS floor slab (tr. 6/146-47, R4,
+tab 289).
+
+                                           9
+       On June 27, 2013, by letter CPN-C-0056 and pursuant to the contract changes
+clause, the government requested that RBC submit a proposal for changes to the
+interior layout of the rooms in the OMS building (tr. 3/85; R4, tab 75). The
+government directive resulted in a “shuffle” of other rooms, such as the bathroom and
+kitchen (tr. 4/178). On August 26, 2013, RBC submitted its proposal for the
+government requested change to the OMS building layout (R4, tab 77). At the time of
+the proposal, RBC had already poured its floor slab, had erected some of the roof, but
+had not begun working on the interior of the building (tr. 6/148). The proposed change
+did not affect the water, sanitary plumbing, or electrical lines (tr. 5/ 124, 6/146-47).
+
+       On October 15, 2013, RBC advised Administrative Contracting Officer (ACO)
+McQuary that because RBC had not received a modification to the contract for the
+OMS building layout change, RBC was required to proceed with the work as
+originally designed and advised the government that some work may need to be
+demolished if a modification is later issued (tr. 3/88; app. supp. R4, tab 75 at 1).
+
+        On October 16, 2013, the government issued a modification to the contract,
+amendment 10, for the OMS building layout change in the amount of $59,939.99 and
+zero calendar days (R4, tab 127). RBC contends that from approximately the time the
+government requested the change to the time it issued amendment 10, the OMS
+building was on the critical path 1 (app. supp. R4 tab 20 at 29, 31, 33, 35, 37, 39-41, 45,
+tab 45 at 2). The government did not approve the revised design for the OMS building
+interior work until January 17, 2014 (app. supp. R4, tab 117 at 14). RBC’s interior
+subcontractor, Cordex, did not report to the site until December 10, 2013. Upon
+arrival, Cordex started work on the OMS building roof eaves. (R4, tab 281
+at GR4_7360) Mr. Doran, in discussing delays to the OMS building roof, states that
+interior work did not begin prior to February 25, 2014 (app. supp. R4, tab 117 at 16).
+RBC contends that the OMS interior building work was delayed until January 18, 2014,
+because all OMS interior work was constructively stopped until the redesign was
+approved by the government (app. supp. R4, tab 117 at 15). The government contends
+that time was not granted because the OMS building was not on the critical path, and
+due to RBC’s late design, no work was being performed in the OMS interior (tr. 6/239,
+8/16, 41, 44; R4, tab 285 at GR4_7413, 7420).
+
+
+1 “The critical path is the longest path through the schedule.   For any delay to the
+       critical path, there is a corresponding delay to project completion. Activities
+       which are on the critical path have no float; that is, the early and late start dates
+       and the early and late finish dates are identical.” Donohoe Constr. Co., ASBCA
+       No. 47310 et al., 98-2 BCA ¶ 30,076 at 148,811.
+
+                                            10
+       E. Delay
+
+       RBC’s delay allegations in its claim docketed as ASBCA No. 59404 simply
+repeat the alleged delays discussed above, recognize some concurrency between
+claimed delays, and assert daily delay costs that are not relevant to this decision on
+entitlement (R4, tab 6).
+
+                                DECISION ASBCA No. 59404
+
+       RBC’s first appeal asserts delays purportedly caused by the government’s
+review of RBC’s design submissions primarily with regard to a fire cistern
+incorporated into the design of the assembly hall building and the discovery of
+asbestos coating on an underground fuel line. The appeal also alleges delays related to
+a change in the facade of the training building and changes to the room layout of the
+operation and maintenance building. Here, we address only issues of contract
+interpretation regarding entitlement for the asserted delays. Whether the delays are
+compensable is addressed at the end of the decision.
+
+       A. Fire Cistern
+
+        As detailed above, the project permitted the use of fast track design methods (R4,
+tab 4 at GR4_1152 ¶ 1.3.4). Additionally, the DPSR Part C, provides that preliminary
+hydraulic calculations are required in the interim design but not as part of the charrette
+design (R4, tab 22 at GR4_2260-62). Thus, RBC asserts that the government’s
+insistence that RBC include hydraulic calculations in its fast-track site and foundation
+package constitutes a constructive change to the contract (app. br. at 8-9). The
+government contends that RBC’s decision to include the fire cistern in the foundation of
+the building, rather than using an external tank, required RBC to include the fire
+suppression calculations in the site and foundation package. The government relies
+upon a statement in ¶ 1.3.7 of the contract that “[t]he design submittals shall include
+specifications, drawings, design analysis, CID (FF&E, SID), permit applications,
+confirmation notices and submittal registers” (R4, tab 4 at GR4_1152) as requiring RBC
+to include the hydraulic calculations in the site and foundation package. According to
+the government’s interpretation, the calculations are normally required in the interim
+design submission, but once RBC included the cistern in the building footprint, it was
+required to include the hydraulic calculations in the site and foundation package in order
+to present a complete design analysis (gov’t br. at 36-37).
+
+        The government cites selectively to ¶ 1.3.7, because the same section of the
+contact additionally provides that “[t]he complete requirements for each submittal are
+described in the Army Reserve Design Process and Submittal Requirements
+Manual – Part C – Design Build – Design Submittal Requirements After Award”
+(R4, tab 4 at GR4_1152-53) (emphasis in original). Thus, the government, in arguing
+that the contract required RBC to include the hydraulic calculations in the site and
+
+                                           11
+foundation package, relies upon a section of the contract that cites as the “complete
+requirements” a document that expressly provides that the hydraulic calculations are
+not required until the interim design.
+
+        To be fair, the government’s position is eminently reasonable. External fire
+cisterns can easily be modified at a later stage of construction. If RBC had under-sized
+the fire cistern in its fast-track submission, it could be expensive and time-consuming
+to modify the foundation. However well-intentioned the government’s actions were in
+attempting to save RBC from itself, the contract did not require RBC to submit the fire
+cistern calculations as part of its site and foundation submission, and the government’s
+decision to delay approval of the site and foundation package until the fire cistern was
+approved delayed RBC’s site and foundation work. The government’s argument that
+the fire cistern sizing was required by the contract is true but irrelevant (gov’t resp. br.
+at 37). RBC seeks delay damages and not damages for additional work not required
+by the contract. Under the fast-track procedure, RBC could have started site work at
+an earlier date if the government followed the contractual requirements and reviewed
+the fire cistern as part of the interim design package.
+
+        While we find that RBC was delayed, we also find that it’s claimed delay is
+overstated. RBC asserts that the entire period from submission of its site and
+foundation package until approval was a compensable delay. However, the fire cistern
+was not the only problem with RBC’s site and foundation package. The government
+identified numerous deficiencies requiring resubmission (see, e.g., R4, tab 13
+at GR4_2133, 2141, 2173). The last of these problems, an issue pertaining to
+drainage, was not resolved until June 1, 2012 (R4, tab 13 at GR4_2173). Thus, we
+find that any delay prior to June 1, 2012 (other than government delay in responding to
+submissions, addressed below) was concurrent with delays that were RBC’s
+responsibility. See, e.g., William F. Klingensmith, Inc. v. United States, 731 F.2d 805,
+809 (Fed. Cir. 1984).
+
+        Additionally, we hold that the government delayed RBC by 11 days due to its
+delay in reviewing RBC’s corrected site and foundation package. RBC submitted the
+package to the government on March 29, 2012 (R4, tab 13 at GR4_2204, tab 14
+at GR4_2212), but the government did not provide its comments until April 23,
+2012 – 25 days later, or 11 days more than the 14 days allowed the government by the
+contract. See, e.g., ADT Constr. Grp. Inc., ASBCA No. 55307, 09-2 BCA ¶ 34,200
+at 169,085. Accordingly, we hold that RBC was delayed from February 24, 2012,
+until April 12, 2012 (49 days), concurrent with RBC delays. RBC was additionally
+delayed April 13, 2012, to April 23, 2012 (11 days) by the government’s delay in
+reviewing RBC’s submission. RBC was again concurrently delayed from April 24,
+2012 to June 1, 2012 (39 days) and was delayed from June 2 to June 21, 2012
+(20 days), by the government’s requirement that RBC address the fire cistern in its site
+and foundation package. We address whether the delays were compensable at the end
+of this decision.
+
+                                            12
+       B. Training Building Facade
+
+       RBC did not address its claim pertaining to the training building facade in its
+post-hearing brief. Accordingly, the claim is waived. See, Engineering Solutions &
+Products, LLC, ASBCA No. 58633, 17-1 BCA ¶ 36,822 at 179,470; cf. Watts Constructors
+LLC, ASBCA No. 61493, 20-1 BCA ¶ 37,563 at 182,387; SmithKline Beecham Corp. v.
+Apotex Corp., 439 F.3d 1312 at 1319 (Fed. Cir. 2006). Moreover, we note that the
+government demonstrated that RBC had already submitted its certified site foundation
+design and its 50% interim design packages, the packages RBC alleges were delayed
+before the training building facade modification was issued (tr. 5/120-21).
+
+       C. Asbestos
+
+       RBC asserts entitlement to 116 days of compensable delay (app. br. at 16). The
+government granted RBC 102 days of non-compensable delay in a contract modification,
+based on the 116 days claimed by RBC, but deducting 14 days for the government to
+review the information. However, the government now contends that its award of 102 days
+was in error and that RBC is entitled to only 47 days of delay (gov’t resp. br. at 32-36).
+
+        The resolution of this portion of RBC’s appeal requires that we determine how
+long it should have reasonably taken RBC to arrange for an environmental remediation
+subcontractor. The parties do not dispute that RBC was required to stop work when it
+discovered the possible existence of asbestos and that it could not start work again until
+after the government issued the notice to proceed on the remediation work (gov’t resp.
+br. at 32-33). The government contends that RBC was not delayed until October 18,
+2012, when it stopped backfilling at the training building (R4, tab 285 at GR4_7403-04;
+tr. 7/165). However, we find Mr. Doran’s testimony credible that this work was being
+performed out of sequence and was inefficient (app. supp. R4, tab 118 at 21). We find
+that RBC was delayed beginning on October 4, 2012.
+
+        RBC presented the testimony of Mr. Balcazar that it could take 12 to 18 weeks
+from the discovery of the asbestos to identify a subcontractor, obtain the necessary
+permits, and to remove the asbestos (tr. 1/60). Mr. Doran further testified that the time
+necessary to arrange asbestos remediation depends in part on whether asbestos is
+anticipated on a project (tr. 2/144-45). On projects where asbestos problems are
+anticipated, the contractor may already have identified an asbestos abatement contractor
+(id.). The government relies upon the testimony of Ms. Rivera that, in her experience,
+contractors are normally able to retain and mobilize an asbestos subcontractor within
+10 to 15 days (tr. 5/73). However, Ms. Rivera was unable to clarify whether her
+experience involved projects where asbestos was anticipated (tr. 6/86-87). We find
+Mr. Balcazar’s testimony to be more probative than Ms. Rivera’s experience in observing
+contractors retaining abatement subcontractors, and also find that Ms. Rivera’s testimony
+conflicts with her earlier finding that there was merit to RBC’s claim and awarding
+
+                                           13
+102 non-compensable days of delay (R4, tab 90). Thus, we find that RBC was delayed
+beginning on October 4, 2012, and that RBC was not expected to retain an asbestos
+abatement subcontractor within 10 to 15 days.
+
+        The government issued its notice to proceed to RBC on November 20, 2012,
+however, RBC could not apply for the necessary permits until it received amendment 7,
+signed by the Corps just before Christmas and by RBC on December 26, 2012. RBC
+did not retain its subcontractor until January 17, 2013. RBC contends that this delay
+was due to the government of Puerto Rico closing for the holidays, through Three
+Kings Day on January 6, 2013, a point that the government disputes. Neither party
+submitted any official documentation of the Puerto Rican government’s holiday
+schedule. We find that RBC’s testimony is preponderant, especially given Ms. Rivera’s
+prior modification to the contract finding that RBC had been delayed during this period,
+and her concession that there was probably reduced staffing at the Puerto Rican
+environmental office over the holidays (R4, tab 66; tr. 5/154). While the Puerto Rican
+environmental office may have been open to accept RBC’s submission, we find it more
+likely than not, that consideration of RBC’s application would have been delayed until
+after the holiday. Accordingly, we find that RBC was delayed for 116 days, from
+October 4, 2012, to January 27, 2013. Once again, we will address whether the delays
+are compensable at the end of this decision.
+
+      D. OMS Building Change
+
+        RBC asserts that it was delayed by 194 days, from early July 2013 through
+January 18, 2014,2 due to the government’s request to change the layout of the OMS
+building to have the tool room adjacent to the work bay (app. br. at 29-31). According
+to RBC, the design change further held-up the progress of interior work in the
+building. 3 The government asserts that RBC was not delayed in its OMS building
+interior work because it had not “dried-in” the OMS building before the government
+issued the design modification (gov’t resp. br. at 41-42). According to the
+government, RBC could not have begun interior work prior to January 18, 2014
+because it had not completed work on the roof and exterior of the building. Project
+records indicate that RBC’s interior subcontractor, Cordex, did not report to the site
+until December 10, 2013, and they started work on the OMS building roof eaves (R4,
+tab 281 at GR4_7360). Mr. Doran further indicates that interior work did not begin
+prior to February 25, 2014 (app. supp. R4, tab 117 at 16). Thus, we find that the
+
+ 2 RBC’s proposed findings of fact asserts delay through January 17, 2014 (app.
+
+      proposed findings of fact ¶ 263). The actual number of days between July 10,
+      2013 and January 17, or 18, 2014 is 191 or 192.
+3 The government presents a straw-man argument that RBC was alleging delay
+
+      because it could not pour the concrete pad; however, this allegation does not
+      appear in RBC’s claim (R4, tabs 6, 9).
+
+                                          14
+government’s interior changes did not delay the completion of performance. More
+simply put, the building had not been dried-in when the government modified the
+layout of the building. RBC could not have begun interior work prior to drying-in the
+building, so the change did not extend RBC’s performance. RBC was not in a position
+to perform interior work prior to the government’s Modification No. 10 in October
+2013. In fact, its interior subcontractor was not on-site for nearly two months after the
+modification. RBC conceivably could have been delayed by the government’s failure
+to approve the modification until January 17, 2014; however, RBC has not established
+that it was ready to perform interior work prior to that date. Moreover, RBC does not
+allege that it had to perform any rework to the concrete pad or utilities as a result of the
+layout modification. At best, it alleges that it started interior work sometime in
+February, or up to a month and a half after approval of the revised plans.
+
+       E. Delay
+
+       As noted above, we find that RBC has established that it was delayed by
+119 days for the fire cistern, of which 88 days were concurrent with RBC-caused
+delays and 116 days of delay for the asbestos claim. We address whether these days
+were on the critical path and are compensable at the end of this decision. Appeal
+ASBCA No. 59404 is sustained in part.
+
+       III. Kitchen Equipment (ASBCA No. 59962)
+
+        The design of the assembly hall building included a kitchen. The primary
+purpose of the kitchen was to prepare meals for the soldiers and, per the terms of the
+contract, was to be designed and equipped to meet the training mission of the cooks
+who prepared the food (app. supp. R4, tab 38 at 16 ¶¶ 1-6.3.1, tab 113 ¶ 4.2.11.1). To
+facilitate its training mission the kitchen equipment was standardized with the list of
+equipment set forth in the Unified Facilities Criteria Guide so that cooks learning to
+prepare meals would be able to use the same equipment regardless of their mission
+location (tr. 5/36-37).
+
+        The scope of work specifically contemplates RBC’s provision of the design “for
+furniture and some equipment to be purchased and installed by the Government” (R4,
+tab 4 at GR4_316 ¶ 1.1.3). The contract required the delivery of a complete and usable
+facility, and the contractor was required to “provide all labor, materials, equipment,
+supplies, permits, fees, and consultant services to design and construct” the facilities
+(R4, tab 4 at GR4_319 ¶ 1.3.1). The contract contained a table under the heading
+“Contractor Responsibility” that clarified which project equipment would be supplied by
+the government and which equipment would be supplied by the contractor, along with
+which party was to install the equipment (id. at GR4_319-21). Kitchen equipment is not
+listed in the table (id. at GR4_321). However, the table indicates that the government
+will provide items such as furniture and office equipment (id.). In a note to the table, the
+contract stated:
+
+                                            15
+             For purposes of clarification, this RFP identifies parts of the
+             Project for which some responsibility is borne by the
+             Government. The responsibility for some work items
+             addressed elsewhere in the RFP is brought to the
+             Contractor’s attention in the following table. If not identified
+             as Government-furnished in the table below, or elsewhere,
+             all work required by the RFP is the responsibility of the
+             Contractor.
+
+(R4, tab 4 at GR4_320 ¶ 1.3.3) (emphasis added) The only instance where the contract
+documents specifically address furnishing or installing any kitchen equipment is within
+Option B (R4, tab 4 at GR4_71). Option item No. 0013 (Option B) was an option
+under the Contract to be Operations and Maintenance Army Reserve (OMAR) funded
+and awarded within 450 days of Contract award. OMAR funded items are considered
+not to be permanently attached to the construction. Option B listed 18 kitchen
+equipment items to be furnished and installed by the contractor under the option (R4,
+tab 4 at GR4_71-72). Although the contract refers to OMAR funds and Military Army
+Reserve (MCAR) funds, “[t]he funding source has no bearing on the Scope of the
+Work” (R4, tab 4 at GR4_320 ¶ 1.3.2, tab 99 at SGR4_3103 ¶ C-1.2). Option B was
+not awarded to RBC (tr. 1/111). Instead, the government provided for the furnishing
+and installation of the Option B kitchen equipment items (tr. 1/134, 5/40-41).
+
+       The UFC design guideline 4-171-05 “contains design criteria and general
+requirements to be used in the development of designs for new construction and
+additions/alterations of U.S. Army Reserve (USAR) facilities” (app. supp. R4, tab 38
+at 11 ¶ 1-1.1). “The intent of the Guide is to provide a portion of the general
+information and guidance required for the successful preparation of project designs”
+(app. supp. R4, tab 38 at 12 ¶ 1-2.2). However, the UFC does not state which party is
+responsible for furnishing and installing kitchen equipment (tr. 7/83-85).
+
+        Appendix E of UFC 4-171-05 provides the standard kitchen plan and equipment
+list “for inclusion in all Army Reserve training center projects with kitchens” (app.
+supp. R4, tab 38 at 209 ¶ E-1.1). Paragraph E-1.2 of Appendix E lists 45 kitchen
+equipment items and strongly advises the “designer…to obtain a copy of the current
+standard kitchen drawings from the Army Reserve FTP download site...” Appendix E
+does not specify the party responsible for furnishing or installing the kitchen
+equipment (app. supp. R4, tab 38 at 209). Many of the kitchen equipment items
+identified in Appendix E of UFC 4-171-05 are also identified as OMAR kitchen
+equipment items under Option B of the contract (app. supp. R4, tab 38 at 209-10). The
+UFC 4-171-05 requires RBC to provide “receptacles or power connections for
+utilization equipment included in the project as well as equipment furnished by the
+Government” and specifically identifies kitchen equipment as an item that may be
+furnished by the government. “Government furnished utilization equipment may
+
+                                          16
+include (but is not limited to) computers, fax machines... kitchen equipment, computer
+network equipment…” (app. supp. R4, tab 38 at 82 ¶ 3-10.3.2.12 (emphasis added)).
+
+       RJS Barber Associates was hired by RBC’s designer of record (DOR), Harvard Jolly,
+to help with the design and specification of kitchen equipment (tr. 1/130-31). RJS
+Associates is not a kitchen equipment contractor (tr. 1/183). According to the kitchen
+equipment schedule drafted by Harvard Jolly, the kitchen equipment contractor (KEC) was
+required to furnish and install the 45 kitchen equipment items listed in the UFC (R4, tab 101
+at SGR4_3110; app. supp. R4, tab 38 at 209-10). The kitchen equipment schedule also
+addressed items to be furnished and installed by RBC, the general contractor, but did not list
+the general contractor as furnishing any of the 45 kitchen equipment items (R4, tab 101
+at SGR4_3110; app. supp. R4, tab 38 at 209). After it was clear that RBC would not
+perform Option B, Harvard Jolly revised its kitchen equipment schedule and designated that
+the 45 UFC kitchen equipment items are being furnished and installed by the
+“KEC/Government Responsibility.” The revised kitchen equipment schedule did not list
+any of the 45 kitchen equipment items as being furnished by the general contractor
+(app. supp. R4, tab 38 at 209; R4, tab 107 at SGR4_3390, tab 108 at SGR4_3644, tab 109
+at SGR4_3655).
+
+       The contract provides that “design products including, but not limited to, plans,
+specifications, engineering studies and analyses, shop drawings, equipment installation
+drawings . . . are ‘deliverables’ under the contract and are not part of the contract itself.
+Design products must conform with all provisions of the contract, in the order of
+precedence herein” and government approval of a design submittal does not change
+the terms of the contract. (Tr. 1/138; R4, tab 4 at GR4_283 ¶ 1.71)
+
+        Harvard Jolly’s drawing QF-102 Note V provides that: “[t]he general
+contractor shall be responsible for and shall have included in his scope all work
+necessary to properly coordinate and facilitate the installation of all food service
+equipment by the kitchen equipment contractor, including the installation of all related
+items required” (R4, tab 273; tr. 4/33). RBC’s designer of record, Mr. Steve Heiser, of
+Harvard Jolly, testified that Harvard Jolly had identified the party furnishing and
+installing the kitchen equipment as the kitchen equipment contractor as opposed to the
+general contractor based upon his experience in the industry that kitchen equipment is
+generally furnished and installed by a specialized food contractor (tr. 4/31). 4
+Mr. Heiser testified that RBC’s food service specification consultant, RJS/Barber
+Associates, prepared written food service equipment specifications, issued for
+
+
+4 We credit Mr. Heiser’s statements based upon his personal knowledge of Harvard Jolly’s
+
+        work on this contract, but, as discussed below, we do not credit his testimony
+        regarding contractual interpretation.
+
+                                             17
+construction, dated March 12, 2012, which also identified the KEC as furnishing and
+installing the specified equipment (tr. 4/34-35; R4, tab 101 at GR4_3112-14).
+
+        RJS/Barber’s written kitchen food service equipment specifications that were
+issued with its interim design submittal, states: Part I General para. 1.01, “[w]ork
+includes, but is not necessarily limited to, the following” “K.E.C. shall include all
+labor, equipment, parts, accessories specified, delivery and freight charges as required,
+to furnish and set in place all Food Service Equipment specified.” (R4, tab 101
+at GR4_3113-14). Mr. Heiser testified that the food service equipment specification
+was issued for construction and was for the purpose of directing RBC’s KEC to
+purchase, furnish, and install all the kitchen equipment that was shown on the interim
+drawings and written specifications (tr. 4/34-35).
+
+        The first time the kitchen equipment was identified as missing was on July 9-10,
+2014 during a pre-final inspection (tr. 2/133-34, 3/120-21, 6/55; 59404 et al. answer at 3
+¶ 11). The government did not raise the issue of alleged missing kitchen equipment at
+the pre-final inspection. Instead, a representative for the 81st Reserve Support
+Command first raised the issue (tr. 6/56-57). The government and RBC exchanged
+letters following the pre-final inspection regarding the responsible party for providing
+the kitchen equipment (R4, tabs 110-12).
+
+        On August 25, 2014, by letter CPN-C-0078, the government directed RBC to
+install 26 kitchen equipment items, which consisted of the kitchen equipment items
+identified in UFC 4-171-05 “with the exception of the work required to furnish and install
+the equipment items listed in Bid Item 0013 Option B” (R4, tab 112 at SGR4_3671;
+59404 et al. answer at 3 ¶ 10). On September 10, 2014, RBC agreed to provide the
+26 kitchen equipment items, under protest (59404 et al. answer at 3 ¶ 12; app. supp. R4,
+tab 117 at 22-23). Once RBC received the directive to install kitchen equipment, RBC
+began looking for suppliers and manufacturers to procure the equipment. The equipment
+was not available in Puerto Rico and had to be shipped from the continental United
+States. (Tr. 8/141-143) RBC contends that the process of procuring the equipment,
+fabricating, and getting it delivered to Puerto Rico took approximately 10 weeks (app.
+proposed finding of fact ¶ 198; tr. 8/142-43).
+
+                               DECISION ASBCA No. 59962
+
+        RBC seeks recovery of costs incurred in performing what it characterizes as
+extra work, plus 299 compensable days (app. br. at 37). According to RBC, the
+contract was ambiguous with regard to which party was to provide the kitchen
+equipment, and RBC’s interpretation, that it was not required to provide the kitchen
+equipment, should be adopted because it is the only interpretation within the “zone of
+reasonableness” or based on the rule of contra proferentem (app. br. at 31-35). The
+government asserts that the contract, read as a whole, requires RBC to purchase and
+install the kitchen equipment (gov’t resp. br. at 2-8).
+
+                                           18
+        As with any claim involving contract interpretation, we start with the language of
+the contract. TEG-Paradigm Envtl., Inc. v. United States, 465 F.3d 1329, 1338 (Fed. Cir.
+2006). Here, the contract required RBC to “provide all labor, materials, equipment,
+supplies, permits, fees, and consultant services to design and construct” the facilities (R4,
+tab 4 at GR4_319 ¶ 1.3.1). The contract additionally contained a table with the heading
+“Contractor Responsibility” that clarified which project equipment would be supplied by
+the government and which equipment would be supplied by the contractor, along with
+which party was to install the equipment (id. at GR4_319-21). Kitchen equipment is not
+listed in the table (id. at 321). In a note to the table, the contract states that the “RFP
+identifies parts of the Project for which some responsibility is borne by the Government”
+and that if the work is “not identified as Government-furnished in the table below, or
+elsewhere, all work required by the RFP is the responsibility of the Contractor” (R4, tab 4
+at GR4_320 ¶ 1.3.3) (emphasis added). Thus, by the plain terms of the contract, if the
+kitchen equipment is required by the contract, it is RBC’s responsibility to furnish and
+install the equipment, unless some other part of the contract provides that the government
+will furnish the equipment.
+
+        We find that the contract, interpreted as a whole, requires the furnishing and
+installation of the kitchen equipment, both in the contractual language requiring that
+the contractor “provide all labor, materials, equipment, supplies, permits, fees, and
+consultant services to design and construct” the project (id. at GR4_319 ¶ 1.3.1) and in
+the UFC document, incorporated into the contract, which contained the standardized
+equipment list (app. supp. R4, tab 38 at 209). Additionally, we find that no provision
+of the contract states that the government will furnish the kitchen equipment. In fact,
+RBC does not dispute that the only contract provision to specifically address
+furnishing or installing any kitchen equipment is within Option B (R4, tab 4
+at GR4_71-72; app. br. at 32). Thus, we hold that the contract required RBC to furnish
+and install the kitchen equipment.
+
+       RBC cites to numerous contractual documents and provisions that do not
+explicitly state that the contractor is required to furnish and install the kitchen
+equipment as evidence that the contract is somehow ambiguous (app. br. at 31-35).
+As explained above, we do not find the contract ambiguous and reject these arguments.
+See, e.g., ThinkQ, Inc., ASBCA No. 57732, 13-1 BCA ¶ 35,221 at 172,825 (citing
+NVT Technologies, Inc. v. United States, 370 F.3d 1153, 1159 (Fed. Cir. 2004)).
+Admittedly, here, as in any dispute, more precise contractual language could prevent
+misunderstandings; however, we find the contractual language to unambiguously
+require RBC to furnish and install the kitchen equipment. RBC argues that the contract
+requirements for a complete and usable facility do not mandate provision of kitchen
+equipment because a complete and usable facility would also require office furniture
+that RBC was not required to provide (app. reply at 51). However, the contract
+explicitly listed office furniture as government-provided equipment (R4 tab 4
+
+
+                                           19
+at GR4_321). The same table does not require the government to furnish and install
+kitchen equipment.
+
+        RBC additionally relies upon the fact that the final design drawings refer to the
+kitchen equipment as being “Furnished By” and “Installed By” the KEC and government
+as proof that it was not RBC’s responsibility (app. br. at 34-35). As explained above,
+these design drawings initially listed the KEC as responsible for furnishing and installing
+the equipment (R4, tab 101 at SGR4_3110). After the government and RBC were unable
+to reach an agreement with regard to Option B, the government agreed to furnish and
+install the Option B equipment. RBC’s designer reflected this change by noting that
+kitchen equipment would be furnished and installed by “KEC/Government” (R4, tab 107
+at SGR4_3390). However, the design drawings, prepared by the contractor, or the
+contractor’s designer, cannot change the terms of the contract. “Any design products
+including, but not limited to, plans, specifications, engineering studies and analyses, shop
+drawings, equipment installation drawings…are ‘deliverables’ under the contract and are
+not part of the contract itself. Design products must conform with all provisions of the
+contract, in the order of precedence herein” (R4, tab 4 at GR4_283 ¶ 1.71(b)(4)). Even if
+the design drawings were relevant, Harvard Jolly’s drawing QF-102 Note V provides that:
+“[t]he general contractor shall be responsible for and shall have included in his scope all
+work necessary to properly coordinate and facilitate the installation of all food service
+equipment by the kitchen equipment contractor, including the installation of all related
+items required” (R4, tab 273 at supp. ex. GR4_7141; tr. 4/33). Thus, we hold that the
+contract required RBC to furnish and install the kitchen equipment, and, therefore, that
+RBC has not established that the government required it to perform work not required by
+the contract and has not established the existence of a government-caused delay. Appeal
+ASBCA No. 59962 is denied.
+
+       IV. Puerto Rico Sales and Use (IVU) Tax (ASBCA No. 60050)
+
+       Amendment 4 to the contract, effective July 201l, required bidders to include all
+taxes in their bids (R4, tab 131 at GR4_4018-19). RBC submitted its initial proposal
+on July 21, 2011 with a base proposal price of $12,653,000 (app. supp. R4, tab 15
+at 9). RBC’s proposal included a proposed betterment to reduce the contract price by
+the government providing a “pass-through” tax exemption to local Puerto Rico Sales
+and Use Tax (Impuesto a las Ventas y Uso or IVU) (app. supp. R4, tab 15 at 35-38).
+The betterment noted that RBC’s “proposal includes all local taxes as required in
+Amendment No. 004” but that it could pass-through a savings of approximately
+$350,000 to the government if the Puerto Rico Form AS2916.1 was accepted by the
+local authorities (app. supp. R4, tab 15 at 35).
+
+       On August 16, 2011, RBC revised its proposal and did not change its base
+contract price (app. supp. R4, tab 16 at 3). However, RBC presented testimony that,
+subsequent to the government asking RBC to revise its proposal price, RBC removed the
+IVU taxes from its proposal pricing (tr. 3/55). On September 2, 2011, RBC submitted
+
+                                           20
+its final revised proposal, with a revised base contract price of $12,243,000 (R4, tab 130
+at GR4_3988-89). RBC did not include any amounts for IVU taxes in the $12,243,000
+base contract price proposed in its final revised proposal (tr. 3/56; app. supp. R4, tab 18
+at 4, 7). The government awarded the contract to RBC in the amount of $12,356,390 for
+the base contract (R4, tab 3 at GR4_54).
+
+    The contract included clause 52.229-3, FEDERAL, STATE, AND LOCAL TAXES
+(APR 2003), that, at para. (b), required the inclusion of all Federal, State, local taxes,
+and duties (R4, tab 4 at GR4_188-89). At paragraph (h), the Federal Acquisition
+Regulation (FAR) clause provides that the government will “without liability, furnish
+evidence appropriate to establish exemption from any Federal, State, or local tax when
+the Contractor requests such evidence and a reasonable basis exists to sustain the
+exemption” (R4, tab 4 at GR4_189; FAR 52.229-3(h)). The contract also included
+clause 999.229-1, NOTICE OF FEDERAL, STATE, AND LOCAL TAXES -
+CONTRACTS PERFORMED IN PUERTO RICO (R4, tab 4 at GR4_118). RBC cites
+to a November 2006 letter from the Puerto Rico Treasury providing that “all taxable
+items acquired for the official use of all government agencies and instrumentalities of
+the Federal Government, are exempt from the sales and use tax of Subtitle BB of the
+Code” (app. supp. R4, tab 15 at 38).
+
+        During the preconstruction meeting held on August 31, 2012, Mr. Balcazar had a
+conversation with Mr. Castillo, in the presence of Ms. Rivera, concerning RBC obtaining
+an exemption to the IVU sales tax (tr. 1/53-54; app. supp. R4, tab 84 at 1, 6). As reflected
+in the meeting minutes, Ms. Rivera agreed that “there will not be a problem” to provide the
+tax exemption documentation (tr. 3/58; app. supp. R4, tab 84 at 6). However, Ms. Rivera
+cautioned that some contractors and subcontractors were having problems with the
+Departamento de Hacienda not accepting the form (app. supp. R4, tab 84 at 6). Ms. Rivera
+testified for the government that contractors had been experiencing difficulty getting the
+Puerto Rico Treasury to accept tax exemption forms from the federal government’s
+contractors, and that she informed RBC that the Puerto Rican agencies were not accepting
+the letter (tr. 5/78-79).
+
+       Subsequently, Mr. Castillo executed and provided to RBC tax exemption form
+AS 2916.1 regarding a February 1, 2013 transaction for materials purchased by RBC for
+the project (tr. 3/58-59, 5/167; R4, tab 142). Mr. Balcazar testified to his experience,
+both before and after the project, in obtaining IVU tax exemptions for materials
+purchased by a contractor for incorporation into a federal project (tr. 1/56-57). Based on
+Mr. Balcazar’s experience, RBC understood that, when a contractor is seeking tax relief,
+the government verifies the information provided by the contractor, and a document
+asking for the tax relief is provided to the local authorities (tr. 1/55, 5/176). The tax
+exemption form executed by Mr. Castillo for the project, form AS 2916.1, is the same
+form utilized by Mr. Balcazar to successfully obtain exemptions to IVU taxes on other
+federal projects (tr. 1/57; R4, tab 142 at GR4_4160). Other than the one instance with
+Mr. Castillo, the government refused to provide RBC IVU exemption documentation
+
+                                           21
+when requested for subsequent purchases of materials for the project (tr. 3/59, 5/173-74,
+176-77; ASBCA No. 60050 (60050) answer at 7 ¶ 16). As a result, RBC asserts that it
+paid $198,546.11 in IVU taxes for materials purchased for the Project (R4, tab 129).
+
+                                DECISION ASBCA No. 60050
+
+        RBC asserts that it is entitled to $198,546.11 in IVU paid for materials used in
+the project (app. br. at 3-4). RBC bases its argument on FAR 52.229-3(h) which
+provides that the government will furnish evidence to establish exemption from
+federal, state, or local taxes when requested by the contractor, and a “reasonable basis
+exists to sustain the exemption.” FAR 52.229-3(h). RBC additionally asserts that the
+government violated its duty of good faith and fair dealing by refusing to complete the
+Puerto Rican tax exemption form (app. br. at 4-6). The government relies upon
+Modification No. 4 of the contract which informed bidders that “[l]ocal Puerto Rico
+taxes must be included in bid” (gov’t resp. br. at 44-46, citing R4, tab 131
+at GR4_4019). The government argues that there was no violation of the duty of good
+faith and fair dealing where the contract required the inclusion of local taxes in the bid
+(gov’t resp. br. at 46-47).
+
+        Our precedent makes clear that a contractor cannot obtain an adjustment for state
+or local taxes that it did not include in its bid, pursuant to FAR 52.229-3. This is true
+even for later imposed state and local taxes. See, e.g., Professional Services Unified, Inc.,
+ASBCA No. 48883, 96-1 BCA ¶ 28,073 at 140,180. However, RBC does not seek an
+adjustment of the contract price as compensation for taxes that it failed to include in its
+bid; instead, RBC asserts that the government violated FAR 2.229-3(h) by failing to
+furnish evidence that RBC could use to obtain an IVU tax refund. Just as the contractor
+is not entitled to an adjustment for state or local taxes not included in its bid, the
+government is not entitled to an adjustment for state or local taxes not paid by the
+contractor. General Dynamics Corp., ASBCA No. 49339, 97-2 BCA ¶ 29,167
+at 145,031; Northwest Piping, Inc., IBCA No. 2611-A, 89-2 ¶ 21,794 at 109,657-58.
+
+        RBC presented direct testimony from Mr. Balcazar, regarding his experience,
+both before and after the project, in obtaining IVU tax exemptions for materials
+purchased by a contractor for incorporation into a federal project (tr. 1/56-57).
+Mr. Balcazar additionally testified that the tax exemption form executed by Mr. Castillo
+for the project, form AS 2916.1, is the same form that he used to obtain exemptions
+from IVU taxes on other federal projects (tr. 1/57; R4, tab 142 at GR4_4160). RBC
+additionally cites to the minutes of the preconstruction meeting where Ms. Rivera told
+Mr. Balcazar that it would not be a problem for the government to provide the tax
+exemption form (app. supp. R4, tab 84 at 6). Against this testimony, the government
+relies upon the testimony of Ms. Rivera that “contractors had been experiencing
+difficulty getting the Puerto Rico Treasury to accept tax exemption form[s] from the
+federal Government’s contractors” (gov’t resp. br. at 45 (citing tr. 5/79)). We find that
+Mr. Balcazar’s direct testimony of his personal experience, both before and after the
+
+                                            22
+Caguas project, combined with the meeting minutes, outweighs Ms. Rivera’s testimony
+regarding the “difficulty” experienced by other contractors.
+
+       The government additionally cites to Hunt Construction Group, Inc. v. United States,
+281 F.3d 1369 (Fed. Cir. 2002) for the proposition that FAR 52.229-3(h) does not require the
+government to create documents, but only to provide existing information (gov’t resp. br.
+at 46). In Hunt Construction the contractor was building a hospital for the Department of
+Veterans Affairs, and sought compensation for Arizona state taxes for purchases of
+permanent materials by “qualifying hospitals” or their agents. Hunt Construction, 281 F.3d
+at 1371. However, to be eligible for the state tax exemption, the government would need to
+designate Hunt to be a “purchasing agent” of the government. Id. The Federal Circuit
+rejected Hunt’s argument that the contract required the government to designate it as a
+“purchasing agent.” Id. at 1372-73. Thus, we find that Hunt Construction does not excuse
+the government from filling out the Puerto Rico tax exemption form AS 2916.1, because the
+record does not demonstrate that the government would need to designate RBC as a
+purchasing agent to obtain the tax refund.
+
+        For the reasons stated above, we sustain the appeal in ASBCA No. 60050.
+However, this opinion addresses only entitlement and not quantum. The contracting
+officer’s final decision on this claim states that the tax exemption is only available to
+agents or instrumentalities of the government (R4, tab 128 at GR4_3936). In addition,
+the appeal file contains an amendment to the Puerto Rico Treasury Regulations appearing
+to indicate that the tax exemption is only available to “entities that operate or act in the
+name of or on behalf of the Government” and is “not applicable to entities merely for
+having contracts with the Government and that, as part of those contracts, they need to
+acquire taxable items subject to the [sales and use tax]” (R4, tab 132 at GR4_4065).
+These documents were not discussed at the hearing or in the post-hearing briefing. We
+make no findings of fact regarding whether RBC was legally entitled to recover the IVU
+tax, or whether RBC will be able to establish any quantum.
+
+       V. Roofing Claims and Delay (ASBCA No. 60277)
+
+          A. Built-up Roofing at Puerto Nuevo
+
+       Another issue in dispute in this appeal is the government’s ability to review
+submissions approved by RBC’s designer of record. The contract contains FAR
+52.236-21, SPECIFICATIONS AND DRAWINGS FOR CONSTRUCTION
+(FEB 1997). This FAR section defines “Shop drawings” as “drawings, submitted to
+the Government by the Contractor . . . showing in detail (1) the proposed fabrication
+and assembly of structural elements, and (2) the installation (i.e., [form,] 5 fit, and
+attachment details) of materials or equipment” and provides that “[t]he Contracting
+
+
+5 The contract omits the word “form” that is contained in the FAR clause.
+
+
+                                           23
+Officer will indicate an approval or disapproval of the shop drawings and if not
+approved as submitted shall indicate the Government’s reasons therefor” (R4, tab 4
+at GR4_209; FAR 52-236-21(d), (e)). Section 01 33 00 of the contract details the
+submittal procedures (R4, tab 4 at GR4_1195). Subsection 1.2 “Submittals” provides
+that “Government approval is required for submittals with a ‘G’ designation;
+submittals not having a ‘G’ designation are for information only” (id. at GR4_1197).
+The following subsection, 1.3 “Submittal Classification” provides in relevant part:
+
+             1.3.1 Designer of Record Approved (DA)
+
+             Designer of Record (DOR) approval is required for
+             extensions of design, critical materials, any deviations
+             from the solicitation, the accepted proposal, or the
+             completed design, equipment whose compatibility with the
+             entire system must be checked, and other items as
+             designated by the Contracting Officer. Within the terms of
+             the Contract Clause entitled, “Specifications and Drawings
+             for Construction,” they are considered to be “shop
+             drawings.” The Government may review any or all
+             Designer of Record approved submittals for conformance
+             to the Solicitation, Accepted Proposal and the completed
+             design. . . .
+
+             1.3.2 Government Approved –G
+
+             Government approval is required for extensions of design,
+             critical materials, deviations, equipment whose
+             compatibility with the entire system must be checked, and
+             other items as designated by the Contracting Officer.
+             Government approval is required for any deviations from
+             the Solicitation or Accepted Proposal and other items as
+             designated by the Contracting Officer. Within the terms of
+             the Contract Clause entitled, “Specifications and Drawings
+             for Construction,” they are considered to be “shop
+             drawings.”
+
+             1.3.6 Information Only
+
+             Submittals not requiring Government approval will be for
+             information only. For Design-build construction all
+             submittals not requiring Designer of Record or
+             Government approval will be for information only. They
+
+
+                                         24
+              are not considered to be “shop drawings” within the terms
+              of the Contract Clause referred to above.
+
+(Id. at GR4_1197-99) (emphasis added)
+
+        Contract § 07 52 00.00 48 “Modified Bituminous Sheet Roofing” (R4, tab 4
+at GR4_1532-37) provides that UL 790 and UL 1256 “establish minimum requirements
+for materials, systems and execution that may be specified in this Section” (R4, tab 4
+at GR4_1532). The contract section for the built-up roofing requires submittals
+including “1. Product Data: Provide product data for the following: . . . e. Modified
+bitumen sheet” (R4, tab 4 at GR4_1532). The contract section further provides that the
+modified bitumen sheet “shall meet the following requirements: . . . d. Impact
+Resistance. ASTM D 3746, No Damage” (id. at GR4_1534). The contract section lists
+the required submittals of product data, certificates, and records, but not testing data
+(id. at GR4_1532-33).
+
+        The contract section for the built-up roof states under the heading “Warranty”
+that:
+
+              Manufacturer’s No Dollar Limit warranty for the roofing
+              system shall be provided for not less than 20 year [sic] from
+              acceptance of the work. Warranty shall state that
+              manufacturer shall repair or replace defective materials if the
+              roofing system leaks or allows the insulation beneath the
+              membrane to become wet during the period of the warranty.
+
+(R4, tab 4 at GR4_1533-34) Additionally, contract § 01 02 00.00 48 “Part 6
+Architectural and Interior Design” subsection 6.4.3.1 provides that “All roof systems
+shall have 20-year material, finish, and weathertightness warranties. See Outline
+Technical Specifications for required warranty language” (R4, tab 4 at GR4_370).
+The contract required RBC to design for a minimum wind speed of 145 miles per hour
+(R4, tab 4 at GR4_382 ¶ 7.3.2). Contract § 01 02 00.00 48 “Part 6 Architectural and
+Interior Design” subsection 6.4.3 “Roofs” provides that the:
+
+              [r]oofing system shall have a minimum of Underwriters
+              Laboratory (UL) Class A rating for fire resistance, UL 120
+              wind resistance rating, and Factory Mutual (FM) I-120 fire
+              and wind resistance rating. Roof system assembly for this
+              project shall be a complete system, tested and approved in
+              accordance with FM I-120, UL 580, and local building
+              code requirements.
+
+(R4, tab 4 at GR4_369)
+
+
+                                           25
+        On May 20, 2013, RBC submitted its built-up roofing submittal, 07 52 00-1, to
+the government (ASBCA No. 60277 (60277) answer at 4 ¶ 17; R4, tab 152
+at GR4_4359). By the end of May 2013, RBC had all of the required materials on-site
+and was ready to begin installing the built-up roofing system (tr. 4/94). RBC flew-in its
+roofing observer from the United States to begin the installation of the roofing system
+(tr. 4/105-06; app. supp. R4, tab 43 at 2, tab 138 at 1). On June 12, 2013, the
+government informed RBC that the built-up “roofing submittal doesn’t meet the RFP
+requirements and has to be resubmitted and approved before the start of work” (app.
+supp. R4, tab 43 at 4). On June 17, 2013, the government gave RBC’s 07 52 00-1
+built-up roof submittal an E code, rejecting the submittal and requiring resubmission
+(tr. 1/100; R4, tab 152 at GR4_4416-17). Ms. Kathy Sweeton, the USACE Louisville
+District roofing expert, drafted the government comments on RBC’s built-up roofing
+submittal, 07 52 00-1 (tr. 6/182). In comment 1(c) on built-up roofing submittal 07 52
+00-1, the government requested information regarding test reports (R4, tab 152
+at GR4_4417). In comment (1)(g) the government requested that RBC provide
+warranty information. The government additionally requested test results
+demonstrating compliance with ASTM D 3746 (id. at ¶ 1h). In comment (2) the
+government requested wind uplift calculations. Additionally, comment (2) stated the
+design must meet a wind speed of 150+ mph. The government subsequently withdrew
+the comment regarding wind speed (tr. 6/109). The government’s rejection of RBC’s
+submittal was provided 15 days outside of the contractual 14-day government review
+period (tr. 6/10; 60277 answer at 4 ¶ 17; R4, tab 152 at GR4_4416). The government’s
+rejection of 07 52 00-1 caused the construction on the built-up roof to stop (tr. 1/100;
+60277 answer at 5-6 ¶ 19; app. supp. R4, tab 20 at 27).
+
+       On June 14, 2013, resident engineer Maricarmen Crespo wrote to ACO
+Thomas McQuary regarding built-up roofing submittal 07 52 00-1 and “issues on this
+contract due to the interpretation of the Contractor in terms of who is the approving
+authority for submittals.” Ms. Crespo stated that “[s]ince the Contract is not very clear”
+she needed Mr. McQuary’s guidance. (App. supp. R4, tab 43 at 1-2) Mr. McQuary
+responded to Ms. Crespo and stated that her email “warrants re-reading the contract – esp
+specs all related to design responsibilities. The submittal register defines some as govt
+approved, some as DOR approved…” (id. at 1).
+
+       On June 28, 2013, RBC submitted built-up roofing submittal 07 52-00-1.1 to the
+government (R4, tab 162 at GR4_4564). On July 11, 2013, the government gave RBC’s
+07 52 00-1.1 submittal an E code, rejecting the submittal and requiring resubmission (id.)
+Ms. Sweeton again drafted the government’s comments on the built-up roofing submittal
+07 52 00-1.1 (tr. 6/199). Ms. Sweeton commented on issues raised in rejecting the first
+submission, and also new issues not previously raised in her comments on the prior
+submittal, 07 52 00-1 (tr. 6/199-200). Ms. Sweeton commented again regarding the
+impact resistance for bitumen sheet (R4, tab 166 at GR4_4580 ¶ 4, “Please provide
+supporting evidence that the material submitted meet [sic] the specification”).
+Additionally, in comment (6), Ms. Sweeton continued to request warranty information
+
+                                          26
+(id.). On July 10, 2013, RBC submitted built-up roofing submittal 07 52 00-1.2 to the
+government (tr. 1/104-05; R4, tab 167 at GR4_4581). It appears that only the transmittal
+for RBC’s second revised submittal is contained in the Rule 4 file (R4, tab 167
+at GR4_4581). On July 19, 2013, the Government gave RBC’s 07 52 00-1.2 submittal a
+“C” code, conditionally approving the submittal except as noted and requiring
+resubmission (tr. 1/106; R4, tab 168 at GR4_4582).
+
+        In comment (1) on built-up roofing submittal 07 52 00-1.2, Ms. Sweeton
+requested a test report (tr. 6/200; R4, tab 168 at GR4_4582). The government required
+resubmission, providing that “[a] confirmation letter on the Roof Manufacturer’s letter
+head is not acceptable documentation that the roof product complies with ASTM 3746
+Impact Resistant Testing. A test report from an independent laboratory demonstrating
+compliance with ASTM 3746 is needed” (R4, tab 168 at GR4_4582). Mr. Balcazar
+testified for RBC that its submission included a letter stating that the product met the
+impact resistance for ASTM 3746, but that the government would not accept the letter
+and required an independent lab report (tr. 1/106-07). Additionally, in comment (3),
+the government continued to request warranty information (tr. 1/104, 107-08).
+
+        RBC responded to the government’s comments on submittal 07 52 00-1.2 and the
+government acknowledged the built-up roofing submittal as approved on July 19, 2013
+(app. supp. R4, tab 117 at 13). Subsequently, RBC re-coordinated and commenced
+work on August 5, 2013 (app. supp. R4, tab 117 at 13-14). The built-up roofing system
+originally proposed by RBC in its first submittal, 07 52 00-1, is the same system that
+was eventually installed at the Training Center and Assembly Hall building by RBC (tr.
+1/108). In response to Ms. Sweeton’s instruction, RBC changed the designation of the
+built-up roofing submittal in its November 12, 2013 submittal register from for
+information only (FIO) to government approval required (tr. 3/104; app. supp. R4, tab
+120 at 81). Ms. Sweeton did not testify at the hearing. Instead, the government
+presented the testimony of Ms. Colin Mulhall. She testified that she was not a roofing
+specialist and relied upon the work of Ms. Sweeton, in reviewing RBC’s submittals
+(tr. 6/157). After Ms. Mulhall’s deposition, she prepared analyses of RBC’s roofing
+submittals at the request of counsel (tr. 6/118-19, 127; R4, tabs 264, 282-284).
+
+          B. Standing Seam Roofing System
+
+       Also relevant to this appeal is the specification for the standing seam roof on the
+OMS building contained at contract § 07 61 14.00 48 – Hydrostatic (Water-tight)
+Standing Seam Metal Roofing System. Section 07 61 14 identifies the contractually-
+required submittals for the standing seam roof (tr. 6/211; R4, tab 4 at GR4_1559-65).
+RBC’s standing seam roofing submittal required designer of record approval (tr. 6/104,
+107-08, 162-63, 217-18, 220). Prior to November 12, 2013, the submittal register for the
+
+
+                                          27
+project designated the submittal for the standing seam roof at the OMS building,
+07 4113.16, as FIO (app. supp. R4, tab 120 at 30, 81).
+
+        The standing seam roof requirements specify the required submittals and provides
+“5. Closeout Submittals: Warranties and Information Card” (R4, tab 4 at GR4_1565).
+The statement of work, § 01 02 00.00 48 of the contract, ¶ 1.6.1, provides that the “RFP
+Outline Technical Specifications are provided primarily in outline format. They shall be
+utilized as design and submittal criteria, and minimum standards for the corresponding
+construction work, and shall be met or exceeded unless Contractor obtains specific
+Government approval for proposed reductions.” (R4, tab 4 at GR4_322) The section
+further provides ¶ 1.6.3 that “[m]ost of the outline specification sections are adapted from
+typical Government Unified Facility Guides Specifications (UFGS) and reflect Army
+Reserve-approved approaches and products” and that the “[c]ontractor’s final
+specifications may be developed from UFGS, one of the industry prototype specifications
+(such as MasterSpec), or Contractor’s designers’ company specification system. Use of
+UFGS is not required” (R4, tab 4 at GR4_322-33).
+
+        On March 4, 2013, RBC submitted a steel structure standing seam roofing
+material and steel structure joists submittal, 05 21 00-2, to the government (R4,
+tab 171 at GR4_4629). On March 19, 2013, the government gave the 05 21 00-2
+submittal an F code, which means receipt acknowledged (tr. 6/133-34). However,
+RBC’s March 4, 2013 submittal, had a transmittal code (No. 05 21 00-2) indicating
+that it was for the structural steel joists and the support system below the roof
+(tr. 6/133; R4, tab 171 at GR4_4629). The submittal also contained documents
+relating to a standing seam system, but the government never considered the submittal
+to be for the OMS roofing system (tr. 6/134-35). On August 6, 2013, DOR Harvard
+Jolly approved RBC’s standing seam roofing submittal as in “general conformance
+with design concept and general compliance with contract documents” (tr. 4/48-50;
+R4, tab 172 at GR4_4725).
+
+       RBC submitted its standing seam roofing submittal, 07 41 13.16-1, dated
+August 8, 2013, to the government (R4, tab 172 at GR4_4723). On August 19, 2013,
+Ms. Sweeton reviewed RBC’s standing-seam roof submittal, 07 41 13.16-1, and
+“found many deficiencies” based on a “cursory review” and without having “seen the
+specification for this job” (app. supp. R4, tab 44 at 3). On August 22, 2013, the
+government gave RBC’s submittal, 07 41 13.16-1, an E code, disapproving the
+submittal (R4, tab 264 at GR4_6995). Ms. Sweeton drafted the Government’s
+comments on RBC’s submittal, 07 41 13.16.1 (tr. 6/201-02; R4, tab 264
+at GR4_6996). In comment (2) on submittal 07 14 13.16-1, Ms. Sweeton stated that
+the “proper specification” was not used by RBC in its final design and that the “proper
+specification is in the RFP…07 61 14.00 48” (R4, tab 264 at GR4_6996). However,
+the specification for the standing seam roof was not required to be in the final design
+package. Instead, the specification for the standing seam roof was required to be in the
+building envelope package. (Tr. 6/202-03) Specifications for the roofing sections
+
+                                           28
+were part of the building envelope package (tr. 6/105-07). Additionally, in comment
+(3), Ms. Sweeton stated that she would use the “proper specification” to make her
+comments (R4, tab 264 at GR4_6996). The specification for the standing seam roof
+provides that: “[p]ermanent fall arrest systems are required at roof edges whenever
+roof heights exceed 16 feet and building size exceeds 10,000 square feet” (R4, tab 4
+at GR4_1561 ¶ g). The design specifications required that the OMS building be
+between 3,050 and 3,083 square feet (R4, tab 4 at GR4_326 § 1.8.1.2).
+
+       In comment (8) on standing seam roofing submittal 07 41 13. 16-1, Ms. Sweeton
+requested RBC provide fall arrest system information (R4, tab 264 at GR4 6996). In
+comment (14), Ms. Sweeton requested warranty information (id.). The RFP standing
+seam specification § 07 61 14 identified warranties as required “Closeout Submittals”
+and the project was not in close-out (tr. 6/212-13; R4, tab 4 at GR4_1565). Closeout
+submittals are provided at the end of the project (tr. 6/171-72; R4, tab 4 at GR4_1197).
+
+        RBC submitted its standing seam roofing submittal, 07 41 13.16-1.1, dated
+September 6, 2013 (but stamped received by the government on September 10, 2013),
+to the government (R4, tab 176 at GR4_4845). On September 25, 2013, the
+government gave an E code to RBC’s standing seam submittal, 07 41 13.16-1.1,
+disapproving the submittal. Ms. Sweeton again drafted the government’s comments
+on the submittal (tr. 6/12, 215-16; R4, tab 176 at GR4_4846). The government did not
+timely provide comments to RBC regarding standing seam submittal 07 41 13.16-1.1
+because it “thought that this was going to be discuss[ed] internally on [Louisville
+District] before send [sic] anything to the KTR” (app. supp. R4, tab 45 at 2). The
+parties dispute the date that RBC provided the submittal to the government, with RBC
+asserting that it was submitted on September 6, 2013. We find that the government’s
+rejection of RBC’s standing seam submittal, 07 41 13.16-1.1, occurred one day outside
+of the 14-day contractual government review period, based on a September 10, 2013,
+submission (60277 answer at 8 ¶ 25 (compl. ASBCA No. 60277 asserting that the
+document was submitted to the government on September 10, 2013)). In comment (1)
+on submittal 07 41 13.16-1.1, Ms. Sweeton stated that “MasterSpec is not equivalent to
+the Army Reserve Guide Specs” (R4, tab 176 at GR4_4846). In comment (2) on
+submittal 07 41 13.16-1.1, Ms. Sweeton stated that the Army Reserve guide
+specifications required that the standing seam roof be approved by the government
+(id.).
+
+       On November 1, 2013, RBC submitted its standing seam roofing submittal,
+07 41 13.16-1.2 (R4, tab 179 at GR4_4894). On November 12, 2013, the government
+gave RBC’s submittal, 07 41 13.16-1.2, an E code, disapproving the submittal (R4,
+tab 179 at GR4_4895). Ms. Sweeton drafted the government’s comments on the
+submittal (tr. 6/220-21). In comments 3(a) through (j), Ms. Sweeton continued to
+request warranty information (R4, tab 179 at GR4_4895). In response to Ms. Sweeton’s
+instruction, RBC changed the designation of the standing seam roofing submittal in its
+
+
+                                          29
+November 12, 2013 submittal register from FIO to government approval required
+(tr. 3/104; app. supp. R4, tab 120 at 81).
+
+        On December 16, 2013, RBC submitted standing seam roofing submittal
+07 41 13.16-1.3 (R4, tab 184 at GR4_5088). On January 8, 2014, the government gave
+RBC’s 07 41 13.16-1.3 submittal a “C” code, meaning conditional approval, and stated
+that the “contractor’s responses to the Government shall be submitted NLT the
+preparatory meeting, otherwise work will not be allowed to start” (R4, tab 184
+at GR4_5089-90). The government’s response to RBC’s 07 41 13.16-1.3 submittal
+occurred 9 days outside of the 14-day contractual government review period (tr. 6/25-26;
+R4, tab 184 at GR4_5088). Additionally, Ms. Sweeton continued to request warranty
+information (tr. 6/221; R4, tab 184 at GR4_5089).
+
+        On January 14, 2014, RBC submitted standing seam roofing submittal 07 41
+13.16-1.4 (R4, tab 187 at GR4_5119). From January 27, 2014, to February 24, 2014,
+the government internally discussed that Ms. Sweeton’s comments on standing seam
+roofing submittal 07 41 13.16-1.4 were overdue (app. supp. R4, tab 48). On
+February 26, 2014, the government gave RBC’s 07 41 13 16-1.4 submittal a “C” code
+and provided comments (R4, tab 187 at GR4_5120). The government response to
+RBC’s 07 41 13.16-1.4 submittal was provided 29 days outside of the 14-day
+contractual government review period (tr. 6/28-29; R4, tab 187 at GR4_5119-20). The
+OMS standing seam roofing system was at a stop, due to the government’s comments
+on RBC’s submittals (app. supp. R4, tab 20 at 29, 31, 33, 35, 37, 40). On February 28,
+2014, RBC began working on the underlayment of the standing seam roofing system
+(tr. 8/140; app. supp. R4, tab 137 at 4).
+
+          C. Other Claims and Delay
+
+       RBC’s claim that was appealed in ASBCA No. 60277, revised its claims
+regarding the design review process with regard to the cistern, building facade, and
+discovery of asbestos previously discussed in its claim appealed in ASBCA No. 59404
+and the kitchen equipment claim previously included in its claim appealed in ASBCA
+No. 59962. The claim asserted entitlement to 566 calendar days of delay and
+$3,418,521.95 in delay costs (R4, tab 147 at GR4_4242, 4253). The facts relevant to
+these issues were addressed above. RBC’s allegations pertaining to the calculation of
+the number of days of delay are addressed at the end of this opinion.
+
+                               DECISION ASBCA No. 60277
+
+        RBC’s claim included updates to its previously filed claims regarding the design
+review delays, training building facade, asbestos fuel line, and OMS building change
+asserted in ASBCA No. 59404; and updates to its kitchen equipment claim asserted in
+ASBCA No. 59962. These updates were considered above, and are not further addressed
+in this section. RBC additionally raised new claims regarding the built-up roofing on the
+
+                                          30
+Puerto Nuevo site and the standing seam roofing system for the OMS building.
+(R4, tab 147)
+
+       A. Built-up Roofing, Puerto Nuevo
+
+        Both of the roofing claims depend on contractual provisions regarding government
+approval of the roofing designs. RBC asserts that the roofing submittals only required
+approval by its designer of record and that the government’s comments, in addition to
+being untimely, were beyond the scope of the contract (app. br. at 22-23). The
+government contends that it has the right to “review, approve or reject non-compliant
+submittals” and that “delays incident to the submission of non-complaint submittals,
+whether previously approved by its DOR or not, are attributable to RBC” (gov’t resp. br.
+at 21).
+
+        As always, we start our analysis with the terms of the contract. TEG-Paradigm
+Envtl., 465 F.3d at 1338. As set forth in more detail above, the contract contains
+FAR 52.236-21, “SPECIFICATIONS AND DRAWINGS FOR CONSTRUCTION
+(FEB 1997), that contains a definition of the term “Shop drawings” (R4, tab 4
+at GR4_209; FAR 52-236-21(d), (e)). The contract provides that “Government
+approval is required for submittals with a ‘G’ designation; submittals not having a ‘G’
+designation are for information only” (id. at GR4_1197). However, the contract also
+provides that “[t]he Government may review all Designer of Record approved
+submittals for conformance to the Solicitation, Accepted Proposal and the completed
+design” and that “[f]or Design-build construction all submittals not requiring Designer
+of Record or Government approval will be for information only. They are not
+considered to be ‘shop drawings’ within the terms of the Contract Clause referred to
+above” (id. at GR4_1197-99) (emphasis added).
+
+       Read as a whole, we find that the contract clearly provided the government
+with the right to review designer of record approved submittals for conformance to
+the solicitation, RBC’s proposal, and the completed design (id. at GR4_1198).
+Section 1.3.1, Designer of Record Approved, providing that, “The Government may
+review any or all Designer of Record approved submittals for conformance to the
+Solicitation, Accepted Proposal and the completed design.”).
+
+        RBC contends that the contract is ambiguous regarding the approving authority
+because the technical sections regarding roofing provide for designer of record
+approval, and not government approval, and the inclusion of FAR 52.236-21 providing
+that the contracting officer can approve shop drawings, creates a latent ambiguity (app.
+br. at 18). RBC then contends that its interpretation should prevail based upon the rule
+of contra proferentem (id.). RBC cites to conduct of the parties including the fact that
+the government did not tell RBC that it would review the roofing submittals and a
+statement by resident engineer Ms. Crespo that the “contract is not very clear”
+
+
+                                          31
+regarding review of the submittals as proof of ambiguity (app. br. at 19-20).
+We disagree.
+
+       As noted above, the contract specifically provides that the government may
+review designer of record approved submittals, and RBC has given us no good reason to
+ignore this clear contractual text. Moreover, even if RBC were to rely on section 1.2
+providing that “submittals not having a ‘G’ designation are for information only,” the
+subsection regarding for information-only submittals provides that, for design-build
+contracts, such as the contract here, “all submittals not requiring Designer of Record
+or Government approval will be for information only” (R4, tab 4 at GR4_1197-99).
+As the submittals in dispute required designer of record approval they do not qualify
+as “for information only” submittals pursuant to the contract. Having determined that
+the government was permitted to review the designer of record submissions, we next
+review the government’s comments to determine if they were within the scope of the
+contract, RBC’s proposal and the design.
+
+        As noted above with regard to RBC’s design review claim, we hold that the
+government was required to provide its comments within 14 days. ADT Constr. Grp.
+ 09-2 BCA ¶ 34,200 at 169,085. RBC established that the government provided its
+comments on the initial built-up roofing submittal 29 days after submission (60277 answer
+at 4 ¶ 17; R4, tab 152 at GR4_4417, submitted May 20, 2013, disapproved June 18, 2013).
+Thus, the government responded 15 days beyond the time permitted by the contract.
+
+        RBC additionally alleges that the government’s review of the submission went
+beyond the terms of the contract and required test reports and design calculations that
+were not required by the contract (app. br. at 24-25). In response, the government
+relies upon the testimony of Mr. Steve Heiser, the architect of record for RBC’s
+Designer of Record, Harvard Jolly, Contracting Officer’s Representative Ms. Colin
+Mulhall and documents prepared by Ms. Mulhall evaluating RBC’s claim (gov’t resp.
+br. at 22-25). However, the government’s opposition suffers from serious weaknesses.
+First, regarding Mr. Heiser, he admitted during cross-examination at the hearing that
+he did not have personal knowledge of the contractual requirements of the
+government’s review and was basing his testimony on documents provided to him by
+the government after his deposition (tr. 4/42-44). Mr. Heiser did not have a copy of
+the contract at issue in this appeal and based his testimony regarding the timeliness of
+government comments on his experience with Florida state construction contracts
+(tr. 4/50-53).
+
+       Regarding Ms. Mulhall’s testimony, she testified that she was not a roofing
+specialist and relied upon the work of another government employee, Ms. Kathy Sweeton,
+in reviewing RBC’s submittals (tr. 6/157). After Ms. Mulhall’s deposition in these
+appeals, she prepared analyses of RBC’s submittals at the request of counsel (tr. 6/118-19,
+127; R4, tabs 264, 282-284). We find that Ms. Mulhall’s documents have no evidentiary
+value as she lacks personal knowledge of Ms. Sweeton’s review of the submittals and
+
+                                          32
+because the documents were not prepared in the ordinary course of business, but were
+prepared for purposes of litigation by a fact witness. See, e.g. FED. R. EVID. 803.6
+
+        RBC contends that the government went beyond the terms of the contract in
+rejecting its first built-up roofing submission by requiring that RBC provide test
+reports, warranty information, and design calculations not required by the contract, and
+also by requiring RBC to design to a higher wind speed calculation than specified in
+the contract (app. br. at 23). RBC also alleges that the government went beyond the
+terms of the contract in reviewing the second built-up roofing submission by requiring
+warranty information not required by the contract and by raising new concerns not
+raised in the review of the first submission (app. br. at 23). Additionally, RBC
+contends that the government’s conditional approval of RBC’s third built-up roofing
+submission required RBC to resubmit the submission, again requesting test reports and
+warranty information not required by the contract (app. br. at 23-24).
+
+       We start with contract § 07 52 00.00 48 “Modified Bituminous Sheet Roofing”
+(R4, tab 4 at GR4_1532-37). In rejecting RBC’s first built-up roofing submission, the
+government stated that the RFP required “c) A system which has been tested by UL
+790 and UL 1256” (R4, tab 152 at GR4_4417). In fact, the built-up roofing section
+provides that UL 790 and UL 1256 “establish minimum requirements for materials,
+systems and execution that may be specified in this Section” (R4, tab 4 at GR4_1532).
+The contract section lists the required submittals of product data, certificates, and
+records, but not testing data (id. at GR4_1532-33). The government cites to the
+submittals section of the contract, § 01 33 00, and cites the definition of a test report as
+support for the requirement of a test report (R4, tab 263 at GR4_6986). However, the
+government does not cite any language in § 07 52 00.00 48 requesting a test report as a
+deliverable. We find that the contract did not require RBC to provide test reports for
+the built-up roofing.
+
+       RBC next cites to the government’s rejection of RBC’s first built-up roofing
+submission stating that RBC was required to provide “a 20 year No Dollar Limit
+Watertightness warranty which begins at the acceptance of work” (R4, tab 152
+at GR4_4417, comment 1g). The contract section for the built-up roof states under the
+heading “Warranty” that “Manufacturer’s No Dollar Limit warranty for the roofing
+system shall be provided for not less than 20 year [sic] from acceptance of the work.
+Warranty shall state that manufacturer shall repair or replace defective materials if the
+roofing system leaks or allows the insulation beneath the membrane to become wet
+during the period of the warranty” (R4, tab 4 at GR4_1533-34). Additionally, contract
+§ 01 02 00.00 48 “Part 6 Architectural and Interior Design” subsection 6.4.3.1
+provides that “[a]ll roof systems shall have 20-year material, finish, and
+
+6 Though the Board’s rules do not strictly require us to follow the Federal Rules of
+
+       Evidence, they provide guidance, see Board Rule 10(c), which we decline to
+       depart from here.
+
+                                            33
+weathertightness warranties. See Outline Technical Specifications for required
+warranty language” (R4, tab 4 at GR4_370). Although not listed as a submittal in the
+built-up roof section, the warranty provision of the built-up roofing section clearly
+contemplates that the contractor will provide evidence of the existence of the warranty,
+and requires specific language (id. at GR4_370, 1533-34). We find that the
+government acted within the scope of the contract in requesting a copy of the
+warranty.
+
+       RBC additionally, argues that the government improperly required RBC to design
+the roof for 150 miles per hour winds and further submit wind uplift calculations (app. br.
+at 23). The government concedes that the contract required the design for 145 miles per
+hour, rather than 150 miles per hour wind, but contends that this error was quickly
+corrected and did not result in any delay (gov’t resp. br. at 23, n.7). We find that the
+government comment went beyond the contract, but find that RBC has not identified any
+delay attributable to the comment. With regard to the wind uplift calculations, the
+government cites to contract § 01 02 00.00 48 “Part 6 Architectural and Interior Design”
+subsection 6.4.3 “Roofs” which requires the roofing system to comply with the
+Underwriters Laboratory and Factory Mutual wind uplift standards (R4, tab 4
+at GR4_369). We find that the uplift calculations were required by the contract.
+
+        On June 28, 2013, 10 days after the government rejected RBC’s first built-up
+roofing submittal, RBC submitted its revised built-up roofing submittal 07 52 00-1.1
+(R4, tab 162 at GR4_4564). On July 11, 2013, the government again rejected RBC’s
+submittal (id. at GR4_4565). The government’s comments repeated issues that had not
+been corrected from the first rejection of the submittal, including the request for
+warranty information, and raised new concerns (id.). As discussed above, we find that
+RBC was required to provide warranty information, and further find that the
+government did not request information beyond the scope of the project in the second
+rejection of RBC’s built-up roofing submittal. Although there was some discussion of
+the warranty information that was provided, RBC does not contend that this
+information met the requirements of the contract.
+
+        On July 10th (the day before the government’s July 11th rejection of the earlier
+submission) RBC submitted its second revised built-up roofing submittal, 07 52 00-1.2,
+to the government (R4, tab 167). On July 19, 2013, the government conditionally
+accepted the submission, with comments and requiring resubmission (id.). RBC
+contends that two of the government’s three comments were beyond the scope of the
+contract (app. br. at 23-24). One of the government’s comments again requested a copy
+of the warranty (R4, tab 168). For the reasons stated above, we find that this request
+was not beyond the terms of the contract.
+
+       The government’s other comment challenged by RBC required a “test report from
+an independent test laboratory demonstrating compliance with ASTM 3746” or a change
+in the materials to provide more impact resistance (R4, tab 168). The contract section for
+
+                                          34
+the built-up roofing requires submittals including “1. Product Data: Provide product data
+for the following: . . . e. Modified bitumen sheet” (R4, tab 4 at GR4_1532). The contract
+section further provides that the modified bitumen sheet “shall meet the following
+requirements: . . . d. Impact Resistance. ASTM D 3746, No Damage” (id. at GR4_1534).
+The government raised this issue when it rejected RBC’s first submittal (R4, tab 152
+at GR4_4417 ¶ 1.h) and RBC’s first revised submittal (R4, tab 166 at GR4_4580 ¶ 4,
+“[p]lease provide supporting evidence that the material submitted meet [sic] the
+specification”). It appears that only the transmittal for RBC’s second revised submittal,
+rather than the entire submittal, is contained in the Rule 4 file (R4, tab 167). The
+government conditionally accepted the second revised submittal, but required
+resubmission, providing that “[a] confirmation letter on the Roof Manufacturer’s letter
+head is not acceptable documentation that the roof product complies with ASTM 3746
+Impact Resistant Testing. A test report from an independent laboratory demonstrating
+compliance with ASTM 3746 is needed” (R4, tab 168 at GR4_4582). Mr. Balcazar
+testified for RBC that its submission included a letter stating that the product met the
+impact resistance for ASTM 3746, but that the government would not accept the letter
+and required an independent lab report (tr. 1/106-07).
+
+         The contract requires “product data” for the modified bitumen sheet and provides
+that it should satisfy ASTM D 3746 with no damage (R4, tab 4 at GR4_1532-34). The
+contract does not require independent laboratory test results. Here, the letter does not
+appear to be in evidence but based on the testimony in the record, we see no basis for the
+government rejecting the product data provided by RBC. Ms. Mulhall indicated in her
+analysis of Ms. Sweeton’s comments that RBC relied upon a letter stating that the
+roofing system showed no damage when tested, but that the letter included no test results
+or documentation supporting this statement (R4, tab 283 at GR4_7636). As noted
+above, we give no evidentiary weight to Ms. Mulhall’s statements, and, to the extent
+Ms. Mulhall is providing an interpretation of the contract, we perform a de novo
+analysis. Even assuming the truth of Ms. Mulhall’s statements, they would not provide a
+basis for requiring independent laboratory test results when the contract simply requires
+“product data.”
+
+       RBC additionally asserts that it is entitled to recover damages for additional
+work related to the built-up roof (app. br. at 25). However, RBC did not assert a claim
+for additional costs of performance for the built-up roof (R4, tab 147). As a claim for
+additional work related to the built-up roof was not presented to the contracting officer
+for a decision, we lack jurisdiction to entertain RBC’s claim for additional costs of
+performance. M. Maropakis Carpentry, Inc. v. United States, 609 F.3d 1323, 1327
+(Fed. Cir. 2010). Thus, we find that RBC has established 15 days of delay for
+extended review time, plus 31 days of concurrent delay from June 18, 2013, to July 19,
+2013, due to the government’s requests for test results not required by the contract in
+approval of the roofing submissions.
+
+
+                                           35
+      B. Standing Seam Roofing System
+
+        RBC alleges that the government delayed installation of the standing seam roof
+by failing to respond to submissions within 14 days, by requiring a fall-arrest system
+not required by the contract, by requiring it to use the UFGS software rather than
+MasterSpec, by changing the approval authority to require government approval, and
+requiring warranty information (app. br. at 21-25). In response, the government again
+relies upon the testimony of Mr. Heiser, and Ms. Mulhall and documents prepared by
+Ms. Mulhall, on direction of counsel, evaluating RBC’s claim (gov’t resp. br. at 22-25).
+For the reasons stated above, we find that the documents prepared by Ms. Mulhall are
+not entitled to evidentiary weight.
+
+       As discussed above, we find that the contract required that the government
+review submissions within 14 days. Here, RBC demonstrated that the government
+took 15 days to review RBC’s first revised standing seam roofing submission, one day
+longer than permitted by the contract (R4, tab 176 at GR4_4845). The government
+took 23 days to provide comments on RBC’s third revised standing seam roof
+submittal, nine days longer than permitted by the contract (R4, tab 184). The
+government took 43 days to respond to RBC’s fourth revised standing seam roof
+submittal, 29 days longer than permitted by the contract (R4, tab 187). Thus, the
+government was responsible for 39 days of delay by responding late to RBC’s
+submissions. ADT Constr. Grp., 09-2 BCA ¶ 34,200 at 169,085.
+
+        RBC contends that the government improperly compared RBC’s submissions
+against the contract specifications rather than against RBC’s specifications. RBC
+contends that the government improperly required it to provide a fall arrest system
+(app. br. at 27). The specification for the standing seam roof provides that:
+“[p]ermanent fall arrest systems are required at roof edges whenever roof heights
+exceed 16 feet and building size exceeds 10,000 square feet” (R4, tab 4 at GR4_1561
+¶ g). However, the design specifications required that the OMS building be between
+3,050 and 3,083 square feet (id. at GR4_326 § 1.8.1.2). Thus, we find that the fall
+arrest system was not required by the contract.
+
+       RBC contends that the government delayed its performance by rejecting its
+standing seam roof submittal for failure to provide warranty information when the
+warranty information was not required until close-out (app. br. at 28). The standing
+seam roof requirements specify the required submittals and provides, “5. Closeout
+Submittals: Warranties and Information Card” (R4, tab 4 at GR4_1565). Thus, we
+find that the government improperly requested warranty information before it was due
+pursuant to the contract.
+
+       RBC submitted a revised standing seam roof submittal that the government
+again rejected. RBC contends that the government improperly forced RBC to use the
+UFGS and not MasterSpec, which was permitted by the contract (app. br. at 27-28). In
+
+                                          36
+rejecting the submission, the government stated that: “MasterSpec is not equivalent to
+the Army Reserve Guide Specs. This product has been rejected before because it did
+not meet the AR Metal Roof Guide Spec.” (R4, tab 284 at GR4_7368, comment 1).
+The statement of work, § 01 02 00.00 48 of the contract, ¶ 1.6.1, provides that the
+“RFP Technical Specifications are provided primarily in outline format. They shall be
+utilized as design and submittal criteria, and minimum standards for the corresponding
+construction work, and shall be met or exceeded unless Contractor obtains specific
+Government approval for proposed reductions” (R4, tab 4 at GR4_322). The section
+further provides ¶ 1.6.3 that “[m]ost of the outline specification sections are adapted
+from typical Government Unified Facility Guides Specifications (UFGS) and reflect
+Army Reserve-approved approaches and products” and that the “[c]ontractor’s final
+specifications may be developed from UFGS, one of the industry prototype
+specifications (such as MasterSpec), or Contractor’s designers’ company specification
+system. Use of UFGS is not required” (R4, tab 4 at GR4_322-23). Thus, the contract
+does not require that a contractor use UFGS, but the contractor must comply with the
+contract specifications that are mostly derived from the UFGS. Here, RBC does not
+demonstrate that it was forced to perform additional effort to rework submissions in
+UFGS or that it was required to do anything not required by the contract. We read the
+government’s statement that “MasterSpec is not equivalent to the Army Reserve Guide
+Specs” as simply explaining that RBC must comply with the contract even if
+MasterSpec permits a different design. We see no nexus between the government’s
+statement and any delay or additional cost to RBC.
+
+       RBC complains of the fact that the government directed it to change the
+approval authority on the submittal log for the standing seam roofing submittal from
+“for information only,” to “government approval” (app. br. at 28). Witness testimony
+indicated that Ms. Sweeton directed the change in the submittal register to require
+government review, and provided no contractual basis for the change (tr. 3/104). As
+discussed above, the government had the right to review submittals requiring designer
+of record approval, but the government was not the approval authority. RBC has
+established that the government did not comply with the contract, but does not
+establish a nexus between the government’s change of the proper authority on the
+submittal register and a delay to the project.
+
+       RBC submitted an additional standing seam roofing submittal that was
+conditionally accepted, but requiring corrections that necessitated the fourth submittal.
+The government again raised the warranty information issue with both submittals.
+As noted above, we find that the warranty information was required to be a close-out
+submittal. However, the fact that the warranty information was still being requested
+following the conditionally accepted submittal demonstrates that the request did not
+delay RBC’s performance of the contact (R4, tab 283 at GR4_7635). Once again,
+RBC asserts that it is entitled to recover damages for additional work related to the
+built-up roof (app. br. at 29). However, RBC did not assert a claim for additional costs
+of performance for the built-up roof (R4, tab 147). As the claim was not presented to
+
+                                           37
+the contracting officer for a decision, we lack jurisdiction to entertain RBC’s claim for
+additional costs of performance. M. Maropakis Carpentry, 609 F.3d at 1327.
+
+       In summation, we find that RBC has established 39 days of delay.
+
+       C. Other Claims and Delay
+
+      As noted above, we find that RBC has established 15 days of delay, and
+31 additional days of concurrent delay, related to the late review of the built-up roofing
+submittals and 39 days of delay in the review of the standing seam roofing submittal.
+We address whether these delays were on the critical path and whether they were
+compensable at the end of this decision. ASBCA No. 60277 is sustained in part.
+
+       VI. Close-Out Claims (ASBCA No. 60851)
+
+        RBC’S final claim includes a number of contract close-out issues, including
+what RBC characterizes as additional kitchen features, close-out work, work required
+after acceptance of the facility, additional turf establishment, improper deductions and
+refusal to pay, and interest on the improper deductions.
+
+        A. Additional Kitchen Features
+
+        A final inspection was conducted on March 9-10, 2015 (app. supp. R4, tab 10
+¶ 14). The government accepted the project as substantially complete except for the
+kitchen in the assembly hall building, as of March 10, 2015 (59494 et al. answer at 4
+¶ 14; R4, tab 234). The government did not accept the kitchen in the assembly
+building as complete due to non-compliant and/or missing equipment; specifically, a
+ventilation hood, hot water sanitation equipment, and anchoring of stainless steel
+tables (59404 et al. answer at 5 ¶ 18). The government conducted a pre-final
+inspection of the project from July 9, 2014, to July 11, 2014 (R4, tab 113
+at GR4_3675). The RFP at Appendix E-l.l contained a standard kitchen equipment
+plan and UFC equipment list of kitchen equipment for “inclusion in all Army Reserve
+training center projects with kitchens” (R4, tab 99 at GR4_3105-06). RBC asserts that
+the government required additional changes from its approved design (app. reply br.
+at 53-54). The standard kitchen equipment list specifically includes a ventilation hood
+and a sanitizing booster heater (R4, tab 99 at GR4_3106, items 15-16). Moreover, the
+RJS Barber food service specifications note that the contractor was to “set in place per
+manufacturer’s standard specifications” the stainless steel tables (R4, tab 101
+at GR4_3157; tr. 5/49-50). Any changes to the standard kitchen equipment were
+required to be approved by the ACSIM­ODR project officer (R4, tab 99 at GR4_3101
+§ 4-2.11.1). No Kitchen Equipment changes were ever requested by RBC or permitted
+(tr. 3/195, 5/35-36). In RBC’s opinion, the kitchen equipment that was specified was a
+“Ford and we gave you a Cadillac” (tr. 1/138). After a final inspection of the kitchen
+
+
+                                           38
+in the assembly building on July 14, 2015, the government accepted the kitchen as of
+that date (R4, tab 234).
+
+        B. Additional Work Imposed for Final Acceptance Inspection (Close-out Work)
+
+       RBC contends that the government forced it to perform additional work that
+was not part of RBC’s contractual requirements, but which the government
+characterized as “punch list” work. RBC contends that it performed the additional
+work under protest in order to get the government to proceed with the final inspection.
+RBC contends that the additional work increased the direct costs incurred by RBC and
+its subcontractors by $47,864.39 (tr. 3/156-57, 159-60; R4, tab 196 at GR4_5332-33;
+app. br. at 39). The Unified Facilities Criteria, at specification 4-3.9.12, requires the
+contractor to furnish and install an air compressor (app. supp. R4, tab 38 at 160). The
+Unified Facilities Criteria section 4-2.35.4 provides that the physical readiness training
+room should have a “classroom lockset” (app. supp. R4, tab 38 at 137-38; tr. 4/147).
+
+       RBC installed additional screening shrubs for water heaters and condensing
+units, which RBC contends were not required by the contract (tr. 3/159-60, 4/143-45;
+app. br. at 38). Section 5.7.7 of the contract, “Screening” required the contractor to:
+
+              Screen undesirable views such as, but not limited to
+              service areas, mechanical equipment, trash enclosures, etc.
+              from within and outside of project site by the use or
+              combination of mass plantings, earthen berms and
+              architecturally compatible fencing and walls matching
+              facility architecture and materials.
+
+(R4, tab 4 at GR4_362; tr. 5/83)
+
+        The government additionally required the installation of an edge strip at the PV
+array, solar water heaters, and the OMS perimeter fence, which RBC contends was not
+required by the contract (tr. 3/157-58, 4/142-43). Section 5.9 of the contract
+“Miscellaneous” subsection “5.9.1 Edger” required that, “[s]hrub & perennial beds
+adjacent to turf areas and landscape maintenance strips shall include a metal edging
+system” (R4, tab 4 at GR4_364; tr. 5/83).
+
+       The government required that RBC install steel corner guards at the OMS
+building, which RBC contends was unnecessary additional work and expense because
+the precast concrete walls exceeded the minimal lateral load and would resist impact
+and because RBC’s design included bollards that RBC contends would adequately
+protect the corners at issue (tr. 4/145-47). Section 7.3.7 of the contract “Impact
+Loads” required:
+
+
+                                           39
+              In addition to protecting exterior maintenance bay door
+              jambs with bollards, the wall construction of the door
+              jambs shall be designed for a minimum lateral load of
+              8,000 lb. (factored level) applied at a distance of 4’-0”
+              above the finished floor, to account for unintended vehicle
+              impact. Corners of such jamb walls shall be protected with
+              steel angles or built-up plates with headed studs embedded
+              into the concrete or masonry. Wall construction of such
+              jambs shall be designed to span from floor to anchorage
+              into roof or floor diaphragm.
+
+(R4, tab 4 at GR4_382; tr. 5/84)
+
+        RBC contends that the government required the installation of motion sensors
+at entrance doors in the assembly hall and training center, which were not required by
+the contract (tr. 4/148). RBC additionally contends that the government required a
+door hardware modification at the physical readiness room that was not required by
+the contract (app. proposed findings of fact ¶ 204). Section 6.4.7.1.1 of the contract,
+“Hardware” required that the contractor:
+
+              Provide two electrified entrance doors at each building
+              consisting of the following minimum hardware: Double
+              doors shall have a removable mullion, each leaf shall have
+              a closer, hinges (1/2 pair electric), overhead stops, offset
+              pulls and full weather strip. Locking devices shall consist
+              of one leaf with Electric Latch Retraction Rim Exit Device
+              and one leaf with Night Latch Function. Single doors shall
+              consist of a closer, hinges, overhead stops, offset pulls and
+              full weather strip. Locking devices shall consist of Night
+              Latch Function Rim Exit Device and electric strike.
+
+(R4, tab 4 at 372; tr. 5/84)
+
+         C. Additional Work Imposed After Acceptance Inspection
+
+        RBC’s claim asserts entitlement to $279.62 for purportedly additional work
+required after final inspection. Specifically, the claim asserts that it was required to
+provide a card reader programmer at a cost of $189 and an additional mirror over the sink
+in the training center male bathroom at a cost of $90.62. (R4, tab 196 at GR4_5334)
+
+         D. Additional Turf Establishment
+
+       RBC was required to install turf and native grasses and maintain the turf and
+grasses by watering and other measures during the establishment period of 12 months
+
+                                           40
+(R4, tab 4 at GR4_361). On September 30, 2014, RBC notified the government that it
+had seeded the site and would begin the turf establishment period (app. supp. R4, tab 67
+at 2). On May 12, 2015, the local authority issued a press release regarding a drought
+in Puerto Rico and instructed citizens not to use water improperly and to avoid watering
+plants (id. at 2, 5-9). RBC contends that it performed the required maintenance of the
+turf, such as weeding, mowing, and trimming (id. at 2), but was unable to water the
+grass properly during the drought which prevented the turf from being properly
+established (tr. 4/150, 154-55; app. supp. R4, tab 67 at 2). The government presented
+witness testimony that RBC had stopped watering the grass before the alleged
+restrictions started (tr. 5/89-90).
+
+       RBC cites to a May 12, 2015, Spanish language press release from the Puerto Rican
+government with a translated title of “What you shouldn’t do prior to rationing” and
+providing that residents should “avoid unnecessary activities like daily watering of plants
+or car wash” and “avoid excessive mowing of grass. A taller grass protects the roots and
+preserves soil humidity” (app. supp. R4, tab 67 at 5-6). The Puerto Rican government
+requested that its residents be conscientious with their water use and recommended
+watering their grass every other day (tr. 5/89, 6/64). The restrictions started in May-June-
+July 2015 (tr. 5/89). There was never a direction not to water, (tr. 5/89) and the facility
+always had a water supply (tr. 5/89).
+
+       The contract includes FAR 52.249-10 providing that “[t]he Contractor’s right to
+proceed shall not be terminated nor the Contractor charged with damages . . . if (1)
+The delay in completing the work arises from unforeseeable causes beyond the control
+and without the fault or negligence of the Contractor. Examples of such causes
+include (i) acts of God. . . .” The FAR provision additionally requires that the
+contractor “within 10 days from the beginning of any delay . . . notif[y] the
+Contracting Officer in writing of the causes of delay.” (R4, tab 4 at GR4_218)
+
+        E. Interests Accrued for Improper Deductions on Applications for Payment
+
+      RBC’S claim asserts entitlement to prompt payment interest based upon the
+purportedly improper deductions from payments identified below.
+
+        F. Improper Deductions from Applications for Payments
+
+       The government took partial occupancy of the Training Center and assessed
+pro-rata liquidated damages based on its partial occupancy. The contract contains
+FAR 52.236-11, “USE AND POSSESSION PRIOR TO COMPLETION (APR 1984)”
+which, provides that the government may take possession of any completed or partially
+completed portion of the work (R4, tab 4 at GR4_206-07). The clause additionally
+provides that if the government’s possession causes delay or additional costs to the
+contractor, the contractor is entitled to an equitable adjustment. FAR 52.236-11(b).
+However, the contract does not explicitly provide for the reduction, or pro rata
+
+                                          41
+assessment, of liquidated damages (tr. 6/73). The contract provides for liquidated
+damages in the amount of $1,330 per day for each calendar day of delay “until the
+work is completed or accepted” (R4, tab 4 at GR4_250 § 1.5). From November 17,
+2013, to March 10, 2015 (479 days), the government assessed liquidated damages in
+the amount of $1,330 per day for a total of $637,070 (59404 et al. answer at 16 ¶ 48).
+From March 11, 2015 to July 14, 2015 (126 days), the government assessed liquidated
+damages in the amount of $747 per day for a total of $94,122 (id.). Ultimately, the
+total amount of liquidated damages assessed by the government was in the amount of
+$700,447.40 (id.).
+
+      The government made deductions to RBC’s pay applications, Nos. 2 and 3 for
+administrative costs (app. supp. R4, tab 21 at 4-10). The government retained 10%
+from payment of pay applications No. 5, 7, 9-19 (R4, tabs 61, 238, 241-243). The
+government also assessed liquidated damages against RBC’s pay applications,
+Nos. 23-33 (R4, tabs 244-254; app. supp. R4, tab 21).
+
+                            DECISION ASBCA No. 60851
+
+       A. Additional Kitchen Features
+
+       RBC asserts that it is entitled to $14,989.93 for additional kitchen equipment
+including installation, plus 143 days of delay, overhead, and daily costs, for a total of
+$651,534.31 (app. br. at 45; R4, tab 196 at GR4_5339). Specifically, RBC asserts that the
+government required additional changes from its approved design pertaining to the lack of
+a ventilation hood, hot water sanitizing equipment, and anchoring stainless steel tables (R4,
+tab 196 at GR4_5330). As noted above, the RFP contained a standard kitchen equipment
+plan and UFC equipment list of kitchen equipment for “inclusion in all Army Reserve
+training center projects with kitchens” (R4, tab 99 at GR4_3105-06). The list specifically
+includes a ventilation hood and a sanitizing booster heater (id. at 3106). Moreover, the
+RJS Barber food service specifications note that the contractor was to “set in place per
+manufacturer’s standard specifications” the stainless steel tables (GR4, tab 101
+at GR4_3157; tr. 5/49-50). Any changes to the standard kitchen equipment were required
+to be approved by the ACSIM­ODR project officer (R4, tab 99 at GR4_3101). No kitchen
+equipment changes were ever requested by RBC or permitted (tr. 3/195, 5/35-36).
+
+        RBC did not address these issues in its post-hearing briefing, except to note that
+the government had not accepted the kitchen due to “alleged non-compliant and/or
+missing equipment” (app. proposed findings of fact ¶¶ 200-01). At the hearing,
+Mr. Balcazar argued that RBC had provided a better solution to the government by
+installing a state-of-the-art chemical sanitizing system, rather than the hot water
+sanitizing equipment specified in the contract. In RBC’s opinion, the kitchen
+equipment that was specified was a “Ford and we gave you a Cadillac” (tr. 1/138). We
+find that that the ventilation hood, hot water sanitizing equipment, and anchoring of the
+
+
+                                           42
+stainless steel tables were required by the contract and deny this portion of RBC’s
+claim.
+
+       B. Additional Work Imposed for Final Acceptance Inspection (Close-out Work)
+
+       RBC asserts that it was required to perform additional work for the final acceptance
+inspection with direct costs of $47,864.39, plus delay and overhead costs that were
+concurrent with the additional kitchen equipment claim discussed immediately above (R4,
+tab 196 at SGR4_5339). Specifically, RBC contends that it was required to provide an air
+compressor in the OMS building, edge strip the PV array, water heaters, and Buchanan
+perimeter fence, provide shrubs to screen water heaters, air conditioning equipment, and
+backflow preventers, mortar fill walk-off pads, install motion sensors at entrance doors,
+provide steel corner guards at the OMS building and modify door hardware in the physical
+readiness room (R4, tab 196 at SGR4_5333).
+
+       RBC did not address the air compressor in its post-hearing briefing. The
+Unified Facilities Criteria, at specification 4-3.9.12, requires the contractor to furnish
+and install an air compressor (app. supp. R4, tab 38 at 160). We hold that RBC was
+required by the contract to provide an air compressor and deny this portion of RBC’s
+claim.
+
+        The government also required the installation of the additional edge strip at the PV
+array, solar water heaters, and the OMS perimeter fence, which RBC contends was not
+required by the contract (tr. 3/157-58, 4/142-43). Section 5.9 of the contract
+“Miscellaneous” subsection “5.9.1 Edger” required that, “[s]hrub & perennial beds
+adjacent to turf areas and landscape maintenance strips shall include a metal edging
+system” (R4, tab 4 at GR4_364; tr. 5/83). We find that the contract required RBC to
+provide the edge strip at the designated locations and deny this portion of RBC’s claim.
+
+       RBC installed additional screening shrubs for water heaters and condensing
+units, which were not included in RBC’s design and which RBC contends were not
+required by the contract (tr. 3/159-60, 4/143-45). Section 5.7.7 of the contract,
+“Screening” required the contractor to screen “undesirable views” such as service
+areas and mechanical equipment (R4, tab 4 at GR4_362; tr. 5/83). We find that the
+contract required RBC to provide screening shrubs at the locations in question and
+deny this portion of RBC’s appeal.
+
+         The contracting officer found merit in RBC’s claim with regard to the mortar
+fill for walk-off mats, and that portion of RBC’s claim is not before us. RBC contends
+that the government required the installation of motion sensors at entrance doors in the
+assembly hall and training center, which were not required by the contract (tr. 4/148).
+Section 6.4.7.1.1 of the contract, “Hardware” required that the contractor:
+
+
+                                            43
+              Provide two electrified entrance doors at each building
+              consisting of the following minimum hardware . . .
+              Locking devices shall consist of Night Latch Function Rim
+              Exit Device and electric strike.
+
+(R4, tab 4 at 372; tr. 5/84) We find that the contract required the installation of motion
+sensors at the entrance doors of the assembly hall and training center and deny this
+portion of RBC’s claim.
+
+       The government required that RBC install steel corner guards at the OMS
+building, which RBC contends were unnecessary additional work and expense because
+the precast concrete walls exceeded the minimal lateral load and would resist impact
+and because RBC’s design included bollards that RBC contends would adequately
+protect the corners at issue (tr. 4/145-47). Section 7.3.7 of the contract “Impact
+Loads” required that the corners be protected with steel angles or built-up plates
+embedded into the concrete or masonry (R4, tab 4 at GR4_382; tr. 5/84). We find that
+the contract required the installation of corner guards at the OMS building and deny
+this portion of RBC’s claim.
+
+        RBC additionally contends that the government required a hardware
+modification at the physical readiness room that was not required by the contract (app.
+proposed findings of fact ¶ 204). RBC presented no argument at the hearing or in its
+post-hearing briefing other than to state that the hardware was not required by the
+contract. The contracting officer found that RBC had installed a deadbolt latch in the
+fitness room which automatically deadlocked the room when the door was closed,
+rather than installing a classroom lockset that could be opened with a key from either
+side (R4, tab 194 at GR4_5222). The Unified Facilities Guide § 4-2.35.4 provides that
+the physical readiness training room should have a “Lockset - classroom” (app. supp.
+R4, tab 38 at 137-38; tr. 4/147). We find that the hardware modification was required
+by the contract, and that RBC failed to comply with the terms of the contract. We deny
+this portion of RBC’s claim.
+
+       C. Additional Work Imposed After Final Acceptance Inspection
+
+        RBC asserts that it was required to provide a card reader programmer and to install
+a mirror over the sink in the male training center bathroom at a direct cost of $279.62, plus
+delay and overhead costs that were concurrent with the additional kitchen equipment
+described above (R4, tab 196 at SGR4_5334, 5339). RBC did not address this portion of
+its claim at the hearing or in its post-hearing briefing. We find that RBC has waived this
+portion of its claim. See, Engineering Solutions & Products, LLC, 17-1 BCA ¶ 36,822
+
+
+                                           44
+at 179,470; cf. Watts Constructors LLC, 20-1 BCA ¶ 37,563 at 182,387; SmithKline
+Beecham, 439 F.3d at 1319.
+
+       D. Additional Turf Establishment Work
+
+        RBC asserts that it is entitled to $1,893.71 for reestablishing turf at the project
+site (app. br. at 37-38). RBC does not dispute that the contract required it to establish
+and maintain the turf for a 12-month period (id. (citing R4, tab 4 at GR4_361)). As
+detailed above, RBC contends that it was unable to maintain the turf because of a
+drought in Puerto Rico and associated water use restrictions. RBC contends that the
+government constructively changed the contract by forcing it to perform work not
+required by the contract (app. br. at 37-38). RBC contends that the drought was an
+“act of God” that excused its failure to perform and prevented the government from
+seeking damages (app. br. at 38). RBC relies upon the contractual provision at FAR
+52.249-10, DEFAULT (FIXED-PRICE CONSTRUCTION) (APR 1984) providing that “[t]he
+Contractor’s right to proceed shall not be terminated nor the Contractor charged with
+damages . . . if (1) The delay in completing the work arises from unforeseeable causes
+beyond the control and without the fault or negligence of the Contractor. Examples of
+such causes include (i) acts of God” (R4, tab 4 at GR4_218).
+
+        We hold that RBC has not established entitlement to damages with regard to
+this portion of its claim. RBC’s theory is that the drought was an “act of God” that
+relieved it of the obligation to maintain the turf for 12 months, and thus, the
+government’s enforcement of the contractual terms was a constructive change. As an
+initial point, we find that RBC has not established that the drought was an “act of
+God” that prevented it from maintaining the turf. RBC relies upon a Puerto Rican
+press release that, in RBC’s translation from the original Spanish, required residents to
+“avoid unnecessary” watering of plants, rather than prohibiting watering (app. supp.
+R4, tab 67 at 6). RBC’s witnesses additionally testified that RBC was prohibited from
+watering the turf (tr. 4/154), but RBC did not introduce any documentary evidence of a
+prohibition against watering. The government introduced testimony that there was
+never a prohibition against watering on the base and that RBC had stopped
+maintaining the turf before the drought was announced (tr. 5/89). RBC bears the
+burden of proof on this claim, and we find that RBC has not established that it was
+prohibited from watering the turf.
+
+        Even if RBC were prohibited from watering the turf due to the drought, its
+citation to FAR 52.249-10 would not entitle RBC to the damages it seeks. First, the
+FAR termination for default provision providing that “the Contractor [not be] charged
+with damages” in the event of an act of God refers not to increased costs of
+performance for the contractor, but rather is a limitation on the government’s rights to
+recover liquidated damages or reprocurement costs against the contractor (FAR
+52.249-10(b)). Additionally, RBC has not established that it provided the written
+notice of delay to the contracting officer within 10 days of the start of the alleged delay
+
+                                            45
+as required by the FAR (FAR 52.249-10(b)(2)). An act of God is an excuse for failure
+to perform, but entitles the contractor only to an extension of time and then only, if the
+delays increase the time for performance of the entire contract. Fraya, S.E., ASBCA
+No. 52222, 02-2 BCA ¶ 31,975 at 157,950. In James L. Ferry & Son, Inc., ENG BCA
+No. 3996, 81-2 ¶ 15,330, a contractor incurred increased costs and delays due to a
+drought. The Engineer’s Board granted additional time, but held that “the contractor is
+still obligated to perform his original undertaking and the owner-Government is still
+obligated to pay him the originally-agreed price for that performance.” Id. at 75,918.
+As RBC admits that the contract required it to plant and maintain the turf, we deny this
+portion of RBC’s claim.
+
+       E. Interests Accrued for Improper Deductions on Applications for Payments
+
+        In its post-hearing brief, RBC does not allege that it is entitled to interest, other
+than CDA interest, on the purportedly improper deductions and liquidated damages (app.
+br. at 38-43). To the extent RBC asserted entitlement to prompt payment interest on
+amounts purportedly due prior to the date its claim was filed (R4, tab 196 at GR4_5336),
+this portion of its claim is waived. The government has not asserted a defense to
+statutory CDA interest, so we find that there is no dispute to resolve regarding interest.
+
+       F. Improper Deductions from Applications for Payments
+
+        RBC asserts that the government improperly withheld funds from its
+applications for payment and improperly assessed liquidated damages. In the section
+that follows, we address the number of days of delay established by RBC that
+necessarily determines the appropriateness of the government’s withholding.
+
+       RBC additionally, challenges the government’s assessment of reduced
+liquidated damages. The government assessed 479 days of liquidated damages,
+through March 10, 2015, at $1,330 per day for a total of $637,070 (R4, tab 194
+at GR4_5237). The government took partial occupancy of the facility on March 10 and
+assessed liquidated damages at a reduced rate of $747 per day from March 11, 2015, to
+July 14, 2015 (126 days), for a total of $94,122 (id.). RBC contends that the
+government’s partial occupancy of the facility constitutes “acceptance” of the facility
+and prevents the government from seeking liquidated damages after March 10, 2015
+(app. br. at 43). The government, relying upon FAR 52.236-11, USE AND POSSESSION
+PRIOR TO COMPLETION (APR 1984), disputes that it “accepted” the facility in March of
+2015 and contends that it is permitted to seek lower liquidated damages (gov’t resp. br.
+at 62). The government is correct that the contract contains FAR 52.236-11 (R4, tab 4
+at GR4_206-07), and that the clause provides that the government may take possession
+of completed or partially completed portions of the work prior to completion and that
+the government’s possession or use does not constitute acceptance. FAR 52.236-11(a);
+Valco Constr. Co., ASBCA Nos. 47909, 48313, 97-1 BCA ¶ 28,743 at 143,469. Thus,
+we hold that the government is, subject to proof of contractor delay, entitled to collect
+
+                                            46
+liquidated damages for the period after taking partial occupancy in March of 2015. We
+are not aware of any law, regulation, or contractual provision preventing the
+government from assessing a daily liquidated damages rate that is lower than the rate
+specified in the contract. Furthermore, we fail to see how RBC is prejudiced by the
+assessment of liquidated damages at a lower rate. With the exception of the
+withholding calculations to be addressed below, appeal ASBCA No. 60851 is denied.
+
+      VII. Delay Calculations
+
+        RBC presented expert witness testimony from Mark Doran, President and
+Owner of Contract Solutions, regarding its schedule delay analysis. Mr. Doran
+performed an as-planned/as-built analysis and determined that the government was
+responsible for 707 days of compensable delay. After considering the government’s
+102 day non-compensable time extension for the asbestos issue, Mr. Doran found that
+RBC was entitled to 605 additional days, based on 6 separate delay periods (app. supp.
+R4 tab 117, tr. 2/98). Mr. Doran found entitlement to 101 days of delay between the
+notice to proceed and release of the site and foundation package, due to the
+government’s slow review of project design documents including the fire cistern
+(tr. 2/99-100). Mr. Doran’s second delay period comprised the period of July 26,
+2012, through the completion of asbestos abatement, with 123 days of delay attributed
+to the government and 7 days of delay attributed to RBC (tr. 2/107; app. supp. R4,
+tab 117 at 10-12). In his third delay period, Mr. Doran found that RBC recovered
+37 days of delay between January 28, 2013 and the start of the built-up roofing delay
+(tr. 2/113, 115; app. supp. R4, tab 117 at 12-13). In his fourth period of delay,
+Mr. Doran found 232 days of delay, concurrent with the delay at the training center,
+from the start of the roofing delay to the start of electrical installation at the OMS
+building (tr. 2/120-21; app. supp. R4, tab 117 at 18). Mr. Doran’s fifth period of
+analysis, from the start of the electrical installation to the date of substantial
+completion, September 18, 2014, saw RBC recover 11 days of delay (tr. 2/131-33; app.
+supp. R4, tab 117 at 19). Mr. Doran’s sixth period runs from substantial completion to
+the government’s acceptance of the kitchen in the assembly building and involves
+299 days of delay (tr. 2/ 133-35; app. supp. R4, tab 117 at 21).
+
+        The government presented the expert witness testimony of Stuart Ockman as a
+scheduling expert. Mr. Ockman performed a time-impact analysis, finding 8 controlling
+time impacts, with RBC responsible for all delays with the exception of 47 days for the
+asbestos pipe (R4, tab 285 at GR4_7425; tr. 7/157, 164). Mr. Ockman testified that RBC
+was responsible for 97 days of delay due to the late submittal of the certified final site
+and foundation design package (R4, tab 285 at GR4_7399). Mr. Ockman additionally
+found that RBC was responsible for 43 days of delay due to its late start of mobilization
+(id. at GR4_7400). He found that RBC was responsible for 6 additional days of delay
+due to a late start of clearing and grubbing (id. at GR4 7401). Mr. Ockman found that
+there were 70 days of delay due to the late finish of the assembly hall backfill and he
+
+
+                                          47
+apportioned 47 of these days to the government due to the discovery of asbestos, but
+assigned 23 days of delay to RBC (id. at GR4_7401-05).
+
+        Mr. Ockman assigned 35 days of delay to RBC for the late start of the assembly
+hall roofing (id. at GR4_7405-07). He similarly assigned 106 days of delay to RBC for
+the slow progress with architectural finish work and late pre-final inspection
+(id. at GR4_7407-08). Mr. Ockman assigned 23 days of delay to RBC for late preparation
+for government pre-final inspection (id. at GR4_7408). Finally, Mr. Ockman assigned
+201 days of delay to RBC for the late finish of punch-list items and clean-up work
+(id. at GR4_7409).
+
+        As illustrated above, the experts disagreed with regard to all but 47 of the
+roughly 600 days of delay at issue. In addition, the experts disagreed regarding
+methodological issues not relevant to our determination of this appeal. Finally, the
+experts also disagreed regarding the critical path for the project. According to
+Mr. Doran, the critical path for the project shifted to the OMS building in July or
+August of 2013 while Mr. Ockman concluded that the OMS building was never on the
+critical path and that the critical path was always through the assembly building.
+
+                                      DECISION
+
+       In the decision above, we held that RBC had established that the government
+caused the following delays: 119 days for the fire cistern, of which 88 days were
+concurrent with RBC-caused delays; 116 days of delay for the asbestos claim; 15 days
+of delay, plus 31 days of concurrent delay, due to extended review of the RBC’s
+built-up roofing submittals, and 39 days of delay due to extended review of RBC’s
+standing seam roofing submittals.
+
+       Both experts agree that the fire cistern was on the as-built critical path (app.
+supp. R4, tab 117 at 8-9; R4, tab 285 at GR4_7389). Mr. Doran’s report finds that
+RBC was delayed 101 days for the site and foundation package delays, based on the
+impact on the critical path, rather than simply counting the number the days of
+possible delay (app. supp. R4, tab 117 at 7-9). Mr. Ockman similarly determined that
+the schedule was impacted by 101 days, although he attributed the delay to RBC
+(gov’t resp. br. at 57). We hold that RBC is entitled to 31 compensable days of delay
+and 70 days of concurrent delay related to the fire cistern.
+
+        Both experts similarly treat the discovery of asbestos as impacting the critical
+path for the project. Thus, we find that RBC is entitled to 116 days of compensable
+delay for the asbestos issue. The government already awarded RBC 102
+non-compensable days of delay so only the additional 14 days should be removed from
+the allowable liquidated damages due to the government.
+
+
+                                          48
+        For the roofing delays, the experts disagree as to whether the OMS building was
+on the critical path. We found a 15-day delay due to extended review of the RBC’s
+built-up roofing submittals, and 39 days of delay due to extended review of RBC’s
+standing seam roofing submittals. However, these delays are potentially concurrent.
+Mr. Doran found that the critical path shifted to the OMS building in July or August of
+2013. By this logic, the 15-day submittal delay on the training center was still on the
+critical path and would be compensable. The critical path then shifts to the OMS
+building, during the period of the OMS building layout change. We find that the
+critical path shifted to the OMS building. The one day of delay ending on
+September 25, 2013, and the nine days of delay ending on January 8, 2014, for an
+extended review of the standing seam roofing submittals are on the critical path and
+compensable and the 31 days of concurrent delay within the built-up roofing review is
+also on the critical path. The same is true for the 29 days of extended review time
+from January 14, 2014, to February 26, 2014. See, e.g., Insulation Specialties, Inc.,
+ASBCA No. 52090, 03-2 BCA ¶ 32,361 at 160,100-01. Thus, we find that RBC is
+entitled to 39 days of compensable delay for the extended review of the standing seam
+roofing submittal.
+
+       In summation, RBC is entitled to 302 days of delay, with 101 days being
+concurrent and non-compensable and 201 days being compensable. The government
+previously assessed 479 days of liquidated damages at the full contractual rate of
+$1,330 per day, after granting RBC 102 non-compensable days for the asbestos. Thus,
+we find that the government is entitled to 279 days (479 days claimed + 102 days
+previously granted – 302 days of delay calculated) of liquidated damages at the rate of
+$1,330 per day or $371,070. We sustain the government’s assessment of 126 days of
+delay at a reduced rate of $747 per day for a total of $94,122. This results in a total
+liquidated damages of $465,192.
+
+
+                                          49
+                                       CONCLUSION
+
+       Appeal ASBCA No. 60050 is sustained and appeals ASBCA Nos. 59404,
+60277, and 60851 are sustained in part. These appeals are returned to the parties for
+negotiation of quantum consistent with this decision. Appeal ASBCA No. 59962 is
+denied.
+
+      Dated: July 9, 2020
+
+
+                                                  DAVID D’ALESSANDRIS
+                                                  Administrative Judge
+                                                  Armed Services Board
+                                                  of Contract Appeals
+W
+I concur                                          I concur
+
+
+ RICHARD SHACKLEFORD                              J. REID PROUTY
+ Administrative Judge                             Administrative Judge
+ Acting Chairman                                  Vice Chairman
+ Armed Services Board                             Armed Services Board
+ of Contract Appeals                              of Contract Appeals
+
+
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA Nos. 59404, 59962, 60050,
+60277, 60851, Appeals of RBC Construction Corp., rendered in conformance with the
+Board’s Charter.
+
+      Dated: July 9, 2020
+
+
+                                                 PAULLA K. GATES-LEWIS
+                                                 Recorder, Armed Services
+                                                 Board of Contract Appeals
+
+
+                                          50

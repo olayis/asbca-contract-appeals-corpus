@@ -1,0 +1,1197 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+    Appeals of -                                   )
+                                                   )
+    Harry Pepper and Associates, Inc.              )    ASBCA Nos. 62038, 62039
+                                                   )               62040, 62042
+                                                   )
+    Under Contract No. NNS14AA30T                  )
+
+    APPEARANCES FOR THE APPELLANT:                      David W. Mockbee, Esq.
+                                                        D. Wesley Mockbee, Esq.
+                                                        Judson R. Jones, Esq.
+                                                         Mockbee Hall & Drake, P.A.
+                                                         Jackson, MS
+
+    APPEARANCES FOR THE GOVERNMENT:                     Scott W. Barber, Esq.
+                                                         NASA Chief Trial Attorney
+                                                        Jeffrey A. Renshaw, Esq.
+                                                        Shannon A. Sharkey, Esq.
+                                                        Jennifer L. Rawls, Esq.
+                                                         Trial Attorneys
+                                                         Stennis Space Center, MS
+
+                   OPINION BY ADMINISTRATIVE JUDGE O’CONNELL
+
+       Harry Pepper and Associates, Inc. (HPA) appeals final decisions by a contracting
+officer from the National Aeronautics and Space Administration (NASA). The Board
+conducted a hearing from March 1-12, 2021, at which we heard testimony from
+12 witnesses and received into evidence more than 600 exhibits or Rule 4 documents.
+Only entitlement is before us. The Board sustains appeal No. 62038 in part, and denies
+Nos. 62039, 62040, and 62042.
+
+                                      FINDINGS OF FACT
+
+        1. NASA’s Stennis Space Center in Mississippi awarded HPA an indefinite
+delivery/indefinite quantity, multiple award construction contract on August 3, 2012 (R4,
+tab 1 at 3-4 1). The contract contained various relevant clauses, including G.1, Contract
+Administration, and G.2, Technical Direction, which defined the authority of the
+contracting officer (CO) and the contracting officer’s representative (COR), respectively
+(id. at 11-12). The contract also included Federal Acquisition Regulation (FAR)
+
+1
+    Rule 4 file cites are to the .pdf page number in the electronic file.
+52.236-2, DIFFERING SITE CONDITIONS (APR 1984) (the DSC clause), FAR 52.236-
+3, SITE INVESTIGATION AND CONDITIONS AFFECTING THE WORK (APR
+1984), FAR 52.243-4, CHANGES (JUN 2007), and FAR 52.246-12, INSPECTION OF
+CONSTRUCTION (AUG 1996) (R4, tab 1 at 9, 26-27).
+
+       2. On January 9, 2014, NASA awarded HPA the above-referenced task order in
+the amount of $36,577,459 for the B2 Test Stand Restoration, Work Package 3, which
+required HPA to complete the work within 400 days (R4, tab 2 at 2-4).
+
+        3. NASA constructed the B2 test stand in the 1960s to test the Saturn V rockets
+that carried humans to the Moon during the Apollo program. Work Package 3 is part of a
+program that restored and augmented the stand to test the core stage of NASA’s new
+Space Launch System (SLS), the cornerstone vehicle for NASA’s Artemis Program that
+(it is hoped) will return humans to the Moon in the 2020s. (R4, tab 18 at 7; see
+https://www.nasa.gov/sites/default/files/atoms/files/b-2_test_stand_v1.pdf)
+
+      4. HPA performed an earlier contract on the B2 test stand referred to as Work
+Package 1. Through its work on that contract, HPA had access to the test stand for
+15 months prior to award of Work Package 3. (Tr. 6/208-09) In addition, prior to the
+submission of bids for the task order, NASA allowed bidders to attend a site visit on
+October 22, 2013 (tr. 6/205; ex. G-20).
+
+       5. HPA has filed these appeals on behalf of its subcontractor, Quality Iron
+Fabricators, Inc. (Quality Iron) and Quality Iron’s sub-subcontractor, River City Erectors,
+LLC (River City) (app. supp. R4, tabs 7-8, 142). Neither Quality Iron, nor River City,
+attended the pre-bid site visit (tr. 6/205; ex. G-20).
+
+        6. The existing test stand structure included a booster support frame, which is
+referred to as the “battleship” and is made of heavy steel plates reminiscent of a naval
+vessel (tr. 1/48-51, 6/118; R4, tab 5 at 6, tab 18 at 8). The Saturn V rocket was placed in
+the interior of the battleship during testing (tr. 6/118). Above the battleship was the main
+propulsion test article (MPTA) structure, the top of which is the “corvette,” also in the
+naval sense, and made of steel plate like the battleship (tr. 1/46-47, 51, 6/118).
+
+       7. The contract required placement of temporary steel track to relocate the MPTA
+structure by moving it 20-feet north (R4, tab 18 at 7). HPA had to lift the structure,
+which weighed about 1.2 million pounds, place it on the track, carry out the move, and
+then remove the track (id. at 7-8; tr. 1/61; app. supp. R4, tab 26).
+
+       8. Due to the loads applied during the move, and those to be applied in the future,
+the contract also provided for the battleship to be reinforced. To accomplish this, HPA
+
+
+                                             2
+had to weld 28 structural steel shapes to the existing steel plates. These steel shapes are
+referred to as “WTs” or “split tees” because they are an I-beam that has been cut in half
+(forming a tee shape). (R4, tab 18 at 8; tr. 1/85, 237-38, 4/94) As detailed below, a
+variety of issues with the WTs form the basis of request for equitable adjustment (REA)
+nos. 1 and 4, which are at issue in ASBCA No. 62038.
+
+       9. The contract called for the addition of plates (doubler plates) at the bottom of
+existing columns in the MPTA structure to carry the increased loads, as well as the thrust
+from the core stage engine tests (R4, tab 4 at 17 (S-505), tab 18 at 8; tr. 1/112-13, 4/94).
+HPA alleges in REA Nos. 9 and 10 that it performed additional work on these baseplates
+(ASBCA Nos. 62039 and 62040).
+
+        10. The contract provided for construction of a new SLS Support Tower on top of
+the existing structure for testing larger and more powerful rocket engines, as well as an
+Access Tower directly on top of the SLS Support Tower. This new structure (described
+in the specifications as a “space truss”) was 93-feet tall and more than 300-feet above
+grade. (R4, tab 18 at 8; tr. 4/94-95) In REA 12 (ASBCA No. 62042), HPA alleges that it
+encountered unexpected thermal movement of the structure above the top of the
+battleship during the construction of the SLS structure.
+
+       ASBCA No. 62038 (REAs 1 & 4)
+
+       11. NASA issued a notice to proceed on February 7, 2014 (R4, tab 3 at 2).
+
+       A. REA 4
+
+        12. The WTs were 27-feet long, which was only a few inches shorter than the
+interior height of the battleship, and weighed 99 pounds per foot (tr. 1/62, 71). To bring
+them inside, the contract drawings provided that HPA could cut a 36-inch diameter hole
+in the top or bottom plate of the battleship (although the specifications mentioned only
+the top plate) (R4, tab 6 at 7, tab 18 at 8).
+
+         13. During the hearing, there was a sharp difference of opinion between HPA and
+NASA with respect to the feasibility of lowering the WTs by crane through holes cut in
+the top plate of the battleship. The Quality Iron and River City witnesses testified that
+there were too many obstructions inside and above the battleship to do so. (Tr. 1/69-71,
+93, 98-99, 225) The HPA witnesses also testified that it was impossible to bring the WTs
+in through the bottom (e.g., tr. 1/89-91, 240). NASA believed that both were possible
+(e.g., tr. 8/38, 107-08).
+
+
+                                             3
+        14. The witness whose testimony the Board found most credible on this issue was
+Charles Stewart, who was Head of Construction for NASA at Stennis Space Center from
+1986 to 2003 (tr. 6/157-58). According to CO Jason Edge, Mr. Stewart knew the B2 test
+stand “like the back of his hand” (tr. 7/137). More than a decade after he left NASA,
+Mr. Stewart became Head of Field Operations for HPA on this task order, supervising the
+field superintendents and subcontractors and coordinating with NASA (tr. 6/124-25).
+
+        15. Mr. Stewart characterized lowering the WTs through the top plate by crane as
+“doable.” He agreed that there were obstructions in a few places, but testified that HPA
+could have worked around them. (Tr. 6/128-29) Mr. Stewart was more concerned with
+cutting through the 2.25-inch thick steel plate, which he characterized as “doable ... but
+very complicated” because it required “heat stress and a tremendous amount of welding”
+(tr. 6/127; R4, tab 6 at 7 (“EXIST 2 1/4 TOP PL”)). Mr. Stewart worked out an alternate
+approach that would avoid cutting the holes and which, in his view, saved “a lot of time”
+and was less expensive (tr. 6/127-28, 179). River City’s project manager agreed that this
+procedure allowed them to work within and above the battleship simultaneously and that
+it saved time (tr. 1/105).
+
+       16. Consistent with Mr. Stewart’s testimony, HPA submitted request for
+information 2 no. 62 (RFI 62) to NASA on April 29, 2014, seeking approval of an
+alternate method of bringing the WTs into the battleship due to the concern that heat
+generated by cutting an access hole could warp the top plate. Specifically, it proposed to
+cut the WTs into three equal-sized pieces (of about 9 feet each) and transport them
+through a door on the north side of the test stand and weld them back together when they
+were installed. HPA did not justify the procedure by citing obstructions inside or above
+the battleship. Nor did it state that this procedure would cost more money or require
+additional time. (R4, tab 53b at 3) In fact, the previous day Quality Iron had informed
+HPA that there would be no time or cost impact of the change (ex. G-3).
+
+      17. NASA’s COR, Brennan Sanders, approved HPA’s proposed method on
+May 1, 2014 (R4, tab 53b at 2). NASA (like Mr. Stewart) expected the new procedure to
+save money because HPA would no longer have to cut through the top plate (tr. 6/218).
+
+      18. One aspect of RFI 62 that would come to light involved the type of weld that
+would be used to put the WTs back together once they were inside. The contract required
+
+2
+    The contract provided that an RFI was “an easy way to document questions and
+         answers” (R4, tab 18 at 360). But it also provided that an “RFI shall not result in a
+         cost or schedule impact to the contract”, nor should it “result in a change to the
+         contract cost, scope, or schedule” (id.).
+
+
+                                               4
+HPA to use “complete joint penetration” (CJP) welds to attach the WTs to the battleship
+(R4, tab 6 at 7). A CJP weld involves welding two metal pieces together so that they
+become one and the load is passed through the members. By contrast, in a partial joint
+penetration (PJP) weld, the weld does not go all the way to the back of the material. The
+witnesses at the hearing agreed that while a PJP weld is a “good” weld, a CJP weld is
+stronger. (Tr. 1/57, 227, 8/33) In RFI 62, HPA proposed to use a PJP welding procedure
+at the two seams to rejoin the three WT pieces. (R4, tab 53b at 3) The contract did not
+specify a type of weld for rejoining WTs if they had to be cut.
+
+       19. COR Sanders did not understand that RFI 62 provided for PJP welds when he
+approved it, but, when he realized that it did, he became concerned that the WTs would
+not be strong enough (tr. 8/33-34). On July 31, 2014, he issued a revised response to
+RFI 62 stating CJP welds were required (R4, tab 53c at 2). By that point, River City had
+already performed most of the PJP welds (app. supp. R4, tab 157 at 2-3; tr. 1/88).
+Because of this and because NASA directed HPA in the revised RFI response to
+“upgrade” the welds, the Board finds that NASA knew that it would cost additional
+money to perform this work.
+
+       20. After nearly another two months passed, on August 26, 2014, HPA submitted
+RFI 62A, proposing that in lieu of upgrading to CJP welds it weld 0.5-inch thick
+diamond-shaped plate onto the seams attached by the PJP welds (R4, tab 53e at 3). The
+Board finds that RFI 62A was an effort to mitigate HPA’s costs that resulted from the
+revised response to RFI 62. NASA approved the procedure with some technical
+adjustments on September 4, 2014 (id. at 2).
+
+        21. On October 8, 2014, HPA advised NASA that HPA considered NASA’s
+revised response to RFI 62 to be a constructive change to the contract and that it had
+incurred additional costs and time. HPA stated that at the time of NASA’s revised
+response on July 31, 2014, it had already performed 99% of the work. HPA once again
+stated that its purpose in submitting RFI 62 had been to prevent warpage in the top plate
+of the battleship. (App. supp. R4, tab 157 at 2-3)
+
+       22. On October 27, 2014, HPA submitted Field Change Request 3 (FCR) 37 on
+behalf of Quality Iron and River City for the work they performed in response to RFI 62
+and 62A. HPA requested a total of $118,439 and 17 days. (App. supp. R4, tab 10 at 2)
+There does not appear to be a response to this FCR in the record, but on January 11,
+
+
+3
+    The contract provided that the purpose of FCRs was “to document, track, and
+         implement changes” and that they could be initiated by anyone associated with the
+         project (R4, tab 18 at 358).
+
+
+                                             5
+2016, HPA submitted REA 4, which increased the amount sought to $148,140.31 (app.
+supp. R4, tab 20).
+
+        23. In a July 5, 2017 supplement, HPA combined REA 4 with REA 1 (discussed
+below) and demanded $2,346,074.77 (app. supp. R4, tab 23(c) at 4). In this supplement,
+HPA shifted away from contending that the top plate would warp if River City cut
+through it. HPA now contended that NASA’s design was defective because the WTs
+could not be lowered through a hole cut in the battleship top plate (id. at 3-4, 8).
+Consistent with this, at the hearing the HPA witnesses focused on the alleged
+impossibility of lowering the WTs through the top of the battleship due to obstructions
+(tr. 1/98-99, 225, 230, 238, 241-46, 3/276-77; app. supp. R4, tabs 179-179c). HPA did
+not present any testimony from an outside expert who contradicted Mr. Stewart’s
+assessment that the cutting through the top plate was “doable . . . but very complicated”
+(tr. 6/127).
+
+       24. The parties entered into negotiations that were not successful (tr. 7/59-60). On
+August 10, 2018, CO Edge issued unilateral Modification No. 44 (Mod. 44), which
+attempted to resolve a number of pending REAs, including REAs 1 and 4. Mod. 44
+provided for a payment to HPA of $415,356, as discussed below, pursuant to the DSC
+clause. (R4, tab 53m at 2-3)
+
+       25. On December 19, 2018, HPA submitted a certified claim that increased the
+total amount sought for REA 1 and 4 to $3,103,204.40, which, after subtracting the
+amounts paid in Mod. 44, resulted in a net claim of $2,687,848.40, plus a 90-day time
+extension (R4, tab 48 at 13). HPA contended that, due to obstructions, the specified
+procedure of lowering the WTs through a hole in the top was “unworkable and, as such, a
+material misrepresentation” (id. at 6). It alleged that HPA, Quality Iron, and River City
+had no way of knowing about the obstructions that prevented lowering the WTs through
+the top plate because they had been barred from entering the battleship pre-bid (id. at 3,
+6). HPA asserted a variety of theories, including defective specifications, the Changes
+clause, NASA’s breach of its duty not to hinder or interfere with HPA’s work, superior
+knowledge, differing site conditions, and cardinal change (id. at 8-12).
+
+       26. The Board finds the allegation that NASA denied HPA and its subcontractors
+access to the interior of the battleship prior to bid to be inaccurate. As we have already
+found, Quality Iron and River City did not even attend the pre-bid site visit; HPA, on the
+other hand, had been working on the test stand for 15 months (findings 4-5). At the
+hearing, HPA did not present testimony from any HPA official who attended the site
+visit. COR Sanders, who did attend (ex. 20 at 2), testified credibly that because this task
+order provided for work on all levels of the stand, they walked around the entire stand
+and the bidders were not prohibited from looking anywhere (tr. 8/24-25). In addition,
+
+
+                                             6
+even if River City and Quality Iron were not available on that date, HPA could have
+requested badges for them and brought them to the site (id. at 27-28). The Board further
+finds that if River City and Quality Iron had inspected the site prior to bid they would
+have been aware of at least many of the challenges of bringing the WTs in by crane from
+overhead because, for example, two of their witnesses described the battleship as a
+“maze” (tr. 1/96, 246).
+
+        27. CO Edge issued a final decision on March 27, 2019, denying the claim, that
+is, refusing to pay any amounts beyond those paid in Mod. 44 (R4, tab 53). CO Edge
+stated in the final decision that NASA had calculated that River City had experienced a
+cost saving of $311,002 from not cutting access holes in the top plate (id. at 5).
+
+       28. HPA filed a timely appeal on April 15, 2019.
+
+       B. REA 1
+
+       29. While REA 4 concerned problems that started with getting the WTs inside the
+battleship, REA 1 involves difficulties HPA experienced once it got the WTs inside.
+
+        30. River City began installing the WTs on June 12, 2014 (R4, tab 53k at 2). The
+condition of the interior walls to which the WTs would be welded – and the extent to
+which this could have been observed pre-bid – is a matter of dispute. NASA’s main
+witness on this topic, COR Sanders, believed that the walls were straight (or plumb)
+(tr. 8/97-98). While COR Sanders was generally a credible witness, the Board found the
+testimony of Mr. Stewart (HPA’s former head of field operations) to be more
+convincing. Mr. Stewart testified that in the “upper reaches” of the battleship, which was
+about 28-feet high, “the walls . . . were no longer plumb . . . so you had gaps that [were]
+tremendously hard to fill with weld” (tr. 6/127). This impacted the work because River
+City, among other things, had to perform additional weld passes to fill the gaps (id.
+at 164; app. supp. R4, tab 18 at 45-53 (describing particular welds required by the
+conditions)). Mr. Stewart testified that this could not have been discovered on a site visit
+even if the contractors had spent more than a day inspecting the test stand. HPA only
+discovered the problem when “we got into the battleship, cleaned up lead paint, built
+scaffolding, and got lights up there where we could see it” (tr. 6/183).
+
+       31. On August 4, 2014, HPA submitted RFI 140, notifying NASA of the problem
+and requesting approval of a procedure that would involve cutting the WTs into three
+pieces (a confusing request because HPA was already cutting the WTs into three pieces
+under RFI 62). COR Sanders approved the procedure two days later, once again adding a
+note in bold reminding HPA that it needed to inform the CO if “Any comment resulted in
+
+
+                                             7
+a change in cost, scope or schedule. . .” (App. supp. R4, tab 65 at 2-4) HPA did not
+inform the CO at this time of any increase in cost, scope, or schedule.
+
+        32. By the time that HPA submitted RFI 140, it had completed or was close to
+finishing installation of the WTs because the record reflects that it was able to move the
+MPTA structure on August 8, 2014, which could only take place after the WTs had been
+installed (ex. G-22; see finding 21).
+
+        33. A second issue in REA 1 involves the relocation of five WTs after River City
+installed them. On April 22, 2014, COR Sanders provided HPA with revised drawings
+that changed the location of the WTs (R4, tab 53h). In June, River City nevertheless
+began installing the WTs in the original locations; when this was discovered they had to
+be moved to the updated locations. Credible testimony established that HPA simply
+failed to inform the subcontractors of the location change. (Tr. 5/183, 8/124-25)
+
+       34. On June 29, 2015, HPA submitted REA 1 seeking $1,198,516.24 (app. supp.
+R4, tab 18). This amount included $763,527 for the subcontractors due to the out-of-
+plumb conditions and $142,571.45 for subcontractors for the WT relocation, with the
+remainder being overhead and profit for HPA (id. at 5, 7, 17).
+
+        35. As stated above, on July 5, 2017, HPA combined REA 4 with REA 1 and
+requested $2,346,074.77 (app. supp. R4, tab 23(c) at 4). With respect to RFI 140, the
+REA supplement clarified that the increased costs were necessary because “no welding of
+the split tees to the existing walls could be made without extensive repeated efforts of
+placing the WT against the wavy wall then profiling, trimming and grinding the WTs
+usually three (3) times before the WTs could be welded to the wavy wall” (id. at 8, see id.
+at 53). With respect to relocation of the WTs, HPA admitted that it had received the
+changed locations before installing them in the original locations but it contended that it
+was bound to do so until it received a contract modification (id. at 58-59).
+
+       36. As stated above, after unsuccessful negotiations, on August 10, 2018,
+CO Edge issued Mod. 44, which attempted to resolve a number of pending REAs, citing
+the DSC clause (R4, tab 53m at 2-3). CO Edge calculated that HPA was entitled to
+$435,978, for additional welding and trimming costs due to the out-of-plumb walls
+described in REA 1 and $179,378, for REA 4, but that NASA was entitled to a credit of
+$200,000 because HPA did not have to cut 14 holes in the top plate, resulting in a net
+amount due HPA of $415,356 (id. at 3).
+
+       37. The CO’s March 27, 2019, final decision did not award HPA any
+additional money for the REA 1 work beyond that granted in Mod. 44. With respect to
+the out-of-plum walls, CO Edge admitted that it was possible that they were out-of-plum
+
+
+                                             8
+beyond 5/16,” which he identified as the allowable tolerance under the contract.
+However, he stated that NASA could no longer determine the extent to which the walls
+were out of plumb, nor could it determine if the WTs had been within tolerances (or
+warped) because HPA had performed the work before it notified NASA of a differing site
+condition. (R4, tab 53 at 5-6)
+
+                             DECISION – ASBCA No. 62038
+
+       The Board’s review of HPA’s claims is de novo and we are not bound by
+CO Edge’s determination in Mod. 44 that there was a DSC. Wilner v. United States,
+24 F.3d 1397, 1401 (Fed. Cir. 1994) (en banc). The Board will address each of the four
+discrete issues in this appeal.
+
+       A. Bringing the WTs into the Battleship
+
+       While HPA has raised numerous legal theories, HPA’s claim for bringing the WTs
+into the battleship fails on the facts. HPA signed up to do a project that specified that the
+WTs could be brought into the battleship by cutting holes in the 2.25-inch steel plate.
+HPA (or River City) had second thoughts about this “very complicated” procedure and
+proposed an alternative that it believed would save time and money. (Findings 15-16)
+Apparently, this did not work out as well as HPA/River City intended. But NASA bears
+no responsibility for cooperating with the contractor and approving an alternative
+approach, particularly where the contractor failed to inform the CO up front that it would
+cost more time and money (finding 16).
+
+       The Board also finds that HPA’s contention that obstructions made it impossible
+to bring the WTs in through the top is not believable in light of the testimony of HPA’s
+director of field operations (Mr. Stewart) that it was “doable” (finding 15). To be sure,
+other HPA witnesses strongly disagreed, describing the battleship as a “maze” due to the
+number of obstructions (finding 26). But this simply left the Board wondering why, if
+there were so many obstructions, HPA had not noticed them prior to bid.
+
+       HPA attempted to illustrate the obstructions through contract drawings S-101,
+S-102, and S-105, and then creating an overlay of one drawing on top of the other
+(app. supp. R4, tab 179-179c; tr. 1/95-96). But these drawings contain dates in
+September 2013, several months before contract award. Reasonable diligence prior to
+bid would have made HPA and its subcontractors aware of any difficulties illustrated
+by these drawings.
+
+       The contract incorporated FAR 52.236-3, Site Investigation and Conditions
+Affecting the Work (finding 1), which provided in relevant part:
+
+
+                                             9
+              The Contractor also acknowledges that it has satisfied itself as
+              to the character, quality, and quantity of surface and
+              subsurface materials or obstacles to be encountered insofar as
+              this information is reasonably ascertainable from an
+              inspection of the site . . . as well as from the drawings and
+              specifications made a part of this contract. Any failure of the
+              Contractor to take the actions described and acknowledged in
+              this paragraph will not relieve the Contractor from
+              responsibility for estimating properly the difficulty and cost
+              of successfully performing the work, or for proceeding to
+              successfully perform the work without additional expense to
+              the Government.
+
+(Emphasis added) “It is well-settled that a contractor is charged with knowledge of the
+conditions that a pre-bid site visit would have revealed.” H.B. Mac, Inc. v. United States,
+153 F.3d 1338, 1346 (Fed. Cir. 1998). Thus, even if we believed HPA’s contention that
+it was impossible to bring the WTs in through the top plate, it would still not be entitled
+to recover because one could not miss a “maze” on a reasonably diligent site visit or
+review of the drawings.
+
+       B. Changing the Welds from PJP to CJP after HPA rejoined the WTs
+
+        A different problem is presented by NASA’s belated prohibition of PJP welds on
+the seams of the rejoined WTs in its revised response to RFI 62. The contract does not
+specify the type of weld to be used if the WTs have to be cut and then rejoined, but the
+contract required NASA to respond to RFIs within five working days (finding 18; R4,
+tab 18 at 360). While NASA’s original response was timely, its revised response nearly
+three months later was not (findings 16-19). HPA relied on the original response and
+installed most of the WTs with PJP welds at the seams (finding 19). It is clear that if
+NASA had reviewed RFI 62 carefully this would not have happened because the RFI
+clearly stated that HPA intended to use PJP welds.
+
+        NASA addresses ASBCA No. 62038 at pages 15 to 42 of its opening brief. While
+it discusses at considerable length the reasonableness of HPA’s site investigation, the
+feasibility of bringing the WTs in through the top of the battleship, the condition of the
+interior battleship walls, and the reasons why HPA had to relocate WTs that had already
+been installed, it is relatively quiet on its revised response to RFI 62. NASA does not
+contend that COR Sanders lacked authority to respond to RFI 62 or to revise its response.
+
+
+                                            10
+        NASA’s sole contention seems to be that WTs rejoined with PJP welds are not as
+“solid” as those with CJP welds (gov’t br. at 29 (PFF 22 4)). This would be more relevant
+if NASA had denied RFI 62 at the outset but it does not even begin to address the
+contractual requirement that it respond to RFIs within five days, and the effect of
+changing its response nearly three months later when HPA/River City had already
+performed most of the work. The Board holds that it was unreasonable for NASA not to
+review RFI 62 carefully and that it was unreasonable for it to wait nearly three months to
+change its response. The government is liable when it unreasonably fails to issue
+approvals or delays in taking actions required by the contract. See, e.g., Law v. United
+States, 195 Ct. Cl. 370, 397-99 (1971) (government caused delay by failing to act on shop
+drawings and waiting too long to make permitted changes.); cf. Relyant LLC, ASBCA
+No. 59809, 18-1 BCA ¶ 37,085 at 180,539 (unreasonable delay in government response
+to request to modify contract constituted a breach of duty of good faith and fair dealing
+under the circumstances).
+
+       Finally, in the introduction to its brief, NASA references its motion for summary
+judgment in which it contended that HPA failed to provide NASA timely notice under the
+Changes or DSC clauses that the work would entail additional costs, but it does not
+develop this argument in its post-hearing brief. In any event, the Board disagrees. As we
+observed on the parties’ cross motions for summary judgment, while notice requirements
+are enforceable, there are a variety of exceptions, including actual or constructive notice
+of the conditions encountered. Harry Pepper & Assocs., Inc., ASBCA No. 62038 et al.,
+21-1 BCA ¶ 37,760 at 183,300. In this appeal, it is inconceivable that NASA did not
+know, when it issued the revised response to RFI 62 nearly three months later, that HPA
+had installed most or all of the WTs. Thus, it knew that changing the welds would
+require extra work (finding 19).
+
+        The Board holds that HPA is entitled to recover for the additional costs of
+installing the diamond-shaped pieces on the WT seams. The Board remands to the
+parties for determination of quantum.
+
+         The Out-of-Plumb Battleship Walls
+
+         The DSC clause (finding 1) provided that:
+
+                (a) The Contractor shall promptly, and before the conditions
+                are disturbed, give a written notice to the Contracting Officer
+                of (1) subsurface or latent physical conditions at the site
+                which differ materially from those indicated in this contract,
+
+4
+    “PFF” refers to a proposed finding of fact within the brief.
+
+
+                                               11
+                or (2) unknown physical conditions at the site, of an unusual
+                nature, which differ materially from those ordinarily
+                encountered and generally recognized as inhering in work of
+                the character provided for in the contract.
+
+                       ....
+
+                (c) No request by the Contractor for an equitable adjustment
+                to the contract under this clause shall be allowed, unless the
+                Contractor has given the written notice required . . . .
+
+FAR 52.236-2.
+
+       “A Type I [DSC claim] arises when the conditions encountered differ from what
+was indicated in the contract documents. 5” Renda Marine, Inc. v. United States, 509 F.3d
+1372, 1376 (Fed. Cir. 2007). To prevail on a Type I DSC claim, a contractor must prove
+that: (1) “a reasonable contractor reading the contract documents as a whole would
+interpret them as making a representation as to the site conditions”; (2) “the actual site
+conditions were not reasonably foreseeable to the contractor, with the information
+available to the particular contractor outside the contract documents, i.e., that the
+contractor ‘reasonably relied’ on the representations” (3) the “contractor in fact relied on
+the contract representation”; and (4) “the conditions differed materially from
+those represented and . . . the contractor suffered damages as a result . . . .” Int’l Tech.
+Corp. v. Winter, 523 F.3d 1341, 1348–49 (Fed. Cir. 2008) (citations omitted).
+
+        In its brief, NASA contends that it did not represent that the battleship walls would
+be straight because the drawings show the battleship walls with dashed lines (gov’t br.
+at 31). While it is true that the drawings use dashed lines, NASA does not cite any
+witness testimony stating the conclusion we should draw from this. In any event, the
+actions of the contracting officer during performance indicate that both parties
+understood that the walls would be generally straight, within a tolerance of 1/16” every
+4-feet based on a note on the drawings and the American Institute of Steel Construction
+and the American Society for Testing of Materials standards incorporated in the contract
+(finding 37; app. supp. R4, tab 143 at 6 (citing R4, tab 6 at 3, structural steel note 6); R4,
+tab 18 at 113; app. supp. R4, tab 3 at 76-77; app. reply at 5, ¶ 6). This would be
+consistent with the norm for any structure, namely, that the walls will generally be
+straight up and down but that there may be small imperfections.
+
+5
+    A Type II differing site condition arises when the conditions encountered are of an
+        unusual nature and differ materially from those normally encountered in the kind
+        of work contemplated by the contract. Renda Marine, 509 F.3d at 1376.
+
+
+                                              12
+       The Board has found that the condition of the walls differed from those
+represented, that HPA could not have discovered this condition pre-bid, and that it relied
+on the straightness of the walls for the number of weld passes and other work it would
+have to do to install the WTs (finding 30).
+
+        NASA relies most heavily on its notice defense. As stated above, the DSC clause
+required HPA to notify the CO “promptly, and before the conditions are disturbed . . . .”
+While such notice provisions are enforceable, precedent recognizes various
+exceptions, including lack of prejudice to the government. Schnip Building Co. v. United
+States, 645 F.2d 950, 959-60 (Ct. Cl. 1981). The government bears the burden of
+demonstrating prejudice. A.R. Mack Construction Co., Inc., ASBCA No. 50035, 01-2
+BCA ¶ 31,593 at 156,139-40.
+
+       HPA clearly submitted RFI 140 too late because it had already installed almost all
+of the WTs (finding 32). The Board would hold that HPA’s claim is barred due to lack
+of notice if NASA had examined the conditions when it received notice but found that
+the conditions could no longer be verified. But the record indicates that because
+COR Sanders believed that the walls were not warped, he does not appear to have made
+any effort to verify HPA’s representations. On cross-examination he was defensive
+when pressed by HPA’s attorney:
+
+                Q Where are your measurements of the wall that show that
+                it’s [not] warped?
+
+                A I don’t have any measurements of the wall, sir.
+
+                Q You’ve had years to do that, haven’t you?
+
+                A Yes, if I was inclined to do that. I don’t see a need to do
+                that and what that would do for me.
+
+                Q Well, it might give you some evidence of what you say that
+                is, frankly, contrary to what your contracting officer has
+                decided? 6
+
+                A Right, yes, sir. And you can go look at the wall and tell it’s
+                straight, and you can walk outside and see the sky is blue, and
+                you don’t have to measure it to know that it’s blue.
+
+6
+    This was an apparent reference to the CO stating in Mod. 44 that there was a DSC and
+         paying HPA money for the issue (findings 24, 36).
+
+
+                                               13
+(Tr. 9/148-49) COR Sanders admitted that the walls between the WTs are still visible
+(id. at 152). It seems unlikely that the only place that the walls were warped were also
+the exact spots where the WTs were installed. Thus, if NASA had measured the walls or
+otherwise investigated and found that they were within tolerances, this likely would have
+been enough to defeat HPA’s claim. But because NASA did not attempt to verify the
+conditions, it cannot demonstrate prejudice.
+
+        NASA also contends that it was “severely prejudiced” because HPA denied
+Quality Iron’s claim for the wall condition based on the notice requirements in the
+HPA-NASA contract, as well as the HPA - Quality Iron subcontract, which NASA
+presents as dispositive by itself (gov’t br. at 26 (PFF 18 (citing ex. 9))). Despite this
+initial denial, HPA eventually agreed to present the claim to NASA. The initial denial
+does not affect our analysis of the merits of the DSC or the lack of prejudice to NASA.
+Moreover, the government cannot rely on the terms of a subcontract. Whether HPA is
+entitled to additional money is determined by the prime contract, not provisions in the
+subcontract concerning how the subcontractor must present its claim to HPA. See
+Kellogg Brown & Root Servs., Inc. v. Sec’y of the Army, 973 F.3d 1366, 1370-71 (Fed.
+Cir. 2020).
+
+       HPA is entitled to recover for a DSC concerning the condition of the battleship
+walls. The Board remands to the parties for determination of quantum.
+
+       C. Relocating Five Installed WTs
+
+       HPA does not dispute NASA’s contention that River City installed the WTs in the
+original location even though NASA had provided new locations about two months
+before installation began (finding 33). Our finding that HPA simply failed to tell the
+subcontractors of the location change (id.) is dispositive of this issue.
+
+        HPA contends, however, that until the CO issued a modification it was bound to
+install the WTs in the original location (HPA reply at 5, ¶ 5). The Board disagrees.
+Under clause G.2, Technical Direction, the COR was authorized to provide directives to
+the contractor that approve “approaches, solutions, designs, or refinements” (finding 1;
+R4, tab 1 at 11). The apparently minor changes in the final locations for the WTs would
+be a solution, design, or refinement that this clause contemplates. If HPA had any
+doubts, it should have brought the issue to the attention of the CO, as also provided for in
+clause G.2, rather than installing the WTs in a location that it knew was wrong.
+
+
+                                             14
+               ADDITIONAL FINDINGS OF FACT ASBCA Nos. 62039 AND 62040
+
+       38. As stated on Drawing S-505, Note 2, the existing base plates at the bottom of
+the MPTA columns were “too thin” and needed to be thickened before the MPTA
+structure could be moved. On top of the existing plates, HPA was to install 2.5”
+thick A36 steel plates (a 36,000 PSI grade of material (tr. 4/28)) “cut to fit the columns,
+with 1 1/2” diameter holes drilled in them and edge preparations for CJP and PJP welds
+as indicated . . . .” (R4, tab 4 at 17).
+
+      39. The existing plates are referred to as “gusset plates” (id. at 17, n.6; tr. 1/72).
+The columns and the plates were perpendicular and were joined at the 90-degree angle
+with welds referred to as fillet welds (tr. 2/132; app. supp. R4, tab 29(b) at 9).
+
+        40. Drawing S-505, Flag Note 3 (a note referring to a flagged area on the
+drawing), provided that the contractor was to “cope and bevel around existing column
+flanges and fillet welds as required for base [plate] installation.” On this same drawing,
+Note 6 provided that “Parts of existing gusset plates and parts of some welds will need to
+be partially removed . . . to allow proper fit up and welding.” (R4, tab 4 at 17) As
+discussed below, HPA contends that these notes are contradictory, but it did not seek
+clarification from NASA prior to bid.
+
+        41. HPA retained Bell Steel Company (Bell Steel) to fabricate the steel plates.
+Bell Steel prepared shop drawings 7 that HPA submitted to NASA for approval, and
+which contained comments between Bell Steel and HPA. There is nothing on the shop
+drawings that indicated any confusion about the requirements of Drawing S-505 and, in
+fact, one of the comments (apparently from HPA) specifically indicated awareness of
+Note 6. (R4, tab 110 at 11-12; tr. 8/130-32)
+
+       42. Despite Note 6, HPA (or more specifically, River City) contends that NASA
+refused to allow HPA to remove the existing fillet welds. At the hearing, River City
+project manager Brian Ditty testified that someone with NASA (whom he did not
+identify) told him at a meeting that River City could not remove the existing welds.
+Mr. Ditty testified that personnel from both HPA and Quality Iron were also at the
+meeting, but no other witness testified that he was present at such a meeting and heard
+
+7
+    The contract incorporated FAR 52.236-21, SPECIFICATIONS AND DRAWINGS
+         FOR CONSTRUCTION (FEB 1997) (R4, tab 1 at 27). FAR 52.236-21(d) defined
+         shop drawings as: “drawings, submitted to the Government by the Contractor . . .
+         showing in detail (1) the proposed fabrication and assembly of structural elements
+         and (2) the installation (i.e., fit, and attachment details) of materials or
+         equipment.”
+
+
+                                              15
+this direction. (Tr. 1/202-03) Notably, HPA’s Certified Welding Inspector (CWI),
+Robert Mader, testified that he was not aware of any direction from NASA to leave the
+existing welds in place (tr. 7/265).
+
+        43. HPA does not allege that the CO gave this direction to River City. There is
+nothing in writing that documents this alleged direction, and HPA did not inform the CO
+that a lower level person had barred HPA from performing work authorized by the
+contract, or that this instruction would cause an increase in costs that it would later allege
+exceeds $1 million. The Board sees no benefit to NASA from leaving the welds in place
+in their entirety and thus no motivation to demand that they remain.
+
+        44. Based on the weight of the evidence, the Board finds that no one from NASA
+– and certainly not the CO – told HPA or River City that the existing welds could not be
+removed. This leads to the question of why, if no such direction was given, would River
+City forgo removal of the welds. The Board finds that, like the REA 4 decision not to
+bring the WTs in through a hole in the top, this likely was a gamble by River City that
+it could save money if it did not take the time to remove the existing welds (tr. 7/265,
+273-74). Like REA 4, NASA cooperated with HPA’s attempt to avoid removing the
+welds, only to get blamed by HPA later on.
+
+       45. In support of its contentions, HPA draws our attention to RFIs 146 and 146A
+(one of which may be misdated but we find that HPA submitted both and received
+answers in August 2014). In RFI 146, HPA stated, in part, “Existing conditions, in the
+form of welds on W14 columns for MPTA, prevent the 2 1/2” thick plates from achieving
+proper CJP weld . . . .” and requested that NASA advise how it should proceed (app.
+supp. R4, tab 34c(9) at 3). The Board finds that HPA represented in this RFI that existing
+conditions prevented removal of the welds, but that is not the same thing as confirming a
+direction from NASA to retain the welds. Moreover, as we will describe below, the
+existing conditions did not prevent removal of the welds and River City or Quality Iron
+would eventually remove the existing welds in 2015.
+
+       46. HPA also directs our attention to NASA’s response to RFI 146, which
+contains three sketches prepared by NASA’s structural steel designer to address leaving
+the welds in place. The sketches refer to a weld identified as “Weld 3.” The third sketch
+contains the following sentence relied upon by HPA: “Placing Weld 3 along the inside of
+the flanges and along the web requires dealing with the existing column to base plate
+weld staying, a large chamfer 8 is needed on the edge of the new plate . . . .” (App. supp.
+R4, tab 34c(9) at 6). While this again references at least some welds staying, it does not
+document that this direction came from NASA and merely repeats the representation
+
+8
+    “Chamfer” is synonymous with bevel (tr.1/125).
+
+
+                                              16
+made by HPA in the RFI. Moreover, when these sketches define Weld 3, the designer
+also refers to areas where the existing fillet welds are to be removed, which contradicts
+the alleged proscription of weld removal (id. at 4). The Board finds that, on the whole,
+this RFI does not support the finding of a NASA direction not to remove the existing
+welds and, at most, reflects NASA’s cooperation with leaving some of them in place.
+
+       47. Both parties pursue an in depth discussion of specific types of CJP welds,
+welding techniques, the meaning of welding symbols on construction drawings, and
+whether or not the sketches attached to NASA’s response to RFI 146 would have resulted
+in proper CJP welds if HPA had followed them precisely, but because we find that HPA
+has not proven that NASA ever directed HPA not to remove the existing welds, or that
+existing conditions prevented removal of the welds, the Board need not delve into this. 9
+
+        48. Drawing S-505, Note 5, provided that “CJP and PJP welds require 100%
+[ultrasonic testing] with a written report for the NASA COR” (R4, tab 4 at 17). Because
+the existing welds would now remain in place, HPA took the position that it was no
+longer feasible to test the welds using ultrasonic testing (UT). HPA submitted RFI 146A
+requesting that NASA waive the requirement and suggested “performing the welds under
+the supervision of NASA’s CWI or designated representative ...” COR Sanders approved
+this, stating “[c]ontinuous visual inspection should be conclusive” but he did not state
+that NASA would be providing a CWI (App. supp. R4, tab 34c(9) at 7). The parties
+executed bilateral Mod. 2 in October 2014, providing NASA a credit of $2,136.77 for
+omitting the UT test requirement (R4, tab 54h at 4).
+
+        49. A question that would later emerge from RFI 146A was the meaning of the
+phrase “NASA’s CWI or designated representative” (R4, tab 34c(9) at 7). The contract,
+in a section entitled “Structural Steel Welding” barred HPA from welding until it had
+submitted, among other things, inspectors for approval by the COR (R4, tab 18 at 114).
+The necessary inspectors included one with a CWI certification (id. at 117).
+
+
+9
+    The Board finds, however, that River City did not follow the sketches even though it
+         knew that the resulting welds would be inadequate. While the parties dispute
+         whether the sketch attached to NASA’s response to RFI 146 (app. supp. R4,
+         tab 34c(9) at 6) contained two options or two steps to achieve a CJP weld, the
+         Board reads the sketch as requiring two steps, primarily because it states at the top
+         “STEPS IN EDGE PREP ON MPTA DOUBLER BASE PLATES FOR WELDS”
+         (id.). River City did only the work on the top half of the sketch even though
+         Mr. Ditty knew it would not result in a CJP weld. When asked why he did not
+         alert NASA or the designer to this concern he testified that “it’s kind of like
+         questioning your father when you question the engineer of record.” (Tr. 1/125-26)
+
+
+                                               17
+       50. During the project, HPA provided Robert Mader, who was employed by
+another subcontractor, Mandina’s Inspection, as its CWI (tr. 7/201). This did not change
+when River City performed the baseplate work following RFI 146A, and no one from
+HPA appears to have questioned why NASA did not have its own CWI at the site. In any
+event, under clause G.1 (finding 1), the CO is “the only person authorized to approve
+changes or modify any of the requirements under this contract . . . .” Thus, when he
+issued the response to RFI 146A, COR Sanders did not have the authority to obligate
+NASA to hire its own CWI. 10
+
+        51. This story might have ended here if not for an extraordinary event. On
+Friday, March 6, 2015, months after the baseplate work had been completed, a former
+River City employee notified NASA that he had essentially sabotaged three welds by
+placing a filler material (in this case bolts) in the welds, which is known as “slugging” the
+welds. The obvious result of this is that it weakens the weld and potentially threatens the
+integrity of the structure. NASA met with HPA, Quality Iron, and River City the
+following Monday to discuss the allegation. (Tr. 6/23, 7/240; R4, tab 55j) After the
+meeting, HPA informed Quality Iron that it had agreed with NASA “that further testing,
+either by x-ray or some other method, needed to be performed . . . .” (R4, tab 55j).
+
+       52. On March 9, 2015, HPA also issued a stop work order (Non-Compliance
+Notice No. 11) to Quality Iron for “improper welds and failure to provide proper Quality
+Control of the welding . . . .” The Non-Compliance Notice required Quality Iron to
+submit a written corrective action by close of business the following day. (R4, tab 47r)
+On March 10, 2015, HPA notified Quality Iron that if the slugging allegation proved to
+be true HPA intended to hold Quality Iron responsible for all costs of investigating and
+correcting deficient work (R4, tab 55j).
+
+         53. On March 18, 2015, HPA wrote to Quality Iron stating:
+
+                Based upon the performance of RCE to date and the recent
+                discovery of MPTA base plate welds being intentionally
+                improperly performed it is apparent that QIF’s subcontractor,
+                RCE, does not have supervisory or quality control personnel
+                on the project that can ensure that work is performed
+                according to the requirements of the contract. If RCE's
+                current on site management and quality control are allowed to
+
+10
+     S-505, Note 4 also provided that “[t]he base plate thickening process requires full time
+         inspection by NASA” (R4, tab 4 at 17). NASA performed this inspection by a
+         combination of spot inspections by welding inspectors who worked for a separate
+         contractor and construction managers who walked the site (tr. 9/169-70).
+
+
+                                               18
+              continue HPA has no reason to believe the situation will
+              change.
+
+HPA concluded the letter by demanding the removal of Brian Ditty and another River
+City employee. (R4, tab 54a)
+
+       54. On March 19, 2015, HPA notified NASA by email that it intended to submit a
+corrective action plan that would include the reinstatement of UT testing. The plan
+would “include completely removing and replacing the reinforcing plates and welds on
+the columns which are considered to have major defects” and “removal and replacement
+of weld [sic] with minor defects as identified by UT inspection and recommended by
+CWI” (R4, tab 55o).
+
+        55. On March 24, 2015, Quality Iron submitted to HPA a corrective action plan.
+The plan included a provision for UT inspection to determine which welds needed to be
+repaired (R4, tab 47v at 14-15). As a result of the inspections, the parties agree that HPA
+ultimately found two slugged welds and lesser defects at a number of baseplates (app. br.
+at 20) (PFF 64); app. reply at 8; gov’t br. at 49-50 (PFF 7)).
+
+      56. HPA now contends that NASA forced HPA to do the UT inspections and that
+“everyone knew” the welds would not pass UT inspections due to the fillet welds that had
+remained in place (app. reply at 2, 17). But there is no contemporaneous documentation
+demonstrating that NASA forced this procedure on HPA or that HPA or its
+subcontractors contended that another procedure was more appropriate.
+
+        57. Also in March of 2015, John Phillips became Quality Iron’s senior project
+manager (tr. 2/125). Mr. Phillips soon became aware of problems with the welds. He
+could not understand why River City had left the fillet welds in place because they
+prevented successful completion of a CJP weld. (Tr. 2/142-43) He asked Mr. Ditty,
+River City’s project manager, about this. Mr. Ditty stated that he had left the welds in
+place because NASA had instructed him to leave them in place. (Id. at 145) This seems
+to be the origin of the story that NASA barred removal of the existing welds.
+
+       58. Mr. Phillips agreed that the project had been designed correctly and that the
+problem was the alleged direction not to remove the existing welds (tr. 3/16-17). HPA
+fixed plates that failed UT inspections (discovered while implementing the corrective
+action plan) by ripping out the work and performing it per the original design on Drawing
+S-505, including partial removal of the existing welds (id. at 29-31).
+
+       59. On December 19, 2018, HPA submitted a certified claim for $1,127,909.37
+and a 29-day time extension for what is referred to as the REA 9 work (the work
+
+
+                                            19
+emanating from the alleged NASA direction to leave the existing fillet welds in place)
+based on theories of defective specifications, constructive changes, differing site
+conditions, breach of the duty not to delay, hinder or interfere with the contractor, and
+cardinal change (R4, tab 49 at 3-11)
+
+       60. On this same date, December 19, 2018, HPA submitted a certified claim for
+$4,281,841.69 and a 39-day time extension for what is referred to as the REA 10 work
+(ripping out the original work after the slugged welds were discovered and reinstalling
+per the original design) due to defective design, inadequate inspections, constructive
+changes, inadequate inspections, and breach of the duty not to delay, hinder or interfere
+with the contractor, and cardinal change (R4, tab 50 at 3-13).
+
+      61. CO Edge denied both claims in decisions dated March 27, 2019 (R4, tabs 54-
+55). HPA thereafter filed timely appeals. The Board docketed the REA 9 appeal as
+No. 62039 and the REA 10 appeal as No. 62040.
+
+                          DECISION - ASBCA Nos. 62039 AND 62040
+
+        When the language of a contract is unambiguous, it must be given its “plain and
+ordinary” meaning and the Board may not look to extrinsic evidence to interpret its
+provisions. TEG-Paradigm Envtl., Inc. v. United States, 465 F.3d 1329, 1338 (Fed. Cir.
+2006) (citing Coast Federal Bank, FSB v. United States, 323 F.3d 1035, 1040 (Fed. Cir.
+2003) (en banc)). The Board must interpret the contract as a whole so as to
+harmonize and give reasonable meaning to all of its parts. NVT Techs., Inc. v. United
+States, 370 F.3d 1153, 1159 (Fed. Cir. 2004). Contract provisions should not “be
+construed as being in conflict with [one] another unless no other reasonable interpretation
+is possible.” Hol-Gar Mfg. Corp. v. United States, 351 F.2d 972, 979 (Ct. Cl. 1965).
+
+        As stated above, HPA contends that Drawing S-505 is contradictory because Flag
+Note 3 provides for the contractor to “bevel around existing . . . fillet welds” while Note 6
+provided that “parts of some welds will need to be partially removed . . . to allow proper
+fit up and welding” (finding 40). The Board disagrees because it is possible to reconcile
+the two notes. The Board concludes that reasonable meaning can be given to both notes
+by interpreting them to mean that the fillet welds generally would remain but that HPA
+could partially remove them as necessary to allow proper fit up and welding.
+
+        Even if the Board were to consider extrinsic evidence, HPA fares no better. As we
+have found, the back and forth between HPA and the base plate fabricator prior to the
+commencement of work demonstrates that HPA was well aware of Note 6 and did not
+express any confusion about partial removal of welds. HPA also did not inquire about it
+prior to bid. (Findings 40-41).
+
+
+                                             20
+       But this issue is not entirely resolved by these rules of construction. HPA’s
+principal contention is that River City did raise this issue and sought clarification from
+NASA. HPA has failed to convince the Board that this occurred due to both the lack of
+contemporaneous documentation and the lack of any other witness from NASA, HPA,
+Quality Iron, or River City who was present at the meeting where the unnamed NASA
+employee gave the direction to leave the welds in place, and the absence of any benefit to
+NASA in doing so (findings 42-43). But even if the Board assumed that this
+conversation did take place, HPA does not contend that it was the CO who gave the
+direction. Given how clearly Note 6 authorizes partial weld removal, and HPA’s
+contention that rescinding this authority resulted in more than $1 million in extra costs,
+this was not an appropriate topic for discussion with a lower level NASA employee at a
+meeting, at least without confirming the direction with the CO. As we have already
+explained, only the CO has the authority to change the contract.
+
+       HPA’s claim for REA 9 work fails because everything followed from River City’s
+decision not to remove the existing fillet welds. HPA’s REA 9 claim confirms that if
+River City had removed parts of the fillet welds “then none of this extra work would have
+been required” (R4, tab 49 at 3). While the record is not crystal clear as to why River
+City did this, the most likely explanation is that River City thought that it would be
+quicker and less expensive to leave them in place (finding 44). When John Phillips
+became senior project manager in March 2015 (after the base plate work had been
+completed), he realized that this had been an unwise decision (finding 57). NASA bears
+no responsibility for any of this.
+
+       Similarly, REA 10 also fails, at least in part, because it stems from the initial
+decision not to remove the fillet welds. As Mr. Phillips testified, HPA eventually did the
+work as provided on Drawing S-505, but it had to first rip out much of the work that it
+had done (finding 58). HPA confirms in its REA 10 claim that if the fillet welds had
+been removed when it first did the work “all of the welds would have passed except for
+the two (2) where a bolt was placed in the weld . . . .” (R4, tab 50 at 7). Thus, if River
+City had simply done the work as designed from the start, none of this additional work
+would have been necessary.
+
+       REA 10 also fails because it was River City that hired the welder who slugged the
+welds (finding 51). It was HPA, Quality Iron, and River City that failed to supervise him
+properly so that he could not slug the welds. But for the slugged welds, the problems
+with the other welds likely would not even have been discovered (findings 51-55).
+
+        The Board rejects HPA’s contention that NASA bears some responsibility because
+if it had provided the CWI it supposedly agreed to provide in its response to RFI 146A,
+then the slugged welds would never have occurred. The Board disagrees. While the
+
+
+                                            21
+phrase in HPA’s RFI, “NASA’s CWI or designated representative,” is ambiguous,
+context is important. Specifically, as we have found: (1) the contract required only HPA
+to provide a CWI; (2) HPA retained Robert Mader (through a subcontractor) as its CWI;
+(3) NASA did not state in its response to RFI 146 that it would provide its own CWI;
+(4) no one at the time questioned why there was no NASA CWI at the project; (5) NASA
+had no incentive to hire a CWI because the contract did not require it to hire a CWI and
+HPA did not offer NASA any credit to offset the costs of hiring a CWI; (6) an RFI is not
+the proper way to change the contract; and (7) the COR who responded to the RFI did not
+have the authority to change the contract (findings 16, 49-50). In these circumstances,
+the Board concludes that the most reasonable interpretation of “NASA’s CWI or
+designated representative” is that it simply referred to Robert Mader. Finally, the Board
+also observes that because Mr. Mader was unable to prevent the slugged welds or welds
+with lesser deficiencies, the effect, if any, of NASA adding its own CWI is speculative.
+
+       The contract included FAR 52.246-12, Inspection of Construction (finding 1).
+This is a lengthy clause that repeatedly provides that the contractor is responsible for
+inspecting the work, that it is responsible for remedying defective work, and that to the
+extent that NASA performs its own inspections, those inspections are for its own benefit,
+not to protect the contractor from its mistakes (or in this case, intentional destructive
+acts). We highlight several relevant provisions of this clause:
+
+              (b) The Contractor shall maintain an adequate inspection
+             system and perform such inspections as will ensure that the
+             work performed under the contract conforms to contract
+             requirements. . . .
+
+              (c) Government inspections and tests are for the sole benefit
+             of the Government and do not—
+
+              (1) Relieve the Contractor of responsibility for providing
+             adequate quality control measures;
+
+              (2) Relieve the Contractor of responsibility for damage to or
+             loss of the material before acceptance;
+
+               (3) Constitute or imply acceptance; or
+
+              (4) Affect the continuing rights of the Government after
+             acceptance of the completed work . . . .
+
+
+                                           22
+               (d) The presence or absence of a Government inspector does
+              not relieve the Contractor from any contract requirement . . . .
+
+               (e) The Contractor shall promptly furnish, at no increase in
+              contract price, all facilities, labor, and material reasonably
+              needed for performing such safe and convenient inspections
+              and tests as may be required by the Contracting Officer. . . .
+
+               (f) The Contractor shall, without charge, replace or correct
+              work found by the Government not to conform to contract
+              requirements, unless in the public interest the Government
+              consents to accept the work with an appropriate adjustment in
+              contract price. The Contractor shall promptly segregate and
+              remove rejected material from the premises.
+
+FAR 52.246-12; Granite Const. Co. v. United States, 962 F.2d 998, 1003 (Fed. Cir. 1992)
+(“The lack of government inspection does not relieve the contractor of the burden of
+providing conforming materials under the contract.”).
+
+        Finally, HPA also contends that NASA violated the duty of good faith and fair
+dealing by first agreeing to omit the UT test requirement only to re-impose it later when
+“everyone knew” that the welds would not pass (app. reply at 2, 17). The Board
+disagrees. There is no evidence that NASA imposed the UT test requirement after the
+slugged welds were discovered or that “everyone” knew that this was not an appropriate
+reaction to the sabotaged welds. In fact, the evidence indicates that, as the prime
+contractor, HPA shared the same sense of consternation or betrayal as NASA after it
+learned that an employee of a sub-subcontractor had done this. HPA reacted immediately
+to hold Quality Iron responsible and require it to inspect all the welds and fix those found
+to be flawed. Part of this inspection and repair process involved UT inspections, but
+there is no indication that NASA forced it on HPA. (Findings 51, 54-56) HPA has not
+shown that there was a better, faster, or cheaper response to the problem once the slugged
+welds were disclosed.
+
+       Appeal Nos. 62039 and 62040 are denied.
+
+                   ADDITIONAL FINDINGS OF FACT APPEAL No. 62042
+
+       62. The claim that is the basis for this appeal was made by HPA on behalf of
+Quality Iron for what it (Quality Iron) calls excessive movement of the B2 test stand
+during the erection of the SLS Support Tower and Access Tower steel. According to
+Quality Iron’s John Phillips, the structure was moving more than two inches. He testified
+
+
+                                            23
+that the structure, which is U-shaped, was expanding and contracting at the open end of
+the U (tr. 3/50-52). This caused HPA a variety of problems, especially the inability to
+line up bolt holes (id. at 53). HPA contends that standards incorporated in the contract
+allow the steel to expand or contract approximately 1/8 inch per 100 feet for each change
+of 15 degrees Fahrenheit (app. supp. R4, tab 3 at 60). HPA offers three types of evidence
+in support of its contentions: surveys, physical measurements, and expert testimony (app.
+reply at 25).
+
+      63. The Board finds that the surveys are inconclusive. Both parties commissioned
+surveys but the surveyors produced inconsistent results (tr. 6/154). On March 29, 2016,
+an HPA vice president, Clyde McCutcheon, wrote to Quality Iron expressing
+considerable doubt that the surveys showed that the test stand was moving and instead
+blaming Quality Iron for fabrication errors. He wrote:
+
+              I have not seen anything other than anecdotal evidence that
+              the stand is moving other than in predictable ways from
+              thermal expansion. . . . We have used the same surveyor here
+              since 2012, coming off the same control points that allowed
+              us to lay out and drill the holes for the MPTA base plates
+              [within] thousandths. We have used the same control lines
+              for center line of structure since that time as well. The
+              benchmark set on the structure is certified within thousandths
+              of the theoretical elevation. The location errors for the
+              Forward Thrust Attachments and Aft Thrust attachment were
+              not fabricated in the proper location relative to each other.
+              We have been waiting for weeks for John [Phillips] to
+              produce anything concrete . . . .
+
+(R4, tab 57a at 2)
+
+       64. HPA’s surveyor did not testify at the hearing. The parties instead filed a
+stipulation of expected testimony by the surveyor that diminished any support his surveys
+provided to HPA. He stated:
+
+                      In my professional opinion, there are several factors
+              that can affect the accuracy of surveys taken at the same
+              location, but on different dates. By that I mean, there are
+              several factors that can affect the “repeatability” of surveys,
+              thereby calling in question whether a surveyor can
+              definitively state whether a structure has moved when
+
+
+                                             24
+             multiple surveys of the same location(s), taken on different
+             dates contain different measurements.
+
+             ....
+
+                     I am aware that Harry Pepper has used the variations
+             found in several of my surveys, taken at the same
+             locations/elevations on the test stand, but on different dates,
+             to illustrate what they believe is movement of the test stand,
+             and to document specific amounts of movement. I will vouch
+             for the accuracy of the various surveys that I/my company
+             performed; however, as I earlier stated, I have concerns about
+             the “repeatability” of surveys, and I cannot state that any
+             party can establish movement solely by comparing survey
+             results/measurements taken at the same test stand locations,
+             on different dates. As stated during my deposition, I do not
+             have an opinion one way or the other as to whether this
+             particular test stand moved during our survey work.
+
+(Ex. G-16)
+
+       65. Next, HPA relies on measurements taken by Quality Iron’s John Phillips with
+a measuring tape. As the Board finds below in the discussion of the testimony from
+HPA’s expert, the dispute devolves down to whether over a distance of approximately
+34 feet the two ends of the structure were moving in and out by about one-half inch,
+which would require a high level of precision for a hand measurement. The photos that
+HPA has submitted raised questions about the accuracy of the measurements because
+some photos show twisting of the tape measure and the Board cannot tell if Quality Iron
+used accurate benchmarking of the tape (same start and endpoints each time) (tr. 4/139;
+R4, tab 63).
+
+        66. HPA’s expert, Dr. Thomas Tarpy, agreed that the photos did not demonstrate
+that Quality Iron had used proper benchmarking in taking the measurements and that the
+twisting seen in the photos could impact the accuracy (tr. 4/139-43). Because of the
+small amount of movement at issue, the tape measurements do not have sufficient indicia
+of reliability for the Board to find that they support the claimed movement.
+
+        67. Finally, HPA presented expert testimony from Dr. Tarpy in the field of
+structural steel engineering and design, and oversight of structural engineering,
+fabrication, and erection (tr. 4/85). However, Dr. Tarpy’s testimony hurt HPA more than
+it helped. Dr. Tarpy did not believe it was possible that the test stand moved more than
+
+
+                                           25
+two inches as Quality Iron contends. Rather, he testified that the movement was “up to
+three eighths, maybe a half inch in some cases” (tr. 4/119). However, as we have already
+found, neither the surveys, nor the hand measurements support even this amount of
+movement. And Dr. Tarpy agreed that the work required by a 3/8 to 1/2-inch movement
+would have been much less than the 2+ inches alleged by Quality Iron. He characterized
+this as a “night and day” difference and that there was “no comparison” in the amount of
+work that would be required as a result of movement at these levels. (Tr. 4/150)
+
+       68. Dr. Tarpy also opined that when Quality Iron raised the movement issue,
+NASA’s designer should have approved the use of slotted connections for fit up of
+horizontal members into the sides of the vertical members (tr. 4/102). But there is no
+evidence that HPA ever asked NASA to approve the use of slotted connections (tr. 9/42,
+10/10).
+
+       69. Dr. Andrew Martin, the project manager for NASA’s structural steel design
+contractor, testified credibly that while “everything moves,” the B2 test stand was “about
+the beefiest structure” he had ever been associated with and was “nuclear blast resistant.”
+He did not agree that the structure moved in the amount HPA claimed. (Tr. 6/107)
+Moreover, he testified convincingly that situations do occur where bolt holes in
+fabricated steel do not line up but skilled ironworkers have a variety of techniques to
+address this problem (id. at 110-12).
+
+       70. HPA submitted a certified claim on December 20, 2018, (referred to as REA
+12) seeking $4,102,121.47 and a 227-day delay based on theories of defective
+specifications, breach of the duty not to hinder, delay or interfere with HPA, constructive
+changes, differing site conditions, and cardinal change (R4, tab 52 at 8-16).
+
+       71. CO Edge denied the claim on March 27, 2019 (R4, tab 57). HPA filed a
+timely appeal that the Board docketed as No. 62042.
+
+                            DECISION - APPEAL No. 62042
+
+       Because HPA has not proven that the test stand moved in any meaningful way,
+this appeal is denied.
+
+                                     OTHER CLAIMS
+
+        At pages 44-54 of HPA’s opening brief, after its proposed findings of fact on the
+four appeals, it presents a section entitled “Breach of Contract.” HPA states: “In addition
+to the four discrete claims discussed above, the proof showed that from the outset of the
+construction NASA breached its contractual duty of good faith and not to hinder, delay or
+
+
+                                            26
+interfere with HPA’s performance by NASA’s egregious and continuous delays.” (app.
+br. at 44). HPA does not make a separate money demand for the alleged breach of
+contract and the section appears to be simply an attempt to buttress HPA’s claims by
+reciting a litany of other supposed bad acts by NASA that largely appear unrelated to the
+four appeals. For example, it contends that NASA hindered HPA by: delaying shop
+drawing approval, solving site access issues, issuing change orders when needed,
+responding to RFIs, providing information concerning government furnished property,
+and delivering field change requests (app. br. at 50-51).
+
+        If HPA had other claims against NASA for delay or hindrance, it could have
+submitted a claim to the contracting officer. The Board has carefully examined the facts
+of the four appeals after a two-week hearing. The Board has decided all four appeals on
+the merits. The other supposed bad acts alleged by HPA do not revive claims that the
+Board has found to fail on the facts nor does it add anything to the claim that the Board
+has sustained in part. Accordingly, the Board finds that the contentions on pages 44-54
+of HPA’s brief do not add anything to the four appeals and that no further action by the
+Board is necessary.
+
+                                     CONCLUSION
+
+      The Board sustains ASBCA No. 62038 in part, and denies ASBCA Nos. 62039,
+62040, and 62042.
+
+      Dated: November 3, 2021
+
+
+                                                    MICHAEL N. O’CONNELL
+                                                    Administrative Judge
+                                                    Armed Services Board
+                                                    of Contract Appeals
+
+
+  (Signatures continued)
+
+
+                                           27
+ I concur                                         I concur
+
+
+ JOHN J. THRASHER                                 J. REID PROUTY
+ Administrative Judge                             Administrative Judge
+ Chairman                                         Vice Chairman
+ Armed Services Board                             Armed Services Board
+ of Contract Appeals                              of Contract Appeals
+
+
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA Nos. 62038, 62039, 62040,
+62042, Appeals of Harry Pepper and Associates, Inc., rendered in conformance with the
+Board’s Charter.
+
+      Dated: November 3, 2021
+
+
+                                               PAULLA K. GATES-LEWIS
+                                               Recorder, Armed Services
+                                               Board of Contract Appeals
+
+
+                                          28

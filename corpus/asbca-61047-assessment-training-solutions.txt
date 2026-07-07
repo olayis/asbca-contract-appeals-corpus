@@ -1,0 +1,677 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeal of --                                    )
+                                                )
+Assessment and Training Solutions               )    ASBCA No. 6104 7
+ Consulting Corporation                         )
+                                                )
+Under Contract No. H92240-14-P-0155             )
+
+APPEARANCE FOR THE APPELLANT:                        James S. DelSordo, Esq.
+                                                      Argus Legal, PLLC
+                                                      Manassas, VA
+
+APPEARANCES FOR THE GOVERNMENT:                      Jeffrey P. Hildebrant, Esq.
+                                                      Air Force Deputy Chief Trial Attorney
+                                                     Phillip E. Reiman, Esq.
+                                                     Lt Col Nathaniel H. Sears, USAF
+                                                      Trial Attorneys
+
+                   OPINION BY ADMINISTRATIVE JUDGE CLARKE
+
+       This appeal arises out of a Navy contract to lease three boats to be used in maritime
+training. Assessment and Training Solutions Consulting Corporation (ATSCC) claims
+$57,596.01 for damage to two of the boats. We have jurisdiction pursuant to the Contract
+Disputes Act of 1978 (CDA), 41 U.S.C. §§ 7101-7109. We sustain the appeal in the amount
+of $50,637.08 and deny the rest. Appellant has elected to proceed under Board Rule 12.3.
+
+                             SUMMARY FINDINGS OF FACT
+
+       1. Contract No. H92240-14-P-0155, dated 31 March 2014, was awarded by the
+Naval Special Warfare Command (Navy), Norfolk, Virginia, to ATSCC to lease 3 boats
+for 12 months with options to extend each by 6 months (R4, tab 1 at 4-10). The base
+period of performance was from 31March2014 to 30 March 2015 (id. at 12-13). The
+boats were to be delivered to San Diego Harbor, California, Little Creek Harbor, Virginia,
+and Pass Christian Harbor, Mississippi (id. at 4-6). The contract value was $718,000.00
+(id. at 13).
+
+      2. The Performance Work Statement (PWS) stated that the three vessels were to be
+used "in support of Master Mariner training program" (R4, tab 7 at I). The PWS included
+the following maintenance requirements:
+
+               Contractor will perform quarterly preventative maintenance on
+               all three craft to include both hull, mechanical, and electrical
+               systems. The cost of such maintenance shall be borne by the
+              contractor. Additionally, quarterly maintenance inspections
+              shall be performed on all three craft to identify any actual or
+              pending maintenance failures that could potentially degrade or
+              compromise the safe and efficient operation of the vessel.
+              Identified repairs shall be affected [sic] within a ten day period,
+              pending availability of necessary repair parts. The contractor
+              shall bear the cost of performing repairs unless it can be proven
+              that such repairs were due to negligence or willful damages
+              caused by the government.
+
+ (Id. at 2) (Emphasis added) The PWS did not require that the Navy fill out pre- and
+post-operation checklists or engine logs during operation (tr. 1183; R4, tab 7).
+
+       3. An engine survey was conducted on 14 April 2014 on one of the boats, the Free
+Spirit (FS), a 57-foot Viking Yacht Sportfish (R4, tab 84; app. supp. R4, tab 2). Contrary
+to the Navy's assertion in its reply briefthat ATSCC "never disclosed the 14 April 2014
+engine survey" to the Navy (gov't reply br. at 2), the engine survey report was in a "big
+packet" of material onboard FS when the Navy did its initial walkthrough (tr. 11137-38).
+The Navy agrees that it inspected the FS before use (gov't br. at 5). The survey indicated
+that overall performance of the engines was "good" (R4, tab 84 at 7). The survey included
+a "Test Trial" that indicated the port engine was operating within specified requirements
+(id. at 8). The survey identified twelve deficiencies in the port engine including "scuffing
+and scouring present on the random cylinders inspection" and a lack of service history (id.
+at 10). Mr. Taylor is the Chief Engineer, Special Warfare Group 4 (tr. 11179). The Board
+recognized Mr. Taylor as an expert in diesel engines (tr. 11182). Mr. Taylor reviewed the
+survey. He explained that an exhaust manifold directs exhaust from the combustion
+cylinders to the turbo charger (tr. 11185). The manifold is cooled by treated distilled water
+or "coolant" (tr. 11186). Mr. Taylor testified that the FS's 25-year old Detroit Diesel
+engine's condition depends upon the quality of the maintenance over the years (tr. 11197).
+Concerning the survey and the 25-year old diesels, he testified that "everything wears a
+little bit" but with proper maintenance the boat should operate normally (tr. 11184, 197).
+Conversely, ifthe engines are poorly maintained "you have trouble" (tr. 11197). The
+previous owner's maintenance records for the FS were not available during the survey
+(tr. 11190). Mr. Taylor questioned the maintenance history based on his observations
+(tr. 11191). Mr. Janota is the vice president of ATSCC (tr. 1140). He testified that he
+talked to the previous owner and saw some maintenance records/logbooks and was
+satisfied the FS had been maintained (tr. 11115). In its reply brief the Navy contends, "the
+engines were in such poor condition the mechanic refused to warranty his repair work"
+(gov't reply br. at 2). This is a misrepresentation of the record. The handwritten statement
+on the invoice read, "Note: This is a high horse power unit and full overhaul was not
+performed therefore this repair has no warranty expressed or implied" (R4, tab 95 at 2).
+Thus, the reason there was no warranty was because the mechanic did not do a full
+overhaul, not because the engines "were in such poor condition."
+
+
+                                               2
+        4. On 14 April 2014, ATSCC and the Navy signed a "Bareboat Charter Agreement"
+for "La Buena Vida" (LBV) a 1988 62-foot Halvorsen Convertible (app. supp. R4, tab 1).
+The charter required that the Navy fill out pre- and post-operation checklists (id. at 3).
+Mr. Bell signed for ATSCC and Mr. Chad Fishell signed for the Navy (id.}. Mr. Bell had
+authority to enter into contracts for ATSCC (tr. 1/132). Mr. Fishell was the captain of the
+boat at delivery and did not have authority to enter into contracts for the Navy. 1 LBV was
+approximately 29 years old (R4, tab 72 at I).
+
+        5. On 18 April 2014, ATSCC and the Navy signed a "Bareboat Charter Agreement"
+for FS (app. supp. R4, tab 2). The charter required that the Navy fill out pre- and
+post-operation checklists (id. at 6). Mr. Hagerman signed for ATSCC and Mr. Overley
+signed for the Navy (id.). Mr. Hagerman had authority to enter into contracts for ATSCC
+(tr. 11132). Mr. Overley was the captain of the boat at delivery and did not have authority
+to enter into contracts for the Navy. 2 FS was approximately 27 years old (R4, tab 71 at 1,
+tab 74 at 2).
+
+       6. Mr. Janota testified the bareboat charter agreements were provided by ATSCC to
+the boat captain "so that they would have something to show the Coast Guard when the
+Coast Guard pulled them over" (tr. 1/67; app. supp. R4, tabs 1-2). Mr. Janota did not intend
+the charter agreement to alter the contract with the Navy (tr. 1/84, 129).
+
+       7. Sometime before 21April2014, the FS ran aground while being operated by the
+Navy (R4, tab 85 at 2). On 21April2014, ATSCC had the FS hauled out for repairs
+occasioned by the grounding (tr. 11100). ATSCC paid Progressive Marine Service,
+St. Petersburg, Florida, $12,487.32 for the repairs (tr. 1/99-102; R4, tab 85 at 4-6). The
+Navy and ATSCC failed to reach agreement and the Navy did not pay ATSCC $12,487.32
+in 2014 (tr. 1/100). Later in June 2015 the Navy paid ATSCC $7,428.93 for the bent shaft,
+missing propeller, and a shore power cord from the grounding (R4, tab 6). 3
+
+      8. Mr. Graham, ATSCC "representative," sent a "Vessel Status Report for
+September, 2014" to Michael Rose, "Naval Special Warfare" (app. supp. R4, tab 13). One
+ofFS's engines would not tum over. Troubleshooting the engine found water in the top of
+the number 6 piston which was attributed to a cracked head, leaking exhaust manifold, or
+
+1
+  The government put no evidence on the record that Mr. Fishell had contracting authority
+       and Air Force counsel stated, off the record, that he did not and we find he did not.
+2 The government put no evidence on the record that Mr. Overley had contracting authority
+
+       and Air Force counsel stated, off the record, that he did not and we find he did not.
+3 The record is confusing regarding the grounding in 2014. The 21 April 2014 invoice for
+
+       $12,487.32 was from Progressive Marine Service, St. Petersburg, Florida (R4, tab 85
+       at 6). The $7,428.93 invoice for repair of the bent shaft and missing propeller "from
+       grounding" is dated 23 April 2015 and is from Kennedy Marine, Gulfport,
+       Mississippi (R4, tab 3 ). There is no evidence of grounding in 2015. The record
+       provides no explanation.
+                                             3
+leaking injector. ATSCC hired Johnson's Diesel Service to make the repairs and on
+29 September 2014 "[a]fter several repairs" FS got underway and ran well. (Id. at 2) The
+invoice from Johnson's Diesel indicates the repairs took place from 10 to 30 September
+2014 and that port engine cylinders Nos. 5 & 6 were replaced, a bent rod on cylinder No. 6
+was replaced and an exhaust manifold was cracked. A new manifold could not be used
+because of a design change but the mechanic found a "good used manifold" and installed it
+on the port engine. 4 Prior to the sea trial the mechanic found that the wrong oil was used,
+"customer was using 15-40w oil which is incorrect for a 2 stroke 40w only," however, it is
+unclear what affect this had on the engines. The mechanic wrote that because he did not
+perform a full overhaul there was no warranty of the work. The total invoice for parts and
+labor was $12,134.80. (App. supp. R4, tab 8 at 2) Three engine logs before the September
+2014 failure indicate the Navy operated the FS when the port engine was overheated
+(temperature greater than 205) on 21, 22, and 23 July 2014 (R4, tab 76 at 11, 17, 23). There
+is nothing on the logs that indicates the high temperature alarm sounded. Mr. Taylor agreed
+that the port engine was running hot and at temperatures of 220 or above damage to the
+engine could occur (tr. 1/211, 23 3). A TSCC did not ask the Navy to reimburse it for the
+repair and the cost of these repairs is not in ATSCC's claim (tr. 1/54).
+
+       9. In December 2014, the FS underwent "lengthy yard service" including tuning the
+port engine, flush coolant system and add new coolant, and replacing various parts. After
+the service, FS conducted "a sea trial with notable improved performance." (App. supp.
+R4, tab 16 at 1-2)
+
+       10. In January 2015, the FS underwent repairs that included an acid wash of the port
+engine coolant and addition of new coolant. The report did not identify that any problems
+were found. (App. supp. R4, tab 17 at 2)
+
+       11. In the February 2015, Vessel Status Report, A TSCC reported the following
+discrepancy for the FS:
+
+             Port Engine - The port engine has a steady oil leak and
+             requires oil to be added before every underway. There is a
+             significant amount of light grey smoke coming out of the port
+             exhaust when the engine is at idle and while underway. It is
+             recommended that a certified mechanic be hired to address
+             the issue.
+
+(App. supp. R4, tab 18 at 3)
+
+
+4 There are two manifolds on the engine (app. supp. R4, tab 4 at 2) but the invoice does not
+
+       identify which one was replaced (app. supp. R4, tab 8).
+                                              4
+       12. The March 2015 Vessel Status Report indicates the following for the FS:
+
+              Port engine - per the mechanic, most of the smoke that is
+              being seen while underway is steam (after looking at the
+              video that was sent to me). There is some smoke coming
+              from the engine, but with the age, it is normal. There are a
+              couple of ways to improve the smoke like rebuild the
+              injectors. With the oil leaking around the engine, Port and
+              Starboard Sea water pumps have a slight leak and new seals
+              are needed. Blower Hub Oiler on Port side has a leak
+              coming from the o-ring, needs to be replaced. Portside Air
+              box muddler - pressure bolt was too long allowing oil to roll
+              out. New bolt was replaced and oil was stopped[.]
+
+(App. supp. R4, tab 19 at 4) The April 2015 Vessel Status Report indicates, "The port
+engine injectors are in and will be installed on Tuesday" (app. supp. R4, tab 20 at 2).
+
+       13. On 18 March 2015, the Navy exercised the options for an additional six months
+adding $354,000 to the contract (R4, tab 2).
+
+       14. Except for a "minor oil leak in the [FS] engine room" reported in the May 2015
+Vessel Status Report, there were no other problems reported for the FS in the May, June
+and July 2013 reports (app. supp. R4, tabs 21, 22).
+
+       15. On 11June2015, ATSCC submitted a Request for Equitable Adjustment (REA)
+for $7,428.93 in damages to the FS (R4, tab 3). The damage was a bent shaft, shore power
+cord repair, and missing propeller caused by "grounding" the vessel (id. at 1). The Navy
+reviewed the REA and concurred with the cost of the repairs (R4, tabs 4, 8). Modification
+No. P00003 paid ATSCC the requested $7,428.93 for the repairs (R4, tab 6).
+
+        16. The record includes various checklists and engine logs for the FS. The PWS
+did not require log books be maintained (tr. 1183; R4, tab 7); however, the Navy did fill
+out checklists and some logs. Mr. Bell, ATSCC program manager, testified that pre- and
+post-operation checklists ensure everything is in order before getting underway and
+engine logs are filled out during operation and document, among other things, engine
+coolant temperature (tr. 1/12, 26). The pre-operation checklists from the date of the
+repair of the port engine on 29 September 2014 to the port engine overheating on
+6 August 2015 indicate that the port engine oil and coolant were checked before every
+use of the FS and oil and coolant was added if necessary (R4, tabs 9, 33, 45, 47, 52, 57,
+60, 75-81). 5 According to the checklists, the FS was operated 38 days between
+29 September 2014 and 6 August 2015 (R4, tabs 9, 45, 47, 52, 57, 60, 78-81). Only 13 of
+the 38 days included filled-out engine logs (R4, tabs 45, 47, 52, 78-80). The only
+
+5 There is nothing in the record to establish if these are all the checklists for the FS or not.
+
+
+                                                 5
+explanation was that the Navy does not require that engine logs be filled out on
+commercial vessels (tr. 11216). All of the engine logs showed that the port engine was
+operated at a proper temperature (below 205 degrees) 6 (id.). The last filled out engine log
+is for 27 May 2015 (R4, tab 52 at 34 ). There are no engine logs for June and July 2015 in
+the record. There is no engine log for the 6 August 2015 trip to Kennedy Marine when
+the port engine overheated (R4, tab 9). At the end of September 2014 the port engine had
+1548 hours of operation (app. supp. R4, tab 22 at 1). The 6 August 2015 post-operation
+checklist for the FS documents that the port engine had 1725.3 hours of operation (R4,
+tab 9 at 6). Therefore, the FS port engine accumulated 177 .3 hours of operation between
+29 September 2014 and 6 August 2015. Mr. Janota testified that 90 hours of operation
+was low for the engines (tr. 1/126). We infer that 177.3 hours is likewise not an
+excessive amount of hours.
+
+         17. On 5 August 2015, Special Boat Chief(SBC) Alb sent an email to CW03
+Greenleaf, FS training officer (tr. 11157), stating, "Mechanic called me. Viking may have a
+cracked manifold in the Port engine." (R4, tab 69 at 2) "Viking" refers to the
+manufacturer of the FS (tr. 1/160-61). The "mechanic" was Kennedy Marine (tr. 11161,
+167). SBC Alb explained that they ran the FS to get it to Kennedy Marine because they
+were not sure the manifold was in fact cracked and Kennedy recommended that the Navy
+take it to Kennedy for repair if needed (tr. 1/162, 167-68).
+
+        18. SBC Alb was a trainer on the FS on 6 August 2015 (tr. 1/141). According to
+SBC Alb's declaration, on 6 August 2015 the Navy was returning the FS to ATSCC for
+"repairs because there was an active 'discrepancy report' from the previous month
+noting that the port engine had a large oil leak from the engine and was continuously
+losing coolant" (R4, tab 71 at 2). The pre- and post-operation checklists before
+6 August 2015 do not indicate that the FS was "continuously losing coolant" (R4, tabs 9,
+45, 47, 52, 57, 60, 78-81). SBC Alb recalled that he was told that port engine was
+"continuously losing coolant," but he had no personal knowledge and could not explain
+why the checklists did not document such a problem (tr. 1/170-72). On 6 August 2015,
+the FS was "underway" during a 50 nautical mile trip from Gulfport, Mississippi, to
+Kennedy Marine Boat Yard, Gulfport, Mississippi (R4, tab 9). SBC Alb testified that
+when the FS was underway the crew conducted hourly spot checks of the engine room
+"which ensures that shafts were operating well, there is no water entering the bilge and
+ensuring that there is no oil leaking from the engines and transmissions" (R4, tab 9 at 1).
+The crew had a "green log book, captain style log book, on the vessel in which the guys
+would do a visual inspection of the engine room every hour" (tr. 11153). SBC Alb
+testified that although he did not fill out the log books himself, they were required to be
+filled out anytime the vessel would get underway (tr. 1/154). No engine logs were
+entered into the record after 27 May 2015 (R4, tab 52 at 34) even though SBC Alb
+testified they would be kept in the training department. Mr. Gino "Magaroni" (signature
+
+6 Mr. Bell and Mr. Taylor testified that the normal operating temperature is around 180
+
+       degrees (tr. 1118, 209).
+                                              6
+hard to read) filled out Pre-Operational and Post-Operational checklists for 6 August
+2015 (R4, tab 9 at 2, 6). The Pre-Operational engineering checklist indicated
+mechanicals such as oil level, coolant, transmission, belts, etc. were acceptable. There is
+no requirement to check coolant or oil levels on the post-operation checklist. (Id. at 6)
+A note on the Post-Operational engineering checklist read, "Upon arrival port engine
+temp alarm was going off. Port engine shut down." (Id. at 7) SBC Alb recalls that as
+they approached Kennedy Marine the port engine alarm went off (tr. 11145-46). They
+shut the port engine down immediately and used the good engine to moor the boat
+(tr. 11146). SBC Alb testified that they did not "experience high operating temperatures
+in the engine" before they arrived at Kennedy Marine (tr. 1/151 ). He explained that
+once the engine hits high temperature the alarm goes off and that is a signal to the crew
+to shut the engine down (tr. 11151).
+
+        19. The FS was inspected by Kennedy Marine on 7 August 2015. Mr. Kennedy
+reported that the rear outboard manifold 7 was cracked allowing coolant water to leak into
+the oil sump, and wrote, "We could not find any signs of the engine loosing water
+externally that would cause the manifold to crack." (App. supp. R4, tab 3 at 2) In a
+25 August 2015 "Port engine exhaust manifold service report," Mr. Kennedy wrote in
+part, "We found nothing in the performance of the engine to cause the manifold to crack
+other than the engine had no coolant water" (app. supp. R4, tab 4 at 2). In an
+11 September 2015 email to ATSCC, Mr. Kennedy reported that as they were repairing
+the manifold they found broken rings on two port engine cylinders and estimated it would
+take six days to repair (app. supp. R4, tab 3 at 1). Mr. Taylor, the Navy's diesel engine
+expert, testified that it is impossible to know when the crack in the port engine manifold
+started to form and that it could have been there for a long time (tr. 1/201, 234-35). 8
+
+     20. On 17 September 2015, Mr. Hagerman, ATSCC, notified LCDR Macaskill,
+USSOCOM, that on 11 September 2015 "several hundred gallons of diesel fuel had been
+pumped into one of [LBV's] freshwater tanks by NSW personnel, and that it had been
+pumped through the vessel's lines" (R4, tab 68 at 2).
+
+      21. On 15 December 2015, ATSCC submitted to the Navy contracting officer a
+$57,596.01 claim for damage to two boats, the LBV ($16,210.13) and the FS ($41,385.88)
+caused by "the negligence of U.S. Government (USG) personnel" (R4, tab 11 at 1-2). The
+damage was identified in the claim:
+
+7
+  Because the records of the September 2014 replacement of a manifold with a used
+       manifold do not identify which one (app. supp. R4, tab 8), we do not know if this
+       failure involved the used manifold or not.
+8 Mr. Taylor's expert testimony included a lot of speculation such as that the 2014 repair
+
+       installing a used manifold could be the source of the problem or even that a previous
+       owner could have operated the engine in an overheated condition (tr. 1/203-07).
+       That is the problem with his testimony, much of it is speculation and we can only
+       give it limited weight.
+                                              7
+                         La Buena Vida
+           Propeller Damage                                   $1,937.00
+           Hull & Rub Rail Damage                             $3,593.70
+           Hull Buff & Wax Due to Hull Damage                 $1,000.00
+           Water Tank                                         $5,325.00
+           Davit                                              $1,072.50
+           Detailing (Interior & Carpets)                      $1,720.00
+           Haul, Block, Launch & Wash                          $1,447.20
+           Misc Materials                                        $37.48
+           Sales Tax (8%)                                        $77.95
+                               Total                         $16,210.[8]3
+
+                             Free Spirit
+           Manifold                                            $12,797.90
+           Ring Job                                            $26,847.98
+           Detailing                                            $1,740.00
+                               Total                           $41,385.88
+
+ATSCC stated that it took responsibility for some repairs having paid $29,633.23 for the
+LBV and $167,592.34 for the FS (id.). The $1,937.00 invoice for the LBV "propeller
+damage" read "R & R props for tune and balance" (id. at 4 ). SBC Rose testified in his
+declaration that tuning and balancing a propeller could be done to improve performance
+and fuel economy and was not for repairing damage to the propeller (R4, tab 82 at 3). An
+inspection report dated 21 June 2016 indicates that the damage to the LBV port bow
+"occurred while docking the boat in windy conditions, with the port bow striking the
+concrete pylon at the dock" (app. supp. R4, tab 006 at 1). The Navy had "conducted
+basic fiberglass repair of the area and then boat was moved by Navy crew to Driscoll's
+Boat yard in the afternoon for feather/prime, paint and replacement of rub rail" (id.). The
+record includes pictures of the damage and repair (id. at 2-3). The $3,593.70 invoice
+stated, "Paint repairs to port hullside and rub rail from 2nd port light aft to 4" vent fwd"
+(R4, tab 11 at 4). The invoice for the davit repair indicates "davit cable appeared to have
+been cut" 9 (id. at 6).
+
+       22. The Navy failed to issue a final decision on the 15 December 2015 claim for
+over a year. ATSCC appealed to this Board based on a deemed denial on 6 February
+2017. We docketed the appeal as ASBCA No. 61047 on 7 February 2017. ATSCC
+elected to have the appeal decided pursuant to Rule 12.3 accelerated procedure on
+7 April 2017.
+
+
+9 The electronic version of the invoice is mostly illegible, however, the copy of the claim
+
+       attached to the notice of appeal is legible.
+                                                8
+                                          DECISION
+
+       We decide both entitlement and quantum. The Navy does not contest the dollar
+amounts claimed by A TSCC. We verified that the dollar amounts are supported by the
+invoices in the record.
+
+       The parties signed Contract No. H92240-14-P-0155 (contract 0155) to lease three
+boats (finding 1). Contract 0155 required ATSCC to provide quarterly inspections and
+maintenance at ATSCC's expense unless the repairs were caused by the negligence of the
+government (finding 2). The parties also signed bareboat charter agreements for the LBV
+and FS 10 but the signers for the Navy did not have authority to enter into contracts for the
+Navy (findings 4-5). Therefore, these are not binding contracts. D&F Marketing, Inc.,
+ASBCA No. 56043, 09-1 BCA ~ 35,108 at 168,774 (must have actual authority to bind
+government in contracts). We disagree with ATSCC's argument that the charters are
+binding "maritime" contracts based on "admiralty law" (app. br. at 6). The bareboat
+charters, although not bilateral contracts, were primarily for the benefit of the Coast Guard
+should the boats be stopped and inspected (finding 6). 11 Since the charters are not binding
+contracts, we need not deal with them further in this decision.
+
+       A TSCC argues that the nature of the damage, especially the engine damage, is
+sufficient to prove negligence on the part of the Navy (app. br. at 5). Contrary to ATSCC's
+argument, the record does not "clearly show" that the Navy operated the vessels negligently
+(id.). ATSCC failed to prove that the claimed damages were caused by the Navy's
+negligence. One would expect that finding to resolve the appeal in favor of the Navy.
+However, A TSCC points to common law bailment and argues that it may rely on a
+presumption to meet its burden of proof (id.). The Navy argues that since "negligence is
+specifically addressed in the PWS, common law bailment principles are inapplicable to
+A TS' claim" (gov't br. at 11 ). A TSCC is correct.
+
+       ATSCC relies on Mohammad Darwish Ghabban Est., ASBCA No. 51994, 00-2
+BCA ~ 31, 114 for the proposition that when the government rents property from a
+contractor, a bailment for the mutual benefit of the parties is created. Id. at 153,671. The
+law of bailment imposes upon the bailee the duty to protect the property by exercising
+ordinary care and to return the property in substantially the same condition, ordinary
+wear and tear excepted. Id. When the government receives the property in good
+condition and returns it in a damaged condition, a presumption arises "that the cause of
+the damage to the property was the Government's failure to exercise ordinary care or its
+negligence." Mohammad Darwish, 00-2 BCA ~ 31,114 at 153,672; International
+Automotriz, ASBCA No. 59665, 15-1BCA~36,174 at 176,513. However, when the
+parties enter into an express written contract, the rights and obligations of the parties are
+
+10
+     The third boat is not relevant to this appeal.
+11
+     There are no inconsistencies between the language of the Charter Agreements and
+         Contract 015 5, Navy liability under both is essentially based on negligence.
+                                               9
+determined by the provisions of the contract. Mohammad Darwish, 00-2 BCA ~ 31,114
+at 153,672. In this case, contrary to the Navy's argument, the criteria for government
+liability are the same under the common law of bailment and the express contract -
+negligence. The Board has applied the common law presumption when an express
+written contract exists if the common law is consistent with the written contract. Id. at
+153,672 (we construe the language used here as no more than an expression of the
+common law liability of the bailee). In Mohammad Darwish the Air Force rented a road
+grader. It was received used but in operating condition but was returned with a blown
+engme. The arguments are remarkably similar to this appeal:
+
+                     Appellant has offered a technical report which we found
+             credible stating that the damage to the engine was caused by
+             high temperature resulting from a lack of water and oil and that
+             there was no indication of a latent defect in the "inner parts" of
+             the engine. The Government has offered the operator's
+             statement that the oil level was full and Capt Langer's
+             memorandum. The Government did not conduct an
+             independent evaluation to assess the likely cause of the damage.
+             Moreover, it has not offered any evidence that it performed
+             routine maintenance on the grader during the period of the lease
+             other than the statement that Air Force personnel checked the
+             fluid levels on the grader daily. Under these circumstances, we
+             conclude that the Government has not rebutted the presumption
+             that the cause of the damage was its failure to exercise ordinary
+             care in operation of the equipment and that it is liable for the
+             resulting damage.
+
+Mohammad Darwish, 00-2 BCA ~ 31,114 at 153,672. The Board sustained the appeal.
+
+        We follow our analysis in Mohammad Darwish. The Navy relies heavily upon the
+engine survey, the fact that the FS was at least 25 years old, had no service history and,
+according to the Navy, was in poor condition (gov't br. at 12-13). The Navy argues, "ATS
+has not shown that it delivered an engine in good condition, and received the engine back in
+damaged condition, excepting ordinary wear and tear" (id. at 12). We disagree. It should
+be clear to anyone, including the Navy, that FS' "blown" engine is not "ordinary wear and
+tear." The Navy had access to the engine survey which was onboard the FS when the Navy
+did its initial walkthrough to accept the boat (finding 3). We find that the Navy is charged
+with knowledge of the survey when it accepted the FS. The survey indicated that overall
+performance of the engines was "good" and included a "Test Trial" that indicated the port
+engine was operating within specified requirements (id.). The Navy's diesel engine expert,
+Mr. Taylor, testified that properly maintained Detroit Diesel engines should perform
+properly. In the absence of maintenance records, Mr. Taylor's concern about the
+maintenance history of the FS's engines is largely speculation. (Id.) The Navy took
+possession of the LBV and FS in April 2014 (findings 4-5). There is nothing in the record
+
+                                             10
+that leads us to conclude that the vessels were not in acceptable operating condition when
+delivered to and accepted by the Navy. There was no requirement that ATSCC provide
+new vessels. We find that the Navy's acceptance of LBV and FS establish that the vessels
+were in good operating condition when received. We also find that both boats had damage
+when returned by the Navy to ATSCC (finding 21).
+
+        The Navy argues that the common law presumption does not apply because the
+Navy did not have exclusive control of the FS and LBV. It bases this argument on
+ASTCC's obligation to preform quarterly preventive maintenance, yet states that ATSCC
+had "regular and frequent access to the vessels in order to perform and coordinate
+maintenance and repairs as required by the PWS." (Gov't reply hr. at 4) We do not
+agree that ATSCC's obligation to maintain the vessels amounts to "frequent access"
+sufficient to avoid the presumption. The damage to the FS port engine occurred during
+Navy operations and training and ATSCC did not participate in the Navy's training.
+Accordingly there is a presumption that the damage was caused by the Navy's
+negligence. Now we consider ifthe Navy rebutted the presumption.
+
+       The burden of proof we routinely apply is preponderance of the evidence.
+Benjamin Medina, ASBCA No. 60289, 17-1 BCA ii 36,818 at 179-444 ("As with any
+claim against the government, the party seeking recovery must prove a causal connection
+between the damages alleged and the government by a preponderance of the evidence.").
+In an early bailment case relating to a shipment of government cargo, we imposed a
+preponderance of the evidence standard on appellant to overcome the presumption that
+the loss of cargo was caused by its negligence. Export Packing Division ofNOVO Corp.,
+ASBCA No. 18376 et al., 75-1 BCA ii 11,291 at 53,829-30. Accordingly, to overcome
+the presumption the Navy must prove that it was not negligent by a preponderance of the
+evidence. We explained this burden in Jack Heller, Inc., ASBCA Nos. 14300, 14376,
+72-2 BCA ii 94 77:
+
+                 A "preponderance of the evidence," as we understand the sense
+                 in which the phrase is normally used, does not mean that a
+                 factual finding based thereon must be free of doubt. Rather,
+                 preponderance rests with that evidence which, when fairly
+                 considered, produces the stronger impressions, and has the
+                 greater weight, and, even though not free of doubt, is more
+                 persuasive as to its truth when weighed against evidence in
+                 opposition thereto. See Black's Law Dictionary, Third Edition.
+                 Thus, a balancing, or weighing, of the conflicting evidence must
+                 be performed by any fact finding tribunal before it can properly
+                 arrive at what constitutes the "preponderance of the evidence."
+
+Id. at 44,147.
+
+
+                                                11
+        The parties presented very little evidence relating to the LBV at the hearing. We
+disagree with the Navy's suggestion that there is credible evidence that ATSCC's
+employees caused the damage to the LBV (gov't br. at 16). We accept SBC Rose's
+declaration testimony that tuning and balancing a propeller is not evidence of damage,
+but routine maintenance (finding 21). We deny this part of the claim. After looking at
+the pictures and other documents, we conclude that the damage to the bow is presumed to
+be caused by negligence, i.e., hitting a pier (id.). The Navy put on little evidence to rebut
+this presumption. We sustain this part of the claim for the claimed amount of $4,593.70.
+We sustain the $5,325.00 claim for the replacement of the water tank due to the Navy's
+putting diesel fuel in it. The Navy has not rebutted the presumption that damage to the
+davit was caused by its negligence and that part of the claim is sustained in the amount of
+$1,072.50. We deny the remainder of the claim for detailing, haul, launch and wash
+because we conclude this is routine maintenance due to fair wear and tear.
+
+        Concerning the FS, we deny the "detailing" claim because, aside from there being
+no evidence on it, we conclude it was not damage but cleaning necessitated by fair wear
+and tear. The parties spent almost all of their effort during the hearing dealing with the
+damage to the FS's port engine where the majority of the costs were incurred-
+$39,645.88. The port engine required a manifold replacement and ring job in August
+2015 (finding 19). It is the Navy's burden to rebut the presumption that the engine
+damage was caused by its negligence. The Navy has proven various things. FS is
+approximately 27 years old (finding 5). The port engine was repaired in September 2014
+to include replacing two cylinders, a bent rod and a cracked exhaust manifold (finding 8).
+This repair was similar to the one in September 2015. The exhaust manifold was
+replaced with a used one, but the record does not specify which of the two manifolds was
+replaced so we do not know if the manifold that was replaced in August 2015 was the
+used one installed in 2014. It would not make any difference to our decision if it was.
+Most significantly, the Navy placed into evidence many checklists that prove Navy
+personnel checked the oil and coolant in the port engine before every operation of the FS
+(finding 16). The post-operation checklist does not include a coolant level check. The
+problem we confront is that proving the FS's port engine had oil and coolant before
+operation does not prove what occurred during the operation. To rebut the presumption
+the Navy must prove it did not operate the engines at too high a temperature which will
+cause the manifold to crack over time. SBC Alb testified that Navy personnel would
+periodically check the engines during operation (finding 18). The engine log forms are
+for documenting such checks. The record only contains 13 engine logs for the 3 8 days of
+operation evidenced by the checklists between September 2014 and 6 August 2015.
+These logs do not show overheating in the port engine. However, the last engine log was
+for 27 May 2015, over two months before the 6 August 2015 failure. (Finding 16) There
+was no explanation why the engine logs were not routinely filled out as, according to
+SBC Alb, engine checks were being conducted hourly while under way and entered in a
+"green log book, captain style log book, on the vessel" (finding 18). In its brief the Navy
+affirmed that it conducted hourly engine inspections and filled out logs during operation:
+
+
+                                              12
+                When in regular use, the Navy conducted pre-operation
+                inspections, post-operation inspections and regular underway
+                inspections and recorded the inspection results in the boats'
+                logs. (R4, tab 71 at 2)P 2l Since this was a training
+                environment, the Navy crews also conducted hourly engine
+                checks under the supervision of their instructors. These checks
+                entailed visually inspecting the engine room for any abnormal
+                oil, or coolant and visually inspecting the gauges to ensure the
+                engines were operating within normal parameters.
+
+(Gov't hr. at 5-6) This quote and SBC Alb's testimony begs the question where are the
+engine logs 13 and how could the Navy have operated the engines in an overheated condition
+in July 2014? The engine logs for 21, 22, 23 July 2014 indicate that the Navy operated the
+port engine in an overheated condition before the September 2014 failure (finding 8).
+These logs are actual evidence of Navy negligence that could have justified Navy liability
+for the September 2014 repairs. The engine logs after the September 2014 repairs are
+critical to the Navy's ability to rebut the presumption.
+
+       Although the FS was not heavily used in 2015, accumulating only 177.3 hours of
+operation before the 6 August 2015 port engine failure (finding 16), it is clear that
+running the engine while overheated can cause a manifold to crack (findings 8, 19). As
+stated above, the engine had been repaired in September 2014. The record evidences that
+A TSCC preformed other maintenance on the FS' s engines in 2015. (Findings 9-14) We
+disagree with the Navy's argument that ATSCC neglected its maintenance obligations
+(gov't hr. at 14-15).
+
+        We find that running the engine when it is overheating is the likely cause of the
+2015 exhaust manifold failure/cracking and resulting "blown" engine (finding 8).
+Mr. Taylor testified it is impossible to know when the crack in the manifold began
+(finding 19). Therefore, it is likely that the manifold crack originated sometime between
+the September 2014 repair and 6 August 2015 failure. Based on Mr. Taylor's testimony,
+it is even possible that running the port engine while overheated during three days in July
+2014 could contribute to the August 2015 failure (findings 8, 19). The Navy presented
+some evidence that it was not negligent. SBC Alb testified that the port engine did not
+overheat during the 6 August 2015 trip to Kennedy Marine until the very end of the trip
+(finding 18). Ifwe accept SBC Alb's testimony as accurate in the absence oflogs, it does
+not tell us if the Navy operated the engine in an overheated condition in the two months
+
+12
+     This cite is to SBC Alb's declaration.
+13 The Navy's initial Rule 4 included logs, mostly pre- and post-operation checklists, that
+
+         the Board discovered were misidentified as FS logs. The Navy then supplemented
+         the Rule 4 with FS logs (R4, tabs 75-81). The Navy therefore had ample opportunity
+         to supplement the record with all of the engine logs it contends it filled out.
+         However, many of the logs are missing.
+                                               13
+before 6 August 2015. SBC Alb's 5 August 2015 email reporting that a mechanic told
+him FS may have a cracked manifold on the port engine indicates that the problem likely
+existed before the 6 August 2015 trip (finding 17). Overcoming the presumption requires
+a preponderance of the evidence. The Navy failed to explain why the missing engine
+logs were not consistently filled out or not entered into the record. The lack of engine
+logs between 27 May 2015 and 6 August 2015 proving that the Navy did not operate the
+port engine in an overheated condition, as it did before the first failure, tips the balance in
+favor of ATSCC. We cannot reconcile the testimony and the contention in the Navy's
+brief with the lack of engine logs in the record. The evidence in the record, "when fairly
+considered, produces the stronger impressions, and has the greater weight, and, even
+though not free of doubt, is more persuasive as to its truth when weighed against
+evidence in opposition thereto." Jack Heller, 72-2 BCA ~ 9477 at 44~147. Therefore, we
+conclude the Navy failed to overcome the presumption that the FS engine failure was
+caused by its negligence by a preponderance of the evidence. We sustain ATSCC's
+claim for the damage to the FS's port engine in the amount of$39,645.88.
+
+                                        CONCLUSION
+
+     For the reasons stated above we sustain the appeal in the amount of $50,63 7 .08 plus
+CDA interest from 15 December 2015.
+
+       Dated: 3 October 2017
+
+
+                                                     ~·a~
+                                                    CRA1G7s. CLARKE
+                                                    Administrative Judge
+                                                    Armed Services Board
+                                                    of Contract Appeals
+
+
+I concur in result
+  (see concurring opinion)
+
+
+J.~
+Administrative Judge
+Vice Chairman
+Armed Services Board
+of Contract Appeals
+
+
+                                               14
+                  OPINION BY ADMINISTRATIVE JUDGE PROUTY
+
+        I concur in the result. I respectfully disagree with the reasoning in Judge Clarke's
+opinion because I conclude that the terms of the contract, notably those in section 2.4 of the
+PWS, expressly require the contractor to prove negligence on the part of the government in
+order to recover. This requirement is inconsistent with the otherwise-applicable
+presumption from bailment law that the bailee is responsible for damages to the rented
+vessel unless proved otherwise. Nevertheless, I have carefully reviewed Judge Clarke's
+findings of fact and find that they and the record that they rely upon support his findings of
+government negligence, even without the presumption upon which Judge Clarke's opinion,
+in part, relies.
+
+       Dated: 3 October 2017
+
+
+                                                   J. RE'.1B15ROUTy
+                                                   Administrative Judge
+                                                   Vice Chairman
+                                                   Armed Services Board
+                                                   of Contract Appeals
+
+
+       I certify that the foregoing is a true copy of the Opinion and Decision of the Armed
+Services Board of Contract Appeals in ASBCA No. 61047, Appeal of Assessment and
+Training Solutions Consulting Corporation., rendered in conformance with the Board's
+Charter.
+
+
+       Dated:
+
+
+                                                   JEFFREY D. GARDIN
+                                                   Recorder, Armed Services
+                                                   Board of Contract Appeals
+
+
+                                              15

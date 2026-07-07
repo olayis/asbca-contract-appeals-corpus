@@ -1,0 +1,436 @@
+{
+  "corpus": [
+    {
+      "id": "asbca-58668-all-star-technical",
+      "docket": "ASBCA No. 58668, 58772",
+      "caption": "All Star Technical Services, Inc.",
+      "year": 2014,
+      "source_url": "https://storage.courtlistener.com/pdf/2014/01/07/all_star_technical_services_inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-58668-all-star-technical.txt",
+      "words": 7758
+    },
+    {
+      "id": "asbca-57406-bulova-technologies-ordnance",
+      "docket": "ASBCA No. 57406",
+      "caption": "Bulova Technologies Ordnance Systems LLC",
+      "year": 2014,
+      "source_url": "https://storage.courtlistener.com/pdf/2014/01/28/bulova_technologies_ordnance_systems_llc.pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-57406-bulova-technologies-ordnance.txt",
+      "words": 7679
+    },
+    {
+      "id": "asbca-57675-dick-pacific",
+      "docket": "ASBCA No. 57675, 57806, 58149, 58150, 58151, 58174",
+      "caption": "Dick Pacific Construction Co., Ltd.",
+      "year": 2015,
+      "source_url": "https://storage.courtlistener.com/pdf/2015/12/15/dick_pacific_construction_co._ltd..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-57675-dick-pacific.txt",
+      "words": 32717
+    },
+    {
+      "id": "asbca-58512-kbj",
+      "docket": "ASBCA No. 58512",
+      "caption": "KBJ, Inc.",
+      "year": 2016,
+      "source_url": "https://storage.courtlistener.com/pdf/2016/03/03/kbj_inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-58512-kbj.txt",
+      "words": 10003
+    },
+    {
+      "id": "asbca-60436-monica-walker",
+      "docket": "ASBCA No. 60436",
+      "caption": "Monica Walker",
+      "year": 2016,
+      "source_url": "https://storage.courtlistener.com/pdf/2016/07/27/monica_walker.pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-60436-monica-walker.txt",
+      "words": 6329
+    },
+    {
+      "id": "asbca-58951-atlas-sahil",
+      "docket": "ASBCA No. 58951",
+      "caption": "Atlas Sahil Construction Company",
+      "year": 2017,
+      "source_url": "https://storage.courtlistener.com/pdf/2017/11/09/atlas_sahil_construction_company.pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-58951-atlas-sahil.txt",
+      "words": 6129
+    },
+    {
+      "id": "asbca-56358-kellogg-brown-root",
+      "docket": "ASBCA No. 56358, 57151, 57327, 58583",
+      "caption": "Kellogg Brown & Root Services, Inc.",
+      "year": 2017,
+      "source_url": "https://storage.courtlistener.com/pdf/2017/06/08/kellogg_brown__root_services_inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-56358-kellogg-brown-root.txt",
+      "words": 16842
+    },
+    {
+      "id": "asbca-57743-raytheon",
+      "docket": "ASBCA No. 57743, 57798, 58280",
+      "caption": "Raytheon Company",
+      "year": 2017,
+      "source_url": "https://storage.courtlistener.com/pdf/2017/04/17/raytheon_company.pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-57743-raytheon.txt",
+      "words": 34074
+    },
+    {
+      "id": "asbca-58550-lc-gaskins",
+      "docket": "ASBCA No. 58550, 59901, 59902",
+      "caption": "L.C. Gaskins Construction Co., Inc.",
+      "year": 2017,
+      "source_url": "https://storage.courtlistener.com/pdf/2017/06/09/l.c._gaskins_construction_co._inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-58550-lc-gaskins.txt",
+      "words": 22329
+    },
+    {
+      "id": "asbca-59519-ciyasoft",
+      "docket": "ASBCA No. 59519, 59913",
+      "caption": "CiyaSoft Corporation",
+      "year": 2018,
+      "source_url": "https://storage.courtlistener.com/pdf/2018/06/27/ciyasoft_corporation.pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-59519-ciyasoft.txt",
+      "words": 13313
+    },
+    {
+      "id": "asbca-58791-john-c-grimberg",
+      "docket": "ASBCA No. 58791, 59167, 59168, 59169, 59170, 59171, 59717",
+      "caption": "John C. Grimberg Co., Inc.",
+      "year": 2018,
+      "source_url": "https://storage.courtlistener.com/pdf/2018/10/25/john_c._grimberg_co._inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-58791-john-c-grimberg.txt",
+      "words": 26203
+    },
+    {
+      "id": "asbca-60454-cdm-constructors",
+      "docket": "ASBCA No. 60454, 60455, 60669",
+      "caption": "CDM Constructors, Inc.",
+      "year": 2018,
+      "source_url": "https://storage.courtlistener.com/pdf/2018/10/24/cdm_constructors_inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-60454-cdm-constructors.txt",
+      "words": 10526
+    },
+    {
+      "id": "asbca-59404-rbc",
+      "docket": "ASBCA No. 59404, 59962, 60050, 60277, 60851",
+      "caption": "RBC Construction Corp.",
+      "year": 2020,
+      "source_url": "https://storage.courtlistener.com/pdf/2020/07/09/rbc_construction_corp..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-59404-rbc.txt",
+      "words": 23311
+    },
+    {
+      "id": "asbca-58082-alderman-building",
+      "docket": "ASBCA No. 58082",
+      "caption": "Alderman Building Company, Inc.",
+      "year": 2020,
+      "source_url": "https://storage.courtlistener.com/pdf/2020/05/21/alderman_building_company_inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-58082-alderman-building.txt",
+      "words": 7915
+    },
+    {
+      "id": "asbca-59435-raytheon-missile",
+      "docket": "ASBCA No. 59435, 59436, 59437, 59438, 60056, 60057, 60058, 60059, 60060, 60061",
+      "caption": "Raytheon Company and Raytheon Missile Systems",
+      "year": 2021,
+      "source_url": "https://storage.courtlistener.com/pdf/2021/02/01/raytheon_company_and_raytheon_missile_systems.pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-59435-raytheon-missile.txt",
+      "words": 46370
+    },
+    {
+      "id": "asbca-61847-sauer",
+      "docket": "ASBCA No. 61847",
+      "caption": "Sauer, Inc.",
+      "year": 2021,
+      "source_url": "https://storage.courtlistener.com/pdf/2021/09/29/sauer_inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-61847-sauer.txt",
+      "words": 10185
+    },
+    {
+      "id": "asbca-62835-amentum-aecom",
+      "docket": "ASBCA No. 62835, 62836, 62837, 62838, 62839, 62840",
+      "caption": "Amentum Services, Inc., f/k/a AECOM Management Services, Inc.",
+      "year": 2023,
+      "source_url": "https://storage.courtlistener.com/pdf/2023/10/25/amentum_services_inc._fka_aecom_management_services_inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-62835-amentum-aecom.txt",
+      "words": 10637
+    },
+    {
+      "id": "asbca-60426-amatea-grimberg",
+      "docket": "ASBCA No. 60426, 60427, 60428, 60689, 60690, 60691, 61252, 61402, 61715",
+      "caption": "Amatea/Grimberg JV",
+      "year": 2023,
+      "source_url": "https://storage.courtlistener.com/pdf/2023/05/30/amateagrimberg_jv.pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-60426-amatea-grimberg.txt",
+      "words": 30065
+    },
+    {
+      "id": "asbca-59643-ecc-constructors",
+      "docket": "ASBCA No. 59643",
+      "caption": "ECC International Constructors, LLC",
+      "year": 2025,
+      "source_url": "https://storage.courtlistener.com/pdf/2025/07/29/ecc_international_constructors_llc.pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-59643-ecc-constructors.txt",
+      "words": 8866
+    },
+    {
+      "id": "asbca-61766-meltech",
+      "docket": "ASBCA No. 61766, 61767, 61872",
+      "caption": "Meltech Corporation, Inc.",
+      "year": 2025,
+      "source_url": "https://storage.courtlistener.com/pdf/2025/07/16/meltech_corporation_inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-61766-meltech.txt",
+      "words": 20479
+    },
+    {
+      "id": "asbca-61380-gsc",
+      "docket": "ASBCA No. 61380",
+      "caption": "GSC Construction, Inc.",
+      "year": 2025,
+      "source_url": "https://storage.courtlistener.com/pdf/2025/05/27/gsc_construction_inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-61380-gsc.txt",
+      "words": 7516
+    },
+    {
+      "id": "asbca-62075-dstar-engineering",
+      "docket": "ASBCA No. 62075, 62780",
+      "caption": "D-STAR Engineering Corp.",
+      "year": 2025,
+      "source_url": "https://storage.courtlistener.com/pdf/2025/04/28/d-star_engineering_corp..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-62075-dstar-engineering.txt",
+      "words": 13889
+    },
+    {
+      "id": "asbca-63588-pinewood",
+      "docket": "ASBCA No. 63588, 63686",
+      "caption": "Pinewood Inc. fka PNI Incorporation",
+      "year": 2025,
+      "source_url": "https://storage.courtlistener.com/pdf/2025/04/21/pinewood_inc._fka_pni_incorporation.pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-63588-pinewood.txt",
+      "words": 13339
+    },
+    {
+      "id": "asbca-63145-healtheon",
+      "docket": "ASBCA No. 63145",
+      "caption": "Healtheon, Inc.",
+      "year": 2025,
+      "source_url": "https://storage.courtlistener.com/pdf/2025/07/24/healtheon_inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-63145-healtheon.txt",
+      "words": 9150
+    },
+    {
+      "id": "asbca-59586-ecc-constructors-2",
+      "docket": "ASBCA No. 59586",
+      "caption": "ECC International Constructors, LLC",
+      "year": 2025,
+      "source_url": "https://storage.courtlistener.com/pdf/2025/04/18/ecc_international_constructors_llc.pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-59586-ecc-constructors-2.txt",
+      "words": 11911
+    },
+    {
+      "id": "asbca-62876-shoreline-foundation",
+      "docket": "ASBCA No. 62876, 63616",
+      "caption": "Shoreline Foundation, Inc.",
+      "year": 2026,
+      "source_url": "https://storage.courtlistener.com/pdf/2026/04/06/shoreline_foundation_inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-62876-shoreline-foundation.txt",
+      "words": 15674
+    },
+    {
+      "id": "asbca-61922-fuel-tank-maintenance",
+      "docket": "ASBCA No. 61922, 62509",
+      "caption": "Fuel Tank Maintenance Company, LLC",
+      "year": 2025,
+      "source_url": "https://storage.courtlistener.com/pdf/2025/02/24/fuel_tank_maintenance_company_llc.pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-61922-fuel-tank-maintenance.txt",
+      "words": 14276
+    },
+    {
+      "id": "asbca-58981-river-ridge",
+      "docket": "ASBCA No. 58981",
+      "caption": "River Ridge Development Authority",
+      "year": 2016,
+      "source_url": "https://storage.courtlistener.com/pdf/2016/03/22/river_ridge_development_authority.pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-58981-river-ridge.txt",
+      "words": 10543
+    },
+    {
+      "id": "asbca-58810-bae-systems",
+      "docket": "ASBCA No. 58810, 59642",
+      "caption": "BAE Systems San Francisco Ship Repair",
+      "year": 2016,
+      "source_url": "https://storage.courtlistener.com/pdf/2016/06/13/bae_systems_san_francisco_ship_repair.pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-58810-bae-systems.txt",
+      "words": 27222
+    },
+    {
+      "id": "asbca-58634-parsons-evergreene",
+      "docket": "ASBCA No. 58634",
+      "caption": "Parsons Evergreene, LLC",
+      "year": 2018,
+      "source_url": "https://storage.courtlistener.com/pdf/2018/09/05/parsons_evergreene_llc_2.pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-58634-parsons-evergreene.txt",
+      "words": 69277
+    },
+    {
+      "id": "asbca-56708-swr",
+      "docket": "ASBCA No. 56708",
+      "caption": "SWR, Inc.",
+      "year": 2014,
+      "source_url": "https://storage.courtlistener.com/pdf/2014/12/04/swr_inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-56708-swr.txt",
+      "words": 33229
+    },
+    {
+      "id": "asbca-59577-technology-systems",
+      "docket": "ASBCA No. 59577",
+      "caption": "Technology Systems, Inc.",
+      "year": 2017,
+      "source_url": "https://storage.courtlistener.com/pdf/2017/01/12/technology_systems_inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-59577-technology-systems.txt",
+      "words": 25965
+    },
+    {
+      "id": "asbca-58479-vistas-construction",
+      "docket": "ASBCA No. 58479, 58480, 58481, 58482, 58483, 58486, 58487, 58488",
+      "caption": "Vistas Construction of Illinois, Inc.",
+      "year": 2016,
+      "source_url": "https://storage.courtlistener.com/pdf/2016/01/12/vistas_construction_of_illinois_inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-58479-vistas-construction.txt",
+      "words": 20965
+    },
+    {
+      "id": "asbca-62797-konecranes",
+      "docket": "ASBCA No. 62797, 62827",
+      "caption": "Konecranes Nuclear Equipment & Services, LLC",
+      "year": 2024,
+      "source_url": "https://storage.courtlistener.com/pdf/2024/05/07/konecranes_nuclear_equipment__services_llc.pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-62797-konecranes.txt",
+      "words": 19059
+    },
+    {
+      "id": "asbca-56470-aey",
+      "docket": "ASBCA No. 56470, 56471, 56472, 56473, 56591",
+      "caption": "AEY, Inc.",
+      "year": 2018,
+      "source_url": "https://storage.courtlistener.com/pdf/2018/06/22/aey_inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-56470-aey.txt",
+      "words": 16887
+    },
+    {
+      "id": "asbca-62321-al-ghanim",
+      "docket": "ASBCA No. 62321, 62984",
+      "caption": "Al Ghanim Combined Group W.L.L.",
+      "year": 2026,
+      "source_url": "https://storage.courtlistener.com/pdf/2026/05/18/al_ghanim_combined_group_w.l.l..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-62321-al-ghanim.txt",
+      "words": 14446
+    },
+    {
+      "id": "asbca-58855-trirad",
+      "docket": "ASBCA No. 58855",
+      "caption": "TriRAD Technologies, Inc.",
+      "year": 2015,
+      "source_url": "https://storage.courtlistener.com/pdf/2015/02/23/trirad_technologies_inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-58855-trirad.txt",
+      "words": 12897
+    },
+    {
+      "id": "asbca-62957-derian",
+      "docket": "ASBCA No. 62957",
+      "caption": "Derian, Inc.",
+      "year": 2023,
+      "source_url": "https://storage.courtlistener.com/pdf/2023/08/25/derian_inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-62957-derian.txt",
+      "words": 12217
+    },
+    {
+      "id": "asbca-62038-harry-pepper",
+      "docket": "ASBCA No. 62038, 62039, 62040, 62042",
+      "caption": "Harry Pepper and Associates, Inc.",
+      "year": 2021,
+      "source_url": "https://storage.courtlistener.com/pdf/2021/11/03/harry_pepper_and_associates_inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-62038-harry-pepper.txt",
+      "words": 11882
+    },
+    {
+      "id": "asbca-61861-professional-management-consulting",
+      "docket": "ASBCA No. 61861, 62173",
+      "caption": "Professional Management Consulting Services, LLC",
+      "year": 2020,
+      "source_url": "https://storage.courtlistener.com/pdf/2020/06/25/professional_management_consulting_services_llc.pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-61861-professional-management-consulting.txt",
+      "words": 11213
+    },
+    {
+      "id": "asbca-60009-military-aircraft-parts",
+      "docket": "ASBCA No. 60009",
+      "caption": "Military Aircraft Parts",
+      "year": 2016,
+      "source_url": "https://storage.courtlistener.com/pdf/2016/05/31/military_aircraft_parts.pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-60009-military-aircraft-parts.txt",
+      "words": 10407
+    },
+    {
+      "id": "asbca-58028-lockheed-martin-services",
+      "docket": "ASBCA No. 58028, 58794",
+      "caption": "Lockheed Martin Services, Inc.",
+      "year": 2015,
+      "source_url": "https://storage.courtlistener.com/pdf/2015/12/08/lockheed_martin_services_inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-58028-lockheed-martin-services.txt",
+      "words": 8956
+    },
+    {
+      "id": "asbca-59046-gsc-construction",
+      "docket": "ASBCA No. 59046, 59957",
+      "caption": "GSC Construction Incorporated",
+      "year": 2019,
+      "source_url": "https://storage.courtlistener.com/pdf/2019/07/11/gsc_construction_incorporated.pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-59046-gsc-construction.txt",
+      "words": 7982
+    },
+    {
+      "id": "asbca-62966-metal-trades",
+      "docket": "ASBCA No. 62966",
+      "caption": "Metal Trades, Inc.",
+      "year": 2021,
+      "source_url": "https://storage.courtlistener.com/pdf/2021/11/02/metal_trades_inc..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-62966-metal-trades.txt",
+      "words": 7509
+    },
+    {
+      "id": "asbca-59278-pro-built",
+      "docket": "ASBCA No. 59278",
+      "caption": "Pro-Built Construction Firm",
+      "year": 2017,
+      "source_url": "https://storage.courtlistener.com/pdf/2017/06/01/pro-built_construction_firm.pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-59278-pro-built.txt",
+      "words": 7315
+    },
+    {
+      "id": "asbca-61047-assessment-training-solutions",
+      "docket": "ASBCA No. 61047",
+      "caption": "Assessment and Training Solutions Consulting Corporation",
+      "year": 2017,
+      "source_url": "https://storage.courtlistener.com/pdf/2017/10/03/assessment_and_training_solutions_consulting_corporation.pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-61047-assessment-training-solutions.txt",
+      "words": 6959
+    },
+    {
+      "id": "asbca-59082-aegis-defense-services",
+      "docket": "ASBCA No. 59082, 60111, 60259",
+      "caption": "Aegis Defense Services, LLC, f/k/a Aegis Defence Services Ltd.",
+      "year": 2017,
+      "source_url": "https://storage.courtlistener.com/pdf/2017/11/15/aegis_defense_services_llc_fka_aegis_defence_services_ltd..pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-59082-aegis-defense-services.txt",
+      "words": 7494
+    },
+    {
+      "id": "asbca-58993-ecc-international",
+      "docket": "ASBCA No. 58993, 60167, 60283",
+      "caption": "ECC International, LLC",
+      "year": 2022,
+      "source_url": "https://storage.courtlistener.com/pdf/2022/02/24/ecc_international_llc.pdf",
+      "text_url": "https://raw.githubusercontent.com/olayis/asbca-contract-appeals-corpus/main/corpus/asbca-58993-ecc-international.txt",
+      "words": 26466
+    }
+  ]
+}

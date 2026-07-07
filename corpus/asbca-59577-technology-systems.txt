@@ -1,0 +1,2715 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeal of --                                  )
+                                              )
+Technology Systems, Inc.                      )       ASBCA No. 59577
+                                              )
+Under Contract Nos. N00039-07-C-0006          )
+                    N00014-07-C-0236          )
+                    N00014-07-C-0340          )
+                    N41756-05-C-4775          )
+
+APPEARANCE FOR THE APPELLANT:                         Mr. Charles J. Benton
+                                                       President/Owner
+
+APPEARANCES FOR THE GOVERNMENT:                       E. Michael Chiaparas, Esq.
+                                                       DCMA Chief Trial Attorney
+                                                      Debra E. Berg, Esq.
+                                                       Trial Attorney
+                                                       Defense Contract Management Agency
+                                                       Boston, MA
+
+                OPINION BY ADMINISTRATIVE JUDGE PROUTY
+
+        This appeal, brought by Technology Systems, Inc. (TSI), challenges the final
+decision of the Defense Contract Management Agency (DCMA) administrative
+contracting officer (ACO) to follow the recommendation of the Defense Contract Audit
+Agency (DCAA) and disallow certain expenses used to calculate its indirect cost rates for
+fiscal year (FY) 2007 as well as some direct costs. In addition to certain cost-specific
+arguments, TSI argues, in general, that the disallowed expenses had not been questioned
+by prior DCAA audits and that it relied upon this to its detriment because it did not
+preserve what DCAA would have considered to be necessary evidence for the FY 2007
+costs in question. The amount in dispute is the $159,303 that the government seeks to
+recoup from TSI after finding the already-paid costs to be unsupported.
+
+       Judge Clarke heard this appeal and, for reasons detailed in his dissenting opinion
+and discussed further below, is of the view that TSI is entitled to significant relief through
+an application of the retroactive disallowance doctrine and as a result of the government's
+past course of conduct, and that it is due some other relief for different reasons. Though
+not unsympathetic to TSI, we respectfully disagree with our colleague and deny portions
+of the appeal that he would sustain (although also granting it in part): the DCMA-
+challenged costs were largely not allowable and, without more, an auditor's failure to
+challenge a cost in one audit does not require application of the principle of retroactive
+disallowance nor does it constitute a course of conduct precluding the government from
+disallowing the costs in subsequent audits.
+
+                                 FINDINGS OF FACT
+
+        TSI is a small technology business that, while operational, 1 conducted research
+and development of software systems relating to new ways. for ship navigation
+(tr. 2/227). TSI employed approximately 20 people (tr. 21193), including three
+executives: Mr. Charles Benton, chief technology officer, president and sole owner
+(tr. 2/229-30); Mr. Maxwell Fletcher, chief financial officer (CFO) (tr. 2/117); and
+Mr. Thomas Zysk, chief operating officer (COO) (tr. 2173, 76, 102). Mr. Benton started
+TSI in 1985 and it began contracting with the government in 1987 (tr. 2/230).
+
+        During the time relevant to this appeal, TSI had four cost-plus-fixed-fee (CPFF)
+contracts for research and development with the Navy: Contract Nos. N00039-07-C-0006
+(0006), N00014-07-C-0236 (0236), N00014-07-C-0340 (0340), and N41756-05-C-4775
+(4775)2 (R4, tabs 1-3, 16 at 268, tab 17 at 269). These contracts contained standard clauses
+from the Federal Acquisition Regulation (FAR) that governed the payment of their costs by
+the government. 3 In a typical CPFF contract, subject to the standard FAR clauses included
+here, the government compensates a contractor for two types of costs: direct and indirect.
+FAR 52.216-7(b ). Direct costs, as suggested by the name, are those costs directly incurred
+for performing task orders on a contract. See FAR 2.101, Definitions, Direct Costs.
+Indirect costs are overhead costs that the company incurs during the time of contract
+performance that cannot be allocated to a single "cost objective." FAR 31.203(b). They
+are allocated to the contract on a pro rata basis, based upon the direct costs incurred during
+the base time period, typically the contractor's fiscal year. 4 FAR 31.203(b)-(g); see also
+
+1
+  TSI ceased operations in August 2014, but continued to exist "on paper" to permit
+       this litigation (tr. 2/230).
+2
+  Contract 4775 was identified as a classified contract and a copy is not in the record
+       (R4, tab 53 at 910).
+3
+  Contracts 0006, 0236 and 0340 contained the following standard clauses: FAR 52.215-2,
+       AUDIT AND RECORDS-NEGOTIATION (JUN 1999); FAR 52.216-7, ALLOWABLE
+       COST AND PAYMENT (DEC 2002); FAR 52.233-1, DISPUTES (JUL 2002);
+       FAR 52.242-1, NOTICE OF INTENT TO DISALLOW COSTS (APR 1984); FAR 52.242-3,
+       PENALTIES FOR UNALLOWABLE COSTS (MA y 2001 ); and FAR 52.244-2,
+       SUBCONTRACTS (AUG 1988), (contract 0006) or 1998 (contracts 0236, 0340)
+       (R4, tabs 1-3). We infer that contract 4775 also had these required clauses.
+4
+  Indirect costs are billed at a percentage rate which is based on the notion of dividing
+       the pool of such costs for a year by the company's direct expenses for the year.
+       To provide a rudimentary example, if a company incurred $50,000 in allowable
+       overhead costs for a year and $100,000 in direct costs for the same year, its
+       indirect cost rate would be 50%, which would lead to the invoicing of $500 of
+
+                                            2
+KAREN L. MANOS, GOVERNMENT CONTRACT COSTS & PRICING, § 7:A:2 (2003). Whether
+a cost claimed by the contractor is compensated by the government is dependent upon both
+whether the costs claimed are allowable under the contract (which is controlled by the
+FAR) and whether they are satisfactorily proved to have been incurred as shown in the
+records maintained by the contractor. FAR 52.216-7(b )(1 )(ii)(F).
+
+        In any event, a contractor with a CPFF contract generally regularly invoices the
+government for its direct and indirect costs throughout contract performance and is
+paid by the CO if he or she is provisionally satisfied that the costs are allowable and
+have been incurred (tr. 2/21-22). FAR 52.216-7(a)(l). Indirect costs are billed and
+initially paid at estimated rates. FAR 52.216-7(e). Often these estimated rates are
+submitted to DCAA prior to billing for review and provisional approval, but this does
+not always happen (tr. 1/28-31).
+
+        Within six months of the end of the contractor's fiscal year, it is required to
+submit to the C0 5 and the CO's auditor (here, the DCAA) a "final indirect cost rate
+proposal" (ICP), which is based on the actual indirect costs incurred by the contractor
+during the time period of that fiscal year. FAR 52.216-7(d)(2)(i)-(iii). DCAA auditors
+typically select those portions of the ICP that appear most ripe for review and
+concentrate their review upon them because it would be impractical to closely audit
+the entirety of the IPC (tr. 1/21-22, 24). Upon completion of its review, the DCAA
+shares its audit results and recommendations with the CO, who is required to make an
+independent determination of whether to accept them (tr. 1/253). If costs are
+questioned, the CO ha~ authority to negotiate with the contractor regarding which
+costs would be approved. FAR 52.216-7(d)(3). After the indirect cost rates are agreed
+to between the contractor and the government (or, absent agreement, the government
+imposes its own rates upon the contract), the contractor is required to update the prior
+billing to reflect the final indirect cost rates. FAR 52.216-7(d)(2)(v).
+
+DCAAIDCMA Audit History Prior to FY 2007
+
+       Ms. Winefield, a DCAA supervisory auditor, testified that DCAA conducted full
+audits of TS I's ICPs for FYs 1998 - 2003 and for FY 2006 (tr. 1/28). The FY 2001
+audit questioned several costs but it primarily questioned $70,072 in the Professional
+Fees Cost Element claimed in overhead and in G&A 6 for Messrs. Kemper, Ring and
+Wilson (ex. G-1 at 4-5, 9-11 ). These costs were questioned because, among other
+
+      indirect costs for every $1,000 in direct costs charged to the government.
+      Further complicating matters, contractors often (and appropriately) establish
+      separate pools to associate particular overhead costs with different categories of
+      direct costs such as labor and materials. FAR 31.203( c).
+5 The role of the CO here is interchangeable with the role of the ACO.
+6 "G&A" refers to "general and administrative" costs.
+
+
+                                            3
+reasons, TSI failed to provide evidence supporting the work performed by the
+consultants, including "actual work product" (id.; see also tr. 1/84). The FY 2001 audit
+resulted in negotiations between the ACO and TSI, and a rate agreement was achieved
+(tr. 2/256). For FYs 2002 through 2006, DCAAIDCMA did not question costs and
+accepted TSI's indirect rates without change (tr. 2/60-63; R4, tab 6(a) at 72, tab 70 at
+1554). DCAA conducted a "desk review" for FYs 2004 and 2005. A desk review is not
+a full audit. (Tr. 1116-17, 26-28) The desk review for TSI's FY 2005 ICP included the
+statement, "We determined that no significant costs were questioned in prior years and
+that no indicators of audit risk had been identified" (app. supp. R4, tab 100 at 2904).
+The FY 2006 audit was a full audit (tr. 21174). This audit included the statement that,
+"In our opinion, the contractor's indirect rates are acceptable as proposed" (app. supp.
+R4, tab 101at6105).
+
+The FY 2007 Audit and Decrement Memorandum
+
+       TSI's FY 2007 ICP was submitted on or about 25 June 2008 (R4, tab 15 at 227),
+and DCAA began its review of this ICP in the fall of 2008 (tr. 1/36). Ms. Waller and
+Ms. Pitts were the DCAA auditors conducting the audit (tr. 21161; R4, tab 53 at 626).
+
+        Shortly after the audit began, TSI's relationship with Ms. Waller ran into
+difficulties. At the hearing, Mr. Fletcher testified that Ms. Waller "lost her temper'"
+during a meeting held on Friday, 17 October 2008 (tr. 21162; R4, tab 109). Mr. Benton,
+who was not present at the meeting, complained about it in a 20 October 2008 email to
+ACO Murray 7 (app. supp. R4, tab 103). Mr. Fletcher testified that he called ACO Murray
+complaining about Ms. Waller and that, in response, ACO Murray stated that TSI would
+not get an objective audit from Ms. Waller and that she (ACO Murray) would see that
+TSI got another auditor (tr. 2/163). A TSI-requested meeting with the government about
+Ms. Waller was subsequently held on 12 November 2008, with ACO Murray and
+Ms. Waller among the attendees. TSI asked that Ms. Waller be replaced (R4, tab 107 at
+1), but the government declined to do so (tr. 21164; R4, tab 107 at 2-3 ). ACO Murray
+also denied any memory of promising TSI that it would be getting a new auditor to
+replace Ms. Waller (R4, tab 107 at 3). 8
+
+        Ms. Waller submitted her draft audit for peer review on 27 April 2009
+(R4, tab 53 at 552). At this point, outside concerns intervened, and DCAA ordered a
+halt to all incurred costs audits agency-wide so that it could focus on pricing audits
+that were holding up awards of contracts across the government (tr. 1/38, 42-43).
+When TSI's incurred cost audit was stopped, Ms. Waller had completed a substantial
+amount of the work. Her draft audit questioned over $360,000 in direct and indirect
+
+7
+  ACO Murray was close to retirement and was later replaced by ACO Cuellar (app.
+      supp. R4, tab 122 at 1; tr. 11227).
+8
+  Neither party called Ms. Waller as a witness at the hearing.
+
+                                           4
+costs (R4, tab 53 at 559-608). These questioned costs produced recalculated indirect
+cost rates, which we set forth, along with TSI's ICP, in Table I below:
+
+TABLE 1:
+
+                                Claimed by TSI              Draft audit recommended
+    OHC9l Rate                  127.64%                     92.48%
+    G&ARate                      18.40%                     12.02%
+    Material OH Rate              1.05%                      0.00%
+
+(R4, tab 53 at 557)
+
+        Some four years later, in 2013, DCAA grew concerned about the pending running
+of the statute of limitations acting to limit any potential recovery of mischarged
+expenses, and resumed its audit of TSI's FY 2007 ICP (tr. 1143). In April 2013
+Ms. Cote, a senior DCAA auditor, was assigned to review the status of the TSI audit
+(tr. 1144, 46; R4, tab 48). Ms. Cote submitted her findings in July 2013. She determined
+that more information was needed from TSI to complete the audit. (Tr. 1/44-47; R4,
+tabs 49, 50) Mr. Darcy, another DCAA senior auditor, was then assigned to finish the
+TSI audit (tr. 1148).
+
+       By letter dated 18 March 2014 to ACO Cuellar, DCAA wrote that it was unable
+to meet the required audit date 10 and was withdrawing from "our engagement to audit
+the subject [TSI's] incurred cost proposal" (app. supp. R4, tab 136). The primary
+roadblock to a complete audit, apparently, was DCAA's inability to complete
+"additional [transaction] testing" of TS I's direct labor rates (tr. 1152). In any event,
+DCAA agreed to provide "non-audit" service to assist DCMA in determining final
+indirect cost rates for TSI in FY 2007 (tr. 11173-74, 230-32; app. supp. R4, tab 136).
+Also on 18 March 2014, DCAA provided ACO Cuellar a "decrement memo"
+itemizing the costs it questioned (tr. 1152-53; R4, tab 4). The memorandum stated,
+"Providing this information does not constitute an audit or attestation engagement
+under generally accepted government auditing standards" (R4, tab 4 at 2).
+
+       The recommended rates in the decrement memo, compared to the rates
+originally requested by TSI, are reflected in Table 2 below:
+
+
+9
+     OH represents labor overhead costs.
+10   DCAA calculated that the six-year limitation period would run out on 25 June 2014
+         (tr. 11213).
+
+                                            5
+TABLE 2:
+
+                              Claimed by TSI                Memo Recommended
+ OH Rate                      127.64%                       106.26%
+ G&ARate                       18.40%                        15.80%
+ Material 0 H Rate              1.05%                         1.05%
+
+(R4, tab 4 at 48-49)
+
+       The decrement memo did not question as many costs as Ms. Waller's draft
+audit had (compare Tables 1 and 2 above and R4, tab 4 to R4, tab 53; see also R4,
+tab 59 at 1466 (Mr. Darcy explaining, in a spreadsheet emailed to ACO Cuellar on
+14 April 2014, that he was not taking as much of a "hard line" on certain labor costs as
+Ms. Waller had) and tr. 1/ 218-19 (same)).
+
+The A CO 's Determination
+
+        On 4 April 2014, after she received DCAA's decrement memo, ACO Cuellar
+emailed Mr. Benton, providing him with a copy of the decrement memo, requesting
+any additional data that he might want to submit, and offering to set up a time to meet
+(tr. 1/233-34; R4, tab 5). ACO Cuellar's email offered to close-out the action without
+assessing a penalty if TSI would accept DCAA's questioned costs (tr. 1/235-36).
+
+        By email dated 23 April 2014 to ACO Cuellar, Mr. Benton stated that he did
+not accept the offer, argued that DCAA had not questioned similar costs in the
+past, and submitted documents aimed at supporting TSI's position (tr. 1/237-38; R4,
+tabs 6, 6(a)-(g)). ACO Cuellar acknowledged TSI's "non-acceptance of the
+Government's offer" in an email sent on 6 May 2014, stating in part:
+
+              We understand your argument that DCAA has historically
+              not questioned these costs; however, that does not mean
+              DCAA deems those costs to be allowable. We here at
+              DCMA cannot speak for the DCAA auditor(s) that
+              performed the reviews, nor can we speak for the sampling
+              methodology used by DCAA. Our job will be to address
+              the audit as written. If you are able to substantiate the
+              costs with the required documentation, we will reinstate
+              the costs. If not, we have to sustain the costs.
+
+(R4, tab 7; tr. 1/238) Mr. Benton replied, submitting some additional information on
+12 May 2014, but ACO Cuellar considered most of this information to have been already
+provided to DCAA. She was, however, able to allow some previously-disallowed costs
+based on the new information (tr. 1/237-40; R4, tabs 9, 9(a)-(e)). ACO Cuellar testified
+
+
+                                           6
+that she continued to attempt to negotiate with TSI, requesting additional documentation
+such as evidence of approval of subcontracts by the ACO, meeting notes, trip reports,
+bonus plan information, etc. (tr. 11242-45). By email dated 15 May 2014 to ACO Cuellar,
+Mr. Benton provided a statement to the effect that TSI was no longer interested in
+negotiations (tr. 1/245; R4, tabs 13, 13(a)). In the email, Mr. Benton complained that
+DCAA had significantly altered its view of the allowability of its costs in 2007 compared
+to previous years (R4, tab 13(a) at 212-13).
+
+        ACO Cuellar issued a contracting officer's final decision (COFD) on 23 June 2014,
+setting the final determination of TSI' s rates and asserting a government claim for
+$159,303 (tr. 1/153; R4, tab 16). To arrive at this figure, she recalculated the overhead and
+G&A costs by decreasing their respective pools by the costs that she found disallowable
+(R4, tab 16 at 256-58, 263). She then used the revised allowable cost pools to generate
+revised overheard and G&A rates, which are reflected in Table 3, below:
+
+TABLE 3:
+
+                                Claimed by TSI                ACO Determined
+ OH Rate                        127.64%                       109.88%
+ G&ARate                         18.40%                       15.83%
+ Material OH Rate                 1.05%                        1.05%
+
+(Id. at 263)
+
+       ACO Cuellar then multiplied the allowable direct costs (which had also been
+decreased by questioned costs) by the difference in the revised indirect cost rates, and added
+the unallowable direct costs, which summed to the $159,303 claimed (R4, tab 16 at 263-64).
+
+         We now tum to a closer examination of the cost components disallowed by the ACO.
+
+        Disallowed Components of (Labor) 11 Overhead Costs
+
+       The ACO disallowed four price components that were associated with the Overhead
+cost pool: professional fees to Strategic Marketing Innovations (SMI); the expensing of
+computer supplies; conferences; and "fringe benefits" (R4, tab 16 at 257). We examine
+each in tum.
+
+11   Often the parties and the documents in this appeal refer to an indirect cost pool of
+         "overhead" costs, which is separate and apart from the G&A and Material
+         Handling indirect cost pools. Although it is not an issue in this appeal, this
+         nomenclature can be confusing. The "overhead" indirect price pool refers to a
+         price pool that TSI tied to direct labor costs (see R4, tab 6(a) at 72; see also
+         ex. G-1 at 2).
+
+                                             7
+              Professional Fees to SM!
+
+       SMI was a consultant hired by TSI to provide it with both marketing and
+lobbying services (tr. 2/241-42). It had separate agreements with TSI for each (see R4,
+tab 53 at 1088, 1089), and invoiced TSI separately for each (see id. at 1134-4 7).
+ACO Cuellar disallowed the $51,340 claimed by TSI for the marketing services
+provided by SMI on the grounds that TSI did not provide enough documentation to
+permit an understanding of the work performed nor did it provide the "work products"
+and other items that the ACO believed were required in accordance with the provisions
+of FAR 31.205-33(t)(2) and (3) (R4, tab 16 at 258).
+
+              Computer Supplies Expensed
+
+        TSI "expensed" $26, 198 in computer supplies for the 2007 fiscal year (R4, tab 16
+at 258). The ACO disallowed this expense because depreciation over a multi-year
+period was deemed more consistent with TSI's past practice and thus more appropriate
+(id. at 258-59). Moreover, $18,840 of these computer expenses claimed by TSI had
+been claimed as depreciable assets in TSI's 2007 tax filings, indicating to the ACO that
+they should not have been "expensed" (id. at 259).
+
+              Conferences
+
+       The ACO disallowed $2,300 in claimed entertainment expenses for a meal that
+was not related to company business (R4, tab 16 at 259). TSI concurred with the ACO
+on this matter, which is no longer in dispute (id.).
+
+       The ACO also disallowed $304 in per diem for conference attendance because
+it was more than permitted in the Joint Travel Regulations (JTR) (R4, tab 16 at 259).
+
+              Fringe Benefits (Bonuses for TS! Executives)
+
+         The ACO disallowed $29,967 in claimed compensation that TSI used as bonuses
+for its top three executives (TSI allocated $25,698 of this money to the Overhead pool
+with the remaining $4,269 being allocated to the G&A pool) (R4, tab 16 at 259). The
+basis for the ACO's decision was that TSI allegedly did not provide documentation to
+demonstrate an agreed-upon bonus plan, nor sufficient evidence to document the basis of
+its awards (id.). The ACO also disallowed some of the bonuses because they were paid in
+March 2008, in the fiscal year after FY 2007, which is the subject of this ICP (id. at 260).
+
+
+                                            8
+       Disallowed Components ofG&A Costs
+
+       The ACO disallowed four components of G&A costs: professional fees;
+conferences; fringe benefits (a portion of the executive bonuses mentioned in the
+Labor Overhead pool above); and "B&P Overhead" (R4, tab 16 at 257). Again, we
+explain these in more detail below.
+
+             Professional Fees (Primarily Attorney Fees)
+
+       TSI expensed $39,060 in professional fees in FY 2007 that were disallowed by the
+ACO (R4, tab 16 at 260). Of this amount, $34,429 was to a law firm for expenses
+incurred in 2002-2005 when TSI was being criminally investigated by the government,
+not FY 2007; $1,000 was to the same law firm for preparation of Mr. Benton's income
+taxes; $706 was to the law firm for work involving the sale of a different company and
+for corporate database updates for a new company, which the ACO stated was disallowed
+by the FAR; and the remaining $2,925 was money paid to Mr. Charles Wilson for
+professional services that he provided to TSI (id.). The ACO also noted that the $34,429
+paid to the law firm for expenses during TSI's investigation would be reduced by 20%
+even if it were allowable because the FAR limits recovery of such costs to 80% of those
+incurred (id. at 260-61 ).
+
+        TSI does not appear to dispute the ACO's finding that $1,706 in billing by the
+law firm was for matters not recoverable; nor that the law firm's representation of TSI
+during the criminal investigation needed to be discounted by the FAR-mandated 20%;
+it does, however, assert that it should be eligible for the (20%-discounted) money paid
+to the law firm because it was improper for it to seek payment until after the criminal
+investigation was closed (R4, tab 6(a) at 77). TSI also argued that Mr. Wilson had
+long provided useful advice to the company at a favorable rate and that DCAA had not
+questioned his billings in the past (R4, tab 6(a) at 78).
+
+             Conferences
+
+      The ACO disallowed $577 in claimed travel expenses that, she claimed, exceeded
+the maximum allowable per diem rates for lodging and meals (R4, tab 16 at 261 ).
+
+             Fringe Benefits
+
+       This is the same matter involving executive bonuses that is referenced with respect
+to questioned Overhead costs, above, and it sums to $4,269 (R4, tab 16 at 257, 261).
+
+
+                                           9
+              B&P Overhead
+
+        The ACO did not elaborate (and this cost component was barely touched upom
+at the hearing), but the basis of this decrement was that labor used for bids and
+proposals (B&P) had been charged at a higher overhead rate than the amount the ACO
+found appropriate (R4, tab 16 at 261 ). The difference summed to $2,417 (id.).
+
+       Disallowed Direct Costs
+
+        There were some direct costs that were disallowed by the ACO as well. The ACO
+disallowed $1,07 4 of direct costs claimed under contract 0006 because the travel per diem
+rates sought by TSI exceeded those in the JTR (R4, tab 16 at 261). The ACO disallowed
+$466 of direct costs claimed under contract 0236 for similar reasons (id.), and disallowed
+an additional $2,661 on that contract because it was for the use of a subcontractor for
+which TSI had not sought prior approval from the ACO (id. at 261-62). Finally, the ACO
+disallowed $1,986 of direct costs claimed under contract 0340 for exceeding the per diem
+rates in the JTR and an additional $28,568 for the use of a subcontractor without prior
+approval (id. at 262).
+
+The Appeal
+
+      TSI timely appealed the 23 June 2014 final decision by letter dated 17 September
+2014. The Board docketed the appeal as ASBCA No. 59577 on 18 September 2014.
+
+The Evidence Presented at the Hearing and Our Factual Conclusions
+
+       As reflected by the approach taken in Judge Clarke's dissenting opinion, the
+evidentiary case advanced at the hearing focused less upon whether the particular
+decisions taken by the ACO were supported by the facts and more about whether the
+DCAA auditor had so changed the government's approach to TSI's proposal as to be
+unfair (see, e.g., app. br. at 1). There was, however, evidence presented about some of
+the particulars of the questioned costs, which we will also discuss below.
+
+       Evidence Regarding the Differences in the Audits Previous to the 2007 JCP
+
+        TSI advances two somewhat related factual allegations that are relevant to its
+course of conduct legal theory, which we will discuss shortly: first, that the DCAA
+auditor who performed the initial work on the FY 2007 ICP audit was, for some
+unstated reason, biased against TSI; and second, that the DCAA had been much easier
+on it in past audits (app. br. at 3-5; app. reply br. at 10-11). In testimony presented by
+TSI, Mr. Fletcher, its CFO, characterized the first DCAA auditor, Ms. Waller, as
+having been "on a witch hunt" (tr. 2/165). Moreover, as discussed above, there was
+ample evidence of friction between Ms. Waller and TSI and early indications from TSI
+
+
+                                            10
+that it did not believe that it would get a "fair" audit from Ms. Waller. Nevertheless,
+the evidence also demonstrates that the preliminary work performed by Ms. Waller
+was not the end of the story, given the change in questioned costs demonstrated most
+clearly by Tables 1, 2, and 3 above. Moreover, the ACO credibly testified that her
+decisions regarding which costs to question were made independently (tr. 1/251 ),
+which is consistent with the back-and-forth which she attempted with TSI prior to
+issuing her COFD. We need not delve into these circumstances any further due to the
+fact that TSI, itself, has "concede[ d]" that its claim that the COFD should be set aside
+due to lack of auditor independence "cannot be sustained" (app. br. at 3).
+
+        With respect to the allegation that DCAA had questioned fewer costs in prior
+audits, as discussed above, the evidence supports this contention (notably, the findings
+in the audits for FYs 2002-2006 and ACO Cuellar's 6 May 2014 email implicitly
+conceding the point), but the factual record is ambiguous, at best, with respect to the
+meaning of that fact. First, as we earlier noted, there is uncontested evidence that
+DCAA did question a substantial portion of professional costs in the FY 2001 ICP
+audit, and we specifically find that the government questioned some of TS I's
+professional services costs in its FY 2001 ICP audit on the basis that TSI failed to
+substantiate 12 them, including failing to provide any work product. Second, a number
+of the expenses questioned in the FY 2007 ICP audit were presented for the first time
+in that proposal, leaving no track record by DCAA with respect to such costs. These
+issues include the attorney fees, the executive bonuses, and the complete expensing of
+the computers. Notably, we have searched the evidentiary record for any indication
+that DCAA, the ACO, or any other person representing the government ever
+communicated to TSI that its incurred costs could be considered to be substantiated or
+proved at any different standard than that set out in the FAR; that anybody from the
+government had ever told TSI, specifically, that the proof that it submitted with prior
+ICPs constituted adequate substantiation for the expenses; or that any such persons had
+ever told TSI that no proof beyond what it had previously provided in its ICPs would
+ever be required by the government. There is, quite simply, no such evidence in the
+record. Finally, we note that Mr. Fletcher, TSI's CFO, testified that he understood that
+DCAA did not examine all the costs in any given ICP (tr. 2/175), which cuts against
+any inference that failure to challenge costs in a particular year constitutes an
+indication that the government finds the cost to be allowable.
+
+
+12
+     The term, "substantiate," is not found in the relevant portion of the FAR and, is also
+        absent from the COFD (see R4, tab 16). Nevertheless, the government's
+        correspondence with TSI (see R4, tab 7) and its COFD indicate that the word is meant
+        to be interchangeable with "provid[ing] adequate support" (e.g., R4, tab 16 at 258,
+        260) or "sufficient evidence" (id. at 259), which we find to be appropriate.
+
+                                            11
+       Evidence Relating to Specific Costs
+
+       We now turn from the general to the specific and make factual findings with
+respect to the components of the COFD.
+
+              Marketing Consulting Costs Paid to SM!
+
+       The Rule 4 file contains invoices from SMI for every month of 2007, breaking
+out, by the hour, what conferences that it attended on TSI's behalf; who it met with;
+and the topics of conversation (R4, tab 20). The Rule 4 file also contains the
+marketing consulting agreement between SMI and TSI (R4, tab 53). This agreement
+includes the statements that SMI will be expected to "[p]rovide position papers and
+relevant data on issues as required" and "[p]rovide a monthly report on SMI marketing
+and business development activities related to TSI projects" (R4. tab 53 at 1092).
+There is no evidence before us, however, of any "work product" from SMI, nor are
+there any minutes of meetings or "collateral memoranda and reports."
+
+       At the hearing, Mr. Zysk, TSI's COO, testified that he was the primary point of
+contact for SMI regarding marketing matters and that he was not involved in lobbying
+(which is a disallowed cost) (tr. 2/85-88). Mr. Zysk further testified that his telephone
+conversations with SMI provided him the information that he needed from SMI to do
+his work and that waiting for more formal write-ups would have been unnecessary and
+taken too much time (tr. 2/86). Given Mr. Zysk's unchallenged and credible testimony
+and the details contained in the invoices, we find that there is no reason to believe that
+SMI charged TSI for lobbying or other unallowable costs in the guise of its fees for
+marketing consulting. We also find that the details contained in the SMI invoices are
+adequate to support a finding that SMI worked the hours charged.
+
+              The Expensing of Computers
+
+        TSI's CFO, Mr. Fletcher, testified regarding the depreciation of computers.
+According to Mr. Fletcher, some computers were for research and were "taken
+apart, components soldered on, sensors added in" and built into systems that would
+go out on vehicles/boats for testing (tr. 2/131, 205). They were "heavily modified"
+(tr. 2/221-22). After testing was complete the computer was "of no use" to TSI and it
+was "expensed" (tr. 2/131-32). Mr. Fletcher also testified that TSI also bought
+computers that were used on desks for routine office work and those computers were
+capitalized/depreciated (tr. 2/132) in contrast to the computers that were consumed in
+the research work that were expensed (tr. 2/133-34).
+
+       Prior to 2007, there was no evidence that TSI had ever completely expensed its
+computers in one year (tr. 1/88). Indeed, TSI's books included accounts referencing
+continued depreciation of computers over multiple years that included FY 2007 (e.g.,
+
+
+                                             12
+TSI purchased a laptop in 2004 and continued to write off its depreciation into 2007,
+even while it completely expensed similar laptops bought in 2007) (tr. 1/89-90). In
+2007, however, TSI did take advantage of "IRS Code Section 179," which permits
+small businesses to fully expense an asset (tr. 1/88).
+
+        As far as we can tell, TSI completely expensed every computer that it purchased
+in 2007 in its FY 2007 ICP, and explained its practice to the ACO by asserting that it
+was a "leading edge software Research and Development firm" for which most
+computing equipment was obsolete within a year of purchase (see R4, tab 6(a) at 75).
+In this communication, TSI made no mention of the heavy modifications that allegedly
+made the computers useless after a year (id.). Based upon the evidence before us, we
+conclude that some of the computer equipment completely expensed by TSI was likely
+so modified that it could not be used beyond FY 2007, 13 and that other computer
+equipment obtained in FY 2007 and also expensed by TSI was not so modified.
+Indeed, Mr. Fletcher's testimony is completely lacking with respect to explaining what
+efforts TSI undertook to identify which computer expenses went to the heavily
+modified computers consumed in research and which computer expenses went to
+computers more routinely used by the company (see tr. 2/131-34).
+
+               Conference Costs
+
+        The $304 that remains at issue in this appeal under Overhead and the $577 asserted
+under G&A represent claimed travel expenses that exceeded the maximum daily per diem
+rates (tr. 11259). The COFD referred to the travel expenses being beyond the per diem
+rates in the "Joint Travel Regulations pursuant to FAR 31.205-46(a)(2)," (R4, tab 16 at
+259), and the DCAA decrement memo also referenced the prices as exceeding the amounts
+permitted by the JTR and thus unallowable under FAR 31.205-46(a)(2) (R4, tab 4 at 57).
+The travel referenced was, it turns out, within the Continental United States (see tr. 2/134 ),
+to which the parties agree the JTR is not applicable, but the Federal Travel Regulation
+(FTR) is (see app. br. at 10; gov't br. at 58). There is no evidentiary dispute that TSI's
+travel costs exceeded the per diem set forth in the FTR by the same amount challenged by
+the ACO's COFD (see tr. 1/101; app. br. at 10).
+
+               Executive Bonuses
+
+       Mr. Fletcher, TSI's CFO, testified that he created a bonus plan for himself,
+Mr. Benton, and Mr. Zysk sometime in late 2006 (tr. 2/189). He did so with the input
+of Mr. Benton, Mr. Zysk, and a former DCAA attorney (tr. 2/137), and it was
+
+
+13   It is worth noting here that TSI has given no explanation why such computers
+        would constitute indirect costs, rather than costs that could be applied to
+        identifiable contracts.
+
+                                             13
+memorialized in a one-page document, signed by Mr. Benton and dated "l Dec 06" 14
+(R4, tab 9(c) at 129; tr. 2/138). The document provided that a "bonus pool," equating
+to 9% of the labor charges of these three executives would "be managed•by consensus
+decision of the [three named executives]" (R4, tab 9(c) at 129). It also specified that
+the three executives would meet quarterly "to adjust bonus pools based on company
+performance metrics" (id.). The metrics were listed "to include" orders, sales,
+backlog, revenue, overhead rates, special accomplishments, and successful program
+management (id.). It did not specify how these metrics were to be measured or by
+what criteria the three executives would determine the appropriate amount of bonus to
+award (id.). Mr. Fletcher testified that the pool "[came] out of company profits.
+I mean, where else would it come from?" (Tr. 21174) The one-page document
+outlining the bonus plan was apparently provided to the government for use in a
+provisional review of anticipated FY 2007 indirect costs, (tr. 2/146-51 ), but, as noted
+above, no government auditor ever performed such a provisional review of FY 2007
+costs (tr. 1131 ).
+
+       The record includes three memoranda written to justify bonus awards, which
+are dated 30 May 2007 (R4, tab 9(c) at 130); 14 September 2007 (id. at 131); and
+27 February 2008 (id. at 132-33). The 30 May 2007 memorandum lists 5 bullet-point
+achievements for TSI and recommends $1,000 bonuses for each of the three
+executives. The 14 September 2007 memorandum listed 9 bullet-point achievements
+(repeating some of those in the 30 May 2007 memorandum) and recommended an
+award of "the bonus pool as it stands at the end of August 2007" to the 3 TSI
+executives (id. at 131). Finally, the 27 February 2008 memorandum, signed by
+Mr. Benton, included 11 bullet-point achievements (building upon those in the
+14 September 2007 memorandum) and authorized distribution of the award pool, as it
+stood on 1 January 2008, to Mr. Zysk for $9,000 and Mr. Fletcher for $6,000 (id. at
+133). TSI's internal timesheet reports reflect these payments as having been made the
+next day, on 28 February 2008 (id. at 134). Mr. Fletcher testified that, although the
+payment was made in 2008, the cost "accrued during the fiscal year 2007 because that
+was the year the expense was applicable to - that was the year that we did well and
+performed well" (tr. 21140). None of the three memoranda in any way quantify the
+metrics with respect to how they determined the amount of the recommended bonuses
+(see R4, tab 9( c) at 131-34).
+
+        Mr. Fletcher testified that he met with DCAA auditor Marie Pepin for
+approximately two hours on 28 February 2008 to discuss the ICP for FY 2007 that
+would be submitted later in 2008, and raised the executive bonus plan with her during
+this discussion (tr. 2/121-22). According to Mr. Fletcher, Ms. Pepin said words to the
+
+14
+     Although the document may appear to be aspirational or to be promising a plan in
+         the future in the sense that it states that TSI "will establish a process," (see R4,
+         tab 9(c) at 129), the document is apparently the plan, itself (tr. 21195).
+
+                                               14
+effect of "this looks good to me," and then they moved on to other subjects (tr. 2/123).
+We find, as a matter of fact, that this discussion was relatively short and superficial in
+nature and did not constitute any representation that the government gave final
+approval to the bonus plan as proposed or executed.
+
+                Legal Fees
+
+        In 2002, the Naval Criminal Investigative Service (NCIS) began a criminal
+investigation of The Kemper Group, Inc. for overbilling, and later expanded the
+investigation to include TSI and Sonetech Corporation (Sonetech) (R4, tab 16 at 260; see
+also tr. 2/233). During this investigation, TSI was represented by the law firm of Preti
+Flaherty, LLC, which caused TSI to incur $34,429 in costs associated with the
+investigation from 2002 to 2005 (R4, tab 16 at 260, see also tab 53 at 1279-80). The
+investigation closed, with no decision to prosecute, in 2005, with NCIS sending a letter to
+Sonetech, advising it as much, but apparently not sending separate correspondence to TSI
+(see R4, tab 53 at 1278; tr. 2/234). On 20 June 2006, Sonetech faxed this NCIS
+correspondence to TSI (id.).
+
+       TSI was prohibited by FAR 31.205-4 7 from seeking payment for the costs of
+defending itself in the investigation until after it was concluded without a finding of
+criminal conduct. According to the COFD, this prohibition prevented TSI from
+submitting its legal costs contemporaneously with their being incurred, 15 but the
+reason that TSI gave the DCAA for submitting the costs in the FY 2007 ICP, instead
+of in 2006 (when it supposedly became aware of the fact that it was cleared of
+wrongdoing), was that it "forgot" (R4, tab 16 at 260). Mr. Fletcher (with whom
+DCAA was dealing and would have been the person who DCAA claimed stated that
+he "forgot" to include the legal fees in FY 2006) denies ever making such a statement
+to DCAA (tr. 2/212).
+
+        Through Mr. Benton's testimony, TSI alleged that it did not truly consider itself
+out of the woods, with respect to the investigation, until sometime in 2007 when NCIS
+returned documents to it (tr. 2/234-37). Based upon the testimony, we find it more
+probable than not that TSI was uncertain of the status of the investigation until 2007,
+which is the year for which it submitted its legal expenses.
+
+                Consulting Fees a/Charles Wilson
+
+        Charles Wilson was a childhood friend of Mr. Benton's who signed a consulting
+agreement with TSI in 2005 (tr. 2/238-40; R4, tab 53 at 1026-27). The services specified
+in this two-page agreement were somewhat vague: Mr. Wilson was to provide
+
+15   Neither party argued that, subsequent to being cleared, TSI should have revised its
+         2002-2005 ICPs to include the legal costs as being incurred in those years.
+
+                                             15
+                                                                                                -----1
+
+compensated $100 per hour (R4, tab 53 at 1026-27). As Mr. Benton explained, he
+brought a business perspective to the company that Mr. Benton did not have the
+background to provide (tr. 2/238-40). Subsequent to the initiation of the DCAA audit of
+the FY 2007 ICP, TSI created a "Statement of Work" providing further detail of
+Mr. Wilson's duties, explaining his support to TSI (R4, tab 53 at 1039). The after-the-fact
+Statement of Work has little evidentiary value to us; nevertheless, despite their prior
+friendship, we are persuaded that Mr. Benton's retention of Mr. Wilson was legitimately
+intended to provide a business resource to the company.
+
+       In 2007, Mr. Wilson charged $2,925 to TSI for consulting fees (see R4, tab 53
+at 1028, 1031, 1034, 1036). With these bills, Mr. Wilson specified the dates and hours
+that he spoke with TSI personnel or communicated with them via email, and included
+the general subjects about which they communicated (see R4, tabi 53 at 1030, 1033,
+1035, 1037-38). TSI has not provided any "work product" from Mr. Wilson, but did
+produce multiple emails on TSI business issues from 2007 to demonstrate that he was
+"in the loop" for company decisions (id. at 1040-86).
+
+        Upon review of the invoices from Mr. Wilson submitted by TSI and
+considering their level of detail and the email traffic indicating his inclusion of
+discussions of company affairs, we find there to be adequate substantiation of his work
+to support a finding that he performed the hours billed. We further determine that the
+rate of $100 per hour was not, on its face, unreasonable.
+
+       Direct Travel Costs
+
+      There is no factual dispute that the direct travel costs for contracts 0006, 0236,
+and 0340 exceeded the maximum allowable per diem rates by $1,074, $466, and
+$1,986, respectively (R4, tab 16 at 261-62; tr. 1/268).
+
+       Subcontractor Costs
+
+        The "Subcontracts" clause, included in all four contracts, generally requires that
+prime contractors that do not have an approved purchasing system must obtain the CO's
+written consent to enter into cost-reimbursement, time-and-materials or labor-hour
+subcontracts. FAR 52.244-2(d)(l) (1988, 1998). TSI did not have an approved
+purchasing system (which is not atypical for a contractor of its size (tr. 2/55, 65)) and, as
+a result, was required by the contract to obtain approval to enter into subcontracts from
+the CO (tr. 2/55). This, it did not do for the time-and-materials subcontracts questioned
+by the ACO (R4, tab 16 at 261-62, tab 6(a) at 79-80; tr. 1/130-31, 2/58). Mr. Fletcher
+testified on TSI's behalf that it generally did not seek pre-approval for its actions because
+it had found it difficult to contact the ACO (tr. 2/135-36).
+
+
+                                            16
+        After DCAA identified the subcontracts that had not received prior approval
+and recommended their complete disapproval, ACO Cuellar requested that it attempt a
+post hoc justification of their prices (tr. 11250-51, 271 ). She allowed the cost for one
+of the questioned subcontracts because DCAA was able to perform an analysis that
+demonstrated the prices to be fair and reasonable (id., tr. 1/269). For the others,
+however, DCAA and the ACO felt themselves unable to perform such a post hoc
+justification of the costs with the information provided (tr. 11271-73 ). These costs
+were in the amount of $2,661 under contract 0236 (R4, tab 16 at 261) and $28,568
+under contract 0340 (id. at 262).
+
+        In December 2008, after it became clear that approval of subcontracting costs
+would be an issue in the audit, Mr. Benton reached out to DCMA ACO, then,
+Ms. Sandee Murray, and requested retroactive approval of some the subcontract awards
+(R4, tab 6(f)). There was no apparent government response to this letter, and, in 2014,
+Mr. Benton reached out to a number of people seeking support for the subcontract costs.
+The record includes emails from Mr. Timothy Devin, Mr. Adam Cascioli (project officer
+for contract 0340), and Mr. Brian Almquist (the contracting officer's technical
+representative (COTR)) (app. supp. R4, tab 156, at 3-4, tab 157 at 1-2). All of these
+email correspondences indicate that the subcontracts "were in support of the [statement
+of work]" (e.g., app. supp. R4, tab 157 at 1), but none of them venture to provide an
+opinion regarding the reasonableness of the prices charged (see tr. 2/51-52). We have no
+reason to doubt that the subcontract prices were allocable to the contract, and so find
+here, but there is no evidence elsewhere in the record with respect to the reasonableness
+of the subcontract charges, except the earlier statement that the ACO was able to
+independently confirm the reasonableness of the cost of one subcontract (tr. 11269).
+
+                                       DECISION
+
+        TSI advances ten arguments, or "claims" in its appeal (see app. hr.) and, at
+Judge Clarke's invitation (see Bd. corr. ltr. dtd. 21March2016), modified its first
+argument (which had previously been more directly related to the statute of limitations
+(see app. br. at 2-3)) to transform it into an argument regarding "course of dealings" in
+its reply brief (see app. reply hr. at 1, 3-12). We will address and reject the "course of
+dealings" argument, along with Judge Clarke's related theory about the doctrine of
+"retroactive disallowance," first, then tum to the other general argument regarding the
+statute of limitations, which we also reject. We will then address the remaining
+arguments TSI raises against portions of the COFD and decide them upon their
+individual merits. We need not address the argument of auditor independence because
+TSI has conceded it (app. hr. at 3).
+
+
+                                            17
+I.     The Doctrines of Retroactive Disallowance and Past Performance Do Not
+       Preclude the Questioning of Costs in this Appeal
+
+         TSI argues that DCAA' s prior "accept[ ance of its] legal and consulting services
+costs, along with [its] depreciation methods ... prior to 2007" constituted a prior course
+of dealing that would preclude their being questioned by the government in the
+FY 2007 audit (app. reply br. at 5-6). Judge Clarke's dissent revises the approach he
+took in his letter to the parties in which he requested them to brief the course of
+dealings theory because he is now of the opinion that the doctrine of retroactive
+disallowance more directly precludes the government from challenging costs allowed
+in prior years, although course of dealings remains his fallback position. Retroactive
+disallowance was not briefed by the parties, but we need not seek further briefing upon
+it because we find the law to have changed to make it an unsustainable theory here and
+that it is inapplicable to the facts of this appeal in any event.
+
+      Retroactive disallowance is a theory for challenging audits whose heyday has
+come and gone. The theory was first set forth by the Court of Claims in Litton
+Systems, Inc. v. United States, 449 F.2d 392 (Ct. Cl. 1971). We elaborated upon it, as
+Judge Clarke's dissent notes, in such cases as Gould Defense Systems, Inc., ASBCA
+No. 24881, 83-2 BCA ~ 16,676; and Data-Design Laboratories, ASBCA No. 21029,
+81-2 BCA ~ 15,190. In these cases, we characterized the principle as preventing the
+government from challenging costs already incurred when:
+
+              [T]he cost or accounting method in question previously
+              had been accepted following final audit of historical costs;
+              the contractor reasonably believed that it would continue to
+              be approved; and it detrimentally relied on the prior
+              acceptance.
+
+Gould, 83-2 BCA ~ 16,676 at 82,981 (citing Data-Design, 81-2 BCA ~ 15, 190). The
+last appeal in which we granted relief based upon retroactive disallowance was our
+2002 decision of Lockheed Martin Western Development Laboratories, ASBCA
+No. 51452, 02-1 BCA ~ 31,803. Prior to Lockheed Martin, retroactive disallowance
+was last used to grant relief in the 1986 case of Data-Design Laboratories, ASBCA
+No. 27245, 86-2 BCA ~ 18,830.
+
+      In 1984, however, the seeds of the doctrine's diminution were sown by the
+Supreme Court in the case of Heckler v. Community Health Services of Crawford
+County, Inc., 467 U.S. 51 (1984), which explicitly recognized that, "the Government
+may not be estopped on the same terms as any other litigant." 467 U.S. at 60. The
+United States Court of Appeals for the Federal Circuit (the Federal Circuit)
+subsequently held that "affirmative misconduct [has been recognized] as an element of
+
+
+                                            18
+an estoppel claim against the government." Henry v. United States, 870 F.2d 634, 637
+(Fed. Cir. 1989) (citations omitted); see also Zacharin v. United States, 213 F.3d 1366,
+1371 (Fed. Cir. 2000) ("While the Supreme Court has not squarely held that
+affirmative misconduct is a prerequisite for invoking equitable estoppel against the
+government, this court has done so.") (citations omitted). Being a "special application
+of estoppel principles," see Gould, 83-2 BCA ii 16,676 at 82,981, retroactive
+disallowance is thus now subject to the same affirmative misconduct requirement as
+other estoppel defenses. This sea-change was clearly recognized by the Federal
+Circuit in a case cited in Judge Clarke's dissent, Rumsfeld v. United Technologies
+Corp., 315 F.3d 1361 (Fed. Cir. 2003).
+
+       In United Technologies, which was an appeal of one of our decisions, the
+Federal Circuit characterized the retroactive disallowance argument (an argument that
+United Technologies had advanced at the trial level, but had been unnecessary for us
+to reach 16 ) as being that the "government [was] estopped from contesting" the
+accounting determination at issue. 315 F .3d at 13 77. Relying upon Zachar in, the
+Federal Circuit instructed us that "affirmative misconduct" on the part of the
+government would be required for the application of the principle. Id. at 1377 (citing
+Zacharin, 213 F.3d at 1371). On remand, we quickly dispensed with appellant's
+argument that the Federal Circuit had been unfamiliar with the Litton line of cases, and
+made clear that our understanding of the Federal Circuit's opinion was that retroactive
+disallowance is a species of estoppel and, thus, the affirmative misconduct requirement
+applies to it. United Technologies Corp., Pratt & Whitney, ASBCA No. 47416 et al.,
+06-1 BCA ii 33,289 at 165,055-58.
+
+       Little has happened with regard to retroactive disallowance since the decision on
+remand of United Technologies, in no small part, we believe, because affirmative
+misconduct is a difficult bar to clear. Nevertheless, as Judge Clarke notes, the defense
+was raised briefly last year when we denied a motion for summary judgment in the
+appeal of Raytheon Company, ASBCA No. 57576 et al., 15 BCA ii 36,043 at 176,055,
+finding retroactive disallowance to be unsupported by the undisputed facts. While it is
+
+16   To be sure, as Judge Clarke notes in his dissent, we did not explicitly call it
+         "retroactive disallowance" in our initial opinion, see United Technologies
+         Corp., Pratt & Whitney, ASBCA No. 47416 et al., 01-2 BCA ii 31,592 at
+         156,133, but, inasmuch as appellant was clearly relying upon the Litton line of
+         cases in its arguments to the Federal Circuit, see United Technologies, 06-1
+         BCA ii 33,289 at 165,033-34, and, acting upon the remand, we read the Federal
+         Circuit's opinion to plainly apply to United Technologies' retroactive
+         disallowance argument, id. at 165,056-58, we find the argument's label to be
+         irrelevant. It was simply a rose by another name - another name that, not
+         coincidentally, underscored that retroactive disallowance had always been
+         premised upon estoppel.
+
+                                            19
+ true that we did not discuss the requirement of affirmative misconduct in Raytheon, that
+·omission is far too slender a reed to support a view of the law that leaves out this critical
+ element: in our offhand discussion of retroactive disallowance (in which we ruled in
+ favor of the government), we did not purport to overrule our precedent in United
+ Technologies nor the Federal Circuit's dictates in the same case. To sum up: there is no
+ way to read our recent precedent or the Federal Circuit's except to include an affirmative
+ misconduct requirement amongst the elements of retroactive disallowance. Period.
+
+            Thus, turning to the facts of this case, we readily dispose of the application of
+    retroactive disallowance to it. Judge Clarke does not assert that there is a factual
+    predicate for finding affirmative misconduct on the part of the government in this matter.
+    Without that element, there is no retroactive disallowance. United Technologies, 06-1
+1
+    BCA ~ 33,289 at 165,055-58. Moreover, even without such a requirement, we would still
+    find, on the facts before us, that retroactive disallowance is inapplicable to this appeal.
+    The government's failure to challenge TSI's costs in prior audits (without more) was not
+    enough to give TSI the reasonable belief that such costs would never be challenged in the
+    future. 17 This would be the case even if we were not to read the law (as we do) to require
+    an unequivocal statement by the government that the costs were considered to be
+    supported. See Gould, 83-2 BCA ~ 16,676 at 82,981 (holding the doctrine applicable
+    when the government "unequivocally accepts a contractor's proposed accounting
+    treatment"). When we consider retroactive disallowance to include a requirement that the
+    government make an unequivocal statement regarding the allowability, the case for
+    applying this defense is even more plainly deficient here.
+
+            TSI fares no better under the prior course of dealing theory. The notion, as
+    explained by Judge Clarke, is that the interpretation of FAR part 31 by prior auditors,
+    "set a standard TSI was entitled to rely upon." TSI makes a similar argument,
+    although it combines retroactive disallowance with course of dealing in a somewhat
+    confusing way (app. reply br. at 3-12). These arguments founder for the simple reason
+    that DCAA' s inaction or failure to challenge a cost in prior audits as was the case here
+    does not "set" any "standard," nor establish the "common basis for understanding" that
+    is necessary for TSI to prevail under this contractual theory.
+
+           Our law regarding course of dealing relies upon the standards set forth in the
+    Second Restatement of Contracts. See, e.g., BAE Systems Technology Solutions &
+    Services, Inc., ASBCA No. 57581, 13 BCA i-135,414 at 173,741-42; T&M Distributors,
+    Inc., ASBCA No. 51405, 00-1BCA~30,677 at 151,509. The binding law in our Circuit
+    hews to the Restatement as well. See Sperry Flight Systems v. United States, 548 F .2d
+    915, 922-23 (Ct. Cl. 1977). The Restatement, itself, provides that:
+
+    17   Even TSI's CFO, Mr. Fletcher, acknowledged that a different auditor could
+            interpret risk differently and thus examine different matters than prior auditors
+            (tr. 2/175).
+
+                                                 20
+              § 223 Course of Dealing
+
+              ( 1) A course of dealing is a sequence of previous conduct
+                   between the parties to an agreement which is fairly to
+                   be regarded as establishing a common basis of
+                   understanding for interpreting their expressions and
+                   other conduct.
+              (2) Unless otherwise agreed, a course of dealing between
+                   the parties gives meaning to or supplements or qualifies
+                   their agreement.
+
+RESTATEMENT (SECOND) OF CONTRACTS§ 223 (1981). For our purposes, the key
+language from Section 223(1) of the Restatement is that a course of dealing is "a
+sequence of previous conduct between the parties to an agreement which is fairly to be
+regarded as establishing a common basis of understanding for interpreting their
+expressions and other conduct." The Court of Claims elaborated upon this language in
+Sperry Flight Systems, to state that "a course of dealing can supply an enforceable
+term to a contract...provided that the conduct which identifies that course of dealing
+can reasonably be construed as indicative of the parties' intentions - a reflection of
+their joint or common understanding." 548 F.2d at 923.
+
+         DCAA's failure to question certain costs in prior audits, without more, does not
+"establish[] a common basis of understanding," see RESTATEMENT § 223( 1), of what
+should constitute adequate substantiation of (or support for) TSI' s incurred costs. This
+is the case because, under the circumstances presented here, the failure to question
+certain costs could mean more than one thing: it could just as easily mean that the
+government is satisfied with the proof offered by TSI as it could mean that the auditor
+chose to more carefully investigate certain issues (for any of a variety of legitimate
+reasons) in some years than in other years. 18 Thus, without more information, a
+contractor could only speculate as to why the government chose not to question
+costs. 19 And, when there is only speculation as to the meaning of an auditor's silence,
+such silence cannot "reasonably be construed as indicative of the parties' intentions
+[or] their joint and common understanding." Sperry Flight Systems, 548 F.2d at 923.
+
+18
+   Indeed, the evidence is clear that in some years prior to the FY 2007 ICP audit, the
+       government did question costs incurred by TSI that it did not in other years.
+19
+   This is not to say that in no circumstances could an auditor's course of conduct
+       establish evidentiary standards for substantiation. For example, in the case of a
+       contractor that was specifically told that certain receipts were considered to be
+       adequate substantiation of costs by the government and that it should not bother
+       to preserve more evidence, the result might be different. We are not presented
+       with that case here.
+
+                                           21
+        Judge Clarke's dissent cites two cases for the proposition that a prior course of
+dealing can be relevant to the allowability of costs: Blue Cross Association and Blue
+Shield Association, ASBCA No. 25778, 89-2 BCA ~ 21,840 at 109,907 n.41; and Ford
+Aerospace and Communications Corp., Aeronutronic Division, ASBCA No. 23833,
+83-2 BCA ~ 16,813 at 83,631 n.3. The general point is correct, but neither case
+presented circumstances remotely like those here, where the government's failure to
+raise a matter during an audit was contrived to constitute a course of dealing making
+all unquestioned costs allowable.
+
+        We note finally that, as tempting as it might be to grant relief to TSI - for it
+does appear to be a sympathetic actor - such a course would lead to a number of
+unanticipated and undesirable consequences. Notably, a rule that would grant TSI
+relief here would encourage DCAA and COs to question as many costs as possible in
+early audits so as to "speak now or forever hold its peace." It is far better, we think, to
+encourage auditors to exercise judgment and discretion in determining the scope of
+their audits. In Sperry Flight Systems, the Court of Claims noted similar concerns
+about too readily applying a course of conduct to preclude government action, stating
+that, "what plaintiff argues for is a contract right that would undermine the authority
+and responsibility vested in a contracting officer .... [N]othing has been shown here
+that would justify placing the Government in so irretrievable a position." 548 F.2d at
+923. Such is the case here.
+
+II.    TSI's Statute of Limitations Arguments are Unavailing
+
+       TSI concedes that its original contention that the entire COFD was time-
+barred "does not stand" (app. br. at 2), but alleges three questioned cost matters to
+which it argues the statute does apply (id. at 2, 5, 11 ). TSI is incorrect in all three
+particulars.
+
+        Under the CDA, the government must present any claim against the contractor
+within six years of its accrual. 41 U.S.C. § 7103(a)(4)(A); Sikorsky Aircraft Corp. v.
+United States, 773 F.3d 1315, 1320 (Fed. Cir. 2014); Kellogg Brown & Root Services,
+Inc., ASBCA No. 58175, 15 BCA ~ 35,988 at 175,823 (KBR). The definition of
+"accrual" comes from the FAR, and is "the date when all events, that fix the alleged
+liability of... the contractor and permit assertion of the claim, were known or should
+have been known .... [M]onetary damages need not have been incurred." Sikorsky,
+773 F.3d at 1320 (quoting 48 C.F.R. § 33.201); see also KBR, 15 BCA ~ 35,988 at
+175,823-24. Inasmuch as Sikorsky established that that CDA statute of limitations is
+an affirmative defense, not a matter of jurisdiction, see 773 F.3d at 1322, the burden of
+proof is on TSI to prove that it was not met. KBR, 15 BCA ~ 35,988 at 175,823.
+
+
+                                             22
+        As a general proposition, the costs questioned by ACO Cuellar's COFD were
+those set forth in TSI's FY 2007 ICP, which was submitted to the government on
+30 June 2008. Even if the mere submission of the ICP started the six-year statute of
+limitations clock (before the subsequent audit produced evidence that the costs were
+unsupportable) the statute would not have run until 30 June 2014. Since the COFD
+that constituted the government claim here was filed on 23 June 2014, it was within
+the statutory time period. We further note that it was legally impossible for the
+government to issue its COFD before the submission of the ICP, because the legal
+bases for the government's unilaterally establishing the indirect costs, FAR 42.705-1
+and FAR 42.302(a)(9) (see R4, tab 16 at 256), presupposed action upon a "'final" ICP
+submitted by the contractor. See FAR 42.705-l(b). Since no COFD approving or
+disapproving portions of the FY 2007 ICP could have been issued until after the
+submission of said proposal by TSI, and the ability to assert such a government claim
+is a prerequisite to claim accrual, Sikorsky, 773 F.3d at 1320 (quoting 48 C.F.R.
+§ 33.201); see also KBR, 15 BCA ii 35,988 at 175,823-24, it is impossible for the
+statute to have begun to run here prior to the submission of TS I's FY 2007 ICP.
+
+        TSI' s argument, on pages 2 and 3 of its brief, regarding use of prior years'
+audits to influence future audits is unclear and, to the extent it is an argument about the
+statute of limitations, is unpersuasive. The costs questioned for FY 2007 could not
+have been questioned until they were submitted, and, whatever decisions the ACO
+made with respect to other years did not give her the ability to question costs before
+they were formally submitted to her.
+
+       TSI further argues that its marketing costs with SMI were much the same in 2007
+as in prior years, thus, the submittal of TS I's FY 2006 ICP should have tipped the
+government off that there was a problem with these costs (if, indeed, there were such a
+problem) more than six years prior to the COFD here (app. br. at 5-6). This argument is
+unpersuasive and is more in line with the retroactive disallowance and course of dealings
+positions expressed by Judge Clarke than a straightforward statute of limitations
+argument. Again, it would not have been possible for the ACO to question the actual
+costs submitted and to issue a decision constituting a claim until TSI submitted its
+FY 2007 ICP as noted above. At most, the prior years' information might be argued to
+have bearing upon when the government knew or should have known that the 2007 costs,
+as submitted in the FY 2007 ICP, were dubious, but this prior years' information would
+only be material subsequent to the FY 2007 ICP submittal.
+
+       TSI's final particular statute of limitations argument is that the government
+knew the particulars of its executive bonus plan in early 2007, more than six years
+before the issuance of the COFD, so it should not have been able to question it more
+than six years later (app. br. at 11). Again, the pitfall in this argument, with respect to
+
+
+                                             23
+the statute of limitations, 20 is that, whatever knowledge the government may have had
+with TSI's aspirational plans (and they were labelled as such), it could not have
+asserted a government claim until after TSI submitted its FY 2007 ICP.
+
+        TSI has made no further allegations regarding the statute of limitations, thus,
+this affirmative defense poses no barrier to any of the government's other claims here.
+
+III.       TSI is Entitled to Some Relief upon the Merits
+
+        As noted in the Findings of Fact section, above, the contractual provision governing
+the primary dispute in this matter requires payment of a contractor's indirect costs if the
+costs are allowable under the contract (which is controlled by the FAR) and if they are
+"shown in the records maintained by the contractor." FAR 52.216-7(b)(l)(F). As will be
+shown herein, some FAR provisions regarding allowable costs include sections setting
+forth the type of proof necessary to support the cost. See, e.g., FAR 31.205-33(1)(2) and
+(3 ). The government has the burden of proof for demonstrating that a cost is unallowable.
+Johnson Controls World Services, Inc., ASBCA Nos. 46674, 47296, 96-2 BCA ~ 28,464 at
+142, 166 (citations omitted). With these general principles in mind, we tum to the cost
+elements that remain disputed.
+
+          A. TSI is Entitled to Payment for SMI' s Marketing Costs
+
+       The government labors under the false impression that the FAR requires a consultant
+to create "work product" merely for the purposes of proving its costs (see R4, tab 16 at 258,
+260; gov't br. at 54-55, 64-66). Though the FAR language in question is not as clear as we
+might like, it can be read- as we read it here - to impose no such requirement, Moreover,
+we have factually found the invoices submitted by TSI to be adequate to support a finding
+that TSI incurred the charged costs for SMI's marketing activities.
+
+        We begin by examining that language of the FAR that the government holds
+out as requiring the generation and provision of "work product" to entitle recovery of
+costs for professional and consultant services. FAR 31.205-33, Professional and
+consultant service costs, provides in relevant part that:
+
+                        (f) Fees for services rendered are allowable only
+                 when supported by evidence of the nature and scope of the
+                 service provided.... Evidence necessary to determine that
+
+20
+       TSI did not argue that its submission of its executive bonus plan to the government
+           in early 2007 should support invocation of the principles of retroactive
+           disallowance or course of dealing. Even if it had, they would be inapplicable as
+           we find factually that there was neither government misconduct nor
+           unequivocal acceptance of this plan.
+
+                                              24
+              work performed is proper and does not violate law or
+              regulation shall include -
+
+                     (1) Details of all agreements (e.g., work
+              requirements, rate of compensation, and nature and amount
+              of other expenses, if any) with the individuals or
+              organizations providing the services and details of actual
+              services performed;
+
+                     (2) Invoices or billings submitted by consultants,
+              including sufficient detail as to the time expended and
+              nature of the actual services provided; and
+
+                    (3) Consultants' work products and related
+              documents, such as trip reports indicating persons visited
+              and subjects discussed, minutes of meetings, and collateral
+              memoranda and reports.
+
+        The government makes a superficially persuasive argument, that the FAR's
+statement that the evidence necessary to determine that the work is proper "shall
+include ... work products" and related documents, makes the provision of such
+documents mandatory (gov't hr. at 54). The problem with this interpretation of the
+FAR is that it does not account for the case in which such documents were never
+created by the consultant. Moreover, it does not account for the case where, as here,
+the invoices include the data that the FAR defines as work product, such as persons
+visited and subjects discussed. We further note, that DCAA's own audit manual,
+reflecting the government's own interpretation of this FAR requirement, provides that,
+"[t]he auditor should not insist on a work product if other evidence provided is
+sufficient to determine the nature and scope of the actual work performed." DCAA
+Manual, at 58-2 - 58-3. Moreover, amongst the "Frequently Asked Questions" in the
+relevant portions of the audit manual are responses indicating that other additional
+evidence may be considered to determine whether the services were, indeed, provided
+and allowable. Id. at 58-7.
+
+       Thus, we conclude that FAR 31.205-33(f) may require the provision of a
+consultant's work product, if it exists, but is not so rigid as to require its creation when
+it would not otherwise be necessary for the consultant to perform its duties. To be
+sure, any lack of work product makes it more difficult for a contractor to prove that it
+incurred the costs for which it seeks compensation, and the lack of work product in an
+instance where the consulting work was of such a scale or scope that work product
+would be expected may properly subject the costs to question. As with most things,
+the proper amount of documentation and work product to be expected will largely
+depend on the scope of work performed, and we do not conclude that the FAR
+
+
+                                             25
+intended to impose "make work" upon consultants that would only lead to higher costs
+to the contractor which would then be imposed upon the taxpayer.
+
+        Turning to the facts before us, we have found that the consulting agreements
+and the invoices provided, combined with the testimony given at the hearing, persuade
+us that the costs included in TSI's FY 2007 ICP for SMI's marketing services were, in
+fact, for that purpose and are allowable. This portion of the appeal is sustained.
+
+       B. TSI's Full Expensing of Computers was Properly Rejected by the ACO
+
+     The use of depreciation as an indirect cost in the contracts here is governed by
+FAR 31.205-1 l(c), which provides:
+
+              [A ]llowable depreciation shall not exceed the amount
+              used for financial accounting purposes, and shall be
+              determined in a manner consistent with the depreciation
+              policies and procedures followed in the same segment
+              on non-Government business.
+
+TSI had no written depreciation policy in 2007 or in years prior to 2007, but its prior
+practice was to depreciate computers and computer equipment over a period of years.
+In 2007, that changed when, in line with its IRS filings, it completely expensed the
+computers and computer equipment it purchased.
+
+        We view TSI's depreciation practices in its FY 2007 ICP as inconsistent with
+its prior long-term practices. We also find its rationales for the new approach to be
+unpersuasive: being a "cutting edge" technology company does not appreciably
+change the useful lives of desktop computers used for office work; the fact that some
+computers were modified for non-office work does not affect the depreciation of those
+that were not- and TSI has not demonstrated what portion of the computers expensed
+actually were so modified; and the IRS Code's allowance for earlier write-offs, for tax
+purposes, of full depreciation in a year, does not have any effect on the proper
+depreciation for our purposes. Accordingly, the government prevails in this portion of
+the appeal. Computers and computer equipment not allocable as direct costs are to be
+depreciated at the same rate as in prior years.
+
+       C. TSI's Travel Costs were Properly Challenged
+
+       TSI has provided no good reason to depart from the decision of the government
+to challenge the travel costs that exceeded the proper per diem rates. There is no
+dispute that the costs challenged by the government exceeded those rates, nor that this
+forms a basis for disallowing the excess costs pursuant to FAR 31.205-45(a)(2).
+Nevertheless, TSI propounds two arguments for why this should not matter: first, TSI
+
+
+                                           26
+argues that the CO wrongly identified the applicable travel regulation (app. br. at 9-10).
+The COFD references the JTR, which applies to travel outside of the Continental
+United States, instead of the FTR, which was truly applicable since all of the challenged
+travel was within the Continental United States (id.). Next, TSI argues that its general
+travel policy saved the government money (id. at 10). Neither argument is persuasive.
+
+        Although the COFD did err, as both parties concur (see gov't hr. 58) in naming
+the JTR as the applicable regulation, rather than the FTR, this is a defect of form,
+rather than substance because FAR 31.205-45(a)(2) applies to when the per diem rates
+of either the JTR or the FTR were exceeded, and the applicable per diem rates were, in
+fact, exceeded here. Because we review the COFD de novo, see Wilner v. United
+States, 24 F.3d 1397, 1401 (Fed. Cir. 1994);Assurance Co. v. United States, 813 F.2d
+1202, 1206 (Fed. Cir. 1987), we may sustain the ACO' s decision even if it is
+articulated with less precision than all would like. Here, we conclude that the ACO
+was correct to question the per diem payment for being contrary to regulation.
+
+        TSI's allegation that its travel policies saved the government money is undeveloped
+and would not excuse it from compliance with travel regulation limits on per diem in any
+event. While there are exceptions to the strictures of FAR 3 l.205-45(a)(2), contained in
+subsection (a)(3) of the FAR provision, TSI has not attempted to apply these exceptions in
+its argument (see app. hr. at 10), and we can identify at least one - a requirement that a
+written justification for use of higher rates be made by an appropriate authority in the
+company, see FAR 3 l .205-45(a)(3)(ii)- that TSI did not meet.
+
+       D. TSI is not Entitled to Payment for its Executive Bonuses
+
+       We agree with the government that TSI' s executive bonus plan was too
+amorphous in its criteria for bonus award and subject to too unfettered discretion in its
+application to permit the inclusion of its costs in the ICP. As will be demonstrated
+below, when an executive bonus plan lacks measurable metrics and is essentially
+subject to the unfettered discretion of those who would benefit from it, as did TSI's, its
+costs are not compensable.
+
+       We start with the governing FAR provision, FAR 3 l .205-6(f), Bonuses and
+incentive compensation, which provides in relevant part:
+
+                    ( 1) Bonuses and incentive compensation are
+              allowable provided the -
+
+                     (i) Awards are paid or accrued under an agreement
+              entered into in good faith between the contractor and the
+              employees before the services are rendered or pursuant to
+              an established plan or policy followed by the contractor so
+
+
+                                            27
+                consistently as to imply, in effect, an agreement to make
+                such payment; and
+
+                        (ii) Basis for the award is supported.
+
+Thus, a bonus award must be made pursuant to an agreement or well-established plan
+or policy, and there must be support for the basis of the award. An underlying feature
+of the jurisprudence applying this FAR provision is an intent to avoid a company's
+"in-group" using the bonus pool as a means of distributing company profits amongst
+themselves. In Nolan Brothers, Inc. v. United States, 43 7 F .2d 13 71 (Ct. Cl. 1971 ), the
+Court of Claims noted that payment of bonuses from a family-owned corporation to
+officers who were members of the family "justified close scrutiny" to ensure that the
+bonuses were not a disguised "distribution of the corporation's earnings." 437 F.2d at
+1384. And in Northlich, Stolley, Inc. v. United States, 368 F.2d 272 (Ct. Cl. 1966), a
+tax case cited by the court in Nolan Brothers, the Court of Claims expressed similar
+concerns when the officers to whom the compensation was paid were "in complete
+control of the corporation's affairs." 368 F.2d at 278.
+
+        Our prior cases have similarly expressed discomfort with, and rejected, bonus
+plans that give too much leeway in making bonus awards to those who would benefit
+from them. In SplashNote Systems, Inc., ASBCA No. 57403, 12-1BCA~34,899, we
+disallowed the use of a bonus plan because its "lack of specificity, constraints, or
+parameters contribute[d] to the conclusion that [the] bonus was a distribution of
+profit." Id. at 171,610. We noted in Boeing Aerospace Operations, Inc., ASBCA
+Nos. 46274, 46275, 94-2 BCA ~ 26,802, that we "would not endorse 'a policy which
+would permit payments to be made or not made in the unlimited discretion of
+management or ... the kind of policy that was not consistently or clearly defined."' Id.
+at 133,285 (quoting General Electric Co., ASBCA No. 28753, 89-1BCA·~21,445 at
+108,056 21 ). This is consistent with the notion that, in order to be able to judge whether
+there is a supported basis for a bonus award, see FAR 3 l.205-6(t)(l )(ii), there must be
+some clearly defined criteria for making the award in the first instance.
+
+       Thus, we turn to TSI's bonus plan. The government contends that there was no
+such plan because there was no written agreement between TSI and the three bonus
+recipients at any time during FY 2007 (gov't br. at 59). To be sure, the December 2006
+memorandum signed by Mr. Benton promising the establishment of such a plan is a
+shaky foundation for TSI to rely upon for proof of an agreement, though the testimony
+surrounding it might be sufficient for us to conclude, in this case, that it did constitute
+such an agreement. We need not decide that matter, however, because we conclude that
+
+21
+     In this quotation contained in our Boeing decision, we inadvertently cited to a
+          differently named case (though the citation was to the correct page of the
+          reporter). The citation here has been corrected to reflect the proper case name.
+
+                                              28
+TSI's "bonus plan" was fatally defective in that the one-page memorandum purporting
+to establish it was utterly lacking in clearly defined criteria for making bonus decisions
+and effectively left decision-making regarding the award of any bonuses to the
+unfettered discretion of the very same three individuals who were to be the recipients of
+the bonuses. 22 The arbitrary nature of the bonus awards is reflected in the memoranda
+supporting them, which referenced generalized achievements without tying them in any
+way to the amount of the bonuses awarded. Thus, because TSI's bonus policy lacked
+specificity and constraints, see SplashNote Systems, 12-1 BCA ,-i 34,899 at 171,610, and
+effectively provided "unlimited discretion" to management, see Boeing Aerospace
+Operations, 94-2 BCA ,-i 26,802 at 133,285, we hold that it is not a compensable cost.
+This determination is buttressed by evidence that Mr. Fletcher considered the bonus
+pool to effectively come from company profits and the fact its distribution came at the
+whim ofTSI's "in" group, justifying "close scrutiny," Nolan Brothers, 437 F.2d at
+1834, which it simply cannot withstand. 23
+
+       E. TSI is Entitled to a Significant Portion of its Legal Fees
+
+       TSI does not dispute some of the legal fees challenged by the government, but seeks
+inclusion of the allowable portion (80%) of the $39,060 it incurred defending itself in the
+NCIS investigation, $31,248 (app. br. at 13). For its part, the government does not dispute
+the fact that the legal fees for the investigation, as subjected to the 20% discount, would
+otherwise be allowable (see gov't br. at 62, 64 ), but argues that the fees were expensed to
+the wrong year (id. at 62-63). We disagree with the government.
+
+        Although it would have been easiest if TSI had been able to have sought the
+legal costs contemporaneously with their incurrence, it was precluded from doing so
+by FAR 31.205-4 7(g), which generally precludes the CO's paying such fees while the
+investigation is pending. The government asserts that, once NCIS notified Sonetech
+that the investigation was complete and that company told TSI, TSI was obligated to
+immediately claim the costs (gov't br. at 62). But, as we found above, in the factual
+circumstances presented here, it was reasonable for TSI to wait until it received its
+documents back from the NCIS in 2007 to be certain that the investigation was
+complete and no longer pending. Accordingly, we find TSI to have acted
+appropriately in seeking its legal costs in the FY 2007 ICP, and rule that it was entitled
+to claim them (as discounted).
+
+22 In this holding, we respectfully part ways with Judge Clarke. Although he found
+        adequate support for the awards and is of the general view that the small size of
+        the company decreases the need for formality, we, nevertheless, cannot find
+        support in the law for permitting a bonus plan with the kind of unfettered
+        discretion that we encountered here.
+23 Because we find the bonus plan impermissible, we need not determine whether the
+
+        March 2008 payment was properly allocable to the FY 2007 ICP.
+
+                                            29
+      F. TSI is Entitled to Payment for Mr. Wilson's Consulting Costs
+
+        As we discussed at length in Section A above, the supposed requirement for
+"work product" is not fatal to a contractor's seeking compensation for consultant's
+work in the proper circumstances. In our Findings of Fact, above, we, determined that
+Mr. Wilson's hours were substantiated and not unreasonable. Accordingly, we hold
+that the government's determination that TSI was not entitled to compensation for
+Mr. Wilson's costs in its FY 2007 ICP was incorrect.
+
+      G. The Government Correctly Determined that the Costs of Two TSI
+         Subcontractors were Unallowable
+
+      It is undisputed that the direct costs of the two subcontracts challenged by the ACO
+and remaining at issue were, contrary to the terms of the FAR (as incorporated into TSI's
+contracts), not pre-approved by the ACO. TSI attempts to evade that problem by alleging
+that, because the subcontracts were technical in nature, the ACO would have needed to
+consult with the COTR to decide if they were proper, and further alleging that the COTR
+has performed an after-the-fact review and found the subcontracts to have been performed
+in support of the statement of work (app. hr. at 16-17).
+
+        As we expressed in our Findings of Fact, we entertain little doubt that the
+subcontracts were performed pursuant to the statements of work of the contracts and
+were thus allocable costs. The problem for TSI - a problem that it does not address -
+is that the support letter it received from the COTR stakes out no position on the
+reasonableness of the costs of the subcontractors. This omission is fatal to TSI' s
+attempts to provide an after-the-fact justification of these subcontracts. See
+FAR 52.244-2(e)(l)(vii) (requiring contractor's provision of information for
+determination of price reasonableness). Thus, the government properly disallowed the
+$2,661 in challenged subcontract costs under contract 0236 and the $28,568 in
+challenged subcontract costs under contract 0340.
+
+
+                                          30
+                                    CONCLUSION
+
+       As discussed herein, neither the principles of retroactive disallowance and
+course of dealing, nor the statute of limitations prevent us from reaching the merits of
+the government's decision to challenge certain of the costs contained in TSI's FY 2007
+ICP. TSI's costs for SMI and Charles Wilson were allowable as were $31,248 in legal
+fees. The remainder of the disallowances in the COFD were proper.
+
+       We return this matter to the parties to recalculate the rates in accordance with
+this decision.
+
+
+                                                   J.~
+       Dated: 12 January 2017
+
+
+                                                   Administrative Judge
+                                                   Armed Services Board
+                                                   of Contract Appeals
+
+ I concur                                          I concur
+
+
+                                                   RICHARD SHACKLEFORD
+                                                   Administrative Judge
+                                                   Vice Chairman
+                                                   Armed Services Board
+                                                   of Contract Appeals
+
+
+ I concur                                          I concur in relief given and otherwise
+                                                   dissent (see separate opinion)
+
+
+                 (
+ALEXANDER YO
+Administrative Judge                                           ve Judge
+armed Services Board                               Armed Services Board
+of Contract Appeals                                of Contract Appeals
+
+
+                                           31
+        DISSENTING OPINION BY ADMINISTRATIVE JUDGE CLARKE
+
+       I respectfully dissent. While I concur with the relief granted by the majority, I
+disagree with the reasoning. DCMA and DCAA engaged in retroactive disallowance
+and created an audit course of dealing that this small hi-tech business relied upon to its
+detriment. The majority's reasoning fails to hold DCMA and DCAA accountable. I
+was the trial judge and therefore drafted the initial version of the decision that my
+colleagues choose not to adopt. Therefore, to ensure my thinking is fully understood, I
+present my decision as my dissent.
+
+        This is an appeal by Technology Systems, Inc. of a DCMA final decision reducing
+its final indirect rates for FY 2007 and demanding the return of $159,303. Appellant's
+owner presented its case pro se. The Board has jurisdiction pursuant to the Contract
+Disputes Act of 1978 (CDA), 41 U.S.C. §§ 7101-7109. The appeal should be sustained in
+part as put forth in my dissent.
+
+                                  FINDINGS OF FACT
+
+        1. Technology Systems, Inc. (TSI) is a small technology business conducting
+research and development of software systems relating to new ways for ship navigation
+(tr. 2/227). TSI employs approximately 20 people 1 (tr. 2/193), including three
+executives: Mr. Benton, chief technology officer, president & sole owner (tr. 2/229-30),
+Mr. Fletcher, chief financial officer (CFO) (tr. 21117), and Mr. Zysk, chief operating
+officer (COO) (tr. 2173, 76, 102). Mr. Benton started TSI in 1985 and from 1987 on it
+was a defense contractor. TSI ceased operations in August 2014. 2 (Tr. 2/230)
+
+       2. During the time relevant to the FY 2007 DCAA audit, TSI had four
+cost-plus-fixed-fee (CPFF) contracts for research and development with the
+Navy: Contract Nos. N00039-07-C-0006 (0006), N00014-07-C-0236 (0236),
+N00014-07-C-0340 (0340), and N41756-05-C-4775 (4775) 3 (R4, tabs 1-3, 16 at 268,
+tab 17 at 269).
+
+     3. Contracts 0006, 0236 and 0340 contained the following clauses:
+FAR 52.215-2, AUDIT AND RECORDS-NEGOTIATION (JUN 1999); FAR 52.216-7,
+ALLOWABLE COST AND PAYMENT (DEC 2002); FAR 52.233-1, DISPUTES (JUL 2002);
+FAR 52.242-1, NOTICE OF INTENT TO DISALLOW COSTS (APR 1984); FAR 52.242-3,
+
+1
+  In early 2008 TSI had only 15 employees (R4, tab 151 at 2).
+2
+  Mr. Benton testified that TSI "still exists on paper so that it can interact in the way
+       that we're doing today" (tr. 2/230).
+3
+  Contract 4 77 5 was identified as a classified contract and a copy is not in the record
+       (R4, tab 53 at 910).
+
+                                            32
+PENAL TIES FOR UNALLOWABLE COSTS (MA y 2001 ); and FAR 52.244-2,
+SUBCONTRACTS (AUG 1988), (contract 0006) or 1998 (contracts 0236, 0340) (R4,
+tabs 1.:3 ). I infer that contract 477 5 also had these required clauses.
+
+       4. The Subcontracts' clauses generally require that prime contractors that do
+not have an approved purchasing system must obtain the contracting officer's written
+consent to enter into cost-reimbursement, time-and-materials or labor-hour
+subcontracts. FAR 52.244-2( d)(l ). TSI did not have an approved purchasing system4
+and as a result had to obtain approval to enter into subcontracts (tr. 2/55).
+
+DCAAIDCMA Audit History before FY 2007
+
+        ·5. There is no dispute over TSI's audit history prior to the FY 2007 audit.
+Ms. Winefield, DCAA supervisory auditor, testified that DCAA conducted full audits
+ofTSI's Incurred Cost Proposals (ICPs) for FYs 1998 to 2003 and 2006. DCAA
+conducted a "desk review" for FY s 2004 and 2005. The desk review for FY 2005
+included the statement, "We determined that no significant costs were questioned in
+prior years and that no indicators of audit risk had been identified" (app. supp. R4,
+tab 100 at 2904). A desk review could be conducted if, after review ofTSI's ICP,
+DCAA determined that there was a low risk that the ICP contained unallowable costs.
+A desk review is not a full audit. Desk reviews can only be conducted two years in a
+row. (Tr. 1/16-17, 26-28) As for the results of the audits, the record does not contain
+information on audit results before 2001. The FY 2001 audit questioned several costs
+but "it primarily questioned $70,072 in the Professional Fees Cost Element claimed in
+overhead and in G&A" for Messrs. Kemper, Ring and Wilson. These costs were
+questioned, because, among other reasons, TSI failed to provide evidence supporting
+the work performed by the consultants. (Ex. G-1 at 4-5, 9-11) The FY 2001 audit
+resulted in negotiations between the ACO and TSI and a rate agreement was achieved
+(tr. 2/256). For FYs 2002 to 2006, DCAA/DCMA did not question costs and accepted
+TSI's indirect rates without change (tr. 2/60-63; R4, tab 6(a) at 72, tab 70 at 1554). The
+FY 2006 audit was a full audit (tr. 21174). FY 2006 included, "In our opinion, the
+contractor's indirect rates are acceptable as proposed" (app. supp. R4, tab 101 at 6105).
+
+The FY 2007 Audit
+
+        6. TSI's FY 2007 ICP was submitted on or about 25 June 2008 (R4, tab 15
+at 227). DCAA's incurred cost audit ofTSI's 2007 ICP started in the fall of 2008
+(tr. 1/36). Ms. Waller and Ms. Pitts were the DCAA auditors conducting the audit
+
+4   Administrative contracting officer (ACO) Cuellar testified that "a contractor such as
+       TSI typically does not have an approved purchasing system because they don't
+       meet the requirements, you know, where we would do a review in most cases,
+       which is $25 million, I think" (tr. 2155, 65).
+
+                                            33
+(tr. 2/161; R4, tab 53 at 626). Mr. Fletcher recalled that Ms. Waller "lost her temper"
+during a meeting held on Friday, 17 October 2008 (tr. 2/162; R4, tab 109). The
+incident was documented in a 20 October 2008 email from Mr. Benton5 to
+ACO Murray 6 (app. supp. R4, tab 103). Mr. Benton wrote in part, "TSI has been
+subject to annual audits for nearly 2 decades, and this auditor's approach and
+behaviors are outside that which we have ever experienced" (id. at 2). Mr. Benton
+questioned Ms. Waller's "objectivity" (id.). Seven employees ofTSI, two of whom
+were in the room, wrote memorandums documenting what they heard while the
+meeting was in process (tr. 2/231; app. supp. R4, tabs 108-14 ). Mr. Fletcher recalled
+that when he called ACO Murray 7 complaining about Ms. Waller, ACO Murray stated
+that TSI would not get an objective audit from Ms. Waller and that she (ACO Murray)
+would see that TSI got another auditor8 (tr. 21163). A meeting was held on
+12 November 2008 between the government and TSI. ACO Murray and Ms. Waller
+were among the attendees. TSI asked that Ms. Waller be replaced (R4, tab 107 at 1).
+Minutes of the meeting indicate that the government decided not to replace
+Ms. Waller9 (tr. 2/164; R4, tab 107 at 2-3).
+
+        7. Ms. Waller submitted her draft audit for peer review on 27 April 2009
+(R4, tab 53 at 552). Before the FY 2007 audit could be completed, DCAA ordered all
+incurred cost audits stopped to focus on pricing audits that were holding up awards
+(tr. 1/38, 42-43). When TSI's incurred cost audit was stopped, Ms. Waller had
+completed a substantial amount of the work. Her draft audit questioned the following
+costs:
+
+
+5 Mr. Benton did not attend the meeting but it is well documented in the record
+       (R4, tabs 108-14).
+6 ACO Murray was close to retirement and was replaced by ACO Cuellar (app. supp.
+
+       R4, tab 122 at 1).
+7 Mr. Fletcher erroneously referred to ACO Cuellar in his account of the conversation,
+
+       but the minutes of the 12 November 2008 meeting make it clear he talked to
+       ACO Murray (R4, tab 107 at 3).
+8 At the 12 November 2008 meeting ACO Murray could not recall previously saying
+
+       she would replace Ms. Waller but did not dispute that she probably did make
+       that statement (R4, tab 107 at 3 ).
+9
+  The government did not call Ms. Waller as a witness at the hearing. The only
+       explanation was that she was no longer with DCAA (tr. 2/259-60).
+
+                                          34
+ Professional fees (overhead)                 $51,340 (R4, tab 53 at 559)
+ Computer supplies (overhead)                 $26, 198 (id. at 562)
+ Conferences                                  $19,241 (id. at 565)
+ Severance pay                                $4,212 (id. at 572)
+ Depreciation                                 $708 (id. at 573)
+ Professional fees (G&A)                      $39,060 (id. at 576)
+ Corporate affairs labor (G&A)                $36,498 (id. at 581)
+ Travel (G&A)                                 $102 (id. at 583)
+ Health Insurance (Yoga)                      $1,430 (id. at 589)
+ Bonuses                                      $39,150 (id. at 590)
+ Payroll taxes                                $2,866 (id. at 594)
+ Holiday costs                                $4, 131 (id. at 595)
+ All other fringe expenses                    $79,222 (id. at 596)
+ Direct labor                                 $2, 184 (id. at 602)
+ Direct travel                                $14,410 (id. at 603)
+ Subcontracting/consulting                    $40,070 (id. at 608)
+
+The draft results were:
+
+                               Claimed by TSI                Audit determined
+ OH Rate                       127.64%                       92.48%
+ G&ARate                        18.40%                       12.02%
+ Material OH Rate                1.05%                        0.00%
+
+(R4, tab 53 at 557)
+
+      8. DCMA resumed TSI's incurred cost audit for FY 2007 in 2013 due to
+concerns over the statute of limitations (tr. 1/43). In April 2013 Ms. Winefield assigned
+Ms. Cote, senior auditor, to review the status of the TSI audit (tr. 1/44, 46; R4, tab 48).
+Ms. Cote submitted her findings in July 2013. She determined that more information
+was needed from TSI. (Tr. 1/44-47; R4, tabs 49, 50) Ms. Winefield then assigned
+Mr. Darcy, senior auditor, to complete the TSI audit (tr. 1/48).
+
+       9. By letter dated 18 March 2014 to ACO Cuellar, JO Ms. Milshtein, DCAA,
+wrote that DCAA was unable to meet the required audit date and was withdrawing from
+"our engagement to audit the subject [TSI's] incurred cost proposal." DCAA agreed to
+provide "non-audit" service to assist DCMA in determining final rates for TSI in FY
+2007 "based on the information readily available from the audit files." (Tr. 1/173-74,
+230-32; app. supp. R4, tab 136) Also on 18 March 2014, DCAA provided ACO Cuellar
+
+JO   Ms. Cuellar replaced Ms. Murray as DCMA's ACO for TSI (tr. 1/227).
+
+                                            35
+a "decrement memo" itemizing the costs it questioned (tr. 1152-53; R4, tab 4). The
+memo stated, "Providing this information does not constitute an audit or attestation
+engagement under generally accepted government auditing standards" (R4, tab 4 at 2).
+
+        10. After ACO Cuellar received DCAA's decrement memo she emailed
+Mr. Benton, providing him with a copy of the decrement memo, and requesting any
+additional data he might want to submit and set up a time to meet (tr. 1/233-34; R4,
+tab 5). ACO Cuellar offered to close-out the action without assessing a penalty if TSI
+would accept DCAA's questioned costs (tr. 11235-36).
+
+       11. By email dated 23 April 2014 to ACO Cuellar, TSI did not accept the
+offer and instead submitted documents explaining its position (tr. 11237-38; R4, tabs 6,
+6(a)-6(g)). By email dated 6 May 2014, ACO Cuellar acknowledged TSI's
+"non-acceptance of the Government's offer" stating in part:
+
+             We understand your argument that DCAA has
+             historically not questioned these costs; however, that
+             does not mean DCAA deems those costs to be
+             allowable. We here at DCMA cannot speak for the
+             DCAA auditor( s) that performed the reviews, nor can
+             we speak for the sampling methodology used by DCAA.
+             Our job will be to address the audit as written. If you
+             are able to substantiate the costs with the required
+             documentation, we will reinstate the costs. If not, we
+             have to sustain the costs.
+
+(Tr. 11238; R4, tab 7) TSI replied submitting some additional information, but
+ACO Cuellar testified that most of it was what had already been submitted to
+DCAA. She was able to allow some additional costs based on the new information.
+(Tr. 11237-40; R4, tab 9, 9(a)-(e)) ACO Cuellar testified that she continued to attempt
+to negotiate with TSI requesting additional documentation such as evidence of
+approval of subcontracts by the ACO, meeting notes, trip reports, bonus plan
+information, etc. (tr. 11242-45). By email dated 15 May 2014 to ACO Cuellar, TSI
+provided a statement to the effect that it was no longer interested in negotiations
+(tr. 11245; R4, tab 13, 13(a)). In the statement Mr. Benton wrote:
+
+             TSI had a long established track record of never having
+             any significant issues result from DCAA audits. All of the
+             procedures and guidance in place had resulted in TSI's
+             rates being accepted as admitted [sic] in the 5 years prior
+             (2002-2006).
+
+
+                                           36
+             There is no manner in which TSI could have foreseen the
+             DCAA audit findings for 2007. It is obvious that the
+             management team was competent, diligent, and operating
+             TSI in good faith insofar as accounting for all costs.
+             Indeed, any similar management team would have
+             operated TSI in the same manner in 2007.
+
+             Why DCAA chose to totally alter their previous stances in
+             2007 is a mystery. But DCAA has set into motion a
+             process that will result in TSI's bankruptcy unless DCMA
+             recognizes the fundamental lack of fairness in DCAA' s
+             findings and positions. There is plenty of evidence already
+             provided by TSI to substantiate this.
+
+
+             The bottom line is that DCAA's claims were generally
+             unfair and improper, and if they are allowed to stand to
+             any substantial extent, there are no funds existing to
+             recoup costs that are disallowed. No change in TSI's
+             accounting practices would occur, because TSI has no
+             revenues that are subject to DCAA audit anymore. The
+             end result would be to force a company that has been
+             recognized as an excellent contractor to the US military
+             to cease operations, and the government to recoup
+             virtually nothing.
+
+(R4, tab 13(a) at 212-13)
+
+        12. By email dated 14 April 2014 to ACO Cuellar, Mr. Darcy forwarded
+a "TSI Negotiation Support Spreadsheet" he prepared for TSI's FY 2007 ICP
+(tr. 11214-16; R4, tabs 58-59). The spreadsheet included the following:
+
+             Draft audit results questioned almost all of the labor costs
+             in the corporate affairs labor account since the contractor
+             could not provide detail of the labor hours by activity.
+             Undoubtedly there is some directly associated
+             unallowable labor in here related to other unallowable
+             costs we questioned in the draft audit results and carried
+             forward to the decrement memo. However, it looks like a
+             hard line was taken in the draft audit results because the
+             contractor was not providing the breakout of the labor
+             costs comprising this account in the form the auditor
+
+
+                                          37
+              requested. For the purposes of the decrement memo we
+              dropped this issue since more work still needed to be done
+              to quantify the labor associated with the unallowable
+              activities (i.e. TSI management interaction with SMI,
+              patents, etc.).
+
+(R4, tab 59 at 1466) (Emphasis added) Ms. Winefield testified that Mr. Darcy did not
+include unallowable "activities" in the decrement memo because of his perception that
+the auditors took a "hard line" (tr. 1/218-19).
+
+        13. Ms. Winefield prepared a Weekly Significant Activity Report for the week
+ending 13 June 2014 wherein she wrote, "Due to an impending Statute of Limitations
+date and per the request of DCMA, we prepared a decrement recommendation based
+on the findings from transaction testing that was performed to date on FY 2007 costs"
+(tr. 11212; R4, tab 66). She testified that DCAA calculated that the six-year limitation
+period would run out on 25 June 2014 (tr. 1/213).
+
+        14. By email dated 12 May 2014 to ACO Cuellar, Mr. Benton provided
+information in response to ACO Cuellar's questions (tr. 2/40; app. supp. R4, tab 156).
+Concerning professional fees, ACO Cuellar requested information such as "trip
+reports, minutes of meetings, collateral memoranda and reports" to support the costs
+(app. supp. R4, tab 156 at 1). Mr. Benton attached a file summarizing Strategic
+Marketing Innovations, Inc.'s (SMI's) activities in FY 2007 and wrote:
+
+              An issue with the 07 SMI documentation is that we were
+              not made aware of an increased documentation
+              requirement until 08. The files that are attached are from
+              our accounting records, and refer to additional notes that
+              Tom Zysk (company president at the time) would have.
+              Unfortunately, Tom Zysk retired several years ago and
+              his computer files are no longer on file and thus we have
+              no way to forensically gather that information. Much of
+              Tom's interactions were verbal. That said, the work
+              performed by SMI was fundamentally the same for each
+              year from 2002 through 2009, there were no changes to
+              the contractual relationships or what they did. We were
+              able to more comprehensively document in 2008-2009
+              their business development activities, which included
+              attending conferences to identify potential business
+              opportunities, supporting our visits to DC area clients,
+              and so forth.
+
+
+                                           38
+(Id.) Mr. Benton also attached a file that gave examples of computer equipment that
+was expensed "due to short life" (id.). Mr. Fletcher discussed depreciation of
+computers. Some computers were for research and were "taken apart, components
+soldered on, sensors added in" and built into systems that would go out
+on vehicles/boats for testing (tr. 2/131, 205). They were "heavily modified"
+(tr. 2/221-22). After testing was complete the computer was "no good" to TSI and it
+was "expensed" (tr. 2/131-32). TSI also bought computers that were used on desks for
+routine office work and those computers were capitalized/depreciated (tr. 2/132).
+Computers that were consumed in the research work were not depreciated, but were
+expensed (tr. 2/133-34). Mr. Benton explained that even though the bonuses were paid
+in 2008 they were based on performance in 2007 (id.). He attached 2007 cost
+proposals for software license fees (id.). Finally he attached an email from
+Mr. Almquist former program manager and contracting officer technfoal representative
+(COTR) for the Office of Naval Research (ONR) confirming that TSI's
+"subcontractor, consultant, and equipment costs incurred were in support of the SOW"
+(app. supp. R4, tab 156 at 3). ACO Cuellar testified that she did consider this email
+from the COTR but that she "didn't look at it for fair and reasonable pricing" and he
+wasn't a contracting officer (tr. 2/44). Mr. Benton also provided emails from
+Mr. Devin, ONR, and Mr. Cascioli, project officer, both verifying that ODC costs
+incurred by TSI under contract 0340 ''were in support of the SOW" (app. supp. R4,
+tab 157). ACO Cuellar testified that this information was insufficient because she
+could not make a determination that the costs were fair and reasonable (tr. 2/49-52).
+
+      15. ACO Cuellar signed her 23 June 2014 contracting officer's final decision
+(COFD) setting the final determination of TS I's rates and asserting a claim for
+$159,303 (tr. 11153; R4, tab 16). Her decision is summarized as follows:
+
+
+                                         39
+Note                             ~  DISALLOWED OVERHEAD
+Notel          Although SMI' s l?bbying fees were voluntarily removed, TSI failed
+Professional   to present adequate documentation such as white papers, trip reports,
+Fees           meeting minutes, reports, etc., showing that the costs were allowable
+$51,340        (tr. 1/253-56; R4, tab 16 at 258).
+Note2          TSI expensed the full value of computers purchased in FY 2007 in
+Computer       FY 2007 that should have been depreciated over five years
+Supplies       (Tr. 1/257-58; R4, tab 16 at 258-59).
+$26,198
+Note 3         Unallowable entertainment costs. TSI agreed. (Tr. 1/259; R4, tab 16
+Conferences    at 259)
+$2,604
+Note4          Bonuses 11 that were not supported by a plan and were partially
+Fringe         incurred in FY 2008 (tr. 1/260-62; R4, tab 16 at 259-60).
+$25,698
+                                       DISALLOWED G&A
+Note 5         Legal fees, $34,429 to deal with criminal investigation. Should have
+Professional   claimed in FY 2006 and only entitled to 80%. $2,925 for lack of
+fees           documentation for Mr. Wilson. $706 expressly unallowable. $1,000
+$39,060        for preparation of personal tax returns. (Tr. 1/262-264; R4, tab 16
+               at 260-67)
+Note 6         Exceeds maximum per diem for lodging and meals (tr. 1/267;
+Conferences    R4, tab 16 at 261).
+$577
+Note?          See Note 4 Fringe above (tr. 1/267-68; R4, tab 16 at 261).
+Fringe
+$4,269
+Note 8         Difference between claimed overhead B&P labor to the adjusted rate
+B&P            of 109.88% (tr. 1/268; R4, tab 16 at 261).
+Overhead
+$2,417
+                             DISALLOWED DIRECT COSTS
+Note9          Exceeds maximum per diem rates (tr. 1/268; R4, tab 16 at 261 ).
+$1,074
+Note 10        $466 exceeds maximum per diem rates. $2,661 failure to receive
+$3,127         consent to subcontract and failure to provide substantiation.
+               (Tr. 11270-71; R4, tab 16 at 261-62)
+Note 11        $1,986 exceeds maximum per diem rates. $28,568 failure to receive
+$30,554        consent to subcontract and failure to provide substantiation.
+               (Tr. 1/271-273; R4, tab 16 at 262)
+
+
+                                         40
+ACO Cuellar did not know if the problems identified in 2007 existed in earlier years
+(2002 to 2006) or not (tr. 2/61, 63).
+
+FYs 2008 & 2009 Audits
+
+       16. Ms. Henriquez-Aguilar was the DCAA auditor who conducted the FY 2008
+and FY 2009 audits at TSI (tr. 11278, 285). By email dated 7 May 2014 to
+ACO Cuellar, Mr. Benton informed her that during the FYs 2008 & 2009 audit
+out-brief, Ms. Henriquez-Aguilar told him that SMI's costs "were deemed allowable
+without exception" (tr. 11158, 280; app. supp. R4, tab 148 at 3658). ACO Cuellar
+wanted to verify Mr. Benton's statements in the email (tr. 11287; app. supp. R4,
+tab 148 at 3657). By email dated 8 May 2014 to Ms. Henriquez-Aguilar, ACO Cuellar
+asked her to "explain the differences between what DCAA found in FY07 and
+FY08/09" (tr. 2/287; app. supp. R4, tab 148 at 3657).
+
+       17. By email dated 8 May 2014 to ACO Cuellar, Ms. Henriquez-Aguilar
+responded:
+
+               Based on my review of invoices in 2008 and 2009 all
+               lobbying costs were voluntarily removed as unallowable,
+               and only costs related to marketing were claimed. Based
+               on my evaluation I consider the 2008 & 2009 direct selling
+               costs allowable per FAR 3 l .205-38(b )(5).
+
+               I am not sure what support was provided in FY 2007 as I
+               did not complete the audit, but for the years I examined I
+               was able to differentiate between what was allowable and
+               not allowable, and I have confirmed that all unallowable
+               expenses were excluded from the claims
+
+(Tr. 11280, 287; app. supp. R4, tab 148 at 3656-57) Ms. Henriquez-Aguilar testified
+that her conclusion was based on only her review of the invoices (tr. 11281 ). She
+testified that at the time of the out-briefing she told Mr. Benton that the direct selling
+costs were allowable and Mr. Benton's 7 May 2014 email to ACO Cuellar was correct
+(tr. 11281; app. supp. R4, tab 148 at 3658).
+
+      18. By email dated 13 May 2014 to Ms. Henriquez-Aguilar and ACO Cuellar,
+Ms. Winefield stated that in FY 2007 TSI "was unable to provide adequate work
+products for us to determine the extent of allowable marketing services that were being
+performed" (R4, tab 10 at 148). She stated that she thought "it is very likely that TSI
+
+
+11
+     Prior to 2007 TSI did not have an executive compensation plan (tr. 2/183).
+
+                                            41
+started keeping better documentation for FY 2008 and FY 2009" which "may explain
+why our audit of those years rendered a different opinion on the SMI costs" (id.).
+
+         19. By email dated 9 June 2014 to Ms. Winefield, Mr. Cook, DCAA, stated:
+
+               Mary and Peter - on with headquarters relating to the 2007
+               audit now for TSI. Headquarters wants to insure offices
+               closely coordinate so we are taking same position on same
+               type of issues and no instances of same information
+               provided but different DCAA positions.
+
+(Tr. 11159; app. supp. R4, tab 126 at 4038)
+
+        20. In June 2014 Ms. Winefield compared the TSI's FY 2007 audit documents
+with FYs 2008/2009 and concluded that they were essentially the same except that in
+the later audits a Scope of Work was included for SMI. In a 12 June 2014 email to
+Ms. DeCourcy, DCAA, Ms. Winefield wrote:
+
+               Unfortunately, I think the difference between the FY 2007
+               and FY 2008/FY 2009 audit is auditor judgment. It doesn't
+               look to me that TSI was providing much better support in
+               FY 2008/FY 2009 than what we saw in FY 2007. I looked
+               through the attachments and I would agree with Peter that
+               the major difference in what VIC team got is that the
+               SOWs attached to the agreements in FY 2009 were
+               updated.
+
+(App. supp. R4, tab 123 at 4358; tr. 11160-63) (Emphasis added)
+
+        21. Ms. Henriquez-Aguilar explained that when DCAA received a
+congressional inquiry from Senator Susan Collins (app. supp. R4, tab 130 at 1) about
+TSI' s FY 2007 audit, she met with her supervisor and manager and they decided "it was
+a good idea to expand testing, to make sure that we weren't missing anything in this
+area, and that's when I contacted technology systems again, and I asked for 100 percent
+.of what was claimed for 2008 and 2009, for invoices and any supporting documents"
+(tr. 11285, 296-98). As a result of this expanded testing, in Ms. Henriquez-Aguilar's
+ draft and 29 July 2014 final audit report for FYs 2008 & 2009 12 she questioned SMI's
+professional costs, dues & subscriptions, conferences, and computer supplies (tr. 1/284,
+
+
+12   Ms. Henriquez-Aguilar testified that TSI's support for its costs improved in
+        FY 2009 from what it had in FY 2008 (tr. 1/289-90).
+
+                                              42
+289-90; app. supp. R4, tab 150; R4, tab 70 at 1535-36). 13 The results ofthis expanded
+testing were provided to Senator Susan Collins (R4, tab 130). At the hearing,
+Ms. Henriquez-Aguilar agreed that she would not have expanded her testing if it had
+not been for TSI's congressional inquiry and the resulting congressional inquiry to
+DCMAIDCAA (tr. 1/285-86, 288-89).
+
+TS! Cost Documentation Did Not Change for 2002 through 2008
+
+        22. Mr. Zysk was COO for TSI from 2005 through 2012 (tr. 2/73, 76, 102).
+Mr. Zysk testified that since he arrived at TSI in 2005, he didn't recall the DCAA
+auditors having anything negative to say until 2007. The only difference between the
+earlier years and 2007 was the auditor. (Tr. 2/115) Mr. Zysk testified that the work
+SMI did for TSI was essentially the same from 2005 when he started with TSI until
+2007 (tr. 21102, I 05, I 07). They did not create minutes of phone conversations
+(tr. 21107-08).
+
+       23. Mr. Fletcher was CFO for TSI from 2004 through 2014 (tr. 2/117).
+Mr. Fletcher testified that he paid "extreme attention" to what the DCAA auditors said
+when they visited TSI. 14 In 2004 to 2006 the auditors looked at SMI invoices and found
+them acceptable so he felt they must be "appropriate." (Tr. 2/119) The DCAA auditors
+were one of Mr. Fletcher's "primary sources of information and expectations" (tr. 2/120,
+185). Mr. Fletcher testified that prior to 2007 when the DCAA auditors came, they
+always looked at professional fees, SMI and Mr. Chuck Wilson, and they "never, ever
+had a problem prior to 2007 with the level of documentation" (tr. 2/160). This testimony
+is corroborated by documents in the record. The record includes monthly "activity"
+memorandums (invoices) from SMI 15 for April, June, July, August, September, October,
+November, and December 2006 (app. supp. R4, tab 141 at 1-7). The record also
+includes Ms. Waller's working papers for her 2007 audit that includes similar SMI
+memorandum that are heavily annotated that I infer is Ms. Waller's 16 handwriting. The
+annotations include questions about the adequacy of support for the memorandums such
+as "No work product! i.e. reports." (R4, tab 53 at 1139) Similar handwritten
+
+13
+   ACO Cuellar issued a final decision demanding payment of $60,365 for
+      overpayments in FYs 2008 and 2009 that was appealed, docketed as ASBCA
+      No. 60126 and stayed by the Board at the request of the parties pending the
+      outcome of this appeal.
+14
+   The government elicited testimony from Ms. Winefield that DCAA auditors are not
+      allowed to provide guidance to contractors (tr. 2/251-52).
+15 These memorandums are not on SMI letterhead, however, they are from
+
+      Mr. Peterson, the same person on the 2007 memorandums that are on SMI
+      letterhead (R4, tab 53 at 1139).
+16 We must infer this because the government did not produce Ms. Waller at the
+
+      hearing (tr. 2/259-60).
+
+                                          43
+annotations appear on all of the 2007 SMI memorandums (R4, tab 53 at 1139, 1146,
+1188, 1194, 1219, 1228, 1253, 1266, 1277). In any event, the SMI memorandum that
+were accepted without question in the FY 2006 audit were almost identical to those
+questioned in the FY 2007 audit. Mr. Fletcher testified, "It was my intent to do things
+exactly as DCAA wanted us to do." (Tr. 2/160) TSI was "following business practices
+that had been approved from 2002, '3, '4, '5, and '6 by DCAA as submitted. 17 To me
+that's a pretty good testimony that you're doing things properly and we didn't change - -
+other than the bonus plan we didn't change anything in 2007 or '8 or '9." (Tr. 2/214-15)
+Since the 2007 audit didn't actually take place until almost the end of 2008, TSI did
+make some changes in documentation in 2009 (tr. 2/216).
+
+        24. Ms. Pepin (now Ms. Tremblay) was a DCAA auditor in 2007 (tr. 2/5).
+Mr. Fletcher recalled Ms. Pepin's visit to TSI on 20 February 2008 (tr. 21121). She was
+there to review TS I's proposed rates for 2008 (id.; app. supp. R4, tabs 151, 177). They
+discussed TSI's executive bonus plan and he provided documents that she photocopied
+and took with her (tr. 2/122-23, 142, 190). Mr. Fletcher testified that he and Mr. Zysk
+were hired at "salaries considerably below our last jobs" with the expectation that if the
+company did well they would share in the rewards (tr. 2/138-39). They discussed
+professional fees because it was one of the bigger numbers under overhead (id.). When
+Ms. Pepin left she stated that everything looked fine to her (id.). Ms. Pepin testified at the
+hearing but when asked, she could not recall her meeting with Mr. Fletcher (tr. 2/13).
+
+        25. Mr. Benton testified that TSI "had been through many audits and those
+audits were while we were under contract with the government, subject to FAR
+interpretation. And those audits set the standard. And the fact that the government
+wants to change that standard yet doesn't notify us is sort of applying a different
+standard to the government's side of fence than they're trying to apply to us."
+(Tr. 2/225) Mr. Benton testified, "the fact that we had operated the company since
+1985 and never had any issues, ever, and then have this fiasco, just makes me shake
+my head. I get asked to speak at SBIR [Small Business Innovative Research program
+(tr. 177-78)] conferences, I won't anymore. I tell people, don't do business with the
+government, you can't trust them." (Tr. 2/240)
+
+Appeal
+
+        26. TSI appealed the 23 June 2014 final decision by letter dated 17 September 2014.
+
+        27. The Board docketed the appeal as ASBCA No. 59577 on 18 September 2014.
+
+
+17
+     There are no DCAA working papers from 2002 to 2006 in the record so I rely on
+        sworn testimony to reach my conclusions.
+
+                                            44
+                                       DECISION
+
+       The parties in their post-hearing briefs 18 discuss each of the costs disallowed in
+ACO Cuellar's final decision. Because I analyze this appeal from two perspectives,
+"retroactive disallowance" and "course of dealing," I do not look at all individual
+costs. As explained below, I conclude that both "retroactive disallowance" and
+"course of dealing" support my decision to sustain TSI's appeal in part.
+
+Preliminary Matters-Time Bar
+
+        TSI asserts that DCMA's final decision is barred by the CDA's six-year time
+bar (app. br. at 2, 5, 11). As DCMA correctly points out, TSI has the burden of proof
+in this argument (gov't reply br. at 15). This argument fails because TSI's FY 2007
+ICP was submitted 25 June 2008 19 (finding 6). Six years from 25 June 2008 is 25 June
+2014. The final decision was issued on 23 June 2014, within the six-year period. It is
+not as close as it seems because the date of the ICP typically does not start the running
+of the six-year period, but it is the earliest possible date. Combat Support Associates,
+ASBCA Nos. 58945, 58946, 14-1 BCA, 35,782 at 175,041-42 (Claim does not
+"accrue" upon submission of the Incurred Cost Submission until there is sufficient
+supporting data to establish government knowledge of the claim.). I need not discuss
+the other attempts by TSI to persuade us that certain aspects of the government's claim
+are time-barred other than to say I agree with DCMA's analysis concluding that TSI's
+arguments are unpersuasive (gov't reply br. at 17-24).
+
+Preliminary Matters -Auditor "Independence"
+
+       While TSI "concedes" that its argument that the final decision should be "vacated"
+due to "impaired Auditor Independence" is unsustainable (app. br. at 3), it included
+supporting evidence and argument in the record and brief. I therefore address it. There is
+evidence in the record that TSI's concern over DCAA's FY 2007 auditor's behavior may
+have been justified (finding 6). There is even evidence that DCAA and DCMA had
+concerns over the auditor's work (findings 6, 12, 16, 19, 20). However, the record does
+not support a finding that the auditor was biased against TSI and that said bias influenced
+her recommendations to such an extent that it would justify sustaining this appeal. 20
+
+
+18
+   By letter dated 21 March 2016 the Board invited the parties to address course of
+       dealings in their reply briefs. After receipt of the reply briefs there was no
+       request from either party for additional briefing.
+19
+   DCMA contends the date was 30 June 2008 (gov't reply br. at 13, 16) but there is
+       no need to sort this date out because the result is the same for both.
+20
+   The government did not call Ms. Waller as a witness apparently since she was no
+       longer with DCAA (finding 23 n.16).                                   ·
+
+                                            45
+Retroactive Disallowance21
+
+       ACO Cuellar's 23 June 2014 final decision disallowed costs incurred in 2007
+(finding 15). This final decision was the first official notice to TSI that DCAA's
+practice of accepting TSl's documentary support for its costs and final rates in years
+2002 to 2006 was going to change. Therefore, these facts raise the issue of
+"retroactive disallowance."
+
+       The term retroactive disallowance" is a bit of a misnomer. If taken literally one
+could conclude that for it to apply, DCAA I DCMA would have to have disallowed costs
+that had previously been approved, i.e., costs for FY 2002 through 2006. To so hold
+would render the commendable goal of fundamental fairness and consistency of audit
+standards set forth in the law discussed below meaningless. I rely heavily on Gould
+Defense Systems, Inc., ASBCA No. 24881, 83-2 BCA iJ 16,676. Gould is a complicated
+accounting case, but it relies on Data-Design Laboratories, ASBCA No. 21029, 81-2
+BCA iJ 15, 190. In Data-Design the company allowed first class air travel from 1966
+through 1972 with DCAA's knowledge and the costs were not questioned. For the first
+time the costs for 1973 were disallowed in a DCAA Form 1 issued in 1975. This Board
+considered this to be retroactive disallowance even though no previously allowed costs
+were disallowed. This is directly analogous to what happened in TSI.
+
+      Retroactive disallowance is a "special application of estoppel principles."
+Gould, 83-2 BCA ii 16,676 at 82,981. The Board in Gould explained:
+
+               This rule is to be compared with the related precept that the
+               Government may not disallow retroactively historical costs
+               where: the cost or accounting method in question
+               previously had been accepted following final audit of
+               historical costs; the contractor reasonably believed that it
+               would continue to be approved; and it detrimentally relied
+               on the prior acceptance. See e.g., Data-Design
+               Laboratories, ASBCA No. 21029, 81-2 BCA iJ 15,190
+               (and cases cited). The retroactive disallowance rule
+               applies regardless of the allowability of the historical cost
+               under the Defense Acquisition Regulations and requires
+               that the Government only may disallow the cost or method
+               prospectively. (Id.) Final determination of costs or
+               acceptance of an accounting methodology as a result of the
+               audit called for in the "Allowable Cost, Fee and Payment"
+               clause precludes the Government from disallowing even
+
+
+21
+     This issue was raised sua sponte.
+
+                                            46
+              unallowable costs incurred prior to notice by the ·
+              Government that its prior acceptance was rescinded.
+
+Id. After discussing the facts and granting relief the Board in Gould explained the
+principle behind its decision:
+
+                      The contrary position suggested by the Government
+              essentially rests on the hypothesis that a Government agent
+              can do no wrong if he misinterprets a cost accounting
+              standard even though the contractor reasonably relies on
+              the misinterpretation. We believe the contractors are
+              entitled to a greater degree of certainty in their financial
+              dealings with the Government. Once the Government
+              unequivocally takes its stand and reads and applies the
+              standard in the same manner as the contractor, it is
+              essential that the contractor be entitled to rely on that joint
+              interpretation until notified otherwise. This rule is
+              essential to the orderly conduct of business with the
+              Government and is applicable irrespective of whether a
+              Defense Acquisition cost principle or a Cost Accounting
+              Standard is involved.
+
+Id. at 82,984. I agree whole heartedly with this goal.
+
+        The critical issue to decide is if the defense of retroactive disallowance, like
+traditional estoppel, requires the additional element of "affirmative misconduct":
+
+              The Supreme Court also has held that estoppel may run
+              against the government, but that "the Government may not
+              be estopped on the same terms as any other litigant." A
+              plaintiff "also must show that the government engaged in
+              'affirmative misconduct."'
+
+Kingman ReefAtoll Development, L.L.C. v. United States, 116 Fed. Cl. 708, 767 (2014)
+(citations omitted). The Board has not unambiguously applied the requirement of proving
+affirmative misconduct to retroactive disallowance. In United Technologies Corp, Pratt
+& Whitney, ASBCA No. 47416 et al., 06-1 BCA ~ 33,289 the Board dealt with a remand
+from the Court of Appeals for the Federal Circuit (CAFC). The CAFC wrote:
+
+                     A final argument raised by Pratt before the Board
+              was that the government is estopped from contesting Pratt's
+              determination that the revenue payments for parts acquired
+              under the collaboration requirements did not constitute
+
+
+                                             47
+              costs. This is said to be so because of the government's
+              prior acceptance of Pratt's treatment of those items. United
+              Techs., 01-2 BCA ~ 31,592, at 53 [sic]. Based on its
+              interpretation of "cost," the Board did not reach this issue.
+              Id. This question, therefore, remains open on remand.
+              Adjudication of the estoppel issue must proceed under the
+              "well settled [rule] that the Government may not be
+              estopped on the same terms as any other litigant." Heckler
+              v. Cmty. Health Servs. of Crawford County, Inc., 467 U.S.
+              51, 60, 104 S.Ct. 2218, 81L.Ed.2d42 (1984). Beyond a
+              mere showing of acts giving rise to an estoppel, Pratt must
+              show "affirmative misconduct [as] a prerequisite for
+              invoking equitable estoppel against the government."
+              Zacharin v. United States, 213 F.3d 1366, 1371, 55
+              USPQ2d 1047, 1051 (Fed. Cir. 2000) (emphasis added).
+
+Rumsfeldv. United Technologies Corp., Pratt & Whitney, 315 F.3d 1361, 1377 (Fed.
+Cir. 2003). Retroactive disallowance was not mentioned in the Board's original
+decision. United Technologies Corp., Pratt & Whitney, 01-2 BCA ~ 31,592. The
+CAFC did not mention retroactive disallowance in its remand guidance. However,
+Pratt & Whitney did mention retroactive disallowance in its argument in the remand
+case. United Technologies, 06-1 BCA ~ 33,289 at 165,050. This Board did not
+mention retroactive disallowance in its remand decision. Id. at 165,058 ("We,
+therefore, will follow the guidance provided by the CAFC in deciding the estoppel
+issue in these appeals and require that appellant demonstrate some form of affirmative
+misconduct.. .. "). Given the CAFC's remand guidance and this Board's failure to
+specifically refer to retroactive disallowance, I do not interpret this Board's use of the
+term "estoppel issue" to definitively mean "retroactive disapproval." This position is
+supported by a more recent decision where this Board did not apply affirmative
+misconduct to retroactive disallowance. In Raytheon Co., ASBCA No. 57576 et al.,
+15-1 BCA ~ 36,043, we considered both retroactive disapproval and equitable
+estoppel. With respect to retroactive disallowance the Board held:
+
+                      We have applied the retroactive disallowance
+              principle to bar recovery of government claims. Lockheed
+              Martin Western Development Laboratories, ASBCA
+              No. 51452, 02-1BCA~31,803. However, its application
+              is largely fact-dependent. In these appeals, there are
+              material factual disputes of record that need to be
+              addressed to determine whether this principle is applicable
+              here, including but not limited to, whether or not the
+              government, with knowledge, consistently approved the
+              subject BAIC and TSR metric costs; and if so, when the
+
+
+                                            48
+             government first put appellant on reasonable notice that
+             said costs were unallowable. Given these material fact
+             disputes, we decline to award summary judgment to either
+             party on this defense. See Peat, Marwick, Mitchell & Co.,
+             ASBCA No. 29847, 86-2 BCA ~ 18,915 at 95,400.
+
+Id. at 176,055. With respect to equitable estoppel the Board held:
+
+                    We further held that this added requirement of
+             affirmative misconduct contemplates government
+             misconduct "of a nature more compelling than the conduct
+             that would otherwise apply against a private party. See,
+             e.g., RGW Communications, 05-2 BCA [~ 32,972 at
+             163,336 (referencing deliberate lies; a pattern of false
+             promises, or intentional deception as examples of
+             affirmative misconduct)." Northrop Grumman, 14-1 BCA
+             ~ 35,501 at 174,024.
+
+
+                      Based upon the foregoing, we believe that Raytheon
+              has failed to adduce any evidence to support a finding of
+              affirmative misconduct by the government here. Hence,
+              Raytheon has failed to adduce evidence necessary to
+              support its estoppel defense as a matter of law. We grant
+              summary judgment to the government on appellant's
+              defense of equitable estoppel.
+
+Id. at l 76',055-56. This decision does not apply affirmative misconduct to retroactive
+disallowance; if it did summary judgment would have also been granted to the
+government as to the defense of retroactive disallowance.
+
+        Although not discussed in any case law found, I believe it is appropriate to treat
+retroactive disallowance and traditional estoppel differently. This is because traditional
+estoppel is a permanent prospective bar to the government's action; retroactive
+disallowance is not. In retroactive disallowance the government may change its standard
+and disallow costs it had previously allowed, i.e., the "estoppel" only applies between
+the previous approval(s) and the point when the government provides notice to the
+contractor that it will impose a different standard in the future. I therefore do not impose
+the requirement for affirmative misconduct to retroactive disapproval. I would sustain
+the appeal in part based on retroactive disapproval. However, I admit my concern over a
+possible alternative interpretation of United Technologies, 06-1 BCA ~ 33,289, so I
+consider an alternative theory to reach the goals of the "greater degree of certainty in
+their financial dealings with the Government" and "orderly conduct of business with the
+Government" set forth in Gould and quoted above.
+
+
+                                            49
+Course of Dealing22
+
+        At least one case suggests that "course of dealing" provides an alternative to
+retroactive disallowance. In a case involving the disallowance of post-retirement benefits
+(PRB ), this Board found that appellant failed to prove affirmative misconduct and "The
+government did not mislead appellant with respect to the allowability of the unfunded
+PRB costs in dispute here, nor did the parties have a course of dealing with respect to
+them." Northrop Grumman Crop., ASBCA No. 57625, 14-1 BCA, 35,501at174,024.
+In the Board's decision denying Northrop Grumman's motion for reconsideration we
+again held that appellant had not proven either affirmative misconduct or course of
+dealing. Northrop Grumman Corp., ASBCA No. 57625, 14-1BCA,35,743 at 174,930.
+I therefore, evaluate the applicability of course of dealing in this appeal.
+
+        At the outset I accept the testimony of Messrs. Benton, Zysk and Fletcher that TSI
+did not change its contracting, record keeping and accounting practices for 2002 through
+2007, and that DCAA was satisfied with TSI's documentation and accepted TSI's proposed
+final indirect rates without question for the years 2002 through 2006 (findings 22-25).
+Messrs. Benton, Zysk and Fletcher testimony is corroborated by Ms. Winefield (finding 20).
+The 2002 to 2007 audits included invoices from SMI and Mr. Wilson (findings 11, 14, 20,
+22-25). It is also noteworthy that the initial audit of TS I's rate submission for FY 2008 and
+FY 2009 continued the practice from 2002 to 2006 of accepting TSI's proposed rates
+without question until the "expanded testing" occasioned by TSI's congressional inquiry
+disallowed costs (finding 21 ).
+
+       DCMA explains that "each cost year stands on its own" and that since each audit "is
+dependent upon the particular auditor's assessment of the risk" there can be no course of
+dealings (gov't reply br. at 25). I reject DCMA's argument that there need be no consistency
+in DCAA' s audit practice with respect to a given contractor over the years. I also reject
+DCMA's apparent position that it has no discretion to question DCAA's recommendations
+unless additional substantiation is forthcoming from the contractor (finding 11 ).
+
+       The record reflects a glimmer of understanding of the problem in Mr. Cook's
+9 June 2014 email stating that DCAA "headquarters wants to insure offices closely
+coordinate so we are taking same position on same type of issues and no instances of
+same information provided but different DCAA positions" (finding 19). Similarly in
+Ms. Winefield's 12 June 2014 email, "Unfortunately, I think the difference between
+the FY 2007 and FY 2008/FY 2009 audit is auditor judgment. It doesn't look to me
+that TSI was providing much better support in FY 2008/FY 2009£23 1 than what we saw
+
+22
+   The Board raised the issue of course of dealing sua sponte and requested that the
+       parties discuss it in their reply briefs.
+23 This was before the re look of TSI' s FY s 2008, 2009 rate submissions (finding 21 ).
+
+
+                                            50
+in FY 2007." (Finding 20) Unfortunately this glimmer of understanding was not
+translated into action to protect TSI. TSI closed its doors in August 2014, one month
+after Ms. Henriquez-Aguilar's 29 July 2014 audit report of TS I's FYs 2008 and 2009
+incurred costs based on her "expanded testing" caused by TSI's congressional inquiry.
+(Findings 1, 17, 21 )
+
+      I start with the Restatement:
+
+             § 223 Course of Dealing
+
+             (3) A course of dealing is a sequence of previous conduct
+                 between the parties to an agreement which is fairly to
+                 be regarded as establishing a common basis of
+                 understanding for interpreting their expressions and
+                 other conduct.
+             (4) Unless otherwise agreed, a.course of dealing between
+                 the parties gives meaning to or supplements or qualifies
+                 their agreement.
+
+RESTATEMENT (SECOND) OF CONTRACTS§ 223.(1981). The Board has relied on
+Restatement, Section 223, Course of Dealing in past decisions. BAE Systems Technology
+Solutions & Services, Inc., ASBCA No. 57581, 13 BCA ii 35,414 at 173,742 (citing C.R.
+Pittman Constr. Co., ASBCA No. 54901, 08-1BCAii33,777 at 167,178; T&M
+Distributors, Inc., ASBCA No. 51405, 00-1BCAii30,677 at 151,509).
+
+         DCMA also quotes the Restatement in its reply brief (gov't reply br. at 27).
+However, DCMA narrowly interprets the Restatement, stating"[ c]learly this rule [the
+Restatement] applies only in those instances where the parties have formed an
+agreement and the course of dealing gives meaning to that agreement" (id.). I disagree
+with this narrow interpretation. The Restatement is clear that a course of dealing may
+be based on conduct, "previous conduct between the parties to an agreement which is
+fairly to be regarded as establishing a common basis of understanding for interpreting
+their expressions and other conduct." RESTATEMENT (SECOND) OF CONTRACTS§ 223.
+It is the conduct of DCAA, DCMA and TSI for FY s 2002 to 2006 that forms the basis
+of a course of dealing.
+
+       The first element of the Restatement is the "parties to an agreement"
+requirement. The Board has held that "[j]ustifiable reliance of a prior course of
+dealing requires proof of the same contracting agency, the same contractor, and
+essentially the same contract provisions." Tekkon Engineering Co., ASBCA
+No. 56831, 10-2 BCA ii 34,563 at 170,441. TSI's contracts were with the Navy, not
+DCAA or DCMA (finding 2). DCMA sees this issue but its analysis falls short
+arguing that DCAA "is not a contracting agency nor are there any contractual
+
+
+                                          51
+agreements between DCAA and TSI that the Board could attempt to interpret" and
+"the course of dealing rule is simply inapplicable" (gov't reply br. at 28-29). I do not
+see this as an impediment to applying "course of dealing" for several reasons. First,
+the final decision was issued by DCMA based on DCAA 's "non-audit" service to
+assist DCMA (findings 9, 15). Second, contract clause FAR 52.215-2, Audit and
+Records - Negotiation (finding 3), subjects TSI to audit by the "authorized
+representative of the Contracting Officer" and those representatives are DCAA and
+DCMA. Finally, the actions ofDCAA and DCMA are imputed to the Navy based on
+the "close relationship" or "significant bond" between DCMA, DCAA and the Navy
+established by the contract and government regulations. See Raytheon Missile Systems
+Company, ASBCA No. 57594, 13 BCA ~ 35,264 at 173,112-15 (DESC's decision to
+raise the price of JP-10 fuel was imputed to NA VAIR because of the "significant
+bond" between the sole supplier of JP-10 DESC and NA VAIR). As far as the same
+contract provisions, DCAA applied FAR Part 31, Contract Cost Principles and
+Procedures, in its audits and there is no evidence that these provisions changed in any
+significant way from 2002 to 2007. The government is silent as to the validity of the
+audit standards between 2002 and 2006 arguing that the prior audits are irrelevant.
+However, if different auditors interpreted FAR Part 31 differently in 2002 to 2006 than
+in 2007, that course of dealing set a standard TSI was entitled to rely upon. Comptech
+Corp., ASBCA No. 55526, 08-2 BCA ~ 33,982 at 168,086 ("to nullify an
+unambiguous specification requirement based upon conduct, one must show: actual
+knowledge by both parties of consistent conduct by one party in its contract dealings
+with the other e>ver an extended period of time regarding a particular contract
+provision upon which the other is reasonably entitled to rely"). A corollary to this is
+the requirement for "mutuality." DCX-CHOL Enterprises, Inc., ASBCA No. 54707,
+08-2 BCA ~ 33,889 at 167,729 ("The missing element is mutuality, viz., the 'actual
+knowledge by both parties of the prior course of dealing and its significance to the
+contract."'). It is clear that both TSI and DCAAIDCMA understood the significance
+of the audits, the standards imposed and the acceptance without question of TSI' s
+indirect rates for five years prior to 2007 - there is mutuality.
+
+        The Board has applied course of dealings in cases similar to this. Evidence of
+costs that have been routinely invoiced and paid can establish a course of dealing. Blue
+Cross Association and Blue Shield Association, ASBCA No. 25778, 89-2 BCA ~ 21,840
+at 109,907 n.41 ("disallowing costs is a Government claim, not a contractor claim, absent
+a formal demand by the contractor, at least where the costs have been routinely invoiced
+and paid in the past and it is the Government seeking to change a past course of
+dealing"). Course of dealing has been applied to G&A. Ford Aerospace and
+Communications Corp., Aeronutronic Division, ASBCA No. 23833, 83-2 BCA ~ 16,813
+at 83,631 n.3 ("This prior course of dealings by the parties with respect to a substantial
+portion of appellant's G&A pool reinforces our conclusion that greater benefits from
+G&A are furnished to labor intensive contracts in appellant's circumstances.").
+
+
+                                           52
+      Consistent with course of dealing, a presumption of reasonableness attaches
+where a contractor's cost allocation practices are consistently applied by the contractor
+and accepted by the government:
+
+                      Once it has been determined that an otherwise
+               allowable and reasonable indirect cost item is allocable to
+               Government contracts under the specific benefit standard
+               of DAR l 5-201.4(ii), the salient question affecting the
+               amount of cost that will be allowable is the reasonableness
+               of the contractor's cost allocation method. A presumption
+               of reasonableness ordinarily attaches to cost allocation
+               practices that are consistently applied and followed by the
+               contractor. Such consistently applied accounting practices
+               will be disturbed only upon a persuasive showing by the
+               Government that, due to particular circumstances, further
+               use of that practice would be inequitable.
+
+Martin Marietta Corporation, ASBCA No. 25828, 84-1 BCA, 17, 119 at 85,255
+(citations omitted). 24
+
+       Now I consider the evidence of the dealings between DCAA/DCMA and TSI
+during years 2002 to 2006. I do not ignore the fact that the 2001 DCAA audit
+disallowed professional fees for similar reasons professional fees were disallowed in
+the FY 2007 audit (finding 5). However, I do not know what, if any, changes were
+made in TSI's record keeping in 2002 and it is undisputed that DCAA accepted JSI's
+records, costs and indirect rates without question in years 2002 to 2006 (id.). I
+understand that in 2004 and 2005 DCAA conducted desk reviews rather than full
+audits, but that was DCAA's decision based on its conclusion that "after review of
+TSI's ICP, DCAA determined that there was a low risk that the ICP contained
+unallowable costs" (id.). I also note that DCAA's practice suggests that the 2007 audit
+could have been a desk review (id.). The desk reviews in no way diminish the
+importance of years 2004 and 2005 in evaluating a course of dealings. I also
+understand that there is no "magic number" of contracts that must be performed before
+course of dealing is established, "the parties' prior dealings must be regular and/or
+numerous enough to cause a reasonable expectation that the conduct relied upon was
+not mere accident or mistake, but was the performance actually expected by the other
+party." C.R. Pittman Construction Co., ASBCA No. 57387 et al., 15-1 BCA, 35,881
+at 175,425. The Restatement's standard, quoted above, is "sequence of previous
+conduct between the parties to an agreement which is fairly to be regarded as
+establishing a common basis of understanding for interpreting their expressions and
+
+24   The decision does not use the term "course of dealing," but it seems applicable to
+        this appeal.
+
+                                             53
+other conduct." The unchallenged testimony of TS I's management cited above
+supports my conclusion that based on DCAA's and DCMA's three full audits and two
+deskreviews approving TSI's documentation and final rates during 2002 to 2006 was
+a "sequence of previous conduct," that created a "common basis of understanding"
+between TSI and DCAA/DCMA that TSI had a reasonable expectation that its cost
+documentation and DCAA's audits were correct. Mr. Fletcher, CFO, provided
+credible testimony that he relied on DCAA's 2002 through 2006 audits to set the
+standard of review for TSI's records (finding 23). Messrs. Benton, TSI's president and
+owner, and Zysk, COO, likewise provided credible testimony, supported by the record,
+that TSI provided the same kind of support for its FY 2007 costs as it did for years
+2002 to 2006 (findings 11, 14, 22-23, 25). Ms. Winefield's 12 June 2014 email
+corroborates their testimony (finding 20).
+
+        I conclude that all the elements required to prove a course of dealing are satisfied.
+I must now determine the remedy available to TSI. As the Restatement quoted above
+indicates, the typical application of course of dealing is contract interpretation. This is
+not precisely the case here; here I deal with a course of dealing involving TSI's records,
+audits and final indirect rate determinations. I take at face value DCMA's discussion of
+the documentation required by FAR 3 l.205-33(f)(l-3) for professional fees (gov't reply
+hr. at 31-33, 41-43). It may well be that upon closer scrutiny TSI's documentary support
+for these costs was lacking, but that is not the point. I do not question DCMA's/DCAA's
+right to apply closer scrutiny to TSI's documentation, I find however that after accepting
+the exact same documentation for FYs 2002 to 2006, TSI was entitled to notice and time
+to change its record keeping to satisfy the auditors. This remedy is consistent with our
+decisions in retroactive disallowance cases. Blue Cross and Blue Shield Association,
+ASBCA No. 53632, 04-1 BCA ii 32,413 at 160,449 ("The Government must have
+'consistently accepted and allowed' the cost in question and failed to provide the
+contractor with proper notice that the cost will be disallowed in the future" (citation
+omitted)); Peat, Marwick, Mitchell & Co., ASBCA No. 29847, 86-2 BCA il 18,915 at
+95,400 ("If the guidelines set out above are met, the Government must authoritatively
+infonn the contractor of any subsequent disallowance of the earlier accepted costs ... .''):
+Gould, 83-2 BCA il 16,676 at 82,981 (the government may not disallow even
+unallowable costs incurred prior to notice by the government that prior acceptance was
+rescinded); Western Electric Co., ASBCA Nos. 21294, 21295, 79-1BCAil13,550 at
+66,384 ("Having given its approval to WECO, approval must remain in effect until notice
+of its recession is conveyed."). I conclude that the only reasonable remedy is to sustain
+the appeal and not enforce the COFD's disallowance of FY 2007 costs, contested by
+TSI, 25 based on the parties' course of dealing over the five years preceding 2007. I
+
+
+25   Disallowed costs that TSI agrees with are not included in the reliefl would grant. For
+        example, TSI agrees with the disallowance of $2,300 for expressly unallowable
+        entertainment costs unrelated to business and these disallowed costs are unaffected
+
+                                            54
+disagree with ACO Cuellar's belief that, absent additional support for the costs from TSI,
+DCMA lacks discretion to disagree with DCAA (finding 11 ). The evidence of course of
+dealing between 2002 and 2006 is overwhelming and DCMA certainly had the discretion,
+and one might say obligation, to give TSI time to adapt to the new standard being
+applied. This is particularly true given TSI's warning that DCMA's decision would put
+TSI out of business, which it apparently contributed to. 26 (Findings 1, 11) The appeal
+shall be sustained as to the following costs:
+
+ COFDNote                              DISALLOWED COSTS
+ Note 1              $51,340 for marketing services provided by SMI (finding 23)
+ Note2               $26, 198 in computer supplies expenses in 2007 27 (finding 14)
+ Note 5(b)            $2,925 for work performed by Charles Wilson (finding 23)
+ Note 8                            $2,417 in claimed G&A expenses
+ Note 10            $2,661 in subcontract costs that were not approved in advance 28
+ Note 11           $28,568 in subcontract costs that were not approved in advance 29
+
+Costs Excluded from Course of Dealing
+
+      Next I consider individual costs that I do not include in course of dealing.
+
+Expressly Unallowable Costs
+
+       I do not include costs that were expressly unallowable in the course of dealing
+costs. Raytheon Company. ASBCA No. 57576 et al., 15-1 BCA, 36,043 at 176,051 ("An
+
+       by our decision (R4, tab 6(a) at 74, tab 16 at 4, note 3). The same is true of the
+        80% limitation of recovery of attorney's fees (R4, tab 16 at 5, note 5(a)).
+26 I do not find that DCAA/DCMA put TSI out of business because that matter was
+
+        not litigated fully.
+27 I included computer supplies in the course of dealing costs, but if I had not, I would
+
+        still sustain the appeal as to these costs. Mr. Fletcher explained that the .
+        computers that were expensed in the year they were purchased were not used on
+        employee desktops, but were heavily modified, sent to be used for field testing
+        and were fully consumed in the year they were purchased, i.e., a useful life of
+        one year (finding 14; app. reply br. at 20). It therefore made perfect sense to
+        expense them and DCAA's insistence that these computers be treated as if they
+        were used on office desktops makes absolutely no sense.
+28 The record as to similar unapproved subcontract costs in 2002 to 2006 is sparse and I
+
+        rely on TSI witness testimony that TSI made no changes in its procedures in years
+        2002 through 2007 to include these in the course of dealing costs (findings 22-25).
+        DCMA's discussion of these costs may be correct (gov't reply br. at 43-45), but
+        again misses the point that it varies from the parties' course of dealing.
+29
+   See footnote 27.
+
+                                           55
+  'expressly unallowable' cost, by the plain terms of the definition, must be an item of cost
+  or a type of cost that is specifically named and stated as unallowable by law, regulation or
+i contract.''). The appeal should be denied as to the following costs:
+
+  COFDNote                                DISALLOWED COSTS
+  (R4, tab 16)
+  Note 3                   $2,300 entertainment; $304 travel over per diem rates
+  Note 5(a)                       $6,886 - 80% limit on attorney's fees
+  Note 5(c)                         $706 in legal fees unrelated to TSI
+  Note 5(d)                 $1,000 in legal fees to prepare personal tax returns
+  Note 6                              $577 travel over per diem rates
+  Note 9                             $1,07 4 travel over per diem rates
+  Note 10                             $466 travel over per diem rates
+  Note 11                            $1,986 travel over per diem rates
+
+ Executive Bonuses
+
+         ACO Cuellar disallowed $29,967 30 ($25,698 Overhead and $4,269 G&A) 31 in
+ executive bonus costs that cannot be included in the course of dealing costs because
+ the bonuses didn't start until 2007 (findings 23-24). I did not include a discussion of
+ the facts surrounding these costs in the Findings of Fact above so I include them here.
+ Starting with a limitation imposed only on the owner, Mr. Benton, that the
+ compensation cannot be a distribution of profit. FAR 31.205-6( 6)(ii)(B); SplashNote
+ Systems, Inc., ASBCA No. 57403, 12-1BCAif34,899 at 171,610 ("We are not
+ persuaded by SplashNote's argument that the bonuses for the other employees were
+ not questioned whereas Mr. Tse's [majority owner] was; allowability of their bonuses
+ is not restricted by the 'distribution of profits' prohibition, which is limited only to the
+ designated individuals."). In her draft audit report, Ms. Waller found that $6,500 and
+ $406 (year-end) bonuses paid to Mr. Benton were a distribution of profit, "in the
+ absence of a proper employer/employee agreement, and the fact that TSI is an 'S ·
+ Corporation," 32 it is our opinion that the bonuses paid to Mr. Benton were a
+ distribution of profit (R4. tab 53 at 592-93). In her COFD. ACO Cuellar did not adopt
+ Ms. Waller's finding and did not find that any bonuses were a distribution of profit
+ (R4, tab 16 at 259. note 4). However, in its briefthe government argues that all
+ $29,967 was a distribution of profit (gov't br. at 60). The government overlooks the
+ fact that this limitation only applies to Mr. Benton· s bonuses, something less than the
+ $29.967. The only evidence the government presents to prove that Mr. Benton's
+
+ 30
+    Ms. Waller's draft audit report disallowed $39,150 in bonuses. ACO Cuellar
+       apparently determined that some of the bonuses were allowable but the
+        specifics are not readily apparent in the record.
+ 31
+    COFD Notes 4 and 7 (finding 15).
+ 32
+    The significance of an "S" Corporation is not explained in the record.
+
+                                              56
+bonuses were a distribution of profits was testimony from Mr. Fletcher (gov't br. at 21.
+iii! 16, 60). When asked if the bonuses came out of company profits. Mr. Fletcher
+testified, "It has to come out of company profits. I mean, where else would it come
+from?" (Tr. 2/ 173-74) The question of distribution of profit is a more complicated
+matter than simply eliciting such testimony from Mr. Fletcher:
+
+                      In Lulejian and Associates, the Board looked at
+              several factors to assess when a bonus was actually a
+              distribution of profits: whether any dividends were
+              declared (i.e .. whether the bonus was actually a disguised
+              dividend), how large a share of the bonus pool was
+              allocated to the top executive(s). and how '·substantial" the
+              rest of the compensation was. Lulejian and Associates,
+              Inc., ASBCA No. 20094, 76-1 BCA if 11,880 at 56,945
+              (ASPR l 5-205.6(a)(2)(i) provided that --Determination
+              should be made that such compensation is reasonable for
+              the actual personal services rendered rather than a
+              distribution of profits''). Because there were no dividends
+              declared, the top four executives garnered 51 % of the
+              bonus pool, and their compensation was otherwise
+              substantial. the Board found certain bonus costs
+              unallowable. Lulejian, 76-1 BCA if 11,880 at 56,945.
+              Here, like Lulejian, SplashNote declared no dividends, and
+              Mr. Tse's share of the bonus money was great-71%
+              (findings 10, 12). Although DCMA determined Mr. Tse's
+              total compensation to be reasonable. the bonus itself still
+              must not be a distribution of profits. and the presence of
+              the other two factors suggests that it was.
+
+SplashNote, 12-1 BCA if 34,899 at 171,609-10. Mr. Fletcher's testimony was
+equivocal, "I mean. where else would it come from?"· I do not consider this testimony
+alone sufficient to prove that the bonuses were a distribution of profit. The
+government has the burden of proof. The government failed to consider any of the
+factors discussed above, i.e. "S" Corporation, dividends, share of the pool, how
+substantial the other compensation was, and what portion of the $29,967 was paid to
+Mr. Benton. The government failed to meet its burden of proof that Mr. Benton's
+bonuses were a distribution of profit.
+
+      The government correctly points out that FAR 31.205-6(f) governs the
+allowability of bonuses (gov't br. at 59-60):
+
+                           (i) Awards are paid or accrued under an
+                     agreement entered into in good faith between the
+
+
+                                           57
+                     contractor and the employees before the services are
+                     rendered or pursuant to an established plan or policy
+                     followed by the contractor so consistently as to
+                     imply, in effect, an agreement to make such
+                     payment; and
+
+                            (ii) Basis for the award is supported.
+               '
+FAR 3 l.205-6(f). TSI's bonus plan was agreed to by Mr. Benton, Mr. Zysk and
+Mr. Fletcher in late 2006 (tr. 21192). The written bonus plan, to take effect on
+ 1 January 2007, was signed by Mr. Benton on 1 December 2006 (R4, tab 9(c)). DCMA
+dismisses this document as, "nothing more than a one-page document which appears to
+evidence TSI's intent to establish an 'Executive Compensation Plan' effective January
+ 1, 2007" (gov't reply br. at 38). Considering that TSI is a company with less than
+twenty employees (finding 1) I consider the formality demanded by DCMA
+unreasonable. There was no written, signed agreement between Mr. Fletcher, Mr. Zysk
+and Mr. Benton concerning bonuses, however, Mr. Fletcher testified, "It wasn't signed
+but it was certainly agreed to" (tr. 2/192). The performance metrics included "Orders,
+Sales, Backlog, Revenue, Overhead Rates, Special Accomplishments, and Successful
+program management" (R4, tab 9(c)). The government contends that the bonuses are
+unallowable for five reasons: (1) there is no written (signed) agreement "between TSI
+and Messrs. Benton, Zysk and Fletcher before the compensation plan became
+operational or at any time in FY 2007"; (2) there is no "written company plan or policy
+relating to bonuses that was in effect in 2007"; (3) "TSI also failed to establish that the
+awards were paid pursuant to an established policy or plan which was consistently
+followed"; (4) "TSI failed to provide sufficient evidence to support the basis for the
+awards"; and (5) $15,000 in bonuses paid in March 2008 are not allocable to FY 2007
+(R4, tab 16 at 259-60, note 4; gov't br. at 59-60). I consider these reasons in turn. The
+government does not allege bad faith and there is nothing in the record that would
+support bad faith. It is true that there is no written agreement signed by Messrs.
+Benton, Zysk and Fletcher, but the government failed to prove that one was required.
+FAR 3 l.205-6(f)(l )(i) does not require a written agreement signed by these three
+individuals, and the second clause allowing for an implied agreement supports the
+conclusion that a signed agreement is not absolutely necessary. Mr. Fletcher's
+testimony that the three executives agreed to the plan in 2006 is undisputed. I find that
+the agreement existed before performance in 2007 and there is no requirement that their
+agreement be in writing and signed by the three executives. Second, the government
+argues the 1 December 2006 Executive Compensation Plan is not a plan because TSI
+was "going to" establish a plan starting 1 January 2007. This argument is only
+semantics and does not render the plan meaningless. I find that TSI produced a written
+bonus plan signed by Mr. Benton on I December 2006 commencing on I January 2007
+(R4, tab 9(c)). Third, I agree that there was no established plan that was consistently
+followed because the 2007 plan was new. However, this requirement in the second
+
+
+                                            58
+clause of FAR 3 l.205-6(t)(l )(i) is an alternative to the agreement in the first clause and
+is therefore not a reason for disallowance. The fourth justification cited by the
+government is subjective. According to ACO Cuellar's COFD and the government's
+brief, "TSI did not provide sufficient evidence documenting the basis of the bonus
+awards" (R4, tab 16 at 259; gov't br. at 60). TSI provided the following four
+documents: ( 1) an unsigned one-page memorandum entitled "TSI Bonus Policy"
+(app. supp. R4, tab 146 at l); (2) a 30 May 2007 email with bullet comments supporting
+"a highly successful first quarter of 2007" recommending bonuses of $1,000 each for
+the three executives (id. at 6); (3) a 14 September 2007 memorandum with nine bullet
+comments supporting the award ofbonuses 33 (id. at 7); and (4) a 27 February 2008
+memorandum with eleven bullet comments authorizing bonuses of $9,000 to Mr. Zysk
+and $6,000 to Mr. Fletcher for performance for 2007 (id. at 8-9). There were also
+discussions with Messrs. Benton, Fletcher and Zysk. 34 I considered these documents
+and find that they provide adequate support for the FY 2007 bonuses for three reasons
+( 1) the degree of formality was reasonable for a company with less than twenty
+employees (finding 1), (2) the fact that Mr. Zysk and Mr. Fletcher worked for salaries
+"considerably below" their previous salaries (finding 24), and (3) the total sum of the
+bonuses was modest. Finally, ACO Cuellar disallowed the $15,000 in bonuses paid to
+Mr. Zysk and Mr. Fletcher because the actual payment was in March 2008. She
+concluded that the $15,000 was allocable to FY 2008. She apparently gave no weight
+to the memorandum that authorized the payments based on performance in FY 2007
+(app. supp. R4, tab 146 at 8-9). Mr. Fletcher testified that $15,000 was accrued during
+FY 2007 and actually paid out in early March 2008 (tr. 2/140-41). This was partly
+because he and Mr. Zysk were traveling in January and February and they didn't get
+around to paying the bonuses until early March (tr. 2/142). DCMA gives no weight to
+these facts. I find that TSI's explanation of why the $15,000 was paid in early March
+was reasonable and that the $15,000 was allocable to FY 2007. I would sustain the
+appeal as to the disallowance of all of the bonuses.
+
+Legal Fees for Criminal Investigation
+
+       ACO Cuellar disallowed $27 ,543 35 in legal fees incurred by TSI to represent its
+interests during a criminal investigation by the Navy (finding 15). I did not include a
+discussion of the facts surrounding these costs in the Findings of Fact above so I
+include them here.
+
+
+33
+   The memo refers to the first quarter but the date persuades me that it referred to
+       events up to September 2007.
+34
+   Ms. Winefield testified that DCAA auditors cannot rely on statements from
+       contractors to verify facts (tr. 1/210-12).
+35 This is 80% of the incurred cost of $34,429 (R4, tab 16 at 260, note 5(a)).
+
+
+                                            59
+        The $27,543 in legal fees that were incurred from 2002 through 2005 to defend
+TSI's interests during a criminal investigation by the U.S. Naval Criminal
+Investigative Service (NCIS). The costs were disallowed because ACO Cuellar
+concluded they were allocable36 to FY 2006 and should not have been claimed in
+FY 2007. (R4, tab 16 at 5, note 5(a)) The investigation also included The Kemper
+Group, Inc. and Sonetech Corporation. The document relied upon to disallow these
+costs was a 16 March 2005 message from NCIS addressed to Sonetech that stated the
+investigation was closed (R4, tab 53 at 1278). The message was not provided to TSI at
+that time and NCIS never sent such a message addressed to TSI. Sonetech sent the
+16 March 2005 NCIS message to TSI on 20 June 2006 (id.). DCMA's contention,
+"TSI was notified of the investigation's closure, at the latest, on June 20, 2006" fails to
+take into consideration that the message was addressed to Sonetech, not TSI (gov't
+reply br. at 39). ACO Cuellar decided that, based on the 2006 fax from Sonetech to
+TSI, the costs should have been claimed in FY 2006 (R4, tab 16 at 260, note 5).
+Mr. Benton explained that he never received a similar notice from NCIS addressed to
+TSI and wasn't confident the investigation of TSI was closed until an NCIS agent
+called and asked where to return TSI's documents (tr. 2/234-35). Mr. Benton did not
+recall the exact date the documents were returned 37 but testified he was not convinced
+the investigation was over as to TSI until the documents were returned (tr. 2/237). I
+find that Mr. Benton's uncertainty was caused by NCIS' failure to address a message
+directly to TSI informing it that the investigation as to TSI was closed. I will not
+penalize TSI due to the NCIS' failure. I find that Mr. Benton's explanation is
+credible38 and it was reasonable for him to consider the investigation of TSI, as
+opposed to Sonetech, might remain open, in the absence of an NCIS message
+addressed to TSI. There is no question that TSI incurred the costs. I also note that
+DCMA's argument seems to be influenced by the cost to the government rather than if
+TSI's actions were reasonable under the circumstances, "[h]ad TSI properly claimed
+the expenses in FY 2006, the amount that would have been allowable would have been
+significantly less than in FY 2007 because the Government participation in TSI' s
+G&A pool represented a smaller portion of TSI's base in 2006" (gov't reply
+br. at 40-41). I would sustain the appeal of the disallowance of$27,543 in legal fees to
+defend TSI during the NCIS investigation.
+
+
+36
+   ACO Cuellar did not find that the costs were unallowable.
+37 Mr. Benton submitted an FOIA request in 2015 (R4, tab 149) to find the date
+       the documents were returned but never received a response (tr. 2/235-36; ex. A-3).
+38 The COFD note 5a. states that TSI (Mr. Fletcher) said it "forgot" to claim the costs
+
+       in 2006, but Mr. Fletcher disputes that statement (tr. 2/212; R4, tab 16 at 5).
+       The evide.nce is insufficient for me to find that TSI "forgot" to claim the costs
+       in 2006 or that it would matter if true.
+
+                                            60
+                                    CONCLUSION
+
+      The appeal should be sustained as explained above. The demand for $159,303
+should be reduced accordingly.
+
+       Dated: 12 January 2017
+
+
+                                                  Administr tive Judge
+                                                  Armed Services Board
+                                                  of Contract Appeals
+
+
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA No. 59577, Appeal of
+Technology Systems, Inc., rendered in conformance with the Board's Charter.
+
+       Dated:
+
+
+                                                  JEFFREY D. GARDIN
+                                                  Recorder, Armed Services
+                                                  Board of Contract Appeals
+
+
+                                           61

@@ -1,0 +1,1834 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeals of --                                )
+                                             )
+Kellogg Brown & Root Services, Inc.          )      ASBCA Nos. 56358, 57151
+                                             )                 57327,58583
+                                             )
+Under Contract No. DAAA09-02-D-0007          )
+
+APPEARANCES FOR THE APPELLANT:                      Jason N. Workmaster, Esq.
+                                                    Raymond B. Biagini, Esq.
+                                                    Alejandro L. Sarria, Esq.
+                                                    Herbert L. Fenster, Esq.
+                                                    John E. Hall, Esq.
+                                                     Covington & Burling LLP
+                                                     Washington, DC
+
+APPEARANCES FOR THE GOVERNMENT:                     Raymond M. Saunders, Esq.
+                                                     Army Chief Trial Attorney
+                                                    ChristinaLynn E. McCoy, Esq.
+                                                    MAJ Lawrence Gilbert, JA
+                                                     Trial Attorneys
+
+     OPINION BY ADMINISTRATIVE JUDGE O'SULLIVAN ON THE
+ GOVERNMENT'S MOTION TO DISMISS AND APPELLANT'S MOTION FOR
+                    SUMMARY JUDGMENT
+
+        These appeals involve costs incurred by Kellogg Brown & Root Services, Inc.
+(KBRS) and its subcontractors for private security to accompany company officials
+and convoys used to deliver food and other supplies to U.S. and coalition troops in
+Iraq during military operations in the 2003-2006 timeframe. Starting in 2007, the
+Army withheld a total of $44,059,024.49 from KBRS billings under the contract to
+recoup previously paid costs of private security that the government had determined
+were unallowable. Three of the appeals, ASBCA Nos. 56358, 57151 and 57327, are
+before us on remand from the United States Court of Appeals for the Federal Circuit,
+which held that the contract prohibited the use of private security companies (PS Cs)
+but, in order to fully resolve the dispute, remanded the appeals to the Board to decide
+whether KBRS "properly raised its breach and remedy allegations, and if so, to rule
+on those contentions." McHugh v. Kellogg Brown & Root Services, Inc., 626 F. App 'x
+974, 978 (Fed. Cir. 2015).
+
+       The fourth appeal, ASBCA No. 58583, is before the Board following KBRS's
+appeal from a deemed denial of its 29 September 2011 certified claim for breach of
+contract. This appeal was not decided by the Board and was consolidated with the
+other three appeals only after the appellate remand. On 19 January 2016 the Board
+denied the government's pending motion to dismiss this appeal for lack of jurisdiction.
+Kellogg Brown & Root Services, Inc., ASBCA No. 58583, 16-1 BCA ~ 36,233.
+
+       Following the Board's denial of the government's motion to dismiss in ASBCA
+No. 58583, KBRS filed a first amended and consolidated complaint (FACC) in all four
+appeals. 1 Thereafter the government filed a motion to dismiss as to all counts and
+appellant filed a motion for summary judgment. Oral argument was held on the
+motions on 23 August 2016.
+
+                                      DISCUSSION
+
+        KBRS in its F ACC asserts the following:
+
+               Count I-the government's recovery on its claim is
+               time-barred because the contracting officer's 30 January
+               2013 final decision was issued more than six years after
+               the government's claim accrued, which was no later than
+               10 June 2005.
+
+               Count II-KBRS is entitled to judgment because the Army
+               breached its contractual obligation to provide adequate
+               force protection and the use of PSCs was a permissible
+               remedy.
+
+                Count III-the Army breached the contract by requiring
+                KBRS to perform beyond the original scope and the use of
+                PSCs was a permissible remedy.
+
+                Count IV-the Army breached the contract by failing to
+                comply with the FAR 16.301-3 requirement to have available
+                adequate resources to manage a cost reimbursement contract
+                and use of PSCs was a permissible remedy.
+
+                Count V-KBRS is entitled to judgment because the
+                contract prohibition relied on by the Army applies only in
+                peacetime, not during war.
+
+1   Prior to the filing of the FACC, KBRS's amended complaints in ASBCA Nos. 56358,
+          57151, and 573 2 7, filed 16 January 2013, contained three counts: Count I
+          (Breach of Contract), Count II (Waiver/Ratification), and Count III (Bad Faith).
+
+
+                                             2
+              Count VI-KBRS is entitled to judgment because the
+              government waived the contract prohibition on the use of PSCs.
+
+              Count VII-KBRS is entitled to judgment because the Army
+              cannot reopen the firm-fixed-price subcontracts at issue.
+
+              Count VIII-under a cost-reimbursement contract, KBRS
+              is entitled to recover all of its incurred costs so long as they
+              were not incurred due to fraud, lack of good faith, or
+              willful misconduct.
+
+              Count IX-KBRS is entitled to judgment because the
+              Army released KBRS from all claims related to the pricing
+              and award of the ESS subcontracts.
+
+              Count X-KBRS is entitled to judgment because the Army
+              contracting officer's 30 January 2013 final decision was invalid.
+
+             Count XI-the Army's damages calculation is inaccurate
+             and unsupported.
+
+             Count XII-the Army acted in bad faith in its decision to
+             recapture funds from KBRS.
+
+KBRS has moved for summary judgment only on Counts II (breach of contract) and
+VI (waiver).
+
+      The affirmative defenses asserted by KBRS on 25 March 2013 in its complaint
+in ASBCA No. 58583 largely foreshadow the affirmative defenses articulated in
+KBRS's FACC. The only new counts in the FACC are Counts IV, V, and VII.
+
+       Before considering the parties' arguments, we address the parameters governing
+what is, and what is not, properly before us in these consolidated appeals. On appeal
+from our 2014 decision, the United States Court of Appeals for the Federal Circuit
+(hereinafter "court" or "Federal Circuit") was asked to decide two issues: ( 1) whether
+the Board erred in deciding that the contract did not prohibit the use of PSCs, and
+therefore that KBRS was entitled to payment for the use of PSCs; and (2) whether the
+Board erred in deciding that the Army's affirmative claim against KBRS contained in
+the contracting officer's final decision (COFD) issued 30 January 2013 was barred by
+the CDA's six-year statute of limitations. McHugh, 626 F. App'x at 976. The court
+affirmed the Board on the second issue, finding that the Army's 30 January 2013
+affirmative claim was time-barred, but reversed the Board's holding that the contract
+did not prohibit the use of PSCs. Id. at 977, 979. The court recognized that "[t]his
+
+
+                                             3
+narrow contract interpretation based on the weapons prohibition ... may not fully
+resolve the dispute," and remanded to the Board to determine whether "KBR properly
+raised its breach and remedy allegations, and if so, to rule on those contentions."
+Id. at 978. In ascertaining the proper scope of the appeals now before us, we are
+mindful that our appellate mandate constitutes the law of the case on all issues that
+were explicitly or implicitly decided by the court. Exxon Corp. v. United States,
+931 F.2d 874, 877 n.7 (Fed. Cir. 1991) (citing lB J. MOORE, J. LUCAS & T. CURRIER,
+MOORE'S FEDERAL PRACTICE ii 0.404[10] at 172-74 (2d ed. 1988)). However, we do
+not read the court's opinion to foreclose the Board from considering and deciding
+other issues presented in these appeals that were not previously decided by the Board
+and were therefore never appealed.
+
+                     I.     The Government's Motion to Dismiss
+
+        The government has moved to dismiss all counts ofKBRS's FACC and KBRS
+has responded in opposition. A short discussion of the approach taken by the
+government and how we intend to decide the motion to dismiss is in order. The
+government's motion, with respect to some counts of the FACC, asserts that they fail
+to state a claim upon which relief can be granted. With respect to other counts, the
+government asserts that the Board lacks jurisdiction to entertain them; and with respect
+to the remainder, the government argues that they are foreclosed either by law of the
+case or by the Federal Circuit's mandate. Because a government claim is at the heart
+of the matter and KBRS' s complaint primarily consists of affirmative defenses to that
+claim, it is appropriate with respect to certain counts to treat the government's motion
+to dismiss as a motion to strike affirmative defenses under Federal Rule of Civil
+Procedure (FRCP) 12(f) rather than as a Rule 12(b)(6) motion to dismiss. 2 Further, in
+those instances in which the motion to dismiss relies on matters outside the pleadings,
+we may treat it as a motion for summary judgment. Dongbuk R&U Engineering Co.,
+ASBCA No. 58300, 13 BCA ii 35,389 at 173,637. And, unlike the usual circumstance
+in which a motion to dismiss for failure to state a claim is filed before the evidentiary
+record has been fully developed, a full record exists in these appeals. Thus, in
+considering the government's motion, we will look both to KBRS's FACC and the
+record in these appeals.
+
+       The parties' contentions on the government's motion to dismiss and the Board's
+related dispositions are as follows:
+
+
+2 In appropriate circumstances, where our rules do not address a matter, we commonly
+
+       look to the Federal Rules of Civil Procedure for guidance. TTF, L.L.C.,
+       ASBCA No. 58494, 13 BCA ii 35,343.
+
+                                            4
+Count I (Government Claim Time-Barred) and Count X (COFD Invalid)
+
+       The government asserts that Count I fails to state a claim on which relief can be
+granted because all but nearly $12 million 3 of the total amount claimed in the final
+decision was the subject of both government withholding in 2007-2009 and
+subsequent KBRS claims, of which the Board has jurisdiction. Therefore, the three
+remanded appeals involve KBRS claims for withheld monies that are properly before
+the Board after remand. As to Count X, the Army states that the "invalidity" of the
+COFD, like its untimeliness, has no logical connection to whether KBRS i's entitled to
+recover on its claims for the withheld sums.
+
+        KBRS responds that what is at issue here is a government claim and that claim
+is untimely as to the $44 million that was withheld as well as the $12 million that was
+not. At oral argument, KBRS summed up its position as being that the government
+needed to issue timely COFDs on the withheld amounts in order to "perfect" its claim
+(tr. 38). KBRS further states that in the absence of a COFD on the government's claim
+for the $44 million, KBRS's 2007, 2009, 2010 and 2011 claims (which KBRS calls
+·'submissions") did not '"magically convert" a government claim into contractor
+claims. Rather, the principal effect of KBRS's claim submissions was to start the
+running of CDA interest and ensure that the Board had jurisdiction over any
+subsequent appeals by KBRS. (App. opp'n at 5-6)
+
+       The government replies that the Army's notices of withholding were
+administrative claims which KBRS could have appealed, but it chose to submit its own
+claims for the monies withheld and then appeal from the deemed denials of those
+claims (gov't reply at 3-5).
+
+       We conclude that Counts I and X of the FACC are within the proper scope of
+our consideration. Both of these counts were asserted by KBRS in its complaint in
+ASBCA No. 58583 in March of 2013. They were not decided by the Board and thus
+were not appealed.
+
+       As previously found by the Board, the Army procuring contracting officer
+(PCO) and the Defense Contract Audit Agency (DCAA) first notified KBRS by letter
+dated 6 February 2007 and DCAA Form 1 (No. 127) of the same date that they were
+respectively ·'adjusting payments" (PCO) and "suspending" costs (DCAA) in the
+amount of $19,652,815 representing PSC costs incurred by KBRS's subcontractor,
+
+3
+    As to the nearly $12 million affirmative claim, the Board's holding that this claim
+         was untimely was affirmed on appeal; therefore, this part of the claim is no
+         longer before the Board. The exact amount was $11,561,567.55. Kellogg
+         Brown & Root Services, Inc., ASBCA No. 56358 et al., 14-1 BCA ii 35,639 at
+          174,520.
+
+                                             5
+ESS, in performing the contract (finding 70)4. On 22 October 2007, KBRS submitted
+a certified claim to the PCO for the withheld amount. Following a deemed denial,
+KBRS appealed to the Board and the appeal was docketed as ASBCA No. 56358.
+(Finding 72; see also KBRS's FACC iiii 7, 70, 73-74)
+
+       On 24 August 2009, KBRS submitted an invoice under the contract for
+payment of $22,279,678.49. On or about 1 September 2009, the government
+withheld the entire amount of the invoice on the recommendation of DCAA to "take
+immediate action to recoup the disapproved costs" in a revised DCAA Form I
+(No. 127 Revision- I, 3 August 2009). KBRS submitted a certified claim to the PCO
+on 20 October 2009 for $21, 131, 743 of the withheld amount. When no decision
+issued on its claim, KBRS appealed the deemed denial of its claim and the appeal was
+docketed as ASBCA No. 57151. (Finding 75)
+
+       In March 2010, the government withheld an additional $2, 126,531 from
+payments otherwise due under the contract to recoup additional PSC costs. Thereafter,
+on 16 June 2010, KBRS submitted a certified claim for that amount plus the remainder
+of the 1 September 2009 withholding for a total claim amount of $3,274,466.49.
+Following the PCO's failure to issue a final decision on the claim, KBRS appealed the
+deemed denial and it was docketed as ASBCA No. 57327. (Finding 76; see also
+KBRS's FACC iiii 9, 83-84)
+
+       The applicable legal standard in considering a motion to strike pursuant to
+FED. R. CIV. P. l 2(F) is whether the pleading asserts an "insufficient defense" or
+contains any "redundant, immaterial, impertinent, or scandalous matter." Only if a
+defense is insufficient as a matter of law will it be stricken. Danae, Inc., ASBCA
+Nos. 30227, 33394, 88-3 BCA ii 20,993 at 106,071; Space Age Engineering, Inc.,
+ASBCA No. 25761 et al., 83-2 BCA ii 16,789 at 83,439 (citing Anchor Hocking Corp.
+v. The Jacksonville Electric Authority, 419 F. Supp. 992 (D.C. M.D. Fla. 1976)).
+
+       We conclude, based on the facts alleged in the FACC (as well as the facts
+previously found by the Board), that the PCO issued timely final decisions on the
+government's claim. As set forth above, the government's claim was asserted by the
+PCO, in writing, by set-off and withholding, in February 2007, September 2009, and
+March 2010. In Placeway Construction Corp. v. United States, 920 F .2d 903, 906-07
+(Fed. Cir. 1990), the court reversed the lower court's dismissal for lack of jurisdiction
+where the contractor had appealed from the government's assertion of a right of set off.
+Though there was no "final decision" labeled as such and no notice of appeal rights, the
+court held that the CO had effectively issued a final decision and granted a government
+claim in the amount of the set off. See also KAL ME.I. Manufacturing & Trade, Ltd.,
+
+4
+    References to "findings" refer to findings of fact in our previous decision, Kellogg
+         Brown & Root Services, 14-1 BCA ii 35,639.
+
+                                              6
+ASBCA No. 44367 et al., 94-1BCA,-i26,582 at 132,257 (citing Placeway, 920 F.2d at
+902) (government's withholding constituted "a final decision on a government claim").
+
+       Likewise, here the PCO's decisions may not have conformed to the
+usual COFD format, including the language required by the CDA to inform a
+contractor of its appeal rights, but they were nevertheless a "formal and final action
+equivalent to a decision from which the contractor could appeal." P.X Engineering
+Co., ASBCA No. 38215, 89-2 BCA ,-i 21,859 at 109,952 (contractor could appeal
+from unilateral contract modification); see also Systron Donner, Inertial Division,
+ASBCA No. 31148, 87-3 BCA ,-i 20,066 (CO's determination ofCAS noncompliance
+was appeal able final decision). The decisions were issued within six years of the date
+we previously found that the government knew or should have known of the use of
+PSCs to perform the contract-IO June 2005. KBRS, 14-1 BCA ,-i 35,639 at 174,520.
+KBRS could have directly appealed the PCO's withholdings but chose to file claims
+contesting the withholdings in order to start the running of CDA interest. Moreover,
+KBRS has not been prejudiced by the omission of final decision language and an
+explanation of appeal rights, as is evidenced by its prompt filing of certified claims
+and appeals from deemed denials. Thus, we agree with the government that the
+affirmative defens es contained in Counts I and X should be stricken because they fail
+as a matter of law, and grant the government's motion to strike as to Counts I and X of
+the FACC.
+
+Counts II (Prior Material Breach-Force Protection), III (Prior Material Breach-Cardinal
+Change), and IV (Prior Material Breach-Noncompliance with FAR 16.301-3)
+
+        The government contends that Counts II, III and IV should be dismissed for
+lack of jurisdiction because KBRS did not submit a claim to the CO alleging these
+grounds for relief (gov't mot. at 4-6). In the alternative, for any of the three counts for
+which the Board finds it has jurisdiction, the government moves to dismiss for failure
+to state a claim for relief, on the grounds that KBRS is not entitled in law to breach the
+contract as a remedy for the government's breach (id. at 6-7), and also that KBRS has
+no valid claim for breach for the government's alleged failure to provide required
+force protection because it had adequate remedies under the contract (id. at 8-9).
+Finally, with respect to the same three counts, the government argues in the alternative
+that they are time-barred because KBRS's September 2011 claim for breach was filed
+more than six years after accrual of the claim (id. at 9).
+
+        For its part, KBRS argues that the Board has jurisdiction over Counts II through
+IV because these counts, which allege different prior material breaches by the
+government, are common law defenses to the government's claim which are not
+required to be submitted to a contracting officer (CO) for a decision; and in any event,
+the allegations made in the counts fall ·'within the scope" of four previous claims ·
+submitted to the PCO ( app. opp' n at 7-13 ). Because common law defenses are not
+
+
+                                             7
+required to be the subject of claims, the government's argument that Counts II through
+IV are time-barred also fails (id. at 22). Addressing the government's alternative
+ground for dismissal, KBRS contends that the counts state a claim upon which relief
+can be granted, because a party's prior material breach excuses the other party's later
+breach (id. at 14-18). KBRS adds that the government is foreclosed from claiming that
+KBRS had an adequate contract remedy and could have delayed its performance
+without penalty under the contract's "excusable delay" clause, because this issue was
+decided against the government in the Board's 2014 decision and was not appealed
+(id. at 18-19).
+
+        In reply, the government argues that KBRS is only entitled to assert that a
+"mere defense" need not be submitted to a contracting officer for decision if it has
+timely appealed from a government claim (gov't reply at 6). The government argues
+with respect to Counts II-IV that KBRS's submission of certified claims for the
+amounts withheld by the government means that the appeals do not involve a
+government claim, 5 thus restricting the Board's jurisdiction to the contents of KBRS's
+certified claims (id.). Further, the government posits that KBRS was required under
+M Maropakis Carpentry, Inc. v. United States, 609 F.3d 1323 (Fed. Cir. 2010), to
+have submitted a timely certified claim of breach because it alleges that the
+government's prior material breach excused KBRS from complying with any contract
+prohibition on the use of PSCs and thus "seeks an adjustment of contract terms." (Id.)
+
+       Counts II-IV are within the proper scope of our consideration on remand.
+Counts II and III were asserted as affirmative defenses in ASBCA No. 58583 in
+KBRS's complaint filed 25 March 2013, and have not yet been decided by the Board.
+Additionally, our appellate mandate specifically instructs us to consider whether
+KBRS 's breach and remedy allegations are properly before us and, if so, to rule on
+them. Count IV was not separately asserted until KBRS filed its F ACC, but it, along
+with Counts II and III, asserts prior material breach as an affirmative defense.
+
+        We also conclude that we have jurisdiction over Counts II-IV. The government
+argues that the Board lacks jurisdiction because the "claims" asserted by these three
+counts were not clearly presented to the contracting officer for a decision (gov'tmot.
+at 4-6). We have already found that KBRS's 29 September 2011 breach claim
+underlying Count II adequately apprised the PCO that the basis for the claim was the
+Army's failure to meet its contractual obligation to provide force protection, 6 and the
+government withdrew its request for reconsideration of that finding at oral argument
+
+5
+  We note this assertion is inconsistent with the government's argument with respect to
+       Counts I and X that KBRS could have appealed directly from the government
+       claims effected by the Army's notices of withholding (gov't reply at 4-5).
+6
+  Kellogg Brown & Root Services, Inc., ASBCA No. 58583, 16-1BCAii36,233 at
+       176,771.
+
+                                           8
+(tr. 45). As to Counts III and IV, they were not presented to the Army CO for
+decision. We hold as to all three counts that they are affirmative defenses that do
+not seek adjustment of the terms of the contract, and therefore did not need to
+be presented to the CO for decision for the Board to have jurisdiction under
+M Maropakis. Laguna Construction Company v. Carter, 828 F .3d 1364, 1369-73
+(Fed. Cir. 2016); see also ASFA International Construction Industry and Trade, Inc.,
+ASBCA No. 57880, 14-1BCA~35,736 at 174,911.
+
+       The government also argues that KBRS is entitled to assert a "mere defense" to
+a government claim only if it has timely appealed from a government claim and that
+the appeals before us do not involve a government claim because KBRS filed its own
+claims for the withheld costs. Both parties have shifted position on whether it is a
+contractor claim or a government claim that is before us, depending on the results
+produced. We have already held with respect to Counts I and X, to the government's
+benefit, that these appeals involve timely asserted government claims to recover
+allegedly unallowable costs previously paid. With respect to Counts II through IV, we
+hold the same, this time to the detriment of the government's argument. Additionally,
+because these counts each invoke prior material breach and thus are affirmative
+defenses that need not have been presented to the CO for a decision, we reject the
+government's further argument that they are time-barred by the CDA's six-year statute
+of limitations (gov't mot. at 9). In doing so, we deem it unnecessary to determine
+whether KBRS' s 29 September 2011 claim would have been timely if in fact it
+constituted a contractor claim rather than a defense to a government claim.
+
+       Alternatively, the government asserts that Counts II through IV fail to state a
+claim for relief. The government argues that hiring and billing the government for the
+costs of PSCs does not qualify as "mitigation of damages" and that a prior material
+breach by the government does not entitle KBRS to also breach the contract while
+continuing to perform it. In other words, KBRS had to choose between ending the
+contract and electing to continue performance, and if it chose the latter, its contract
+obligations continued in full force and effect. (Gov't mot. at 6-7) The government
+also contends that KBRS had no valid claim of breach because it had contractual
+remedies for government failures to provide force protection (gov't mot. at 8). 7
+
+
+7
+    In a footnote, the government reiterates its argument that Count II independently fails
+          to state a claim for relief because adjudication of whether the Army provided
+          force protection "commensurate with the threat" is a non-justiciable political
+          question. The Board previously rejected this argument on the ground that we
+          have jurisdiction to determine whether the government met its contractual
+          obligations. KBRS, 14-1 BCA ~ 35,639 at 174,522. This issue was not
+          appealed, and we consider it foreclosed under the doctrine of law of the case.
+          See Exxon Corp., 931 F.2d at 877 n.7.
+
+                                              9
+       The doctrine of prior material breach holds that when a party to a contract
+is sued for breach, it may defend on the ground that a legal excuse for its
+nonperformance existed at the time of the alleged breach. Faced with two parties to a
+contract, each of whom claims breach by the other, courts will often impose liability
+on the party that committed the first material breach. Long Island Savings Bank,
+FSB v. United States, 503 F.3d 1234, 1251 (Fed. Cir. 2007) (false certification
+constituted material failure of performance precluding plaintiffs' claim for breach
+damages) (citing Barron Bancshares, Inc. v. United States, 366 F.3d 1360, 1380
+(Fed. Cir. 2004); and Christopher Village, L.P. v. United States, 360 F.3d 1319, 1334
+(Fed. Cir. 2004)).
+
+        In Laguna Construction, 828 F.3d 1364, the Federal Circuit affirmed the
+ASBCA' s grant of summary judgment to the government on its affirmative defense of
+prior material breach. The contractor had filed a claim for the unpaid costs of
+performing an environmental remediation and construction contract in Iraq. It then
+appealed to the Board from the contracting officer's deemed denial of its claim.
+Meanwhile, the government had been investigating allegations that Laguna's employees
+were receiving kickbacks from subcontractors. Several employees and officers of
+Laguna pied guilty to criminal indictments from 2010 to 2013. After the last of these
+pleas, the government moved to amend its answer in the appeal to include the
+affirmative defense that it was not liable for Laguna's claim since Laguna had
+committed a prior material breach of the contract by soliciting and accepting kickbacks,
+which constituted fraud against the United States. In granting summary judgment for
+the government, the Board observed that Laguna had breached the duty of good faith
+and fair dealing by its acts of fraud, and had also breached the Allowable Cost and
+Payment clause, FAR 52.216-7, by submission of vouchers that were improperly inflated
+to include the kickbacks.
+
+        The Federal Circuit affirmed the Board on the grounds that Laguna committed
+the first material breach by violating the Allowable Cost and Payment clause, which
+states that a cost is allowable only if it is reasonable and complies with the terms of the
+contract. Laguna, 828 F .3d at 13 72-73. The court found "unpersuasive" Laguna's
+argument that the remedies available to the government under the contract's
+termination and Anti-Kickback clauses foreclosed application of the common law
+defense of prior material breach. The court stated that the government could have
+availed itself of those clauses, but was not required to do so, and "may use the prior
+material breach doctrine to defeat a contractor's breach claim." Id. at 1371. The court
+also rejected the argument that the government waived the defense by continuing to
+perform the contract until 2015 when it knew of the kickbacks as early as 2008,
+finding it was reasonable of the government to wait to invoke the defense un.til after
+the last of the guilty pleas was entered. Id. at 1372.
+
+
+                                            10
+        With that background, we address the arguments that the government makes
+in pressing its case that Counts II-IV fail to state a claim. First, the government
+advances the proposition that a party who chooses to continue to perform waives any
+prior material breach as a matter of law (gov't mot. at 6-7). We do not agree. In
+Northern Helex Co. v. United States, 197 Ct. Cl. 118, 129 (1972), the government's
+primary defense to the contractor's claim for breach damages for nonpayment on a
+contract to deliver helium was that the contractor waived its right to claim total breach
+by continuing performance and treating the lack of payment as immaterial. The court
+acknowledged that "there is venerable authority" that when performance is continued
+in spite of a known breach, the wronged party can no longer avail itself of that excuse.
+However, the court observed that "it is very doubtful that, even when first formulated,
+that rule disregarded particular circumstances justifying further performance in the
+specific case." Id. at 125.
+
+       While acknowledging "the general proposition" that a party cannot continue
+performing after a material breach (although stopping performance would be fair and
+convenient), run up damages, and then go to court, the court found for two reasons that
+Northern Helex had not waived its right to damages for the government's material
+breach. First, the contractor's continued performance was commercially reasonable,
+because its helium extraction facilities were so interrelated with the rest of its
+operations that its helium facilities must continue in operation whether the helium was
+sold or wasted, and since it had no storage facilities, and there was no other market for
+the gas, it had no realistic alternative but to continue to tender helium to the
+government. Northern Helex, 197 Ct. Cl. at 126. As Judge Davis concluded:
+
+              [T]o determine whether waiver has occurred, a more
+              complex inquiry must be made than merely, "did
+              performance continue?" The guiding principle is whether,
+              in the individual circumstances, the seller exercised
+              "reasonable commercial judgment" in continuing to
+              manufacture and deliver, in the effort to mitigate damages,
+              although his obligation to perform has been discharged by
+              the buyer's total breach.
+
+Id. at 129.
+
+       Second, there was a "special aspect" to the case, which was that "the action
+taken by Northern Helex was consistent with the purpose of the program, the
+conservation of a valuable national resource.'' The court went on to elaborate:
+
+              In considering the Government's failure to observe the
+              procedural requirements of the National Environmental
+              Policy Act of 1969 when it terminated the contracts of the
+
+
+                                           11
+                three other suppliers, the Tenth Circuit characterized the
+                termination as "an action which has environmental
+                consequences, namely rapid depletion of the helium
+                resources of the country." National Helium Corp. v.
+                Morton, 455 F.2d 650 (10th Cir. 1971). The decision,
+                requiring that the Secretary at least consider the
+                environmental impact of his action, is predicated on the
+                view expressed by Congress "that it is in the national
+                interest to foster ... [the development and] distribution of
+                supplies of helium ... sufficient to provide for essential
+                government activities."
+
+Northern He/ex, 197 Ct. Cl. at 126 (footnote and citation omitted). This "special
+aspect" was also held by the court to be good reason for the company's continued
+performance.
+
+        The record in these appeals similarly supports the conclusion that continuing to
+perform the contract with PSC protection was not only a commercially reasonable
+decision on the part of KBRS and its subcontractors, 8 but also that it was consistent
+with the purpose of the contract and in the national interest. In our previous decision
+we cited testimony that, for example, without a convoy every three days the military
+dining facilities would run out of food to feed the soldiers (finding 52), underscoring
+the important national interest in continuing to run the supply convoys. We also noted
+that the contract was a "rated'" order potentially subjecting KBRS to criminal penalties
+for failure to deliver within the required time. KBRS, 14-1 BCA ~ 35,639 at 174,521.
+Thus, KBRS's affirmative defenses of prior material breach (Counts II-IV) are not
+insufficient as a matter of law simply because KBRS continued to perform the
+contract.
+
+       The government also argues that the defense of prior material breach is
+inapplicable here because it is a defense to a claim of breach and the government has
+not asserted a claim of breach against KBRS (gov't reply at 10). We disagree. The
+government's claim against KBRS, that KBRS and its subcontractors violated the
+contract prohibition against employing PSCs and that KBRS billed the government for
+
+8
+    We also note that while KBRS was continuing to perform, Army COs with
+        knowledge of KB RS/ subcontractor use of PSCs continued paying KBRS' s
+         invoices and took no other action to stop the use of PSCs. The Army did not
+        seek to disallow PSC costs until February 2007. Under the circumstances, it
+        would have been reasonable for KBRS to think, at least until February of 2007,
+        that the parties had achieved a mutually acceptable solution that allowed KBRS
+        to continue to accomplish its warfighter support mission despite the
+        acknowledged force protection issues.
+
+                                              12
+unallowable PSC costs in violation of the Allowable Cost & Payment clause, is plainly
+a claim of breach regardless of the fact that the government may not have used the
+word "breach'' to describe its claim. See also Laguna, 828 F.3d at 1371 (contractor,
+by billing the government for unallowable costs, violated the Allowable Cost &
+Payment clause and committed material breach of contract).
+
+        The government's next argument is that KBRS cannot claim that its PSC costs
+were incurred to mitigate the damages caused by the Army's prior material breach
+because, under Count II, the PSC costs are the damages caused by the alleged breach
+(gov't reply at 10). In its FACC, KBRS alleges both that it incurred the PSC costs to
+mitigate damages caused by the Army's prior material breach, and that the Army's
+prior material breach excused it from any subsequent failure to comply with the
+contract's prohibition on the use of PSCs (FACC ,-i,-i 123-25). Although we are not
+convinced that these types of damages are mutually exclusive, 9 we do not think that
+the government's proffered distinction between PSC costs as damages caused by a
+breach and PSC costs as costs incurred in mitigation of damages that otherwise would
+result from a breach makes a difference in the context of deciding the government's
+motion to dismiss, because in these appeals KBRS is first and foremost asserting prior
+material breach as a defense to the government's claim of breach.
+
+        The government's last argument for the proposition that Counts II-IV "fail to
+state a claim for relief' is that the contract afforded KBRS adequate remedies for any
+government-caused delays pursuant to the Changes and Excusable Delay clauses and
+therefore the dispute arises "under the contract," rendering KBRS' s breach claim
+invalid (gov't mot. at 8). The government recognizes that the Board previously
+rejected its argument that KBRS's sole remedy for government failure to provide the
+level of force protection promised in the contract was delay, but argues that our prior
+ruling rested principally on the premise that the contract allowed the use of PSCs (id.).
+This notion is not supported by the government's citation to our 2014 decision. In our
+prior decision we rejected the identical argument, stating that it was fortunate for the
+troops who depended on KBRS for life support that KBRS and its subcontractors did
+not adopt the attitude now suggested by the government. We also noted that the
+contract was a "rated order" under which a failure to deliver within the required time
+could be subject to criminal penalties. Only then did we observe that "[m]oreover, the
+
+9
+    For example, if the alleged breach had not occurred (i.e., the contractually promised
+         level of force protection had been provided by the Army to KBR and its
+         subcontractors), KBRS and its subcontractors would not have incurred PSC
+         costs (damages). But also, ifKBRS and its subcontractors had not hired and
+         paid PSCs to perform their missions when force protection was not available, it
+         is entirely conceivable that the resulting damages could have been vastly in
+         excess of the cost of the PSCs. (See app. reply at 9-11)
+
+
+                                             13
+government's argument presupposes that PSCs were prohibited under the terms of the
+contract." KBRS, 14-1BCA~35,639 at 174,521. Clearly, this additional observation
+was not the driver of our rejection of the government's "delay" argument. And since
+our 2014 decision, the Federal Circuit issued its decision in Laguna in which it
+explicitly held that the availability of a contract remedy does not mean the wronged
+party must avail themselves of that remedy in lieu of the affirmative defense of prior
+material breach. 828 F.3d at 1371. The government is bound by our prior holding
+which is the law of the case. Exxon Corp., 931 F.2d at 877 n.7.
+
+        The government also attempts in its motion to distinguish between "mere
+delay,'' which it states is permissible under a rated order, and "willful failure to
+perform," which is not permissible (gov't mot. at 8). We decline the invitation to
+reconsider our prior holding on the basis of a hypothetical dividing line between "mere
+delay'' in deliveries and willful failure to perform. The record in these appeals
+indicates that any such line was extremely thin, if not non-existent. The military
+dining facilities needed to be resupplied no less often than every three days to keep the
+soldiers fed. (Finding 52) Moreover, we have found as fact that during the years
+2003-2006 the government was unable to provide force protection at the levels
+specified in the contract and that the use of PSCs by KBRS and its subcontractors to
+supplement government force protection was reasonably necessary to accomplish the
+logistical support mission of the contract and task orders thereunder. KBRS, 14-1
+BCA ~ 35,639 at 174,521, and findings 13-60.
+
+       Therefore, we conclude that the affirmative defenses of prior material breach
+contained in Counts II-IV are not insufficient as a matter of law simply because the
+Excusable Delay clause was incorporated into the contract. 10 The government's
+motion to strike is denied as to Counts II, III, and IV.
+
+Counts V ((LOGCAP III Special H Clauses Applied Only in Peacetime), VI (Army
+Waived Contract's Prohibition on Use of PSCs), VII (The Army is Prohibited from
+Re-opening Firm-Fixed-Price Subcontracts), and VIII (KBRS is Entitled to
+Reimbursement of Its Incurred Costs Absent Evidence of Willful Misconduct)
+
+       The government moves to dismiss these four counts as foreclosed by either law
+of the case or by our appellate mandate (or both). As to Counts V and VIII, the
+government contends that "[t]hese counts must be dismissed because they conflict
+with the Federal Circuit's express holdings that the H Clauses were applicable and
+barred the use of armed PSCs in contract performance" (gov't mot. at 10). As to
+Count VII, the government points out that in Kellogg, Brown & Root Services, Inc.,
+
+10
+     While the government's motion also mentions that the contract contained the
+         Changes clause, it makes no argument regarding remedies available under that
+         clause (gov't mot. at 8).
+
+                                           14
+ASBCA No. 56358, 12-1BCAii35,001at172,015, we held that "[i]n the context
+of determining the reasonableness of a subcontract fixed price under a cost
+reimbursement prime contract, the government may properly consider the components
+of that subcontract fixed price." And as to Count VI, the government states that
+KBRS's waiver argument is foreclosed by the Federal Circuit's declination ofKBRS's
+invitation to affirm the Board's 2014 decision on the alternative ground that the
+government gave permission to KBRS and its subcontractors to use PSCs, stating that
+'·we do not find any of those purported alternative grounds persuasive." 11 As to these
+four counts, we treat the government motion as one to strike affirmative defenses.
+
+       KBRS in response states that the issue of whether the contract's H clauses
+only applied in peacetime (Count V) was never squarely before the Federal Circuit
+because the Board never decided it. It was presented on appeal only as an alternative
+ground on which the appellate court could affirm the Board's decision, and was
+opposed by the government not on the merits, but because the Board had not made
+findings on the issue and a remand would be necessary before it could be considered
+(app. opp'n at 24-25). As to Count VI (waiver), KBRS opposes the government
+motion on the ground that the "permission" argument that it advanced on appeal as an
+alternative ground for affirmance is distinct from the "waiv~r" defense asserted in
+Count VI-while the former advances the proposition that use of PSCs was allowed,
+the premise of the latter is that the use of PSCs was not allowed but this restriction was
+waived by the government. Thus, the appellate decision should have no effect on
+KBRS's ability to pursue its waiver defense. (Id. at 26-27)
+
+        On Count VII, KBRS points out that the Board expressly advised the parties
+that its 2012 decision denying cross-motions for summary judgment was interlocutory
+and any error therein was subject to correction in the Board's final decision on the
+merits following the hearing. KBRS adds that during the hearing on the merits, the
+presiding judge invited it to raise the argument again in its post-hearing briefing, and it
+did so. Therefore, it concludes, the issue is not foreclosed. (App. opp'n at 27-28)
+With respect to Count VIII, KBRS responds that the Federal Circuit's opinion was
+limited to the contract interpretation issue and neither explicitly nor implicitly reached
+KBRS' s argument that under a cost reimbursement contract a contractor is entitled to
+recover all its incurred costs unless they stem from fraud, lack of good faith, or willful
+misconduct (id. at 28-29).
+
+       In reply, the government cites to the transcript of the hearing on the merits to
+argue that the presiding Board judge had no interest in revisiting the issue presented
+by Count VII and in fact did not revisit it in the Board's decision on the merits,
+confirming that the issue was settled (gov't reply at 19). The government also points
+
+11 Count VI was not part of the government's original motion to dismiss, but was
+
+       added to it by letter supplement dated 9 February 2016.
+
+                                            15
+out that KBRS has not distinguished Grumman Aerospace Corp. v. United States,
+549 F.2d 767 (Ct. Cl. 1977), the precedent on which the Board relied in its 2012
+decision, and that the Federal Circuit did not find this ground persuasive when it was
+raised on appeal as an alternative ground for affirmance (gov't reply at 19).
+
+       Which of these counts pose issues that are properly before us at this stage of the
+proceedings? Count V asserts as a defense that the H clauses which the Federal
+Circuit interpreted in deciding the contract interpretation issue raised in the
+government's appeal only applied in peacetime and thus were inapplicable to
+performance in the war conditions under which the PSC costs were incurred. While
+we acknowledge KBRS' s argument that this issue was not before the Federal Circuit
+on appeal because it was never decided by the Board, we conclude that this issue is
+foreclosed on remand. The court's holding on appeal that the H clauses prohibited
+KBRS and its subcontractors from hir~ng PSCs by necessary implication decides the
+issue of whether the H clauses were applicable. SUFI Network Services, Inc. v.
+United States, 817 F .3d 773, 779 (Fed. Cir. 2016), and cases cited therein. Therefore,
+we grant the government's motion and strike the affirmative defense presented in
+Count V.
+
+       Count VI asserts the affirmative defense that the Army waived any right to
+refuse to reimburse the PSC costs incurred by KBRS or its subcontractors on the basis
+that use of PSCs was prohibited by the contract. We agree with KBRS that the
+defense of waiver is distinct from the argument advanced by KBRS on appeal that it
+received "permission" to use PSCs as an alternative ground for affirming our 2014
+decision. Moreover, the waiver defense was asserted by KBRS in the remanded
+appeals (ASBCA Nos. 56358, 57151, and 57327) well prior to the hearing on the
+merits, but was not decided by the Board and not appealed by the government, and
+was not, therefore, before the Federal Circuit on appeal. 12 And, since the issue was not
+decided by us on the merits, and was not necessary to the Federal Circuit's disposition
+of the contract interpretation issue, we are not barred from considering it on remand.
+Laitram Corp. v. NEC Corp., 115 F.3d 947, 951-52 (Fed. Cir. 1997) (citing Conway v.
+Chemical Leaman Tank Lines, Inc., 644 F.2d 1059, 1062 (5th Cir. 1981)). The
+government does not raise any argument in support of its motion to strike Count VI
+other than its argument that consideration of Count VI is foreclosed by our appellate
+mandate. Therefore, we deny the government's motion as to Count VI.
+
+        We also find that Count VII is properly before us and that we may consider
+it in these remand proceedings. The Board's 2012 decision denied the parties'
+cross-motions for summary judgment. In the course of doing so, the Board addressed
+
+12 KBRS also asserted the defense of waiver in Count V of its initial complaint in
+
+       ASBCA No. 58583, which was filed on 25 March 2013. The issue has not been
+       decided in that appeal either.
+
+                                            16
+KBRS's contention that the government has no contractual right to disallow a particular
+component of a subcontract fixed price:
+
+             However, none of the authorities cited for this proposition
+             involved the allowability of a questioned component of a
+             subcontract fixed price as a reimbursable cost under a cost
+             reimbursement prime contract. In the context of determining
+             the reasonableness of a subcontract fixed price under a cost
+             reimbursement prime contract, the government may properly
+             consider the components of that subcontract fixed price.
+             [Citation omitted]
+
+KBRS, 12-1 BCA ~ 35,001 at 172,015 (citing Grumman Aerospace Corp., 549 F.2d at
+77 4-7 5 ). The Board noted that there remained a genuine issue of material fact as to
+whether, at the time the 11 subcontracts at issue were awarded, the component for
+PSC costs included in the subcontract fixed prices was reasonable as to both the need
+for, and the amount of, that component. Id. at 172,016. After a hearing on the merits,
+the Board found as a matter of fact that the PSC costs incurred by KBRS and its
+subcontractors were reasonable under FAR 31.201-3(a). KBRS, 14-1BCA~35,639 at
+174,521. The Board did not address in that decision KBRS's contention that the
+government could not disallow specific components of the price of a firm-fixed-price
+subcontract, presumably finding it unnecessary in light of its holding that the contract
+did not prohibit the use of PSCs.
+
+       The law of the case doctrine does not apply to issues that were not decided.
+l 8B WRIGHT, MILLER & COOPER, FEDERAL PRACTICE AND PROCEDURE: LAW OF THE
+CASE 2d § 4478 at 664-67. In its 2012 interlocutory decision the Board's discussion of
+the Grumman Aerospace case may well have been dicta, since it was not necessary to
+the result-denying the cross-motions for summary judgment on the basis of unresolved
+issues of material fact. But even ifthe Board's discussion was more than dicta, it did
+not decide the issue presented to us now. The defense presented to us by KBRS in its
+FACC Count VII is:
+
+              Under applicable regulations, including the FAR, and the
+              federal common law applicable to government contracts,
+              the Army is barred from reopening firm-fixed price
+              subcontracts awarded under a cost-reimbursement prime
+              contract to contest the allowability of a particular
+              component included in the subcontract price.
+
+(FACC at 29, ~ 180) KBRS alleges in Count VII that it awarded the subcontracts in
+issue between 2003 and 2006 pursuant to its approved purchasing system for the
+provision of dining and other logistical support services at total prices it determined
+
+
+                                            17
+were fair and reasonable based on competition and/or price analysis. The
+government's position all along in this case has been that the costs in question are
+unallowable based on the contract's prohibition against using PSCs, not that the total
+subcontract prices were unreasonable. Presumably for that reason, the government did
+not appeal the Board's finding that the PSC costs incurred by KBRS and its
+subcontractors were reasonable. 13
+
+        Because the issue presented by Count VII was presented to but not decided by the
+Board, and was neither before the Federal Circuit on appeal nor necessarily implicated in
+its decision, we do not view the appellate court's statement that the alternate grounds
+(one of which mirrored Count VII) presented by KBRS for affirmance were "not
+persuasive" to signify anything other than that the court declined KBRS 's invitation to
+affirm on alternate grounds not properly before it. In conclusion, Count VII is properly
+before us now. The government's motion to strike is denied as to Count VII.
+
+        We also find that Count VIII is properly before us. This defense-that under a
+cost reimbursement contract KBRS is entitled to recover its incurred costs absent
+evidence of fraud, lack of good faith, or willful misconduct-was raised by KBRS in its
+25 March 2013 complaint in ASBCA No. 58583 and has not been decided on the
+merits. We do not agree with the government that the Federal Circuit's decision that
+the contract prohibited the use of PSCs equates to a finding that the costs of PSCs are
+unallowable under the contract (gov't reply at 20). We note the court itself
+characterized its decision as one of "narrow contract interpretation based on the
+weapons prohibition" and did not purport to decide the question of cost allowability.
+McHugh, 626 F. App'x at 978.
+
+        The case law cited by the government does not persuade us to its view. Geren
+v. Tecom, Inc., 566 F.3d 1037, 1041 (Fed. Cir. 2009) merely recognizes that to be
+allowable a cost must comply with the "terms of the contract," and that "where neither
+the contract nor the FAR dictates the treatment of specific costs, we must determine
+how those costs are to be treated by looking to'' the principles and standards in FAR
+Subpart 31.2. In this case, there was no term of the contract or FAR cost principle
+dictating the treatment of PSC costs. 14 In Kellogg, Brown & Root Servs., Inc. v.
+
+13
+   To be sure, we recognize that the government's position may also be that the costs
+       were unreasonable because they were specifically prohibited by contract.
+       However, that position is still based on a term of the contract disallowing a
+       specific type of cost, not any determination that the total price of the subcontracts
+       was unreasonable, which was what the Grumman Aerospace case and the Board's
+       2012 decision addressed.
+14
+   In Geren, the court noted that costs resulting from a breach of a contractual
+       obligation are not allowable costs under a contract. 566 F .3d at 1043 (citing
+       Dade Brothers, Inc. v. United States, 325 F.2d 239, 240 (Ct. Cl. 1963)). This
+
+                                            18
+United States, 728 F.3d 1348, 1359 (Fed. Cir. 2013), the Federal Circuit rejected a
+similar argument made by KBRS in that case, holding that in determining the
+reasonableness of costs, evidence of willful misconduct, gross negligence, or arbitrary
+conduct could be relevant, but such evidence is not required to disallow costs as
+unreasonable. This is a ruling by our appellate authority in a different case. It is
+binding precedent, but it does not implicate the law of the case doctrine or otherwise
+preclude us from deciding a similar issue on the record created in these appeals.
+Therefore, the government's motion to strike is denied as to Count VIII.
+
+Count IX (The Army Released KBRS from All Claims Related to the Pricing and
+A ward of Eleven ESS Subcontracts and KBRS is Entitled to Recover PSC Amounts
+Associated with Those Subcontracts)
+
+        The government moves to dismiss Count IX or in the alternative for
+summary judgment on the ground that PSC costs were expressly excluded from the
+2010 and 2011 settlement agreements relied on by KBRS, either by the underlying
+Forms 1 or by the underlying audit reports (gov't mot. at 12). KBRS maintains that
+any exclusion in the underlying Forms 1 is ineffective to counter the broad language
+of the settlement agreements (app. opp'n at 29). The government replies that the
+settlement agreements clearly state their intent to settle only claims relating to the
+specified Forms 1, which do not include the Form 1 in which DCAA questioned
+the PSC costs, No. 127 and revision 1 to same, which has not been settled (gov't reply
+at 20, ex. G-4). We treat this portion of the government's motion as one for summary
+judgment on Count IX. There are no material facts in dispute, only the parties'
+differing interpretations of the settlement agreements.
+
+        The two settlement agreements are appended to the government's motion as
+exhibits G-5 (2010 agreement) and G-6 (2011 agreement). The 2010 settlement
+agreement recites that it is in settlement of five specified DCAA Forms 1: Nos. 143,
+145, 147, 148, and 153, for a total of $13,269,983 including $12,349,633 in direct
+subcontract cost (ex. G-5 at 2-3). The 2011 settlement agreement similarly states that it
+is in settlement of six specified Forms 1: Nos. 142, 144, 151, 152, 154, and 157, for a
+total of $34,236,526 including $33,024,789 in direct subcontract cost (ex. G-6 at 2-3).
+Both settlement agreements contain the following language (with one minor
+grammatical variation not pertinent to the meaning):
+
+
+       case was remanded to us with specific instructions to determine ifKBRS's
+       breach of the contractual prohibition on use of PSCs was excused by the
+       government's prior material breach. With this issue open, we infer that the
+       absence of any determination in the court's decision on the allowability of the
+       costs was a considered choice.
+
+                                           19
+              [T]he Government, to the extent permitted by law, remises,
+              releases, and discharges the Contractor, its officers, agents,
+              and employees of and from all civil liabilities, obligations,
+              claims, appeals, and demands which it now has or hereafter
+              may have, whether known or unknown, administrative,
+              judicial, legal, or equitable, arising under or in any way
+              related to the Forms 1.
+
+(Ex. G-5 at 4, ~ 8, ex. G-6 at 4, ~ 5)
+
+       Four of the underlying Forms I-Nos. 142, 144, 152, and 154-specifically
+excluded the PSC costs disapproved by Form I No, 127, revision I (ex. G-7 at 9,
+ex. G-9 at 10, ex. G-14 at 11, ex. G-16 at 13). A review of the remainder of the
+Forms 1, along with their underlying audit reports, makes it clear that PSC costs
+are not among the costs disapproved (exs. G-8, G-10-13, G-15, G-17-24). Therefore,
+PSC costs were not within the scope of the two settlement agreements and KBRS's
+contentions to the contrary must fail. Moreover, KBRS does not dispute that the
+Form 1 disallowing the PSC costs has not been settled.
+
+        We note also that the settlement agreements resulted in a near-complete win
+for KBRS: of the disapproved costs that were the subject of the 2010 agreement,
+KBRS recovered $12,349,633 out of a total of $13,269,983. Of the disapproved costs
+that were the subject of the 2011 agreement, KBRS recovered $31,073,009 out of a
+total of $33,024,789 in direct subcontract costs, plus applicable overhead and base fee.
+(Ex. G-5 at 3, ex. G-6 at 3-4) These numbers render nonsensical KBRS's argument
+that the settlements encompassed subcontract PSC costs, since if one were to believe
+that to be true, it would lead to the conclusion that KBRS has already recovered the
+vast majority of those costs.
+
+      For the reasons stated, we grant summary judgment to the government on
+Count IX of the FACC.
+
+Counts XI (Army's Quantum Calculation is Inaccurate and Unsupported) and XII
+{Army Acted in Bad Faith)
+
+        KBRS asserts in Count XI of the FACC that, for several reasons, the damages
+calculation underlying the Army's withholding is flawed. This contention is premature
+at best and, in the interests of judicial economy, we see no reason to address it
+before entitlement has been decided. Therefore, the government's motion to dismiss
+Count XI is denied without prejudice to its reinstatement in appropriate circumstances.
+
+       In Count XII KBRS states it is entitled to findings of fact that the Army
+acted in bad faith by, it alleges, effecting the withholdings in question in response to
+
+
+                                            20
+Congressional inquiries and without conducting any investigation into the underlying
+facts regarding the hostile conditions in Iraq from 2003-2006 and the military's
+inability to provide the promised level of force protection. The requested findings are
+not tied to any particular claim or affirmative defense advanced by KBRS in this
+litigation. Rather, KBRS asserts that the requested findings are the relief to which it is
+entitled (FACC at 34-35). Moreover, KBRS represented to the Board at oral argument
+that no new findings of fact are necessary to decide its motion for summary judgment
+(tr. 58).
+
+       The government moves to dismiss Count XII for failure to state a claim,
+positing that "[a]ppellants cannot come before the Board for freestanding 'findings'
+unconnected to well-pleaded claims for contractual relief' (gov't mot. at 13). KBRS
+responds simply that the requested findings "are clearly within the scope of these
+appeals" and that the government has not cited to any legal authority prohibiting us
+from making the requested findings (app. opp'n at 30).
+
+      · We have been presented with no reason why the Board should make new
+findings of fact unconnected to any contractual claim or defense before it. We
+therefore grant the government's motion to strike as to Count XII.
+
+       In conclusion, the surviving counts ofKBRS's FACC are II,HI, IV, VI,
+VII, VIII, and XI. We now turn to KBRS's motion for summary judgment.
+
+                      II.    KBRS's Motion for Summary Judgment
+
+        KBRS has moved for summary judgment on the affirmative defenses presented
+by Counts II (prior material breach) and VI (waiver), and the government has opposed.
+The standards for summary judgment before the Board are well established 15 and
+need little elaboration here. Summary judgment should be granted if it has been
+shown that there are no genuine issues of material fact and the moving party is
+entitled to judgment as a matter oflaw. Celotex Corp. v. Catrett, 477 U.S. 317,
+322 (1986). A non-movant seeking to defeat summary judgment by suggesting
+conflicting facts "must set forth specific facts showing that there is a genuine issue
+for trial." Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986) (quoting
+First National Bank ofArizona v. Cities Service Co., 391 U.S. 253, 288-89 (1968)).
+
+       The posture in which we are asked to decide appellant's motion differs from
+the usual, in that there has already been a lengthy hearing on the merits in three of
+these appeals. Appellant relies on the Board's findings of fact set forth in our
+
+
+15
+     Board Rule 7(c)(2) provides that the Board looks to FED. R. CIV. P. 56 for guidance
+         in deciding motions for summary judgment.
+
+                                            21
+decision in KBRS, 14-1 BCA ~ 35,639, for its statement of undisputed material facts
+(app. mot. at 2). The government does not dispute those findings of fact and has
+proposed "additional material facts" drawn from the existing record in these appeals
+(gov't opp'n at 2-3). The parties agree that the Board need not find further facts in
+order to decide the motion (tr. 59).
+
+      Based on the foregoing, we find the following facts to be undisputed for
+purposes of the motion.
+
+          STATEMENT OF FACTS (SOF) FOR PURPOSES OF APPELLANT'S
+                 MOTION FOR SUMMARY JUDGMENT
+
+       1. Contract No. DAAA09-02-D-0007 (contract or Contract 0007), awarded
+to KBRS on 14 December 200 I by the Army Operations Support Command,
+Rock Island, Illinois (hereinafter Rock Island), was a cost-plus-award-fee,
+indefinite-quantity, indefinite-delivery contract which was part of the Army's Logistics
+Civil Augmentation Program (LOGCAP) and is also referred to as the LOGCAP III
+contract (findings 2, 3). The contract included the FAR 52.211-15, DEFENSE PRIORITY
+AND ALLOCATION REQUIREMENTS (SEP 1990) clause, which stated: "This is a rated
+order certified for national defense use, and the Contractor shall follow all the
+requirements of the Defense Priorities and Allocation Systems regulation (15 CFR 700)."
+The cited regulation stated in pertinent part:
+
+              § 700.3 Priority ratings and rated orders.
+
+              (a) Rated orders are identified by a priority rating .... Rated
+                  orders take preference over all unrated orders as necessary to
+                  meet delivery dates ....
+
+              (b) Persons receiving rated orders must give them preferential
+                  treatment as required by this regulation. This means a person
+                  must accept and fill a rated order for items that the person
+                  normally supplies ....
+
+              (c) All rated orders must be scheduled to the extent possible to
+                  ensure delivery by the required delivery date.
+
+
+                                           22
+              § 700. 7 Compliance
+
+              (a) Compliance with the provisions of this regulation .. .is required
+                  by the Defense Production Act.. .. Violators are subject to
+                  criminal penalties.
+
+(Findings 4, 5)
+
+      2. The contract also contained section H, Special Contract Requirements,
+which set forth the following clause:
+
+              H-16 Force Protection
+
+                  •   While performing duties [in accordance with] the terms
+                      and conditions of the contract, the Service Theater
+                      Commander will provide force protection to contractor
+                      employees commensurate with that given to
+                      Service/Agency (e.g., Army, Navy, Air Force, Marine,
+                      DLA) civilians in the operations area unless otherwise
+                      stated in each task order.
+
+(Finding 9)
+
+        3. Following the invasion and occupation of Iraq in March 2003, Rock Island
+issued task orders under the contract for logistic and life-support services, including
+food service and billeting, for the coalition combat forces. Task Order (TO) 59, with
+an initial total ceiling price of $802,065, 733, was issued effective 24 June 2003, and
+its successor, TO 89, was issued effective 1 May 2005 with an initial ceiling price of
+$4,972,882,216. Paragraph 1.10 in Change 5 to the TO 59 Statement of Work
+(SOW), effective 27 August 2003, stated: "The government will provide for the
+security of contractor personnel in convoys and on site, commensurate with the threat,
+and [in accordance with] the applicable Theater Anti-Terrorism/Force Protection
+guidelines." Paragraph 1.7 of the TO 89 SOW as issued on 1 May 2005 stated: "The
+Government will provide for the force protection and security of contractor personnel
+in convoys and on site, commensurate with the threat, and [in accordance with] the
+applicable Theater Anti-Terrorism/Force Protection guidelines." (Findings 11, 13)
+
+       4. Attacks on KBRS and subcontractor supply convoys began in June 2003.
+KBRS warned the Rock Island PCO on 27 June 2003 that failure to provide force
+protection in accordance with the LOGCAP III contract would mean that KBRS
+and subcontractor vehicle convoys would have to be delayed, adversely affecting
+timely delivery of food service support. (Findings 14, 15) The Deputy Commander
+of the Coalition Forces Land Component Command (CFLCC) from 2003-2004,
+
+
+                                            23
+Major General (MG) Stephen Speakes, testified that he arrived in Iraq in late June and
+that it was obvious to him that "we were taking new levels of threat to our supply and
+relief formations across Iraq." Among the options he considered for dealing with the
+increased threat were assigning more combat units to protect the convoys, and looking
+at the potential for hired contractual security. (Finding 16)
+
+       5. On 9 July 2003, KBRS met with MG Speakes and reported that the personnel
+and equipment casualties from attacks on its convoys and those of its subcontractors
+from mid-May to date were 7 killed, 7 wounded, 4 missing and 10 trucks missing.
+MG Speakes noted: "Tomorrow the government will provide convoy protection for
+46% of the convoys waiting to travel north. This level of support must increase, but
+presently the government is short convoy escort vehicles and shooters (shotgun
+riders).'' The parties discussed KBRS contracting for private security, and agreed that
+"LOGCAP Planners will develop a revised statement of work requesting contracted
+security.'' (Finding 19)
+
+       6. On 19 September 2003, MG Speakes sent the following message and formal
+request to the Rock Island Commander:
+
+             Subject: CFLCC Request for Help with LOGCAP
+             Contractor Convoy Security.
+
+             [I]n message below we request your help in solving one of
+             our most vexing problems, specifically convoy security for
+             contracted operations in Iraq .... [W]e see no other optoin
+             [sic] but to ask that the current contract provisoins [sic] be
+             amended to support operations in Iraq. We appreciate your
+             support and hope that this is a request that is
+             supportable ....
+
+
+             MEMORANDUM FOR Commander, Army Field Support
+             Command. Rock Island, 1161299
+
+             SUBJECT: Adequate Force Protection for the Logistics
+             Civil Augmentation Program (LOGCAP) Convoys in
+             Kuwait and Iraq
+
+             1. Request Army Field Support Command (AFSC) review
+             the basic LOGCAP contract and provide a contractual
+             recommendation allowing Kellogg Brown & Root (KBR)
+             the authorization to pursue a civilian transport and
+
+
+                                          24
+             transportation security company to conduct convoy escorts
+             missions for the execution of convoys in Iraq during the
+             movement of government materiel on theater supply
+             routes. The current force protection posture, pending
+             reductions in force structure, present and future demands
+             for military police forces, all support the need to explore
+             options other than military escorts in order to conduct
+             secure and unhindered convoy operations.
+
+             2. The LOGCAP Basic contract and Statements of Work
+             (SOW) needs to be modified to allow for KBR to provide
+             contract security for their convoys moving government
+             materiel on theater supply routes in Kuwait and Iraq. This
+             change to authorization and utilization of contracted
+             security should be in compliance with US Federal and
+             Military Regulations that established the current base
+             contract.
+
+             3. The contract should be administered by KBR or its
+             subcontractor, with standards and operating procedures in
+             accordance with the senior military police organization in
+             theater. The scope of operations or task execution plan
+             will be developed by KBR and accepted through the
+             appropriate contracting and command channels.
+
+             4. We understand that there will be legal and perception
+             concerns in the use of contracted security, but with
+             pending reductions in force structure, present and future
+             demands on contractor support, we must ensure unimpeded
+             flow of supplies. We believe this is a viable course of
+             action.
+
+MG Speakes expected that Rock Island would prepare a proposal for contract
+modification that he could submit for approval by the appropriate commanders in Iraq
+and at CENTCOM. However, he testified: "'Despite my repeated efforts, to my
+knowledge I never got a formal proposal back, and I never was able to take anything
+and formally bring it up to a higher staff to ask for their help." (Findings 20, 21)
+
+      7. On 24 November 2003, the commander of the Defense Contract
+Management Agency (DCMA) activity in Kuwait, CDR Kent Caldwell, USN, sent a
+message to the CFLCC 143rct Transportation Command. The message cited the
+
+
+                                          25
+conflicting standards in operation orders (OPORDS) issued by CFLCC and CJTF-7 16
+for convoy protection, and further stated in pertinent part:
+
+               As convoy security is contractually required to be provided
+               by the government and be consistent with the standards set
+               for all DOD civilians, I believe the government is faced
+               with an unexecutable task. As I understand it, they are no
+               longer resourced to comply with either standard, especially
+               when you consider that contractors cannot carry weapons.
+               Their need for external security is greater [than] that of
+               armed soldiers moving in military convoys for which the
+               majority of the guidance found in both OPORD's applies.
+
+
+                       While I understand and appreciate the resource
+               restrictions on both soldiers and government equipment to
+               perform the missions assumed by KBR under the
+               LOGCAP III contract, the Army has entered into a contract
+               with KBR and is apparently unable to provide the requisite
+               security and protection requirements established by either
+               CFLCC or CJTF-7. If uncorrected this will significantly
+               impact the fuel, line haul, mail, and Class 1 transportation
+               mission areas supported under this contract.
+
+(Finding 23)
+
+       8. On 19 December 2003, CJTF-7 Fragmentary Operations Order (FRAGO)
+1242, (KBR Convoy Security Procedures) stated in relevant part:
+
+               ATTACKS AGAINST KELLOGG, BROWN AND ROOT
+               (KBR) CONVOYS HA VE DRAMA TI CALLY
+               INCREASED DURING THE MONTHS OF OCTOBER
+               AND NOVEMBER. BASED UPON INTELLIGENCE
+               ESTIMATES, THE THREAT OF FUTURE ATTACKS
+               AGAINST KBR CONVOYS IS PROJECTED TO
+               INCREASE DURING THE MONTHS OF DECEMBER
+               2003 THROUGH APRIL 2004 .... SINCE THE BEGINNING
+
+16 Combined Joint Task Force-7 (CJTF-7) was the initial designation of the coalition
+
+      military forces in Iraq. On 15 May 2004, the designation was changed to Multi
+      National Force-Iraq (MNF-I). CJTF-7 and MNF-I reported to the Theater
+      Commander, CENTCOM. KBRS, 14-1 BCA i! 35,639 at 174,522 n.3.
+
+                                            26
+               OF OCTOBER, TH[E] MAJORITY OF ATTACKS
+               AGAINST KBR CONVOYS HA VE BEEN THE RESULT
+               OF IEDS AND SMALL ARMS FIRE. NINETY PERCENT
+               OF ALL ATTACKS DIRECTED SPECIFICALLY
+               AGAINST KBR CONVOYS HA VE OCCURRED ON MSR
+               TAMPA. HOWEVER, SEGMENTS OF ASRJACKSON,
+               MSR MICHIGAN, MSR MIL TON AND MSR MOBILE
+               REMAIN EXTREMELY DANGEROUS TO KBR
+               CONVOYS. KBR CONVOYS REMAIN EXTREMELY
+               VULNERABLE TO ATTACKS AT REST STOPS, REFUEL
+               POINTS, TRAFFIC CHOKE POINTS, LOCATIONS OF
+               VEHICLE BREAKDOWNS, HAND-OFF POINTS FOR
+               CONVOY SECURITY ESCORTS, MSC BOUNDARY
+               LINES ... AND MOVEMENT UNDER OVERHEAD
+               PASSES.
+
+(Finding 24)
+
+        9. On 22 February 2004, the KBRS Deputy Area Manager for V Corps North
+sent the following message to the troop unit that was responsible for force protection
+in that area:
+
+               For your information the military has failed to comply with
+               providing escort requirements. Time and time again we
+               have sent emails after emails and made phone calls after
+               phone calls to get this escort requirement taken care of. As
+               you know last week a convoy was arranged for four (4)
+               trucks and they were abandoned while in route because of
+               the speed of travel. I would like to point out this same
+               subcontractor had employees shot in a drive by shooting
+               yesterday around B3, so they are a marked target.
+
+               It was also briefed on the last [meeting with the
+               government] that [the government] would prefer to have at
+               least nine (9) to ten (10) trucks in a convoy. We consulted
+               with our subcontractor and they hired additional trucks for
+               a total often (10) trucks which are loaded and ready to go,
+               when request for convoy was acquired today, KBR was
+               told [the government] was not able to provide the escorts
+               due to lack of assets and would not have the assets for two
+               to three weeks if then. This has directly affected our
+               ability to carry out our tasked assigned to KBR by CJTF7,
+
+
+                                            27
+             plus is causing the subcontractor to occur [sic] unexpected
+             costs.
+
+The government answer to KBRS's 22 February 2004 message was that:
+(i) "these combat units were sent here to fight the war, not do escorts for KBR ONLY";
+(ii) the tasking placed on the troop unit responsible for providing the force protection
+was 'enormous'; and (iii) when the troop unit was ready to resume escort duty, 'I will
+let you ... know."' (Findings 30, 31)
+
+       10. On 12 April 2004, CJTF-7 FRAGO 622 described the current convoy
+security situation as follows:
+
+             THE ENEMY IS PROSECUTING A DELIBERATE
+             OPERATION TO INTERDICT OUR LINES OF
+             COMMUNICATION (LOC). WITH THE
+             SIMULTANEOUS ATTACKS ON SIX OVERPASSES
+             ON 10-12 APRIL 04, IT IS APPARENT THE ENEMY
+             HAS TAKEN HIS CAMPAIGN BEYOND
+             HARASSMENT THROUGH DIRECT ACTION TO A
+             DELIBERATE EFFORT FOCUSED ON THEATER LOC
+             INTERDICTION.
+
+             CURRENT SITUATION. ALONG MSRS LEADING INTO
+             AND OUT OF BAGHDAD THERE HA VE
+             BEEN 66 ATTACKS IN THE LAST WEEK, 49 ATTACKS
+             ONE WEEK AGO, AND 50 TWO WEEKS AGO. THERE
+             HA VE BEEN 3 COMPLEX ATTACKS/AMBUSHES IN
+             LAST THREE DAYS RESULTING IN THE DESTRUCTION
+             OF A REFUELING CONVOY ... DESTRUCTION OF
+             4 OVERP ASSES ... AND THE AMBUSH OF A
+             CONVOY .... THE MSRS BETWEEN 1) BAGHDAD AND
+             BALLAD, 2) BAGHDAD AND KARBALA, AND 3)
+             BAGHDAD AND FALLUJAH ARE EXTREMELY
+             DANGEROUS AND CONTINUE TO BE HIGHLY
+             SUSCEPTIBLE TO THREAT ACTIVITY RANGING FROM
+             IEDS TO SMALL ARMS AND RPG
+             ATTACKS/AMBUSHES.
+
+             CURRENT ASSESSMENT: ATTACKS ARE MUCH
+             HIGHER THIS WEEK AND UPWARD TREND IS
+             LIKELY TO CONTINUE AS A RESULT OF THE
+             CONTINUED SADR/MAHDI MILITIA UNREST, AND
+
+
+                                          28
+               OPERATIONS AGAINST THREAT FORCES IN
+               WESTERN IRAQ.
+
+(Finding 32)
+
+        11. On 14 April 2004, the DCMA administrative contracting officer (ACO) for
+TO 59 (MAJ Hills) reported to the Commander, DCMA Northern Iraq (L TC Blaine)
+the following:
+
+               All indications are that the government has failed to live up
+               to its contractual obligation to provide Force Protection
+               (FP) to the TTM convoys (T00059). Given that, KBR is
+               currently not required to run most (if any) convoy routes.
+               They did run three convoys to Anaconda today. Only one
+               made it. The other two got lost. They are now at an FOB.
+               KBR may not run any convoys tomorrow ifthe
+               government does not improve its track record on FP. The
+               same MP escorts that got them lost are to bring the two
+               convoys in to Anaconda tomorrow. The best I can tell at
+               this time is that they have never ran the route they are
+               about to set out on. Based on my discussions with TTM' s
+               PM .. .I went over and talked to the 13th COSCOM CC .. .I
+               told him of KBR's concerns. I feel contractually the
+               government is not living up to its contractual obligations.
+               [The COSCOM Commander] stated that COSCOM was
+               doing their part by providing a soldier for every third truck.
+               He said it was the 15th MP's that were providing the escort
+               not COSCOM and that the issue of getting lost was ... not a
+               FP issue " ... they are all safe aren't they." I just want to go
+               on record that absent any new information from the
+               government, I concur with KBR in that the government is
+               not providing FP commensurate with the threat. If they
+               choose not to run tomorrow I would be hard pressed to
+               disagree with them. Oh by the way, one of the trucks in
+               one of the lost convoys got destroyed by an IED.
+
+(Finding 33)
+
+       12. Lieutenant General (L TG) Ricardo Sanchez, commander ofCJTF-7 and its
+successor unit from June 2003 to July 2004, testified that there was insufficient
+capacity to accomplish all the tasks that were assigned to the force on the ground in
+Iraq during that period and that he did not have sufficient resources to provide the
+same level of protection to KBRS that was being provided to civilians. For that
+
+
+                                              29
+reason, he stated, in the "fall and early winter of 2003, we very clearly established
+within the command that the capacity of the force, the quantity of the force, and the
+demands of the mission ... we were not going to be able to continue supporting that
+without private security." By March 2004, he testified, there were between 10 and
+20 private security contractors operating in Iraq, and he believed their presence and
+assistance in accomplishing the mission was welcomed by commanders at the
+battalion and brigade level. (Findings 35, 37, 38)
+
+        13. Following termination of the Coalition Provisional Authority (CPA) and
+establishment of the Interim Iraq Government as the civil government oflraq on
+30 June 2004, CENTCOM issued a Warning Order (WARNORD) on 4 July 2004
+entitled "CONTRACTOR RISK MITIGATION" that tasked commanders to develop
+courses of action (COAs) for U.S. Government contractor risk mitigation in Iraq. The
+WARNORD stated that MNF-1 had not to date provided protection for contractors
+·'AS CONTRACTOR SECURITY IS NOT A SPECIFIED MILITARY MISSION,"
+and further stated that "CONTRACTORS ARE PRIMARILY RESPONSIBLE FOR
+THEIR OWN SECURITY." The WARNORD concluded that "given the current
+security environment in Iraq, all USG agencies must coordinate protection of USG
+contractors through a combination of coalition military forces, Iraq security forces, and
+private security companies." (Finding 39)
+
+       14. From March to September 2004, attacks on KBRS subcontractor
+employees and vehicles continued, with 5 employees killed, 1 beaten, and 25 missing
+or held captive (finding 40). On 29 August 2004 KBRS notified LTC Sean O'Day,
+Commander of DCMA Northern Iraq, that a subcontractor convoy escorted by a
+private Iraqi security company had been ambushed and three trucks were missing.
+L TC O'Day remarked that there might be questions why private security and not a
+military escort was used for protection. At the hearing, he testified that security was
+always a big issue, and that there weren't enough military forces in Iraq to do
+everything that needed to be done and provide convoy security for contractors.
+(Findings 40, 41)
+
+       15. Craig Peterson, KBRS's Program Manager in Iraq from November 2004 to
+1 April 2005, testified that although he did not have specific knowledge, KBRS
+subcontractors in Iraq had to be using PSCs because "[i]fthey were not using PSCs,
+I have no idea how they did their job. None -yvhatsoever. Because they couldn't have
+gone anywhere." Mr. Peterson further testified as to the availability of military
+protection for KBRS subcontractor convoys:
+
+              I myself, as the head [of LOGCAP] and a retired general
+              officer, would be on an installation and ask the young
+              lieutenant or captain who has got a convoy going to
+              Arifjan or somewhere if I could pile in. They said, "I don't
+
+
+                                           30
+             do contractors." I said, "I'm Craig Peterson. I'm in charge
+             of LOGCAP." They said, "I don't do contractors."
+
+                    Q. They didn't say, "Who?"
+
+                   A. No .... So, I mean, it -- ifl got kicked out of
+             convoys, then there is no doubt in my mind that subs did.
+
+(Findings 49, 50)
+
+        16. KBRS's principal subcontractor in Iraq was Eurest Support Services
+Worldwide (ESS), who installed and operated military dining facilities (DFACs) at
+specified sites throughout Iraq and concluded its operations in Iraq on 30 June 2006.
+ESS's operation manager from June 2003 to June 2006 was Steven Murray. Mr. Murray
+testified that ESS used PSCs for the entire period of its performance in Iraq to
+supplement military force protection:
+
+             [W]e pretty consistently used, from early '03 and all the
+             way through our departure in '06, PSD [private security
+             detachment] teams to move people and money and
+             equipment in and out of the country, because again, even
+             in '05 and '06, the [military] convoy system would not let
+             our NTVs [non-tactical vehicles] in the convoy. If you
+             disclosed you're carrying cash, you're not getting in the
+             convoy with cash, and it was a total cash economy the
+             whole time we were there .
+
+
+                    .. .It became extremely difficult to move things
+             between sites. We'd approach - we tried to use some
+             military force protection on the site, and I personally talked
+             to two or three commanders about this. We were told
+             pretty consistently that the military is not there to babysit
+             contractors.
+
+
+                    I had some people ... stuck on a southern site, and I
+             needed to move them to a northern site. [They were
+             included in a government convoy but] halfway through
+             Baghdad, they stopped our vehicle ... [S]aid they got a call
+             to go on a mission and they took off in another
+
+
+                                           31
+direction .... [W]e dispatched, enormous cost, ... a PSD team
+to go and pick them up .
+
+
+       ... Another occasion happened whereby we were
+moving equipment ... we had two or three large 500 kV
+generators ... at one site; we had to move them across
+Baghdad to another site. They [the government] agreed to
+move us .
+
+       ...Halfway there, they told our truck to pull over and
+wait. They had to leave, and they left. Never saw my
+truck again. It was just gone. The driver, .. .! don't know
+what happened to him. The truck was gone.
+
+        We learned our lesson very quick. We did ask,
+from time to time, and most times it was "We're not doing
+that. We can't do that. We're warfighters. Take care of
+yourselves." It's extremely difficult to move between
+sites, and it was a pretty regular need of ours to do that. ...
+
+        Money, people, sometimes food .... [We] only
+carried two or three days' worth of food [at each dining
+facility site]. So if you don't have a delivery coming in
+every third day, you're in trouble. You can't feed soldiers.
+That was unacceptable to us, as a caterer, and to our client,
+KBR. We could not fail.
+
+       So we had to move food, and the military would not
+touch it from intra-theater. They had bigger things to do
+than to move contractors.
+
+      Q: Did there ever come a time when you simply
+gave up on seeking force protection?
+
+       A. Honestly, no. It was in our interest. I mean this
+is a business, and if I didn't have to pay a PSD team, which
+were not cheap, and I could get it in a convoy, I'd rather
+use a convoy. It didn't always fit with our business
+unfortunately.
+
+
+                               32
+                    Either you didn't have the time to do it, or they
+              wouldn't do it. But always, even up until middle of June
+              of 2006, when we were leaving, we tried to use convoys as
+              much as we could. It's a cost saver for us. So but the
+              answer ts yes. We never gave up trying to do that.
+
+(Findings 51, 52)
+
+       17. Lack of force protection extended to static security as well as security
+for convoys. Mr. Murray testified that between January and June of 2006, as
+demobilization activities began, the military was either leaving or on their way out.
+Although it tried to secure military force protection, in several instances ESS was left
+to move people and assets out of installations that had been left completely open, and
+had to bring PSCs in to provide security for the compound while assets were taken
+down and loaded, and then used "our own guns to move those things across country."
+(Finding 53)
+
+       18. Most if not all of the subcontracts awarded by KBRS to perform LOGCAP
+III were awarded on a negotiated firm-fixed-price basis (finding 54). Asked if ESS
+made or lost money on its use of PSCs at the hearing, Mr. Murray testified that the
+use of PSCs was unequivocally a money-losing proposition. He explained that ESS
+proposed and negotiated a price based on an estimated use of PSCs, and that as the
+scope of work expanded and the security situation worsened, both the frequency of
+use and the cost per mission of PSCs increased far beyond the estimated amount, with
+the result that "[w]e incurred more costs than we charged [KBRS]." (Finding 54)
+
+        19. LTC Scott Sheridan succeeded LTC O'Day as commander of DCMA
+Northern Iraq in November 2004. On 22 April 2005 the award fee determination for
+KBRS's performance of TO 59 for the previous year was issued with a rating of
+'·excellent" and specific note of the challenging circumstances under which that
+rating was earned, including "attacks on and hijacking of your convoys" and
+"lack of force protection to escort convoys with needed materials." LTC Sheridan
+briefed the award fee determination the next day, underscoring the same two special
+considerations-"[o]perating in a non-permissive environment" and "[a]vailability of
+escorts." (Findings 43-45)
+
+       20. KBRS's initial policy in Iraq was not to use private security to perform the
+contract because force protection was supposed to be provided by the Army (finding 46).
+However, KBRS senior managers did begin to use private security to be able to move
+around from location to location, and this was known in 2004 to both the Rock Island
+PCO (Mary Beth Watkins) and the DCMA Iraq commander, COL Ainsworth Mills, who
+expressed the opinion at the time that the PSC costs would not be allowable on the
+
+
+                                           33
+contract (finding 4 7). The record contains no evidence that the government, including
+the PCO, did anything to stop KBRS from using PSCs (finding 48).
+
+        21. The record also shows that the government was aware that KBRS
+subcontractors were using PSCs to move convoys and did not object. The KBRS
+coordinator for all subcontractor movements from Kuwait into Iraq from mid-July
+2003 until some point in 2005 was Ms. Leslie Smith, who testified that while the
+primary method of movement was a military escorted convoy, the Army Movement
+Control Battalion (MCB) routinely received and granted requests to move with private
+security. These requests were made expressly and in writing on the KBRS MP Escort
+Allocation Request submitted daily to the MCB. In addition, Ms. Smith on 24 March
+2004 sent a memorandum to MAJ Grady Sessoms, the designated point of contact at
+the MCB, stating in part that "Private security is allowed. Iraqi security escorts wait in
+Iraq to hook up with their convoy." On no occasion did MAJ Sessoms or anyone else
+at MCB respond that private security was not allowed. (Findings 57, 58) Moreover,
+on I 0 June 2005 a DCMA administrative contracting officer consented to the award of
+a food services subcontract with an express pricing justification in the consent
+documents referring to the expected use of PSCs to help transport maintenance
+personnel to their respective sites (finding 60).
+
+      22. The government offered five statements of additional material facts
+(GSAMF), for the purpose of demonstrating disputes of material fact preventing the grant
+of summary judgment on either Count II or Count VI. They are as follows.
+
+                      I. In February 2006, Kristan Mendoza, the acting
+              chief of the Army's LOGCAP Contracting Branch at Rock
+              Island Arsenal Illinois, wrote to Mary Wade, KBR's
+              LOGCAP contract manager in Houston, Texas, about a
+              report that a KBR Tier I LOGCAP III subcontractor had
+              accidentally discharged a handgun. Ms. Mendoza asked
+              Ms. Wade, among other things, "what measures are being
+              taken to ensure that contractor or subcontractor personnel
+              do not possess firearms in the AO [area of operations]."
+              The following day, Ms. Wade advised Ms. Mendoza,
+              among other things, that "[t]he subcontractor terms and
+              conditions state weapons are not allowed on the project,"
+              and that KBR's "policy is that no LOGCAP or
+              subcontractor employees are allowed to carry weapons."
+
+                    2. In July 2006, Sylvia Youngman, the chief of the
+              Army's LOGCAP Contracting Branch at Rock Island,
+              emailed Philip Wagner, a KBR contract administrator,
+              seeking comments on proposed responses by the Army to
+
+
+                                           34
+             questions posed by Representative Henry Waxman
+             about the LOGCAP III contract. Ms. Youngman proposed
+             to tell Representative Waxman that KBR "has advised the
+             Army that it has never directly hired a private security
+             contractor in support of the execution of a statement of
+             work under any LOGCAP III Task Order" and that "KBR is
+             presently unaware of any payments to subcontractors which
+             include[ d] charges for private security costs, but [KBR]
+             continues to look into this,'' When Ms. Youngman' s
+             proposed responses were circulated within KBR,
+             Chris Heinrich, a KBR legal official, commented internally,
+             "These answers look to be appropriate."
+
+                    3. Also in July 2006, William Walter, a senior vice
+             president of the appellant, who had been the appellant's
+             Director of Government Compliance from 2003 to 2005,
+             prepared a declaration for filing in Smith v. Halliburton
+             Co., No. H-06-0462 (S.D. Tex.), a tort action against the
+             appellant and its parent company. In a draft declaration,
+             Mr. Walter stated that "under the LOGCAP Contract
+             [No. DAAA09-02-D-0007] and Task Order 59, KBRSI
+             had no obligation to provide, and in fact was prohibited
+             from providing, force protection for its employees at
+             [Forward Operating Base] Marez [in Iraq], including
+             security of any kind to protect KB RSI personnel in the
+             Dining Facility ... [from] a suicide bomber."
+
+                     4. "In response to Congressional inquiries about the
+             use of PS Cs by KBRS and its subcontractors ... ,
+             Ms. Mendoza on 31 January 2007 obtained documentation
+             from [KBR subcontractor Eurest Support Services (ESS)]
+             that in March 2005, 'Security' was 12.55% of 'our labor
+             pricing in our subcontracts[.]'"
+
+                    5. In February 2007, George Seagle, an executive of
+             the appellant, testified before the House Government
+             Reform Committee. In response to questions from
+             Representative Waxman, Mr. Seagle testified that KBR had
+             "never directly subcontracted for armed security under the
+             LOGCAP contract" and had not "required or directed any of
+             our subcontractors to subcontract for security either."
+
+(Gov't opp'n at 2-3)
+
+
+                                          35
+                                      DECISION
+
+        The government has made a number of different arguments with respect to
+Count II of KBRS's FACC. The vast majority of these were made in connection with
+the government's motion to dismiss and have been dealt with above. In its briefing,
+the only two arguments the government makes specifically in opposition to KBRS's
+motion for summary judgment are that ( 1) whether a breach is material is not a
+determination appropriate for summary judgment, and (2) we must deny summary
+judgment on Count II because there is a genuine dispute of material fact with respect
+to the materiality of the Army's breach (gov't opp'n at 11-12). For the latter, the
+government offers the following: ( 1) KBRS did not believe at the time it submitted its
+claims in three of these appeals that the contract obligated the Army to protect KBRS
+subcontractors, meaning that KBRS entered into the LOGCAP contract "with no
+expectation of force protection for its subcontractors;" and (2) senior management of
+KBRS in 2006-2007 told the government that KBR did not allow either KBR or
+subcontractor personnel to carry weapons, meaning that KBR senior management, at
+least, did not think that the need for security was so great that the failures in force
+protection by the Army amounted to a total or material breach. (Id. at 12)
+
+        We address first the government's contention that whether a breach is material
+is not an issue that should be decided summarily. The government relies on two
+Federal Circuit cases to support this argument. The first is Stone Forest Industries,
+Inc. v. United States, 973 F .2d 1548 (Fed. Cir. 1992). Stone Forest is cited for the
+following proposition:
+
+                     Not every departure from the literal terms of a
+              contract is sufficient to be deemed a material breach of a
+              contract requirement, thereby allowing the nonbreaching
+              party to cease its performance and seek appropriate
+              remedy. The standard of materiality for the purposes of
+              deciding whether a contract was breached "is necessarily
+              imprecise and flexible." Restatement (Second) of
+              Contracts § 241 cmt. a (1981 ).... The determination
+              depends on the nature and effect of the violation in light of
+              how the particular contract was viewed, bargained for,
+              entered into, and performed by the parties.
+
+Id. at 1550-51. In Stone Forest, the Federal Circuit reversed the U.S. Claims Court
+and found that the government's denial of access to 15.89 percent of the timber
+originally contracted for was a material breach. Id. at 1552.
+
+       The second case relied on by the government is Beta Systems, Inc. v. United States,
+838 F .2d 1179 (Fed. Cir. 1988), cited for the proposition that questions of contract
+
+
+                                           36
+interpretation requiring the weighing of extrinsic evidence are not amenable to summary
+resolution. We think the government's reliance on this decision is misplaced. In Beta
+Systems, as in most cases where a court or board is called upon to decide motions for
+summary judgment, there had been no trial on the merits. In this case, there was an
+extensive hearing on the merits and testimony from numerous government and contractor
+witnesses bearing on how the LOGCAP contract and task orders were viewed, bargained
+for, entered into, and performed by the parties, as well as detailed factual findings made
+by the Board on the basis of that record. Any judgment rendered on this record is not
+truly "summary." At oral argument the government appeared to back off the position
+taken in its briefs, agreeing that the Board's original findings plus the government's
+additional material facts were a sufficient basis for the Board to rule on the motion for
+summary judgment (tr. 59).
+
+        Next, we turn to the government's argument that KBRS's claims underlying
+ASBCA Nos. 56358, 57151, and 57327 show that KBRS had no expectation under the
+contract that the Army would provide force protection to any of its subcontractors,
+precluding summary judgment at least with respect to the subcontractor PSC costs at
+issue (gov't opp'n at 12). For this proposition, the government cites to KBRS's certified
+claims of 22 October 2007 (ex. G-1) and 16 June 2010 (ex. G-3) for sums withheld by
+the Army to recover allegedly unallowable PSC costs incurred by its subcontractors. It
+is true that in these claims, KBRS argued that the contract required the Army to provide
+force protection to KBRS employees but did not require the Army to provide force
+protection to subcontractor employees (ex. G-1at10-12, ex. G-3 at 13-15). However,
+these arguments must be viewed in context. KBRS presented this argument as one of
+many reasons why the Army's disallowance of subcontractor PSC costs under
+Clause H-16 was improper: if the contract did not obligate the Army to provide force
+protection to subcontractors, then it could not be reasonably read to prevent those same
+subcontractors from providing for their own force protection, when the Army did not
+provide it, and billing the cost of same as a reasonable cost of contract performance.
+
+       The undisputed facts show that at the time the contract was being performed,
+both KBRS and government personnel believed the government was obligated
+under the contract to provide force protection to both KBRS and its subcontractors
+(see SOF ii 4 (KBRS warned the Rock Island PCO on 27 June 2003 that failure to
+provide force protection adequate to the threat in accordance with the LOGCAP III
+contract would mean that KBR and subcontractor vehicle convoys would have to
+be delayed, adversely affecting timely delivery of food service support); SOF ii 7
+(the commander of DCMA in Kuwait expressed concern in November 2003 that the
+government would be unable to meet its contractual obligation to provide security
+and protection for KBRS convoys); SOF ii 9 (KBRS manager sent a message in
+February 2004 to the troop unit responsible for force protection, saying that "the
+military has failed to comply with providing escort requirements" and citing ( 1) the
+abandonment of a subcontractor convoy while en route and (2) the assembly of a
+
+
+                                          37
+subcontractor convoy of 10 trucks loaded and ready to go only to be told no military
+escort was available and might not be available for weeks); SOF ii 11 (the DCMA
+ACO for TO 59 stated to the commander of DCMA Northern Iraq in April 2004 that
+"[a]ll indications are that the government has failed to live up to its contractual
+obligation to provide Force Protection ... to the [TO 59] convoys .... Given that, KBR is
+currently not required to run most (if any) convoy routes.")). The government has
+cited to no statement by either KBRS or the government contemporaneous with
+contract performance that would support the assertion that KBRS "viewed, bargained
+for, entered into, and performed'' the LOGCAP III contract "with no expectation of
+force protection for its subcontractors." Therefore, its argument that the Army's
+failures to provide force protection to KBRS subcontractors was not a material breach,
+because there was no expectation that force protection would be provided, i~
+unpersuasive.
+
+        Finally, the government asserts that there is a dispute of material fact with
+respect to how important government force protection was to KBR itself, given "[t]he
+persistence of KBR's official no-weapons policy throughout the claim period"
+(gov't opp'n at 12). For this, the government cites to GSAMF paragraphs 1, 2, and 5.
+GSAMF 1 deals only with employee possession of private weapons, which KBRS did
+prohibit, but not with PSCs, which is how KBRS provided security to its employees in
+Iraq when military force protection was not available. GSAMFs 2 and 5 both deal
+with accurate statements by KBRS officials that KBRS did not hire a PSC directly in
+support of LOGCAP III. The cost of PSCs hired to protect top KBR officials traveling
+in the Middle East was incurred by a KBRS office servicing a number of KBRS
+contracts in the Middle East, including LOGCAP III, and was allocated to those
+contracts as an indirect cost. KBRS, 14-1 BCA ii 35,639 at 174,514. The government
+has failed to raise any genuine issue of material fact regarding the importance of force
+protection to KBRS under LOGCAP III.
+
+       The undisputed facts establish that the government committed the first material
+breach under the contract. The invasion and occupation of Iraq occurred in
+March 2003. Attacks on convoys began in June 2003, and by 27 June 2003 KBRS
+was already warning that the government was not providing force protection in
+accordance with its contractual obligation. (SOF iii! 3-4) MG Speakes, the deputy
+commander of Coalition land forces in Iraq, quickly assessed that increased force
+protection was necessary and requested that the commander at Rock Island have
+the LOGCAP III contract amended to allow for use of private security for
+convoys moving materiel in Iraq. However, that never happened. (SOF iii! 4-6) In
+November 2003, the commander ofDCMA in Kuwait warned that the government
+was "faced with an unexecutable task" to provide force protection to convoys in
+accordance with applicable standards (SOF ii 7). In response to a KBRS message in
+February 2004 that neither it nor its subcontractors were receiving the promised
+protection, the responsible military unit replied that "these combat units were sent here
+
+
+                                           38
+to fight the war, not do escorts for KBR ONLY" (SOF ii 9). The DCMA ACO stated
+in April 2004 in no uncertain terms that the government had failed to live up to its
+contractual obligation to provide force protection to the convoys (SOF ii 11 ). Several
+witnesses testified that by spring and summer of 2004 it was evident that the force on
+the ground was insufficient to accomplish military missions and provide security for
+contractors. The need for PSCs to supplement Coalition and Iraqi forces to provide
+security to contractors was widely recognized (SOF iii! 12-14).
+
+         The government does not seriously dispute that it was obligated under the
+LOGCAP III contract to provide force protection to KBRS and its subcontractors
+equivalent to that provided to DoD civilians, and obligated under TOs 59 and 89 to
+provide them with force protection commensurate with the threat. Indeed, it would be
+unconscionable to take the position that the contract prohibited KBRS and its
+subcontractors from providing for their own protection, while performing in a war
+zone, without otherwise providing for their security. Yet, despite the many and
+continuing failures of the government to provide the promised level of force protection
+to KBRS and its subcontractors summarized above, the government seeks to disallow
+the PSC costs incurred by KBRS and its subcontractors in order to accomplish their
+mission under the LOGCAP contract despite the government's breach, and argues
+that its breach was not material. It is hard to imagine a contract breach more material
+than this one, which eviscerated the promise at the heart of the justification for the
+government's claim. The government's breach was material.
+
+        One of the grounds for the government's motion to dismiss Count II is that
+KBRS waived the material breach by continuing to perform the contract. We
+previously rejected this argument as a basis for dismissing Count II for failure to state
+a claim for relief, stating that the record in these appeals amply demonstrated that
+KBRS and its subcontractors made a commercially reasonable decision to continue to
+perform the contract with PSC protection rather than abandon performance in response
+to the government's breach, and citing the decision of the Court of Claims finding
+that continued performance did not waive the government's material breach in
+Northern He/ex, 197 Ct. Cl. 118, 129. We also found that this case presents the same
+sort of "special aspect" present in Northern He/ex, i.e., that the contractor's continued
+performance was consistent with the purpose of the contract and in the national
+interest. It is unclear to us whether the government also asserts this ground in
+opposition to summary judgment, but to the extent that it does, we hold that KBRS and
+its subcontractors did not waive the government's prior material breach by continuing
+to perform.
+
+       What remains is the question of the appropriate remedy for the government's
+material breach. KBRS has raised prior material breach as a defense to the
+government's claim of breach embodied in its claim for unallowable costs. Our
+appellate precedent recognizes that a party may defend a claim of breach on the
+
+
+                                           39
+ground that a legal excuse for its nonperformance existed at the time of the alleged
+breach. Long Island Savings Bank, 503 F.3d at 1251 (plaintiffs' claim for damages
+precluded by their prior breach-submitting a false certification). In Laguna, 828 F.3d
+at 1372-73, the Federal Circuit affirmed this Board's grant of summary judgment to
+the government, holding that a contractor's claim for unpaid costs of performing an
+environmental remediation and construction contract in Iraq was precluded by the
+contractor's prior material breach-violation of the contract's Allowable Cost &
+Payment clause.
+
+        In these appeals, the government has claimed and withheld from payment to
+KBRS the amounts it believes it previously paid in unallowable PSC costs. The basis
+for the government's claim of unallowability is that the costs were incurred in
+violation of the contract's prohibition against the use of PSCs. Because the record in
+these appeals establishes that the claimed PSC costs were reasonable in amount and
+were incurred only when necessitated by the government's failure to provide the
+contractually promised level of force protection to KBRS and its subcontractors, the
+government's prior material breach operates to excuse any subsequent noncompliance
+with the contract's PSC prohibition. Thus, the government's claims for unallowable
+PSC costs are precluded in their entirety and we grant summary judgment for KBRS
+on Count II of its FACC.
+
+                                   CONCLUSION
+
+       The government's motion to dismiss is granted as to Counts I, V, and X, and
+those affirmative defenses are stricken from KBRS's FACC. The motion to dismiss is
+denied as to Counts II, III, IV, VI, VII, and VIII. We grant summary judgment to the
+government on Count IX. The government's motion is denied without prejudice as to
+Count XI, and granted as to Count XII.
+
+        We grant KBRS's motion for summary judgment on Count II of its FACC.
+Having done so, we deem it unnecessary to decide whether KBRS is also entitled to
+summary judgment on Count VI of its F ACC. The consolidated appeals are sustained
+in the amount of $44,059,024.49, with Contract Disputes Act interest as follows: on
+$19,652,815 from 22 October 2007, on $21, 131,743 from 20 October 2009, and on
+$3,274,466.49 from 16 June 2010.
+
+      Dated: 8 June 2017
+
+                                                                                         ---
+(Signatures continued)
+
+
+                                          40
+ I concur
+
+
+ RICHARD SHACKLEFORD                              OWEN C. WILSON
+ Administrative Judge                             Administrative Judge
+ Acting Chairman                                  Acting Vice Chairman
+ Armed Services Board                             Armed Services Board
+ of Contract Appeals                              of Contract Appeals
+
+
+       I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA Nos. 56358, 57151, 57327,
+58583, Appeals of Kellogg Brown & Root Services, Inc., rendered in conformance
+with the.Board's Charter.
+
+       Dated:
+
+
+                                                  JEFFREY D. GARDIN
+                                                  Recorder, Armed Services
+                                                  Board of Contract Appeals
+
+
+                                           41

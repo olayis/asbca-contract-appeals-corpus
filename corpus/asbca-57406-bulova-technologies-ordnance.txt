@@ -1,0 +1,797 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeal of--                                      )
+                                                 )
+Bulova Technologies Ordnance Systems LLC         )   ASBCA No. 57406
+                                                 )
+Under Contract No. W91CRB-09-C-0014              )
+
+APPEARANCES FOR THE APPELLANT:                       Eric R. Pellenbarg, Esq.
+                                                      Phelps Dunbar LLP
+                                                      Tampa, FL
+
+                                                     Craig Schnee, Esq.
+                                                      General Counsel
+
+APPEARANCES FOR THE GOVERNMENT:                      Raymond M. Saunders, Esq.
+                                                      Army Chief Trial Attorney
+                                                     MAJ Samuel E. Gregory, JA
+                                                      Trial Attorney
+
+                  OPINION BY ADMINISTRATIVE JUDGE GRANT
+
+       Appellant Bulova Technologies Ordnance Systems LLC (Bulova) appeals the
+government's decision to terminate its contract for default. The government contends the
+termination for default was justified because Bulova failed to make timely deliveries
+under the contract, and anticipatorily repudiated the contract. Bulova asserts that it was
+not in default and did not repudiate the contract, and that therefore the termination should
+be converted to a termination for convenience. We have jurisdiction under the Contract
+Disputes Act of 1978, 41 U.S.C. §§ 7101-7109. For the reasons stated below, the appeal
+is denied in part and sustained in part.
+
+                                  FINDINGS OF FACT
+
+The Contract
+
+       1. On 13 January 2009, the U.S. Army Research, Development and Engineering
+Command awarded Contract No. W91 CRB-09-C-00 14 to Bulova. The firm fixed-priced
+contract contained five contract line item numbers (CLINs) and 21 sub-CLINs for
+delivery of various types and quantities of weapons, as foreign military sales (FMS) to
+the government of Iraq. As awarded, the contract was valued at $30,213,134. 1 (Gov't
+Proposed Findings of Fact (PFF) 1; app. br. at 3) This contract supported two FMS
+"cases" (tr. 11163). Delivery was FOB destination with the contract specifying delivery
+under CLINs 0001-0004 to the Iraqi Ministry of Defense (the army), Taji National Depot
+Central Receiving, Taji, Iraq; and CLIN 0005 to the Iraq Ministry of Interior (the police),
+Baghdad Police College, Baghdad, Iraq (PFF 2; app. br. at 3; tr. 11275).
+
+        2. The contract set the delivery date for each sub-CLIN as a certain number of days
+after receipt of an End Use Certificate (EUC) (R4, tab 1 at 16-20; tr. 1/107-08). An EUC
+is a document created by an importing country and supplied to the exporting country to
+confirm that the materials listed on the EUC- weapons in this case- are for the use of the
+importing country and that the importing country will not resell them or re-issue them to
+another country (tr. 1/161). The EUC thus facilitates the supplier getting an export license
+from the country supplying the weapons (tr. 1126,29, 102,276-77, 332). The U.S.
+government, through the U.S. Army Security Assistance Command (USASAC), was
+responsible for obtaining EUCs from the Iraqi authorities; the U.S. government security
+assistance office in Iraq would then send the EUCs to the contracting officer (CO), who
+would then send them to the respective exporting manufacturers (tr. 1136, 159). 2 The
+USASAC representative acted as the CO's representative (COR) on the contract
+(tr. 11162).
+
+       3. This dispute concerns three different weapons and related parts from three
+different subcontractors, in three different countries:
+
+       -- PSL sniper rifles with scope/parts (from Romania, subcontractor RomArm):
+
+              •   CLIN 0004AF for 30 rifles with scope (all due 90 days "after EUC").
+
+              •   CLIN 0004AJ for 30 spotter scopes for the PSL rifles (all due 90 days
+                  "after EUC").
+
+              •   CLIN 0005AB for 3,134 rifles with scope (970 rifles due 90 days "after
+                  EUC" and 2,164 rifles for delivery 210 days "after EUC").
+
+(R4, tab 1 at 11-12, 14, 19-20)
+
+
+1
+  The contract value was reduced to $26,794,334 on 26 February 2009 due to the
+       termination for convenience of CLIN 0005AC for 500 82mm mortars, unrelated to
+       the other requirements and not at issue here (R4, tab 2 at 1, 2; tr. 11116, 118, 308).
+2
+  There is conflicting evidence as to whether the process was for the EUCs to be sent by
+       the CO to the exporting country (tr. 11203), the exporting country subcontractors
+       (app. supp. R4, tab F; tr. 11291), or the prime contractor (tr. 1136), but resolving
+       this conflict is not essential in resolving this dispute.
+
+                                              2
+       -- NSV heavy machine guns with mounts/parts (from Serbia, subcontractor
+          Yugoimport3), all due 270 days "after EUC":
+
+              •   CLIN 0001AA for 15 heavy machine guns.
+
+              •   CLIN 0002AA for 26 heavy machine guns.
+
+              •   CLIN 0003AA for 26 heavy machine guns.
+
+              •   CLIN 0004AC for 27 heavy machine guns.
+
+(R4, tab 1 at 1-2, 4, 6, 9, 16-19)
+
+       -- PKM medium machine guns with mounts/parts (from Bulgaria, subcontractor
+          Arsenal):
+
+              •   CLINs 0001AC-0003AC; 0004AE for a total of220 medium machine
+                  guns (due 60 days "after EUC").
+
+              •   CLIN 0005AA for 9,000 medium machine guns (due in specified
+                  increments, with delivery due dates from 60-360 days "after EUC").
+
+(R4, tab 1 at 3, 5, 7, 10, 13, 16-20) These weapons were unrelated to each other, and
+were distinct, stand-alone products (tr. 11116). The parties have clarified that the other
+weapons covered by the contract (light machine guns, mortars, and launchers) 4 were
+delivered and paid for and that there is no dispute as to contract performance of these
+specific items (gov't letter dated 18 December 2013; app. letter dated 19 December
+2013).
+
+       4. The solicitation for these requirements originally had fixed delivery dates, but
+at Bulova's request in its proposal, the dates were changed to be a designated period of
+time after receipt of the EUC. This would reduce Bulova's performance risk by not
+making Bulova responsible for any delays the government might encounter in getting the
+EUCs. (Tr. 1/277-79, 288-89)
+
+      5. On 26 February 2009, the government issued unilateral Modification No. P00001
+(Mod. 1) to the contract, adding FAR clause 52.232-32, PERFORMANCE-BASED PAYMENTS
+(JAN 2008), a milestone schedule, and deleting CLIN 0005AC for 82mm mortars (R4, tab 2).
+
+3
+  The subcontractor (in-country distributor) was Yugoimport; the actual manufacturer
+       was Zastava Arms (R4, tab 1 at 15, tab 127 at 3).
+4
+  Light machine guns, CLINs 0001AB, 0002AB, 0003AB, 0004AD; mortars, mortar
+       bases/bipods, and sight units, CLINs 0004AA, 0004AB, 0004AH; launchers,
+       CLIN 0004AG (R4, tab 1 at 3, 5, 7-12).
+
+                                             3
+The Performance-Based Payments clause and milestone schedule were added at Bulova's
+request (R4, tab 11). The first milestone for each item was linked to receipt by the
+government of copies ofBulova's subcontracts; the second was linked to receipt of
+acceptable government inspection reports for various shipment increments/sub-CLINs (R4,
+tab 2 at 8-9). Bulova submitted various invoices for performance-based payments over the
+life of the contract, resulting in total payment of approximately $23.6 million (PFF 4; app. br.
+at 4).
+
+       6. The contract contained FAR clause 52.249-8, DEFAULT (FIXED-PRICE SUPPLY AND
+SERVICE) (APR 1984). This clause stated, among other things, that the government could
+terminate the contract for default "in whole or in part if the Contractor fails to- (i) Deliver the
+supplies ... within the time specified" in the contract, or fails (after notice and opportunity to
+cure) to make progress so as to endanger performance of the contract. FAR 52.249-8(a)(1).
+(R4, tab 1 at 48) The contract also contained FAR clause 52.233-1, DISPUTES (JUL 2002).
+This clause stated, among other things, that the contractor "shall proceed diligently with
+performance of this contract, pending final resolution of any request for relief, claim, appeal,
+or action arising under the contract.. .. " FAR 52.233-1(i). (R4, tab 1 at 47)
+
+Initial Issues with the EUCs
+
+       7. On 12 February 2009, augmenting what Bulova had included earlier in its
+proposal, Bulova provided the government with templates for the EUCs to be used for
+Bulgaria, Romania, and Serbia. These templates were prepared based on information
+obtained from the manufacturers in those countries. 5 The templates for both Romania
+                                                                             6
+and Serbia specified, among other things, signature and seal or raised stamp. (App.
+supp. R4, tabs A, B, C; tr. 11285, 288)
+
+        8. Apparently having heard nothing from the government for two months with
+regard to the EUCs, Bulova asked the government on 14 April 2009 for an update as to
+their status. Bulova explained that once acceptable EUCs were received, it could take
+about 30 days to obtain the necessary export licenses. (App. supp. R4, tab D)
+
+       9. On 20 May 2009, the CO notified Bulova that she had the EUCs (R4, tabs 34-38).
+She shipped the EUCs to Yugoimport (Serbia) and Arsenal (Bulgaria) on 22 May 2009,
+providing tracking numbers for those locations (R4, tab 39). RomArm apparently received
+its EUC on 24 July 2009 (R4, tabs 46, 48). The EUCs did not conform to the format Bulova
+had provided (tr. 11111, 118, 199-201,291-93, 300-01, 304).
+
+
+5
+  There is no copy of the EUC template for Bulgaria in the record; however, documentation
+       shows it was being forwarded at the same time and this issue is not contested (app.
+       supp. R4, tabs B, C).
+6
+  The terms "seal" and "stamp" are used synonymously (tr. 11335).
+
+                                              4
+        10. Right.away, both Serbia and Bulgaria had issues with the EUC format. Serbia
+found its EUC unacceptable because it did not have a seal and a date; Bulova advised the
+CO of this on 5 June 2009 (app. supp. R4, tab G). With regard to Bulgaria, Arsenal noted
+that the wrong official had signed (Iraqi Minister of Defense instead of Iraqi Minister of the
+Interior); Bulova advised the CO of this on 9 June 2009 (R4, tab 230, dep. ex. 4; app. supp.
+R4, tab Fat 4). The Bulgaria EUC was also missing a date and seal (tr. 11292-93). The
+EUC for Romania also was missing a date and seal, but at this point neither party had
+received objections from either Romania or RomArm (see finding 16). Bulova decided to
+"lay low" with regard to the Romania EUC, primarily because of the need to focus first on
+the other contract items (tr. 1/301-03, 2/l3).
+
+       11. As to the defective EUCs, Bulova thought it made more sense to try to work
+the EUC problems with the countries in question to avoid the delays likely in getting the
+EUCs re-issued by Iraq. Bulova advised the CO who did not voice any objections to this
+approach. (App. supp. R4, tab L; R4, tab 44; tr. 11293-97, 301-03) .With regard to
+Bulgaria, Bulova asked for help from the U.S. Embassy in Bulgaria on 18 June 2009.
+That same day, Bulova and the government representatives were informed by the point of
+contact at the U.S. Embassy that "everything should be fine with this EUC as long as it is
+accompanied by a memo from the US Embassy." However, Bulova was told there was
+no "100% assurance," and was instructed for the future to "attempt to ensure your EUC
+has the proper seals and signatures." (R4, tabs 44, 197) With regard to the Serbia EUC,
+the record is conflicting as to whether Bulova had returned it to the U.S. government in
+June 2009 or not (R4, tab 100 at 2, tab 198 at 2; complaint and answer~ 12; app. supp.
+R4, tab 0).
+
+        12. On 30 July 2009, the CO provided an authentication letter to help validate the
+three EUCs. This authentication letter was addressed "To Whom It May Concern" and
+was not specific to the country, weapon, or manufacturer. Apparently the letter went to
+Serbia as well as Bulgaria (R4, tab 53; tr. 2/20-21, 51). Shipments of some contract items
+were made in August-September 2009 time frame from Bulgaria (tr. 11299, 2/41, 50; R4,
+tab 91).
+
+       13. Problems continued with the EUCs into the fall of2009. With regard to
+Bulgaria, on 19 October 2009, as part of an updated delivery schedule, Bulova advised
+the government that Bulgaria was still awaiting a correct EUC (R4, tab 61 at 3). With
+regard to Serbia, Yugoimport advised Bulova on 21 October 2009 that the weapons
+would soon be ready to ship, but there was still no corrected EUC as required (app. supp.
+R4, tab 0). Bulova notified the government (USASAC and the CO) on 22 October 2009
+that Serbia would not accept the EUC despite authentication, and asked if the EUC
+should be returned (R4, tab 58 at 22).
+
+       14. The USASAC representative replied, copying the CO, that "if the exporting
+countries will not accept [the EUCs] please formally notify the Contracting Officer." She
+
+
+                                             5
+explained that she would like to address all three EUCs at the same time. (R4, tab 58
+at 16, 18, 22) Her reply did not state that she required a formal rejection by the foreign
+government and return of the defective EUC. In her testimony at trial, the USASAC
+representative stated she repeatedly asked for EUCs to be returned (tr. 1/174, 178, 182),
+but the documents do not support this recollection. Additionally, Bulova representatives
+testified they were never asked for return of any EUC in 2009 (tr. 1/303, 2/13, 27-28,
+135-36). In early November 2009, Bulova again advised the government of problems
+with the Serbia EUC in a status report, noting that Yugoimport could not process the
+EUC because it was not signed and dated, and adding that "we are attempting to finesse
+through US Embassy" (R4, tab 203 at 4-5). The government quality assurance
+representative also inspected some NSV heavy machine guns in December 2009 and
+noted that a valid Serbia EUC was still needed for those shipments (R4, tab 130 at 2;
+tr. 11246).
+
+        15. Also in the fall of2009, and unrelated to the EUC issue, Bulova submitted a
+request for equitable adjustment (REA) for $82,824, due to "Force Majeure," in
+particular, unexpected landing fees at Baghdad International Airport (BIA). Bulova
+explained that the U.S. government had turned over control ofBIA to the Iraqi authorities
+in August 2009, who in tum gave a contract toRUS Aviation to run the airport. RUS
+Aviation imposed a $10,000 security fee when landing a flight, for which Bulova wanted
+payment. (R4, tab 58 at 1, 3, tab 77) The government denied Bulova's REA on
+15 January 2010, stating that the U.S. government's action was a sovereign act which
+would not warrant compensation (R4, tab 66). Bulova disagreed with this view,
+considering the airport turnover to be a contractual act by the U.S. government (R4,
+tab 68).
+
+       16. Apparently Bulova first heard from RomArm officials of the unacceptability
+of the Romania EUC in January 2010, at an international weapons show in Las Vegas,
+Nevada, when Bulova and RomArm officials met to discuss the subcontract. Bulova
+reported this to the CO on 25 January 2010. (R4, tab 67; tr. 2/19, 128-29) On 2 March
+2010, Bulova again reported an EUC issue with Romania, noting that the EUC needed
+authentication (R4, tab 77 at 2). Also on 2 March 2010, Bulova reported that
+Yugoimport was asking for an authentication letter in an effort to try to get Serbia to
+accept that EUC (R4, tab 77 at 1, 3).
+
+       17. By the spring of 2010, the status of production and payment of the weapons
+was as follows:
+
+      -- NSV heavy machine guns from Serbia:
+
+             All 94 had been manufactured (by 8 December 2009);
+             awaiting payment from Bulova and a valid EUC (R4,
+             tab 130).
+
+
+                                            6
+       -- PSL sniper rifles from Romania:
+
+             Raw materials and tooling bought as of April 201 0; no
+             production started. Awaiting payment from Bulova and EUC
+             authentication. (Tr. 11243; R4, tab 77 at 2)
+
+       -- PKM medium machine guns from Bulgaria:
+
+             As of early March, 4,500 still to be delivered; 3,000
+             manufactured but not shipped (R4, tab 67 at 2, tab 78 at 2).
+             EUC still an issue (R4, tab 82).
+
+Cure Notices and EUC Authentication/Reissuance
+
+        18. Resolution of the EUC issue appeared promising in late March 2010, when
+Bulova advised the CO on 26 March 20 10 that all three countries had indicated they
+would accept the EUCs if the CO sent a letter documenting their authenticity (R4, tab 90
+at 2). However, on the same day, the CO issued a cure notice to Bulova indicating that
+weapons from all three countries were late, based on an EUC-receipt date of 22 May
+2009. The CO took the position that the EUCs were valid despite the omissions because
+of successful deliveries from Bulgaria in September 2009, and because Bulova had never
+returned to the CO any defective EUCs with a letter from the government in question
+rejecting them. Among other things, the CO asked Bulova to explain what steps it would
+take to deliver the weapons and state when delivery would be made. (R4, tab 91) Bulova
+representatives testified this was the first time return of the EUCs was mentioned
+(tr. 2/53, 135-36).
+
+       19. Bulova responded to the cure notice on 9 April 2010, stating that performance
+was not due because delivery dates were triggered by receipt of acceptable EUCs, which
+the government had not yet provided. Bulova explained that successful shipments from
+Bulgaria in September were a "fortunate anomaly," the one-time occurrence of which
+was independent from the validity of the three EUCs for the three countries involved.
+Bulova outlined its continued efforts to work with its suppliers, and asserted it was not
+responsible for the government's failure to provide acceptable EUCs, either initially or
+after Bulova's later request. (R4, tab 100)
+
+        20. The government considered the response to the cure notice to be inadequate,
+and issued a second cure notice on 26 April 2010. The CO asked for specific dates as to
+when the weapons would be shipped. Also, specific information was requested for each
+of the three countries: For Bulgaria, Bulova was asked to confirm that it had secured a
+loan to facilitate shipment; for Romania, Bulova was asked to confirm that shipment
+would occur once Romania received a letter of authentication; and for Serbia, Bulova was
+
+
+                                            7
+asked to confirm that Serbia rejected the EUC and Bulova would be returning it to the
+CO. (R4, tab 107) On 27 April2010, the CO asked Bulova to get a letter from the
+Serbian government formally rejecting the EUC, as Bulova's representations to that
+effect would not suffice (app. supp. R4, tabU).
+
+       21. Bulova provided an initial response to the second cure notice on 27 April
+2010. Bulova reported that the return of the Serbia-rejected EUC was delayed due to the
+volcanic ash issue that cancelled thousands of flights from Europe, but the EUC had been
+shipped via overnight delivery several days earlier (issues with the correct address were
+noted). Bulova also stated that Bulgaria and Romania were still asking for EUC
+authentication letters. (R4, tab 109) On 4 May 2010, Bulova provided the CO with the
+Serbian letter rejecting the EUC and the translation by Yugoimport (app. supp. R4,
+tab W; R4, tab 116).
+
+        22. On 27 April 2010, the CO provided a letter of authentication for the Romania
+EUC (R4, tabs 111, 112); apparently one was also provided for Bulgaria (R4, tabs 123,
+124; tr. 1142-43). On 19 May 2010, Bulova advised the CO that both countries gave a
+"green light" to export the weapons based on the authentication letters (R4, tab 124); we
+find that this date ( 19 May 201 0) constitutes receipt of an acceptable EUC for those two
+countries. As to Serbia, the U.S. government reported on 10 June 2010 that Iraq had
+signed, dated, and stamped the EUC for Serbia (R4, tab 135); USASAC received it by
+21 June 2010 (R4, tab 152 at 2). On 14 July 2010, Bulova reported that they had
+received the EUC and sent it to Yugoimport but that it was still in transit (R4, tab 152).
+Although it is not clear when either Serbia or Yugoimport received it, we find 14 July
+201 Qto be the date of receipt of an acceptable EUC for Serbia.
+
+Modification, Show Cause/Cure Notice, and Termination
+
+        23. On 2 June 2010, the government and Bulova executed Modification
+No. P0002 (Mod. 2) to the contract, which affected two of the three weapons and
+eliminated any reference to EUC receipt dates. Specifically, this modification established
+new delivery dates for the 4,500 remaining PKM medium machine guns from Bulgaria
+(CLIN 0005AA), with shipments due on 15, 18, 22 and 25 June 2010. Mod. 2 also
+established new delivery dates for the 3,1347 PSL sniper rifles from Romaina
+(CLIN 0005AB), with shipments due on 25 and 30 August 2010 and 3 September 2010.
+The delivery dates for the NSV heavy machine guns remained unchanged. (R4, tab 3)
+Mod. 2 did not contain any monetary consideration for the adjusted due dates, but the CO
+testified that this modification did (in his view) extend the delivery dates, to try to
+achieve performance (tr. 11113-14).
+
+
+7
+    Mod. 2 states that 3,164 were due, however the original contract quantity for
+        CLIN 0005AB was 3,134, and the sum ofthe incremental deliveries in Mod. 2 is
+        also 3,134 (R4, tab 1 at 14, tab 3).
+
+                                            8
+        24. Mod. 2 did not address the NSV heavy machine guns from Yugoimport of Serbia
+due to the emphasis the customer placed on the PKM medium machine guns and the
+PSL sniper rifles and the matter of re-issuing the EUC (tr. 1150-51 ). Indeed, the CO wrote
+to the government quality assurance chief that "Serbia is not really Bulova's fault- the
+End User Certificate (EUC) was rejected and a new EUC needs to be completed by the Iraqi
+government" (R4, tab 219). The government anticipated issuing another modification to
+adjust delivery dates for these weapons due to the EUC issue (R4, tab 136).
+
+        25. On 14 June 2010, Bulova's manager emailed the CO that the BIA landing fee
+had increased to $25,000 per flight, and Bulova's logistics contractor would not ship
+without payment in advance, money Bulova did not have. He also reported that Bulova
+had received a large penalty fee from Serbia and that "the lack ofEUC and product
+sitting to be moved has really got them upset." Bulova asked to meet as soon as possible
+to address these issues. (R4, tab 138)
+
+       26. The parties met on 16 June 2010. Bulova outlined its view ofthe contract
+delivery dates (after receipt of acceptable EUCs), and identified other cost impacts, such
+as landing fees at BIA ($80,000 for 2009), storage fees for NSV heavy machine guns
+awaiting the EUC (now at $60,000, based on $10,000 per month), and heat treatment of
+Serbian pallets initially required by the government and then abandoned ($62,000).
+Bulova said that it "remains committed to contract completion" and that weapons from
+Serbia and Bulgaria were packaged and ready to ship. (R4, tabs 139, 141, 142) As to
+funding, Bu1ova had applied for and expected to receive a loan, but also proposed that the
+government pay the remaining $3.5 million on the contract- these funds together would
+allow for contract completion (R4, tab 143; tr. 2/161). Bulova's manager testified as to
+the specifics of this approach, noting that the money could be paid directly to the
+subcontractors:
+
+              "[W]ire Yugo Import $700,000 [for the NSVs], wire the
+              balance ofthat [$3.5 million] to Bulgaria, which will deliver
+              the bulk of what was needed to be delivered from Bulgaria,
+              and my loan would clean up the balance of Bulgaria and all of
+              Romania .... "
+
+(Tr. 2/162) This would enable delivery of2,000 PKMs and 94 NSVs within 17 days of
+EUC receipt; PSL delivery would be made by 1 September 2010 ( 1,000) and 1 December
+2010 (2,164) (R4, tab 142 at 10-11).
+
+        27. The day after the meeting, Bulova wrote the government stating that Bulova
+had initiated shipment of 500 PKM medium machine guns and expected those would
+arrive in Iraq by 2 July 2010. Bulova reported that due to the issues it complained of in
+the past, it was currently left "without sufficient funds to complete the contract," and
+
+
+                                             9
+asked that the government release the $3.5 million unpaid "(and admittedly not yet due),"
+leading to delivery estimated by 9 July 2010 of the NSV heavy machine guns and 2,000
+PKMs. Bulova stated that the PSL sniper rifles would not be ready until September 2010
+(not due, in Bulova's view, until 19 November 2010), and that Bulova expected to "raise
+all the necessary funds privately" to pay RomArm. Bulova described this approach as
+"the best road to contract completion at the earliest possible dates," and concluded with a
+note to the CO that "we are very, very close to getting this job done." (R4, tab 143)
+Bulova's manager testified that "I had enough money coming in off the loan to [cover the
+landing fees and the heat treatment]," and whether Bulova later asserted a claim for those
+costs depended on whether the government released the rest of the contract funds
+(tr. 2/202). 8
+
+        28. On 18 June 2010, the CO issued a show cause and cure notice to Bulova. The
+show cause part of the letter stated that the government was considering terminating for
+default the PSL sniper rifles and scopes (CLINs 0004AF, 0004AJ, and 0005AB) and
+gave Bulova the chance to present its plan to satisfy delivery of these weapons. The cure
+notice portion of the letter related to the NSV heavy machine guns and the PKM medium
+machine guns (CLINs 0001AA, 0002AA, 0003AA, 0004AC, 0005AA). The government
+asked Bulova to explain how it would "assure delivery" by the required dates. The letter
+stated that although the government might terminate the entire contract, it would consider
+treating the NSV and PKM portion separately, depending on Bulova's response to the
+cure notice. Among other things, the government asked for information on how the 89%
+of the funds paid Bulova had been spent, and a firm commitment as to when Bulova
+could deliver. (R4, tab 144)
+
+       29. Bulova responded to this letter on 28 June 2010. Bulova again stressed the
+impact that the lack of acceptable EUCs had had on performance. Bulova stated that it
+shared the government's goal of getting delivery of the weapons as soon as possible, and
+was raising "the required funds to complete the contract without your assistance and
+within the required delivery dates" as set forth in its presentation of 16 June 2010.
+Bulova explained it had spent the money received "in support of the program and general
+corporate support," and stated that both a price increase and a schedule extension was
+warranted because of government delays and actions. Bulova concluded by urging the
+government to consider releasing the remaining funds on the contract so delivery could
+be made as quickly as possible. (R4, tab 147 at 2-3)
+
+
+8
+    Bulova's manager also testified that Bulova was not "shipping another thing to Iraq
+        without getting the shipping thing [landing fees] resolved" (tr. 2/153; see also
+        tr. 2/35). However, this remark is tempered by the explanation about possibly
+        pursuing a claim and other testimony and contemporaneous documentation as to
+        proposed performance.
+
+                                             10
+       30. Bulova renewed its request on 6 July 2010, asking if the remaining money on
+the contract could be released to enable delivery of weapons awaiting shipment (R4,
+tab 149). Two weeks later, Bulova reported that it expected to secure its own funding by
+15 September 2010, but again advised the government that Bulova could ship the NSV
+heavy machine guns right away if the government would "release the balance of the
+funding" (R4, tab 151 ).
+
+        31. On 30 July 2010, the government terminated Bulova's contract for default
+(R4, tab 160). By that date, Bulova was to have delivered all of the remaining 4,500
+PKM medium machine guns under Mod. 2 but had not delivered any. The required
+delivery dates for the PSL sniper rifles under Mod. 2 (beginning 25 August 201 0) had not
+yet come due (finding 23); about one-third of the rifles were in production at this time
+(R4, tab 156). The required delivery dates for the NSV heavy machine guns also had not
+yet come due; all NSVs were complete and ready for shipment (findings 17, 23; app. br.
+at 10; gov't br. at 22). The termination notice stated that the bases for termination
+included Bulova's failure to make progress so as to endanger performance, failure to
+deliver designated items when due (both under the original dates and Mod. 2),
+anticipatory repudiation based on Bulova's statements about its financial issues, and
+failure to submit a plan or explain use of performance-based payments within 10 days of
+the cure notice/show cause notice (R4, tab 160). Bulova appealed this decision to the
+Board on 26 October 2010.
+
+                                       DECISION
+
+The Parties' Arguments
+
+       The government argues that its termination for default was justified because Bulova
+repeatedly failed to perform under the contract based on original and modified delivery
+dates. Further, the government asserts that Bulova failed to give adequate assurances of
+performance in response to the cure notice and that Bulova's words and actions constituted
+an anticipatory repudiation of the contract. According to the government, the cause of
+Bulova's nonperformance was not allegedly defective EUCs but Bulova's failure to pay its
+subcontractors, which is not an excuse for nonperformance.
+
+        Bulova argues that the default was not proper because the government failed to
+provide acceptable EUCs and thus the deliveries were not delinquent, and asserts that its
+financial issues with its subcontractors were attributable to the EUC delays. With regard
+to revised dates under Mod. 2, Bulova states the modification is invalid for lack of
+consideration. Bulova denies repudiating the contract, stressing its continued attempts to
+perform and expression of willingness to perform. Finally, Bulova notes that the contract
+is in the nature of an "installment contract," making termination of the entire contract
+improper.
+
+
+                                            11
+Modification No. P0002
+
+       The original contract delivery dates were triggered by receipt ofEUCs provided
+by the government; we determine this requirement to mean EUCs acceptable to the
+exporting countries. However, this scheme was revised by Mod. 2 for the weapons from
+Bulgaria and Romania; as a result, delivery of those weapons was not contingent on
+receipt of an acceptable EUC. Instead, Mod. 2 specified that delivery of the PKM
+medium machine guns was due between 15 and 25 June 2010, and delivery ofthe PSL
+sniper rifles was due between 25 August 2010 and 3 September 2010. (Finding 23)
+
+        Because bilateral Mod. 2 set up a new delivery schedule, the alleged EUC delay
+cannot now be considered as an excuse for performance problems relating to the PKM
+medium machine guns or the PSL sniper rifles. In agreeing to a new delivery schedule, a
+contractor erases the ability to raise pre-existing causes of delay. Range Technology
+Corp., ASBCA No. 51943 et al., 04-1 BCA ~ 32,456 at 160,546 ("in agreeing to these
+new delivery schedules, the parties eliminated from consideration the causes of delay
+occurring before the mutually agreed extensions"); Steelform, Inc., ASBCA No. 57724,
+12-2 BCA ~ 35,170 at 172,570 (non-delivery/default cannot be excused by causes of
+delay that existed before bilateral agreement to a new delivery schedule). There is no
+basis to revive the EUC issue for these weapons after issuance of Mod. 2.
+
+       To avoid this result, Bulova asserts that Mod. 2 is unenforceable because it
+provided no monetary consideration to the government for the delivery extensions and
+Bulova was only agreeing to perform a pre-existing duty (to deliver weapons) which does
+not constitute consideration (app. br. at 11-12; app. reply br. at 3-4). It is well established
+that a modification must be supported by consideration to be binding. International Oil
+Trade Center, ASBCA No. 55377, 08-2 BCA ~ 33,916 at 167,829 (a contract
+modification must include all the elements necessary to support contract enforceability,
+including consideration). Further, under the "pre-existing legal duty" rule, a promise to
+do what one is already obligated to do is not consideration. Gardiner, Kamya &
+Associates, P.C. v. Jackson, 369 F.3d 1318, 1322 (Fed. Cir. 2004); RESTATEMENT
+(SECOND) OF CONTRACTS§ 73 (1981). However, as explained below, the facts here do
+not support the conclusion that Bulova was simply agreeing to perform a pre-existing
+duty.
+
+        Under Mod. 2, the delivery schedule scheme was altered from that originally set
+forth, erasing the EUC issue and the risk that either side was not in compliance with
+contract requirements for that reason. The government agreed to different performance
+due dates (longer, in its view), giving up the possibility that it could terminate Bulova at
+that point for default for nonperformance; Bulova in tum also agreed to different
+performance due dates (shorter, in its view), giving up its position that Bulova was
+entitled to more time to perform because the EUCs were defective. By relinquishing
+these positions, which each side believed to be valid, the parties provided consideration
+
+
+                                              12
+to support the new delivery schedule. RESTATEMENT (SECOND) OF CONTRACTS§§ 71, 74
+( 1981) (a promise by a party to forebear to take some action constitutes consideration if
+that party believes the claim to be valid); RESTATEMENT (SECOND) OF CONTRACTS§ 73
+( 1981) (consideration is present if performance differs from what was required "in a way
+which reflects more than a pretense of bargain."). Here, both parties agreed to a new
+delivery schedule structure that effectively deprived each of either a potential right or a
+potential benefit; consequently, there was adequate consideration to support Mod. 2.
+
+        Bulova argues that Mod. 2 was invalid because the government knew about
+Bulova's delivery issues as of April, but essentially set Bulova up to fail with Mod. 2's
+"aggressive" schedule. Bulova cites Aptus Co. v. United States, 61 Fed. Cl. 638, 649-50
+(2004), aff'd by Lin v. United States, 159 F. App'x 186 (Fed. Cir. 2005), for the
+proposition that "[w]hen the Government is aware of an issue with a contractor['s]
+performance and then, in spite of that knowledge, enters into a modification of the
+contract, it cannot later claim those performance issues as a basis for termination."
+(App. br. at 11) However, the Aptus decision, though not binding on the Board, is
+actually consistent with the case law cited above that a bilateral modification can start
+anew the parties' obligations without regard for pre-existing causes of delay, or in the
+Aptus case, known pre-existing contractor fraud. In any event, although the government
+knew ofBulova's performance issues before signing Mod. 2, Bulova had at least as much
+information about its delivery problems, schedule, and finances as the government, and
+yet agreed to the new schedule. Ultimately, Bulova has not presented facts or law to
+justify relieving Bulova of its obligation to comply with the new delivery dates of
+Mod.2.
+
+P KM Medium Machine Guns (Bulgaria)
+
+       Given that Mod. 2 is valid, the government could properly terminate the PKM
+medium machine guns for Bulova's failure to deliver. (The other two weapons will be
+addressed below). The last PKM delivery date was 25 June 2010, and by that date
+Bulova had not delivered any of the 4,500 PKMs covered by Mod. 2. Consequently,
+Bulova was in default of its obligations under the contract. The contract's Default clause
+allows termination if the contractor fails to deliver within the specified time (finding 6).
+Thus, termination for default was proper for the PKM medium machine guns from
+Bulgaria.
+
+Severability
+
+        With regard to the other weapons, Bulova argues the contract was severable and
+that the entire contract should not have been terminated for default based on its failure to
+
+
+                                             13
+deliver the PKMs under Mod. 2 (app. hr. at 14). 9 The government asserts that the
+concept of severability does not apply here due to the broad scope of the supply Default
+clause, allowing termination "in whole or in part" for failure to deliver (gov't hr. at 23).
+
+       Much of the Board case law on contract severability relates to construction
+contracts, as the Default clause for construction contracts specifically allows for
+severability. FAR 52.249-10(a). However, the concept of severability can still be
+applied to supply or service contracts, and indeed has been, in at least some cases. See
+Consumers Oil Co., ASBCA No. 24172, 86-1 BCA ~ 18,647 at 93,709-10 (requirements
+under one contract to supply fuel to different military or civilian activities, paid for by
+those separate activities, were severable requirements); Plum Run, Inc., ASBCA
+Nos. 46091, 49203, 05-2 BCA ~ 32,977 at 163,365 (addressing the government's failure
+to prove that a certain service sub-CLIN was not severable from the rest of the contract).
+
+        Several factors guide the analysis of severability, such as whether the items are
+capable of being performed separately, and whether the conduct of the parties suggests
+that the requirements are "separate in character." Amplitronics, Inc., ASBCA No. 33732,
+87-2 BCA ~ 19,906 at 100,703 (addressing severability in the context of contract
+formation). In finding a construction contract not to be severable, the Court of Federal
+Claims outlined similar criteria in Aptus Co. v. United States, 62 Fed. Cl. 808, 812-13
+(2004). These factors included: whether the contract required a single delivery date, the
+nature of the work, the contract's over-arching purpose, line item structure, and the intent
+of the parties. The court concluded the requirements were not divisible due to the
+"interdependent nature of the several tasks, and the unified purpose to which they are a
+part." !d.
+
+       Applying these factors here leads to the conclusion that the contract was severable.
+The overall contract was the result of two separate FMS "cases," with two different
+customers within Iraq (Ministry of Defense (the army) and Ministry of Interior (the
+police)) (finding 1). The different weapons were distinct from each other, with no
+interdependence, and were manufactured by different companies in different countries
+(finding 3). There was separate sub-CLIN structure, pricing, and delivery dates
+(findings 1, 3). The parties' conduct during performance confirms this interpretation.
+The government was planning to issue another modification, separate from Mod. 2, to
+address new delivery dates for the NSV heavy machine guns because of the EUC issue
+(finding 24). The CO indicated he might consider treating the items separately in
+
+
+9
+    Bulova uses the term "installment contract" as well; that term may best describe a
+        contract with successive deliveries of the same item, not a contract with unrelated
+        requirements documented on the same contract vehicle. It is well established that
+        a default on an incremental delivery of a requirement can justify termination for
+        default of that entire requirement. Action Support Services Corp., ASBCA
+        Nos. 46524,46800,00-1 BCA ~ 30,701 at 151,684.
+
+                                              14
+deciding on termination, depending on Bulova's response to the cure notice (finding 28).
+A line item for mortars had been terminated for convenience earlier with no impact on
+the rest of the contract (findings 1, 5). We conclude therefore that the contract was
+severable, and thus a separate analysis will follow as to the termination of the PSL sniper
+rifles and the NSV heavy machine guns.
+
+PSL Sniper Rifles (Romania)
+
+       As of the government's 30 July 2010 termination for default, no PSL sniper rifles
+were due yet; under Mod. 2 delivery of those weapons was to start on 25 August 2010
+and end on 3 September 2010 (finding 23). Thus the government could not terminate
+Bulova for failure to deliver the PSL sniper rifles, and, because the contract was
+severable, the government could not use Bulova's failure to deliver the PKMs to justify
+the termination of the sniper rifles.
+
+        However, the government could legitimately terminate the sniper rifles for default
+for failure to make progress, one of the bases for default set forth in the termination
+notice (finding 31). First, production status was a problem. Raw materials and some
+tooling had been purchased by RomArm, and about one-third of the sniper rifles were in
+production but production had not started on the remaining two-thirds (findings 17, 31),
+and delivery was due in just a month. Second, Bulova planned to pay for this work via
+the personal loan it expected to get and this money would not be received until
+15 September 2010 (finding 30), after the due date for all the PSL sniper rifles. Despite
+Bulova's positive remarks about being committed to the contract, when most of the
+product has not been manufactured and funds to pay for all of the items would not be
+received until after the last delivery was due, the government could reasonably conclude
+that Bulova had not provided adequate assurances that it would be able to perform by the
+required dates.
+
+        Bulova argues that termination was not proper because its financial problems were
+the government's fault, primarily due to the EUC delays. However, as discussed above,
+in agreeing to Mod. 2, Bulova erased from consideration the EUC delays, and cannot
+now assert those as an excuse for performance problems with regard to the PSL sniper
+rifles. As to the other costs, the alleged unnecessary heat treatment of pallets only
+concerned the Serbian NSV heavy machine guns. The landing fees are an open issue, but
+the Disputes clause in the contract required Bulova to keep performing, even if the
+government was ultimately found liable for additional costs (finding 6). Thus, a dispute
+as to those costs cannot serve as a basis to excuse a slippage in delivery. For these
+reasons, the government's termination for default of the PSL sniper rifles was proper.
+
+
+                                            15
+NSV Heavy Machine Guns (Serbia)
+
+       As noted above, Mod. 2 did not address the NSV heavy machine guns, so the
+delivery schedule for those remained as stated in the original contract, 270 days after
+EUC (finding 3). An acceptable EUC was not provided for Serbia until14 July 2010
+(finding 22). Delivery was not due until270 days later; consequently, at the time of the
+termination for default on 30 July 2010, Bulova was not in default for this requirement.
+Because the contract was severable, the government could not use Bulova's failure to
+deliver the PKMs to justify the termination of the NSV heavy machine guns.
+Severability is particularly apparent here, when the government was obligated to provide
+an acceptable EUC for Serbia but did not do so until two weeks before the termination,
+with delivery not due for almost nine more months. To conclude that Bulova's other
+defaults encompass this requirement would be to find Bulova responsible for the
+government's performance failure.
+
+        Alternatively, the government argues that Bulova repudiated the contract for the
+NSVs by its remarks and presentation at the Aberdeen meeting on 16 June 2010, and by
+later statements trying to establish new delivery dates contingent on further payment
+(gov't br. at 24-26). Bulova counters that the government has not met its burden of
+showing anticipatory repudiation because there was no unequivocal expression of intent
+not to perform, and indeed, Bulova made comments to the contrary about continued
+performance (app. br. at 12-14).
+
+       In order to demonstrate anticipatory repudiation, the government must show that
+Bulova communicated an "intent not to perform in a positive, definite, unconditional and
+unequivocal manner," either by unequivocal statements of refusal to perform, or by
+actions amounting to actual abandonment of performance. Troy Eagle Group, ASBCA
+No. 56447, 13 BCA ,-r 35,258 at 173,061 (and cases cited therein). Whether a
+contractor's words or actions asking for more time or money to perform constitutes
+anticipatory repudiation depends on the facts of each case.
+
+       A number of cases finding anticipatory repudiation due to the contractor refusing
+to perform without being given more money have involved stronger language and less
+performance completion than present here. For example, in DK's Precision Machining &
+Manufacturing, ASBCA No. 39616, 90-2 BCA ,-r 22,830 at 114,638-39, the contractor
+said that without re-negotiation of the contract price, it "will consider the contract
+cancelled for the convenience of the government." Coupled with this language, there was
+no evidence of the contractor performing any work for a year before the cure notice was
+issued. The Board concluded that the contractor's "lack of progress and its stated
+position that it would not proceed unless the contract was renegotiated constitute an
+anticipatory repudiation." Similarly, anticipatory repudiation was found in Free & Ben,
+Inc., ASBCA No. 56129, 11-1 BCA ,-r 34,719 at 170,955. The contractor demanded that
+the government issue an EUC (which the government said was not required) or approve a
+
+
+                                           16
+ different truck for delivery, otherwise "the delivery of these trucks cannot be fulfilled."
+ The Board found that this definitive statement, confirming the contractor's inability to
+ provide the required truck, constituted unequivocal intent not to perform and thus
+ repudiation). See also Smith Faison Military Sales Co., ASBCA No. 24229, 82-1 BCA
+ ~ 15,512 at 76,945-46 (contractor's statement that it was "not going to perform" on the
+ contract without a price increase, coupled with its subcontractor going out of business,
+ justified default).
+
+         Here, all ofthe NSV heavy machine guns had been manufactured (finding 17),
+ unlike the facts of the cases above where little or no work had been performed. Also,
+ Bulova's statements about performance were much more positive than those made in the
+ cases cited above. Although Bulova repeatedly asked for payment of the rest of the
+ contract as the fastest way to ship the weapons, Bulova also reported that private
+ financing would be received by 15 September 20 10. The plan was to use the private
+ financing to fund performance of the other requirements, not the NSVs; but Bulova did
+ not categorically refuse to perform the NSV requirement unless the rest of the contract
+ money was provided. Indeed, Bulova said it was committed to contract completion
+ (findings 27, 29). Bulova was repeatedly asking for more money as the fastest way to
+ finish, but Bulova still had nine months to perform, with additional cash resources
+ expected from private sources. Given that the government's actions contributed to the
+ problem to begin with, these facts together do not amount to an "a positive, definite,
+ unconditional and unequivocal" statement of intent not to perform. Troy Eagle, 13 BCA
+ ~ 35,258 at 173,061.
+
+
+                                       CONCLUSION
+
+         For the reasons stated above, the appeal is denied as to the 4,500 PKM medium
+ machine guns (remaining under CLIN 0005AA) and the PSL sniper rifles and scopes
+ (CLINs 0004AF, 0004AJ, 0005AB). The appeal is sustained as to the NSV heavy
+ machine guns (CLINs 0001AA, 0002AA, 0003AA, 0004AC), and remanded to the
+ parties to determine quantum.
+
+        Dated: 28 January 2014
+
+
+                                                    /00'/~ vf{. ~
+                                                   Cilli:ABETH M. GRANT
+                                                    Administrative Judge
+                                                    Armed Services Board
+                                                    of Contract Appeals
+
+· (Signatures continued)
+
+
+                                              17
+I concur
+
+
+  ~~~~
+/"~~
+Administrative Judge
+Acting Chairman
+Armed Services Board
+of Contract Appeals
+
+
+       I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA No. 57406, Appeal ofBulova
+Technologies Ordnance Systems LLC, rendered in conformance with the Board's
+Charter.
+
+      Dated:
+
+
+                                                JEFFREY D. GARDIN
+                                                Recorder, Armed Services
+                                                Board of Contract Appeals
+
+
+                                           18

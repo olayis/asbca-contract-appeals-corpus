@@ -1,0 +1,1395 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+    Appeals of -                               )
+                                               )
+    Pinewood Inc. fka PNI Incorporation        )    ASBCA Nos. 63588, 63686
+                                               )
+    Under Contract No. W912UM-22-C-0003        )
+
+    APPEARANCE FOR THE APPELLANT:                   Yong Eui Song, Esq.
+                                                     Central IP & Law
+                                                     Seoul, Korea
+
+    APPEARANCES FOR THE GOVERNMENT:                 Michael P. Goodman, Esq.
+                                                     Engineer Chief Trial Attorney
+                                                    Robert M. Sundberg, Esq
+                                                    SoCheung Lee, Esq.
+                                                     Engineer Trial Attorneys
+                                                     U.S. Army Engineer District, Far East
+                                                     Seoul, Korea
+
+                    OPINION BY ADMINISTRATIVE JUDGE STINSON
+
+       Appellant Pinewood Inc., formerly known as PNI INC, 1 appeals (1) a
+contracting officer (CO) final decision dated February 17, 2023, terminating PNI’s
+contract for default and (2) a CO final decision dated March 6, 2024, denying PNI’s
+May 30, 2023, claim seeking ₩399,734,850 (Korean Won) ($377,108.35 USD) for
+costs incurred prior to termination. We have jurisdiction pursuant to the Contract
+Disputes Act of 1978 (CDA), 41 U.S.C. §§ 7101-7109. The parties agreed to submit
+these appeals on the record without a hearing pursuant to Board Rule 11.
+
+                              FINDINGS OF FACT (FOF)
+
+       With their initial briefs, the parties submitted a Joint Statement of Stipulated
+Facts (JSSF). Our findings of fact, as set forth below, rely in part upon the parties’
+JSSF, as well as documents contained in the parties’ respective Rule 4 submissions. 2
+
+
+1
+  The contract was awarded to PNI INC and by Modification No. P00002 the
+       contractor’s name was changed from “PNI INC to PINEWOOD INC” (R4,
+       tab 6 at 3). For simplicity’s sake we refer herein to appellant as PNI.
+2
+  The government submitted an initial and supplemental Rule 4 file, which we refer to
+       as R4, tabs 1-144. Appellant submitted an initial and supplemental Rule 4 file,
+       which we refer to as app. supp R4, tabs 1-48.
+       Contract Award
+
+       1. On July 13, 2022, PNI entered fixed price Contract No. W912UM-22-C0003
+with the U.S. Army Corps of Engineers (USACE), Far East District (FED), in the
+amount of ₩1,851,555,146 (USD $1,746,750.15), for repair of the Contingency Fuel
+Delivery System on Osan Air Base, Republic of Korea (R4, tab 1 at 1-3, 6, tab 5 at 1;
+JSSF ¶¶ 1-2, 9).
+
+       Teaming Agreement Between PNI and Two Track, Inc.
+
+       2. Prior to contract award, PNI entered a teaming agreement with Two Track,
+Inc. (Two Track), whereby Two Track would perform work on the project as PNI’s
+subcontractor (R4, tab 7 at 1). PNI and Two Track agreed “to combine their
+respective capabilities in a joint effort to submit said proposal for the Program and to
+complete the work required by any work statement in any contract . . .” (id.).
+
+       Project Description and Contract Line Items
+
+       3. Contract specification paragraph 1.2.1, Project Description, required
+“construction of an approximately 330 meter long rail spur, shift of approximately
+180 meters of the existing rail main track, realignment of approximately 80 meters of
+existing reinforced concrete box culvert, relocation of impacted utilities, and incidental
+related work” (R4, tab 5 at 13; JSSF ¶ 5).
+
+        4. The contract includes six Contract Line Item Numbers (CLIN): 0001
+Construct Rail Spur & Construct Site Preparation & Improvements (New Construction
+Work), 0002 Shift Existing Track & Site Work (Maintenance and Repair Work), 0003
+Repair Drainage Facilities (Maintenance and Repair Work), 0004 Repair Electrical
+and Communications System (Maintenance and Repair Work), 0005 Repair Site
+Utilities (Maintenance and Repair Work), and 0006 Removals (Maintenance and
+Repair Work) (R4, tab 1 at 4).
+
+       FAR Provisions Incorporated into the Contract by Full Text or by Reference
+
+        5. The contract incorporated by reference Federal Acquisition Regulation
+(FAR) 52.236-15, SCHEDULES FOR CONSTRUCTION CONTRACTS (APR
+1984), which required the contractor, within five days of commencing work on the
+project, to prepare and submit to the CO for approval a construction schedule setting
+forth the order “in which the Contractor proposes to perform the work, and the dates
+on which the Contractor contemplates starting and completing the several salient
+
+
+                                            2
+features of the work” (R4, tab 1 at 6); 3 FAR 52.236-15(a). FAR 52.236-15(b)
+specified that, if in the opinion of the CO the contractor fell behind the approved
+schedule, the contractor shall take steps necessary to improve its progress, including
+any steps required by the CO, such as increasing the number of shifts, overtime
+operations, days of work, as well as submission of supplementary schedules to
+demonstrate how the approved rate of progress will be regained. FAR 52.236-15(c)
+specified that the contractor’s failure to comply with the CO’s requirements shall be
+grounds (1) for determination by the CO that the contractor is not sufficiently
+prosecuting work necessary to ensure timely completion of the contract, and (2) a
+decision terminating the contractor’s right to proceed with the work, in accordance
+with the default terms of the contract.
+
+        6. The contract incorporated by reference FAR 52.232-5, PAYMENTS
+UNDER FIXED-PRICE CONSTRUCTION CONTRACTS (MAY 2014), which
+provided, in part, under the subtitle, “Retainage,” that “if satisfactory progress has not
+been made, the CO may retain a maximum of 10% of the amount of the payment until
+satisfactory progress is achieved” (R4, tab 1 at 6); FAR 52.232-5(e).
+
+        7. The contract incorporated by reference FAR 52.249-10, DEFAULT
+(FIXED-PRICE CONSTRUCTION) (APR 1984) (default clause), which granted the
+government the authority to terminate the contractor’s right to proceed if the contractor
+failed to prosecute the work with the diligence necessary to insure its completion
+within the time specified in the contract, as well as the right to “take possession of and
+use any materials, appliances, and plant on the work site necessary for completing the
+work” (R4, tab 1 at 6); FAR 52.249-10(a). The default clause also provided that “[i]f,
+after termination of the Contractor’s right to proceed, it is determined that the
+Contractor was not in default, or that the delay was excusable, the rights and
+obligations of the parties will be the same as if the termination had been issued for the
+convenience of the Government.” FAR 52.249-10(c).
+
+       8. The contract incorporated by full text FAR 52.211-12, LIQUIDATED
+DAMAGES -- CONSTRUCTION (SEP 2000), which provided, in part, “[i]f the
+Government terminates the Contractor's right to proceed, liquidated damages will
+continue to accrue until the work is completed. These liquidated damages are in
+addition to excess costs of repurchase under the Termination clause” (R4, tab 1 at 7-8);
+FAR 52.211-12(b). The liquidated damages rate was ₩713,000 per calendar day”
+(R4, tab 1 at 8).
+
+
+3
+    Some documents in the government's Rule 4 file are stamped with Bates numbers
+        beginning with zeros. We cite herein to those Bates numbers but omit the
+        initial unnecessary zeros.
+                                            3
+       9. The contract incorporated by reference FAR 52.236-13 Alt I, ACCIDENT
+PREVENTION (NOV 1991) – Alternate I (R4, tab 1 at 6). In accordance with
+FAR 52.236-13, the contract also incorporated by reference the USACE Safety and
+Health Requirements Manual (EM) 385-1-1 (R4, tab 1 at 21, tab 5 at 61) (2014 Safety
+and Health Requirements Manual (EM) 385-1-1). Specification Section 01 30 00,
+ADMINISTRATIVE REQUIREMENTS, likewise references EM 385-1-1 (R4, tab 5
+at 19). EM 385-1-1 contains two sections addressing temporary power plans: Section
+4, Temporary Facilities, and Section 11, Electrical (R4, tab 142 at 68, 232).
+
+       10. EM 385-1-1, Section 4, paragraph 04.A.01, states that plans for the layout
+of temporary construction buildings shall be submitted to and approved by the
+government designated authority (R4, tab 142 at 68). EM 385-1-1, Section 11,
+Paragraph 11.E.01 addresses temporary wiring and lighting requirements and requires
+the contractor to submit to the government a sketch of proposed temporary power
+distribution systems before installing temporary power (R4, tab 142 at 244).
+
+         Submittals
+
+        11. Specification Section 01 33 00, SUBMITTAL PROCEDURES, paragraph
+1.2.1, Submittal Descriptions (SD), identified submittals the contractor was required to
+provide to the government prior to the start of construction (R4, tab 5 at 27). The
+required submittals included (1) a list of proposed subcontractors, (2) a list of proposed
+products, (3) the construction progress schedule, (4) the submittal register, (5) a
+schedule of prices or Earned Value Report, (6) the health and safety plan, (7) the work
+plan, (8) the quality control (QC) plan, and (9) the environmental protection plan (id.
+at 27-28). 4
+
+       12. Specification Section 01 33 00, paragraph 1.1, SUMMARY, required the
+“Contractor’s Quality Control (CQC) System Manager [CQCSM] to check and
+approve all items prior to submission and stamp, sign, and date indicating action
+taken” (R4, tab 5 at 27).
+
+        13. Specification Section 01 50 00, TEMPORARY CONSTRUCTION
+FACILITIES AND CONTROLS, AND MISCELLANEOUS PROVISIONS,
+paragraph 1.2, SUBMITTALS, required the contractor to submit a construction site
+plan prior to beginning construction (R4, tab 5 at 127). The site plan must include the
+locations and dimensions of temporary facilities to be used by the contractor, as well
+as access and haul routes, avenues of ingress/egress, safety and construction fences,
+site trailers, construction entrances, trash dumpster, temporary sanitary facilities, and
+worker parking areas (id.).
+
+4
+    A complete list of preconstruction submittals is set forth in the submittal register that
+        appears at the end of Section 01 33 00 (R4, tab 5 at 43-46).
+                                               4
+       14. Specification 02 41 00, DEMOLITION, paragraph 1.6, SUBMITTALS,
+required the contractor to “prepare a Demolition plan and submit proposed salvage,
+demolition, and removal procedures for approval before work is started” (R4, tab 5
+at 179,181).
+
+       15. Specification Section 31 00 00, EARTHWORK, paragraph 1.4.3,
+Dewatering Work Plan, and paragraph 1.5, SUBMITTALS, required the contractor to
+submit its shoring plan and its dewatering work plan (R4, tab 5 at 235, 240).
+Paragraph 3.5.1, General Requirements, directed the contractor to “[s]ubmit a Shoring
+and Sheeting plan for approval 15 days prior to starting work,” and required “drawings
+and calculations [be] certified by a registered professional engineer, describing the
+methods for shoring and sheeting of excavations” (R5, tab 5 at 248).
+
+      16. Specification Section 33 71 02, UNDERGROUND ELECTRICAL
+DISTRIBUTION, paragraph 1.3, SUBMITTALS, required the contractor to submit
+shop drawings setting forth details for the precast underground structures and several
+product data submittals (R4, tab 5 at 383-84).
+
+       17. Specification Section 01 11 00, paragraph 1.4, LOCATION OF
+UNDERGROUND UTILITIES, required the contractor to obtain digging permits from
+Osan Air Base prior to the start of excavation and to contact the local utility locating
+service 48 hours prior to excavation (R4, tab 5 at 13).
+
+       18. Specification Section 01 33 00, paragraph 1.11.1, Review Notations,
+required CO submittal review be completed within 30 calendar days after date of
+submission, with the submittal: marked approve or accepted authorizing the contractor
+to work; “approved as noted” authorizing the contractor to proceed with work covered
+provided the contractor takes no exception to the corrections; or “not approved” or
+“disapproved” indicating noncompliance with the contract requirements. Paragraph
+1.11.1(c) states that the contractor must resubmit, with appropriate changes, submittals
+not otherwise approved, and that “[n]o work shall proceed for this item until
+resubmittal is approved.” (R4, tab 5 at 39-40)
+
+       Construction Schedules
+
+       19. Specification Section 01 32 16.00 20, SMALL PROJECT
+CONSTRUCTION PROGRESS SCHEDULES, paragraph 1.2, ACCEPTANCE,
+required the contractor, prior to the start of work, to prepare and submit to the CO for
+acceptance a construction schedule in the form of a bar chart schedule in accordance
+with FAR 52.236-15 (R4, tab 5 at 23). Acceptance of the baseline construction
+schedule is a condition precedent to the contractor starting work on demolition or
+construction, the processing of contractor invoices, and the review of schedule updates
+(id.). By submitting the baseline construction schedule, and schedule updates, the
+
+                                           5
+contractor certifies “that the submitted schedule meets all of the requirements of the
+Contract Documents, represents the Contractor’s plan on how the work will be
+accomplished, and accurately reflects the work that has been accomplished and how it
+was sequenced (as-built logic)” (id.).
+
+       20. Specification Section 01 32 16.00 20, paragraph 1.3.1, Bar Chart Schedule,
+requires that the schedule bar chart indicate “work activities, submittals, Government
+review periods, material/equipment delivery, utility outages, on-site construction,
+inspection, testing, and closeout activities” (R4, tab 5 at 23).
+
+       21. Specification Section 01 32 16.00 20, paragraph 1.4, SCHEDULE
+MONTHLY UPDATES, required the contractor to update the construction schedule
+monthly or when the schedule was revised, “reflecting actual activity progress and
+plan for completing the remaining work” (R4, tab 24). The schedule’s narrative report
+was to include (1) progress made in each area of the project, (2) the critical path,
+(3) any date/time constraint(s), other than those required by the contract, (4) changes
+in added or deleted activities, original and remaining durations for activities that have
+not started, logic, milestones, planned sequence of operations, (5) status of the contract
+completion date (CCD) and interim milestones, (6) current and anticipated delays,
+including the cause of delay and any corrective actions(s) and mitigation measures,
+and (7) description of current and future schedule problem areas (id.).
+
+        22. Specification Section 01 32 16.00 20, paragraph 1.5, 3-WEEK LOOK
+AHEAD SCHEDULE, required the contractor “[p]repare and issue a 3-Week Look
+Ahead schedule to provide a more detailed day-to-day plan of upcoming work
+identified on the Construction Schedule” (R4, tab 5 at 24). The look ahead schedule
+required the contractor to “[i]dentify critical path activities” and specified that
+“[a]ctivities must not exceed 5 working days in duration and have sufficient level of
+detail to assign crews, tools and equipment required to complete the work” (id.).
+
+       Project Boundaries Encroaching on AAFES Taxi Yard
+
+        23. Two contract drawings depict the project boundaries and the Contingency
+Fuel Delivery System rail spur (R4, tab 4 at 5-6; JSSF ¶¶ 7-8). The project boundaries
+of the Fuel Delivery System rail spur encroach on a taxi yard utilized by the Army and
+Air Force Exchange Service (AAFES) taxi dispatching service and HaeKang taxi (R4,
+tab 32 at 2, tab 65 at 29; JSSF ¶ 10). Specifically, one end of the existing concrete
+culvert was buried under the AAFES taxi parking lot (R4, tab 4 at 33). As is evident
+from comparing the referenced contract drawings, and as noted by the CO, the taxi
+yard/parking lot is a small portion of the entire project site (R4, tab 32 at 2, tab 65
+at 29, tab 141 at 5).
+
+
+                                            6
+       24. By email dated March 4, 2021—prior to contract award—an Air Force
+engineer informed the AAFES General Manager that the USACE planned repair
+project would permanently encroach upon the Osan AAFES taxi parking lot (R4,
+tab 65 at 22; JSSF ¶ 11). The email included a map displaying the encroachment with
+two lines; a blue line indicating the permanent encroachment of the project and a red
+dotted line indicating the project’s temporary impact on the AAFES taxi parking lot
+during the planned construction (R4, tab 32 at 2; JSSF ¶ 12).
+
+       Notice to Proceed/CCD
+
+       25. By letter dated July 26, 2022, FED issued the Notice to Proceed (NTP)
+instructing PNI to commence work within 10 calendar days of receipt of the NTP and
+to complete work in accordance with the schedule set forth in FAR 52.211-10 (R4,
+tab 1 at 7, tab 3; JSSF ¶¶ 3-4, 13). The CCD was May 22, 2023, which was
+300 calendar days from the date the NTP was issued (R4, tab 1 at 7, tab 3 at 1; JSSF
+¶ 14).
+
+       Contract Performance – PNI’s Late Start and FED’s Letter of Concern
+
+        26. By internal government email dated August 1, 2022, the CO’s
+representative (COR) expressed concern that “PNI is not approved by KORAIL to do
+rail work, so their proposal would have included a partnering agreement with a
+KORAIL‐approved subcontractor,” and requested a copy of the partnering agreement
+to include in the pre‐construction meeting” (R4, tab 8).
+
+       27. By letter dated August 25, 2022, the COR expressed concern that, one
+month into the project, the government “has not heard from PNI’s team for this
+project” except for PNI’s attendance at the preconstruction meeting (R4, tab 9). The
+COR noted that the government had yet to receive any contract required submissions,
+including the quality control plan, the waste management plan, joint inventory request,
+the preliminary schedule, or a request for base access passes, field office location and
+work permits (id.). The COR also noted (1) that the government “requires time to
+review each document, and [PNI’s] physical work cannot start until all appropriate
+preconstruction documents are approved,” and (2) “that this project may already be
+delayed, at no fault of the Government” (id.).
+
+       28. By letter dated August 29, 2022, PNI responded to the COR’s letter of
+concern, acknowledging it was “late to start this project,” as well as its late
+submissions “due to the late manning for this project” (R4, tab 10). PNI provided
+dates of August 31, 2022, and September 8, 2022, for submission of its
+preconstruction documents and stated that it would begin mobilization on the project
+
+
+                                           7
+after completion of CHU-SOK (Korean Thanksgiving Day), which that year fell on
+September 9-12 (id.). 5
+
+         Initial Plan/Schedule Submissions – Request for Site Release
+
+       29. On August 31, 2022, PNI submitted its safety plan (R4, tab 12; JSSF ¶ 16),
+its CQC plan (R4, tab 11; JSSF ¶ 16), and its preliminary Network Analysis Schedule
+(NAS) (R4, tab 14; JSSF ¶ 16) (PNI Serial Letter S-0005). 6 On August 31, 2022, PNI
+also requested site release at USACE’s earliest convenience but no later than
+September 15, 2022 (R4, tab 13; JSSF ¶ 15).
+
+         30. On September 5, 2022, PNI submitted its demolition plan (R4, tab 15; JSSF
+¶ 16).
+
+       31. On September 7, 2022, PNI submitted its temporary power plan and field
+office plan (R4, tab 17; JSSF ¶ 16).
+
+         32. On September 13, 2022, PNI submitted its erosion plan (R4, tab 18; JSSF
+¶ 16).
+
+       33. By letter dated September 14, 2022, the COR approved PNI’s quality
+control plan, although additional changes were required, including a discussion of
+“Two Track’s organization, the partnering agreement, appointments letter[s] signed by
+authorized official[s] of Two Track, and description of the responsibilities and
+authorities that Two Track will carry as opposed to PNI during this project” (R4,
+tab 19).
+
+         PNI’s Construction Schedule
+
+       34. On September 14, 2022, PNI submitted its construction schedule (NAS),
+which PNI termed its “Initial Construction Schedule” (R4, tab 20 (PNI Serial Letter S-
+0010); JSSF ¶ 17). PNI’s construction schedule identified five critical path items:
+(1) 86 days to conduct removal work, from NTP, July 26, 2022, through October 19,
+
+5
+    https://www.90daykorean.com/chuseok-in-korea (accessed November 25, 2024).
+6
+    Beginning with its August 31, 2022, submission, appellant labelled its construction
+          schedule a Network Analysis Schedule (NAS), although we note that the
+          contract specifications do not specifically utilize that terminology. Similar to
+          the schedule requirement set forth in pertinent specifications here (FOF ¶¶ 5,
+          19-21), a NAS ties the schedule of events to the contract’s critical path, updated
+          monthly. Hedgecock Elec., Inc., ASBCA No. 56307, 12-1 BCA ¶ 35,086
+          at 172,304; Nova Grp., Inc., ASBCA No. 55408, 10-2 BCA ¶ 34,533
+          at 170,329.
+                                              8
+2022, (2) 68 days to conduct water line work through culvert work from October 20,
+2022, through December 26, 2022, (3) 47 days to conduct utility line work, from
+December 27, 2022, through February 11, 2023, (4) 74 days to conduct the rail spur
+work, from February 12, 2023, through April 26, 2023, and (5) 25 days to conduct
+inspections and turn over the project, from April 27, 2023, through May 22, 2023 (R4,
+tab 20 at 8; JSSF ¶¶ 18-23).
+
+      PNI Demolition Plan – FED Response
+
+        35. On September 16, 2022, USACE responded via Serial Letter C-0003,
+disapproving PNI’s demolition plan dated September 5, 2022, stating that PNI’s plan
+needed to address the following: the plan needed to (1) be in coordination with
+specification 01 74 19, Construction and Demolition Waste Management Plan,
+(2) include an environmental protection plan specification section, (3) include a
+column of actual quantities of major items to be demolished for tracking purposes,
+(4) identify the competent person and credentials, (5) include a statement how to
+handle found items of apparent historical or archaeological interest, (6) include a
+section concerning stormwater pollution and erosion/sediment control, (7) include a
+section about scrap materials and items to be disposed of through the Osan AB
+Qualified Recycling Program, and (8) include procedures for reporting waste removal
+from base (R4, tab 21).
+
+      36. On September 20, 2022, PNI resubmitted its demolition plan (R4, tab 23;
+JSSF ¶ 24).
+
+      PNI Preliminary Schedule and Initial Construction Schedule
+
+        37. On September 20, 2022, the COR issued Serial Letter C-0004 (R4, tab 22),
+approving PNI’s August 31, 2022, preliminary NAS (see FOF ¶ 29, PNI Serial Letter
+S-0005 (R4, tab 14)), but disapproving PNI’s September 14, 2022, initial project
+construction schedule (see FOF ¶ 34, PNI Serial Letter S-0010 (R4, tab 20)). The
+COR encouraged PNI to contact Mr. Jong Won Lee, FED’s scheduler, should PNI
+have any questions (R4, tab 22). The schedule review memorandum noted PNI’s
+noncompliance with scheduling requirements set forth in specification Section 01 32
+01.00 10, including: (1) the project schedule must include a start milestone titled
+“NTP acknowledged” with a “start on” date equal to the date that the NTP is
+acknowledged; PNI did not identify the requisite “start on” date, (2) PNI listed two
+activity names, C50020 and C50050 with the same name: “ballast laying w/Comp;”
+these two activity names should be unique, (3) PNI’s schedule did not list the
+mandatory tasks health and safety plan, and mobilization, (4) PNI was not to cost load
+mobilization, submittals, temporary installation work or government activities, yet PNI
+had budgeted ₩25,916,000 for the activity of installing the temporary office with
+fencing, (5) cost loading the “correction of punch list from the Government pre-final
+
+                                          9
+inspection” activity cannot be less than one percent of the present contract value (PNI
+budgeted correction of prefinal deficiency for ₩9,248,658), and (6) PNI left the “must
+finish by” schedule date blank; PNI needed to identify CCD as the “must finish by”
+date (R4, tab 139 at 1-2).
+
+      Temporary Power Plan and Field Office Submission - FED Response
+
+        38. On September 21, 2022, USACE issued Serial Letter C-0005 disapproving
+PNI’s September 7, 2022, temporary power plan and field office submission, stating
+that the chosen location is the AAFES taxi parking lot and encompasses two buildings
+AAFES currently had in use (R4, tab 24). USACE suggested PNI review its emails to
+locate “communication regarding the AAFES taxi parking lot, along with a google
+earth screen shot that shows where you might locate your offices” and that PNI
+resubmit its field office plan with pictures oft the site and drawn outlines indicating
+where different structures will be placed so the 51stt Civil Engineer Squadron (51CES)
+can review the plans and clear out the site area before PNI moves into the area (id.).
+
+      Erosion Control, Demolition, Waste Management Plans – FED Response
+
+       39. On September 23, 2022, USACE issued Serial letter C-0007 approving
+PNI’s erosion control plan, demolition plan resubmission, and waste management plan
+but noting five items that needed to be added to the waste management plan (R4,
+tab 28).
+
+      Site Release
+
+       40. On September 23, 2022, the Air Force (the using agency), approved site
+release (R4, tab 29). On September 26, 2022, USACE issued Serial letter C-0008
+responding to PNI’s Request for Site Release and included the Air Force’s site release
+memorandum (R4, tab 31; JSSF ¶¶ 25-26). The COR noted that the suggested lay-
+down area in the contract drawings was being used for storage by the 51CES and
+anticipated that the stored items would be removed by October 7, 2022 (R4, tab 31).
+The COR noted, however, that “[t]he main construction location of the train tracks
+should cause you [PNI] no issue” (id.).
+
+      PNI Construction Schedule
+
+       41. On September 26, 2022, PNI resubmitted its initial construction schedule
+(labeled incorrectly by PNI as its “preliminary schedule (NAS)”) (R4, tab 30; see also
+R4, tab 22 (September 20, 2022, Serial Letter C-0004, approving PNI’s “preliminary
+schedule and disapproving its construction schedule)).
+
+
+                                          10
+       42. On September 29, 2022, USACE conditionally accepted PNI’s revised,
+September 26, 2022, initial schedule (project construction schedule), noting that PNI
+should change the CCD to include a “‘[f]inish on or [b]efore’ constraint date” (R4,
+tab 38).
+
+       FED Response to Temporary Power Plan and Field Office Submission
+
+        43. On September 29, 2022, USACE responded via Serial Letter C-0010 to
+PNI’s re-submission of its request for approval of its field office, providing additional
+comments and questions, and directing PNI to resubmit its field office and temporary
+power plan with information regarding specific power connections and location of the
+electrical panel (R4, tab 37).
+
+       Site Visit and Work Items Requiring Completion
+
+        44. On October 14, 2022, USACE issued Serial Letter C-0012 noting that a site
+visit had taken place on October 12, 2022, and the Air Force user had not vacated the
+site by October 7, 2022, as the Air Force had previously stated (R4, tab 39; JSSF ¶ 27).
+The COR detailed several work items that PNI had yet to satisfactorily complete,
+including PNI’s field office and temporary power plan (the field office plan lacked
+sufficient detail, the office extended outside the site boundaries, and structures were
+placed atop of the underground utilities that needed rerouting) (R4, tab 39 at 1). The
+COR expressed concern about PNI staff turnover, submission of PNI’s submittal
+register, and the need for an updated schedule (id. at 1-2). The COR also noted the
+absence of Two Track personnel at the site, stating that FED expected Two Track to be
+involved in the project, and that “[w]hile PNI is the prime contractor, a Two Track
+representative must be on site, as they are the expert in construction rail lines
+(including space needed for material and actual work)” (id.).
+
+       Continued Field Office/Site Issues
+
+        45. By email dated October 17, 2022, Roy Tongue, FED quality assurance
+representative (QAR), expressed concern about PNI’s lack of approved field office
+plans, noting that the Air Force had removed all the required material and equipment
+from the yard, but that, without an approved plan, PNI could not begin delivery and
+installation of temporary structures (app. supp. R4, tab 6).
+
+        46. By email dated October 19, 2022, the FED QAR informed PNI about
+continuing efforts to coordinate a meeting between AAFES and HaeKang Taxi
+concerning PNI’s mobilization and subsequent construction activities (R4, tab 65
+at 29; JSSF ¶ 28). In anticipation of that meeting, the QAR requested PNI provide a
+copy of its “detailed Construction site plan and power distribution sketch” (R4, tab 65
+at 29).
+
+                                            11
+       FED’s Continued Concern Regarding PNI’s Lack of Progress
+
+        47. During a meeting on October 26, 2022, FED expressed its “dissatisfaction
+for the lack of concern PNI has been showing at the beginning of the project,” PNI’s
+lack of follow up, and the need for better communication from PNI (R4, tab 42 at 1).
+FED’s QAR discussed PNI’s sequence of work for storm drainage and utilities, noting
+that PNI’s approved critical path schedule states that PNI will relocate the box culvert,
+and that the “schedule might be impossible” because the relocation area had existing
+utilities (id.). FED also discussed its concern about the lack of involvement by Two
+Track (id.).
+
+       Base Pass Issue and Need for Revised Schedule
+
+        48. By email dated November 7, 2022, USACE memorialized a meeting on
+November 7, 2022, during which PNI stated it had not received base passes originally
+requested on September 20, 2022; the USACE letter stated that “[t]his delayed access
+to the base may be considered a concurrent delay, pending FED’s receipt of an
+Updated Schedule and Time Impact Analysis (TIA)” (R4, tab 45; JSSF ¶ 31).
+Regarding the need for a revised schedule, USACE requested that PNI respond to
+Serial Letter C-0012, and subsequent emails, as well as information requested in an
+October 26, 2022, meeting, to provide “an updated schedule due to PNI’s delayed start
+to this project” (R4, tab 45). USACE noted that PNI was 26% behind schedule, and
+that it was “not clear how PNI can make up for lost time,” because “[n]o submittals
+have been sent to FED and the PNI has not sufficiently explained how there is enough
+critical path work to be completed while processing off‐shore material orders” (id.).
+USACE informed PNI that, because “there continues to be lack of progress and lack of
+responses to our requests, PNI could expect an official Cure letter from FED
+Contracting” (id.).
+
+       Excavation Work and Digging Permits
+
+       49. On November 23, 2022, PNI assembled preparatory inspection material for
+excavation work, checked the status of the digging permit, and marked lines for both
+the existing and replacement culvert (R4, tab 91 (QC Daily Report No. 120); JSSF
+¶ 33).
+
+       Concrete Culvert Plan
+
+       50. On November 26, 2022, PNI submitted to FED its concrete culvert plan
+and drawings (app. supp. R4, tab 11; JSSF ¶ 35).
+
+
+                                           12
+      Government Requests Updated Schedule
+
+       51. By letter dated November 29, 2022, the USACE again requested PNI
+provide an updated construction schedule, noting that two months had passed since the
+government had approved PNI’s September 20, 2022, revised construction schedule
+(R4, tab 47). The letter also informed PNI the revised construction schedule was
+needed to assist the government in PNI’s gaining access to the AAFES taxi yard,
+allowing for “coordination of specific work or to set deadlines for 51CES to
+completely empty the yard before your schedule is impacted” (id.). USACE noted that
+because the government does “not have an accurate schedule with correct logic and a
+viable catch-up plan, it is difficult to coordinate anything with the base” (id.).
+
+       52. The project engineer/COR met with PNI on December 2, 2022, to discuss
+the need for a revised construction schedule (R4, tab 49 at 1-2). Topics discussed
+during that meeting included the issue of “cut‐over (comm/power outages)” which
+“must be coordinated a minimum 4‐weeks in advance,” and which “cannot be started
+without an approved plan” (id. at 1). The COR noted that the current dates for “comm
+cutover” were impossible to meet for coordination purposes and “improbable for PNI
+to be prepared for based on the provided schedule” (id.). An additional topic discussed
+was that between the schedule items of “Completion of the Utility Cutover and Culvert
+Box installation, there is a missing task of demolition of old comm/power lines” (id.).
+The COR noted that PNI “previously mentioned that the existing box culvert can be
+demoed immediately, but I do not see that on this schedule” (id.).
+
+      Preparation for Preliminary Inspection re: Demolition Work and Earthwork
+
+       53. On December 9, 2022, PNI continued preparation for the preliminary
+inspection regarding demolition work and earthwork and checked the status of the
+culvert outlet located outside the base (R4, tab 101 (QC Daily Report No. 136); JSSF
+¶ 40).
+
+       54. On December 13, 2022, PNI conducted its preliminary inspection of
+demolition, drafted RFI-001 on changing the telecommunication line, and inquired
+about preparing the shoring and dewatering plan early (R4, tab 103 (QC Daily Report
+No. 140)).
+
+      Review of Concrete Culvert Submittal
+
+       55. By email dated December 13, 2022, the project engineer requested that
+FED civil engineers review the concrete culvert submittal/shop drawing (R4, tab 65
+at 105-06). The following day, the FED quality assurance branch transmitted the
+submittal to FED engineers (id. at 105; JSSF ¶ 36).
+
+
+                                          13
+         Dewatering Work Plan
+
+       56. According to PNI’s quality control representative (QCR), on December 19,
+2022, PNI submitted its revised NAS, prepared submittals of four items, and submitted
+its dewatering plan (R4, tab 107 (QC Daily Report No. 146)). The record contains a
+document titled “Dewatering Work Plan” dated January 17, 2022 (app. supp. R4, tab
+1). 7 The dewatering work plan includes slides depicting three sections of the culvert,
+specifically the center section of the culvert that PNI was to replace and the sections
+on either end that were to remain on site (id. at 6), as well as a depiction of the three
+culvert sections with piping connecting the “east” remaining culvert to the “west”
+remaining culvert with a notation “SEWER (from East toward West)” (id. at 8).
+
+         PNI Begins Removal Work
+
+       57. On December 20, 2022, PNI began removal work (construction activity
+10030); the government conducted its initial inspection and noted that PNI performed
+the work in compliance with the procedures discussed during the preliminary
+inspection (R4, tab 119 (QA Daily Report No. 147); JSSF ¶ 41).
+
+         Government Rejects PNI’s Resubmitted Schedule(s)
+
+        58. By Serial Letter C-0018 dated December 21, 2022, the project
+engineer/COR rejected PNI’s resubmitted NAS, noting that PNI recently had
+submitted additional iterations of its schedule: (1) NAS 2 via email on December 1,
+2022; (2) revised partial NAS 3 in bar chart form on December 2, 2022; and (3) a
+reformatted and edited NAS 3, resubmitted as NAS 4 on December 19, 2022 (R4,
+tab 52). The COR stated that PNI had not explained sufficiently its changes from
+NAS 1 to NAS 4, the cause of the delay, or how PNI intended to regain progress (id.).
+The COR stated that NAS 4 was unacceptable as there was no monthly schedule
+update based on the current CCD of May 2023. The COR expressed concern about
+(1) the lack of progress and delayed delivery of schedule updates, (2) the need to
+receive a schedule which reflects actual progress against the baseline schedule and
+provides a critical path leading to timeline completion, and (3) the need for PNI to
+state how it intended to finish the remaining work in the allotted time, including its
+means and methods to regain lost time with the 152 days remaining (id.). The
+government reminded PNI that the NAS narrative report should set forth progress
+
+7
+    It is not clear from the record submitted by the parties whether this January 17, 2022,
+           document is the dewatering plan submitted by appellant as noted in PNI’s
+           December 19, 2022, QCR. We note also that appellant’s initial brief includes,
+           reproduced in the text of its brief at pages 16-23, a different version of PNI’s
+           January 17, 2022, dewatering work plan, which contains two pages not set forth
+           in the Rule 4 version of the document (see app. br. at 18-19).
+                                             14
+made in each area of the project, the critical path, date/time constraints, changes or
+activities, duration, logic, milestones, status of the CCD and interim milestones,
+delays, and future schedule areas (id.).
+
+       Status of Taxis Located on Taxi Yard/ Miscellaneous Work
+
+       59. On December 21, 2022, the FED QAR noted that 21 taxis were currently
+parked within the project boundary and would be relocated prior to December 25,
+2022, and that by the end of the day nine taxis already had been relocated (R4, tab 120
+(QA Daily Report No. 148); JSSF ¶ 42).
+
+      60. On December 22, 2022, the FED QAR verbally notified PNI that the
+12 remaining taxis parked in the project boundary would be relocated prior to
+December 25, 2022 (R4, tab 121 (QA Daily Report No. 149); JSSF ¶ 45).
+
+        61. On December 23, 2022, PNI worked on its first payment request and
+installed a silt fence at the project site. Two Track workers visited the site to check
+site conditions. PNI also submitted RFI-002 concerning a change to electrical cable
+gauge. (R4, tab 111 (QC Daily Report No. 150))
+
+       62. On December 26, 2022, the taxi area parking zone was cleared. PNI set a
+fence and shielding net and removed an existing concrete curb and asphalt concrete
+located beside the train spur. (R4, tab 112 (QC Daily Report No. 153); JSSF ¶ 46)
+
+       Continued Preliminary Construction Activities
+
+        63. On December 27, 2022, PNI installed plastic barricades between the
+project site and AAFES taxi yard, installed silt fencing, set additional shield netting,
+and moved to a corner of the project site a transformer oil box and concrete barricades
+in the taxi area (R4, tab 113 (QC Daily Report No. 154), tab 122 (QA Daily Report
+No. 154); JSSF ¶¶ 47-48). The FED QAR noted that PNI’s demolition work was
+progressing slower than expected based upon the three-week look ahead schedule that
+PNI had provided during the December 21, 2022, weekly meeting (R4, tab 122).
+
+        64. On December 28, 2022, PNI continued its preliminary construction
+activities of installing plastic barricades, relocating a transformer, and bringing a
+wheeled excavator on site to break up a concrete retaining wall (R4, tab 114 (QC Daily
+Report No. 155), tab 123 (QA Daily Report No. 155); JSSF ¶ 49).
+
+        65. On December 29-30, 2022, PNI continued preliminary construction
+activities, breaking asphalt concrete in the taxi yard, removing broken asphalt concrete
+beside the railroad, installing field office wire bracing, clearing the site, and arranging
+
+
+                                            15
+removed materials (R4, tab 115 (QC Daily Report No. 156), tab 116 (QC Daily Report
+No. 157); JSSF ¶ 50).
+
+        66. On January 4, 2023, PNI removed asphalt concrete into a dumpster brought
+on site, spread gravel, and set safety warning rope along the retaining wall at the taxi
+parking area (R4, tab 117 (QC Daily Report No. 162); JSSF ¶ 51).
+
+       Culvert Shoring Plan
+
+       67. On January 4, 2023, PNI and the USACE held a weekly progress meeting,
+wherein the parties discussed PNI’s continued work on its shoring plan, which in turn,
+was “delaying the scheduled start of activity C30005 – Shoring for Culvert” (R4,
+tab 126 (QA Daily Report No. 162)). At the meeting, “PNI expressed confusion about
+how to properly prepare a schedule update to include anticipated adverse weather
+days, actual progress, and a descriptive narrative to explain the current delays and
+plans to correct them” (id.). The FED QAR recommended that PNI contact Mr. Jong
+Won Lee, FED’s scheduler, just as the government had recommended to PNI in Serial
+Letter C-0004 on September 20, 2022 (id.; see FOF ¶ 37).
+
+       68. On January 5, 2023, PNI conducted demolition work and loaded broken
+asphalt debris into dump trucks (R4, tab 118 (QC Daily Report No. 163), tab 127 (QA
+Daily Report No. 163); JSSF ¶ 52).
+
+       PNI Preliminary Inspection Requested and Cancelled
+
+       69. By email dated January 5, 2023, PNI sought approval for a preparatory
+inspection the following day, January 6, 2023 (app. supp. R4, tab 25 at 1; JSSF ¶ 53).
+The FED QAR responded that a preliminary inspection was possible and asked which
+feature of work the preliminary inspection would cover (app. supp R4, tab 25 at 1;
+JSSF ¶ 54).
+
+        70. On January 6, 2023, PNI informed the government “we can’t execute
+additional activity” as the “dewatering plan, shoring plan, elec and comm shop
+drawing are not submitted and these feature of work’s [sic] concerned submittals are
+also not approved” (app. supp R4, tab 25 at 1). Instead, PNI requested, “if possible
+after earthwork PI, we want to check the exact existing utility lines and prepare new
+install line trenches and digging the elec precast M/H install location” (id.; JSSF ¶¶ 55-
+56).
+
+       71. By email dated January 6, 2023, the FED QAR informed PNI “[u]nder the
+current circumstances and after careful consideration by the ACO, FED does not
+concur with PNI[’s] intent to conduct a Preparatory Inspection for Earthwork” (app.
+supp R4, tab 25 at 1-2; JSSF ¶ 57). The QAR’s decision was “based on PNI[’]s
+
+                                           16
+admitted lack of preparation, the potential for confusion of performing an abbreviated
+PI for limited activity, and a general lack of timely coordination by PNI staff” (app.
+supp R4, tab 25 at 2; JSSF ¶ 57). The QAR added, “[w]e feel it is imprudent to
+conduct a PI for Earthwork until PNI has all associated plans and submittals approved
+for this feature of work” (app. supp R4, tab 25 at 2; JSSF ¶ 57).
+
+       72. On January 6, 2023, PNI conducted demolition work, loading broken
+asphalt debris into dump trucks (R4, tab 128 (QA Daily Report No. 164); JSSF ¶ 58).
+
+       Show Cause Letter
+
+      73. On January 9, 2023, the CO issued a show cause letter, stating it had been
+160 days since issuance of the NTP, leaving less than 141 days to substantially
+complete all work (R4, tab 54; JSSF ¶¶ 59-60). The show cause letter noted the
+government’s repeated warning letters regarding PNI’s need to cure deficiencies in its
+performance, stating, PNI had “executed very minimal physical work on the project,”
+and had “not demonstrated any effort to increase crew sizes, extend shifts, or requested
+permission to work weekends” (R4, tab 54 at 2).
+
+       74. The show cause letter stated that PNI had not provided adequate responses
+to government notices that PNI was “not properly proceeding with the necessary
+preparatory activities by which to start work” (R4, tab 54 at 2). The government
+provided as an example that “there has been minimal evidence” of Two Track’s (PNI’s
+subcontractor) “actual involvement in this project, despite the requirement that [PNI]
+demonstrate its involvement” (id.).
+
+        75. The show cause letter noted that since issuance of the NTP, PNI had four
+different CQCSMs on the project, with the latest officially appointed on December 1,
+2022, and that “[t]he high turnover rate of key staff members has contributed to PNI
+self-inflicted delays in procuring base passes and developing timely submittals” (R4,
+tab 54 at 2). The government also noted that the ability to staff “a project delivery
+team and develop momentum is crucial to the successful and timely prosecution of
+construction projects,” and that PNI’s “false starts and stumbles only reinforce
+[USACE’s] increasing skepticism of PNI’s capability to deliver on time” (id.).
+
+        76. Regarding timely submittals, the CO expressed concern about PNI’s ability
+and competency “to consistently develop accurate quality control documentation
+without Government assistance,” noting that during mobilization PNI was “required to
+revise and resubmit several major submittals [including the] Accident Prevention Plan,
+Demolition Plan, Field Office Plan, and Temporary Power Plan due to egregious errors
+and omissions,” and that “multiple submittals for materials have displayed multiple
+errors, omissions, and a general lack of attention to detail which require correction and
+resubmission” (R4, tab 54 at 2).
+
+                                           17
+        77. Regarding scheduling, the government noted PNI’s inability to submit an
+acceptable schedule for work performed under the contract. The government noted
+that, on December 21, 2022, via Serial Letter C-0018, PNI was informed that its “4th
+NAS submission is still unacceptable primarily because [PNI] arbitrarily extended the
+CCD to August 2023,” and that PNI’s “payment application for December was
+rejected based on gross errors and omissions in the NAS update and narrative” (R4,
+tab 54 at 2-3). The CO stated that PNI had “neither officially submitted any evidence
+or explanation concerning why your firm has been delayed in progressing with the
+work due nor have you provided any written notice to the KO/ACO of any potentially
+compensable delays,” concluding “it is now impossible for your firm to complete the
+required work in the time remaining without a substantial time extension for
+Government or other caused delay” (id. at 3).
+
+       78. The government’s January 9, 2023, QA report notes that PNI “has
+effectively completed progress on all activities which have approved submittals,” that
+“[t]he majority of submittals to date have either been returned for corrections or
+rejected completely,” that the “[m]ajor outstanding submittals that are either in review,
+have been returned, or have not been submitted include dewatering, shoring, and
+underground electrical distribution shop drawings,” and that all “these submittals are
+associated with activities on the critical path which, based on the original baseline
+schedule, should already be started or completed by today[’]s date) (R4, tab 129 (QA
+Daily Report No. 167)).
+
+         Concrete Culvert Submittal
+
+       79. On January 13, 2023, the government requested PNI retransmit the
+concrete culvert plan and drawing because the previous version was unreadable in
+places (R4, tab 65 at 104). The parties agree that PNI complied immediately with the
+request (JSSF ¶ 38). 8
+
+       80. On January 16, 2023, PNI requested permission to conduct concrete testing
+(R4, tab 59; JSSF ¶ 61).
+
+         PNI Response to Show Cause Letter
+
+       81. On January 20, 2023, PNI submitted Serial Letter C-0019 in response to
+USACE’s show cause letter (R4, tab 60; JSSF ¶ 62). The cover letter recognized that
+PNI had “met with some difficulty in the subject FED project,” noting that “it was not
+easy to find the key personnel as this project is the small contract amount & short
+working period” (R4, tab 60 at 1). PNI stated that “[t]he corrective action plan is
+
+8
+    The government had neither approved nor disapproved the culvert plan at the time of
+         contract termination (JSSF ¶ 39).
+                                           18
+composed of the improvement of key personnel management, reasonable NAS update,
+improvement of submittals procedure, catch up plan, etc.” (id.; see also JSSF ¶ 63).
+
+        82. PNI’s corrective action plan identified “some delaying factors,” specifically
+(1) “[t]he construction site has been released partially except taxi way,” (2) difficulty
+accessing the project site, mobilizing the site office (including installation of
+temporary fence for the site office), because of delays in receiving base passes, and
+(3) “limited place for the contractor to perform the paper work due to the delay on
+issuing pass and ID” (R4, tab 60 at 5). PNI also recognized that “despite of some
+delaying factors, we acknowledge that PNI should be the one who is responsible for
+some delay” (id.).
+
+        83. PNI’s corrective action plan set forth its plans to improve key personnel
+management, provide reasonable NAS updates, improve its submittals procedures, and
+improve management (R4, tab 60 at 5-6). Regarding improvement of key personnel,
+PNI stated it would increase the number of personnel from three (“PM, CQCSM,
+SSHO”) to at least seven (“PM, CQCSM, SSHO, Alt. CQCSM, Civil team QCs,
+admin”) (id. at 5). Regarding improved submittals, PNI stated it “would resubmit the
+submittal register which would be a [sic] way more actuate than previous one[,] incl.
+submittal due date and keep on following the revised submittal register,” with the new
+version prepared by three personnel from the CQCSM team (as opposed to one) with
+an additional review before submitting to the government (id. at 6). Regarding
+improved scheduling, PNI submitted an updated NAS and pledged a scheduler for the
+“project would visit the job site at least 2 times a week to check the progress” (id.).
+Regarding improved management, PNI stated it would increase manpower and work
+evenings and weekends (id.). PNI also stated “[s]ince the contractor made the mistake
+to the government, contractor would keep the above submittal date and keep the
+submitted date after contractor [received] approval from the government,” adding
+“there’s no excuse on delaying,” and that PNI’s “headquarter[s] also would put more
+attention to our project and also do our best to support the construction site” (id.
+at 6-7).
+
+       Suspension of Work/Termination for Default
+
+       84. On February 16, 2023, USACE issued a suspension of work (R4, tab 61;
+JSSF ¶ 65). By email dated February 17, 2023, USACE informed PNI the contract
+was terminated for default (R4, tab 62; JSSF ¶ 67). The accompanying notice based
+termination on PNI’s delay and failure to meet the contract’s schedule and failure to
+provide acceptable schedule updates and corrective action plans (R4, tab 63; JSSF
+¶ 68). The CO noted that, based upon progress to date, “PNI will fail to meet the
+current CCD by at least 108 days” and that the government stands to be substantially
+damaged by PNI’s failure to timely perform, putting the 51st Fighter Wing’s mission
+
+
+                                           19
+and readiness at risk as the rail line is a contingency fuel-delivery system (R4, tab 63
+at 1).
+
+        85. The CO issued a seven-page determination and findings memorandum, also
+dated February 17, 2023, setting forth support for the default termination based upon
+PNI’s failure to make reasonable progress (R4, tab 141 at 1). The CO found no merit
+in PNI’s argument that it was delayed due to late release of the taxi yard because the
+parking lot work represented a small percentage of the entire project site and work
+there consisted primarily of rerouting underground utilities. The CO stated that “PNI
+has been unprepared to do any work, except demolition, thru February 2023.” (R4,
+tab 141 at 5; JSSF ¶ 66; see FOF ¶ 23) The CO likewise noted that (1) “[t]he same
+utility work (e.g., surveying, test digging, and trenching) must be performed in the
+yard PNI has occupied since October 2022,” (2) “PNI has not performed any work in
+either area since this project started,” (3) because “PNI did not submit any schedule
+updates, respond to the serial letter/meeting minutes, or address the work-sequencing
+issue, any claim of Government-cause delay could not be assessed,” and (4) PNI has
+not “completed submittals or plans (e.g., shoring, de-watering, and utility-rerouting)
+that are required to hold the Preparatory Inspection prior to any work.” The CO also
+noted that “PNI’s schedule update, received by FED’s scheduler on 11 January 2023,
+shows no Government-cause delay.” (Id.)
+
+        86. Regarding the issue of base passes, the CO found no merit, stating that the
+contract assigned the contractor the responsibility “to submit a base pass request no
+later than five (5) calendar days after award of the contract,” that PNI submitted four
+base passes to USACE on September 1, 2022, which USACE signed on September 6,
+2022, but were not retrieved by PNI until September 20, 2022 (R4, tab 141 at 5). 9
+
+       87. Regarding key personnel, the CO noted that “[t]he alternate CQCSM would
+be the 5th CQCSM associated with this project” and that the resume attached to PNI’s
+response indicates work primarily on smaller 411th CSB [Contracting Support
+Brigade] projects, with limited experience on FED projects (R4, tab 141 at 5). The CO
+expressed concern that “since poor submittal quality and lack of understanding FED’s
+processes is a part of PNI’s performance, this response displays a lack of
+comprehension of PNI’s problem” (id.).
+
+       88. Regarding improved submittal management, the CO noted that
+“[r]esubmitting the submittal register as PNI intends would not resolve the problem of
+poor submittal quality” and that PNI’s response “confirms that the 4th CQCSM (hired
+in November 2022) was the only person working on submittals” which “supports the
+
+9
+    We note that neither PNI’s initial brief nor its reply brief argue government delay in
+        issuance of base passes as a basis upon which to excuse PNI’s failure to make
+        progress.
+                                             20
+fact that PNI did not have enough experienced staff members on this project” (R4,
+tab 141 at 6).
+
+       89. Regarding schedule issues, the CO noted that “an updated schedule was
+requested multiple times throughout this project” and that PNI was “unable to provide
+an updated schedule for the duration of this project” (R4, tab 141 at 6). The revised
+schedule PNI submitted with its response to the show cause letter was deficient as it
+did not include the narrative required by the contract, included an added activity called
+“Final Site Release,” that attempted to fault the government for 3-months of delay, yet
+“a basic review of the schedule still showed there is no Government-caused delay”
+(id.).
+
+        90. Regarding improved management, the CO stated that PNI’s plan was “not
+specific enough to be considered” as PNI had yet to follow through on the two items
+listed, weekend work and submission of a winterization plan (R4, tab 141 at 6). The
+CO noted that “FED has repeatedly requested both verbally and via email, for PNI to
+submit both a winterization plan and a written request to work on weekend, per
+contract requirements” and, as of February 3, 2023, PNI had done neither (id.).
+
+      91. The CO determined that, as of the date of termination, the contract was
+3.6% complete (R4, tab 141 at 6).
+
+       No Progress Payment Requests Submitted Prior to Contract Termination
+
+       92. PNI did not submit any progress payment requests prior to contract
+termination (R4, tab 141 at 6). The CO in his determination and findings noted that
+“[n]o payments have been disbursed against the contract price,” and that “[i]f PNI
+submits a pay request, the Government will withhold payment for anticipated
+liquidated damages” (id.).
+
+       Contractor On-Site Inventory
+
+        93. On March 10, 2023, the parties held a site meeting to conduct an inventory
+for the purpose of contractor demobilization (app. supp R4, tab 32). The COR
+instructed PNI to leave at the construction site a silt fence and a construction fence,
+and to not replace asphalt already removed (R4, tab 65 at 153; app. supp R4, tab 32 at
+1). PNI was told to submit a schedule to complete demobilization work and submit an
+itemized list of costs incurred up until March 13, 2023 (app. supp R4, tab 32 at 1).
+
+       PNI Price Proposal
+
+      94. By letter dated March 13, 2023, PNI submitted both its price proposal for
+expenses incurred from NTP to contract termination and its demobilization plan (R4,
+
+                                           21
+tab 65 at 153). PNI’s price proposal consisted of several spread sheets and requested a
+total of ₩399,734,856 (id. at 154-71), broken down as follows: (1) Construct Rail
+Spur & Construct Site - ₩82,233,332 (Local Portion, ₩20,100,760; Field Overhead
+Cost, ₩55,245,888; G&A (2.00 %), ₩1,506,933; Profit (7.00%), ₩5,379,751) and
+(2) Removals – ₩317,501,524 (Local Portion, ₩77,608,701; Field Overhead Cost,
+₩213,303,452; G&A (2.00 %) ₩5,818,243; Profit (7.00%), ₩20,771,128 (id. at 154).
+Additional Field Overhead Cost identified by PNI included employee salary
+(₩156,625,000), temporary utilities (₩29,086,340), welfare facilities (₩30,338,000),
+office working expenses (₩19,700,000), communication fare (₩1,400,000), vehicle
+expenses (₩14,700,000), and safety expenses (₩4,050,000), totaling ₩268,549,340
+(id. at 155-56).
+
+        95. On March 30, 2023, PNI submitted a letter, which PNI’s supplemental
+Rule 4 file index identifies as “Pinewood’s Settlement proposal,” seeking a “solution”
+and requesting that the government “consider withdrawing the termination for default
+and allow Pinewood to finish the Contract at the original Contract price,” or consider
+converting the termination for default “into a termination for convenience and consider
+paying Pinewood the amount of 399,734,850 won submitted as expenses incurred by
+Pinewood” (app. supp R4, tab 35 at 1, 5). PNI’s March 30, 2023, letter was not
+identified as a claim, did not request a final decision, and did not include CDA
+certification (R4, tab 35 at 1-6).
+
+       Notice of Appeal – ASBCA No. 63588 (termination for default)
+
+        96. On April 20, 2023, PNI filed with the Board a notice of appeal of the
+default termination, which was docketed as ASBCA No. 63588. With its notice of
+appeal, PNI submitted a complaint challenging termination of the contract, stating that
+PNI was entitled to time extensions of 120 days for the government’s alleged delay in
+transferring to PNI the entire project site and 30 days for the government’s alleged
+delay in approving ENG FORM 4025 regarding culvert work (compl. ¶¶ 15, 17, 26-27,
+dtd. April 17, 2023). PNI also stated that it was entitled to reimbursement of contract
+costs incurred by PNI prior to termination, in the amount of ₩399,734,850
+($377,108.35 USD) (id. ¶ 29). Attached to the complaint was a “CERTIFICATION
+OF CLAIMS” signed by PNI’s president.
+
+       PNI May 30, 2023, Certified Claim for Contract Performance Costs
+
+       97. On May 30, 2023, PNI submitted its claim seeking issuance of a CO’s final
+decision and requesting that the government (1) withdraw its termination for default,
+(2) convert the termination into one for the convenience of the government,
+(3) reimburse PNI its contract performance costs for “work performed by Pinewood
+from the NTP to Termination,” in the amount of ₩399,734,850, and (4) reimburse
+PNI its “costs related to demobilization of the job site” (R4, tab 65 at 1-2). PNI sought
+
+                                           22
+payment of the same costs submitted in its March 13, 2023, letter (R4, tab 65 at 152-
+171; FOF ¶ 94). PNI’s claim also included the requisite CDA certification signed by
+PNI’s president (R4, tab 65 at 187).
+
+       Government Motion to Dismiss ASBCA No. 63588
+
+        98. On June 6, 2023, the government filed a motion to dismiss ASBCA
+No. 63588 for lack of jurisdiction, alleging that PNI had not submitted to the CO a
+request for a final decision on the delay and monetary claims set forth in PNI’s
+complaint (gov’t mot. at 4-5). The parties subsequently filed responsive and reply
+briefs.
+
+       PNI Notice of Appeal – Deemed Denial of May 30, 2023, Claim
+
+        99. On August 13, 2023, PNI filed with the Board a notice of appeal based
+upon the CO’s deemed denial of PNI’s May 30, 2023, claim. That appeal was
+docketed as ASBCA No. 63686. With its notice of appeal, PNI submitted a second
+complaint. In addition to once again challenging termination of the contract, PNI
+stated that it was entitled to (1) time extensions of 120 days for the government’s
+alleged delay in transferring to PNI the entire project site and 30 days for the
+government’s alleged delay in approving ENG FORM 4025 regarding culvert work,
+and (2) reimbursement of contract costs incurred by PNI prior to termination, in the
+amount of ₩399,734,850 ($377,108.35 USD) (compl. ¶¶ 17, 27, 38-39, dtd. August
+14, 2023).
+
+       Government Withdrawal of Motion to Dismiss/Stay of Proceedings
+
+       100. On September 20, 2023, the government withdrew its earlier motion to
+dismiss, based upon PNI’s May 30, 2023, certified claim submission and subsequent
+August 13, 2023, appeal of the government’s deemed denial of that claim. The Board
+accepted the government’s withdrawal of its motion to dismiss (Order dtd. September
+25, 2023), and on September 26, 2023, the parties requested a stay of proceedings
+pending issuance of a CO’s final decision on PNI’s May 30, 2023, certified claim.
+
+       Final Decision on May 30, 2023, Claim
+
+        101. The CO issued a final decision on March 6, 2024, denying PNI’s May 30,
+2023, claim (R4, tab 64). Regarding PNI’s claim for its pre-termination costs, the CO
+stated that pursuant to the contract, PNI is “liable for any damage to the Government
+resulting from the [c]ontractor’s failure to complete the work within the specified time,
+whether or not the contractor’s right to proceed with the work is terminated,” including
+“increased costs incurred by the Government in completing the work” (id. at 46-47).
+The CO denied “PNI’s request for payment for work it performed given that PNI
+
+                                           23
+failed to complete its work within the time allotted for the contract,” stating that PNI
+had completed only 3.6% of the contract work and “the project site was virtually clean,
+requiring little Government analysis of the condition or inventory of onsite
+construction materials” (id. at 47). The final decision contained no analysis of the
+actual or specific costs PNI submitted in its claim. On March 14, 2024, after issuance
+of the March 6, 2024, final decision, the Board lifted the stay of proceedings (Order
+dtd. March 14, 2024).
+
+                                       DECISION
+
+       I. Contentions of the Parties
+
+        PNI challenges the government’s default termination as arbitrary, capricious
+and unreasonable, alleging that “[t]he government failed to grant an extension of time
+for delays resulting from the late transfer of the project site,” and failed to timely
+“approve Eng Form 4025 Culvert, submitted on November 26, 2022, preventing the
+appellant from further performing under the Contract” (app. br. at 4). PNI also states
+that “[t]he government is liable for the progress payment the appellant requested” (id.).
+
+        The government counters, stating that the record establishes PNI “did not
+perform in a timely manner,” that “seven months into its ten-month construction
+contract, PNI had only completed 3.6% of the work when it should have been at 60%
+complete,” and that at the time of termination PNI “had only just started demolition
+work” (gov’t br. at 70-71). Regarding PNI’s claimed government-caused delays, the
+government responds that PNI has failed to meet its burden of establishing that the
+delay in releasing a portion of the taxi yard or approving PNI’s concrete culvert plan
+prevented PNI from timely performing the contract (id. at 95-97). The government
+alleges that areas of the project site other than the taxi yard were available for PNI to
+perform work and that PNI failed to submit and obtain approval for other
+contractually-required work plans and submittals which PNI needed to obtain before
+starting work covered by the concrete culvert plan (id.). The government’s briefs do
+not address in any detail whether PNI is entitled to recover its pre-termination costs,
+other than summarily stating that “PNI is not entitled to have the termination for
+default set aside nor is appellant entitled to recover on its costs” (id. at 123).
+
+       II. Proceedings Pursuant to Board Rule 11
+
+       Board Rule 11 gives the parties the option of waiving their right to a hearing
+and instead submitting their appeal for a decision on the written record; with the Board
+issuing factual findings on disputed facts. Trade West Constr., Inc., ASBCA
+No. 61068, 22-1 BCA ¶ 38,214 at 185,596. Pursuant to Board Rule 11(d), the weight
+given to evidence contained in the written record rests “within the discretion of the
+Board.”
+
+                                            24
+       III. The Evidentiary Record Establishes the Propriety of the Government’s
+            Termination of the Contract for Default
+
+       A termination for default is a government claim. Securiforce Int'l America,
+LLC v. United States, 879 F.3d 1354, 1363 (Fed. Cir. 2018). “When a CO terminates a
+contract for default, and the contractor appeals that termination decision, ‘the
+government . . . bear[s] the burden of proof with respect to the issue of whether
+termination for default was justified.’” Dep’t of Transp. v. Eagle Peak Rock &
+Paving, Inc., 69 F.4th 1367, 1375 (Fed. Cir. 2023) (quoting Lisbon Contractors, Inc. v.
+United States, 828 F.2d 759, 765 (Fed. Cir. 1987)). The government must prove
+proper justification by a preponderance of the evidence. CKC Sys., Inc., ASBCA
+No. 61025, 19-1 BCA ¶ 37,385 at 181,750. “[A] default-termination is a drastic
+sanction [citation omitted] which should be imposed (or sustained) only for good
+grounds and on solid evidence.” J.D. Hedin Constr. Co. v. United States, 187 Ct. Cl.
+45, 57, 408 F.2d 424, 431 (1969).
+
+       In appeals involving failure to make progress - the issue presented here - “the
+government must establish that ‘the CO’s decision to terminate . . . was reasonable
+given the events that occurred before the termination decision was made.’” Eagle
+Peak, 69 F.4th at 1375 (quoting Empire Energy Mgmt. Sys., Inc. v. Roche, 362 F.3d
+1343, 1357–58 (Fed. Cir. 2004)). Whether the government’s termination of the
+contract was reasonable is an objective inquiry, based not upon the CO’s subjective
+beliefs, but upon a review of the evidentiary record developed during the proceedings
+here. Id. at 1375-76. Our inquiry focuses “on ‘tangible, direct evidence reflecting the
+impairment of timely completion’” to “decide the actual performance that the contract
+requires and the amount of time remaining for performance.” Id. at 1376 (quoting
+McDonnell Douglas Corp. v. United States, 323 F.3d 1006, 1016-17 (Fed. Cir. 2003)).
+
+        There can be little doubt that the government has established by preponderant
+evidence that PNI was in default of its contract for failure to make progress and that
+the government was justified in terminating the contract pursuant to the contract’s
+default clause (FOF ¶ 7). The totality of the record reflects that PNI failed to make
+sufficient progress throughout the period of contract performance. A month into
+contract performance, the government expressed to PNI concern about the lack of
+work performed on the project thus far (FOF ¶ 27), with PNI acknowledging it was
+“late to start this project,” as well as its late submissions “due to the late manning for
+this project” (FOF ¶ 28). PNI displayed a continuing inability to satisfy the contract’s
+requirement that it submit and obtain approval of its temporary power plan and field
+office submissions (FOF ¶¶ 9-10, 13, 27, 31, 38, 43-45, 76, 82). PNI only once
+successfully submitted a contractually required construction schedule that was
+approved by the government (FOF ¶¶ 41-42, 51, 58, 77). The record is replete with
+examples of PNI’s failure to submit acceptable, contractually required schedule
+
+
+                                            25
+updates or respond properly to concerns expressed by the CO (FOF ¶¶ 5, 11, 19-22,
+25, 27, 29, 34, 37, 41-42, 44, 47-48, 51-52, 58, 67, 77, 83-85).
+
+        Both the show cause letter and the CO’s final decision detail at length the
+government’s many concerns about PNI’s lack of progress on the project (FOF ¶¶ 73-
+77, 85-92), including the fact that, as of issuance of the show cause letter (January 9,
+2023), only 141 days out of 300 remained to complete all work on the project (FOF
+¶ 73), and as of the date of contract termination (February 17, 2023), the contract was
+only 3.6% complete (FOF ¶ 91). Indeed, PNI’s response to the show cause letter
+recognized that it “is responsible for some delay” and that PNI had “met with some
+difficulty in the subject FED project,” noting that “it was not easy to find the key
+personnel as this project is the small contract amount & short working period” (FOF
+¶¶ 81-82).
+
+        Based upon our detailed findings of fact and the discussion above, we conclude
+that the government has met its burden of establishing by preponderant evidence the
+propriety of its default termination. Eagle Peak, 69 F.4th at 1376 (“If the adjudicatory
+tribunal finds, based on all the evidence before it, that the standard for termination
+under the contract's default clause is met, it is to uphold that decision whether or not
+the CO stated the basis for that finding”).
+
+       IV. PNI Has Not Established that its Failure to Perform was Excused
+
+        Once the government satisfies its burden and establishes a prima facie case of
+default, the burden then shifts to the contractor to establish that its failure to perform
+was excused. DCX, Inc. v. Perry, 79 F.3d 132, 134 (Fed. Cir. 1996). The contractor
+can meet its burden by establishing that “the government materially breached the
+contract thereby discharging [the contractor’s] duty to perform,” or that the contactor’s
+failure to perform was well beyond its “control and without its fault or negligence or
+that of its subcontractors or suppliers.” Highland Al Hujaz Co., LTD., ASBCA
+No. 58243, 16-1 BCA ¶ 36,336 at 177,164 (citations omitted).
+
+        As the Court of Appeals for the Federal Circuit explained in Kinetic Builder’s
+Inc. v. Peters, “[a] contractor seeking to prove the government's liability for a delay
+has the burden of proving the extent of the alleged delay, the causal link between the
+government’s wrongful acts and the delay in the contractor’s performance, and the
+alleged harm to the contractor for the delay.” 226 F.3d 1307, 1316 (Fed. Cir. 2000).
+To establish that “causal link, the contractor must show that the government’s actions
+affected activities on the critical path of the contractor’s performance of the contract.”
+Id. at 1317. Thus, PNI has the burden of establishing by preponderant evidence both
+the existence of an excusable cause of delay as well as the extent to which completion
+of the contract work was delayed as a whole. GSC Constr., Inc., ASBCA Nos. 59402,
+59601, 21-1 BCA ¶ 37,751 at 183,243; Fru-Con Constr. Corp., ASBCA Nos. 53544,
+
+                                            26
+53794, 05-1 BCA ¶ 32,936 at 163,158-59 (“[T]he delay must be to work on the critical
+path because only work on the critical path has an impact upon when the project is
+completed”). General allegations of delay and its impact are insufficient to establish
+entitlement.
+
+       The contract required PNI submit an initial construction schedule that it
+updated monthly and that included a narrative report reflecting information regarding
+the project’s critical path (FOF ¶¶ 21-22). Although the concept of critical path was
+addressed in PNI’s September 14, 2022, initial construction schedule (FOF ¶ 34)—
+which the government conditionally accepted on September 29, 2022 (FOF ¶ 42)—
+during contract performance PNI failed to submit revised construction schedules
+meeting the contract requirements, including the need to update the project’s critical
+path (FOF ¶¶ 48, 58, 78). Perhaps not surprisingly, therefore, PNI’s briefs neither
+specifically mention, nor discuss the import of establishing the contract’s “critical
+path” for purposes of analyzing the extent to which alleged government delay
+impacted PNI’s ability to make satisfactory progress towards meeting the CCD.
+
+        As the CO noted in the show cause letter, PNI “neither officially submitted any
+evidence or explanation concerning why your firm has been delayed in progressing
+with the work due nor have you provided any written notice to the KO/ACO of any
+potentially compensable delays” (FOF ¶ 77). Other than argument of counsel, PNI
+offers no record citation supporting a finding that the government’s alleged delay in
+releasing the taxi yard delayed the critical path of the project. Zafer Constr. Co.,
+ASBCA No. 56769, 17-1 BCA ¶ 36,776 at 179,231 (“Counsel’s unsupported argument
+is not proof”); ECC Int'l LCC, ASBCA Nos. 61176, 62029, 21-1 BCA ¶ 37,824
+at 183,692 (appellant's counsel “simply saying it does not make it so”). 10 PNI’s failure
+to present a critical path analysis demonstrating the impact of the government’s
+alleged delay “is fatal to its claim.” Wright Bros., the Building Co., Eagle LLC,
+ASBCA No. 62285, 23-1 BCA ¶ 38,255 at 185,776.
+
+        Regarding release of the taxi yard, in addition to PNI’s failure to include an
+analysis of the impact of that issue on the project’s critical path, there remained other
+work that PNI could have performed not involving on the taxi yard. As noted by the
+government, work on the taxi yard “comprised a small percentage of the entire project
+site” (gov’t reply at 8; see FOF ¶¶ 23, 85). Regarding the portion of the project site
+that the government released to PNI in September 2022 (which comprised a much
+larger percentage of the project site), appellant did not conduct any utility work such
+as surveying, testing, digging, and trenching that was required on that portion of the
+site (FOF ¶¶ 40, 85). Indeed, this larger portion of the project site released to PNI
+
+10
+     The record details the government’s continuing efforts to remove taxi cabs parked in
+         AAFES taxi yard, which finally was cleared on December 26, 2022 (FOF ¶¶
+         23-24, 44, 46, 51, 59-60, 62).
+                                            27
+concerned “construction of an approximately 330 meter long rail spur” and shifting
+“approximately 180 meters of the existing rail main track” (FOF ¶¶ 3-4; R4, tab 4
+at 5-6, tab 32 at 2 (photos depicting project site). The record establishes that (1) PNI’s
+subcontractor Two Track was supposed to perform the actual track work and (2) Two
+Track was not on the project site for any meaningful amount of time or work prior to
+contract termination (FOF ¶¶ 2, 26-27, 33, 44, 47, 61, 74).
+
+        PNI argues that release of the taxi yard impacted its ability to proceed with
+culvert work elsewhere within the project site because water/sewer flowed downward
+from the culvert under the AAFES taxi parking lot through the entire 80-meter culvert.
+According to PNI, “[t]o carry out the works of demolishing the 69 meters of the
+existing culvert and rebuilding the culvert, taking out the existing utility lines and
+installing new utility lines, and other associated works, it was essential first to remove
+the asphalt and concrete layers covering the AAFES taxi parking lot” (app. br. at 24).
+PNI argues “[i]t was impossible to demolish the existing culvert in areas other than the
+AAFES taxi parking lot first since the water/sewer flowing through the existing culvert
+flowed from the east to the west,” and “[a]dditionally, water/sewer first had to be
+diverted by installing the pipe from the remaining culvert under the AAFES taxi
+parking lot to the other end of the existing culvert by passing the 69 meter culvert to be
+demolished and rebuilt (id. (citing app. supp R4, tab 1 at 7-8)). However, record
+evidence suggests that PNI had a different view regarding culvert demolition during
+contract performance. As reflected in a meeting on December 2, 2022, PNI had
+“previously mentioned that the existing box culvert can be demoed immediately,” but
+that the COR did “not see that on the schedule” (FOF ¶ 52).
+
+        Regarding the status of the government’s review of PNI’s concrete culvert
+submittal, 11 the record reflects that PNI still was not otherwise able to begin culvert
+work. Prior to performing culvert work, the contract required PNI to submit and
+receive approval of its shoring plan and dewatering work plan (FOF ¶ 15). The
+government correctly notes that even after December 26, 2022, the date the AAFES lot
+was cleared, “the record demonstrates that on January 9, 2023[,] the government’s
+construction control representative noted that PNI was still required to submit a
+concrete mix plan, dewatering, shoring and underground electrical distribution shop
+drawings” before work could begin on the concrete culvert (gov’t reply at 9). The
+record clearly supports such a finding (FOF ¶¶ 15, 54, 56, 67, 69, 78, 85). For
+example, as of January 4, 2023, PNI was still working on its shoring plan which was,
+in turn, “delaying the scheduled start of activity C30005 – Shoring for Culvert” (FOF ¶
+67). Indeed, as noted in the January 9, 2023, QAR, as of that date, PNI had
+“effectively completed progress on all activities which have approved submittals,” and
+
+
+11
+     The record establishes that the government did not review PNI’s culvert submittal
+         within the 30 days specified in the contract (FOF ¶¶ 18, 50, 55, 78-79).
+                                            28
+that “[t]he majority of submittals to date have either been returned for corrections or
+rejected completely” (FOF ¶ 78).
+
+        In addition, at the time of contract termination, PNI still had several other
+outstanding submittals requiring submission and approval. For example, PNI had not
+successfully submitted any documents required for approval of the electrical and
+communications systems line item of work (CLIN 004), which included a shop
+drawing and several product data submittals (FOF ¶¶ 4, 16, 78). From early December
+2022, into January 2023, PNI still was in the process of conducting preliminary
+removal and demolition work (FOF ¶¶ 57, 63, 68, 72). 12 Indeed, on January 6, 2023,
+PNI informed the government “we can’t execute additional activity” as the
+“dewatering plan, shoring plan, elec and comm shop drawing are not submitted and
+these feature of work’s [sic] concerned submittals are also not approved” (FOF ¶ 70).
+That same day, PNI asked instead whether it could conduct preparatory inspection for
+earthwork and was informed by the QAR that the request was denied “based on
+PNI[’]s admitted lack of preparation, the potential for confusion of performing an
+abbreviated PI for limited activity, and a general lack of timely coordination by PNI
+staff” as well as the concern that “it is imprudent to conduct a PI for Earthwork until
+PNI has all associated plans and submittals approved for this feature of work” (FOF
+¶¶ 71-72).
+
+       PNI argues that “[w]hile Pinewood was performing under the Contract, the
+government never once instructed Pinewood to work on other matters since Pinewood
+had ‘access to the greater majority of the project site from the beginning around
+August 22, 2022’” (app. br. at 11). Given the nature of this fixed-price construction
+contract, it was not the government’s role to instruct PNI or decide how best to
+perform the contract. As the government succinctly stated in its reply brief, as
+contractor, PNI “is responsible for determining how it will perform the job” (gov’t
+reply at 2 (citing Canfield Mach. & Tool Co., ASBCA No. 10390, 65-2 BCA ¶ 5018
+at 23,667)).
+
+         V. PNI is Entitled to Reimbursement for Work Performed Prior to Termination
+
+       “[A] construction contractor who has been terminated for default is entitled to
+payment for work that was properly performed in accordance with the contract prior to
+the default termination.” Sungjee Constr. Co., ASBCA No. 62002, 23-1 BCA
+¶ 38,400 at 186,597 (citing J.G. Enters., Inc., ASBCA No. 27150, 83-2 BCA ¶ 16,808
+at 83,543). PNI must “prove that it performed work for which it was entitled to be
+
+12
+     PNI submitted its contractually-required demolition plan (FOF ¶ 14) on
+         September 5, 2022, which initially was disapproved; PNI’s resubmitted plan
+         was approved on September 23, 2022—almost two months after contract award
+         (FOF ¶¶ 35-36, 39).
+                                           29
+paid.” Id. (citing Truckla Servs., Inc., ASBCA No. 57564, 17-1 BCA ¶ 36,638
+at 178,447-48). “Where a contractor fails to provide accounting or other evidence to
+substantiate its allegations of a quantum recovery, it has not met its burden of proof
+and is therefore not entitled to payment.” GSC Constr., Inc., ASBCA Nos. 59046,
+59957, 16-1 BCA ¶ 36,437 at 177,603 (citing Env’t Safety Consultants, Inc., ASBCA
+No. 53485, 03-2 BCA ¶ 32,298 at 159,808). In GSC, the contractor’s evidence
+submitted in support of its quantum position was a “three-page claim to the CO” in the
+form of a narrative that neither included nor was “accompanied by any accounting or
+other evidence sufficient” for a reasonable trier of fact to find that the contractor
+(assuming entitlement) was owed the amount sought. Id.
+
+       Like the contractor in GSC, PNI essentially relies upon the claim it submitted to
+the CO as support for its quantum calculations. Unlike the contractor in GSC,
+however, PNI’s claim includes several spread sheets setting forth in detail the type of
+costs incurred and the way those costs were calculated. PNI does not seek specific
+delay damages and, as such, does not tie any costs incurred to a specific alleged
+government caused delay, nor does it offer a critical path analysis to establish which
+delay or disruption caused a day-for-day delay of the project itself. Rather, PNI seeks
+payment for work performed prior to the default termination. Although PNI never
+submitted a proper progress payment request prior to termination (FOF ¶ 92), the
+government did instruct PNI to submit an itemized list of costs incurred on the contract
+(FOF ¶ 93). 13
+
+        The record establishes that PNI performed contract work (mainly demolition)
+prior to termination, and after termination PNI was instructed to leave on site certain
+work items already performed (FOF ¶¶ 53-54, 56-57, 61-66, 68, 93). 14 At the time the
+parties elected to proceed with a decision on the record pursuant to Rule 11, the parties
+did not elect that the decision include a determination of quantum as well as
+entitlement. Indeed, neither party’s briefs provide any meaningful discussion of the
+pre-termination costs PNI seeks, or PNI’s entitlement to specific claimed costs, with
+the government summarily stating only that PNI is not entitled to recover its pre-
+termination costs (gov’t br. at 123). Although the CO’s memorandum in support of
+the decision to terminate the contract for default states “[i]f PNI submits a pay request,
+the Government will withhold payment for anticipated liquidated damages,” (FOF ¶ 8,
+92), the government has offered no record evidence that it actually assessed liquidated
+
+
+13
+   Had PNI submitted a progress payment request to the government, the contract
+       granted the government the right to “retain a maximum of 10% of the amount
+       of the payment until satisfactory progress is achieved” (FOF ¶ 6).
+14
+   The default clause grants the government the right to “take possession of and use
+       any materials . . . on the work site necessary for completing the work” (FOF
+       ¶ 7).
+                                           30
+ damages. 15 To determine the actual amount owed will require the parties to review the
+ costs set forth in PNI’s claim, considered in conjunction with work performed prior to
+ termination. Accordingly, PNI is entitled to yet undetermined reimbursement for its
+ pre-termination incurred costs. Determination of the specific amount is returned to the
+ parties to decide quantum.
+
+                                       CONCLUSION
+
+         For the reasons stated above, appellant’s appeal challenging the default
+ termination of the contract is denied (ASBCA No. 63588). Appellant’s challenge to
+ the government’s denial of its pre-termination costs (ASBCA No. 63686) is sustained
+ to the extent we hereby return the appeal to the parties to negotiate and resolve
+ quantum.
+
+           Dated: April 21, 2025
+
+
+                                                  DAVID B. STINSON
+                                                  Administrative Judge
+                                                  Armed Services Board
+                                                  of Contract Appeals
+
+I concur                                            I concur
+
+
+OWEN C. WILSON                                      MICHAEL N. O’CONNELL
+Administrative Judge                                Administrative Judge
+Acting Chairman                                     Vice Chairman
+Armed Services Board                                Armed Services Board
+of Contract Appeals                                 of Contract Appeals
+
+
+ 15
+      We note that PNI alleges that the government entered “a replacement contract,”
+         asserting, without citation to the record, that the resolicited “replacement
+         contract was not satisfactorily completed,” and that “the new contract was
+         terminated because of the problems with the project” (app. br. at 35). The
+         government does not address these allegations in its reply brief.
+                                             31
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA Nos. 63588, 63686, Appeals of
+Pinewood Inc. fka PNI Incorporation, rendered in conformance with the Board’s Charter.
+
+      Dated: April 21, 2025
+
+
+                                               PAULLA K. GATES-LEWIS
+                                               Recorder, Armed Services
+                                               Board of Contract Appeals
+
+
+                                          32

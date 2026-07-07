@@ -1,0 +1,820 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+    Appeal of -                                  )
+                                                 )
+    GSC Construction, Inc.                       )    ASBCA No. 61380
+                                                 )
+    Under Contract No. W912HN-10-D-0049          )
+
+    APPEARANCE FOR THE APPELLANT:                     Patrick B. Kernan, Esq.
+                                                       Asmar, Schor, McKenna, PLLC
+                                                       Washington, DC
+
+    APPEARANCES FOR THE GOVERNMENT: Michael P. Goodman, Esq.
+                                     Engineer Chief Trial Attorney
+                                    Allie E. Vandivier, Esq.
+                                     Engineer Trial Attorney
+                                     U.S. Army Engineer District, Savannah
+
+             OPINION BY ADMINISTRATIVE JUDGE JAMES R. SWEET
+
+        This appeal involves a task order the Army Corps of Engineers (government)
+issued to appellant GSC Construction, Inc. (GSC) to design and renovate Army
+Ranger barracks at Fort Benning, Georgia. Following our decision on the
+government’s motion for summary judgment and GSC’s narrowing of the issues, two
+claims remain. Those claims are that: (1) GSC is entitled to an equitable adjustment
+for the costs it incurred leveling the floors; and (2) the government improperly
+required GSC to remedy the defects and the damage related to two floods under a
+warranty clause. GSC Construction, Inc., ASBCA No. 61380, 20-1 BCA ¶ 37,626,
+at 182,666-69 (GSC I); (app. br. at 12). 1 The parties have elected to proceed under
+Board Rule 11. This decision addresses only entitlement.
+
+1
+    As laid out in GSC I, GSC appealed the contracting officer’s denial of seven claims.
+         Those related to alleged: (1) delay due to a failure to provide as-built drawings;
+         (2) audio visual changes; (3) out-of-scope testing; (4) floor leveling changes;
+         (5) fire alarm changes; (6) improperly requiring GSC to remedy the defects and
+         the damage related to two floods; and (7) failure to pay an outstanding contract
+         balance. GSC, 20-1 BCA ¶ 37,626 at 182,663-64. Moreover, claim (4)
+         involved two sub-claims. Those were that the government required: (a)
+         additional furring work to bring the floor slabs’ edges into vertical alignment;
+         and (b) the installation of Ardex floor leveling compound to make the floors
+         acceptably level. In GSC I, we granted the government summary judgment on
+         claims (1), (3), (4a), (5), and (7). Id. at 182,666-69. We denied the
+         government’s motion for summary judgment on claims (2), (4b), and (6). Id.
+        As discussed in greater detail below, the government has satisfied its burden of
+establishing the defense that GSC released the floor leveling claim. Moreover, the
+government has satisfied its burden of showing that the most probable cause of the
+first—but not the second—flood was GSC’s defective materials or workmanship when
+considered in light of other possible causes. Therefore, the government properly
+required GSC to remedy the defect and the damage related to the first flood, but
+improperly required GSC to remedy the defect and the damage related to the second
+flood. As a result, the appeal is denied as to the claims regarding floor leveling and
+the first flood, but is sustained as to the claim regarding the second flood.
+
+                                 FINDINGS OF FACT
+
+I.     Background
+
+       1. On September 7, 2010, the government awarded to GSC Contract No.
+W912HN-10-D-0049 (Contract), a multiple award task order contract for design/build,
+design-bid-build, or renovation type projects in the South Atlantic Division Area of
+Operation (R4, tab 3 at 30-32).
+
+       2. On August 18, 2011, the government issued a request for proposal for a task
+order on the Contract to design and renovate Buildings 2833 and 2834 at Fort Benning,
+Georgia (the Project) (R4, tab 4 at 218).
+
+      3. On September 25, 2012, the government awarded to GSC Task Order, 0007
+(Task Order) on the Contract for the Project (R4, tab 6 at 1057, 1062).
+
+II.    Progressive Collapse Resistance and Floor Leveling
+
+       4. The statement of work (Statement of Work) attached to the August 18, 2011
+request for proposal indicated that most of the as-built drawings for Buildings 2833
+and 2834 were available for GSC’s review before GSC submitted its proposal (R4,
+tab 4 at 260). Moreover, the Statement of Work required compliance with UFC 4-023-
+03 Design of Buildings to Resist Progressive Collapse (Progressive Collapse
+Resistance Requirements) (id. at 294). 2
+
+       Further, in its Rule 11 briefing, GSC abandoned claim (2) (app. br. at 12).
+       Therefore, we only address claims (4b) and (6).
+2
+  “Progressive collapse” is “the spread of an initial local failure from element to
+       element resulting, eventually, in the collapse of an entire structure or a
+       disproportionately large part of it.” Nat’l Institute of Standards and Tech., Best
+       Practices for Reducing the Potential for Progressive Collapse in Buildings at 1
+       (quoting Am. Soc’y of Civ. Eng’rs Standard 7-05), available
+       at https://www.govinfo.gov
+                                            2
+        5. On May 9, 2013, GSC’s Vice President and Project Manager, Mr. John
+Phillips (R4, tab 17 at 1243-44; tab 42 at 5027), sent the government a letter indicating
+that GSC’s pricing to meet the Progressive Collapse Resistance Requirements for
+Buildings 2833 and 2834 was too low. Because the government had failed to satisfy
+its obligation to provide as-built drawings before GSC submitted its proposal, GSC
+had to rely upon prior pricing from a vendor, which turned out to be too low for
+Buildings 2833 and 2834. (R4, tab 17 at 1243-44)
+
+       6. On May 29, 2013, Vice President Phillips sent a request for equitable
+adjustment for a price increase based upon the government’s failure to provide
+information necessary to properly price the cost of meeting the Progressive Collapse
+Resistance Requirements (R4, tab 17 at 1257-58).
+
+        7. On July 29, 2013, Vice President Phillips sent the contracting officer (CO) a
+letter indicating that GSC had encountered a differing site condition because the
+existing floor slabs in Building 2833 were not level. The July 29, 2013 letter did not
+address Building 2834. (R4, tab 22 at 4307)
+
+       8. On September 26, 2013, the CO sent Request for Proposal 0004 (Request for
+Proposal) to GSC in response to GSC’s May 29, 2013 request for equitable adjustment
+(R4, tab 24 at 4336).
+
+        9. In reply, GSC submitted a proposal regarding Progressive Collapse
+Resistance Requirements compliance (Progressive Collapse Resistance Proposal) on
+October 15, 2013 (R4, tab 24 at 4340). The Progressive Collapse Resistance Proposal
+totaled $499,931.60, and included $81,530.50, before markups, for leveling the floor
+slabs (id. at 4340). Attached to the Progressive Collapse Resistance Proposal was a
+quote from Mastercraft Flooring, Inc. (Mastercraft) for $81,530.50 to cover 30,388
+square feet of floor in Buildings 2833 and 2834 with 1,304 bags of leveling compound
+(id. at 4355).
+
+       10. On March 5, 2014, GSC and the government held negotiations regarding
+the Progressive Collapse Resistance Proposal (R4, tab 24 at 4363). A May 13, 2014
+price negotiation memorandum (Price Negotiation Memorandum), which is an internal
+government document, memorialized those negotiations, stating that:
+
+              The contractor’s argument concerns the floor leveling is
+              that the increased amount of fiberwrap necessary to meet
+              the [progressive collapse resistance] requirements has [led]
+              to the materials causing the new flooring finishes to not be
+              able to be installed properly. The fiberwrap is applied
+              directly to the slab and it has some thickness to it so that all
+              the differences in elevations on the slab where there is or is
+
+                                             3
+                not fiberwrap has caused issues with the new flooring and
+                there needs to be floor leveling installed to balance out the
+                floor surface. This floor leveling cost in the proposal is
+                $81,530.50. . . .
+
+                       ....
+
+                Objective: Based on the explanation provided above, it is
+                the Government’s belief that any floor leveling required is
+                the responsibility of the design build contractor. . . . [The
+                Government seeks a] cost decrease of $81,530.50. . . .
+
+                Negotiated: The contractor and the Government discussed
+                this item in detail during negotiations. The Government
+                requested the contractor to delete the floor leveling costs
+                for the reasons outlined above. The contractor reviewed
+                and agreed to remove these costs.
+
+(id. at 4366-67) Based upon the removal of the floor leveling costs and other
+adjustments, the government and GSC agreed to a net payment of $412,337.34 to GSC
+for the May 29, 2013 request for equitable adjustment (id. at 4368).
+
+        11. On May 15, 2014, the parties executed Bilateral Modification No. 04 (R4,
+tab 24 at 4369). Bilateral Modification No.04 contained a release (Release), which
+stated that:
+
+                This modification . . . is issued based on the Government’s
+                receipt of GSC’s Request for Equitable Adjustment (REA)
+                negotiated for the amount of $412,337.34. On May [2]9,
+                2013, 3 the Contractor submitted a REA for compensation
+                for add’l progressive collapse measures. The CO
+                determined the REA has merit, in part, and the parties have
+
+3
+    The Release referred to a May 19, 2013 request for equitable adjustment. We
+         conclude that that was a typographical error because there is no May 19, 2013
+         request for equitable adjustment in the record. Rather, we conclude that the
+         Release meant to refer to GSC’s May 29, 2013 request for equitable adjustment
+         because the date of the May 29, 2013 request for equitable adjustment was one
+         numeral off from the May 19, 2013, date in the Release (finding ¶ 6).
+         Moreover, it was the May 29, 2013 request for equitable adjustment that sought
+         compensation for additional progressive collapse measures that resulted in the
+         settlement, which the Release attributed to a May 19, 2013 request for equitable
+         adjustment (finding ¶ 6).
+                                              4
+              reached a fair & reasonable adjustment in contract price for
+              settlement in full of the REA including all direct & indirect
+              costs associated with this change. . . . It is understood &
+              agreed the contract price is increased in the lump sum
+              amount as stated for full & complete settlement of the
+              REA. . . . Payment of the amount indicated constitutes an
+              accord & satisfaction of all outstanding claims by the
+              Contractor.
+
+(Id.) In neither the Release nor any other document in the record did GSC reserve its
+right to pursue any floor leveling claim independent and apart from the released claims
+in the Release (id.).
+
+        12. In a declaration and at his deposition, the government’s Project Engineer,
+Mr. William Cale Simons, who represented the government at the negotiations and
+prepared the Price Negotiation Memorandum (R4, tab 24 at 4363; Simons decl. ¶¶ 11-
+12 (R4, tab 52 at 5822)), indicated that it was his understanding that the Release
+settled GSC’s floor leveling claims based on the discussions with GSC he took part in,
+in which GSC agreed to remove the costs for floor levelling as contemporaneously
+documented in the Price Negotiations Memorandum. This understanding was
+confirmed by that fact that GSC did not request additional compensation for floor
+leveling after the Release until about three years later—in May 2017 (Simons dep.
+38:13-16 (R4, tab 50 at 5585); Simons decl. ¶¶ 13, 15-16 (R4, tab 52 at 5823)).
+
+        13. GSC’s President, Mr. Locke McKnight, submitted three declarations: (1)
+McKnight Declaration I dated October 25, 2018 (attached to app. resp. to gov’t
+summary judgment motion); (2) McKnight Declaration II dated March 21, 2022 (app.
+supp. R4, tab 16); and (3) McKnight Declaration III dated April 21, 2022. In those
+declarations, President McKnight stated that the floor leveling issue was not resolved
+between the parties (McKnight Declaration I ¶ 10; McKnight Declaration II ¶ 1). The
+only basis that President McKnight offered for that assertion is that “the Board found
+that the totality of the floor leveling claim was not resolved by the” Release in GSC I
+(McKnight Declaration III ¶ 3).
+
+        14. On July 30, 2015, Vice President Phillips sent an email to Mastercraft
+asking “[i]f we can get the bag count for the ardex or other material you used for the
+floor leveling” on the Project (supp. R4, tab 42 at 5027-28). On August 12, 2015,
+Mastercraft responded that Mastercraft used 533 bags at a cost of $39,975 (id.
+at 5029).
+
+
+                                           5
+III.   Flooding
+
+      15. The Contract included Federal Acquisition Regulation (FAR) 52.246-21,
+WARRANTY OF CONSTRUCTION (MAR 1994) (Warranty of Construction
+Clause), which stated in part that:
+
+              (c)   The Contractor shall remedy at the Contractor’s
+              expense any failure to conform, or any defect. In addition,
+              the Contractor shall remedy at the Contractor’s expense
+              any damage to Government-owned or controlled real or
+              personal property, when the damage is the result of--
+
+              (1)    The Contractor’s failure to conform to contract
+              requirements; or
+
+              (2)    Any defect of equipment, material, workmanship, or
+              design furnished.
+
+(R4, tab 3 at 212-13) 4
+
+       16. The Task Order indicated that the work would include plumbing (R4, tab 6
+at 1062). In particular, the Statement of Work required GSC to “[p]rovide a complete
+new plumbing system for the building,” including water heaters (R4, tab 4 at 273).
+
+       17. On May 8, 2015, GSC achieved substantial completion and/or the
+government took beneficial occupancy of Building 2834 (GPFOF ¶ 111; ARGPFOF
+¶ 111). 5
+
+      18. On or about August 11, 2015, Fort Benning Department of Public Works
+maintenance contractor TIYA repaired the unit drain line of a condensate drain in the
+downstairs closet pursuant to Work Order No. 419535 (August 2015 Repairs). There
+
+4
+  The Warranty of Construction Clause stated in subparagraph (b) that “[t]his warranty
+      shall continue for a period of 1 year from the date of final acceptance of the
+      work. If the Government takes possession of any part of the work before final
+      acceptance, this warranty shall continue for a period of 1 year from the date the
+      Government takes possession.” (R4, tab 3 at 212) The parties agree that the
+      government either achieved substantial completion or took “beneficial
+      occupancy” of Building 2834 on May 8, 2015 (GPFOF ¶ 111; ARPFOF ¶ 111).
+      Therefore, the Warranty still covered Building 2824 at the time of the March 5,
+      2016 Flood and the April 3, 2016 Flood.
+5
+  “GPFOF” refers to the government’s proposed findings of fact in its opening brief.
+      “ARGPFOF” refers to the appellant’s response to the GPFOF in its reply brief.
+                                           6
+is no indication in Work Order No. 419535 that TIYA worked on the boiler or the
+water heaters. (R4, tab 39)
+
+       19. On March 5, 2016, TIYA received a call regarding flooding in the
+basement (March 5, 2016 Flood) (R4, tab 29 at 4715). TIYA issued three work orders
+in connection with the March 5, 2016 Flood. On March 5, 2016, TIYA issued Work
+Order Nos. 461521 and 461528 (id. at 4715-16). According to those work orders,
+TIYA found water in the basement, and determined that “[a] 2” water line on boiler 5
+blew apart at a male adapt because the fitting was cross threaded into the valve it was
+connected to” (id.). 6 TIYA pumped out the water and had the leak fixed. (id.). On
+March 9, 2016, TIYA issued Work Order No. 462195 to address the March 5, 2016
+Flood (R4, tab 40 at 5007). Work Order No. 462195 indicated that TIYA cleaned and
+sanitized the basement, checked and dried the switch gear and other electrical
+equipment affected by water damage, and “repaired domestic hot water heaters with
+replacement parts” (id.).
+
+      20. On March 10, 2016, government notified GSC about the March 5, 2016
+Flood stating that:
+
+                One of the 2” hot water lines in the MECH room of Bldg
+                2834 pulled apart at the boiler and flooded the basement.
+                It appears the cause of failure is due to the pipe being cross
+                threated….only about 2 threads were caught. The entire
+                basement area flooded, to include the office area. Several
+                damaged equipment in the MECH room as well as finishes
+                in the office space, including swelling of the office doors.
+                This is a Priority One (meaning response is required within
+                24 hours) warranty repair event and needs immediate
+                action. Please respond with the corrective action plan.
+
+(R4, tab 42 at 5030). The government also provided GSC a photograph showing the
+threading (id. at 5041).
+
+
+6
+    Cross threading occurs when a threaded connection engages at an angle rather than
+         straight on. The three primary reasons cross threading occurs are: (1) the
+         external and internal threads are incompatible; (2) a user makes an improper
+         connection; or (3) foreign material, such as dirt or rust, sits between the
+         individual threads. Cross threading may result in permanent damage to the
+         threads, and leaks. See https://tameson.com/pages/cross-threading.
+                                              7
+       21. On March 10, 2016, GSC inspected the site (app. supp. R4, tab 4 at 1). 7 On
+March 16, 2016, GSC had its subcontractor, United Maintenance, Inc. (United
+Maintenance), check all of the boilers and the water heaters. United Maintenance
+spent 10 hours testing the safety devices and components of each boiler and water
+heater. (App. supp. R4, tab 7 at 17-18) On its invoice to GSC, United Maintenance
+indicated for each of the four water heaters, “LAARS NEOTHERM M#
+NTV850NXX3” (app. supp. R4, tab 7 at 17-18). United Maintenance later reported in
+an April 26, 2016 email to GSC that:
+
+                On March 16, 2016, I was requested to visit Bldg # 2834
+                Mechanical room for [warranty] service of the water
+                heaters and boiler. During that review, three of the four
+                water heaters and the boiler were not operable, and the
+                controllers had been swapped around between them.
+                Water heater #4 had the controller for boiler #1 on it and
+                was operable. Boiler #1 also had the incorrect controller
+                and was inoperable.
+
+                Boiler #1 is for the hydronic hot water system, and not the
+                domestic hot water. . . . The difference between the water
+                heater and the boiler ride mostly within software. The
+                largest differen[ce] [between the boiler and the water
+                heater] is the high limit control. This is the maximum
+                allowed temperature of the outlet water from the heat
+                exchanger. On a water heater this program parameter [sic]
+                is limited to 200F and on the boiler it is limited to 230F.
+
+                The piping system for the domestic hot water is built with
+                [chlorinated polyvinyl chloride] which has a temperature
+                limit of 200F. . . . This is a good strong material when used
+                within the design specifications.
+
+                At no time did I try to service this water heater since this
+                would be unadvisable. It was clear to me that the
+                placement of the boiler controller on the water heater was
+                ill-advised and can harm the hot water piping system due
+                to high temperatures and pressures. The boiler would have
+                had a higher high temperature limit than the domestic
+                water piping system is designed to withstand. This
+                configuration would certainly lead to problems during high
+
+7
+    GSC did not consistently number the pages of its supplemental Rule 4 file;
+        accordingly, our citations are to pdf page numbers.
+                                              8
+                demands; (for example when the 150 troops shower) and
+                failure of the piping system.
+
+                With that being known it is the recommendation to replace
+                all water heaters and associated piping as the stresses on
+                the system are incalculable in this arrangement.
+
+(App. supp. R4, tab 4 at 3)
+
+       22. The government notified GSC of another leak on or about March 31, 2016
+(R4, tab 32 at 4722). GSC had its plumber, Roto-Rooter, repair the leak on April 1,
+2016, and April 2, 2016 (April 2016 Repairs) (id.; Culpepper Decl. ¶ 17 (supp. R4,
+tab 53 at 5829)).
+
+       23. The day after Roto-Rooter completed the April 2016 Repairs, another leak
+flooded the basement of Building 2834 on April 3, 2016 8 (April 3, 2016 Flood,
+collectively with the March 5, 2016 Flood, Floods) (Simons decl. ¶ 21 (R4, tab 52
+at 5823); R4, tab 31 at 4,719). The April 3, 2016 Flood occurred at the same location
+as the April 2016 Repairs (Simons decl. ¶ 21 (supp. R4, tab 52 at 5823)). According
+to Mr. Eddie Culpepper, an area engineer with the government, the April 3, 2016
+Flood resulted in 68 inches of water in the mechanical room and 18 inches of water in
+the basement office area and hallway (Culpepper decl. ¶ 18 (R4, tab 53 at 5829)).
+
+       24. In two letters to GSC dated April 5, 2016 and April 8, 2016, the
+government identified the cause of the April 3, 2016 Flood as a failure of Roto-
+Rooter’s April 2016 Repairs, and requested that GSC remedy the defect and the
+damage (R4, tabs 30-31). GSC confirmed in an April 11, 2016 letter that it had
+received notice on April 3, 2016, that Roto-Rooter’s April 2016 Repairs failed (R4,
+tab 32 at 4,722). GSC began remediation around April 4, 2016 (id.; R4, tab 42
+at 5080).
+
+      25. In his first two declarations, GSC President McKnight blamed the Floods
+on work done by TIYA on August 11, 2015, and pursuant to Work Order No. 462195
+on March 9, 2016. President McKnight declared that:
+
+                The Base Support contractor [TIYA]’s work orders
+                demonstrate that it was working in the area of the
+                basement HVAC system on 8-11-15. Subsequently there
+
+8
+    There is some evidence that the flooding actually began in the evening of April 2,
+         2016 (R4, tab 31 at 4719). However, whether the flooding began on April 2,
+         2016, or April 3, 2016 does not impact our analysis, so we refer to it as the
+         April 3, 2016 Flood for ease of reference.
+                                             9
+              was a leak in the same systems. GSC did not make any
+              repairs or work related to the March 5, 2016, flood.
+              Subsequently, following the April 2016 flood, GSC was
+              able to determine that the base support contractor or some
+              entity other than GSC had modified HVAC equipment
+              through work order #462195.
+
+(McKnight Declaration I ¶ 15; McKnight Declaration II ¶ 7) In particular, President
+McKnight asserted that, as part of the work on March 9, 2016, pursuant to Work Order
+No. 462195, TIYA’s “repair was to take out the panel on the boiler and put it on the
+water heater” (McKnight Declaration III ¶ 12). According to President McKnight, this
+had two effects. First, he oddly claims that it caused a spike in water pressure, which
+caused the thread to break and the March 5, 2016 Flood. As President McKnight
+declared, the “Government has failed to acknowledge the boiler panel being placed by
+the base support contractor on the hot water heater and three of four hot water heaters
+not working at the flood. So of course, after a year of operation the cross thread gives
+way no [sic] it was a spike in pressure due to the fact [sic] government actions.”
+(McKnight Declaration III ¶ 16) Second, President McKnight asserted that TIYA’s
+replacement of a water heater control panel with a boiler control panel caused the
+water to superheat, which damaged the joints that Roto-Rooter had just cemented and
+caused the April 3, 2016 Flood (McKnight Declaration III ¶¶ 12-14. As President
+McKnight declared, “[w]hen Rotorooter put the hot water heater back on [as part of
+the April 2016 Repairs] . . . their technician did not know that the base support
+contractor had modified the control panel. This caused the water to super heat” (id.
+at ¶ 13). The superheated water, in turn, caused the newly cemented joints to fail, and
+thus the April 3, 2016 Flood (id. at ¶ 14).
+
+        26. President McKnight provided a photograph, which he declared showed the
+incorrect control panels on a water heater (McKnight Declaration I ¶ 17; McKnight
+Declaration II ¶ 9). The government does not dispute President McKnight’s assertion
+regarding the content of the photograph in its Rule 11 submissions to the Board (gov’t
+br. at 38). Thus, we conclude that the photograph showed the incorrect control panel
+on a water heater. The photograph was dated April 20, 2016 (McKnight Declaration I,
+attach.).
+
+       27. In the November 1, 2016 email, GSC’s attorney stated to an attorney for
+BITCO—GSC’s insurance company—that the April 3, 2016 Flood “was the
+responsibility of Roto Rooter” (app. supp. R4, tab 6 at 1). Similarly, in a
+December 20, 2017, settlement agreement with BITCO, GSC agreed to file a lawsuit
+against Roto-Rooter, and “warrant[ed] that it is entitled to the payment [of the
+settlement amount] from Roto-Rooter” (R4, tab 44 at 5252, 5254-55). There is no
+evidence in the record that GSC sued Roto-Rooter.
+
+
+                                          10
+IV.       Procedural History
+
+       28. On May 14, 2017, GSC filed claims with the CO, including claims
+regarding floor leveling and remedying the Floods (R4, tab 12 at 1103-04). GSC
+revised its claims on July 26, 2017, to add a certification (R4, tab 14).
+
+        29. On February 15, 2018, the CO issued a final decision, finding partial merit
+to the claims, but denying the rest of the claims, including the floor leveling and
+remedying the Floods claims (R4, tab 2 at 3, 11-14, 18-24, 26-27).
+
+          30. This appeal followed.
+
+       31. The government moved for summary judgment. On June 4, 2020, we
+issued a decision in GSC I, granting that motion in part, and denying it in part. 20-1
+BCA ¶ 37,626. Regarding the floor leveling claim, we held that:
+
+                 The leveling of the slabs that is addressed in [the Release]
+                 is specifically stated to be attributable to the application of
+                 fiberwrap, something that is possibly independent and
+                 apart from the levelness issue that was initially raised by
+                 appellant in July 2013. . . . [W]e find the record on the
+                 issue of slab levelness is sufficiently clouded that the better
+                 course in the circumstances is to exercise our discretion to
+                 hold a hearing on this issue.
+
+Id. at 182,667-68. We also concluded that there was a genuine issue of material fact
+regarding who was responsible for the Floods. Id. at 182,669.
+
+                                          DECISION
+
+      As discussed below, this appeal is denied as to the floor leveling claim and the
+March 5, 2016 Flood claim, but is sustained as to the April 3, 2016 Flood claim.
+
+I.        The Floor Leveling Claim
+
+      This appeal is denied as to the floor leveling claim because the government has
+shown that GSC’s floor leveling claim is barred by the release defense. 9 The release
+
+9
+     The United States Court of Appeals for the Federal Circuit has held that release and
+          accord and satisfaction are separate defenses. Holland v. United States,
+          621 F.3d 1366, 1377 (Fed. Cir. 2010). Because we find that the release defense
+          applies, we decline to reach the issue of whether the accord and satisfaction
+          defense also applies.
+                                               11
+defense applies when there “is a contract whereby a party abandons a claim or
+relinquishes a right that could be asserted against another.” Holland v. United States,
+621 F.3d 1366, 1377 (Fed. Cir. 2010) (citations omitted). “A release is contractual in
+nature and must be interpreted in the same manner as any other contract term or
+provision.” Korte-Fusco Joint Venture, ASBCA No. 59767, 15-1 BCA ¶ 36,158
+at 176,455 (citing Bell BCI Co. v. United States, 570 F.3d 1337, 1341 (Fed. Cir.
+2009)). In interpreting a contract, “clear and unambiguous [contract provisions] . . .
+must be given their plain and ordinary meaning . . . and we may not resort to extrinsic
+evidence to interpret them.” Coast Fed. Bank, FSB v. United States, 323 F.3d 1035,
+1040 (Fed. Cir. 2003) (citations omitted) (en banc). A contract is ambiguous if it is
+susceptible to more than one reasonable interpretation. E.L. Hamm & Assoc., Inc.
+v. England, 379 F.3d 1334, 1341 (Fed. Cir. 2004). If the terms of a contract are
+ambiguous, we may consider extrinsic evidence. Korte-Fusco, 15-1 BCA ¶ 36,158
+at 176,455 (citing Beta Sys., Inc. v. United States, 838 F.2d 1179, 1183 (Fed. Cir.
+1988)). It is the government’s burden to prove defenses, such as release, see Stockton
+East Water Dist. v. United States, 583 F.3d 1344, 1360 (Fed. Cir. 2009), by a
+preponderance of the evidence. Techni Data Laboratories, ASBCA No. 21054,
+77- 2 BCA ¶ 12,667 at 61,410.
+
+       Here, the government has shown that the Release released the floor leveling
+claim. First, the clear and unambiguous language of the Release released all claims in
+GSC’s May 29, 2013 request for equitable adjustment that resulted in the negotiated
+$412,337.34 adjustment by stating that:
+
+              This modification . . . is issued based on the Government’s
+              receipt of GSC’s Request for Equitable Adjustment (REA)
+              negotiated for the amount of $412,337.34. On May [2]9,
+              2013, the Contractor submitted a REA for compensation
+              for add’l progressive collapse measures. The Contracting
+              Officer determined the REA has merit, in part, and the
+              parties have reached a fair & reasonable adjustment in
+              contract price for settlement in full of the REA including
+              all direct & indirect costs associated with this change. . . .
+              It is understood & agreed the contract price is increased in
+              the lump sum amount as stated for full & complete
+              settlement of the REA. . . . Payment of the amount
+              indicated constitutes an accord & satisfaction of all
+              outstanding claims by the Contractor.
+
+(Finding ¶ 11)
+
+       Second, the undisputed evidence shows that GSC’s May 29, 2013 request for
+equitable adjustment that resulted in the negotiated $412,337.34 adjustment included
+
+                                            12
+the floor leveling claim. GSC’s Progressive Collapse Resistance Proposal for
+$499,931.60—which it submitted in reply to the request for proposal that the
+government sent in response to GSC’s May 29, 2013 request for equitable
+adjustment—undisputedly included $81,530.50 for floor leveling. (Findings ¶¶ 8-9)
+Further, the May 13, 2014 Price Negotiation Memorandum undisputedly showed that
+the negotiations regarding that proposal that resulted in the $412,337.34 adjustment
+and the Release included the floor leveling claim (finding ¶ 10). In particular, the
+Price Negotiation Memorandum showed that the government determined that the floor
+leveling claim did not have merit, and the parties agreed that GSC was not entitled to
+$81,530.50 for floor leveling (id.). 10 Because GSC’s May 29, 2013 request for
+equitable adjustment that resulted in the negotiated $412,337.34 adjustment included
+the floor leveling claim and the Release unambiguously released all claims in GSC’s
+May 29, 2013 request for equitable adjustment that resulted in the negotiated
+$412,337.34 adjustment, the Release released the floor leveling claims.
+
+        Relying upon the McKnight declarations, GSC argues that we held in GSC I
+that the totality of the floor leveling claim was not addressed in the Release (app. br.
+at 14; finding ¶ 13). That misstates our holding in GSC I. In GSC I we merely denied
+the government’s summary judgment motion on the grounds that the “leveling of the
+slabs that is addressed in [the Release] is specifically stated to be attributable to the
+application of fiber wrap, something that is possibly independent and apart from the
+levelness issue that was initially raised by [GSC] in July 2013[.]” 20-1 BCA ¶37,626,
+at 182,667-68 (emphasis added).
+
+
+10
+     While the Price Negotiation Memorandum was an internal government document,
+         GSC does not object to its reliability (GPFOF ¶¶ 61-64; ARGPFOF ¶¶ 61-64).
+         In particular, GSC does not object to the Price Negotiation Memorandum as
+         hearsay, so the parties did not brief—and we do not address—whether the Price
+         Negotiation Memorandum is hearsay, whether it falls into a hearsay exception,
+         or whether we should follow the hearsay rule in this Rule 11 appeal (id.; see
+         also Federal Rules of Evidence 802, 803, 807; Board Rule 10(c) (stating that
+         the Federal Rules of Evidence are not binding on the Board but may guide our
+         rulings)). In any event, we note that the Price Negotiation Memorandum
+         presents several indicia of reliability—namely that: (1) it is a contemporaneous
+         document prepared prior to any motive to fabricate for purposes of litigation or
+         likely memory loss; and (2) the Release corroborates the Price Negotiation
+         Memorandum’s indication that the government determined that the floor
+         leveling claim did not have merit and that the parties agreed to reduce the
+         adjustment to $412,337.34, the government determined that the request for
+         equitable adjustment “has merit, in part, and the parties have reached a fair &
+         reasonable adjustment in contract price” of $412,337.34 (finding ¶ 11
+         (emphasis added)).
+                                            13
+        Now that we are deciding the merits, we conclude that the preponderance of the
+evidence shows that there is no floor leveling claim independent and apart from the
+floor leveling claim addressed in the Release. Project Engineer Simons declared that
+the Release addressed the floor leveling claim (finding ¶ 12). The contemporaneous
+evidence supports that assertion. First, the Price Negotiation Memorandum
+demonstrates that the entire floor leveling claim was related, connected, and attributable
+to the application of fiber wrap that the Release addressed by showing that the
+widespread unevenness in floor elevation caused by the application of fiber wrap
+required the floor leveling throughout Building 2833 and 2834 anyway (finding ¶ 10)—
+regardless of any pre-existing unevenness (finding ¶ 7). Second, nowhere in the
+Release—or anywhere else in the record—did GSC reserve its right to pursue a floor
+leveling claim independent and apart from the floor leveling claim addressed in the
+Release (finding ¶ 11). Finally, the fact that the amount of floor leveling compound
+used on the Project (533 bags at a cost of $39,975) was significantly less than the
+amount of floor leveling compound that was part of the floor leveling claim addressed
+in the Release (1,304 bags at a cost of $81,530.50) supports the conclusion that there
+were no floor leveling costs independent and apart from the costs addressed in the
+Release (findings ¶¶ 9, 14) since we can reasonably infer, based on GSC’s initial
+estimates, that there was a need to use a substantial amount of levelling compound as
+part of the progressive collapse mitigation. Thus, the preponderance of the evidence
+indicates that there is no floor leveling claim independent and apart from the floor
+leveling claim addressed in the Release.
+
+        GSC also appears to argue that the floor leveling claim covered by the Release
+is independent and apart from the floor leveling claim that GSC raised in July 2013
+because the floor leveling claim that GSC raised in July 2013 purportedly covered
+floor leveling in Building 2834, not Building 2833 (app. br. at 14). However, the floor
+leveling claim that GSC raised in July 2013 did not cover Building 2834 (finding ¶ 7).
+Moreover, the floor leveling claim addressed in the Release covered leveling in both
+Buildings 2833 and 2834, as demonstrated by the Mastercraft quote attached to GSC’s
+Progressive Collapse Resistance Proposal (finding ¶ 9). Therefore, any attempt to
+argue that the floor leveling claim raised in July 2013 covered Building 2834, while
+the floor leveling claim addressed in the Release covered Building 2833, fails.
+
+      In sum, the government has shown by a preponderance of the evidence that the
+Release covered the floor leveling claim that GSC asserts here.
+
+II.    Remedying the Floods Claims
+
+      The appeal is denied as to the March 5, 2016 Flood claim—but sustained as to
+the April 3, 2016 Flood claim—because the government has shown that the most
+probable cause of the March 5, 2016 Flood—but not the April 3, 2016 Flood—was
+GSC’s defective materials or workmanship. The Warranty of Construction Clause
+
+                                           14
+required GSC to remedy, at its expense, any defect and the damage to government
+property when the defect and the damage was the result of “[a]ny defect of equipment,
+material, workmanship, or design furnished.” (Finding ¶ 15) As we have recognized,
+“[w]hen the Government asserts its rights under the WARRANTY OF
+CONSTRUCTION clause, it must prove that: (1) the material or workmanship was
+defective; and (2) the most probable cause of the failure was the deficiency.” Grid
+Constr., Inc., ASBCA No. 48458, 01-2 BCA ¶ 31,493, at 155,503 (citing Earth Tech
+Indus., ASBCA No. 46450, 99-1 BCA ¶ 30,341 at 150,045; Hogan Constr., Inc.,
+ASBCA No. 38801, 95-1 BCA ¶ 27,396 at 136,575, aff’d on recon., 95-2 BCA
+¶ 27,688). Under that standard:
+
+              The Government is not required to prove the cause of the
+              failures with absolute certainty. The standard of proof is
+              not that stringent. To establish such causation, it is
+              sufficient for the Government to show that that the
+              defective material or improper workmanship ordered to be
+              corrected was “the most probable cause . . . of the failures,
+              when considered with reference to other possible causes.”
+              Abney Construction Co., ASBCA No. 23686, 80-2 BCA ¶
+              14,506 at 71,514.
+
+Grid Constr., 01-2 BCA ¶ 31,493, at 155,503 (quoting Airport Constr. & Materials,
+Inc., ASBCA No. 32583, 87-1 BCA ¶ 19,361 at 97,927).
+
+        Here, the parties point to conflicting possible causes for the Floods. On the one
+hand, the government argues that defective cross threading was the most probable
+cause of the March 5, 2016 Flood (gov’t br. at 34). The government also argues that
+defective repairs by GSC’s subcontractor Roto-Rooter were the most probable cause
+of the April 3, 2016 Flood (id.). On the other hand, GSC argues that, on either on
+August 11, 2015 or March 9, 2016, Base Support contractor TIYA replaced a water
+heater control panel with a boiler control panel, which superheated the water from the
+water heater (app. br. at 15-17; finding ¶ 25). GSC argues that that superheated water,
+in turn, caused the March 5, 2016 Flood by causing the threads to break (app. br.
+at 17). GSC also argues that the superheated water caused the April 3, 2016 Flood by
+causing Roto-Rooter’s repair to fail (id.). As discussed in greater detail below, the
+government has satisfied its burden of showing that the most probable cause of the
+March 5, 2016 Flood was defective cross threading, but it has failed to satisfy its
+burden of showing that the most probable cause of the April 3, 2016 Flood was
+defective repairs by Roto-Rooter, when considered with reference to the other possible
+causes posited by GSC.
+
+
+                                           15
+       A.     The March 5, 2016 Flood
+
+       Under the Task Order, GSC was responsible for providing a completely new
+plumbing system (finding ¶ 16). The contemporaneous evidence—namely TIYA
+Work Orders Nos. 461521 and 461528, the government’s March 10, 2016 notification
+to GSC, and the photograph provided in connection with the March 10, 2016
+notification—establish that the probable cause of the March 5, 2016 Flood was
+defective cross threading (findings ¶¶ 19-20).
+
+        That conclusion is only strengthened by the consideration of that probable
+cause with reference to other possible causes because there is no evidence that TIYA’s
+replacement of a water heater control panel with a boiler control panel caused the
+March 5, 2016 Flood. President McKnight suggests that TIYA might have replaced a
+water heater control panel with a boiler control panel during the August 2015 Repairs
+(finding ¶ 25). However, there is no indication in the August 2015 Work Order that
+TIYA worked on the water heaters or boilers (finding ¶ 18). Nor could TIYA’s March
+9, 2016 work have caused the March 5, 2016 Flood because that work occurred after
+that flood (finding ¶ 19). Further, the TIYA Work Orders in response to the March 5,
+2016 Flood indicated that the thread failure occurred on a water line on the boiler; not
+in the domestic hot water system connected to the water heater (id.). Therefore, there
+is minimal—if any—possibility that the thread failure that caused the March 5, 2016
+Flood was due to superheated water in the domestic hot water system resulting from
+TIYA’s replacement of a water heater control panel with a boiler control panel.
+
+       In sum, the government has shown that the most probable causes of the
+March 5, 2016 Flood was defective cross threading. As a result, the government has
+shown that it was entitled to require GSC to remedy the defect and the damage related
+to the March 5, 2016 Flood under the Warranty of Construction Clause.
+
+       B.     The April 3, 2016 Flood
+
+       The government has failed to show that the most probable cause of the April 3,
+2016 Flood was Roto-Rooter’s defective materials or workmanship. Certainly, the
+April 5, 2016, April 8, 2016, and April 11, 2016 letters, and the fact that the leak
+causing the April 3, 2016, Flood occurred in the same location as, and shortly after,
+Roto-Rooter’s April 2016, Repairs, demonstrate that the failure of Roto-Rooter’s
+April 2016 Repairs caused the April 3, 2016 Flood (findings ¶¶ 23-24). Yet, that just
+begs the question—what caused the failure of Roto-Rooter’s April 2016 Repairs:
+Roto-Rooter’s defective materials and workmanship, or the newly cemented joints
+leaking due to superheated water resulting from TIYA’s replacing a water heater
+control panel with a boiler control panel? There is some evidence to support the
+conclusion that Roto-Rooter’s defective materials or workmanship caused the April 3,
+
+
+                                          16
+2016 Flood—namely statements GSC made to its insurance company that the April 3,
+2016 Flood was Roto-Rooter’s responsibility (finding ¶ 27). 11
+
+        However, the evidence supporting the conclusion that TIYA’s replacement of a
+water heater control panel with a boiler control panel caused the April 3, 2016 Flood is
+at least as strong as—if not stronger than—the evidence supporting the contrary
+conclusion. President McKnight declared that, after the April 3, 2016 Flood, GSC was
+able to determine that TIYA had replaced a water heater control panel with a boiler
+control panel, which caused the April 3, 2016 Flood by superheating the water and
+damaging the joints that TIYA had just cemented (finding ¶ 25). The
+contemporaneous evidence supports that assertion. In particular, in Work Order
+No. 462195, TIYA indicated that it “repaired domestic hot water heaters with
+replacement parts” on March 9, 2016 (finding ¶ 19). Moreover, a photograph showed
+the incorrect control panel on a water heater (finding ¶ 26). While the government is
+correct that the photograph was not taken until April 20, 2016 (gov’t br. at 38; finding
+¶ 26), other contemporaneous evidence confirms that the incorrect control panel was
+on the water heater on March 16, 2016—shortly after TIYA repaired the water heater
+with replacement parts on March 9, 2016, and before the April 3, 2016 Flood.
+Namely, United Maintenance reported that, when it serviced the water heaters and
+boilers on March 16, 2016, it observed that “the controllers had been swapped around
+between [the water heaters and boilers]. 12 Water heater #4 had the controller for boiler
+
+11
+   The government also points to the fact that, on its invoice, United Maintenance
+       included the same model number under each water heater to suggest that all of
+       the water heaters had the same control panel (gov’t reply br. at 6). However,
+       the government provides no evidence that the “LAARS NEOTHERM M#
+       NTV850NXX3” indication on the invoice referred to the model number of the
+       water heater control panels—as opposed to the water heaters (id.). On the
+       contrary, “LARS NEOTHERM NTV850NXX3” appears to refer to water
+       heaters and not just their control panels. See
+       https://www.manualslib.com/products/Laars-Neotherm-Ntv850nxx3-
+       13524640.html.
+12
+   While we have some concerns that United Maintenance appears to have waited over
+       a month to report that a water heater control panel had been replaced with a
+       boiler control panel (finding ¶ 21), the government—which bears the burden of
+       proof—has presented no evidence that that delay constituted defective
+       workmanship. Moreover, the government has not shown that any defective
+       workmanship on the part of United Maintenance was the most probable cause
+       of the April 3, 2016 Flood, instead of TIYA’s defective workmanship of
+       replacing the water heater control panel with a boiler control panel in the first
+       place. Cf. Marine Hydraulics Int’l, LLC, ASBCA No. 62817, 2024 WL
+       2013891 (ASBCA April 16, 2024) (holding that the government’s failure to
+       take measurements that would have revealed a contractor’s defective
+                                           17
+  #1 on it . . . .” (Finding ¶ 21) United Maintenance explained that this was “ill-advised
+  and can harm the hot water piping system” because the boiler control panel heats water
+  to a temperature above the high temperature limit of the domestic water piping system
+  used by the water from the water heaters (id.). Thus, United Maintenance concluded
+  that “[t]his configuration would certainly lead to . . . failure of the piping system” (id.).
+
+          In sum, because the evidence that the cause of the April 3, 2016 Flood was
+  TIYA improperly replacing a water heater control panel with a boiler control panel is
+  at least as strong as the evidence that the cause of the April 3, 2016 Flood was Roto-
+  Rooter’s defective materials or workmanship, the government has not satisfied its
+  burden of showing that the most probable causes of the April 3, 2016 Flood was Roto-
+  Rooter’s defective materials or workmanship when considered with reference to other
+  possible causes. As a result, the government has not shown that it was entitled to
+  require GSC to remedy the defect and the damage related to the April 3, 2016 Flood
+  under the Warranty of Construction Clause.
+
+                                       CONCLUSION
+
+        For the foregoing reasons, the appeal is denied as to the floor leveling claim and
+  the March 5, 2016 Flood claim. However, the appeal is sustained as to the April 3,
+  2016 Flood claim. The appeal is returned to the parties for a determination of
+  quantum.
+
+         Dated: May 27, 2025
+
+
+                                                    JAMES R. SWEET
+                                                    Administrative Judge
+                                                    Armed Services Board
+                                                    of Contract Appeals
+
+(Signatures continued)
+
+
+         workmanship did not cause the damage that resulted from that defect); ECC
+         Int’l Constructors/Metag (JV), ASBCA No. 62124, 2023 WL 7107326
+         (ASBCA Sept. 20, 2023) (holding that the government’s review or approval of
+         defective construction transmittals did not relieve a contractor of its
+         responsibility for the defect).
+                                               18
+ I concur                                           I concur
+
+
+ OWEN C. WILSON                                     J. REID PROUTY
+ Administrative Judge                               Administrative Judge
+ Acting Chairman                                    Vice Chairman
+ Armed Services Board                               Armed Services Board
+ of Contract Appeals                                of Contract Appeals
+
+
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA No. 61380, Appeal of GSC
+Construction, Inc., rendered in conformance with the Board’s Charter.
+
+       Dated:
+
+
+                                                 PAULLA K. GATES-LEWIS
+                                                 Recorder, Armed Services
+                                                 Board of Contract Appeals
+
+
+                                            19

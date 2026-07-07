@@ -1,0 +1,704 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeal of --                                   )
+                                               )
+Atlas Sahil Construction Company               )       ASBCA No. 58951
+                                               )
+Under Contract No. W919QA-10-C-0073            )
+
+APPEARANCE FOR THE APPELLANT:                          Thomas Rosenstock, Esq.
+                                                       Domenic Senger-Schenck, Esq.
+                                                        Rosenstock Legal Services
+                                                        Kabul, Afghanistan
+
+APPEARANCES FOR THE GOVERNMENT:                       Raymond M. Saunders, Esq.
+                                                       Army Chief Trial Attorney
+                                                      MAJ Raymond R. Adams, JA
+                                                      MAJ James P. Leary, JA
+                                                       Trial Attorneys
+
+               OPINION BY ADMINISTRATIVE JUDGE YOUNGER
+
+       In this appeal under a construction contract to expand a military base in
+Afghanistan, appellant Atlas Sahil Construction Company (Atlas Sahil or appellant)
+seeks recovery on its claim for convenience termination settlement costs. Atlas Sahil
+contends that it furnished sufficient evidence of its costs to substantiate its claim, and
+the Army argues that the claim lacks the supporting documentation to support the
+amounts claimed. Both entitlement and quantum are before us for decision. We
+sustain the appeal in part.
+
+                                  FINDINGS OF FACT
+
+       1. By date of 27 September 20 I 0, the Army awarded Contract No. W9 l 9QA- l O-C-0073
+(the contract) to Atlas Sahil for the expansion of Forward Operating Base Deh Dadi II (Deh
+Dadi) in Mazar-e-Sharif, Afghanistan (R4, tab I 0). The base served as a "logistical hub to
+support [United States] draw down efforts in Afghanistan" (tr. 1/16).
+
+       2. The contract was a design-build, firm-fixed-price construction contract in
+the amount of AFN 491,315,463.92 (equivalent to $9,962,112.80 at an exchange rate
+of 49.3184 AFN/USD) (R4, tab 10 at 2). Under the contract, appellant was to provide
+all material, labor, equipment, and supervision to: (I) construct and install various
+structures, including nine large 90 x 120 foot tents, referred to as "Maintenance
+Tents"; (2) provide and install power distribution systems and generator sets; and
+(3) provide earthwork and materials for the expansion of Deh Dadi (R4, tabs 2-6, I 0 at
+3-9; tr. 1116). The use for the tents was to perform general maintenance or other
+necessary work on vehicles, or to store them (tr. 2/44-45). Each tent was wired for
+electricity and a heating/cooling system (HV AC), and had a door large enough to
+permit ingress and egress of vehicles (tr. 2/44).
+
+      3. The contract contained various standard clauses, including: FAR 52.242-14,
+SUSPENSION OF WORK (APR 1984); DFARS 252.222-7002, COMPLIANCE WITH LOCAL
+LABOR LAWS (OVERSEAS) (JUN 1997); DFARS 252.233-7001, CHOICE OF LAW (OVERSEAS)
+(JUN 1997); CENTCOM Contracting Command Clause, 952.225-0015, SUBCONTRACTING
+REQUIREMENTS (JUL 2010); and CENTCOM Contracting Command Clause, 952.228-0001,
+WORKERS COMPENSATION INSURANCE (DEFENSE BASE ACT) (JUL 2010) (R4, tab 10 at 30,
+34). The contract also contained FAR 52.249-2, TERMINATION FOR CONVENIENCE OF THE
+GOVERNMENT (FIXED-PRICE) (MA y 2004) - AL TERNA TE I (SEPT 1996) which provided in
+subparagraph (i) that "[t]he cost principles and procedures of Part 31 of the [FAR], ... shall
+govern all costs claimed, agreed to, or determined under this clause."
+
+       4. The contract also contained a Statement of Work. It provided in part that the
+project site is "believed to be clear of UXOs [unexploded ordinance], but it is not
+guaranteed" (R4, tab 2 at 5).
+
+       5. In describing the project work, the parties followed the convention of
+dividing it using contract line item numbers (CLINs). As originally awarded, the
+contract contained 28 CLINs (R4, tab 10 at 3-16 of 41 ).
+
+       6. By date of 10 October 2010, Atlas Sahil entered into a joint venture partnership
+agreement with Sambros International Corporation (Sambros), another Afghan company,
+to purchase the tents and generators supplied under the contract, provide financing, and
+complete performance of the Deh Dadi contract (supp. R4, tab 70; tr. 1/31-32, 98).
+
+       7. The record contains a copy of Invoice No. 136 dated 26 February 2011 from
+Al Baddad International (Al Baddad) in Dubai to Sambros for nine tents and
+component equipment, such as steel rollup doors and single doors. According to the
+invoice, the total sale price to Sambros for the nine tents and component equipment,
+including delivery, was $747,000. (R4, tab 19 at 1-2) From the uncontroverted
+testimony of the contracting officer, we find that he contacted Al Baddad, the
+manufacturer of the tents, and obtained a copy of the invoice; the $747,000 price
+differed from the $1,647,000 price for the tents on the Al Baddad invoice "provided to
+me with the [settlement] proposal"; and the two invoices contained differences in font,
+as well as the transposition of numbers on the post office box address shown, and the
+bank account details for Al Baddad. (Tr. 21105-07)
+
+      8. The government issued a suspension of work notice to Atlas Sahil dated
+10 April 2011, effective the next day (R4, tab 11 ). While the notice contained the
+
+
+                                           2
+usual language instructing Atlas Sahil to cease all work, make no further shipments,
+and place no further orders, the contracting officer did instruct the company that it
+could "take delivery of, and deliver the generators" (id.). In a 9 April 2011 email to
+appellant's project engineer that also accompanied the suspension notice, the
+contracting officer underscored that "[y]our company is not to incur any cost past the
+date of the notice" (R4, tab 13 at 2). In addition, in an 11 April 2011 email the
+contracting officer advised appellant's CEO that "during this time of suspension, there
+will be no allowance for any cost for this contract." (App. supp. R4, tab 30 at 3-4)
+Nonetheless, appellant continued to retain a full complement of employees on staff at
+the Deh Dadi site after the notice of suspension (tr. 1/98-99).
+
+       9. By date of 12 April 2011, appellant provided the government with its
+claimed costs to date, but stated that, "we are not going to terminate the contracts with
+our Deployed employees" and requested advice regarding generators and tents (app.
+supp. R4, tab 30 at 2-3). The contracting officer responded by advising appellant:
+
+               If you choose to continue [incurring] cost during [the]
+               suspension, the cost will not be covered by the contract.
+               This is the purpose of the Suspension, not to incur
+               unnecessary cost.
+
+
+               A notice to proceed has not been issued. A brief review of
+               your cost spent to-date are expenses that should not have
+               been incurred. [The site must be demined over the next
+               60-90 days.] During this time, there should be little to no
+               incurred expenses for the contract.
+
+(Id. at 1-2)
+
+       10. By memorandum to appellant dated 24 April 2011, the contracting officer
+advised appellant that it was "authorized to commence with the fabrication/ordering
+and delivery of the required tents for the subject contract" and that, "[w ]ith the
+exception of the agreed upon order and delivery of the generators [see finding 8], all
+remaining work remains suspended until properly notified by the responsible
+Contracting Officer" (R4, tab 12).
+
+         11. By email to appellant dated 5 May 2011, the contracting officer advised
+that, "[ w ]ith the suspension of work, [appellant] should not be performing any work ....
+After the [pending] submittals are reviewed and returned the only work being
+performed should be the generators and tents." (App. supp. R4, tab 34 at 1)
+
+
+                                            3
+        12. By email to appellant dated 18 October 2011, the contracting officer
+advised appellant that the contract would be modified so that "you are going to be
+installing ONLY 4 of the 90 x 120 maintenance tents. The other 5 tents will be turned
+over to the Government complete with interior electrical and HVAC equipment."
+(App. supp. R4, tab 44 at 13-14)
+
+        13. By date of9 December 2011, the contracting officer issued Modification
+No. POOOO 1 "to descope the contract" and add specified work. First, by the modification,
+the footprint of the project was reduced from the original 60-plus acres to 44 acres.
+Second, the contracting officer reduced the requirement in CLIN s 0001-0004 and
+directed appellant to install four maintenance tents, instead of nine such tents. Third, by
+the modification, under CLINs 0005 through 0009, appellant was required only to deliver
+the remaining five tent structures to the government; installation was no longer required.
+Fourth, the number of power generation zones was reduced from ten to three. Fifth, the
+contracting officer added a new CLIN 0029 for "costs for site assessment of 44 acres,
+benchmark, and storage" in the net amount of$129,120. Finally, the government
+substantially reduced the contract price by the modification and extended the completion
+date to 22 April 2012. (R4, tab 14 at 1-2, 4of19; tr. 1/160-63, 2/68)
+
+       14. By date of 16 December 2011, the contracting officer issued Modification
+No. P00002 extending the project's completion date from 22 April 2012 to 13 June 2012
+(app. supp. R4, tab 88 at 1).
+
+       15. By notice to proceed dated 16 December 2011, the contracting officer
+directed appellant to proceed on the project within five days and to complete the
+project within the contractually-required period of 180 calendar days. Appellant
+acknowledged receipt of the notice by date of 17 December 2011. (R4, tab 10 at 20 of
+41; app. supp. R4, tab 83)
+
+        16. By date of 13 March 2012, the contracting officer issued a notice of
+termination for convenience "in accordance with FAR clause 52.249-2 Alt I" (R4, tab 17
+at 1). The notice required appellant to maintain all records showing the "[ e]xtent of
+completion of performance on the effective date [of termination]" (id. at 2). Atlas Sahil
+acknowledged receipt of the notice the next day (id. at 4). The contracting officer
+testified, and we find, that the contract was terminated because Deh Dadi was going to be
+closing and there was no longer a need to expand it (tr. 2/69).
+
+       17. In April 2012, consistent with the contracting officer's direction in the
+termination letter (R4, tab 17 at 2), appellant delivered nine maintenance tents to
+Deh Dadi from its facility in Mazar-e-Sharif (tr. 2/49). We find that the tents were
+damaged. The protective coating on the majority of the steel parts delivered was abraded,
+paint was peeling off of some parts, which indicated that the protective coating was not
+properly applied, and that multiple parts exhibited dents and missing tabs. (R4, tab 20 at
+
+
+                                           4
+1; see generally supp. R4, tab 75 at 2-29 (photographs)). We further find that appellant
+neither delivered, nor installed, any of the electrical components for the tents, including
+the HVAC systems (see finding 2). In his 23 May 2012 Preliminary Price Negotiation
+Memorandum, the contracting officer recited that the contracting officer's representative
+estimated that "it will [require] the expenditure of $284,825 to bring all tents to a usable
+state" (app. supp. R4, tab 88 at 3).
+
+        18. Following the termination for convenience, appellant submitted a settlement
+proposal seeking a termination settlement of $3,680, 186.90 (R4, tab 18 at 6). This
+proposal was not on Standard Form 1435, and was accompanied by numerous invoices
+(id.). Thereafter, by date of 27 February 2013, appellant submitted a settlement
+proposal in the amount of $3,976,780.78 (R4, tab 26 at 4). By date of 16 November
+2012, the contracting officer rendered his determination, concluding that "no settlement
+amount can be reached" (R4, tab 25 at 1). He noted that appellant had not submitted a
+certificate of cost and pricing data, as required by FAR 15.403-4(a)(l)(iii) and 15.406-2
+(id.). The contracting officer determined that, upon submission of a valid certificate of
+cost and pricing data, the government might agree to pay a total of $1,063,318.04 out of
+a total of$3,844,841 proposed by appellant (id. at 2-3).
+
+       19. Subsequent negotiations failed and, by certified claim dated 27 February
+2013, appellant sought $4,158,840.70 as the amount due as a termination settlement
+under the contract (R4, tab 26). The claim amount comprised total costs of
+$3,976,780.78 and settlement expenses of$182,059.92 (id. at 3). We find that the
+government received the claim on 27 February 2013.
+
+      20. To place appellant's claim in context, we note that the government
+approved appellant's design of the project at the 60 percent completion level, but never
+approved appellant's 95 percent design submittal, which was the threshold for design
+implementation (tr. 1/40, 115-16, 148).
+
+       21. Appellant never broke ground at the construction site (tr. 11110).
+
+        22. Appellant's chief executive officer testified that, during contract
+performance, appellant had possession of its cost records, but thereafter, Sambros took
+custody of all such records (tr. 1189-90, 101-02). For labor costs, for example, the
+documents included QuickBooks and Excel spreadsheets reflecting the names of each
+employee and the salary disbursements by date (tr. 11100). Appellant asserts without
+evidentiary support that because of a dispute between it and Sambros, the latter has
+denied appellant access to its cost records (Appellant's Post-Hearing Brief (app. br. at
+16) ). Appellant's chief executive officer did not testify regarding the nature or duration
+of the dispute, or why it motivated Sam bros to deny appellant access to its records. No
+witness from Sambros testified. Appellant's chief executive officer also testified that
+
+
+                                            5
+appellant's cost records were originally compiled by its project engineer, whose exact
+whereabouts in Afghanistan were unknown at the time of trial (tr. 21195-96).
+
+       23. We find that there were material discrepancies in numerous documents that
+appellant did produce that caused the contracting officer to question their reliability or
+authenticity. Frequently, the contracting officer found what appeared to be an invoice
+or paid receipt, but it appeared on appellant's letterhead, together with a representation
+that payment had been made, without evidence that another party had received
+payment. In addition, he found that, after checking with the Afghan government,
+appellant's license to do business in Afghanistan had been altered. (Tr. 2/104-05)
+
+        24. With its original settlement proposal, appellant included two receipts from
+Yang Ming (UAE) LLC (Yang Ming) in Dubai, each of which reflects a separate
+payment of $162,000 to Yang Ming for the shipment of different "Cntrs nos.,"
+followed by a total of 19 sets of numbers on both receipts (R4, tab 19 at 79-82). While
+neither of the Yang Ming documents reflect the name of Al Baddad, the government
+appears to accept, and we find, that the invoices represent a reliable and fair
+determination of the cost for delivery of the tents from Dubai to appellant's leased
+warehouse in Mazar-e-Sharif, near Camp Marmal, with the abbreviation "Cntrs"
+referring to containers and corresponding to numbers appearing on packing lists for
+containers elsewhere in the record (tr. 21124-27). In addition, there is no dispute that
+$12,244.00 represents the reasonable cost to transport the tent structures from
+appellant's leased warehouse to the government (R4, tab 19 at 77).
+
+      25. There is no dispute that appellant incurred a cost for specified design, site
+assessment, and warehouse work (see finding 13; gov't br. at 51 ).
+
+        26. In evaluating appellant's settlement proposal, the contracting officer
+questioned the claimed labor costs. From examination of the available documentation,
+he found that the amount of work that appellant performed on the contract did not
+support the number of employees for whom appellant claimed expenses. Among the
+items that the contracting officer questioned were: the office staff employed at its
+office and warehouse in Mazar-e-Sharif, near the project site, which office included
+multiple employees whom the contracting officer regarded as surplus, given the
+amount of contract work. In addition, the contracting officer determined, and we find,
+that appellant claimed the cost of its entire workforce for the entire term of the project,
+including the eight-month suspension period from 10 April 2011 to 16 December 2011
+(see findings 8, 15). Appellant incurred these costs for the entire term although the
+contracting officer told appellant in the suspension notice itself, and in two subsequent
+emails, that it should not incur costs during the suspension period (finding 8).
+Appellant refused to lay off any of its workforce during the suspension period, stating
+that "we are not going to terminate the contracts with our Deployed employees"
+(finding 9). The contracting officer also compared appellant's initial proposal
+
+
+                                             6
+regarding salaries with its settlement proposal and determined that "salaries were two
+and sometimes three times higher in the settlement proposal as opposed to what
+[appellant] had originally proposed under the contract" (tr. 2/113). Thus, the salary for
+appellant's project manager was originally proposed as $2,000 per month (R4, tab 7 at
+18), but appeared in the settlement proposal as $6,000 per month (R4, tab 19 at 98).
+After analyzing appellant's labor costs for his preliminary price negotiation
+memorandum, the contracting officer concluded that the following mix of employees
+for the following durations and at the following salaries represented a reasonable level
+of staffing at a reasonable cost:
+
+  Descriotion       Person/Mo.          Months           Unit Cost            Total
+    Project              1                3            $       2,000 $            6,000
+   Manager
+ Architectural            1                 2          $           800 $           1,600
+   Designer
+   Structural             1                 2          $           500 $           1,000
+   Designer
+  Mechanical              1                 2          $           560 $           1,120
+   Designer
+   Electrical             1                 2          $         2,500 $            5000
+   Designer
+Civil Designer            1                 3         $          2,600 $           7,800
+ Data Manager             1                 2         $          1,500 $           3,000
+   Planning               1                 3         $          1,500 $           4,500
+   Engineer
+    Guard                2                  1          $           190   $          190
+    Driver               1                  1          $           250   $           25
+Admin Officer            1                  3          $           850   $        2,550
+Finance Officer          1                  3          $           900   $        2,700
+                                                     I Total                     35,110 I
+
+From the above analysis, the contracting officer concluded that a reasonable amount
+for appellant's labor costs was $35,710 (app. supp. R4, tab 88 at 5). In its brief, the
+government revised that amount upward to add the $4,560 cost of four security guards
+at appellant's warehouse in Mazar-e-Sharif (gov't br. at 53). The sum of these two
+cost figures is $40,270. We find that this total represents appellant's reasonable labor
+cost because it incorporates the cost of four security guards at appellant's warehouse
+while the parts for the maintenance tents were stored there.
+
+        27. Appellant charged the cost of its CEO at an annual salary of $300,000 and
+stated that he spent "approximately 28 per cent of time during the project period spent
+on this project" (app. 3rd supp. R4, tab 26(b) at 12 n.10). In testimony, however, the
+
+
+                                           7
+CEO estimated that, during performance, he participated in "around ten" meetings
+with government officials and travelled to the project three times (tr. 11131 ).
+
+         28. In its settlement proposal, appellant sought costs for its office at Mazar-e-Sharif
+of $172,500 (app. 2nd supp. R4, tab 88 at 6; tr. 21167). We find this cost unreasonable
+inasmuch as it includes rent for periods in which there was no construction activity on site
+(e.g., tr. 2/167-68). The government has proposed $12,000 as equitable because it
+compensates appellant for the four-month period from issuance of the notice to proceed in
+December 2011 and delivery of the maintenance tents in April 2012 (findings 15, 17; see
+gov't br. at 53).
+
+       29. Appellant claims severance costs of $49,525 for its employees (app. yd
+supp. R4, tab 26(b) at 14 ). While the appellant's legal entitlement to severance costs is
+disputed, appellant's computation of the cost is not.
+
+                                    DECISION
+
+             A. Christian Doctrine
+
+       Appellant's entitlement to termination costs is determined by those applicable
+portions of the FAR that are incorporated into the contract. Rex Systems, Inc., ASBCA
+No. 59624, 16-1BCA,-i36,350 at 177,216. The termination clause included here is FAR
+52.249-2, TERMINATION FOR CONVENIENCE OF THE GOVERNMENT (FIXED-PRICE) (MAY
+2004)-ALTERNATE I (SEPT 1996) (finding 3).
+
+        Appellant first argues that it is unreasonable to rely solely upon the construction
+termination clause found in the contract (see finding 3) because performance entailed
+both supply and service elements (app. br. at 13-14 1). Accordingly, Atlas Sahil asserts
+that "[t]he standard termination clause," by which it means FAR 52.249-2, "should be
+read into the Contract" under the Christian doctrine (id. at 14 ). See G.L. Christian &
+Associates v. United States, 312 F.2d 418 (Ct. Cl. 1963).
+
+       We reject this argument. In Christian, the court analyzed the Armed Services
+Procurement Regulations (ASPR) and concluded that they required the insertion of the
+standard termination clause in the type of contract at issue in the case. The court therefore
+read the prescribed termination clause "as necessarily applicable to the ... contract and
+therefore as incorporated into it by operation of law." Christian, 312 F.2d at 427. In
+General Engineering & Machine Works v. O'Keefe, 991 F.2d 775, 779 (Fed. Cir. 1993),
+the court of appeals explained that, "under the Christian Doctrine [the board] may insert a
+clause into a government contract by operation of law if that clause is required under
+
+1
+    Page numbers to appellant's brief have been added by the Board.
+
+
+                                             8
+applicable federal administrative regulations. However, the Christian Doctrine does not
+permit the automatic incorporation of every required contract clause."
+
+       In the contract before us, the parties agreed to Alternate I to the FAR 52.249-2
+Termination clause (finding 3). The notice of termination was issued under that clause
+(finding 16). Atlas Sahil has not pointed to any regulation requiring the inclusion of
+FAR 52.249-2, in lieu of FAR 52.249-2 Alternate I, in this circumstance. We know of
+no such regulation. We accordingly reject Atlas Sahil' s argument.
+
+            B. Standard/or Award
+
+         Appellant's argument regarding the measure of its recovery is based upon two
+propositions. First, appellant argues, "[t]he CLIN pricing of the Contract provides the
+most reliable method for determining fair compensation" (app. br. at 22). Appellant
+urges that "the parties have already reached negotiated agreement on the fair value for
+much of the work that is the subject of the termination for convenience" (id.). Second,
+appellant contends that, "where CLIN-based pricing is not applicable or practical," then
+we can resort to the contracting officer's preliminary price negotiation memorandum as
+the basis for a jury verdict award (id. at 23-24 ). Using this two-pronged approach of
+CLIN-based pricing plus jury verdict, appellant contends that it is entitled to the award
+that it seeks (id. at 1, 23-24).
+
+       For its part, the government maintains that appellant is entitled to an award of a
+fraction of this amount, relying upon the case law that a contractor "bears the burden of
+proving by a preponderance of the evidence that it is entitled to a greater termination
+settlement amount than that determined by" the terminating contracting officer.
+General Dynamics Land Systems, Inc., ASBCA No. 52283, 02-1BCA~31,659 at
+156,411. The government also stresses that a contractor "bears the burden of proving
+the fact of loss with certainty, as well as the burden of proving the amount of [its] loss
+with sufficient certainty so that the determination of the amount of damages will be
+more than mere speculation." Lisbon Contractors, Inc. v. United States, 828 F.2d 759,
+767 (Fed. Cir. 1987). From these premises, the government concludes that appellant's
+award should be no more than $1,396,721.96 (gov't br. at 48).
+
+       We reject appellant's proposed standard for an award. First, we reject appellant's
+argument that CLIN pricing "provides the most reliable method for determining fair
+compensation" (app. br. at 22), and that in departing from this method, the government
+"has repudiated its commitment to pay agreed upon prices" (id. at 1). CLIN prices are
+based on price, whereas termination settlements are based on cost, viz., the cost of "the
+work done and the preparations made for the terminated portions of the contract."
+FAR 49.20l(a), Additional Principles for Fixed-Price Contracts Terminated for
+Convenience (Jul 2010). CLIN prices are established for fully completed components of
+
+
+                                            9
+contract performance, not for terminated components. They do not reflect what
+transpired after contract award, or after issuance of a modification.
+
+        Second, we reject appellant's request for a jury verdict award. Appellant tells
+us that a jury verdict is warranted because it has a justifiable inability to present
+documentation of its costs. Appellant asserts that:
+
+              Those accounting records which do exist are in the
+              possession of Sam bros [see finding 6] ... , who was
+              [appellant's] prime supplier and source of financing for the
+              project. As a result of conflict between the two companies
+              arising directly out of the Government's failure to pay
+              [appellant] even a single penny under the Contract,
+              Sambros has denied [appellant] access to those records.
+
+(App. br. at 16) (Citations omitted) Appellant also argues that the government's past
+practice of addressing cost issues through "reasonable negotiation," rather than cost
+audits led to an expectancy that "the Government would continue to act in accordance
+with the FAR principles" (id.).
+
+       We conclude that resort to a jury verdict is unwarranted on this record. In
+International Equipment Services, Inc., ASBCA Nos. 21104, 23170, 83-2 BCA if 16,675
+at 82,924-25, aff'd on recon., 84-1 BCA if 17,025, we stressed that a jury verdict was
+only available where the contractor "has demonstrated a justifiable inability to
+substantiate the amount of its injury by direct and specific proof." See Grumman
+Aerospace Corp. v. Wynne, 487 F.3d 1350, 1358 (Fed. Cir. 2007) (enumerating criteria
+and upholding the Board's refusal to employ the jury verdict method where the record
+did not warrant an approximation of damages).
+
+        Appellant's generalized claims about a "conflict" between it and Sambros leading
+to Sambros' denying appellant access to its records (app. br. at 16) do not constitute "a
+justifiable inability to substantiate the amount of its injury by direct and specified proof."
+Grumman Aerospace, 487 F.3d at 1358. As we have found, no one from Sambros
+testified regarding the alleged dispute between it and appellant, the location of the
+records, or their present condition (finding 22). In addition, appellant's project engineer,
+who is said to have compiled the cost records in the first instance, also did not testify
+(id.). Moreover, appellant disregards FAR 31.201-2( d), which provides in part that"[ a]
+contractor is responsible for accounting for costs appropriately and for maintaining
+records, including supporting documentation, adequate to demonstrate that costs claimed
+have been incurred, are allocable to the contract, and comply with applicable cost
+principles." As we held in Total Procurement Service Inc., ASBCA Nos. 54163, 55821,
+08-1 BCA if 33,843 at 167,499, aff'd, 337 F. App'x, 906 (Fed. Cir. 2009), "[t]he failure to
+
+
+                                            IO
+maintain, preserve and promptly produce to the government fundamental accounting data
+and records goes to the credibility of the entire claim."
+
+       We regard the evidence in the existing record as sufficient to reach a decision,
+without the need to resort to a jury verdict. The contracting officer did review the
+available cost data and, in some instances, obtain his own information, which is useful.
+Thus, the largest item is the tent costs, and that can be established precisely from the
+Al Baddad invoice (see finding 7), without resort to a jury verdict. We evaluate the
+evidence in the record in light of appellant's burden to prove that it is entitled to a
+greater termination settlement amount than determined by the contracting officer. See
+General Dynamics Land Systems, 02-1 BCA ~ 31,659 at 156,411.
+
+       C. Specific Cost Categories
+
+        As indicated, appellant seeks total costs of $3,507,828.31, together with
+settlement costs of$182,059.92, for a total of$4,158,840.78 in this appeal (R4, tab 26).
+For its part, the government urges that the fair and reasonable amount owed to appellant
+is no more than $1,498,277.62 (gov't reply at 1, 14). Our decision regarding the cost
+categories that are disputed in the parties' submissions in their briefs are as follows.
+
+              1. Tent Costs
+
+        Appellant seeks to recover $1,647,000 for nine maintenance tents, based upon
+the CLIN prices in Modification No. POOOO 1. By contrast, the government contends
+that the fair price for the nine tents is $747,000, based upon the Al Baddad invoice (see
+finding 7). This figure gives appellant the benefit of the $284,825 estimated cost to
+bring all tents to a usable state (see finding 17).
+
+        We reject appellant's proposed price for the tents. We cannot reconcile
+appellant's reliance on CLIN prices because we regard the Al Baddad invoice as
+reliable. By Modification No. POOOOl, appellant was relieved of the requirement for
+the complete installation of the tents, which was reflected in the CLIN prices, and was
+required merely to deliver some of them (finding 13).
+
+       We accordingly allow $747,000 for the cost of the tents.
+
+              2. Shipment and Delivery Costs for Tents
+
+       We conclude that appellant is entitled to recover $336,244 for shipment and
+delivery of the maintenance tents. This amount is substantiated by documentary evidence
+and represents the sum of: (a) $324,000 ($162,000 x 2) for shipment from Dubai to
+Camp Marmal; and (b) $12,244 for shipment from Camp Marmal to Deh Dadi (finding
+24).
+
+
+                                           11
+              3. CLIN 0029 Costs
+
+       It is undisputed that appellant performed the work called for by CLIN 0029 for
+the specified design, site assessment, and warehouse work (see finding 13 ). We
+accordingly allow $129, 120 for CLIN 0029.
+
+              4. Labor Costs
+
+      Appellant proposed labor costs of $331,520 (app. reply at 8). The government,
+by contrast, insists that only $40,270 is consistent with the test of reasonableness in
+FAR 31.201-2 and 31.201-3 (gov't br. at 52-53).
+
+         We conclude that the amount claimed by appellant is unreasonable. As
+indicated, appellant never received full design submittal approval, and never broke
+ground on this construction project (findings 20-21 ). In addition, appellant's proposal
+includes the cost of appellant's entire workforce for the entire term of the project,
+ignoring the eight-month suspension period from 10 April 2011 to 16 December 2011
+(see findings 8, 15). The contracting officer told appellant in the suspension notice
+itself, and in two subsequent emails that it should not incur costs during the suspension
+period (finding 8), and yet it simply refused to lay off or discharge its workforce,
+stating that "we are not going to terminate the contracts with our Deployed
+employees" (finding 9). Although, it is conceivable that there may be instances in
+which paying employees during a pause in work is reasonable, see Pro-Built
+Construction Firm, ASBCA No. 59278, 17-1BCA,-i36,774, appellant has not
+produced any evidence here supporting such a finding. Thus, it is unreasonable that
+the government, and not appellant, should bear the cost of this conduct during this
+period.
+
+       In the face of appellant's high labor costs, we credit the contracting officer's
+analysis of labor cost in his preliminary price negotiation memorandum (finding 26).
+He determined that a reasonable amount for labor costs was $35,710 (id.), which
+amount the government has revised upward to add the $4,560 cost of four security
+guards at appellant's warehouse in Mazar-e-Sharif (id.). The sum of these two cost
+figures is $40,270 which we allow as the reasonable labor cost.
+
+              5. Office Space Costs
+
+        We have already found that the government's $12,000 figure for office space
+costs is reasonable, and that appellant's proposed cost of $172,500 is unreasonable
+because it covers periods in which there was no construction activity at the site
+(finding 28). We accordingly allow $12,000 as the reasonable cost for office space.
+
+
+                                           12
+              6. DEA Insurance Costs
+
+       The parties agree on the claimed cost of DBA insurance in the incurred amount
+of $28,663.00 (R4, tab 25 at 2), and we allow the cost as claimed.
+
+              1. Termination Settlement Costs
+
+       Appellant contends that it is entitled to recover "both its post-termination
+administrative costs as well as its severance payments to employees" (app. reply at 9).
+The claimed administrative costs aggregate $55,416.60 (app. yd supp. R4, tab 26(b) at
+14). The claimed severance payments aggregate $49,525.00 (id.). Appellant also
+claims estimated legal costs of $40,000.00 (id.).
+
+       For its part, the government asserts that the administrative costs "are merely
+alleged costs with absolutely no substantiation in the record." The government also
+argues that it has no responsibility to compensate appellant for the claimed severance
+costs. (Gov't reply at 12)
+
+       A. We allow the administrative costs claimed. Appellant claims the costs of
+four employees who are listed as having worked on resolving the termination
+settlement (app. hr. at 59). The claimed costs have plausibility. Appellant has
+itemized their time by employee, the respective hours worked, and the hourly rates of
+each (app. yd supp. R4, tab 26(b) at 14). One listed employee is appellant's CEO and
+another is the project manager who compiled appellant's cost records (see finding 22).
+We allow the $55,416.60 claimed.
+
+        B. We also allow the claimed severance costs. The contract incorporated by
+reference DF ARS 252.222-7002 (see finding 3), which required appellant to comply with
+all "[l]ocal laws" and [l]abor regulations including fringe benefits." In turn, the relevant
+cost principle under the contract's Termination clause (see finding 3), makes termination
+costs subject to the cost principles of FAR Part 31 (id.). FAR 3 l .205-6(g)(2) provides that:
+
+              Severance pay is allowable only to the extent that, it is
+              required by -
+              (i)    Law;
+              (ii)   Employer-employee agreement;
+              (iii) Established policy that constitutes, in effect, an
+              implied agreement on the contractor's part; or
+              (iv) Circumstances of the particular employment.
+
+       In its brief, appellant contends that "[s]everance is required under Afghan law,
+and is customary to be expected when a contract is terminated" (app. br. at 60). The
+government, by contrast, argues that "appellant does not assert [that] it was legally
+
+
+                                            13
+obligated to pay these costs, and it has not presented any evidence of Afghan customs"
+(gov't br. at 54 ).
+
+        Appellant relies upon the English translation of the Afghan Labor Code (2007).
+Article 3, [Definitions of] Expressions, provides in section I that the Code applies to
+"private or mixed businesses." In turn, Article 23, Termination of the Contract, defines
+the situations in which "[a]n employment contract may be abrogated," thereby
+triggering an obligation to make severance payments. The two situations are set forth
+in Article 23(6), "[c]essation of work for more than six months" and Article 23(7),
+"'reductions in the number of staff of an [employer]." In either situation, Article 25(2)
+provides that the employer "shall be obliged to make a payment, of the last [w]age of
+the respective rank or grade to the Employees whose contracts have been terminated."
+Article 25(2) further provides for differing amounts based on length of service. Afghan
+Labor Law at http://www.slideshare.net/afghanboy I/afghan-labor-law-aisa-version.
+
+        We agree with appellant that severance payments are required by Afghan law
+and hence are allowable. There is no challenge to the reasonableness or allocability of
+the claimed amount of $49,525.00. We accordingly allow $49,525.00.
+
+        C. The parties do not seriously dispute appellant's entitlement to legal costs.
+The government tells us that appellant is owed the costs "pursuant to the provided
+records. However, the amounts are incorrect. According to the provided numbers, the
+legal fees are $40,782 and $40,792.00." (Gov't br. at 53) We award the higher
+amount of $40, 792.00.
+
+              8. Profit Rate
+
+        Appellant proposed a profit that works out to 25.3 percent of the claim (R4,
+tab 25 at 3). The contracting officer proposed an amount that equals a flat ten percent
+profit rate (id.). In its reply brief, however, the government strongly argues for a five
+percent rate.
+
+       FAR 49.202(a) allows for profit "on preparations made and work done by the
+contractor for the terminated portion of the contract but not on the settlement
+expenses." In addition, FAR 49 .202(b )(I) provides that, in determining profit,
+relevant factors include the "[ e]xtent and difficulty of the work done by the contractor
+as compared with the total work required by the contract."
+
+       Considering the guidance of FAR 49 .202, we agree with the government that a
+five percent profit rate (excluding settlement expenses) is warranted. As we have found,
+while this was a construction contract, appellant never broke ground on the project
+(finding 21). Before the project was descoped in Modification No. POOOOI, appellant
+was to have installed nine tents, but this effort was reduced to installation of four tents,
+
+
+                                            14
+and delivery of the remaining five, and then reduced simply to delivery of four tents
+(finding 13). Given the sharply reduced effort called for, as well as the accompanying
+risk, a five percent profit rate on all but settlement expenses is reasonable.
+
+                                    SUMMARY
+
+       We conclude that appellant is entitled to recover the following amounts in the
+following cost categories:
+
+         1.  Tent Costs                                $747,000.00
+         2. Shipment and Delivery of Tents             $336,244.00
+         3. CLIN 0029 Costs                            $129, 120.00
+         4. Labor Costs                                $ 40,270.00
+         5. Office Space Costs                         $ 12,000.00
+         6. DBA Insurance Costs                        $ 28,663.00
+                             Subtotal               $ 1,293,297 .00
+         7. Termination Settlement Costs
+            a. Administrative Costs          $55,416.60
+            b. Severance  Costs              $49,525.00
+            c. Legal Fees                    $40,792.00
+                             Subtotal       $145,733.60
+         8. Subtotal                                   $1,439,030.60
+                                        2
+         9. Profit (5% of $1,293,297.00   )               $64,664.85
+                             TOTAL:                    $1,503,695.45
+
+Appellant is entitled to interest under the 41 U.S.C. § 7109(b) from 27 February 2013
+(see finding 19) until paid.
+
+
+2
+    Termination settlement costs excluded.
+
+
+                                             15
+                                     CONCLUSION
+
+       The appeal is sustained to the extent indicated. In all other respects, it is
+denied.
+
+       Dated: 9 November 2017
+
+
+                                                   Administrative Judge
+                                                   Armed Services Board
+                                                   of Contract Appeals
+
+
+I concur                                           I concur
+
+41}C--
+RICHARD SHACKLEFORD
+Administrative Judge                               Administrative Judge
+Acting Chairman                                    Vice Chairman
+Armed Services Board                               Armed Services Board
+of Contract Appeals                                of Contract Appeals
+
+
+       I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA No. 58951, Appeal of Atlas
+Sahil Construction Company, rendered in conformance with the Board's Charter.
+
+       Dated:
+
+
+                                                   JEFFREY D. GARDIN
+                                                   Recorder, Armed Services
+                                                   Board of Contract Appeals
+
+
+                                            16

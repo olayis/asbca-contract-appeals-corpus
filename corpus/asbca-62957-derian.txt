@@ -1,0 +1,1309 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+ Appeal of -                                  )
+                                              )
+ Derian, Inc.                                 )   ASBCA No. 62957
+                                              )
+ Under Contract No. W912EF-19-C-0006          )
+
+ APPEARANCE FOR THE APPELLANT:                    Mr. Mark Jensen
+                                                   President
+
+ APPEARANCES FOR THE GOVERNMENT:                  Michael P. Goodman, Esq.
+                                                   Engineer Chief Trial Attorney
+                                                  Theresa L. Hampson, Esq.
+                                                   Engineer Trial Attorney
+                                                   U.S. Army Engineer District, Walla Walla
+
+
+                 OPINION BY ADMINISTRATIVE JUDGE TAYLOR
+
+        In this appeal, the government deleted certain contract work pursuant to a
+partial termination for convenience from a contract for the construction of oil water
+separator systems and the installation of new turbine pit sump pumps inside the
+powerhouse at the Lower Monumental Dam in Washington state. The contractor,
+Derian, Inc. (Derian or appellant), seeks to recover partial termination for
+convenience, delay, and constructive changes costs, and the reversal of the
+government’s assessment of liquidated damages. The parties submitted the case under
+ASBCA Rule 11 and requested a ruling on entitlement and quantum. We sustain the
+appeal in part.
+
+                                FINDINGS OF FACT
+
+Contract Award and Requirements
+
+1. On April 2, 2019, the United States Army Corps of Engineers (USACE or the
+government) awarded construction Contract No. W912EF-19-C-0006 (the contract) to
+Derian in the amount of $2,120,300 for the construction of oil water separator systems
+and the installation of new turbine pit sump pumps inside the powerhouse at Lower
+Monumental Dam in Washington state (R4, tab 3).
+
+2. The contract included two Contract Line Items (CLINs) describing the work (R4,
+tab 3 at 28). CLIN 0001 required the supply and installation of new oil water
+separators at a price of $909,450, while CLIN 0002 required the supply and
+installation of new turbine pit sump pumps at a price of $1,210,850 (id.).
+
+3. Contract clause 52.211-10(c) required the contractor to complete “all on-site
+installation ... of the headcover pumps for Main Units 1-6 between June 2019 and
+December 2019” (R4, tab 3 at 34). No two units could be out of service at any one
+time unless allowed by the contracting officer (id.). The clause further stated, “Each
+unit must be completely operational, commissioned, and ready to be back on line prior
+to taking another unit out of service” (id.). The clause also required that all on-site
+installation work for the main units headcover pumps be completed by December 20,
+2019, with complete system commissioning to be completed by January 19, 2020 – 30
+days after the final installation date (id.). The parties agreed the original contract
+completion date was January 19, 2020 (R4, tab 7a at 1342).
+
+4. The contract incorporated by reference Federal Acquisition Regulation (FAR)
+52.249-2, ALT I, “TERMINATION FOR THE CONVENIENCE OF THE
+GOVERNMENT (FIXED PRICE) (APR 2012) – ALTERNATIVE I (SEP 1996)”
+(R4, tab 3 at 32).
+
+5. The contract also contained FAR 52.211-12, LIQUIDATED DAMAGES-
+CONSTRUCTION (SEP 2000). That clause, in part, states:
+
+              52.211-12 LIQUIDATED DAMAGES--
+              CONSTRUCTION (SEP 2000)
+
+              (a) If the Contractor fails to complete the work within the
+              time specified in the contract, the Contractor shall pay
+              liquidated damages to the Government in the amount of
+              $1,335.00/day for each calendar day of delay until the
+              work is completed or accepted.
+
+(R4, tab 3 at 35)
+
+6. Contract Section 01 45 04.00 28, paragraph 3.10 states the contracting officer will
+notify the contractor of any detected noncompliance with the quality requirements (R4,
+tab 3 at 218). After receipt of such notice, this section required Derian to immediately
+take corrective action (id.). If Derian failed or refused to promptly comply, the
+contracting officer could issue “an order suspending or stopping all or part of the
+work” until Derian took satisfactory corrective action (id.).
+
+7. The contract required Derian to submit a quality control plan (R4, tab 3 at 211).
+Derian’s “Quality Control Plan” listed eight “Definable Features of Work” (DFOWs)
+(R4, tab 6a at 1282-83). Derian’s list of DFOWs was derived from the contract’s
+
+                                           2
+technical specifications and were intended to “help facilitate scheduling preparatory
+meetings” before beginning each activity (R4, tab 6a at 1282). The DFOW list
+included “Division 26 – Electrical” and “Division 35 – Waterway and Marine
+Construction,” which included the pump work (R4, tab 6a at 1283).
+
+8. The contract also required Derian submit to the contracting officer for approval
+separate Activity Hazard Analysis (AHA) reports at least 15 working days prior to
+beginning “each activity, task or Definable Feature Of Work involving a type of work
+presenting hazards not experienced in previous project operations, or where a new
+work crew or subcontractor is to perform the work” (R4, tab 3 at 165).
+
+9. Also, prior to beginning work on each DFOW, the contract required Derian to hold
+a preparatory meeting and conduct certain preparatory activities, including reviewing
+the minutes of the preparatory meeting (R4, tab 3 at 213-14). Likewise, Derian’s
+quality control plan indicated preparatory meetings would be held before beginning
+work on each DFOW, and the results of those meetings would be documented in
+separate minutes (R4, tab 6a at 1278).
+
+10. The contract required the contractor to conform to the contract drawings (R4, tab
+3 at 39). The contract drawings showed the contract required monolithic pump plates
+(R4, tab 3 at 394-95). The drawings also required the contractor to field verify the
+steel pump plate dimensions prior to cutting and fabrication of the steel plates (R4,
+tab 3 at 392, 394-95).
+
+11. On April 9, 2019, the government issued Derian a notice to proceed with the
+contract (R4, tab 3e at 501). The notice informed Derian that only a warranted
+contracting officer had the authority to modify or change the contract’s terms and
+conditions (id).
+
+Contract Performance
+
+12. On May 15, 2019, Derian and the government held a pre-work meeting at Lower
+Monumental Dam (R4, tab 4a). During that meeting, the government again informed
+Derian that only the contracting officer could make changes to the contract (R4, tab 4a
+at 507). Similarly, the government informed Derian, at the pre-construction meeting
+on June 24, 2019, that the Administrative Contracting Officer (ACO) had the contract
+authority throughout the project, and Mr. Timothy Kuhlman, the government’s quality
+assurance representative, had no such authority (R4, tab 7b at 1344).
+
+13. Following the pre-work meeting and site visit, Derian informed the government
+that the pump foundation plates may need to be modified due to various conflicts with
+existing electrical outlets, cabling, and piping (R4, tab 4x at 946). Mr. Kuhlman
+recalled telling Derian in response to their notification regarding the pump foundation
+
+                                           3
+plates that “the potential solution of using split plates would be easier to install in the
+field than a single plate, a split plate appeared to be acceptable, and that an RFI would
+need to be submitted to confirm acceptability” (id. at 947). The government accepted
+the split plate modification (id at 948).
+
+14. On July 11, 2019, Derian submitted an AHA for the activity/work task described
+as “Pump Install (Electrical)” to the government (app. supp. R4, tab 1 at 1-3). The
+AHA did not identify a DFOW (id.). On July 17, 2019, the government accepted the
+AHA for the electrical work inside the main unit number four (MU4) with comments
+(R4, tab 4u at 935). The comments included the direction to “[R]esubmit revised
+AHA when definable features of work are added” (id.). The record does not indicate
+Derian resubmitted the AHA for the electrical work.
+
+15. Derian’s quality control report noted that as of July 22, 2019, the parties had not
+held a preparatory inspection meeting for the electrical work (R4, tab 6d at 1335). The
+preparatory meeting for the electrical work was subsequently held on August 12, 2019
+(R4, tab 4u at 936).
+
+16. On July 23, 2019, Derian’s pump inspector/technician and electrical subcontractor
+personnel were inside the MU4 enclosure performing electrical “preparatory
+activities” (R4, tab 5b at 962). That same day a dam-wide power outage occurred (R4,
+tab 4b at 519). The power outage lasted approximately two hours (gov’t br. at 12; app.
+supp. R4, tab 12 at 47; app. supp. R4 tab 13 at 48). The government determined an
+open knife switch in the vicinity where Derian’s electrical subcontractor was working
+caused the outage, but the responsible party could not be conclusively determined (R4,
+tab 4u at 938; app. supp. R4, tab 12 at 46-47).
+
+17. In an email dated July 23, 2019, Mr. Glenn Matlock, the USACE ACO, asked
+Mr. Alexzander Newcomb, the USACE project manager, whether the government
+should shut Derian down due to the power outage (app. supp. R4, tab 76 at 215).
+Mr. Newcomb responded, “[T]hey are currently on a quasi-safety shutdown while the
+project and Dave Kotas conduct an investigation to see what caused the outage” (id.).
+
+18. On July 24, 2019, the USACE ACO notified Derian that the government was
+concerned with various quality deficiencies in Derian’s quality control and directed
+Derian to stop “all further installation of the head cover pumps and corresponding
+electrical work” (R4, tab 4b at 520). The ACO noted various deficiencies, including
+deficient pump foundation plates, failure to conduct required preparatory meetings,
+and failure to provide the necessary oversight to its electrical subcontractor (id. at 519-
+20). The ACO also directed Derian to submit a revised quality control plan and a
+written recovery plan since they were behind schedule due to numerous “non
+excusable delays” (id. at 520). The ACO cited contract section 01 45 04.00 28,
+paragraph 3.10 as the authority to issue the stop work directive until the deficient
+
+                                             4
+processes were corrected (id.). The stop work directive did not mention the power
+outage. We find the government issued the stop-work directive due to its concerns
+with various Derian quality deficiencies, and not the power failure, even if the power
+outage brought Derian’s deficiencies to the government’s attention.
+
+19. On July 25, 2019, Derian responded to the ACO’s quality control and schedule
+concerns (R4, tab 5a at 954-60). Derian indicated it had submitted an “RFI” with
+corrective actions for review and approval on the pump foundation plates, reaffirmed
+preparatory meetings would be held for all DFOW new work, and that the government
+knew its subcontractor was performing preparatory onsite electrical work on Turbine
+number four on July 22 and 23 (id. at 954).
+
+20. On July 31, 2019, Mr. Kuhlman emailed Mr. Don Sayre, Derian’s quality control
+systems manager, including pictures of the “Little Goose” dam turbine. In the email,
+Mr. Kuhlman stated, “[T]his is the quality we will be looking for and Derian needs to
+strive for.” (R4, tab 6d at 1337).
+
+21. On August 6, 2019, Mr. Kuhlman and Mr. Neil Voit, Derian’s project manager,
+toured the MU 4 Turbine area (app. supp. R4, tab 83 at 443). Derian’s “Quality
+Control Document (QCR) Daily Log Of Construction” documented certain “Verbal
+Instructions given by Government” (id.) The QCR Daily Log stated:
+
+              Discussions between Derian and the QAR compared
+              photographs of work in Unit 4 turbine pit to photographs
+              of the same work in a turbine pit at Little Goose.
+              According to the QAR, if our mechanical and pipe support
+              installations look like those in photographs from Little
+              Goose, “You’re good.” Derian agreed to imitate the
+              photographs or provide acceptable, equivalent alternatives.
+
+Id.
+
+22. On August 8, 2019, Mr. Voit emailed Mr. Newcomb addressing the government’s
+concerns that resulted in the stop work directive (R4, tab 7c at 1348-49). In that email,
+Mr. Voit acknowledged Derian’s “current quality control program is not acceptable”
+(id. at 1348). With regards to the government’s concern with the piping installation,
+Mr. Voit noted Derian had:
+
+              coordinated with Tim onsite in order to develop a
+              mechanical system that matches the standard set for the
+              Little Goose installation. There are minor material and
+              pipe support variations that have been discussed and
+              agreed upon with Tim as acceptable. We believe that we
+
+                                           5
+             have established confidence in our mechanical approach
+             with Tim in order to meet USACE expectations.
+
+Id. Mr. Newcomb forwarded that email to the ACO on August 8, 2019 (app. supp. R4,
+tab 10 at 39).
+
+23. The government authorized Derian’s return to work on Unit 4 on August 12, 2019,
+following the government’s acceptance of Derian’s written recovery plan (R4, tab 4c
+at 521).
+
+24. On September 5, 2019, the government confirmed Derian had satisfactorily
+installed new head cover pumps in Unit 4 and that the pumps worked well with the
+unit on standby. The government noted, however, that the new pumps could not keep
+up with the water inflow when the pumps were turned on. (App. supp. R4, tab 15
+at 51)
+
+25. The government determined it needed a design solution involving the installation
+of Variable Frequency Drives (VFDs) to allow the pumps to keep up with the water
+inflow (app. supp. R4, tab 9 at 37). The government further decided it needed to issue
+a modification to the contract to install the VFDs (id.). The government noted it
+would have to limit Derian’s schedule on the contract until the new VFD design was
+completed (app. supp. R4, tab 9 at 36).
+
+26. On September 13, 2019, the ACO informed Derian that the government was
+working on some solutions to the leakage problem that would require a contract
+modification (app. supp. R4, tab 60 at 148). The ACO further notified Derian to limit
+its activities to placing pump plates and installing header pipes and suction pipes
+unless they heard otherwise from himself or his staff (id.). The government indicated
+it could be 2-3 weeks before a technical solution was finalized (id.). Derian informed
+the government that this development would prevent it from proceeding as scheduled
+on Unit 6 and impact its approved schedule (id.).
+
+27. On November 26, 2019, the parties signed Modification No. A00002, that
+required Derian to install VFDs for the headcover pumps to address the leakage issue
+(R4, tab 3b). The modification increased the contract price by $131,438.40 to
+$2,254,644.71 (id. at 493). The modification further stated the contract completion
+date remained unchanged but:
+
+             The Contractor is entitled to additional time related to this
+             modification. As agreed by both the Government and the
+
+
+                                           6
+               Contractor, the time impact will be negotiated and settled
+               through a future modification.
+
+(Id. at 494)
+
+28. The modification also included a “Closing Statement” that said:
+
+               By signing this supplemental agreement, Derian, Inc.,
+               hereby releases the Government from costs (excluding
+               time impact) associated with future equitable adjustments
+               and cumulative impact and inefficiency claims attributable
+               to Modification A00002.
+
+(R4, tab 3b at 494)
+
+Contract Partial Termination
+
+29. On December 12, 2019, the government determined it could complete the pump
+installation in the turbine pits on its own (app. supp. R4, tab 14).
+
+30. On December 19, 2019, the USACE Project Manager, Mr. Kurt Monger, signed a
+“Project Change Request Form” to “De-scope portions of the work inside the turbine
+pits from the current contract” (app. supp. R4, tab 85 at 450). In Part A, the form
+stated:
+
+               The contract stated that the contractor had certain dates
+               that the Units would be available to perform the work. The
+               contractor was provided these Units during the Contract
+               stated dates, but the Contractor was not able to complete
+               the required work during the outage timeframe. Unit 4 was
+               not completed due to a differing site condition of excess
+               leakage in the Unit. Some of these changes were
+               government caused delays. These Units will not be
+               available again until after the Contract Completion Date.
+               Some Units that were missed may not be available until
+               next year.
+
+               The PDT [Project Delivery Team] determined that the best
+               approach was to do a partial Termination for Convenience
+               and modify the current contract to de-scope the remaining
+               work in the Turbine Pits, having the Contractor complete
+               the remaining work outside the Turbine Pits. The
+               remaining work inside the Turbine Pits will be completed
+
+                                            7
+             by the Project Personnel at Lower Monumental Dam. The
+             Contractor will turn over all materials and supplies to
+             complete the work in the Turbine Pits. The Contractor will
+             still be required to complete placement of the Oil Water
+             Separator Tanks and installation of the Header Piping
+             under this contract.
+
+             This is the recommendation of the PDT that included
+             concurrence during meetings with Lower Monumental’s
+             OPM, The Resident Engineer and the Contracting Officer.
+
+(App. supp. R4, tab 85 at 454)
+
+31. The “Project Change Request Form” also indicated a revised physically complete
+date from January 31, 2020 to September 31, 2020, (id. at 454-55).
+
+32. The government’s change control board met the same day and approved the
+recommendation to partially terminate the work inside the turbines (app. supp. R4,
+tab 69 at 183-84). The government decided not to inform Derian until they could
+complete a “very clear and detailed scope of work” describing the work the
+government wanted Derian to complete (id. at 184).
+
+33. By letter dated January 13, 2020, the ACO requested Derian submit a plan and
+schedule by January 16, 2020, as to how they intended to complete all the remaining
+work associated with the oil water separator system (R4, tab 4d at 523).
+
+34. On January 16, 2020, Derian responded to the ACO’s January 13, 2020, letter
+regarding scheduling concerns. Derian pointed out the January 19, 2020, completion
+date was based on note 3 within contract section 52.211-10, which stated, “[T]he
+Contractor shall complete system commissioning within 30 days of final installation.”
+Derian maintained it had not yet been allowed to complete any “Main Unit”
+installations due to USACE’s schedule limitations resulting from the leakage problem.
+Nevertheless, Derian indicated it would install the mechanical and electrical systems
+that week to prepare for oil water separator (OWS) commissioning. (R4, tab 5d at 971-
+72).
+
+35. On January 17, 2020, the government issued Derian a notice of partial termination
+for convenience under FAR 52.249-2, ALT I, TERMINATION FOR
+CONVENIENCE OF THE GOVERNMENT (FIXED-PRICE) (APR 2012) (R4,
+tab 4e). The terminated work included connecting the turbine pit discharge piping to
+the OWS intake header on four of the six units; installation of copper tubing and sight
+glasses on OWS tanks; completion of preoperational tests, in service tests and
+commissioning for the OWS system; demolition of existing electrical work for five
+
+                                           8
+units; demolition of existing pumps and piping in four units; installation of pumps and
+piping in two units; installation of piping for three units; installation of the VFDs for
+all six units; and completion of the commissioning for all six units (id. at 524).
+
+36. On January 24, 2020, the USACE notified Derian that the contract completion
+date of January 19, 2020, for the unterminated work had passed and “not all the work
+associated with the oil-water separators, as-builts, O&M manuals, etc. are complete”
+(R4, tab 4f at 529). The government further indicated it might withhold funds from
+future payments in anticipation of the assessment of liquidated damages (id. at 530).
+The government also informed Derian that it could submit a request for equitable
+adjustment if it felt it needed an extension of time (id.).
+
+37. On February 3, 2020, Derian responded to the government’s January 24, 2020,
+notification. In its response, Derian disputed the January 19, 2020, contract
+completion date. Derian asserted it had not been given the opportunity to complete the
+final unit installation due to the government’s design delay. Derian also indicated it
+had “completed all the required field mechanical and electrical work in anticipation of
+beginning startup, testing, and commissioning of the OWS system on January 21,
+2020.” Finally, Derian indicated it did not need to request a time extension since it
+had complied with the contract. (R4, tab 5e at 1034)
+
+38. On February 27, 2020, the parties entered into Modification No. A00003 (R4,
+tab 3c). That modification set the contract amount at $2,250,044.71 (id. at 496).
+
+39. By letter dated March 4, 2020, the USACE notified Derian that its construction
+progress was sufficiently complete to allow the government use and possession of the
+facility effective February 20, 2020 (R4, tab 4g at 532). The government further
+notified Derian that “potential liquidated damage withholdings” ceased effective
+February 20, 2020 (id.). In the final decision, the government noted the February 20,
+2020, date was 32 days past the original contract completion date (R4, tab 2 at 13).
+
+40. By letter dated April 2, 2020, the USACE provided Derian with revised marked-
+up technical specifications “to reflect the clarifications and correspondence between
+the Government and Derian” on the terminated work since the initial notice of partial
+termination for convenience (R4, tab 4h at 541). On May 12, 2020, the USACE
+provided Derian with the “final marked-up technical specifications” showing the
+terminated work (R4, tab 4i at 571).
+
+Derian’s Claims
+
+41. On May 29, 2020, Derian submitted a “Final Cost Settlement” document in
+response to the partial termination for convenience notice (R4, tab 5h). In that
+document, Derian (1) discussed 11 USACE actions and changes that it alleged resulted
+
+                                            9
+in additional costs and delays; (2) listed subcontract termination costs in the amount of
+$7,881 and its termination settlement costs associated with the termination inventory
+and turnover process of $7,030; and (3) included four contract credits totaling $64,370
+resulting from the terminated work (id at 1042-45). Derian requested a $61,935
+adjustment to the contract price, increasing it from $2,250,044.71 to $2,311,979.71 (id.
+at 1045).
+
+42. On June 17, 2020, the government informed Derian its proposed additional costs
+resulting from alleged changes and delays in its “Final Cost Settlement” should instead
+be submitted as a request for equitable adjustment (REA) (R4, tab 4k).
+
+43. On July 16, 2020, Derian submitted another letter entitled “Request for Equitable
+Adjustment” (R4, tab 5i). Derian again listed the 11 USACE actions it alleged created
+contract changes and delays resulting in increased costs (id. at 1262-64). Derian,
+however, did not list its termination costs or credits for the terminated work in this
+document. Derian requested a contract price adjustment in the amount of $111,394 for
+these additional costs (R4, tab 5i at 1264).
+
+44. The government responded to each of Derian’s 11 “additional costs” requests
+under separate correspondence from August 28, 2020, through February 19, 2021 (R4,
+tabs 4l - 4y).
+
+45. On February 25, 2021, Derian submitted a certified claim indicating settlement
+negotiations had reached an impasse and referenced its May 29, 2020, and July 16,
+2020, letters and an attached “REA & Termination Settlement Summary” (R4, tab 1). 1
+Derian asserted a request for an equitable adjustment and claim for “termination
+settlement costs” (id. at 3). Derian also disputed the government’s liquidated damages
+assessment (id.). Derian claimed the current contract amount should be revised from
+$2,250,044.71 to $2,259,019.41, resulting in a final payment due Derian of
+$372,835.55 (id.).
+
+46. On May 13, 2021, the government issued unilateral Modification No. A00004
+increasing the contract price from $2,250,044.71 to $2,263,279.71 resulting from the
+government’s determination that Derian was entitled to additional costs in the amount
+of $1,023 for the OWS Relocation, $1,860 for the pump plate modification, and
+$10,352 for the supplemental pumping claims (R4, tab 3d).
+
+
+1
+    Neither party included the referenced attached “REA & Termination Settlement
+         Summary” in the record.
+                                           10
+Government’s Final Decision
+
+47. On June 8, 2021, the government issued a final decision in response to Derian’s
+claim (R4, tab 2). In its final decision, the government addressed each of Derian’s 11
+additional cost claims, Derian’s claimed termination for convenience costs, and
+Derian’s request for remission of the liquidated damages (id.). The government
+characterized Derian’s claim as “a change to the contract price in the amount of
+$111,394, an extension of time equal to fifteen (15) calendar days, a proposed
+termination cost credit of $102,409.30, and the remission of liquidated damages in the
+amount of $42,720.00” (id. at 4). The final decision also noted Derian claimed an
+entitlement to the remaining contract balance of $372,835.55 (id.).
+
+48. The final decision found merit or partial merit in four of Derian’s 11 additional
+cost claims and awarded Derian an additional $26,391 in costs (id. at 14). The
+government agreed to pay Derian additional labor costs in the amount of $1,860 to
+adjust the pump plates to deal with the existing electrical outlets and cabling (id.
+at 10). The government noted it had issued Modification No. A00004 reflecting the
+increased costs from three of Derian’s claims in the amount of $13,235 and intended to
+issue a separate modification for the “foot valves” claim in the amount of $13,156 (id.
+at 10-11). The record does not indicate the government ever processed the
+modification for the “foot valves” claim.
+
+49. The final decision also determined the government’s credit for the terminated
+work was $186,985 (id. at 12). The final decision determined this amount based upon
+an analysis of the terminated work prepared by its cost engineers and construction
+personnel (id. at 11; R4, tab 8a at 1393-1413). The USACE engineers calculated the
+government’s contract cost estimate for the deleted work using information from
+Derian’s proposals when the information was “determined to be sufficiently
+documented and acceptable” and “cost estimating tools, methods, labor rates and
+indexes normally used in evaluating termination cost claims” (R4, tab 8a at 1369,
+Schmode declaration). The USACE engineers did not rely upon or have any
+knowledge of Derian’s contract pricing (id. at 1394). The government’s estimate
+further indicated it used the Davis Bacon labor rates for Franklin County, Washington,
+and material prices from quotes, supply catalogs, previous estimates, and the 2016
+MCACES RSMeans Unit Price Book (id. at 1401). The estimate also included a
+2.54% escalation factor from the mid-point of the construction period and applied a
+27% overhead rate and a 5.95% profit from the weighted guidelines (id. at 1401-02).
+
+50. Derian, on the other hand, apparently calculated the value of the terminated work
+based on the original approved rates set out in its bid documents, along with approved
+
+
+                                          11
+profit and overhead rates applied throughout the project (app. br. at 2). Derian,
+however, provided no supporting documentation for its calculations. 2
+
+51. The below table summarizes the government’s and Derian’s calculations for the
+contract’s deleted work:
+
+                                                             Gov’t          Derian
+         CLIN ITEM 0001 Supply And Install New
+         Oil Water Separators                               49,113.00       24,044.40
+            Install Parts                                      416.00               0
+            Commissioning and Training                      19,731.00        4,292.95
+            Curtain                                         11,713.00        9,016.52
+            Sump Pump Drain to CRES Header                  17,253.00       10,734.93
+         CLIN ITEM 0002 Supply And Install New
+         Turbine Pit Sump Pumps                             81,906.56       22,407.99
+            Equipment Nameplate Installation                   828.00        1,085.08
+
+           Termination Costs for Inventory/
+            Turnover of Materials
+              General Contractor – Labor Report             (7,279.52)     (7,030.14)
+              CREM – 25 Hours                               (3,708.92)     (7,880.84)
+              Termination Costs - Negotiations                            (20,165.01)
+           Remove Existing Pumps and Piping                 24,043.00        6,636.67
+             Remove and Salvage Pumps                       13,318.00        5,804.75
+             Remove and Salvage Flexible Pipe                4,162.00          831.92
+             Remove Electrical                               6,563.00               0
+           Install New Turbine Pit Sump Pumps               68,024.00       49,762.23
+             Install Parts                                  33,296.00       24,450.50
+             Electrical                                     11,605.00       12,865.78
+             Commissioning Pumps in Turbine Pits            23,123.00       12,445.95
+         ITEM 0004 Install Headcover VFDS                   55,966.00       55,966.00
+                           TOTAL                           186,985.56     102,418.39
+
+(R4, tab 8a at 1405-1413; App. br. at 18)
+
+52. Finally, the final decision reasserted the government’s claim for liquidated
+damages in the amount of $42,720 for 32 days at the contractual rate of $1,335 per day
+
+2
+    In its brief, Derian also contends it should be reimbursed for its actual incurred costs
+           on the terminated work under a termination for convenience (app. br. at 13).
+           Derian did not, however, provide any actual incurred cost data for the deleted
+           work.
+                                              12
+(id. at 13). The final decision determined a contract completion date of January 19,
+2020, and an actual completion date of February 20, 2020 (id.).
+
+53. On June 15, 2021, Derian appealed the government’s final decision to the Board.
+
+Derian’s Complaint
+
+54. In its complaint, Derian reasserted its claim for four of the eleven increased cost
+claims, including one on which the contracting officer awarded a partial amount
+(compl. at 1-2). 3 The four remaining increased cost claims include delays and
+increased costs for (1) its subcontractor Columbia River Electrical Maintenance
+(CREM) in the amount of $13,362 due to the work stoppage resulting from the power
+outage; (2) Derian’s and its vendor’s increased costs in the amount of $15,745
+resulting from the government’s alleged failure to grant a safe clearance and the delay
+due to the loss of power; (3) increased costs in the amount of $27,327 due to the
+alleged changed contract requirement to provide different stainless-steel components
+similar to that used at the Little Goose Dam; and, (4) increased costs in the amount of
+$10,735 due to the changed requirement for split as opposed to monolithic pump plates
+(id.). 4 Derian reduced its total increased cost claim to $67,169 (id.).
+
+55. Derian also calculated a contract credit for the work removed from the contract by
+the partial termination (compl. at 2-3) and disputed the government’s application of
+liquidated damages to the final contract payment (compl. at 3-4). Finally, Derian’s
+complaint sought termination settlement costs in the amount of $35,076 (compl. at 2-
+3). These costs included $7,881 for its subcontractor, CREM, and $27,195 for its
+termination settlement costs (id.).
+
+                                     DECISION
+
+I. Standard of Review
+
+        The parties have elected a written disposition under Board Rule 11. Board
+Rule 11 permits the parties “to waive a hearing and to submit [their] case upon the
+record.” Reed Int’l, Inc., ASBCA No. 61451 et al., 20-1 BCA ¶ 37,587 at 182,513
+(citing DG21, LLC, ASBCA No. 57980, 15-1 BCA ¶ 36,016 at 175,909 n.1). Unlike a
+motion for summary judgment, which must be adjudicated based on undisputed facts,
+the Board “may make findings of fact on disputed facts” when resolving an appeal
+
+3
+  Appellant’s complaint did not use numbered paragraphs. The citations are to the
+       page numbers.
+4
+  Derian noted that the government in its final decision determined Derian’s claim for
+       increased costs resulting from the pump plate modification had partial merit in
+       the amount of $1,860 (compl. at 2).
+                                          13
+under Board Rule 11. U.S. Coating Specialties & Supplies, LLC, ASBCA No. 58245,
+20-1 BCA ¶ 37,702 at 183,031 (citation omitted).
+
+II. The Deductive Credit
+
+        Although the government chose to delete the contract work pursuant to the
+contract’s termination clause and not via a deductive change under the changes clause,
+the parties have proceeded as if the reduction of work was a change rather than a
+partial termination for convenience. Derian did not submit a termination settlement
+proposal for any incurred costs on the terminated work. Rather, the parties sought to
+agree upon a final contract price by negotiating the increased cost claims and
+determining the contract price deduction due to the reduced contract work.
+Subtracting the reduced contract work from the contract price to determine the
+contract’s final price is typically used to calculate the government’s downward price
+adjustment on a fixed-price contract resulting from a deductive change order. Celesco
+Indus., Inc., ASBCA No. 22251, 79-1 BCA ¶ 13,604 at 66,683. Fortunately, we are
+not bound by the contracting officer’s label of “partial termination” notice and will
+treat the reduction of work as a deductive change to establish the contract’s final price.
+Goetz Demolition Co., ASBCA No. 39129, 90-3 BCA ¶ 23,241 at 116,618, recons.
+denied, 91-1 BCA ¶ 23,397.
+
+       A contract equitable adjustment should safeguard contractors and the
+government against the increased and decreased costs engendered by modifications
+adding or deleting contract work. Nager Elec. Co. v. United States, 442 F.2d 936, 946
+(Ct. Cl. 1971). As such, an equitable adjustment must be closely related to and
+contingent on the altered position the contractor finds itself in because of the
+modification. HCS, Inc., ASBCA No. 60533, 16-1 BCA ¶ 36,502 at 177,855. Hence,
+the government is entitled to a downward adjustment in the contract price to the extent
+any reduction in the contract work decreases Derian’s costs of performing the contract.
+Goetz Demolition Co., 90-3 BCA ¶ 23,241 at 116,618. That credit is measured by the
+contractor’s net cost savings from the deleted work. CTA Inc., ASBCA No. 47062,
+00-2 BCA ¶ 30,947 at 152,762. The government has the burden of proof as to the
+extent to which the contract requirements were reduced and the savings resulting from
+those reductions, regardless of whether the reduction is deemed a partial termination
+for the government’s convenience or a deductive change. Nager Electric Co., 442
+F.2d at 946; Celesco Indus., Inc., 79-1 BCA ¶ 13,604 at 66,681. Derian is entitled to
+receive the full contract price unless the government demonstrates it is entitled to a
+price reduction for the deleted work. HCS, Inc., 16-1 BCA ¶ 36,502 at 177,855; CTA
+Inc., 00-2 BCA ¶ 30,947 at 152,762.
+
+      To determine the correct price reduction due to the deductive change, we must
+attempt to reconstruct as accurate an estimate as possible the value or cost of the
+unperformed work. Goetz Demolition Co., 90-3 BCA ¶ 23,241 at 116,618. Using the
+
+                                           14
+originally proposed prices to measure the downward adjustment has often been
+considered and rejected. EJB Facilities Servs., ASBCA No. 57547, 13-1 BCA ¶
+35,399 at 173,680-81. Deductive changes are usually based on a contractor’s current
+estimate or “would have cost” projection rather than on the original proposal prices.
+URS Fed. Support Servs., Inc., ASBCA No. 59998, 21-1 BCA ¶ 37,848 at 183,783-84
+(Air Force’s calculation of the deductive change amount “flawed” because the
+Air Force did not use URS’ actual costs data); Osborne Constr. Co, ASBCA
+No. 55030, 09-1 BCA ¶ 34,083 at 168,513 (bid amount irrelevant to pricing deductive
+change); Olympiareinigung, GmbH, ASBCA No. 53643, 04-1 BCA ¶32,458
+at 160,563 (amount allocated in bid for deleted work irrelevant to pricing a
+deduction); Fordel Films West, ASBCA No. 23071, 79-2 BCA ¶13,913 at 68,298
+(contractor not bound by costs estimated in proposals in pricing a downward
+adjustment); Celesco, 79-1 BCA ¶13,604 at 66,683 (deduction should be based on the
+contractor’s current estimate or “would have” cost for performing the deleted
+work); see also 11 THE NASH & CIBINIC REPORT ¶ 39, Equitable Adjustments for
+Deleted Work: The Severability Exception to the “Would have Cost” Rule (1997);
+12 THE NASH & CIBINIC REPORT ¶15, Postscript: Equitable Adjustments for Deleted
+Work (1998).
+
+        The government’s estimated cost of $186,985 for the deleted work appears to
+be the appropriate starting point to determine the value of the reduced work since the
+government based that estimate on Derian’s estimated costs to complete the work and
+not Derian’s proposed price. The government calculated its estimate using Derian’s
+documented and acceptable costs from its proposal and various cost estimating tools,
+methods, labor rates and indexes (finding 49). Derian, on the other hand, calculated
+the value of the deleted work based upon its original approved proposed rates (finding
+50). As discussed above, it is well established that the Board has frequently rejected
+using the original proposed prices to measure the downward adjustment in costs
+resulting from a deductive change. EJB Facilities Servs., 13-1 BCA ¶ 35,399
+at 173,680-81. Moreover, Derian provided no support in the record for its proposed
+prices (finding 50).
+
+         While the government’s estimated cost for Derian to complete the deleted
+work appears to be the appropriate starting point, Derian, in its brief, identified
+numerous errors in the government’s calculation. Derian first contends the
+government’s estimate includes costs for non-terminated work (app. br. at 14). Derian
+points out the government’s estimate “included a $17,253 credit to attach Sump Drain
+to CRES Header (Transition Units 1-6) for all six units” (italics in original) (app. br. at
+14 citing app. supp. R4, tab 72 at 197). The notice of termination confirms Derian had
+already completed this work for Units 2 & 4 prior to the termination (finding 35). The
+government did not respond to this contention in its reply brief. We find the $17,253
+credit to attach the sump drain to the CRES Header should be reduced by one-third to
+$11,502 since Derian had already completed that work on Units 2 & 4.
+
+                                            15
+        Similarly, Derian points out the government’s estimate for the deletion of the
+installation of parts for the new turbine pit sump pumps is overstated (app. br. at 14).
+The government’s estimate included costs for installing parts on four units (app. supp.
+R4, tab 72 at 202). Derian contends it had already purchased and installed parts for
+four of the pumps (app. br. at 14). The partial termination notice indicates the
+government deleted the pumps and piping installation only on units 1 and 3 (finding
+35). The government also did not respond to this contention in its reply brief. We find
+the government’s estimate for the deletion of the installation of parts for the new
+turbine pit sump pumps should be reduced by 50% to $16,648 since this work was
+deleted on two, not four units. 5
+
+       In its brief, Derian identifies other alleged mistakes in the government’s cost
+estimate. For instance, Derian claims it installed the “totalizer for the mechanical gear
+pump” before the termination (app. br. at 14 citing app. supp. R4, tab 72 at 199). The
+government included this part in its deleted items in the amount of $416 as part of
+CLIN Item 0001 (R4, tab 8a at 1407). We find this item should also be deleted from
+the government’s cost estimate.
+
+       On CLIN Item 0001, OWS Commissioning and Training, the government
+included an estimated cost of $19,730 (id.). This cost included three subitems: (1)
+“USR Startup Engineer” in the amount of $15,177; (2) “USR Assistance of
+Commissioning Agent” in the amount of $2,484; and (3) “USR Water
+Sampling/Testing” in the amount of $2,070 (id.). Derian contends it contracted with
+Mercer International for the startup engineer services in the amount of $7,500 before
+the termination and paid them on February 12, 2020, at the government’s direction
+(app. br. at 14 citing app. supp. R4, tab 94). The government did not respond to this
+contention in its reply brief. Since Derian provided actual cost data showing it had
+already paid for this service, we find the $15,177 cost estimate to complete this work
+should be deleted from the government’s OWS Commissioning and Training cost
+estimate. The “OWS Commissioning and Training” estimated cost is reduced to
+$4,554.
+
+       Under CLIN Item 0002, “Supply and Install New Turbine Pit Sump Pumps”,
+the government estimate included 112 man-hours at the cost of $13,318 to remove and
+
+5
+    Derian’s brief indicates it offered to include a credit for the main unit work based on
+         its actual pricing for the incomplete work and not the government’s estimated
+         completion cost (app. br. at 14). Hence, Derian includes a calculation of
+         $24,451 for the installation of parts in its price reduction rather than 50% of the
+         government’s $33,296 cost estimate. We reject Derian’s number because we
+         base this decision on the government’s estimated cost to complete the deleted
+         work, which in part is based upon Derian’s actual cost experience, not Derian’s
+         proposed price.
+                                              16
+salvage the eight remaining pumps (app. br. at 15 citing app. supp. R4, tab 72 at 201-
+02). The government estimated a crew size of 7 mechanical and 5 electrical workers
+performing the work inside the main unit turbines (app. br. at 15 citing app. supp. R4,
+tab 72 at 204). Derian contends this estimate is “patently unreasonable” (app. br.
+at 15). Derian indicates it used a four-person mechanical crew and two electrical
+workers to perform the removal and salvage work on the other four pumps (id.). We
+find Derian’s cost estimate based upon its actual cost experience in performing this
+task on the other four pumps more reasonable than the governments. The
+government’s cost estimate for this service is reduced by $7,513 to Derian’s $5,805
+estimated cost to complete this work.
+
+        On CLIN Item 0002, the government also estimated a credit on five of the six
+units for removing and salvaging flexible pipe in the amount of $4,162 and the
+removal of electrical in the amount of $6,563 (app. supp. R4, tab 72 at 202). Derian
+contends it had already performed this work on two units (four pumps), not one unit
+(two pumps), so the government estimate is overstated since only eight pumps on four
+units remained (app. br. at 15). The government does not refute this contention. The
+government’s cost estimate should be reduced by one-fifth for both items resulting in a
+cost estimate of $3,330 for the removal and salvaging of the flexible pipe and $5,250
+for the electrical removal. 6
+
+       In its brief, Derian also points out the government included $23,123 for
+“Commissioning of Pumps in the Turbine Pits” in its estimate (app. br. at 16 citing
+app. supp. R4, tab 72 at 203). Derian claims this estimate was overstated by $10,677
+(app. br. at 16). Derian provided copies of its canceled signed subcontracts for this
+work that totaled $12,446 (app. supp. R4, tabs 96, 97).
+
+        In its reply brief, the government contends Derian’s figure is understated since
+the contract required a manufacturer’s representative to make six separate trips to
+startup and commission each unit (gov’t reply br. at 8). The contract stated, “[E]ach
+unit must be completely operational, commissioned, and ready to be back on line prior
+to taking another unit out of service” (finding 3). As a result, we find the government
+is correct that the manufacturer’s representative would have had to make six different
+trips to commission each unit. Moreover, the government noted Mr. Voit could not act
+as the startup technician for Derian since he was not a “manufacturer’s representative”
+(gov’t reply br. at 8). We find the government’s argument persuasive and accept its
+$23,123 credit for commissioning the pumps as reasonable.
+
+
+6
+    In its brief, Derian suggests an estimated cost of $2,489 is reasonable for demolishing
+           two pumps at each of the 4 remaining units (app. br. at 15). Derian’s brief,
+           however, is unclear as to how it arrives at this figure, so we do not accept it.
+                                             17
+        Finally, the government cost estimate assumed a 27% overhead rate and a
+5.95% profit on the prime contract (finding 49). On the other hand, Derian calculated
+its estimate using the contractual agreed rates of 26.66% overhead and a profit ranging
+from 4.35% to 6.66% (app. br. at 16). We find that we do not need to adjust the
+government’s proposed rates since the difference between the two sets of proposed
+rates is negligible.
+
+        Both the government and Derian included costs for the inventory/turnover of
+materials resulting from the government’s reduction of work on the contract as an
+offset to the deductive credit price reduction (gov’t br. at 23; app. br. at 18). Derian
+also included costs it labeled as “Termination Costs – Negotiations as of 2/5/21” as an
+offset to its calculation (app. br. at 18). 7 Both parties, however, discussed the
+allowability of these costs under the termination for convenience settlement clause
+(gov’t br. at 23-25; app. br. at 18-20). Even though the government labeled its
+reduction of work as a partial termination for convenience, the parties treated it as a
+deductive change. Derian’s costs incurred in responding to and negotiating the
+deductive change should therefore be addressed as contract administration costs
+responding to this change rather than under the partial termination for convenience
+clause.
+
+       Derian first seeks a $20,165 offset for its costs incurred in discussions with the
+government and responding to various information requests from the government
+pertaining to establishing the value of the terminated work (app. br. at 18-19). In
+support of those costs, Derian submitted a document entitled “Derian Termination
+Negotiation Worksheet” dated February 5, 2021 (app. supp. R4, tab 104 at 624). This
+document shows Mr. Mark Jensen, Derian’s president, incurred 57 hours ($6,993)
+while Mr. Voit, Derian’s project manager, incurred 92 hours ($7,507) during the
+negotiations establishing the price for the reduced contract work (id.). The document
+also shows Mr. Philip Fielding, identified as CREM’s project manager, incurred five
+hours ($632). The document has a subtotal of $15,132 in incurred labor costs, to
+which Derian applied overhead ($4,034) and profit ($999) to arrive at the total claimed
+amount of $20,165.
+
+       Derian included supporting monthly timecards from September 2020 through
+February 2021 for Mr. Jensen and Mr. Voit indicating the number of hours each month
+they worked on the “Lower Monumental Dam” project (app. supp. R4, tab 104 at 626-
+37). The government contends these timecards do not specifically describe the type of
+work performed or any proof of payment (gov’t reply br. at 7). While the timecards do
+not specifically identify that these two individuals worked on the contract price
+reduction negotiations, Derian claims these individuals’ time during this period on this
+
+7
+    The government did not include any of Derian’s claimed “termination negotiation”
+         costs in its cost reduction calculation (gov’t reply br. at 7).
+                                           18
+contract was exclusively devoted to weekly discussions and providing requested
+information to the government pursuant to the termination (app. br. at 19). Since
+Derian completed its performance on the contract in early 2020, we find Derian’s
+assertion credible. Moreover, Derian did not submit its certified claim on this matter
+until February 25, 2021 (finding 43). These costs do not appear to have been incurred
+in connection with the prosecution of a CDA claim.
+
+        Contract administration costs are “presumptively allowable if they are
+reasonable and allocable” and not incurred in connection with pursuing a CDA claim.
+Bill Strong Enterprises, Inc. v. Shannon, 49 F.3d 1541, 1549 (Fed. Cir. 1995)
+overruled in part on other grounds, Reflectone, Inc. v. Dalton, 60 F.3d 1572 (Fed. Cir.
+1995) (en banc). We find sufficient documentation exists supporting Mr. Jensen’s and
+Mr. Voit’s time and determine that the claimed hours and costs are allocable and
+reasonable.
+
+        Derian did not, however, provide similar supporting documentation for
+Mr. Fielding’s time. The only support for Mr. Fielding’s time is the hours listed on the
+spreadsheet. Numbers on a spreadsheet without any additional supporting
+documentation is insufficient to support the incurred costs. Vistas Construction of
+Illinois, Inc., ASBCA Nos. 58479, 58480, 58481, 58482, 58483, 58486, 58487, 58488,
+16-1 BCA ¶ 36,236 at 176,796-97 (other than numbers written on a spreadsheet, there
+is no support for the hours alleged). We, therefore, disallow Mr. Fielding’s claimed
+hours.
+
+       In summary, we allow $19,323 as an offset to the cost reduction on the contract
+for Mr. Jensen and Mr. Voit’s time negotiating the cost reduction including overhead
+and profit. 8
+
+       Derian also seeks an offset to the contract price reduction for both its own and
+its subcontractor CREM’s costs for the inventory/turnover of materials resulting from
+the government’s reduction of work on the contract (app. br. at 19-20). Derian seeks
+an offset in the amount of $7,030 for its own incurred direct labor costs associated
+with the inventory/turnover of materials (app. br. at 19). Derian supplied supporting
+documentation for these labor hours (app. supp. R4, tab 103 at 610). Moreover, the
+government does not challenge these costs. We find Derian’s claimed costs in the
+amount of $7,030 to process the inventory associated with the reduced contract work
+reasonable.
+
+       Derian also claims $7,881 in costs as an offset to the contract price reduction
+for costs its subcontractor allegedly incurred to determine final contract closeout and
+document project turnover conditions (app. br. at 19). In support of those costs,
+
+8
+    $14,500 + (OH @ 26.66% = $3,866) + (profit at 6.6% = $957) = $19,323.
+                                           19
+Derian provided a proposal from CREM proposing 55 hours to close out the project
+(app. supp. R4, tab 102 at 606-09) and a worksheet entitled “CREM Termination Costs
+Worksheet” (id. at 604). The worksheet reflected the price for a “CREM Termination
+Costs change order” in the amount of $5,914 with the addition of Derian’s overhead
+and profit for a total claimed amount of $7,881 (id.).
+
+       The government alleges CREM’s time records supporting these claimed
+55 hours show only 30 of the claimed hours coded as direct labor for the termination
+project (gov’t br. at 24 citing R4, tab 7f at 1355).9 The remaining 25 hours in CREM’s
+records are apparently labeled “COVID” (id.). Derian responds that CREM switched
+accounting systems during this time period, and their manager arbitrarily applied
+“COVID” to 20% of all labor from the old system (app. reply br. at 14; R4, tab 7f
+at 1354). CREM admits it no longer has any time sheets or daily reports from that
+time (R4, tab 7f at 1352).
+
+       Derian bears the burden of providing supporting documentation showing the
+claimed costs have been incurred and are allocable to the contract. FAR 31.201-2(d),
+DETERMINING ALLOWABILITY (MAY 2004). We find Derian has not met this
+burden in supporting all its CREM subcontractor costs to close out the project.
+Analytical Assessments Corp., ASBCA Nos. 52393, 52394, 01-2 BCA ¶ 31,483
+at 155,426 (Board found that the evidence was insufficient to support cost
+allowability). Hence, we disallow the 25 hours labeled as “COVID” and allow the
+remaining unchallenged 30 hours. This results in a recovery of $4,299 in costs for the
+CREM subcontract costs (55% of CREM’s $7,881 claimed subcontract labor hour
+costs) as an offset to the contract price reduction for costs CREM incurred to
+determine final contract close out.
+
+The below table sets out our conclusions regarding the deductive credit amount:
+
+                                                   Gov’t         Derian           Finding
+CLIN ITEM 0001 Supply And Install New
+Oil Water Separators                                 49,112         24,045          27,769
+    Install Parts                                       416              0               0
+    Commissioning and Training                       19,730          4,293           4,554
+    Curtain                                          11,713          9,017          11,713
+    Sump Pump Drain to CRES Header                   17,253         10,735          11,502
+CLIN ITEM 0002 Supply And Install New
+Turbine Pit Sump Pumps                               81,907         57,485          66,589
+   Equipment Nameplate Installation                     828          1,085             828
+   Remove Existing Pumps and Piping                  24,043          6,637          14,385
+
+
+9
+    Neither party provided CREM’s actual labor hour time entries in the record.
+                                            20
+    Remove and Salvage Pumps                        13,318          5,805          5,805
+    Remove and Salvage Flexible Pipe                 4,162            832          3,330
+    Remove Electrical                                6,563              0          5,250
+  Install New Turbine Pit Sump Pumps                68,024         49,763         51,376
+    Install Parts                                   33,296         24,451         16,648
+    Electrical                                      11,605         12,866         11,605
+    Commissioning Pumps in Turbine Pits             23,123         12,446         23,123
+ITEM 0004 Install Headcover VFDS                    55,966         55,966         55,966
+Costs for Inventory/Turnover of Materials
+                  Derian’s Costs                    (7,280)        (7,030)        (7,030)
+                  CREM’s Costs                      (3,709)        (7,881)        (4,299)
+                  Derian Negotiation Costs                0      (20,165)       (19,323)
+            TOTAL                                  175,996        102,420        119,672
+
+We find the government is entitled to a deductive credit on the contract in the amount
+of $119,672.
+
+III. Derian’s Increased Cost Claims
+
+        On July 16, 2020, Derian submitted an REA listing 11 actions that allegedly
+created contract changes and delays resulting in increased costs (finding 43). In its
+complaint, Derian reduced its claims for increased costs to four (finding 54). The four
+remaining increased cost claims include: (1) $13,362 for its electrical subcontractor
+CREM’s alleged increased costs due to the work stoppage resulting from the power
+outage; (2) $15,745 for Derian’s own alleged increased labor and vendor costs
+resulting from the delay due to the power outage and the government’s failure to grant
+a safe clearance; (3) $27,327 due to the alleged changed contract requirement to
+provide different stainless-steel components similar to that used at the Little Goose
+Dam; and, (4) $10,735 in additional labor and material costs resulting from the alleged
+changed requirement to use split pump plates rather than monolithic plates (id.). We
+address each of Derian’s remaining increased cost claims in turn.
+
+       a. Power Outage and Failure to Grant a Safe Clearance Claims
+
+        In its complaint, Derian asserted claims for its subcontractor CREM’s and its
+own alleged increased costs resulting from the power outage and the government’s
+failure to grant a safe clearance (id.). In its brief, Derian broke down its claim for
+these costs between the increased costs resulting from the power outage and the
+increased costs resulting from the government’s alleged failure to grant safe clearance
+(app. br. at 20).
+
+
+                                          21
+       Derian first asserts the government prevented its own and its subcontractor’s
+personnel from accessing the dam and performing any work due to the power outage
+(id.). We previously determined the government issued the stop-work direction due to
+its concerns with various quality deficiencies and not due to the power outage (finding
+18). Any additional costs Derian or its subcontractor incurred at that time resulted
+from that stop work order and not the power outage. The power outage may have
+brought Derian’s quality deficiencies to the government’s attention, but the
+government issued the stop-work directive due to its concerns with Derian’s quality
+deficiencies.
+
+        To prevail on its delay claim, Derian must show the extent of the alleged delay,
+the causal link between the government’s wrongful acts and the delay in its
+performance, and the alleged harm to the contractor resulting from the delay. Kinetic
+Builder’s Inc. v. Peters, 226 F.3d 1307, 1316 (Fed. Cir. 2000). We find the
+government’s decision to suspend Derian’s work on July 23, 2019, due to the issues
+with Derian’s quality control program, including deficient pump foundation plates, the
+failure to hold the required preparatory meetings and working without adequate
+oversight, until Derian submitted an acceptable revised quality assurance plan was
+reasonable. Granite Constr. Co., ASBCA No. 62281, 21-1 BCA ¶ 37,756 at 183,281
+(If the suspension is reasonable, there is no cost to the government.) Moreover,
+Derian’s project manager acknowledged Derian’s quality control program was
+unacceptable (finding 22).
+
+        Furthermore, the government asserts it did not grant Derian safe clearance to
+begin the electrical work inside the pump units on July 23, 2019, due to Derian’s
+failure to complete the pre work clearance process (gov’t br. at 10). The government
+notes Derian failed to obtain the required AHA report approval before beginning the
+electrical work inside the pump unit (gov’t br. at 11). Derian claims it received that
+approval when it submitted an AHA dated July 11, 2019, describing the
+“Activity/Work Task” as “Pump Install (Electrical)” (app. br. at 20).
+
+       The contract required Derian to submit AHA reports to the contracting officer
+for approval before beginning each activity, task, or DFOW (finding 8). Derian’s
+“Quality Control Plan” DFOW list included “Division 26 – Electrical” (finding 7).
+The record indicates Derian submitted an AHA dated July 11, 2019, describing an
+“Activity/Work Task” as “Pump Install (Electrical)” that the government accepted
+with various comments on July 17, 2019 (finding 14). The comments included
+direction for Derian to “[R]esubmit revised AHA when definable features of work are
+added” (id.). The record does not indicate Derian resubmitted the revised AHA with
+the DFOW’s (id.). The government’s refusal to give Derian safe clearance to begin
+the electrical work inside the pump unit until Derian obtained the required government
+approval for the DFOW, Division 26 – Electrical AHA was reasonable.
+
+
+                                           22
+        The government also asserts it did not grant Derian safe clearance to begin the
+electrical work inside the pump units because Derian failed to hold the contractually
+required preparatory meeting before beginning that electrical work (gov’t br. at 11-12).
+The contract required Derian to hold preparatory meetings before beginning work on
+each DFOW (finding 9). Derian did not hold the preparatory meeting for the electrical
+work until August 12, 2019 (finding 15). The government’s decision to withhold
+Derian’s safe clearance to begin the electrical work inside the pump unit until Derian
+held the required preparatory meeting was also reasonable.
+
+        In addition, Derian failed to establish with any reasonable certainty the extent
+of any delay damages attributable to the government’s actions. To establish
+entitlement to compensable delay damages, Derian must prove “the government was
+responsible for specific delays; overall project completion was delayed as a result; and
+any government-caused delays were not concurrent delays within appellant’s control.”
+Env’t Chem. Corp., ASBCA Nos. 59280, 60760, 22-1 BCA ¶ 38,166 at 185,365 citing
+WECC, Inc., ASBCA No. 60949, 21-1 BCA ¶ 37,948 at 184,306 (quoting Versar, Inc.,
+ASBCA No. 56857 et al., 12-1 BCA ¶ 35,025 at 172,128). Moreover, Derian must
+show the government’s actions affected activities on the critical path of its contract
+performance. Essex Electro Eng’rs, Inc. v. Danzig, 224 F.3d 1283, 1295 (Fed. Cir.
+2000) (contractor must demonstrate the government’s acts affected activities on the
+critical path to recover under a delay claim). Here, Derian failed to establish any delay
+days were solely attributable to government actions. Derian also failed to show that
+any of the delay days impacted the contract schedule’s critical path. Derian’s claims
+for its own, and its subcontractor CREM’s, alleged increased costs resulting from a
+power outage and the government’s failure to grant a safe clearance are denied.
+
+       b. Changed Stainless-Steel Contract Requirement
+
+       Derian next asserts a claim for increased costs resulting from a constructive
+change due to the alleged changed contract requirement to provide different stainless-
+steel components similar to those used at the Little Goose Dam (app. br. at 21).
+Derian alleges the government’s quality assurance representative, Mr. Kuhlmann,
+directed Derian during the original MU4 installation to make the main unit head cover
+pump installation look the same as the one installed at the Little Goose Dam (id.).
+Derian claims this change required it to purchase premium materials beyond the
+contract requirements and completely re-install the MU4 piping system (id.).
+
+       The government contends Mr. Kuhlmann never directed Derian to perform
+work outside the contract (gov’t br. at 16). In his declaration, Mr. Kuhlmann attested
+he sent photos of a recently installed oil water separator at the Little Goose Lock &
+Dam to Derian “as an example of the quality we expected” (R4, tab 2c at 22).
+Mr. Kuhlmann denies saying, “make it look like the photos, and I’ll accept it” (id).
+Mr. Kuhlmann’s declaration appears to be supported by the contemporaneous
+
+                                           23
+documentation. In an email dated July 31, 2019, Mr. Kuhlmann sent pictures of the
+Little Goose oil water separator to Derian (finding 20). In that email, Mr. Kuhlmann
+stated, “[T]his is the quality we will be looking for and Derian needs to strive for”
+(id.). Mr. Kuhlmann did not appear to specifically direct Derian to use premium
+materials or otherwise direct them on how to accomplish the piping installation.
+
+       A contractor is entitled to an equitable adjustment for a constructive change to
+the contract when it shows “(1) that it performed work beyond the contract’s
+requirements, and (2) that the additional work was ordered, expressly or impliedly, by
+the government.” BGT Holdings LLC v. United States, 984 F.3d 1003, 1012 (Fed. Cir.
+2020); Kiewit Infrastructure W. Co. v. United States, 972 F.3d 1322, 1329 (Fed. Cir.
+2020). Moreover, for a contractor to recover for a change, the person acting for the
+government must possess authority to modify the contract. Winter v. Cath-dr/Balti
+Joint Venture, 497 F.3d 1339, 1344 (Fed. Cir. 2007); Northrop Grumman Sys. Corp.
+Space Sys. Div., ASBCA No. 54774, 10-2 BCA ¶ 34,517 at 170,238-39.
+
+       Here, the government contends Mr. Kuhlman did not direct Derian to provide
+different stainless-steel requirements (gov’t br. at 16). Moreover, the government
+asserts Mr. Kuhlman had no authority to change the contract requirements even if he
+had directed the changed work (id. at 17). The government identifies several instances
+in which it informed Derian that only a warranted contracting officer acting within
+their delegated authority had the authority to change the contract’s terms and
+conditions (see e.g., findings 11, 12).
+
+        Derian contends it called the ACO seeking clarification of Mr. Kuhlmann’s role
+on the contract and left the ACO a voice message (app. br. at 21 citing R4, tab 5h
+at 1043). Derian further contends the ACO did not return that call (app. br. at 21.)
+Derian’s assumption that the ACO delegated the contract authority to the QAR by not
+responding to a voicemail message is unreasonable. A contracting officer’s
+ratification of an unauthorized act requires the contracting officer with the authority to
+have knowledge of the unauthorized act and then act to adopt the unauthorized
+action. Reliable Disposal Co., ASBCA No. 40100, 91-2 BCA ¶23,895 at 119,717.
+Even if the ACO knew of Mr. Kuhlmann’s alleged direction, which we do not find,
+there is no evidence the ACO acted to adopt the unauthorized action. Heartland
+Energy Partners, ASBCA No. 62979, 22-1 BCA ¶ 38,200 at 185,519 (rejecting
+ratification contention since no evidence contracting officer acted to adopt the
+unauthorized action).
+
+       As such, we find Mr. Kuhlmann did not direct Derian to perform additional
+work on the main unit head cover pump. Moreover, we find Mr. Kuhlmann had no
+authority to direct Derian to perform any such additional work. Derian’s claim for
+increased costs resulting from the alleged additional work on the main head cover
+pump is denied.
+
+                                           24
+       c. Pump Plate Modifications
+
+        Finally, Derian asserts it is entitled to increased costs in the amount of $10,735
+for additional labor and material costs resulting from a required change to the pump
+plates (app. br. at 21). Derian contends that pump units 1-3 original design required
+monolithic pump plates (id.). Derian further asserts that the government did not
+provide it access to the turbine pit sump area during its pre-bid tour site visit, so it
+relied upon the contract drawings design to prepare its bid (id.). During its initial
+inspection of the pump units, Derian notified the government split pump plates would
+be necessary to address various design conflicts with existing electrical outlets,
+cabling, and piping (finding 13). The government apparently acknowledged a split
+plate would be easier to install and would be acceptable (id.). Derian claims it
+incurred additional costs in the amount of $10,735 to custom modify the pump plates
+(app. br. at 21).
+
+       The government responded that it was Derian’s responsibility under the
+contract drawings to verify the pump plate dimensions prior to cutting and fabrication
+(gov’t br. at 21). See Parker’s Mech. Contractors., Inc., ASBCA No. 32842, 88-1
+BCA ¶ 20,472 at 103,542 (Specifications and drawings requiring field verification
+place responsibility of choosing means and methods on the contractor). Specifically,
+the government points out the contract drawings indicate, “[C]ontractor shall field
+verify the dimensions prior to cutting and fabrication of steel plates” (finding 10). The
+government further asserts Derian failed to verify the dimensions and chose the means
+and installation method (gov’t br. at 21). In its final decision, however, the
+government found partial merit in Derian’s claim and awarded additional labor costs
+of $1,860 for the adjustment of the plates to deal with the existing electrical outlets and
+cabling (finding 48).
+
+        The government correctly notes the drawings indicate the contractor shall field
+verify the plate dimensions (finding 10). In this instance, however, the issue is not the
+size of the plates but whether the plates should be monolithic or split. The contract
+drawings show monolithic plates (id.). The contract required Derian to conform to the
+drawings (id.). It is well established that when the government requires a contractor to
+follow detailed plans and specifications, it impliedly warrants that the result will be
+adequate if the contractor follows the specifications. D.E.W., Inc., ASBCA
+No. 35896, 94-3 BCA ¶ 27,182 at 135,459.
+
+      Moreover, the government did not provide Derian access to the turbine pit
+sump area during the pre-bid site tour, so Derian’s reliance upon the contract drawings
+was reasonable (app. br. at 21). Derian notified the government of the potential
+problem with the plates following its initial site visit (finding 13). The government
+accepted the pump plate modification (id.). In its final decision, the government also
+
+                                            25
+agreed to pay Derian’s additional labor costs in adjusting the plates to deal with the
+existing electrical outlets and cabling (finding 48). We find Derian was required to
+install the split rather than monolithic pump plates to perform the contract. The
+defective drawings resulted in a contract change, increasing Derian’s costs.
+
+        Derian seeks $10,735 for the additional labor and material costs associated with
+the split pump plates (app. br. at 21). In support of those costs, Derian provided two
+invoices from Starman Metal Fabricators, LLC, in the amount of $2,163 that appear to
+be for the increased costs resulting from splitting the pump plates in half and adding
+splices (app. supp. R4, tab 92 at 554-55). Derian also provided a “Job Cost History
+Report” showing wages paid from July 21, 2019, through December 13, 2019, for Job
+1812, to “Install Pump Cost Type” in the amount of $15,848 (app. supp. R4, tab 92
+at 556-60). Derian then subtracted the amount to install the pump labor from its
+original bid ($9,956) and added overhead (26.66%) and profit (6.6%) to the difference
+(app. supp. R4, tab 92 at 550).
+
+        The government challenged the amount Derian claims for these increased costs
+(gov’t br. at 21-22). The government’s claim evaluator, Mr. David Schmode, accepted
+the two invoices from Starman Metal Fabricators since they detail the additional labor
+to split the pump plates in half (R4, tab 8a at 1365). Mr. Schmode, however,
+challenged Derian’s labor costs to install the pumps since they contain no explanation
+of the work performed and show only the amounts paid to various individuals by
+check number and amount (id.).
+
+        Derian has the burden of proving its damages with “reasonable certainty.”
+Precision Pine & Timber v. United States, 596 F.3d 817, 833 (Fed. Cir. 2010);
+Environmental Chemical Corporation, ASBCA Nos. 59280, 60760, 22-1 BCA ¶
+38,166 at 185,365. We find Derian failed to establish how its labor costs increased
+because of the split pump plates. The government correctly notes that Derian’s labor
+cost sheet does not explain the work performed (R4, tab 8a at 1365). Moreover,
+Derian could have incurred the same labor costs installing the monolithic plates
+without the split. We conclude Derian is entitled to an additional equitable adjustment
+for the pump plate modification in the amount of $2,883 for the Starman Metal
+Fabricators invoices fully burdened (overhead at 26.66% and profit at 6.6%) but has
+failed to prove it is entitled to any additional costs for its own labor. 10
+
+
+10
+     As previously noted, the government already adjusted the contract price in
+         Modification A0004 in the amount of $1,860 for Derian’s increased labor costs
+         associated with adjusting the plates to deal with the existing electrical outlets
+         and cabling (finding 46).
+                                             26
+IV. Liquidated Damages
+
+       In its final decision, the government asserted a claim for liquidated damages in
+the amount of $42,720 (finding 52). The government’s liquidated damages assessment
+was for 32 days at the contractual rate of $1,335 per day based upon a finding of a
+contract completion date of January 19, 2020, and an actual completion date of
+February 20, 2020 (id.). Derian contends the government’s assessment of liquidated
+damages is inappropriate since the government waived any contract completion date
+when it partially terminated the contract and did not establish a new date for the non-
+terminated work (app. br. at 22). 11
+
+        It is well established “the Government bears the initial burden of proving that
+the contractor failed to meet the contract completion date and that the period of time
+for which it assessed liquidated damages is correct.” Sauer, Inc., ASBCA No. 62395,
+21-1 BCA ¶ 37,845 at 183,753 citing KEMRON Envtl. Servs. Corp., ASBCA
+No. 51536, 00-1 BCA ¶ 30,664 at 151,399. “Once the government has overcome the
+initial burden, it is incumbent upon appellant to show either that the government
+incorrectly assessed the damages under the contract, or that appellant’s failure to
+comply with the terms of the contract was excusable.” Chem-Care Co., ASBCA
+No. 53614, 06-2 BCA ¶ 33,427 at 165,726. Here, the parties dispute the appropriate
+contract completion date.
+
+        The government contends the contract explicitly states a substantial completion
+date of January 19, 2020 (gov’t br. at 27). The government bases this date upon
+contract clause FAR 52.211-10(c) that required all on-site installation work for the
+main unit’s headcover pumps be completed by December 20, 2019, with complete
+system commissioning complete by January 19, 2020 – 30 days after the final main
+unit 1 installation date (finding 3). On January 24, 2020, the government notified
+Derian that the contract completion date of January 19, 2020, for the unterminated
+work had passed and “not all the work associated with the oil-water separators, as-
+builts, O&M manuals, etc. are complete” (finding 36).
+
+        Derian contends it was not allowed to complete any “Main Unit” installations
+that formed the basis for the contract completion date since the government terminated
+that portion of the contract for convenience (app. br. at 22). Derian correctly notes the
+
+11
+     Derian also disputes the government’s determination of the actual contract
+         completion date since it contends the government took over the terminated
+         portions of the contract and did not complete them until long after the alleged
+         February 20, 2020, substantial completion date (app. br. at 7). We need not
+         address this contention since we find the government did not establish a new
+         contract completion date for the non-terminated work.
+
+                                             27
+government derived the contract completion date from the original contract schedule
+wherein the parties contemplated Derian would install and commission each unit
+during designated, planned outages (app. reply br. at 7). Following the partial
+termination for convenience, the contract no longer required Derian to install the main
+unit’s headcover pumps for all the units (finding 35). Derian further asserts it had
+“completed all the required field mechanical and electrical work in anticipation of
+beginning startup, testing, and commissioning of the OWS system on January 21,
+2020” (finding 37).
+
+        The original January 19, 2020, contract substantial completion date became
+inapplicable when the government discovered a design defect and subsequently
+partially terminated the contract for convenience. Derian satisfactorily installed the
+new head cover pumps in Unit 4 (finding 24). The government noted, however, the
+new pumps were unable to keep up with the water inflow when the pumps were turned
+on (id.). The government decided to install VFDs to address this design deficiency
+and allow the pumps to keep up with the water inflow (finding 25). The government
+informed Derian to limit its activities on the contract until it developed a new technical
+solution addressing the leakage problem (finding 26). Derian responded that this
+development would prevent it from proceeding as scheduled on Unit 6 and was going
+to impact the approved schedule (id.).
+
+       The government initially authorized Derian to install the VFDs for the
+headcover pumps to address the leakage issue (finding 27). The parties signed
+Modification No. A00002 requiring Derian to install the VFDs at an increased contract
+price of $131,438.40 (id.). The modification further indicated the contract completion
+date remained unchanged, but the contractor was entitled to additional time related to
+the modification, and the time impact would be negotiated and settled through a future
+modification (id.). The future modification was never negotiated since the government
+decided to install the VFDs and remaining pump units independently (findings 30, 35).
+
+        In its “Project Change Request Form”, the government noted the contractor
+could not complete the required work partly due to government-caused delays and the
+differing site condition resulting from the excess leakage (finding 30). The
+government further noted the units would not be available again to install until after
+the contract completion date (id.). The government determined its best approach
+would be to modify the current contract to de-scope the remaining work in the turbine
+pits (id.). The government further noted the revised physically complete date would
+be moved to September 31, 2020 (finding 31). The government issued the partial
+termination notice to Derian on January 17, 2020 (finding 35). 12 The government did
+
+12
+     It is interesting to note that the government approved the partial termination on
+           December 19, 2019, but did not issue the partial termination notice until
+           January 17, 2020 (finding 32, 35).
+                                              28
+  not provide Derian with the “final marked-up technical specifications” showing the
+  terminated work until May 12, 2020 (finding 40).
+
+         In its final decision, the government used the original contract substantial
+  completion date to assess the liquidated damages (finding 52). That completion date,
+  however, was based on Derian’s installation of the main pump units. Following the
+  government’s partial termination for convenience, the contract no longer required
+  Derian to perform that work (finding 35). Hence, the contract’s substantial completion
+  date was no longer applicable. The government never established a new contract
+  completion date for the non-terminated work. As such, we conclude the original
+  contract completion date was no longer applicable to this contract following the partial
+  termination for convenience, and the government is not entitled to assess liquidated
+  damages based upon that date.
+
+                                      CONCLUSION
+
+         Derian is entitled to be paid the contract price for the non-terminated work.
+  Modification No. A0004 increased the contract price from $2,250,044.71 to
+  $2,263,279.71 (finding 46). We have determined the government is entitled to a
+  deductive credit in the amount of $119,672 resulting from the reduction of work. We
+  have also determined Derian is entitled to an additional equitable adjustment in the
+  contract price of $2,883 for the pump plate modifications. We find the government is
+  not entitled to adjust the contract price for any liquidated damages. Finally, the
+  contract price should be increased by $13,156 for the amount the government, in its
+  final decision, determined Derian was entitled to for its claim for foot valves (finding
+  48). In summary, we find the final contract price should be $2,159,646.71.
+
+         The parties apparently agree Derian has been paid $2,044,870.41 under the
+  contract (app. br. at 3). Derian is entitled to an additional payment of $114,776.30 on
+  the contract plus CDA interest from the date of its certified claim (February 25, 2021).
+
+         Dated: August 25, 2023
+
+
+                                                  ARTHUR M. TAYLOR
+                                                  Administrative Judge
+                                                  Armed Services Board
+                                                  of Contract Appeals
+
+(Signatures continued)
+
+
+                                             29
+ I concur                                           I concur
+
+
+ RICHARD SHACKLEFORD                                J. REID PROUTY
+ Administrative Judge                               Administrative Judge
+ Acting Chairman                                    Vice Chairman
+ Armed Services Board                               Armed Services Board
+ of Contract Appeals                                of Contract Appeals
+
+
+        I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA No. 62957, Appeal of Derian,
+Inc., rendered in conformance with the Board’s Charter.
+
+      Dated: August 25, 2023
+
+
+                                                 PAULLA K. GATES-LEWIS
+                                                 Recorder, Armed Services
+                                                 Board of Contract Appeals
+
+
+                                            30

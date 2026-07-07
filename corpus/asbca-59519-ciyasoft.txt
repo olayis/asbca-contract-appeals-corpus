@@ -1,0 +1,1363 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeals of --                                   )
+                                                )
+CiyaSoft Corporation                            )      ASBCA Nos. 59519, 59913
+                                                )
+Under Contract No. W91B4L-10-P-1475             )
+
+APPEARANCE FOR THE APPELLANT:                          Ms. Laila H. Rashed
+                                                        Corporate Officer and Director of Sales
+
+APPEARANCES FOR THE GOVERNMENT:                       Raymond M. Saunders, Esq.
+                                                       Army Chief Trial Attorney
+                                                      Evan C. Williams, Esq.
+                                                      CPT William T. Wicks, JA
+                                                       Trial Attorneys
+
+                 OPINION BY ADMINISTRATIVE JUDGE MCNULTY
+
+       Appellant, CiyaSoft Corporation (hereafter appellant or CiyaSoft), licensed
+20 copies of commercially available translation software it had developed to the
+government via a Federal Acquisition Regulation (FAR) Part 12 commercial items
+contract. The contract included a single user licensing agreement, the specific, detailed
+terms of which were unknown to the government before the software was delivered.
+Appellant asserts the government has breached the contract, violating the licensing
+agreement by installing the same copy of the software on more than one government
+computer system, by permitting the software to be passed on to non-government
+personnel and copied thousands of times and by failing to secure and protect the
+software as required by the terms of the contract. 1 We are asked to decide entitlement
+only. We sustain the appeals in part. The matter is remanded to the parties to negotiate
+quantum in accordance with this decision.
+
+                                   FINDINGS OF FACT
+
+       1. Appellant is a software development company with offices in California and
+Virginia (R4, tab 2; tr. 1/46). One of its products is machine translation software,
+called CiyaTran, which is capable of translating from English into Dari or Pashto and
+
+1
+    Initially, appellant's appeal also included a patent infringement claim. This claim
+          was dismissed, with appellant interposing no objection, due to the Board's lack
+          of jurisdiction over patent infringement claims. (ASBCA No. 59519, Bd. corr.
+          order dtd. September 14, 2015). See CANVS Corporation, ASBCA No. 5634 7,
+          08-2 BCA ,r 33,892.
+vice versa. Appellant refers to this capability as bidirectional translation. (Tr. 1/39,
+47-49, 54)
+
+       2. Appellant has been developing translation software for many years and has
+sold or licensed use of other versions of its translation software to the government
+previous to the contract under which these appeals arise (tr. 1/28-34, 42). Appellant
+developed the English/Dari and Pashto bidirectional machine translation software
+using its own funds (tr. 1/23-34, 65). The translation software is sold internationally to
+government agencies and corporate customers, but has not been purchased by
+individual members of the general public due to its high price (tr. 1/33-35, 37, 94-95;
+R4, tab 26 at 13).
+
+        3. In early July 2010, appellant received an unsolicited email from
+CPT Ginger Donohoo (tr. 1/47). CPT Donohoo, assigned to the 2nd Brigade Combat
+Team (BCT) of the 101 st Airborne Division, expressed an interest in appellant's
+English/Dari bidirectional translation software and requested pricing information from
+appellant for both 20 single user licenses and a network license for 20-50 users (app.
+supp. R4, tab 12 at 2, tab 13 at 3, 11). In a follow up email CPT Donohoo indicated that
+the government wanted an additional price quote for 10 single user licenses and that the
+price, including shipping, needed to be $100,000, or less (app. supp. R4, tab 12 at 1).
+
+       4. In an email the following day, appellant appended a response, with the subject,
+"Single-user Bidirectional English CiyaTran MT Price Quote," to CPT Donohoo's
+inquiries as follows:
+
+              1. Shipping cost for the initial CD(s) to any location
+              worldwide is included in the price.
+              2. Activation is by phone or the Internet.
+              3. Delivery of subsequent updates and upgrades (which
+              are part of support and maintenance) is via FTP.
+              4. Support shall be provided via telephone and email.
+              Phone support is from 9AM to 11 :30PM PST, i.e., 8:30PM
+              to 11AM Afghanistan time, unless prior arrangements are
+              made.
+              5. On-site support is not included in this price quote and
+              may be provided under a separate training agreement.
+              6. These quotes are FOB Destination and are valid for 90 days.
+
+
+                                            2
+   Single-User, Bidirectional English/Dari CiyaTran        Number of              $
+     MT, with one year Support and Maintenance              Licenses            U.S.
+                                                                       1        8,800
+ 45% discount                                                        20       96,800
+ 50% discount                                                        50      220,000
+
+(R4, tab 2; app. supp. R4, tab 12 at 1)
+
+        5. Shortly thereafter the contracting officer, SSgt Lesly Richardson,2 prepared a
+justification to purchase on a sole source basis, "20 Ciyatran Single-user Bidirectional
+(English/Dari) Language Machine Translation Software with one year maintenance and
+support" (app. supp. R4, tab 13 at 2). The justification memorandum also states the
+software "will be used throughout the BDF and BN levels in order to assist in the
+translation of operation orders, mission planning documents, standard operating
+procedures, and Combined Joint Operations Center battle drills." The justification
+memorandum states the unit requesting the software, the 2nd Brigade Combat Team, then
+had only 112 of 340 interpreters requested and that the software would free up
+interpreters from translating documents to support ground maneuver units, but the
+memorandum does not provide any other indication of how the government intended to
+use the software. (Id.) The contracting officer testified that market research was
+performed to discover the existence of appellant's software (tr. 2/231-32).
+
+        6. The contracting officer only had approximately six months of experience as
+a contracting officer at the time and had never purchased software for the government
+prior to awarding the contract involved in this appeal (tr. 2/202-04).
+
+        7. Appellant's next contact with the government regarding its translation software
+came in a telephone call a few days before it was awarded the contract (tr. 1/51-52).
+Although appellant was not aware of it at the time, the caller was the contracting officer
+(tr. 1/52, 99-100, 138, 2/206, 232-33, 239). The contracting officer testified that the
+purpose of the call was to verify appellant was still willing to perform for the quoted
+price and to determine how quickly appellant could deliver (tr. 2/232-33, 239-40). The
+contracting officer never discussed the terms of any licensing agreement (tr. 2/240-41).
+
+       8. Appellant's representative, Mr. Hamid Daroui, accepted the call (tr. 1/52-55).
+Mr. Daroui testified that he was not aware that the call was related to the inquiry
+appellant had received from CPT Donohoo (id.). Mr. Daroui confirmed that no
+
+
+2 By the time of the hearing the contracting officer had been promoted to
+
+      Master Sergeant (tr. 2/198-99).
+
+                                           3
+negotiation of licensing terms occurred during the call although the parties briefly
+discussed activation and installation of the software (tr. 1/52-55, 62-64, 99-100).
+
+        9. On August 18, 2010, appellant was notified via email that Contract
+No. W91B4L-10-P-1475 had been awarded to it. The government attached the contract to
+the email for appellant's signature. (R4, tab 3) The contract was issued on Standard Form
+1449, which the government uses for the purchase of commercial items (R4, tab 1 at 1).
+The government initially sent an unsigned copy of the contract to appellant, but corrected
+this inadvertent error the next day (R4, tab 4). The government's email indicated the
+software should be shipped to the following address:
+
+             SSG Lesly A. Richardson
+             Kandahar Airfield (KAF)
+             KAF-RCC
+             APO, AE 09355
+             [Email address omitted]
+             Ref: Contract Number W91B4L-10-P-1475
+
+The email also included the following information regarding the point of contact
+responsible for inspecting and accep~ing the software.
+
+             CPT Chance Wirey
+             [Email address and telephone number omitted]
+
+(Id.)
+
+       10. The contract had a single line item number (CLIN) which described the
+supplies being purchased as:
+
+             ENGLISH DARI SOFTWARE
+             FFP
+             SINGLE USER BI-DIRECTIONAL ENGLISH/DARI
+             SOFTWARE LICENSES
+             w/1 Year Support and Maintenance
+             FOB: Destination
+             PURCHASE REQUEST NUMBER: KAFOL3ECE03819
+
+The CLIN indicated the quantity to be purchased was 20 at a Unit Price of $4,840 for a
+total price of $96,800. (R4, tab 1 at 3)
+
+     11. The contract included FAR 52.212-4, CONTRACT TERMS AND
+CONDITIONS--COMMERCIAL ITEMS (JUN 201 O); and FAR 52.212-5, CONTRACT TERMS AND
+CONDITIONS REQUIRED TO IMPLEMENT STATUTES OR EXECUTIVE 0RDERS--COMMERCIAL
+
+
+                                           4
+ITEMS (JUL 2010) (R4, tab 1 at 1, 4). The contract reiterated the information the government
+had provided in the email regarding the delivery address and the point of contact for inspection
+and acceptance (id. at 13).
+
+        12. The contract does not include the clause at FAR 52.227-19, Commercial
+Computer Software License. Nor does the contract specifically address the government's
+rights to use the software, as required under FAR 27.405-3, Commercial Computer
+Software, other than the statement in the CLIN that the contract is for 20 single use
+licenses. FAR 27.405-3(a) states in pertinent part: "If greater rights than the minimum
+rights identified in the clause at 52.227-19 are needed, or lesser rights are to be acquired,
+they shall be negotiated and set forth in the contract. This includes any additions to, or
+limitations on, the rights set forth in paragraph (b) of the clause at 52.227-19 when used."
+FAR 27.405-3(b) states in pertinent part: "If the contract incorporates, makes reference
+to, or uses a vendor's standard commercial lease, license, or purchase agreement, the
+contracting officer, shall ensure that the agreement is consistent with paragraph (a)(l) of
+this subsection." FAR 12.212 sets forth the policy of the government to acquire
+commercial computer software pursuant to licenses customarily provided to the public, to
+the extent such licenses are consistent with federal law and otherwise satisfy the
+government's needs.
+
+       13. Mr. Daroui executed the contract on behalf of appellant on August 19,
+2010 (app. supp. R4, tab 14 at 3).
+
+       14. Mr. Daroui testified there had been no negotiation before the contract was
+awarded and the contract was silent with respect to terms appellant viewed as being
+material, such as the terms of the license agreement, the terms of the warranty, what
+form the software delivery was to take and how appellant was to be protected from
+unauthorized use (tr. 1/55-58).
+
+        15. Mr. Daroui testified that appellant generally protects itself from unauthorized
+use of its software by requiring online registration of the software and activation during
+the installation, which permits appellant to ensure that the software is used only in
+accordance with the terms of the license granted (tr. 1/40-41, 62-64). He also testified
+that he discussed this with the contracting officer during the telephone call made by the
+contracting officer prior to contract award (tr. 1/52-55, 62-64, 99-100).
+
+        16. The contracting officer confirmed that he had called appellant shortly
+before awarding the contract to confirm the price appellant had quoted and to
+determine whether appellant would be able to meet the government's needs with
+respect to delivery (tr. 2/206-09, 232-33, 239). He testified that he had no recollection
+of discussing software registration and activation (tr. 2/240). The contracting officer
+testified that he believed he was purchasing a commercially available, off-the-shelf
+product and that the government did not have the right to copy or reproduce the
+
+
+                                            5
+software (tr. 2/244-45). His testimony also indicated that he had no clear
+understanding of what a single user software license might entail (tr. 2/227-28, 240).
+
+        17. Online registration requires that the user's computer connect with appellant's
+servers (tr. 1/40-41, 62). When connected, the user, as part of the installation process,
+must enter a product identification number provided by appellant. Appellant's server, if
+it recognizes the number entered, will transmit an activation code to the user's computer
+that activates, i.e., permits the user to use the software (tr. 1/62-63, 2/18-22). During this
+registration process the identification number of the computer the software is being
+installed on will be transmitted to appellant's server (tr. 1/40-41, 62-63). In the case of a
+single use license, if someone attempts to install, activate and register the software on a
+second computer, appellant's server will know that the software has been activated and
+registered previously and will not transmit the information necessary to activate this
+second copy (tr. 1/61-63).
+
+        18. Appellant decided to delete the online only registration requirement and
+modified the software before sending it to the government to permit it to be activated
+without registration. Appellant decided to do this to facilitate the government's use of the
+software on the government's secured computers, which do not connect to the internet and
+because appellant understood the software also would be used on some computers in the
+fietd, which might not have access to the internet and because he believed that connection
+to the internet in Afghanistan was often problematic for computers the government did
+permit to access the internet. Online registration remained possible, but was not required
+to use the software. (Tr. 1/40-41, 55-57, 61-65, 97-98, 101-05; R4, tab 21 at 3-9)
+
+        19. The government neither requested, nor was aware of appellant's decision to
+do this (tr. 1/97-98, 2/244). This modification made it possible to install a single copy
+of the software on more than one computer and also made it easier to make additional,
+usable copies of the software (tr. 1/61-63, 2/140-42).
+
+        20. Other modifications appellant made to the software before delivering it to the
+government included inserting a unique version number, 4.2, and the contract number,
+into the software's code along with the 20 product identification key numbers, for each
+copy of the software. This is a standard practice of appellant and helps it to monitor the
+usage of its software to ensure it is only used in accordance with the terms of the
+licensing agreement. (Tr. 1/34-37, 58, 71-72, 105; app. supp. R4, tabs 5, 21 at 3)
+
+        21. After the software was modified as discussed above, it was burned onto 20
+compact discs (CDs), which were placed in a box, together with written installation
+instructions, the license agreement and a letter addressed to the contracting officer
+listing the 20 product identification numbers. The package was addressed to
+CPT Wirey per the instructions set forth in the contract. (Tr. 1/56-57, 71-76, 106-19;
+app. supp. R4, tab 16; R4, tab 1 at 3)
+
+
+                                             6
+      22. The license was provided in three different forms 3 (tr. 1/68-70, 73-74, 115-19).
+The long form license was a written document included in the box of CDs with the
+CiyaTran software shipped to the government. It stated in pertinent part:
+
+                                   CiyaTran 4.2 License
+
+                CiyaSoft Corporation standard software license agreement
+                does not apply to this agreement: Activation is not online
+                and online registration is not required.
+                This is an agreement between CiyaSoft Corporation and
+                Licensee, who is being licensed to use CiyaTran. The
+                Licensee is the US Government and this License
+                Agreement is based on a contract. The contract number is
+                W91B4L-1O-P-1475.
+
+
+                2. Each installation should be activated with respective
+                product ID printed on the face of the CD case and Licensee
+                agrees to provide CiyaSoft Corporation with a lis.t of .
+                activations, along with name or initials or computer name
+                or other information to uniquely identify each activation
+                for those activations that do not go through normal
+                registration due to security concerns. Each License
+                permits Licensee to install the Software on only one
+                computer system. Licensee will not make copies of the
+                Software or allow copies of the Software to be made by
+                others.
+
+(App. supp. R4, tab 8) (Emphasis added) There was also a written, short form of the agreement
+included on a separate piece of paper with each CD, inside the shrinkwrap surrounding the case
+(tr. 1/68-70, 73; app. supp. R4, tab 2). The short form in its entirety, stated:
+
+3
+    The government argues appellant failed to prove the license agreement was included
+         with the software because appellant's witness, Mr. Daroui, testified he did not
+         see the contents of the package that was shipped (gov't br. at 5, 16, 18-19). We
+         are unpersuaded by this argument, given the revisions appellant made to the
+         software and the license agreement to accommodate what it perceived to be the
+         government's needs and the importance to appellant of protecting its software
+         from piracy (findings 18-22). In the circumstances, we find Mr. Daroui's
+         unrebutted testimony that the package included the license agreement in all
+         three forms credible.
+
+                                             7
+              By breaking the seal, you accept the terms of the license
+              agreement for contract W91B4L-10-P-1475, CiyaTran
+              Version 4.2. This CD can be used for installation on one
+              computer system only. Each installation should be
+              activated with the respective product ID printed on the face
+              of the CD case. This CD should not be copied into another
+              CD, hard disk or any other storage device. If [t]his CD is
+              defective, contact CiyaSoft Corporation for a replacement.
+              We will pay for the cost of sending a replacement CD.
+
+(App. supp. R4, tabs 7, 17) (Emphasis added) Appellant's witness, Mr. Ameen Manghi,
+described the shrinkwrap form of the license agreement as being typical for software he has
+installed4 (tr. 2/86-87). Finally, the software installation wizard used during the installation
+process included a clickwrap form of the license agreement5 (app. supp. R4, tab 1 at 2;
+
+4
+  Mr. Manghi, who has a bachelor's degree in computer science and engineering and
+       was employed as a senior firmware engineer for a manufacturer of computer
+       hard drives was repeatedly referred to as an expert witness and asked a number
+       of general questions relating to computers and software code unrelated to
+       having personal knowledge of facts specific to appellant's performance of the
+       contract, i.e., he was treated like an expert witness and offered a number of
+       opinions on technical matters relating to computer science and software
+       generally and specifically with regards to aspects of appellant's source code for
+       its translation software relating to the installation, registration and activation
+       thereof. Although appellant never formally offered Mr. Manghi as an expert
+       witness, the government never posed an objection to any of the questions
+       appellant asked Mr. Manghi, nor otherwise took issue with appellant's
+       characterization of Mr. Manghi as an expert. The government considered
+       retaining an expert to rebut Mr. Manghi's testimony, but after deposing him,
+       elected not to do so. (Tr. 2/7-173) We find Mr. Manghi's testimony both
+       generally credible and helpful to understanding certain technical aspects
+       relating to the dispute.
+5 "Clickwrap" and "shrinkwrap" are terms used within the software industry.
+
+       "Clickwrap" refers to an agreement that must be agreed to during the
+       installation process. Assent is manifested by clicking an "I agree" or similar
+       button in a dialog box or pop-up window that appears during the software's
+       installation. The terms do not necessarily need to be viewed by the user to be
+       agreed to. Berkson v. Gogo LLC, 97 F. Supp. 3d 359, 397 (E.D.N.Y. 2015);
+       Fjeta v. Facebook, Inc., 841 F. Supp. 2d 829, 837 (S.D.N.Y. 2012).
+       "Shrinkwrap" refers to an agreement found within the packaging, the specific
+       terms of which do not become known until the software has been purchased and .
+       the buyer opens the packaging. Assent is presumed from the opening of the
+
+                                             8
+tr. 2/62-65). During the installation process a window opened on the computer's screen in
+which the following appeared:
+
+              License Agreement
+              CiyaSoft Corporation Standard license agreement does not
+              apply to this agreement.
+              This is an agreement between CiyaSoft Corporation and
+              Licensee, who is being licensed to use CiyaTran. The
+              Licensee is the US Government and this License
+              Agreement is based on a contract. The contract number is
+              W91B4L-10-P-1475.
+
+(App. supp. R4, tab 1 at 2) The software could not be installed and used unless the
+user agreed to the licensing agreement by clicking on the acceptance button and
+entering the correct product key number that was unique to the copy of the software
+being used (tr. 2/66-70; app. supp. R4, tab 1 at 6-8). What appeared in the window
+however does not indicate what the terms of the license agreement are. Most notably,
+it does not indicate that the license is a single use license (app. supp. R4, tab 1 at 2).
+The record does not indicate whether the terms of the agreement were accessible
+within the software itself by clicking on another button during the installation process.
+
+      23. The software was delivered to the government on September 18, 2010, in
+Afghanistan as required via U.S. mail (R4, tab 7).
+
+        24. The contracting officer never saw the software package, or its contents,
+upon its delivery (tr. 2/215; R4, tab 28, ,r 4). He also testified that he never discussed,
+nor saw the licensing agreement, prior to being deposed during the discovery process
+(tr. 2/215, 241; R4, tab 28, ,r 5).
+
+       25. The software package was addressed and delivered to CPT Wirey as
+specified in the contract (app. supp. R4, tab 16). MAJ Wirey6 testified he had no
+recollection of having received the package, but that he probably would have opened
+the box and counted the number of copies present. He would not have looked for and
+read the licensing agreement. He also testified that he neither installed, nor saw
+anyone else install the software. He acknowledged that it was possible the licensing
+agreement was in the box with the software. (Tr. 2/257-77) He stated that he probably
+would have given the package to his S4, the supply and logistics shop, which was
+
+      shrinkwrap encasing the software and use of the software thereafter. Specht v.
+      Netscape Communications Corp., 150 F. Supp. 2d 585, 592 (S.D.N.Y. 2001),
+      ajf'd, 306 F.3d 17 (2d Cir. 2002).
+6 CPT Wirey had been promoted to Major by the time of the hearing. We will refer to
+
+      him as MAJ Wirey hereafter.
+
+                                             9
+where the property book officer was located and which was responsible for
+distributing the software to the communication shop, which in tum was responsible for
+installing software (tr. 2/257-58, 262-63, 266, 269).
+
+       26. By email dated October 4, 2010, the contracting officer confirmed MAJ Wirey
+had received the package sent by appellant (ex. A-2). Appellant submitted its invoice
+dated October 9, 2010, for the full contract price (R4, tab 6). The contracting officer
+prepared a memorandum for the record confirming the software had been received and
+authorized full payment on October 14, 2010 (R4, tab 7).
+
+        27. Appellant suspected the licensing agreement was being violated when there
+were multiple registrations for the same product ID number within a few days of the
+software's delivery (tr. 1/77-78, 121-22). Mr. Manghi reviewed information taken
+from appellant's servers relating to the registrations, which in his opinion conclusively
+established that one copy of the software, corresponding to the product key,
+"7E05FE4B78AFDAEF," sent to the government, had been installed on two
+computers. The first identified as "43@C,225DI" and the second identified as
+"43@C.225DL." (Tr. 2/125-32; app. supp. R4, tabs 2, 5, 20) Appellant's
+representative, Mr. Daroui, testified that these registrations were made by SPC Sahar
+(tr. 1/78, 121). This was based on the registrations coming from an U.S. Army email
+address assigned to SPC Sahar (app. supp. R( tab 20). SPC Sahar testified that his
+duties in Afghanistan were to interpret and translate English to Dari and Dari to
+English (tr. 2/175, 180, 182-83). He did not recall ever having installed software on
+his government laptop. He stated that it was generally the responsibility of the
+communications shop to handle software installation. (Tr. 2/186-87, 192) MAJ Wirey
+also testified that it was the responsibility of the communications shop to handle
+matters related to computers and software (tr. 2/257-58).
+
+        28. Appellant initially ignored the multiple registrations, thinking the
+government had made a mistake during the installation process, but within a few
+months of delivery, attempted to contact the contracting officer to request a list of the
+registered users per the requirement set forth in paragraph 2 of the licensing agreement
+(tr. 1/77-78, 121-22; app. supp. R4, tabs 8, 9). At the time the contracting officer was
+away on leave for Christmas (tr. 1/78, 2/199, 229). The contracting officer stated he
+may not have replied to appellant's email because when he returned from Christmas he
+had hundreds of emails in his inbox (tr. 2/230). He also testified that after he left, a
+replacement contracting officer would have been appointed, but that for a commercial
+items contract such as appellant's he was not aware of any requirement that the
+contractor be advised of the replacement (tr. 2/226-27, 230-31).
+
+       29. Appellant also began to receive technical support inquiries regarding CiyaTran
+Version 4.2 from non-registered users, including one user, Mr. Mohamed Aminy, who
+was a former employee of two contractors providing translation services to the
+
+
+                                           10
+government in Afghanistan. 7 Mr. Aminy testified he received his copy from an employee
+of the first translating/interpreting services company he worked for in Afghanistan. The
+product ID number he provided to appellant was also for one of the copies that had been
+licensed to the government, although not the same one that had been registered to
+SPC Sahar's email account. (Tr. 1/86-87, 166-72; app. supp. R4, tab 21 at 2)
+
+        30. Mr. Aminy testified that an employee from Mission Essential Personnel
+(MEP), which provided translation services to the government in Afghanistan, installed
+CiyaTran 4.2 software on his computer in 2012, while he was working for another
+company, Worldwide Language Resources, providing translation/interpretation services
+to the government. He observed the employee from MEP installing the software on
+multiple MEP and Worldwide Language Resources employees' laptops. He was certain
+the installer was not a government employee, but rather was an employee of MEP.
+(Tr. 1/161-73, 177; app. supp. R4, tab 21) It was not clear from his testimony whether it
+was the same copy of the software that he witnessed being installed on multiple
+computers. Nor was it established from his testimony how many copies were installed,
+particularly whether more than 17 copies were involved. In response to a government
+interrogatory, appellant indicated that Mr. Aminy had identified, by name, five managers
+from the translation services contractors he had worked for in Afghanistan that he
+claimed had copies of appellant's·software. (R4, tab 21 at 8) Appellant elected not to
+provide any testimony or other evidence from these individuals.
+
+        31. Appellant also introduced evidence indicating that copies of the software
+accompanied by another product ID number that had been included with the 20 licenses
+sold to the government had been purchased in Kabul, Afghanistan, and Mashad, Iran
+(tr. 1/87-89, 2/122-25; app. supp. R4, tab 10 at 2-6, tab 23). No other evidence regarding
+these copies was entered into the record.
+
+        32. The record indicates that appellant was only able to confirm installation
+and registration for four copies of the software (tr. 1/40, 78). In addition to the two
+registrations linked to SPC Sahar, appellant identified two more registrations by two
+other individuals (R4, tab 21 at 5-7). Appellant provided no further evidence relating
+to these two additional registrations, i.e., whether the individuals were employees of
+
+7 His email address indicates his last name is Aminy (app. supp. R4, tab 21). He was
+      also identified as Mr. Aminy during his deposition (R4, tab 22). At the hearing
+      he was identified as Mr. Amiry (tr. 1/141). Both the government and appellant
+      refer to him as Mr. Aminy in their post-hearing briefs. From the testimony that
+      was elicited from him at his deposition and the hearing we are confident
+      Mr. Aminy and Mr. Amiry are one and the same. The record includes no
+      explanation for the differences in the spelling and apparent pronunciation of his
+      name, but most likely reflects an error in the hearing transcript. We refer to
+      him as Mr. Aminy.
+
+                                           11
+the government, employees of contractors providing translation services to the
+government, or how these individuals obtained their copies of the software. The
+record includes no evidence regarding the other 17 copies. The government never
+provided appellant with a list of the computers or individuals the software had been
+assigned to. (Tr. 1/79-80) Appellant is unaware of how many copies of Version 4.2 of
+its software may have been installed (R4, tab 21 at 4).
+
+       33. Appellant also entered into evidence an email exchange it had with
+LT Huang of the U.S. Navy in March 2013. LT Huang expressed an interest in
+CiyaTran, Version 4.2, and wanted to know if it had been approved for government
+use. In response to a question from appellant, LT Huang stated she was not part of the
+unit down in Kandahar, referring to the 2/101 BCT, but that she was aware that they
+have a copy of the software. (Tr. 1/84-86; ex. A-1)
+
+        34. The contracting officer never responded to appellant's inquiries. He was
+either out of the country for Christmas or had completed his tour of duty and departed
+whenever appellant attempted to contact him. Appellant tried calling him and when
+that was unsuccessful after several attempts, sent another email inquiry to MAJ Wirey
+a few months later, in late 2012. (Tr. 1/78-80, 122-23; app. supp. R4, tab 9 at 3) This
+appears to be the only attempt appellant made to contact MAJ Wirey that went
+unanswered. The only other evidence in the record of an attempt by appellant to
+contact MAJ Wirey resulted in an almost immediate response from MAJ Zmijski, who
+identified himself as a contracting officer (R4, tabs 9, 10). Although appellant was not
+aware of it at the time, the contracting officer finished his tour of duty in early 2011
+and was no longer in Afghanistan when appellant was sending him email queries
+(tr. 1/78-80, 122-23, 2/200). After he left, he no longer had access to the email address
+that was assigned to him when he was in Afghanistan (tr. 2/251-52). The record
+includes no evidence concerning the period of time during which MAJ Wirey served
+as the point of contact, or whether a successor was appointed to replace him.
+
+       35. In November 2013, appellant sent a letter addressed to MAJ Wirey, or
+successor contracting officer as well as the Army's Contract Law and Intellectual
+Property Divisions in which it expressed concern that the licensing agreement was
+being, or had been, violated and requested assistance from the Army in determining
+whether this had occurred. Specifically, appellant requested that it be provided with
+the names of the organizations and individuals who may have used the software
+provided under the licensing agreement with the government. (R4, tab 9; tr. 1/126-28)
+In response, the government advised it had made a preliminary examination of its
+computer systems and had not found any one using the software (R4, tab 11 at 2).
+
+      36. In January 2014, appellant advised it was considering legal action for
+breach of contract and patent infringement unless the government responded to a
+
+
+                                           12
+number of questions appellant set forth in its letter (R4, tab 12). In response to
+appellant's letter, the government in pertinent part stated:
+
+                        We have conducted a thorough review of our
+                computer network, the related contract file, and have
+                questioned personnel related to this procurement. We did
+                not locate any copies of CiyaSoft CiyaTran software on any
+                of the computers in the network. We did not locate any
+                record of CiyaSoft CiyaTran software on Army property
+                books. We have found no information indicating that the
+                U.S. Army currently uses or maintains the software in
+                question. We also found no evidence that the U.S. Army
+                allowed unauthorized copies of the software to be produced.
+
+(R4, tab 13) The government was never able to provide appellant with a list of
+activations (tr. 1/79; app. supp. R4, tab 28).
+
+        37. Under date of April 15, 2014, appellant filed a claim with the successor
+contracting officer. In its claim appellant asserted the government breached the contract
+and infringed its copyright. (R4, tab 15) With respect to the breach of contract
+assertion, appellant alleged the government made unauthorized copies, provided the
+software to its contractors, who also made unauthorized copies of the software with
+actual or imputed knowledge of the government and failed to secure and protect the
+software as required by the terms of the contract. The claim included a Contract
+Disputes Act (CDA) certification in the amount of $17,908,000, but was not signed.
+(Id.) Appellant calculated its damages based on its estimate that there were 37,000
+translator/interpreters working for the government in Afghanistan and further estimate
+that 10% of them, or 3,700 had obtained unlicensed copies of the software. 8 Appellant
+
+8
+    The only evidence we find in the record concerning the number of
+         translator/interpreters in Afghanistan is in a report entered into the record by
+         appellant. The report appears to have been prepared by an office within the
+         Department of Defense (DoD), but appellant provided no testimony with
+         respect to the document. The report also appears to indicate that during the first
+         quarter of 2013 there were 5,796 translator/interpreters working for DoD in
+         Afghanistan. (App. supp. R4, tab 35) The record includes some evidence of
+         total dollar amounts the government spent for translator/interpreter services, but
+         does not indicate how many personnel were involved (app. supp. R4, tab 33).
+         The record also includes some evidence of the total number of contractor
+         personnel that were in Afghanistan yearly from 2007 to mid-2016, but other
+         than security personnel, there is no breakdown for the types of services
+         provided, which the record indicates include, construction, transportation,
+         security, base support, intelligence analysis and translation/interpretation (app.
+
+                                             13
+did not provide any evidence to support these estimates. The contract price for a single
+license $4,840, multiplied by 3,700, yields appellant's claimed damages. (ASBCA
+No. 59519 (59519), compl. at 6; R4, tab 21)
+
+        38. The contracting officer denied the claim in a decision dated June 2, 2014
+(R4, tab 16). Among the bases for the contracting officer's denial, were that appellant
+had failed to demonstrate that more than 20 copies of the software had been used, that
+there were no terms in the contract specifying the measures the government was to
+take to secure and protect the software, and that appellant had failed to demonstrate its
+copyright had been infringed. The contracting officer also relied upon appellant's
+failure to have signed the claim in the denial. (Id.)
+
+       39. Appellant filed a notice of appeal under date of August 26, 2014, which was
+docketed as ASBCA No. 59519 (R4, tab 17). The government initially moved to
+dismiss, arguing jurisdiction was lacking because there was no valid claim due to
+appellant's failure to have signed the claim and certification. Appellant filed its
+complaint, which included a signed certification under date of October 23, 2014. This
+was treated as a new claim and the contracting officer issued a final decision dated
+March 30, 2015, in response thereto, reiterating the reasoning of the previous decision
+minus the argument there was no valid certification (R4, tab 19).
+
+        40. In the new claim, as an alternate explanation for the copies asserted to have
+been placed on the contractor personnel's computers in violation of the licensing
+agreement, appellant asserted the software could have been stolen (59519, comp 1. at
+5). The new claim refers to all three forms of the license agreement and specifically
+asserts that appellant assumed the Army had systems in place "in order to prevent
+copying and duplicate assignment of licenses" (id. at 3). Appellant also asserted "the
+license agreement does not allow copies of the Software to be made and restricts only
+one installation per Product ID ... yet some Product ID's were registered more than
+once" (id.). Appellant additionally asserted that it had sent the contracting officer an
+email informing the contracting officer of duplicate registration attempts (id. at 4).
+Finally appellant asserted:
+
+              The Software was licensed pursuant to a clear mutual
+              understanding that each CD was for use on one computer
+              system only. Even without those explicit notices and the
+              license agreement, it would be common sense, customary,
+              standard practice of the industry and could be implied from
+
+       supp. R4, tab 31). This record does not support finding that there were 37,000
+       translator/interpreters as appellant contends. There is no evidence in the record
+       at all to support the contention that 10% of this total had unauthorized copies of
+       appellant's software.
+
+                                           14
+                the fact that physical CD's were requested to be shipped,
+                that the Software was for use on one computer system only
+                per Product ID.
+
+(Id. at 5) Appellant's new claim also asserted "The Software's one-year maintenance
+and technical support under the contract expired October 2011 and the Army did not
+renew it. But, towards the end of 2011, and during 2012, CiyaSoft received a few
+anonymous inquiries for technical support, questions on specific features of our MT
+software (CiyaTran™) and requests for upgrades." Appellant asserted it found this to
+be unusual, but in an effort to maintain a good relationship with the government that it
+continued to provide support a few months beyond the expiration date of the
+maintenance agreement. (Id. at 4)
+
+       41. Appellant appealed the March 30, 2015 final decision under date of April 6,
+2015, which was docketed as ASBCA No. 59913. The Board treated the pleading and new
+appeal as protective in nature and consolidated them for hearing purposes without ruling on
+the government's initial motion to dismiss ASBCA No. 59519 for lack of jurisdiction.
+
+                                        DECISION
+
+    The Parties' Contentions
+
+        Appellant argues it has proven six9 specific breaches of contract by the government:
+( 1) The government breached the contract by installing the same copy of the software on
+more than one computer. (2) The government breached the contract by using the software
+for more than one year. (3) The government breached the contract by not providing a list of
+activations or registered users. (4) The government breached the contract by letting users
+other than personnel assigned to the 2nd BCT use the software. (5) The government breached
+the contract by failing to keep the software from being copied and distributed by others,
+particularly its translator/interpreter services contractors. ( 6) The government breached the
+contract by failing to provide a point of contact throughout the contract. (App. br. at 26-27)
+
+       The government argues that because the licensing agreement, in all of its forms, is
+not part of the contract, any violation of the licensing agreement cannot constitute a breach
+of contract (gov't hr. at 12-23). The government also argues that even if one were to
+
+9
+    Appellant, a pro se litigant, listed the breaches in seven numbered paragraphs, but
+        paragraphs Nos. 3 and 4 allege variations of the same breach, failure to provide
+        a list of activations. Other paragraphs also include repeated variations of other
+        identical breaches enmeshed in a hodgepodge style of statements which makes
+        it difficult to discern precisely what the asserted breach, or breaches, are and
+        how they may differ from those asserted in the other paragraphs. We distill the
+        seven paragraphs to state six separate breaches in total as set forth above.
+
+                                             15
+assume arguendo, the licensing agreement was part of the contract, appellant has failed to
+establish the government had a duty under the agreement that it failed to perform, asserting
+that none exists because none are expressly stated in the contract (id.). The government
+also argues we lack jurisdiction to consider some of appellant's asserted breaches because
+they constitute claims that have never been presented to the contracting officer.
+Specifically, the government argues that appellant never claimed the contract had been
+breached by the installation of a single copy of the software on more than one computer
+and by using the software for more than a year. (Id. at 27-29) Finally, the government also
+moves to strike portions of appellant's reply brief, arguing appellant introduced new
+evidence in its reply, specifically the physical locations of two servers, asserted to be
+owned by DoD, which SPC Sahar's email registrations passed through on their journey to
+appellant's server (59519, gov't mot. at 1). 10
+
+Issues
+
+        The appeal presents the following issues: (1) Does the Board have jurisdiction to
+consider all six of the specific breaches appellant argues have occurred, (2) can the
+government be bound by a software licensing agreement, the terms of which it is not
+made fully aware of until after the contract is awarded and it receives the software, and
+(3) if so, has the government violated the terms of the licensing agreement?
+
+The Jurisdictional Issues 11
+
+       We begin by addressing the government's argument that two of the six asserted
+breaches constitute new claims, not considered by the contracting officer and thus the
+Board has no jurisdiction to consider and decide them (gov't br. at 1 n.1, 27-30).
+Jurisdiction must be established before the Board is able to address the merits of a
+claim. Hambsch v. United States, 857 F.2d 763, 863 (Fed. Cir. 1988). We note the
+government's argument is based on references to the original, uncertified claim, not
+the second, certified claim (gov't br. at 27 (citing R4, tabs 15, 19)). The revised claim
+includes express assertions that the licensing agreement only permits each copy of the
+software to be installed on a single computer (findings 39-40). With respect to the
+
+10 This last issue was mooted by appellant's response to the motion, which stated
+
+        appellant had no objection to the government's motion ( 59519, app. resp.). Our
+        decision does not rely on the stricken evidence.
+11
+   For clarity sake, we hold that appellant's initial submission to the contracting officer
+       was not a claim due to the absence of a signed certification (finding 37). As
+       such, we lack jurisdiction to consider the appeal from that submission.
+       However, the revised signed claim submitted to the contracting officer on
+       October 23, 2014, was proper and thus we use the date for the revised claim.
+       As the pleadings were consolidated, all references to the claim refer to the
+       initial complaint filed in the earlier appeal.
+
+                                            16
+breach asserted arising from the government's use of the software for more than a
+year, the revised claim includes at best, only elliptical references thereto (finding 40).
+
+       The CDA, 41 U.S. C. §§ 7101-7109, requires contractors to submit all claims to
+a contracting officer for final decision. 41 U.S.C. § 7103(a). The submission of the
+claim is a prerequisite to jurisdiction of an appeal from the contracting officer's final
+decision. Shaw Environmental, Inc., ASBCA No. 57237, 12-1BCA134,956. The
+Federal Circuit has stated that claims need not be submitted in any particular form, or
+use any particular wording, but what is required is for the contractor to provide a clear
+and unequivocal statement that gives the contracting officer adequate notice of the
+basis and amount of the claim. Contract Cleaning Maintenance, Inc. v. United States,
+811 F.2d 586, 592 (Fed. Cir. 1987). Whether a sufficient claim has been presented to
+the contracting officer is a question of judgment, which is exercised on a case-by-case
+basis. Holk Dev., Inc., ASBCA Nos. 40579, 40609, 90-3 BCA 123,086 at 115,938.
+
+        The record establishes appellant's revised claim includes specific assertions that
+each copy of the software should have been installed on only one computer. The claim
+states: "the license agreement does not allow copies of the Software to be made and
+restricts only one installation per Product ID ... yet some Product ID's were registered
+more than once." The claim also asserts the contracting officer was sent an email
+complaining about duplicate registration attempts and that the software had been
+licensed pursuant to a clear mutual understanding that each CD was for use on one
+computer system only as well as that the software was for use on one computer system
+only per Product ID. (Findings 39-40) We find these assertions provided the
+contracting officer with adequate notice of the basis for this claim and thus we have
+jurisdiction to consider the merits of this claim.
+
+        With regard to the government's second contention, appellant's revised claim
+only mentions that the government failed to renew the technical support agreement and
+that appellant received requests for technical support after the contract expired, which
+appellant sought to fulfill because it wished to maintain a good relationship with the
+government (finding 40). The language used by appellant does not convey that
+appellant found this objectionable and was seeking compensation from the government
+for continuing to use the software after the period for technical support had expired. In
+fact the statement that appellant found the post-performance period inquiries unusual,
+but responded in an effort to maintain a good relationship with the government,
+suggests appellant made a business decision to continue to provide technical support
+when it was not contractually required to do so, i.e., that there was no claim
+contemplated. We find the revised claim does not include language sufficiently clear
+to give the contracting officer an understanding that appellant was claiming the
+contract had been breached by the government's continued use of the software for
+
+
+                                            17
+more than a year. 12 Accordingly we lack jurisdiction to consider this assertion and
+dismiss it without prejudice.
+
+ The Licensing Agreement is Part of the Contract
+
+       The government argues that it could not have breached the provisions of the
+licensing agreement because it was not part of the contract. In support of this
+argument the government relies on the fact that the contracting officer never discussed
+any terms of a licensing agreement with appellant, never saw the licensing agreement,
+the contract is silent regarding any licensing agreement terms, the contract was never
+amended to include a licensing agreement and to the extent MAJ Wirey, the point of
+contact, may have seen the licensing agreement when the package was received, he
+was not authorized to revise the contract by accepting the terms of the licensing
+agreement. (Gov't br. at 12-19; findings 7-9, 14, 24-25) While we do not disagree
+with the government's factual assertions, we draw a different conclusion.
+
+       The interpretation of a contract begins with the language of the written
+agreement. Agility Public Warehousing Company KSCP v. Mattis, 852 F.3d 1370,
+1383-1384 (Fed. Cir. 2017) (citing NVT Techs., Inc. v. United States, 370 F.3d 1153,
+1159 (Fed. Cir. 2004); see also Barron Bancshares, Inc. v. United States, 366 F.3d
+1360, 1375 (Fed. Cir. 2004)) ("When construing a contract, a court first examines the
+plain meaning of its express terms."). The contract is considered as a whole and
+interpreted so as to harmonize and give meaning to all of its parts. Id. In this case the
+contract expressly states that it is for 20 "single user bi-directional English/Dari
+software licenses" (finding 10, emphasis added).
+
+        If not the licensing agreement advanced by appellant then what is the licensing
+agreement that the contract refers to? The government has proffered no alternative.
+Furthermore, the government never requested the opportunity to review the license
+prior to awarding the agreement, did not object to the license upon its receipt, did not
+include the Commercial Computer Software License clause set forth at FAR 52.227-19
+in the contract, and the contract does not specifically address the government's rights
+to use the software, as required under FAR 27.405-3, other than the statement in the
+CLIN that the contract is for 20 single use licenses. Whether the aforementioned
+
+12 We are mindful that appellant is a prose litigant.  Prose litigants are given leeway
+       by the Board with regard to administrative matters, but are otherwise accorded
+       no special consideration. See Environmental Safety Consultants, Inc., ASBCA
+       No. 47498, 00-1 BCA ,r 30,826 at 152,143. We cannot excuse or ignore
+       appellant's less than clear claim language and assume jurisdiction simply
+       because appellant elected to proceed pro se and may not have been sufficiently
+       aware of the legal criteria involved for stating a claim.
+
+
+                                           18
+lapses are attributable to conscience decisions by the contracting officer or to his lack
+of experience in contracting for software is not explained in the record. (Finding 6)
+
+        In any event, it does not matter that the licensing agreement was neither negotiated,
+nor the terms known by the contracting officer. It is the policy of the government, when
+licensing commercial software to accept the licensing terms customarily provided by the
+vendor to other purchasers, as long as the license is consistent with federal law and
+otherwise satisfies the government's needs. FAR 12.212. At the time the contract was
+awarded in 2010, the FAR included no provisions addressing clickwrap and shrinkwrap
+forms of licensing agreements, the terms of which are generally not known to the user
+until the software has been paid for and delivered to the user, but has since 2013 implicitly
+recognized them. 13 In this regard the FAR is in accord with the current commercial law of
+many jurisdictions, which generally recognize and enforce terms of licensing agreements,
+which are neither negotiated nor known to the user until the software has been paid for
+and delivered. Moore v. Microsoft Corp., 741 N.Y.S.2d 91, 92 (N.Y. App. Div.
+2002) (clickwrap license agreement upheld); Feldman v. Google, Inc., 513 F. Supp. 2d
+229,233 (E.D. Pa. 2007) (clickwrap agreement enforceable); Recursion Software, Inc. v.
+Interactive Intelligence, Inc., 425 F. Supp. 2d 756, 782-84 (N.D. Tex. 2006) (finding
+clickwrap agreement valid and enforceable, but denying summary judgment on breach of
+contract claim due to issues of material fact); I. Lan Systems, Inc. v. Netscout Serv. Level
+Corp., 183 F. Supp. 2d 328, 338-39 (D. Mass. 2002) (clickwrap agreement upheld); MA.
+Mortenson Co. v. Timberline Software Corp., 140 Wash. 2d 568,998 P.2d 305 (2000)
+(never viewed shrinkwrap agreement provisions enforced); Hill v. Gateway 2000, Inc. 105
+F.3d 1147 (7th Cir. 1997) (enforcing shrinkwrap license terms); Chamberlain v. LG
+Electronics US.A., Inc., 2017 WL 3084270 (C.D. Cal. 2017) (noting New York,
+Washington, and Florida enforce shrinkwrap licensing terms); see also Robert J. Morrill,
+Contract Formation and the Shrink Wrap License: A Case Comment on ProCD, Inc. v.
+Zeidenberg, 32 New Eng. L. Rev. 513 (Winter 1998), which discusses the evolution in the
+law over the recent decades, in which courts moved from almost uniformly initially
+refusing to enforce shrinkwrap licensing agreements, to the current status where such
+agreements are more accepted and enforced due to the underlying change in the way
+business is currently conducted.
+
+       We note also that the law generally does not permit a party to avoid the terms of
+a contract on the ground that he or she failed to read it. Hirsch v. Citibank, NA., 542
+F. App'x 35, 37 (2d Cir. 2013); see also Giesler v. United States, 232 F.3d 864 (Fed.
+Cir. 2000) (contractor's failure to read specification amounted to gross negligence);
+Fraass Surgical Mfg. Co. v. United States, 215 Ct. Cl. 820, 830 (1978) (failure to read
+
+13
+     See FAR 12.216 and references to "click-wrap and "browse-wrap" licensing
+         agreements in FAR 52.212-4(u)(ii), which expresses an objection only to any
+         indemnification provisions that might be included, which would violate the
+         Anti-Deficiency Act, 31 U.S.C. § 1341.
+
+                                            19
+contract irrelevant, contractor should have known better); Richardson Camera Co. v.
+United States, 199 Ct. Cl. 657, 665 (1972) (failure to read contract not a defense to
+consequences of such an omission).
+
+       In this case, despite a contract expressly purchasing software licenses, the
+government never requested the opportunity to review the terms of the license prior to
+awarding the contract, nor did it object to the license upon its receipt. Where the assent
+to terms of a contract is largely passive, as is usually the case with software licensing
+agreements, courts have often based the decision of whether to enforce the contract on
+whether a reasonably prudent offeree would be on "inquiry" notice of the terms at issue.
+Schnabel v. Trilegiant Corp., 697 F.3d 110, 120, 126-27 (2nd Cir. 2012). Inquiry notice,
+or constructive notice, is actual notice of circumstances sufficient to create a duty of
+inquiry and has been routinely found to apply to the government previously in cases
+involving bid mistakes and ratification, amongst others. See, e.g., Carl J Bonidie, Inc.,
+ASBCA No. 25769, 82-2 BCA ,r 15,818 (knowledge of extra work directed by Base
+Engineer imputed to the contracting officer); Williams v. United States, 130 Ct. Cl. 435
+(1955) (knowledge imputed to contracting officer resulted in ratification of unauthorized
+act); Chernick v. United States, 178 Ct. Cl. 498 (1967) ( contracting officer should have
+known of bid mistake). The 2nd Circuit in Schnabel, 697 F.3d at 124, stated:
+
+                     Courts, including this one, have concluded as a
+              matter of law in some circumstances that parties were on
+              inquiry notice of the likely applicability of terms to their
+              contractual relationship even when those terms were
+              delivered after that relationship was initiated. These
+              decisions appear to have in common the fact that in each
+              such case, in light of the history of the parties' dealings
+              with one another, reasonable people in the parties'
+              positions would be on notice of the existence of the
+              additional terms and the type of conduct that would
+              constitute assent to them.
+
+        Based on the foregoing, it does not matter that the contracting officer had no
+actual knowledge of the terms of the licensing agreement. The circumstances support
+finding the contracting officer had a duty to inquire as to its terms, which he failed to
+do, and to impute knowledge of same to him. Accordingly, based on the fact that it is,
+and has been, the policy of the federal government prior to the award of the contract to
+accept the terms of licensing agreements offered by vendors of commercial software
+that are customarily provided by the vendor to other purchasers and that vendors of
+commercial software have long included shrinkwrap and clickwrap license agreements
+with their software, which many courts have found to be valid, enforceable contract
+terms and the FAR currently also recognizes the validity of clickwrap and shrinkwrap
+licenses, we find the contract included the licensing agreement appellant shipped with
+
+
+                                            20
+its software. We also hold the government can be bound by the terms of a commercial
+software license it has neither negotiated nor seen prior to the receipt of the software,
+so long as the terms are consistent with those customarily provided by the vendor to
+other purchasers and do not otherwise violate federal law.
+
+        Ruling the contract includes the license agreement raises two further issues:
+(1) did the contract involve commercial software, and (2) was the license agreement
+provided to the government one customarily provided to other purchasers? These
+were not issues discussed by the parties in their briefing, but we address them given
+the discussion above regarding the government's policy regarding commercial
+software and how it factors into this decision. We find the record and law are
+sufficiently clear to decide the issues without additional input from the parties.
+
+The Contract was for Commercial Software
+
+      The FAR includes a definition of"Commercial computer software." FAR
+2.101. The FAR defines this term as any computer software that is a "commercial
+item," which in pertinent part is defined as:
+
+                     ( 1) Any item, other than real property, that is of a
+              type customarily used by the general public or by
+              non-governmental entities for purposes other than
+              governmentalpurposes,and-
+
+                     (i) Has been sold, leased, or licensed to the general
+              public; or,
+
+                     (ii) Has been offered for sale, lease, or license to
+              the general public;
+
+                    (2) Any item that evolved from an item described
+             in paragraph ( 1) of this definition through advances in
+             technology or performance and that is not yet available in
+             the commercial marketplace, but will be available in the
+             commercial marketplace in time to satisfy the delivery
+             requirements under a Government solicitation;
+
+                   (3) Any item that would satisfy a criterion
+             expressed in paragraphs (1) or (2) of this definition, but
+             for-
+
+                   (i) Modifications of a type customarily available in
+             the commercial marketplace; or
+
+
+                                           21
+                     (ii) Minor modifications of a type not customarily
+              available in the commercial marketplace made to meet
+              Federal Government requirements. Minor modifications
+              means modifications that do not significantly alter the
+              nongovernmental function or essential physical
+              characteristics of an item or component, or change the
+              purpose of a process. Factors to be considered in
+              determining whether a modification is minor include the
+              value and size of the modification and the comparative
+              value and size of the final product. Dollar values and
+              percentages may be used as guideposts, but are not
+              conclusive evidence that a modification is minor;
+
+                      (4) Any combination of items meeting the
+              requirements of paragraphs ( 1), (2 ), (3 ), or ( 5) of this
+              definition that are of a type customarily combined and sold
+              in combination to the general public;
+
+
+                     (8) A nondevelopmental item, if the procuring
+              agency determines the item was developed exclusively at
+              private expense and sold in substantial quantities, on a
+              competitive basis, to multiple State and local governments.
+
+One could argue appellant's software does not completely meet this definition because it
+has not been sold to the general public customarily (finding 2). Nonetheless, we find
+appellant's software to be commercial software within the meaning of the FAR because
+it was developed without any government funding, appellant has sold it to at least one
+non-governmental entity, its function, translating one language to another, is not
+inherently governmental or non-commercial, the record includes some evidence that it is
+a product that has been sold to the public, albeit in an allegedly unauthorized manner,
+and most importantly, the contracting officer considered it to be a commercial item, and
+purchased the licenses under a FAR Part 12, commercial items contract (findings 2, 9,
+11, 16-18, 31 ). The record also includes evidence that appellant modified the software
+by deleting the online registration requirement and inserting a unique version number
+and the product identification key numbers (findings 18-20). We do not regard deleting
+the online registration requirement, which appellant unilaterally elected to make
+believing it would facilitate the government's use of the software, to change the
+software's commercial status. First, the change does not affect the core purpose of the
+software, which is translation. Second, the change merely substituted one form of
+registration for another. It did not add any requirement that was not previously required.
+It merely changed the way the registration was to be made, from an online only process
+
+
+                                          22
+to permit both online and non-online registration. (Id.) The same is true for the
+insertion of the version number and product identification numbers. We view these
+changes as being non-material and not affecting the software's "commercial" status
+under the FAR.
+
+ The License Agreement does not Differ Materially from Appellant's Standard License
+ Agreement
+
+        An argument could also be made that the license agreement was not the
+standard license agreement that appellant offered to its other customers. This also is
+an important factor in our decision, given the policy set forth in FAR 12 .212 for the
+government to acquire commercial software pursuant to licenses customarily provided
+to the public. This argument would center on the fact that the long form of the license
+that appellant sent with the software expressly states it is not appellant's standard
+license agreement, reflecting the insertion of the requirement that the government
+provide appellant with notice of the software's activation that appellant made to the
+licensing agreement. (Finding 22)
+
+        Although the record includes no copy of appellant's standard single use license, it
+is evident from the totality of the testimony of appellant's witnesses, Messrs. Daroui and
+Manghi, that the license agreement appellant included with the software shipped to the
+government differed from its standard license in only one way, i.e., the addition of the
+requirement that the government provide appellant with a list of the activations, which
+appellant felt was needed after it deleted the online registration process (findings 17-18).
+Ordinarily, the activation occurs automatically as part of the online registration, but due
+to appellant's decision to delete the online registration, activation notification had to be
+provided by other methods and appellant added the activation notification requirement to
+the license agreement to reflect this (id.). The core function or purpose of the license
+agreement, to grant permission for use on only one computer system per copy of the
+software, did not change. Nor did the requirement for notice of activation change, only
+the form of the notice changed. We find the license agreement appellant provided to the
+government did not differ materially from that which appellant customarily provided to
+other purchasers of its software.
+
+ The Government Breached the Contract
+
+        We tum now to the issue of whether the government breached the contract as alleged
+by appellant. As the claimant, appellant bears the burden of proving an affirmative,
+monetary claim against the government by a preponderance of the evidence. MA.
+Mortenson Company, ASBCA No. 53062 et al., 01-2 BCA ,i 31,573, and cases cited
+therein. Appellant must establish liability, causation, and resultant injury. Wilner v. United
+States, 24 F.3d 1397, 1401 (Fed. Cir. 1994) (en bane); see also Wunderlich Contracting Co.
+v. United States, 173 Ct. Cl. 180 ( 1965). The elements of a breach of contract claim are:
+
+
+                                           23
+(1) a valid contract between the parties; (2) an obligation or duty on the part of the
+government arising out of the contract; (3) a breach of that duty; and (4) damages caused by
+the breach. Lockheed Martin Integrated Systems, Inc., ASBCA Nos. 59508, 59509, 17-1
+BCA ,r 36,597 at 178,284 citing San Carlos Irrigation & Drainage Dist. v. United States,
+877 F.2d 957, 959 (Fed. Cir. 1989); Military Aircraft Parts, ASBCA No. 60009, 16-1 BCA
+,r 36,388 at 177,410; Northrop Grumman Systems Corporation Space Systems Division,
+ASBCA No. 54774, 10-2 BCA ,r 34,517 at 170,237). To succeed, appellant must prove all
+four of the elements.
+
+        We have already determined appellant has proven the first element. The
+government argues appellant cannot prove the second element because no duties are
+expressly set forth in the license (gov't br. at 23-27). We agree in part and disagree in
+part. We agree with the government with respect to appellant's assertions that the
+government breached the contract by permitting users other than personnel assigned to
+the 2nd BCT use the software. There is no evidence that this was a duty placed upon
+the government by the license. The license includes no such limitation. Both the· 1ong
+form and clickwrap versions of the license identify who the licensee is. Both versions
+expressly state the licensee is the "US Government." (Finding 22) We interpret this to
+mean any government employee, or employee of a contractor acting on behalf of the
+government or other agent of the government, may use the software, so long as it is not
+installed on more than 20 computers total. If appellant intended to restrict the use of
+the software to government employees assigned to the 2nd BCT solely, it needed to
+clearly say so in the license. Consequently, appellant has failed to establish the
+government had any duty to limit use of the software only to personnel assigned to the
+2nd BCT and thus is unable to prove this asserted breach of the contract. Thus we need
+not address the remaining two elements with respect to this claimed breach.
+
+        This leaves four remaining asserted breaches; that the government installed the
+same copy of the software on more than one computer, the government failed to provide
+a list of activations, the government failed to keep the software from being copied and
+distributed to others, and the government failed to maintain a point of contact during
+contract performance. The first two involve duties that are expressly set forth in the
+license. The license, both the long form and the shrinkwrap versions, clearly states the
+software is only for use on a single computer system and is not to be installed on
+multiple computers. We find this language clearly expresses a duty. Similarly, the long
+form version of the license clearly sets forth the government's duty to provide appellant
+with a list of the activations. (Finding 22) Accordingly, appellant has satisfied the
+second element of a breach claim with respect to these two asserted breaches.
+
+       We agree with the government that there is no express duty set forth in the
+license with regard to the last two asserted breaches. This does not necessarily lead to
+a finding that the license included no duty the government may have violated. It is
+well established that contracts can include implied duties, such as the duty of good
+
+
+                                           24
+faith and fair dealing. SIA Construction, Inc., ASBCA No. 57693, 14-1BCA135,762
+at 174,986 (citing Metcalf Construction Co. v. United States, 742 F.3d 984, 990 (Fed.
+Cir. 2014)). The implied duty of good faith and fair dealing is limited by the
+circumstances involved in the contract. The implied duty prohibits acts or omissions
+that, though not proscribed by the contract expressly, are inconsistent with the
+contract's purpose and deprive the other party of the contemplated value. See First
+Nationwide Bankv. United States, 431 F.3d 1342, 1350 (Fed. Cir. 2005) (duty was
+breached by legislation that "changed the balance of contract consideration"). The
+Supreme Court has addressed implied duties in contracts stating:
+
+              [A] contract includes not only the promises set forth in
+              express words, but, in addition, all such implied provisions
+              as are indispensable to effectuate the intention of
+              the parties and as arise from the language of the contract
+              and the circumstances under which it was made, 3
+              Williston on Contracts, § 1293; Brodie v. Cardiff
+              Corporation, [1919] A. C. 337, 358[)] ....
+
+Sacramento Navigation Co. v. Salz, 273 U.S. 326, 329 (1927). The Board also has
+indicated that when considering implied duties that the circumstances involved in the
+contract must be considered. Free & Ben, Inc., ASBCA No. 56129, 09-1 BCA
+134,127 at 168,742 (citing Coastal Government Services, Inc., ASBCA No. 50283,
+99-1 BCA 130,348 at 150,088). The government argues:
+
+              As CiyaSoft would have it, the Board should read into
+              every software contract a nebulous implied duty on behalf
+              of the agency to safeguard and protect the vendor's
+              software. Such a reading of a government contract is not
+              only inapposite to the well-established principle that terms
+              of a contract should be expressed therein. Moreover,
+              where, as here, CiyaSoft could pursue a copyright
+              infringement action to protect its rights in software, there is
+              no need to create such a sweeping duty from whole cloth.
+              Because the express language of the Contract does not
+              establish a duty of care, none exists.
+
+(Gov't br. at 25) Based on the precedent discussed above, we find the government's
+argument unpersuasive and decline to follow it. We hold that in the circumstances of a
+contract for a single-use software license, an implied duty exists that the licensee will take
+reasonable measures to protect the software, to keep it from being copied indiscriminately,
+which obviously could have a deleterious effect on the ultimate value of the software to the
+licensor. General support for such a conclusion is found in the Supreme Court's opinion
+
+
+                                            25
+in United States v. Bostwick, 94 U.S. 53, 65-66 (1876), which involved a dispute over the
+terms of a lease agreement. The Supreme Court stated:
+
+              [I]n every lease there is, unless excluded by the operation of
+              some express covenant or agreement, an implied obligation
+              on the part of the lessee to so use the property as not to
+              unnecessarily injure it.... This implied obligation is part of
+              the contract itself, as much so as if incorporated into it by
+              express language. It results from the relation of landlord
+              and tenant between the parties which the contract creates.
+
+See also A&B Ltd. Partnership v. GSA, GSBCA No. 15208, 04-1 BCA ,r 32,439 at
+160,504-05. We see no reason why a similar duty should not be applicable to software
+licenses, which resemble leases to some degree in that only a limited use of the
+property, rather than its entirety is being conveyed. We hold that in every software
+license, as part of the implied duty of good faith and fair dealing there is an implied
+obligation on the part of the licensee to use the property in a manner so as to not
+unnecessarily damage the software's value to the licensor. This duty would necessarily
+include taking reasonable measures to protect it from being copied indiscriminately in
+the case of single use licenses.
+
+        The government also argues, citing MetcalfConstr. Co. v. United States, 742
+F.3d 984, 991 (Fed. Cir. 2014); and Century Exploration New Orleans, LLC v. United
+States, 745 F.3d 1168, 1179 (Fed. Cir. 2014), that it would be improper to impose an
+implied obligation upon it because it would change, or exceed, the duties expressly set
+forth in the contract (gov't hr. at 26). The government failed to explain how this
+implied duty would conflict with, exceed, or otherwise alter the express provisions of
+the contract, particularly in light of the government's argument the contract imposed
+no duties on the government. We do not agree that the implied duty would have the
+effect the government argues it would have. With regard to its assertion the
+government breached the contract by permitting others to copy the software we find
+that appellant has met the second element of a breach of contract claim, i.e., the
+government has an implied duty to take reasonable measures to protect single-use
+license software from being copied and distributed to others.
+
+        We also find appellant met the second element of a breach of contract claim with
+respect to its assertion the government failed to maintain a point of contact during
+performance of the contract. It is self-evident that a party's performance of a contract
+could require communication with the other party to the contract and that the failure to
+facilitate same, by maintaining a point of contact, could be a breach of the implied duty
+of good faith and fair dealing through a lack of cooperation. Precision Pine & Timber,
+Inc. v. United States, 596 F.3d 817, 820 n.l (Fed. Cir. 2010) (duty to cooperate is part of
+the implied duty of good faith and fair dealing).
+
+
+                                           26
+        Next we consider whether appellant has satisfied the third element of a breach of
+ contract claim, that the government breached a duty under the contract. We find that
+ appellant has done so with two of its breach claims, but has not with respect to the
+ remaining two. Appellant has not proven the government breached the implied duties
+ we have found to exist within the contract. With respect to the assertion that the
+ government failed to maintain a point of contact, appellant's evidence relates primarily
+to the contracting officer and the difficulties it had communicating with him. The record
+indicates appellant's efforts to contact the contracting officer occurred mostly in 2013,
+well after the contract's one-year performance period, as asserted by appellant.
+(Findings 28, 34) Even ifwe were to accept this evidence as proof of a failure to
+cooperate, appellant has offered no authority for the proposition that the government
+must continue to cooperate after the contract's performance period and we are unaware
+of any such authority. We have held previously that the duty to cooperate does not arise
+unless there is a contract in existence. CAE USA, Inc., ASBCA No. 58006, 13 BCA
+,r 35,323 at 173,390-91. We see no reason to extend this duty into a period appellant
+contends is beyond the contract's performance period. In any event, we do not accept
+the evidence of appellant's difficulties in reaching the contracting officer as proof the
+duty to cooperate was breached. The record indicates appellant's difficulties in reaching
+the contracting officer were due to his not being present at the time appellant attempted
+to reach him, first due to time-off for Christmas and subsequently to his having left the
+country because his tour of duty had been completed. (Findings 28, 34) There is no
+evidence that there was any purposeful effort on the part of the government to avoid
+communicating with appellant or other wrongful conduct that would establish the duty
+to cooperate had been breached in relationship to the contracting officer. Furthermore,
+the contract indicated that MAJ Wirey was the point of contact and the record includes
+no evidence that appellant made any attempt to contact him until late 2012, and then
+only once. The record is unclear whether he was still present in Afghanistan at this time.
+(Finding 34) This attempt to contact MAJ Wirey also occurred beyond the end of the
+performance period of the contract as asserted by appellant and again does not prove any
+wrongful action by the government to avoid communicating with appellant, particularly
+as it involves only a single attempt at communication. The record does not support
+finding the government breached the duty to cooperate with appellant as asserted.
+
+        Nor has appellant established that the government breached the implied duty to
+take reasonable measures to protect the software from being copied. We understand
+appellant is relying on the following facts to make its case with respect to this element
+of the breach of contract: that copies of the software appeared for sale in Afghanistan
+and Iran, the email conversation it had with LT Huang and more importantly on the
+testimony of Mr. Aminy regarding the copies he witnessed being installed on his own
+and his colleagues laptops. (Findings 29-31, 33) None of this evidence establishes
+that the government failed to take reasonable measures to keep the software from being
+copied. First, appellant never established what the government did, or did not do with
+
+
+                                           27
+the software after it was received. Despite evidence in the record that the software
+would have been given to the logistics and supply office to distribute and then to the
+communications personnel to install, appellant provided no evidence regarding what
+these offices did or did not do with respect to the software. (Finding 25) The evidence
+relating to appellant's communication from LT Huang does not support finding the
+contract was breached. Instead, if anything, it tends to support that government
+personnel were mindful of the software license and were acting appropriately.
+Although LT Huang was aware that the 2nd/IO 1 BCT had a copy of the software, she
+contacted appellant to obtain information regarding same. This is evidence of an
+appropriate action, not an improper one. Similarly, the fact that copies appeared in
+markets in Afghanistan and Iran does not necessarily indicate any responsibility on the
+government's part. Appellant failed to introduce any evidence tracking the software
+subsequent to the point of MAJ Wirey's receipt in October 2010 and what the
+government did or did not do to protect it. Appellant has conceded the software could
+have been stolen. (Finding 40) The government argues that appellant is seeking to
+impose strict liability on it for the alleged unauthorized copying (gov't br. at 22-23).
+Although appellant does not make this argument expressly, it has failed to provide any
+evidence of any fault or failure on the part of the government. It is as if appellant
+assumes that it has no burden of proving anything more than that the software was
+delivered and subsequently misused, which is very much like a strict liability
+approach. Appellant has cited no authority for holding the government to a strict
+liability standard, a tort concept, and we decline to adopt same with regard to the
+performance of contractual duties.
+
+       With respect to Mr. Aminy's testimony, the record indicates only that he
+witnessed an unspecified number of copies being installed on his and his colleague's
+computers (finding 30). There is no evidence that more than the 17 unaccounted for
+copies of the software were installed, or that the copies he witnessed being installed
+were not part of these 17 unaccounted for copies that had been licensed to the
+government, or that they were being installed without the government's knowledge
+and approval. Despite being aware of the names of supervisory personnel from
+Mr. Aminy's employer, or previous employer, who potentially could have provided
+evidence regarding the number of copies that were installed and whether it was being
+done with the government's knowledge and approval, or if without same, and how
+they came into possession of the software, appellant elected not to provide any
+evidence from these individuals. (Findings 30, 32) Appellant's complaint, which
+pleads that it will make the names and addresses of these individuals available to the
+government suggests that it assumed this burden belonged with the government
+( 59519, comp 1. at 4-5). Appellant's complaint includes allegations that hundreds of
+copies were installed, but the evidence appellant has included in the record do not
+support this (id.). Allegations made in a complaint do not constitute proof. Swanson
+Group, Inc., ASBCA No. 47677, 96-2 BCA ii 28,565.
+
+
+                                          28
+              Appellant has presented no evidence to support its
+              allegations and all of its important allegations have been
+              denied thus putting them in issue.... The Board has held on
+              many occasions that claim letters and pleadings are not
+              proof of disputed facts.
+
+William G. Knight, d/b/a K&E Bus Line, ASBCA No. 10783, 65-2 BCA ,r 5099 at
+24,021 (citing C. W. Hilton, ASBCA No. 10263, 65-1 BCA ,r 4766). Consequently, all
+of appellant's breach of contract claims based on the breach of an implied duty must also
+fail because appellant has not provided any evidence that there was a breach of these
+duties.
+
+        We tum now to the other two breach claims, relating to the assertions that a single
+copy of the software was installed on more than one computer and that the government failed
+to provide appellant with a list of activations or registered users. We find appellant has
+proven that the government installed a single copy of the software on more than one
+computer. The evidence establishes that a single copy of the software was registered to two
+separate computers and that the registrations were linked to SPC Sahar's official army email
+address. (Findings 17, 27) Although SPC Sahar testified he did not recall ever having
+installed software, this does not rule out the possibility that he did, or that someone from the
+communications shop had installed the software on his behalf and does not explain the
+registrations associated with his official government email address. We find appellant has
+satisfied the third element in this instance, which the government failed to rebut. The
+assertion that the government failed to provide appellant with a list of the activations or
+registered users was also unrebutted. (Findings 28, 32, 36) The government's sole defense
+to this claim was that it had no such duty. Accordingly, appellant has also established the
+government breached a duty with respect to this asserted claim.
+
+       The fourth element of a breach of contract claim, damage, also needs to be
+established by appellant with respect to these last two breach claims. It does not
+matter that the appeal has been bifurcated in accordance with the Board's standard
+practice. Appellant must present some evidence that it was damaged by the
+governmental actions of which it complains even in a hearing which is limited to the
+issue of liability. As stated by the court in Puritan Associates, 215 Ct. Cl. 976, 978
+(1977):
+
+              Even if, as here, the assessment of damages is reserved for
+              the quantum phase of the case, the plaintiff as part of its
+              proof of entitlement, must show it was damaged to some
+              extent, by defendant's derelictions ....
+
+See also Cosmo Constr. Co. v. United States, 451 F.2d 602, 605-06 (Ct. Cl. 1971). We find
+appellant has satisfied this element. It has proved the government installed a duplicate copy
+
+
+                                           29
+on more than one computer, which damaged appellant by depriving it of the license fee the
+government would have had to otherwise pay to obtain a valid copy of the software. The
+government's failure to provide appellant with the list of activations or registered users may
+have damaged appellant by undermining its ability to have proven that more copies of the
+software than were licensed were used by the government.
+
+                                    CONCLUSION
+
+       ASBCA No. 59519 is dismissed for lack of jurisdiction. With regard to ASBCA
+No. 59913, we find the government has breached the contract by violating the terms of the
+license agreement in two respects: it permitted the installation of a single copy of the
+software onto more than one computer and it failed to provide appellant with a list of the
+registered users. We sustain the appeal in this regard. In all other respects the appeal is
+denied. The appeal is remanded to the parties for resolution of the damages due appellant
+stemming from its properly-certified claim dated October 23, 2014.
+
+      Dated: June 27, 2018
+
+
+                                                  Administrative Judge
+                                                  Armed Services Board
+                                                  of Contract Appeals
+
+                                                  I concur
+
+
+RICHARD SHACKLEFORD
+Administrative Judge
+                                                    ca
+                                                  OWEN C. WILSON
+                                                  Administrative Judge
+Acting Chairman                                   Vice Chairman
+Armed Services Board                              Armed Services Board
+of Contract Appeals                               of Contract Appeals
+
+
+                                           30
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA Nos. 59519, 59913, Appeals of
+CiyaSoft Corporation, rendered in conformance with the Board's Charter.
+
+      Dated:
+
+
+                                               JEFFREYD. GARDIN
+                                               Recorder, Armed Services
+                                               Board of Contract Appeals
+
+
+                                         31

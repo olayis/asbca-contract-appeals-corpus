@@ -1,0 +1,1524 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+    Appeal of -                              )
+                                             )
+    ECC International Constructors, LLC      )   ASBCA No. 59586
+                                             )
+    Under Contract No. W912ER-10-C-0054      )
+
+    APPEARANCES FOR THE APPELLANT:                R. Dale Holmes, Esq.
+                                                  Michael H. Payne, Esq.
+                                                   Cohen Seglias Pallas Greenhall & Furman PC
+                                                   Philadelphia, PA
+
+    APPEARANCES FOR THE GOVERNMENT:               Michael P. Goodman, Esq.
+                                                   Engineer Chief Trial Attorney
+                                                  Martin Chu, Esq.
+                                                  Katherine M. Smith, Esq.
+                                                   Engineer Trial Attorneys
+                                                   U.S. Army Engineer District, Middle East
+                                                   Winchester, VA
+
+                  OPINION BY ADMINISTRATIVE JUDGE MCILMAIL
+
+       In this appeal concerning a contract to design and construct a 20-building
+military compound in Afghanistan, appellant, ECCI International, Inc. (ECCI), alleges
+government-caused project delay and other matters, and requests $9,035,587 and the
+return of 400 days of withheld liquidated damages. 1 In 2020, the Board conducted a
+two-week hearing of this and a companion appeal, ASBCA No. 59643. Although the
+parties have briefed the two appeals together, ASBCA No. 59643 will be the subject of
+a separate opinion. We have previously issued opinions in and related to ASBCA
+Nos. 59586 and 59643, and assume familiarity with those opinions.
+
+                                 FINDINGS OF FACT
+
+         1. The Contract, Performance, and Design Review
+
+      The contract was awarded on September 29, 2010, in the amount of
+$29,186,338, and called for ECCI to design and construct a 70,000 square meter
+compound whose primary facilities included a communications building. 2 ECCI was
+
+
+1
+    App. br. at 116.
+2
+    R4, tab 5 at 2, 179 § 1.1.
+to complete the work within 548 days of receipt of the notice to proceed. 3 After
+modifications, the revised contract completion date was March 13, 2013. 4
+
+        The contract is of the “design-build” type. 5 Section 3.9 of the contract provides
+that ECCI’s design submittals were required to be submitted for government approval
+at the “Preliminary (65%), Final (95%), and at the Cleared for Construction (100%)
+stage[s].” 6 Section 3.9.2, “Final Design Review Submittal (95%),” provides that
+“[t]he review of this submittal is to insure that the design is in accordance with
+directions provided the Contractor during the design process,” and that “[t]he only
+effort remaining between the FINAL DESIGN REVIEW SUBMITTTAL and the
+‘CLEARED FOR CONSTRUCTION’ DESIGN REVIEW SUBMITTAL is the
+incorporation of the Government Review Comments.” 7
+
+       The government approved ECCI’s 95% design on August 23, 2011, providing
+56 comments on the communications design, one of the ten components of ECCI’s
+proposed design. 8 ECCI submitted its 100% design on November 19, 2011,
+incorporating those comments. 9 Most of the project’s buildings were cleared for
+construction in December 2011. 10 However, on December 16, 2011, the government
+disapproved the 100% design, providing 226 new comments on the communications
+design. 11 The government would require ECCI to submit the 100% communications
+design for review no fewer than three more times before approving it. 12
+
+       On November 16, 2012, nearly a year after ECCI submitted its 100%
+communications design, Robert C. Vanoer, Jr., the government’s resident engineer and
+contracting officer’s representative (COR), wrote to ECCI that “[t]he lack of an
+approved communications design is causing delays to the project.” 13 At the hearing of
+
+
+3
+  R4, tab 5 at 39.
+4
+  See gov’t br. at 3; app. reply at 4.
+5
+  See R4, tab 5 at 179 ¶ 1.1.
+6
+  R4, tab 5 at 250.
+7
+  R4, tab 5 at 251 (capitalization in original).
+8
+  R4, tab 742; app. supp. R4, tab 471; tr. 8/97-98; see app. br. at 4 ¶ 23; 32; gov’t br.
+        at 18.
+9
+  R4, tab 201; see app. br. at 6 ¶ 29; gov’t br. at 18-19.
+10
+   Tr. 1/36.
+11
+   R4, tab 878; tr. 8/97-98; app. br. at 7 ¶ 35; see gov’t br. at 16 ¶ 17.
+12
+   See app. br. at 9 ¶ 46; gov’t br. at 21 (chart).
+13
+   R4, tab 367; tr. 6/87-88.
+
+                                             2
+the appeal, Mr. Vanoer stood by that position. 14 Mr. Vanoer also testified that he
+agreed, at the time, with an assessment expressed in a November 2012 government
+information paper that “the contract has had significant delays due to,” not only
+“contractor inefficiencies,” but “design changes” and (in what we take to be a
+reference to the government) “user requested changes.” 15 Mr. Vanoer provided further
+testimony indicating that a statement in a January 2013 government email chain that
+“getting the contractor to comply with our comms and HVAC design review
+comments will cause an eight-month delay” to the project was consistent with his own,
+contemporaneous understanding. 16
+
+      In addition, on December 6, 2012, the government’s Administrative
+Contracting Officer (ACO) John Long wrote to ECCI that:
+
+              As a result of the ECC’s [sic] failure to date to submit a
+              proper Communication System Design, I consider this a
+              contractor caused delay, and the Government is not liable
+              for any indirect cost(s) for the entire period, including the
+              time to complete the design, submit the design for
+              approval, complete installation, testing and obtain the
+              Government’s acceptance of the Communication System.
+
+                                           ...
+
+              To mitigate your costs, reduce your delay, and complete
+              this important project, the Government is prepared to meet
+              weekly (via teleconference) to assist your subcontractor. 17
+
+
+Mr. Long did not testify at the 2020 hearing of this appeal.
+
+      The government finally approved ECCI’s 100% communications design on
+March 14, 2013, 454 days after initially disapproving that design on December 16,
+
+
+14
+   Tr. 6/86-89. Mr. Vanoer also agreed that he had “authority to make official
+        responses to the contractor, request changes for the project, and direct
+        contractor’s [sic] activities.” Tr. 6/123-24 (concerning app. supp. R4, tab 111).
+15
+   Tr. 6/107-09 (concerning app. supp. R4, tab 755).
+16
+   See tr. 6/110-11 (concerning app. supp. R4, tab 168 at 1).
+17
+   R4, tab 384 at 1.
+
+                                            3
+2011. 18 ECCI substantially completed the project on April 19, 2014, 19 402 days after
+the March 13, 2013, revised completion date.
+
+       2. The Entry Control Point Security Changes
+
+       The contract provides that the compound to be constructed would be sited on a
+dedicated area located outside the perimeter fencing of an existing military base. 20 In
+2012, an International Security Assistance Force completed “an expansion of the base
+security fence that encompassed the contract work site, and . . . exercised its authority
+to establish, monitor, and enforce all of the security procedures at the worksite.” ECC
+Int’l Constructors, LLC (ECCI), ASBCA No. 59138 et al., 19-1 BCA ¶ 37,252
+at 18,314; aff’d sub nom. ECC Int’l Constructors, LLC (ECCI) v. Sec’y of the Army,
+817 F. App’x 952 (Fed. Cir. 2020) (table).
+
+       3. The Claims and Resulting Appeals
+
+          a. ASBCA No. 59138: the appeal from the contracting officer’s decision
+             upon the October 8, 2013 claim
+
+        On October 8, 2013, ECCI presented to the contracting officer a claim for
+$807,987.56 and 19 days of delay that ECCI said were the result of changes in security
+requirements at the site; specifically, ECCI pointed to “changes to the site that were
+made after Contract award, that changed [the] project from ‘outside the wire’ to ‘inside
+the wire.’” 21 ECCI explained that the costs and delays at issue “start[ed] on April 7,
+2012, and [were] continuing” through at least October 7, 2013, the date of the
+certification of the claim. 22 On January 18, 2014, the contracting officer issued a final
+decision upon that claim, granting an extension of time of 19 calendar days, and
+denying the remainder of the claim. 23 ECCI appealed from that decision on
+January 22, 2014. The Board docketed that appeal as ASBCA No. 59138. In its
+February 13, 2014 complaint in ASBCA No. 59138, ECCI alleged that:
+
+              [a]s a direct result of the changed security requirements,
+              ECCI suffered 19 calendar days of delays to performance
+
+
+18
+   App. supp. R4, tab 177; see ex. 2 (demonstrative).
+19
+   Gov’t br. at 3 ¶¶ 12-13; app. reply at 4.
+20
+   R4, tab 5 at 179 § 1.2.
+21
+   R4, tab 70 at 1, 5.
+22
+   See R4, tab 70 at 3, 5-6.
+23
+   See R4, tab 2 at 1, 12.
+
+                                            4
+              of the work from early April 2012 through the end of July
+              2012. 24
+
+ECCI requested $806,732.10, “19 calendar days of time extension,” and a “finding that
+the change of site access and security requirements was a compensable change under
+the Changes Clause . . . .” 25
+
+          b. February 12, 2014 Claim
+
+       On February 12, 2014, ECCI presented a claim (Letter H-155) to the
+contracting officer, requesting $13,519,913.91 and 329 days of delay for
+(1) “[c]hanges directed by the Government to address security requirements for the
+contract”; (2) “[t]he 95% and 100% communications design submissions”; and
+(3) “[o]ther directives to perform additional work or to change the requirements of the
+contract.” 26 In that claim, ECCI represented that from May 15, 2012, through
+October 26, 2013, the project experienced 205 days of delay due to changes in the
+security posture of the work site (also known as changes to “entry control points”
+(ECPs)). 27 More specifically, ECCI explained that from September 29, 2010, through
+October 26, 2013, “the project experienced 205 days of ECP [security changes] delays,
+and a total of 389 days of Design delays of which 205 days were concurrent to the
+ECP delays.” 28 ECCI relied upon the work of Lombardia Consultants for that delay
+analysis. 29 No one from Lombardia testified at the hearing of this appeal.
+
+          c. Liquidated Damages
+
+       On April 9, 2014, an administrative contracting officer (not Mr. Long) assessed
+and withheld $940,273.98 in liquidated damages for 402 days of delay, at $2,338.99
+per day. 30 ECCI Int’l Constructors, LLC (ECCI), ASBCA No. 59586, 22-1 BCA
+38,131 at 185,228. ECCI has not appealed from that assessment.
+
+24
+   ASBCA No. 59138 compl. at 7 ¶ 39.
+25
+   ASBCA No. 59138 compl. at 10.
+26
+   R4, tab 72 at 1.
+27
+   R4, tab 72 at 59-61, 65. Despite such assertions, ECCI says that “[s]ecurity was
+        never claimed as a delay issue.” App. br. at 61; see also app. reply at 4, 15, 44.
+        Nor does ECCI currently say that the ECP security changes constitute an
+        excusable delay entitling it to remission of liquidated damages. See app. br.
+        at 26 ¶ 127; reply at 4.
+28
+   R4, tab 72 at 65-66.
+29
+   See tr. 1/241; R4, tab 72 at 273, 333, 608; app. br. at 61.
+30
+   Gov’t br. at 33; R4, tab 816 at 2.
+
+                                            5
+          d. ASBCA No. 59586: the pending appeal from the deemed denial of the
+             February 12, 2014 claim
+
+       On September 18, 2014, ECCI noticed to the Board its appeal from what ECCI
+evidently mischaracterized as the deemed denial of its “May 2, 2014” claim. ECCI
+further explained that its “May 2, 2014” claim “was in the amount of ‘$13,519,913.01
+and 329 calendar days of delay.’” Despite its references to “May 2, 2014,” we
+understand ECCI’s September 18, 2014 notice to appeal from the deemed denial of its
+February 12, 2014 claim (Letter H-155) for $13,519,913.91 and 329 days of delay.
+
+       The Board docketed ECCI’s September 18, 2014 appeal as ASBCA No. 59586.
+On October 23, 2014, ECCI filed a three-count complaint in ASBCA No. 59586.
+Count I of the complaint alleges that “[a]s a direct result of the changed security
+requirements” at the work site, “ECCI suffered significant delays to performance of
+the work from early April 2012 through the end of the project.” 31 Count II alleges
+government delays in reviewing “ECCI’s 95%, 100%, and 100% redesign submittals,”
+as well as the government’s “directives to perform additional work.” 32 Count III
+alleges that the government directed ECCI to perform several specified items of
+allegedly extra-contractual work. 33 Count III further alleges that:
+
+              [a]s a direct result of all of the directed changes included in
+              Count III, ECCI incurred critical delays to completion of
+              the project; the delay costs associated with the directed
+              changes are included in this claim, while the actual
+              increase in design, procurement, shipping and construction
+              costs are included in ECCI’s separate May 2, 2014
+              Certified Claim.” 34
+
+In its prayer for relief, ECCI again requested $13,519,913.91 and 329 days of delay. 35
+
+
+31
+   ASBCA No. 59586 compl. at 7 ¶ 39.
+32
+   ASBCA No. 59586 compl. at 10.
+33
+   ASBCA No. 59586 compl. at 27-38 ¶¶ 156-229. Count III of the complaint in
+      ASBCA No. 59586 includes allegations of government-directed changes that
+      are not addressed in ECCI’s briefing of ASBCA No. 59586. To the extent
+      those allegations appear in ECCI’s briefing of ASBCA No. 59643, we reserve
+      them for decision in ASBCA No. 59643; otherwise, they are waived. See
+      Bannum, Inc. v. United States, 779 F.3d 1376, 1382 (Fed. Cir. 2015).
+34
+   ASBCA No. 59586 compl. at 38 ¶ 228.
+35
+   ASBCA No. 59586 compl. at 38.
+
+                                            6
+          e. ASBCA No. 59643: the pending appeal from the deemed denial of the
+             May 2, 2014 claim
+
+       On May 2, 2014, ECCI presented a claim (Letter H-158) to the contracting
+officer, requesting “$3,767,856.32 for the cost impacts” that ECCI claimed were
+“directly attributable to the extra work caused and directed by the Government during
+execution of the project.” 36 On October 24, 2014, ECCI noticed its appeal from the
+deemed denial of that claim, and filed a complaint requesting $3,767,856.32, and that
+the Board find that the government “caused additional costs through its handling of the
+design review process” and “directed performance of changed work.” 37 The Board
+docketed the appeal as ASBCA No. 59643.
+
+          f. ASBCA No. 60284: the dismissed appeal from the deemed denial of the
+             August 11, 2015 claim
+
+        On August 11, 2015, ECCI presented to the contracting officer a claim for
+$227,987, alleging “directed changes that occurred during the design and construction
+of this project.” 38 On October 14, 2015, ECCI noticed its appeal from what it
+characterized as the deemed denial of that claim. The Board docketed that appeal as
+ASBCA No. 60284. In its October 31, 2015 complaint in that appeal, ECCI requested
+$227,986.54, including for “accelerated and phased turnover.” 39 In a pre-hearing brief
+filed in ASBCA Nos. 59138, 59586, 59643, and 60284 on February 7, 2020, in which
+ECCI requested $13,698,255.40, ECCI again requested $227,986.54 of that amount
+based upon the allegation that the government had directed ECCI “to turnover [sic]
+buildings in a phased completion.” 40 On February 21, 2020, ECCI requested dismissal
+of ASBCA No. 60284 with prejudice. The Board dismissed ASBCA No. 60284 with
+prejudice on February 24, 2020. 41
+
+
+36
+   R4, tab 75 at 1, 6.
+37
+   ASBCA No. 59643 compl. at 14.
+38
+   October 14, 2015, notice of appeal.
+39
+   ASBCA No. 60284 compl. at 5. We understand the terms “phased turnover” and
+        “phased handover” to be synonymous.
+40
+   App. prehearing br. at 24-26.
+41
+   During the hearing, ECCI’s counsel confirmed that although the claim for
+        acceleration damages set forth in ASBCA No. 60284 was no longer before the
+        Board, the “acceleration claim in the delay claim” (presumably set forth in
+        ASBCA No. 59586), and its associated alleged damages, were still before the
+        Board. Tr. 9/49-50.
+
+                                           7
+          g. Summary Judgment
+
+        On January 24, 2019, in ASBCA Nos. 59138 and 59586, the Board ruled upon
+the parties’ cross-motions for partial summary judgment upon the question, referring
+to the ECP security changes, “whether, when a third party controlling a military base
+interfered with access to a compound that the government contracted appellant to build
+outside the base, an express contract warranty was breached, entitling appellant to
+recover for a constructive change to the contract.” ECCI, 19-1 BCA ¶ 37,252
+at 181,314. The Board denied ECCI’s motion for summary judgment and granted the
+government’s request for partial summary judgment that “[t]he change to the security
+posture of the . . . Compound was not a constructive change to the Contract for which
+[ECCI] is entitled to Compensation.” Id. at 181,314-15. Specifically, the Board
+granted the government’s cross-motion for partial summary judgment “on the issue of
+entitlement with regard to ASBCA No. 59183 and Count I of ASBCA No. 59586 . . .
+to the extent set forth” in the Board’s decision. Id. at 181,315. On June 5, 2020, the
+United States Court of Appeals for the Federal Circuit affirmed the Board’s opinion,
+explaining that the government was not liable for increased costs caused by the
+changes in the security posture of the project. ECCI, 817 F. App’x at 953.
+
+          h. Expert Delay Report of William Schwartzkopf
+
+       On January 3, 2020, nearly a year after the Board ruled that the ECP security
+changes at the worksite were not compensable, a delay expert, William Schwartzkopf,
+of Sage Consulting, issued a report in support of ECCI’s delay claims. 42
+Mr. Schwartzkopf opined that crediting for time extensions, the project experienced
+three periods of compensable critical path delay totaling 420 days: (1) 290 days from
+March 23, 2012 through March 14, 2013, for the communications redesign;
+(2) 53 days from May 28, 2013, through September 15, 2013, for “[a]dded
+communications outlets,” and (3) 77 days from November 5, 2013, through
+February 28, 2014, for “dedicated electrical panels in communication rooms.” 43
+Mr. Schwartzkopf explained that, in arriving at that conclusion, he modeled “[t]wenty-
+two impact events—including both potential ECCI-caused delays and potential
+Government-caused delays . . . with [Time Impact Analysis (TIA)] schedules to
+determine what, if any, impact these issues had on Project Completion.” 44 And in an
+undated supplemental “concurrency analysis” to his expert report, presumably
+completed after the date of the expert report itself but no later than February 24, 2020
+
+
+42
+   App. supp. R4, tab 1251; tr. 3/48, 91, 102.
+43
+   App. supp. R4, tab 1251 at 35-36.
+44
+   App. supp. R4, tab 1251 at 32.
+
+                                            8
+(when the hearing of these appeals began), Mr. Schwartzkopf explained, referring to
+his 22-item set of potential project delay events, that:
+
+              For each of the following impact events, which include
+              potential [government]-caused delays and known potential
+              contractor-caused delays, a fragnet—a fragmentary
+              network, which is a sequence of linked activities—was
+              built to represent the development and resolution of the
+              issue[.] 45
+
+A “fragnet” is “a sequence of new activities and/or activity revisions, logical
+relationships, and resource changes added to an existing schedule to demonstrate the
+influence of a new activity on the schedule.” Nassar Grp. Int’l N.G.I. S.A.L.
+(Offshore) R.C., Doing Bus. As NGI Afghanistan for Contracting, ASBCA No. 58451
+et al., 22-1 BCA ¶ 38,206 at 185,549 n.15.
+
+       The government at least implies that Mr. Schwartzkopf’s opinion is not
+credible, noting that absent from the 22 items for which Mr. Schwartzkopf created
+fragnets are the ECP security changes that—prior to our 2019 opinion denying ECCI’s
+summary judgment motion and granting the government’s summary judgment motion
+upon the ECP security changes—ECCI represented had delayed the work from early
+April 2012, through the end of the project. 46 Indeed, Mr. Schwartzkopf did not subject
+the ECP security changes to the type of analysis to which he subjected the other
+22 items, as his testimony on cross-examination makes clear:
+
+              Q.     Do you have a fragnet for the entry control point
+                     delay?
+
+              A.     I do not. 47
+
+Although Mr. Schwartzkopf was aware that ECCI had, in its February 12, 2014 claim,
+asserted that the security change had delayed the project, 48 he testified in a remarkably
+conclusory fashion that “[t]here was no point in modeling [the ECP security changes]
+
+
+45
+   Ex. 6 at 2 (emphasis added).
+46
+   Gov’t br. at 29; ASBCA No. 59586 compl. at 7 ¶ 39.
+47
+   Tr. 2/275-76.
+48
+   Tr. 2/273-74.
+
+                                            9
+because it couldn’t have delayed design.” 49 When asked whether his analysis
+considered “all of the delay events that impacted the project,” he answered:
+
+              There were several others that, just looking at them, it was
+              apparent that they did not cause a critical delay, or the
+              security change, where we looked at when it happened,
+              and the construction was on the critical path. 50
+
+And although Mr. Schwartzkopf characterized the security change as insignificant, he
+simultaneously testified that he listed the security change in his expert report as one of
+several “known significant delays” that were “not incorporated in [his] model.” 51
+
+        Despite the testimony indicating that he “looked” at the ECP security
+changes, 52 ECCI says that Mr. Schwartzkopf’s delay report “analyzes all potentially
+significant delays on the project to establish the critical path delays.” 53 ECCI also says
+that “[Mr.] Schwartzkopf testified that he analyzed all delays on the project.” 54
+Neither is the case. Mr. Schwartzkopf did not analyze all the potential delay issues on
+the project; nor did he testify that he did: specifically, Mr. Schwartzkopf did not
+analyze the ECP security changes, at least not in the manner that, as ECCI recites in its
+initial post-hearing brief, he analyzed the 100% communications design issue, the
+communications outlets issue, and the dedicated electrical panels issue. That is,
+Mr. Schwartzkopf did not make the ECP security changes the subject of a fragnet. 55
+Again, although he was aware of the ECP security change issue when he issued his
+expert report, in order “to evaluate whether the ECP delays may have caused a critical
+path delay,” Mr. Schwartzkopf only “looked” at the ECP security changes; 56 he did
+not subject that issue to the fragnet-based analysis to which he subjected 22 other
+potential delay issues, evidently deliberately.
+
+       Indeed, one only has to refer to page 61 of ECCI’s initial post-hearing brief to
+see the difference in the analyses performed by Mr. Schwartzkopf (and advanced by
+ECCI). Regarding the dedicated electrical panels issue, ECCI says that
+Mr. Schwartzkopf “analyzed this delay using a fragnet,” whereas, regarding the ECP
+
+49
+   Tr. 2/254-55.
+50
+   Tr. 2/254 (emphasis added).
+51
+   Tr. 7/214 (alteration added).
+52
+   See also tr. 3/55-56.
+53
+   App. br. at 43.
+54
+   App. br. at 52; see app. reply at 4.
+55
+   App. br. at 57-62.
+56
+   See app. supp. R4, tab 1251 at 21, 137-38.
+
+                                            10
+security changes, ECCI says that Mr. Schwartzkopf “analyzed the security change,” 57
+avoiding any reference to a fragnet, as ECCI must when discussing Mr. Schwartzkopf
+and the ECP security changes, because Mr. Schwartzkopf did not “use a fragnet” to
+analyze the ECP security changes.
+
+       ECCI says that “anyone looking at [the project] would see that security was
+never the driving delay,” and that “the original analysis in ECCI’s claim showed
+delays other than security were longer.” 58 We understand this to be not only a nod to
+Mr. Schwartzkopf’s statement that he “looked” at the ECP security changes 59 (which
+we take to mean that Mr. Schwartzkopf looked at what Lombardia had said about it),
+but also a reference to Lombardia’s report, which we understand was a basis for
+ECCI’s February 12, 2014 claim to the contracting officer. 60 Leaving aside for the
+moment what Lombardia concluded—particularly because no one from Lombardia
+ever testified in this appeal—if that is what ECCI means by delay analysis, we find it
+no analysis at all.
+
+        What’s more, Mr. Schwartzkopf failed to create a fragnet for the ECP security
+change issue even though he agreed that there was contemporaneous evidence in
+ECCI’s project records that reflected that workers were delayed in getting through the
+entry control points. 61 Indeed, Roger Khoury, the managing partner of Sabaton Salim
+Construction Company (SSCC), a subcontractor to ECCI on the project, testified by
+sworn declaration dated February 3, 2020, that “[t]he inefficient process of getting
+workers through the base security ECP never got better from the time it was
+implemented on June 1, 2012, until the project was completed.” 62 Mr. Khoury further
+testified that “[a]s a direct result of the changes in security process for access to the
+project site, SSCC incurred additional [costs] of 3 types over the 130 days of
+Government caused delays, within the period February 2013 to November 2013.” 63
+
+       Mr. Khoury’s account is corroborated by Ajmal Imtiaz, the president of another
+ECCI subcontractor at the worksite—IMTIAZ Group Construction (IGC)—whose
+February 4, 2020 sworn declaration states—in language virtually identical to
+Mr. Khoury’s—that “[t]he inefficient process of getting workers through the base
+security ECP never got better from the time it started on June 1, 2012, until the project
+
+57
+   App. br. at 61-62.
+58
+   App. br. at 62.
+59
+   See tr. 2/254.
+60
+   See R4, tab 72 at 273, 333, 608; tr. 1/241-45; app. br. at 61.
+61
+   See tr. 2/272.
+62
+   Ex. 12 at 1, 5-6, 17 (emphasis added).
+63
+   Ex. 12 at 9 (emphasis added).
+
+                                            11
+was completed,” and that “[a]s a direct result of the security procedures, IGC incurred
+additional costs of 3 types over the 130 days of Government caused delays, within the
+period February 2013 to November 2013.” 64 Indeed, Mr. Imtiaz agreed that “[t]he
+ECP delay caused more delay to [IGC’s] work on the project than the refinishing after
+communications installation,” 65 at least suggesting that the ECP security changes
+outlasted the 100% communications design issue as a delay event. And of course,
+ECCI admits in its complaint in this appeal that ECP security changes delayed the
+project from “April 2012, through the end of the project.” 66 Because
+Mr. Schwartzkopf omitted the ECP security changes from the fragnet-based delay
+analysis to which he subjected 22 other potential delay issues, we find his delay
+opinion not credible, and reject it.
+
+                                      DECISION
+
+       In its initial, post-hearing brief in ASBCA No. 59586, ECCI sets forth the
+following claims: (1) “improper design review of ECCI’s 95% design submittal;” 67
+(2) 420 days of compensable and excusable project delay due to (a) the government’s
+allegedly improper review of ECCI’s 100% communications design (290 days), (b) a
+government-directed increase in the quantity of communication outlets (53 days), and
+(c) a government-directed requirement to provide dedicated electrical panels in
+communications rooms (77 days); 68 (3) apparently in support of that improper review
+claim, a breach of the implied duty of good faith and fair dealing; 69 (4) that the
+government failed to reimburse ECCI for all of ECCI’s Defense Base Act (DBA)
+payments; 70 and (5) that the government constructively accelerated the project
+schedule. 71
+
+
+64
+   Ex. 13 at 1, 5, 6-7, 15 (emphasis added).
+65
+   Tr. 4/43, 62.
+66
+   ASBCA No. 59586 compl. at 7 ¶ 39 (emphasis added).
+67
+   ASBCA No. 59586 compl. at 26-27 ¶ 155.
+68
+   App. br. at 1, 20, 23, 57-62, 110-11. Regarding delay periods and liquidated
+        damages, ECCI variously references 400 days, 402 days, and 420 days. App.
+        br. at 62, 111, 116; app. reply at 4, 44. Although the three components of
+        ECCI’s delay claim total 420 days, app. br. at 26 ¶ 127, ECCI seeks $940,274
+        in withheld liquidated damages (app. br. at 110; reply at 4), which at 2,338.99
+        per day equates to 402 days; that $940,274 is equivalent to the $940,273.98
+        (unrounded) that the government assessed and withheld.
+69
+   App. br. at 14.
+70
+   App. br. at 29-30.
+71
+   App. br. at 19 ¶¶ 81, 86-87; see gov’t br. at 42 ¶ 48 (citing R4, tab 72).
+
+                                           12
+       I. Review of 95% Design Submittal
+
+       In its complaint in ASBCA No. 59586, ECCI presents a claim for recovery
+related to the alleged “improper design review of ECCI’s 95% design submittal.” 72
+Because we find in ECCI’s post-hearing briefing no separate claim for “improper
+design review of ECCI’s 95% design submittal,” that claim is waived or abandoned. 73
+See Bannum, 779 F.3d at 1382; SmithKline Beecham Corp. v. Apotex Corp., 439 F.3d
+1312, 1319 (Fed. Cir. 2006); Sarro & Assocs., Inc. v. United States, 152 Fed. Cl. 44,
+58-59 (2021).
+
+       II. Delay Claims
+
+              A. Jurisdiction
+
+        Again, in ASBCA No. 59586, ECCI claims 420 days of compensable and
+excusable project delay due to (a) the government’s allegedly improper review of
+ECCI’s 100% communications design (290 days), (b) a government-directed increase
+in the quantity of communication outlets (53 days), and (c) a government-directed
+requirement to provide dedicated electrical panels in communications rooms (77 days).
+The government challenges whether those claims have been presented to the
+contracting officer. 74 For the Board to possess jurisdiction to entertain a claim, the
+claim must first have been presented to a contracting officer. CDM Constructors, Inc.,
+ASBCA No. 59524, 15-1 BCA ¶ 36,097 at 176,238. ECCI’s February 12, 2014 claim
+to the contracting officer claims project delay allegedly caused by (1) the
+government’s 100% design review, 75 (2) government direction to increase the quantity
+
+
+72
+   ASBCA No. 59586 compl. at 26-27 ¶ 155.
+73
+   The government challenges other items that ECCI asserted in a spreadsheet
+        presented during the hearing (1) an “unpaid balance,” (2) claim preparation
+        costs, and (3) bond costs (app. reply at 43). (Gov’t br. at 40, 45-46; app. supp.
+        R4, tab 305; tr. 1/290). ECCI does not assert those three claims in its initial
+        post-hearing brief, although two of those claims (claim preparation costs and
+        bond costs) are referenced in ECCI’s reply brief. App. reply at 21, 43. Those
+        items are waived. See Bannum, 779 F.3d at 1382.
+74
+   Gov’t br. at 4.
+75
+   R4, tab 72 at 8.
+
+                                            13
+of electrical outlets, 76 and (3) government direction to provide dedicated electrical
+panels. 77 Consequently, we possess jurisdiction to entertain those claims. 78
+
+        With respect to liquidated damages, the contract provides that “[i]f the
+Contractor fails to complete the work within the time specified in the contract, the
+Contractor shall pay liquidated damages to the Government in the amount of
+$2,338.99 for each calendar day of delay until the work is completed or accepted.” 79
+Both parties claim entitlement to some $940,274 in liquidated damages. 80 On April 9,
+2014, the government assessed and withheld $940,273.98 in liquidated damages for
+402 days of delayed completion, at the contract rate of $2,338.99 per day. 81 ECCI,
+22-1 BCA ¶ 38,131 at 185,228. That assessment is a government claim. Parsons
+Evergreene, L.L.C., ASBCA No. 57794, 12-2 BCA ¶ 35,092 at 172,347; K-Con Bldg.
+Sys., Inc. v. United States, 107 Fed. Cl. 571, 587 (2012).
+
+              B. Mr. Schwartzkopf’s expert delay opinion is not credible
+
+        For ECCI to recover for a compensable delay, it “must prove that the
+government was the sole cause of the delay and that the appellant did not contribute to
+or concurrently cause such delay.” Insulation Specialties, Inc., ASBCA No. 52090,
+03-2 BCA ¶ 32,361 at 160,101. Additionally, ECCI “‘must show that the
+government’s actions affected activities on the critical path of [ECCI’s] performance
+of the contract.’” O-Tech Sols., LLC, ASBCA Nos. 61898, 62095, 23-1 BCA ¶ 38,338
+at 186,169. To establish entitlement to an extension based on excusable delay, ECCI
+must show that the delay resulted from unforeseeable causes beyond the control and
+without the fault or negligence of ECCI, and that the unforeseeable cause delayed the
+overall contract completion; that is, the delay must have affected the critical path of
+performance. Sauer Inc. v. Danzig, 224 F.3d 1340, 1345 (Fed. Cir. 2000).
+
+      To demonstrate that the government delayed project performance, ECCI relies
+primarily upon the opinion of Mr. Schwartzkopf. To be credible, a contractor’s delay
+
+76
+   R4, tab 72 at 29-31.
+77
+   R4, tab 72 at 49-50.
+78
+   In ECC Int’l Constructors, LLC, ASBCA No. 59586, 24-1 BCA ¶ 38,489
+        at 187,083-84, we denied the government’s motion that we dismiss certain
+        claims, for lack of jurisdiction, for failure to state sums certain.
+79
+   R4, tab 5 at 39 ¶ 52.211-12(a) (FAR 52.211-12(a), LIQUIDATED DAMAGES –
+        CONSTRUCTION (SEP 2000)).
+80
+   See app. br. at 110-11, 116; gov’t br. at 2-3, 40, 120; app. reply at 4.
+81
+   Gov’t br. at 3; FAR 52.211-12(a), LIQUIDATED DAMAGES – CONSTRUCTION
+        (SEP 2000) (R4, tab 5 at 39).
+
+                                            14
+analyst must take into account, and give appropriate credit for, all of the delays that
+were alleged to have occurred. See Gulf Contracting, Inc., ASBCA No. 30195,
+89-2 BCA ¶ 21,812 at 109,759; aff’d, 23 Cl. Ct. 525 (1991); aff’d per curiam,
+972 F.2d 1353 (Fed. Cir.) (table) (June 5, 1992); see also Pathman Constr. Co.,
+ASBCA No. 23392, 85-2 BCA ¶ 18,096 at 90,837, 90,846-47 (rejecting delay analysis
+with “built-in bias”). We have found that Mr. Schwartzkopf deliberately omitted from
+the crux of his delay analysis the ECP security changes that—until we ruled against
+ECCI upon that issue—ECCI had alleged delayed its performance. That is,
+Mr. Schwartzkopf did not make the ECP security changes the subject of a fragnet, as
+he did 22 other potential delay events. That renders Mr. Schwartzkopf’s opinion not
+credible, and therefore, not helpful to us or to ECCI’s case. Cf. Fireman’s Fund Ins.
+Co. v. United States, 92 Fed. Cl. 598, 669-70 (2010) (“Cross-examination assaulted
+[plaintiff’s delay expert’s] inclusion of all concrete activity on plaintiffs’ as-built
+critical path—which extends through the construction of the floating guidewalls—
+at the expense of omitting the installation of the Project’s control systems in the
+control tower”); E. Minerals Int’l Inc. v. United States, 39 Fed. Cl. 621, 627 (1997)
+(“The testimony and conclusions of one expert clearly were designed to mesh with the
+Government’s legal theories. His refusal to acknowledge input from counsel in
+reaching his conclusions were not credible.”), judgment rev’d on other grounds,
+appeal dismissed sub nom., Wyatt v. United States, 271 F.3d 1090 (Fed. Cir. 2001);
+Mega Constr. Co. Inc., v. United States, 29 Fed. Cl. 396, 434 (1993) (discerning “a
+strong partisan position by [expert] in favor of plaintiff, in conflict with one of his
+duties as an expert witness to objectively assist the court to understand the facts and
+issue”). “We are free to reject expert testimony [that] we find intrinsically
+unpersuasive,” Reflectone, Inc., 98-2 BCA ¶ 29,869 at 147,829, and here, we find
+Mr. Schwartzkopf’s opinion intrinsically unpersuasive.
+
+        Indeed, what Mr. Schwarztkopf did conflicts with what ECCI’s counsel forecast
+on the first day of the hearing of this appeal. Counsel offered the following
+explanation of how delay experts conduct a “time impact analysis” (TIA) of the type
+that Mr. Schwartzkopf performed, pointing out the importance of making potential
+delay events the subject of fragnets in order to determine what delayed a project’s
+critical path:
+
+             [T]hey chop the project into different sections of time
+             based on the delay events, and then they do the time-
+             impact analysis doing the fragnets . . . .
+
+                    Or maybe new delay items came into the picture
+             and the expert has to use his professional judgment to say
+             well there’s some new delay issues that are starting, so I
+
+
+                                          15
+              need to start a new window and then I need to do a new
+              impact window for that analysis and new fragnets for
+              those.
+
+                                           ...
+
+              You need to do a time impact for each potential delaying
+              issue . . . .
+
+                     But if you’ve not looked at all the other issues that
+              are potentially delaying, like the contractor’s issues or
+              other government issues, then you’re not going to know
+              which one is actually the critical path delay. 82
+
+Even Mr. Schwartzkopf’s testimony highlights, although in awkward phrasing, the
+importance of fragnets in delay analysis:
+
+              Q: But if the 100 percent design was never on the critical
+              path, how could it have become critical at all?
+
+              A: Well, any activity can become critical if it’s extended or
+              pushed out. When we put a fragnet in, the model that it will
+              push out [sic]. 83
+
+And ECCI concisely describes how, in analyzing the alleged communications outlets
+delay, Mr. Schwartzkopf relied upon a fragnet:
+
+              A fragnet was created and inserted, showing the increased
+              outlets as a driving delay. 84
+
+        Even judged by ECCI’s own standard, then, by not making the ECP security
+issue the subject of a fragnet, Mr. Schwartzkopf cannot know—and so neither from his
+opinion can the Board know—whether the ECP security changes were a critical path
+delay. Moreover, Mr. Schwartzkopf failed to meet the standard that he used to
+
+
+82
+   Tr. 1/86-88.
+83
+   Tr. 3/67-68 (emphasis added).
+84
+   App. br. at 60. ECCI apparently uses the term “driving delay” to refer to the
+        concept of critical path delay. See, e.g., app. br. at 25, 56 n.10.
+
+                                           16
+criticize the government’s delay expert for allegedly “dropp[ing] the design issue as a
+factor” for consideration:
+
+              But that’s one of the flaws when you do an as-built versus
+              and-planned, is the scheduler can make judgments about
+              what he wants to analyze. They chose not to analyze it,
+              and it’s a huge issue on this case and on this project. 85
+
+       In response to what it says is the charge that “ECCI has changed its delay claim
+from the security issue to the communications re-design,” ECCI counters that
+“[s]ecurity was never claimed as a delay issue; design delays and directed extra work
+were always the primary delay claim.” 86 In support, ECCI quotes the testimony of
+ECCI Senior Program Manager, Scott Hayward, referring to Lombardia: 87
+
+              Well, at the very beginning prior to getting Lombardia, you
+              know, [ECCI]’s own internal analysis of the first few
+              months basically found that security wasn’t the driving
+              delay. Lombardia’s analysis found the same thing. 88
+
+ECCI’s reliance on that quote is a weak and ineffective explanation of
+Mr. Schwartzkopf’s omission of the ECP security changes from the set of nearly
+two dozen items for which he created fragnets. First, Lombardia created fragnets for
+the ECP security changes, and its delay report is replete with references to those
+fragnets. 89 Indeed, of Lombardia’s analysis, which was completed no later than the
+submission of the February 12, 2014 ECCI claim in which that analysis is
+incorporated, 90 ECCI explained in that claim that:
+
+              For each change and/or delay issue that is discussed as part
+              of [the February 12, 2014 claim], a Fragmentary Network
+              (fragnet) was created demonstrating how the work was
+              incorporated into the project schedule. 91
+
+
+85
+   Tr. 1/38.
+86
+   App. br. at 61.
+87
+   Id.; ex. 1 at 1; see tr. 1/241.
+88
+   App. br. at 61 (quoting tr. 1/245).
+89
+   See generally R4, tab 72 at 72-103.
+90
+   R4, tab 72 at 72-103.
+91
+   R4, tab 72 at 64.
+
+                                           17
+       Second, in its February 12, 2014 claim, ECCI identified the “two categories” of
+schedule impacts “that run in parallel tracks to each other as they affected the project
+progress”; namely, “the ‘ECP Impacts,’” and “‘Design Delays and Additional Work
+Directive Impacts’ (Design Delays),” 92 at least suggesting that both events were on the
+project’s critical path.
+
+       Third, as the government points out, 93 Lombardia—unlike Mr. Schwartzkopf—
+actually analyzed the ECP security changes in relation to the design delay, as the
+following example illustrates:
+
+              Figure 21 below indicates that during this period, the
+              project experienced 42 days of Design delay, and 18 days
+              of ECP delay. These two type [sic] of delays were
+              occurring concurrent to each other. When this concurrency
+              is recognized, the critical Design Delays for this period is
+              quantified as 24 days (42 days of Design Delay – 18 days
+              of ECP Delay). 94
+
+        Aside from not creating any fragnets for the ECP security changes, nowhere
+does Mr. Schwartzkopf provide the type or level of comparative analysis of that issue
+provided by Lombardia. Although in his expert report he references the ECP security
+changes and Lombardia’s analysis, he performs no such analysis of his own, on the
+one hand disavowing any opinion upon the issue while on the other actually offering
+such an opinion (however half-hearted), but ultimately brushing aside the possibility
+that the ECP security changes could have delayed the project:
+
+              I have no opinion regarding whether the ECP delays
+              impacted production on the Project, but to the extent that
+              there was an impact, it was on construction work, not
+              design, which was the driving delay to Project completion
+              until the design was approved in March 2013. Also, any
+              impact from the security protocols was incorporated into
+              the schedule via actual dates in the contemporaneous
+              schedules used for the concurrency analysis. 95
+
+
+92
+   R4, tab 72 at 64.
+93
+   Gov’t br. at 29.
+94
+   R4, tab 72 at 86.
+95
+   App. supp. R4, tab 1251 at 137-38 (emphasis added).
+
+                                          18
+        Finally, Lombardia’s opinion does not address project delays that post-date or
+continue beyond the February 12, 2014 claim into which that opinion is incorporated.
+But “a proper TIA [would assess] the project schedule from the [notice to proceed] to
+completion, and [would have] considered all delays and their impacts to the project
+activities.” See Nassar Grp., 22-1 BCA ¶ 38,206 at 185,552 (bracketed material and
+emphasis added). In its February 12, 2014 claim, ECCI provides an explanation that
+illustrates the limitations of Lombardia’s analysis, and how that analysis may not be
+the last word on whether and how the ECP security changes might have affected the
+project even after Lombardia completed its work:
+
+                The ECP Impacts started to affect the project schedule in
+                May 2012, continued without interruption, and are still
+                affecting the project progress as of this writing. Due to the
+                continuous nature of this impact, the ECP Impact analysis
+                was performed for each schedule reporting period starting
+                with the CC15 schedule with the data date of 15 May
+                2012. It should be noted that, even though the ECP
+                Impacts were continuing to affect the project progress as
+                of this writing, the analysis for this REA was performed
+                through 26 October 2013. The continuing bearings of the
+                ECP Impacts after 26 October 2013, can be quantified
+                starting with the 27 October 2013 progress schedule
+                update. 96
+
+        The implications of that qualification are that Lombardia’s analysis cannot be
+relied upon to explain the progress of the work after October 26, 2013, and that the
+ECP security changes were at least a potential delay event as late as February 12,
+2014, which, of course is nearly a year after the government finally approved the
+100% communications design on March 14, 2013. Indeed, despite the suggestion in
+ECCI’s February 12, 2014 claim that Lombardia’s analysis is helpful only through
+October 26, 2013, a passage in that claim at least hints that the ECP security changes
+might have “driven” delay of the project after that date, and perhaps, as ECCI alleged
+in its complaint in this appeal, “through the end of the project”:
+
+                Delays Incurred After 10/26/13
+
+                As of 10/27/13, per the schedule update CC71 with the
+                data date of 10/27/13, the ACMILE0040 project
+                completion milestone was projecting a 12/24/13
+
+96
+     R4, tab 72 at 64 (emphasis added).
+
+                                             19
+              completion date. This completion date signifies a [sic]
+              58 days of remaining contract work as of 10/27/13. To our
+              knowledge, the ECP impacts continued to affect the
+              production rates in the field after 10/26/13. If the average
+              30% production loss rate of September and October 2013
+              would be applied to this remaining 58 days of work, the
+              ECP delays would be accountable for another 18 days.
+
+                                           ...
+
+              This 18 days of additional delay, on top of the
+              301 days of delay quantified through 10/26/13, would
+              adjust the Contract Completion Date as 1/7/2014. There
+              were additional “Design delays” impacts during this
+              timeframe as well. These include the half of the
+              Additional Communications Installation Work, Legrand
+              Floor Boxes, Dedicated Communications Rooms Electrical
+              Panels, and HVAC Start Up and Commissioning Expert
+              Ban. Conservatively estimating that these issues delayed
+              the project critical path 10 days in addition to the
+              continuing ECP 18 day delay results in an additional
+              28 day delay during the months of November 2013 through
+              February 2014. 97
+
+       Moreover, the project was not substantially completed until April 19, 2014,
+some four months after Lombardia completed its delay analysis, and some two months
+after ECCI presented its February 12, 2014 claim to the contracting officer.
+
+       All of this is to say that there is evidently more to the ECP security changes
+than Mr. Schwartzkopf gave credit, and that in view of ECCI’s loss (at least in its
+estimation, perhaps) upon the ECP security changes issue, Mr. Schwartzkopf decided
+not to analyze that issue as a potential project delay, and ECCI decided not to pursue it
+as such. Indeed, the government alludes to this, saying that “after receipt of the
+Board’s [summary judgment] Opinion, ECCI realized that it had to eliminate its
+security delay claim in order to maximize its request for delay damages,” 98 and that
+Mr. Schwartzkopf “entirely failed to include fragnets showing delays caused by the
+change in security posture.” 99 ECCI counters that “[a]t no time has [ECCI] asserted
+
+97
+   R4, tab 72 at 103 (emphasis added).
+98
+   Gov’t br. at 26.
+99
+   Gov’t br. at 29.
+
+                                           20
+that security delays were the driving or critical delays on the [] project,” 100 but that
+misses, perhaps deliberately, the point that prior to our opinion regarding the ECP
+security changes, ECCI relied upon a delay opinion—Lombardia’s—that created
+fragnets to analyze the potential delay effect upon the project of the ECP security
+changes, and that after our ECP security change opinion, ECCI abandoned
+Lombardia’s opinion, and relied upon a new opinion—Mr. Schwarzkopf’s—that
+created no fragnets for the ECP security changes. We determine that
+Mr. Schwarzkopf’s opinion is fatally tainted by litigation bias in favor of ECCI. For
+all these reasons, we find not credible, and we reject, Mr. Schwartzkopf’s delay
+opinion, as well as, with the exception set forth below, ECCI’s delay claim itself. 101
+
+              C. The government admits that the 100% communications design issue
+                 delayed the project
+
+        Although Mr. Schwartzkopf’s opinion is not credible, ECCI points out that the
+government, in the persons of COR Vanoer and ACO Long, communicated to ECCI
+by letter that the issues with the 100% communications design were delaying the
+project. 102 Mr. Vanoer, wrote his letter on November 16, 2012; Mr. Long on
+December 6, 2012. 103 The government says that “[t]he communications redesign was
+never shown to cause an actual delay to construction,” 104 but does not address the
+statements of Mr. Vanoer and Mr. Long. 105 We determine these are admissions
+against the government’s interest that the delay in approving the
+
+100
+    App. reply at 15.
+101
+    The government’s expert, Mark Doran, also did not assign a fragnet to the ECP
+       security changes: Mr. Doran explained that because of our opinion upon
+       summary judgment, his report “does not address any claims regarding alleged
+       delays as a result of the relocated entry control point (ECP) and associated
+       revised security procedures” (R4, tab 1168 at 5). As the government at least
+       implies with respect to Mr. Shwartzkopf’s opinion, Mr. Doran’s decision not to
+       analyze the ECP security changes renders his delay opinion also not credible.
+102
+    App. br. at 17 ¶ 74; app. reply at 11; R4, tabs 367, 384.
+103
+    R4, tabs 367, 384.
+104
+    Gov’t br. at 39.
+105
+    The government does say, however, that “the contemporaneous documentation,
+       created during performance of the Contract, is the most reliable source of fact
+       for events occurring on the Project” (gov’t sur-reply at 4). Along those lines, a
+       November 1, 2012, government information paper states that the project “has
+       had significant delays due to design changes” and “user requested changes”
+       (which we take as a reference to government-requested changes), in addition to
+       “contractor inefficiencies” (app. supp. R4, tab 755 at 3(b)(1); tr. 6/108-09).
+
+                                            21
+100% communications design delayed project completion, such delay beginning no
+later than November 16, 2012. Furthermore, we draw the reasonable inference that the
+delay was critical path delay, because we expect that Mr. Vanoer, and, particularly,
+Mr. Long, the contracting officer, would not have informed ECCI that the design delay
+was delaying the project—a position that neither has recanted or otherwise explained
+away—if that were not the case. 106 See generally Raytheon Co., ASBCA No. 57743 et
+al., 16-1 BCA ¶ 36,335 at 177,147 (distinguishing between evidentiary admissions and
+judicial admissions); cf. Reliable Contracting Grp. v. Dep’t of Veterans Affairs,
+779 F.3d 1329, 1334-35 (Fed. Cir. 2015) (contractor’s contemporaneous admissions
+were “probative evidence that generators did not comply with the contract” (citations
+omitted)); ITT Gilfillan Div., ASBCA No. 37834, 92-1 BCA ¶ 24,490 at 122,227-28
+(statement in Turkish Air Force report that radar was “operational but degraded” was
+admission against interest proving radar was capable of passing contractually-required
+operational test); Milam Builders, Inc., ASBCA No. 29700, 85-1 BCA ¶ 17,709 at
+88,376 (“Appellant has claimed $1,573 although its evidence did not establish this
+amount; accordingly, the amount estimated by the Government will be considered an
+admission against interest. Appellant is therefore entitled to $1,542.”); Phillips
+Constr. Co., ASBCA No. 5831 et al., 70-2 BCA ¶ 8,363 at 38,893 (“The testimony of
+75 days delay was therefore in the nature of an admission against interest or at least in
+diminution of appellant's principal case.”); Larco-Indus. Painting Corp., ASBCA
+No. 14647 et al., 73-2 BCA ¶ 10,073 at 47,325 (“In an admission against interest,
+Mr. Parks before his departure on 11 December 1969 from Fort Chaffee told
+Mr. Roberts that respondent had as much of a problem with personnel as did the
+contractor . . . [w]e accept his appraisal.”). We also find that the delay began on
+November 16, 2012, when the government first admitted that the lack of an approved
+communication design was causing delays to the project, and ended on March 14,
+2013, when the government finally approved the 100% communications design: a
+period of 119 days, fewer than the 290 days that ECCI seeks. 107
+
+
+106
+    We have already found not credible the opinion of Mr. Doran. We further conclude
+       that with respect to whether the delay in approving the 100% communications
+       design delayed project completion, that opinion is otherwise unhelpful.
+       Mr. Doran opined that the 100% design delay ended on December 16, 2011,
+       and that, “[t]herefore, [the] 100% Design Review did not delay the Project”
+       (R4, tab 1168 at 49). Even ACO Long stated that, as late as December 6, 2012,
+       the communications design was delaying the project (R4, tab 384 at 1).
+       Although Mr. Doran testified at the hearing, he did not address Mr. Long’s
+       statement. Tr. 7/6-207.
+107
+    App. br. at 60; see tr. 8/115-16.
+
+                                           22
+        However, for purposes of determining compensable delay, we must also
+consider concurrent delay not attributable to the government; consequently, we take
+into account our opinion upon summary judgment, affirmed by the Court of Appeals,
+that the ECP security changes were not compensable, and that, prior to that opinion,
+ECCI admitted that from September 29, 2010, through October 26, 2013 (a period of
+1,124 days), “the project experienced 205 days of ECP [security changes] delays, and
+a total of 389 days of Design delays of which 205 days were concurrent to the ECP
+delays.” 108 Because those 205 days of concurrent, non-government delay exceed what
+we determine are not 389 days but only 119 days of design delay, we determine that
+ECCI is not entitled to any compensable delay.
+
+              D. Whether the 100% communications design delay is nevertheless
+                 excusable
+
+       The question is whether despite failing to prove entitlement to compensable
+delay, ECCI is entitled to remission of liquidated damages because of excusable delay
+on the same facts. 109 The contract includes (Federal Acquisition Regulation)
+FAR 52.249–10, DEFAULT (FIXED–PRICE CONSTRUCTION) (APR 1984), which
+provides, at (b)(1): “[t]he Contractor’s right to proceed shall not be terminated nor the
+Contractor charged with damages under this clause, if—[t]he delay in completing the
+work arises from unforeseeable causes beyond the control and without the fault or
+negligence of the Contractor.” 110 ECCI has the burden of establishing by a
+preponderance of the evidence the existence of any such excusable delay. 111 See
+Sauer, 224 F.3d at 1347. ECCI says that “the question is not whether [the
+government] was correct in [its] objections to ECCI’s design, but rather, did [the
+government] act in a timely and reasonable manner.” 112 In apparent reliance upon
+section 3.9.2 of the contract, 113 ECCI says that it submitted its 100% communications
+design “under the reasonable belief that only the comments made to the 95% design
+required response, based on the Contract.” 114 In essence, ECCI argues that so long as
+its 100% “cleared for construction” design review submittal incorporated the
+“government review comments” generated by the government’s review of the
+95% “final design review submittal,” section 3.9.2 required that its
+
+108
+    R4, tab 72 at 65-66 (emphasis added).
+109
+    App. br. at 110-11, app. reply at 4.
+110
+    R4, tab 5 at 105-06.
+111
+    Although ECCI does not express it as such, we regard its request for remission of
+        liquidated damages as including by way of excusable delay.
+112
+    App. br. at 38.
+113
+    App. br. at 6 ¶ 31.
+114
+    App. br. at 66 ¶ 170.
+
+                                           23
+100% communications design review submittal be approved, and cleared for
+construction.
+
+        We agree. Section 3.9.2 provides that “[t]he only effort remaining between the
+FINAL DESIGN REVIEW SUBMITTAL and the ‘CLEARED FOR
+CONSTRUCTION’ DESIGN REVIEW SUBMITTAL is the incorporation of the
+Government Review Comments.” 115 That section does not contemplate or authorize
+months more of back-and-forth between the government and the contractor in which
+the government presents dozens if not hundreds of additional, new design comments
+that the contractor must analyze and respond to as a condition of approval of its
+100% design, and clearance for construction. In response to ECCI’s 95% design
+submission, the government made 56 comments, on the communications design. 116
+When ECCI responded with a 100% communications design that incorporated those
+56 comments, ECCI was entitled to the approval of that design, and clearance for
+construction. Instead, the government responded with 226 new comments, 117
+triggering a delay period that we conclude is attributable to the government.
+
+       The government says:
+
+              [section 3.9.2] is not relevant to the contractor’s remaining
+              effort after submission of the 100% [communications]
+              design and upon receipt of the government’s 100%
+              [communications] design comments. The contractor’s
+              incorporation of the government’s 95% design comments
+              did not relieve ECCI of its responsibility to submit designs
+              in strict conformance with the contract, nor prohibit the
+              government from requiring correction to non-compliant
+              design or construction during any phase of the contract. 118
+
+The government also cites section 3.7.1, which provides that “[t]he work under
+contract will be subject to continuous review by representatives of the Contracting
+Officer.” 119 The government further cites section 3.7.4, “Government Review,” which
+provides that:
+
+
+115
+    R4, tab 5 at 251 (capitalization in original, italicized emphasis added).
+116
+    R4, tab 742; tr. 8/97-98.
+117
+    Tr. 8/97-98.
+118
+    Gov’t br. at 18-19 (emphasis omitted).
+119
+    Gov’t br. at 69-70 ¶ 84 (citing R4, tab 5 at 247).
+
+                                            24
+              The contractor shall not begin construction work until the
+              Government has reviewed the contractor’s design and has
+              cleared it for construction. Clearance for construction does
+              not mean Government approval. 120
+
+        We agree that “clearance for construction” is not immunity from further
+government review. In addition to the sections that the government cites, section
+1.2.1, “Design Submittals,” provides that “[c]learance for construction shall not be
+construed as meaning Government approval,” and that, “[u]nless otherwise indicated,
+the risk for the design is the sole responsibility of the Design-Build Contractor.” 121
+Nevertheless, the question here is whether ECCI, having incorporated the
+government’s comments in response to it 95% design, was entitled to approval of its
+100% communications design, and the clearance for construction that goes with it.
+(Indeed, section 3.8.5 of the contract, Commencement of Construction, provides that
+“[c]onstruction of work may begin after receipt of the clearance for construction
+(Notice to Proceed) for each design phase.) 122 The answer pursuant to section 3.9.2 of
+the contract is yes. 123 We will not speculate upon what would have been the case had
+the government timely approved the 100% communications design (as submitted on
+November 19, 2011), thus clearing that design for construction, and only thereafter
+interjected new comments raising issues with that design. 124
+
+       If the answer were otherwise, section 3.9.2 would be merely aspirational; the
+position that the government expressly took during the hearing of these appeals, but
+notably does not assert in its post-hearing briefing. 125 We do not regard section 3.9.2
+as aspirational; that provision is not “too amorphous to provide any basis to identify
+
+120
+    R4, tab 5 at 247-48; see gov’t br. at 16.
+121
+    R4, tab 5 at 232 (emphasis added).
+122
+    R4, tab 5 at 250 (emphasis added).
+123
+    Contract interpretation aside, as a practical matter, as ECCI points out (app. reply
+        at 32), the designer whom ECCI hired for the project testified that “[t]here is no
+        reason why any of [the government’s] substantive 100% design review
+        comments should not have been given on the 95% design submittal.” Ex. 11
+        at 2, 8. The government does not address that statement.
+124
+    ECCI invokes the duty of good faith and fair dealing in support of its
+        section 3.9.2 argument (app. br. at 42-43). In view of our conclusion here, we
+        need not address that issue. Consequently, the government’s October 16, 2020
+        motion to exclude or strike that invocation, which the government repeats in its
+        December 21, 2020 post-hearing sur-reply brief (gov’t sur-reply at 29), is
+        denied as moot.
+125
+    See tr. 4/108, 230; tr. 6/16.
+
+                                            25
+concrete obligations.” Kellogg Brown & Root Servs., Inc., ASBCA Nos. 59385,
+59744, 20-1 BCA ¶ 37,656 at 182,827. Rather, section 3.9.2 speaks in precise terms.
+Thomas Jefferson Univ. Hosp. v. Shalala, 512 U.S. 504, 517 (1994) (rejecting
+contention that regulation’s language was “precatory” or “aspirational,” and “thus
+lacking in operative force” where it “speaks not in vague generalities but in precise
+terms”).
+
+       For these reasons, we conclude that ECCI is entitled to an excusable delay of
+119 days from November 16, 2012, thorough March 14, 2013, for the government
+having delayed the project by delaying the approval of the 100% communications
+design, at $2,338.99 per day, for a total of $278,339.81 in remitted liquidated damages.
+We have considered the government’s other, related points on this issue, 126 and are not
+persuaded by them, including because many of those points relate to events occurring
+before Mr. Vanoer and Mr. Long made their statements in late 2012. The government
+also points to statements of ECCI in early 2014, regarding other potential delays that
+the government apparently attributes to ECCI, but does so without adequately, if at all,
+identifying the specific periods of such delay. 127 None of this changes our conclusion
+that ECCI is entitled to the remission of 119 days of liquidated damages for excusable
+delay. Moreover, we do not regard this conclusion as precluded by our summary
+judgment opinion regarding the ECP security changes. We note that ECCI’s
+February 12, 2014 claim to the contracting officer for 329 days of delay preceded the
+contracting officer’s April 9, 2014 assessment of liquidated damages, and that the
+government has represented that the Board possesses jurisdiction to entertain ECCI’s
+claim for remission of liquidated damages. 128
+
+          III. Defense Base Act (DBA) Insurance Premium Payments
+
+       ECCI requests $174,124 for allegedly unpaid Defense Base Act (DBA)
+insurance premiums. 129 Specifically, ECCI says:
+
+              Throughout performance of the contract, ECCI and
+              subcontractor Garda World paid DBA insurance premiums
+              to Rutherford. Audits of ECCI’s and Garda World’s
+              advance premium payments determined that ECCI had
+              paid premiums in excess of the premiums actually due in
+
+
+126
+    Gov’t br. at 33-37.
+127
+    Gov’t br. at 38.
+128
+    Gov’t May 11, 2021 filing at 6.
+129
+    App. br. at 29.
+
+                                          26
+              the amount of $42,162, which was refunded to [the
+              government] instead of ECCI.
+
+              Throughout performance of the contract, ECCI was paid
+              $145,415 by [the government], compared to the $277,377
+              in audited actual premium payments made by ECCI and
+              Garda World. Considering the $277,377 in audited
+              premium payments excludes the $42,162 that had been
+              paid by ECCI but refunded to [the government, the
+              government] has underpaid ECCI $174,124 for DBA
+              insurance premiums. 130
+
+       The government says that we lack jurisdiction to entertain ECCI’s DBA claim
+because, it says, ECCI has not presented that claim to the contracting officer. 131 ECCI
+points to several pages of its February 12, 2014 claim to the contracting officer that
+appear to consist of spreadsheets that list costs, including DBA costs. 132 However,
+ECCI does not quote or even reference any language in that claim that explains to the
+contracting officer that ECCI has paid DBA premiums in excess of premiums actually
+due, which excess was refunded to the government instead of to ECCI, and is due to
+ECCI. Consequently, ECCI’s DBA claim is dismissed for lack of jurisdiction. See
+41 U.S.C. § 7103(a).
+
+          IV. Constructive Acceleration
+
+       During the hearing, counsel for ECCI described the status of ECCI’s
+acceleration claims:
+
+              The phase [sic] completion originally had damages in the
+              delay claim, [ASBCA No. 59586], I think it was, related to
+              additional management that came from the phase
+              completion acceleration. There is [sic] damages in that
+              one because of that event.
+
+              Then the directive cost claim, [ASBCA No. 59643], it has
+              damages associated with the requirement to change HVAC
+              suppliers and air freight in those materials to meet these
+              phase completions. Those two claims still have a phase
+
+130
+    App. br. at 29 ¶¶ 146-47 (citations omitted).
+131
+    Gov’t br. at 46.
+132
+    App. reply at 44.
+
+                                            27
+              completion damage component. [ASBCA No.] 60284 was
+              a claim for phase completion, but it had separate damages
+              related to multiple re-commissioning and mobilizing
+              HVAC testers. That one has been dropped. 133
+
+        Counsel for the government agreed with that explanation. 134 However, we are
+not bound by the parties’ representations; indeed, the Board has an obligation to satisfy
+itself of its own jurisdiction. See Weeks Marine, Inc. v. United States, 575 F.3d 1352,
+1359 (Fed. Cir. 2009).
+
+       A. Jurisdiction
+
+        The government says that we are without jurisdiction to entertain the
+acceleration claim that ECCI presents to us, because, the government says, that claim
+has not been presented to the contracting officer. 135 The Board does not possess
+jurisdiction, within a given appeal, to entertain a claim that is new to the appeal. Env’t
+Chem. Corp., ASBCA No. 58871, 15-1 BCA ¶ 36,110 at 176,286-87. However, rigid
+adherence to the exact language or structure of the original claim is not required. Id.
+The Board possesses jurisdiction to entertain claims that arise from the same operative
+facts as those presented to the contracting officer, claim essentially the same relief, and
+merely assert differing legal theories for that recovery. Id. New or modified
+allegations that do not change the operative facts of the claim to the contracting
+officer, or change the essential nature of those facts, do not constitute a new claim. Id.
+And an area of costs in addition to those requested of the contracting officer but
+related to the operative facts of the claim presented to the contracting officer is within
+our jurisdiction. See Am. Consulting Servs., Inc., ASBCA No. 52923, 00-2 BCA
+¶ 31,084 at 153,485; Miller Elevator Co. v. United States, 30 Fed. Cl. 662, 701
+(1994).
+
+
+       In its February 12, 2014 claim to the contracting officer (which claim is the
+predicate for this appeal, ASBCA No. 59586), ECCI presented a constructive
+acceleration claim that consists of assertions that the government: (1) delayed the 95%
+and 100% design process; (2) held ECCI to the original schedule; (3) directed extra-
+contractual work; (4) issued unsatisfactory interim performance ratings; (5) assessed
+liquidated damages; (6) criticized ECCI for allegedly being late; 136 and (7) “directed
+
+133
+    Tr. 5/87.
+134
+    See tr. 5/87.
+135
+    Gov’t br. at 43-44.
+136
+    R4, tab 72 at 9.
+
+                                            28
+the acceleration of the turnover of Building I” 137 and the “phase[d] . . . turnover of
+facilities.” 138 ECCI alleged that those actions “forced ECCI to augment staff to
+manage the extensive security efforts and additional work,” 139 and that “subsequent to
+the Government’s direction to accelerate and phase the turnover of facilities, ECCI
+determined it was unable to use the approved Carrier brand [HVAC units] and had to
+switch to more expensive Aaon and Trane units in order to meet the directed
+accelerated and phased turnover of facilities.” 140
+
+       By comparison, in its briefing to the Board in this appeal, ASBCA
+No. 59586, 141 ECCI sets forth an acceleration claim consisting of the following
+assertions: (1) “[b]ecause of the late issuance of modifications for time extensions,
+ECCI accelerated performance, including air freighting Pre-Engineered Buildings and
+HVAC equipment,” and by adding additional management staff, 142 (2) “[i]n early
+2013, [the government] . . . directed ‘phased completion’ and sequenced handover of
+buildings; this accelerated the project, 143 (3) “ECCI notified the government that [the
+government’s] direction for phased completion had accelerated ECCI’s schedule and
+was a change,” 144 (4) the government directed ECCI to meet accelerated phased
+completion dates, 145 (5) because of the “direction to accelerate and handover buildings
+out of sequence,” ECCI “switch[ed] HVAC suppliers and airfreight[ed] equipment,”
+and “[m]obiliz[ed] significantly more management staff to focus on priority
+buildings”; 146 and (6) “ECCI provided notice that it was being accelerated, and
+incurred additional costs to air freight PEBs and add management resources, which
+were necessary to meet the unreasonably short schedule.” 147
+
+137
+    R4, tab 72 at 48, 62-63.
+138
+    R4, tab 72 at 161.
+139
+    R4, tab 72 at 11.
+140
+    R4, tab 72 at 45. ECCI went on to say that “[t]his issue will be addressed in a
+       follow-on [Request for Equitable Adjustment] for the construction costs
+       associated with the Government’s improper direction to change the
+       requirements of the contract. Only the costs associated with the delays
+       discussed above are included in this REA.” Id.
+141
+    ECCI sets forth additional acceleration allegations in ASBCA No. 59643. See app.
+       br. at 86-87.
+142
+    App. br. at 19-20 ¶¶ 81, 87 (citations omitted).
+143
+    App. br. at 19 ¶ 83 (citations omitted).
+144
+    App. br. at 19 ¶ 85 (citations omitted.
+145
+    App. br. at 19 ¶ 86 (citations omitted).
+146
+    App. br. at 19 ¶ 87 (citations omitted).
+147
+    App. br. at 64. We understand the term “PEB” to refer to “Pre-Engineered
+       Building.”
+
+                                           29
+        Distilling the assertions recited above, we conclude that the constructive
+acceleration claim set forth in ECCI’s February 12, 2014 claim and its post-hearing
+briefing share the following same set of operative facts: that the government directed
+the phased turnover, handover, or completion of the buildings to be constructed,
+causing ECCI to increase management staff and purchase alternative air conditioning
+equipment. 148 Because, except for this “phased handover” element, the two claims are
+not based upon the same set of operative facts, we possess jurisdiction in this appeal to
+entertain only the phased handover claim. Consequently, all but the phased handover
+claim—the remainder having to do with an alleged government-directed requirement
+to use UL-listed refrigerant—is dismissed for lack of jurisdiction. We further
+conclude that ECCI’s specific requests here for compensation for having air-freighted
+HVAC equipment and PEBs are related to the operative facts of the constructive
+acceleration claim presented to the contracting officer, and so are within our
+jurisdiction. 149
+
+       B. Merits
+
+       Regarding the merits of ECCI’s phased-turnover constructive acceleration
+claim, constructive acceleration often occurs when the government demands
+      150
+
+compliance with an original contract deadline, despite excusable delay by the
+contractor: a contractor must prove that: (1) the contractor encountered a delay that is
+excusable under the contract; (2) the contractor made a timely and sufficient request
+for an extension of the contract schedule; (3) the government denied the contractor’s
+request for an extension or failed to act on it within a reasonable time; (4) the
+government insisted on completion of the contract within a period shorter than the
+period to which the contractor would be entitled by taking into account the period of
+excusable delay, after which the contractor notified the government that it regarded the
+alleged order to accelerate as a constructive change in the contract; and (5) the
+contractor was required to expend extra resources to compensate for the lost time and
+remain on schedule. IAP Worldwide Servs., Inc., ASBCA Nos. 59397, et al., 17-1
+
+
+148
+    The government does not, in reliance upon the February 24, 2020 dismissal of
+       ASBCA No. 60284 with prejudice, assert any affirmative defense to ECCI’s
+       assertion in this appeal of a phased-turnover acceleration claim.
+149
+    We note that in its May 2, 2014 claim to the contracting officer and in ASBCA
+       No. 59643, ECCI also seeks the cost of airfreighting HVAC units. See app. br.
+       at 82 ¶ 256; R4, tab 75 at 7.
+150
+    App. br. at 62-64; gov’t br. at 44-45, 118.
+
+                                           30
+BCA ¶ 36,763 at 179,158. The government apparently contests only the fourth and
+fifth of those elements, effectively conceding the first three. 151
+
+       1. Air-Freighting PEBs
+
+        Presumably regarding whether ECCI was required to expend extra resources to
+compensate for the lost time and remain on schedule, and specifically concerning the
+air-freighting of PEBS, the government points the finger at ECCI, saying that ECCI’s
+subcontractor did not order the PEB buildings “in a timely manner, left the site in
+November 2011, and was terminated by ECCI in December 2011.” 152 ECCI does not
+address that contention. 153 On September 4, 2011, ECCI informed its subcontractor,
+Folad Masih Co. (FMC), that ECCI was concerned with FMC’s progress regarding
+Pre-Engineered Buildings (PEBs). 154 On October 4, 2011, ECCI wrote again to FMC
+of ECCI’s concerns with FMC’s progress. 155 On November 27, 2011, ECCI informed
+FMC that PEBs would be “removed and terminated” from FMC’s subcontract. 156 On
+December 10, 2011, ECCI terminated FMC’s contract, stating that “FMC[’]s lack of
+performance to date on the awarded contract has prevented ECCI from competing the
+associated tasks that were awarded and has significantly delayed the project activities
+that are required to complete the project in a timely manner.” 157 ECCI does not, in this
+appeal, address FMC’s performance; consequently, we are not persuaded that
+government constructive acceleration was responsible for ECCI air freighting PEBS to
+Afghanistan, and we deny this component of ECCI’s constructive acceleration claim.
+
+       2. Air-Freighting HVAC Equipment
+
+       With respect to ECCI’s claim that government-caused constructive acceleration
+required ECCI to air-freight HVAC equipment, ECCI’s post-hearing briefing does not
+identify any amount for that claim. The government points us to an ECCI spreadsheet
+presented during the hearing, 158 which lists $372,796 for “air shipment,” but identifies
+that amount as for “Airshipment of PEB.” 159 ECCI having failed to identify a specific
+
+
+151
+    See gov’t br. at 42.
+152
+    Gov’t br. at 42 ¶ 51.
+153
+    App. br. at 41-43.
+154
+    R4, tab 164 at 1.
+155
+    R4, tab 945.
+156
+    R4, tab 947 at 1.
+157
+    R4, tab 948.
+158
+    Gov’t br. at 2, 42 ¶ 49; tr. 1/290; see app. supp. R4, tab 305.
+159
+    App. supp. R4, tab 305.
+
+                                            31
+ dollar amount for air-freighting HVAC equipment, that claim is denied. See ESCgov,
+ Inc., ASBCA Nos. 61358 et al., 17-1 BCA ¶ 36,772 at 179,189.
+
+                                   CONCLUSION
+
+        We have considered the parties’ other arguments and find them unnecessary to
+ address. We dismiss for lack of jurisdiction ECCI’s claims for additional
+ compensation for (1) allegedly unpaid Defense Base Act (DBA) insurance payments,
+ and (2) the claim that an alleged government-directed requirement to use UL-listed
+ refrigerant constructively accelerated contact performance. The appeal is otherwise
+ sustained in part and denied in part: ECCI is awarded $278,339.81, plus interest in
+ accordance with 41 U.S.C. § 7109, from February 12, 2014, the putative date that the
+ contracting officer received ECCI’s claim, until the date of payment.
+
+           Dated: April 18, 2025
+
+
+                                               TIMOTHY P. MCILMAIL
+                                               Administrative Judge
+                                               Armed Services Board
+                                               of Contract Appeals
+
+I concur                                         I concur
+
+
+OWEN C. WILSON                                   MICHAEL N. O’CONNELL
+Administrative Judge                             Administrative Judge
+Acting Chairman                                  Vice Chairman
+Armed Services Board                             Armed Services Board
+of Contract Appeals                              of Contract Appeals
+
+
+                                          32
+       I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA No. 59586, Appeal of ECC
+International Constructors, LLC, rendered in conformance with the Board’s Charter.
+
+      Dated: April 18, 2025
+
+
+                                                 PAULLA K. GATES-LEWIS
+                                                 Recorder, Armed Services
+                                                 Board of Contract Appeals
+
+
+                                            33

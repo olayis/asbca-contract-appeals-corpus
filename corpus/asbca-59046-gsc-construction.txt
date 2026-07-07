@@ -1,0 +1,963 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeals of --                                   )
+                                                )
+GSC Construction, Incorporated                  )      ASBCA Nos. 59046, 59957
+                                                )
+Under Contract No. W9126G-11-D-0061             )
+
+APPEARANCE FOR THE APPELLANT:                          James S. DelSordo, Esq.
+                                                        Argus Legal, PLLC
+                                                        Manassas, VA
+
+APPEARANCES FOR THE GOVERNMENT:                        Michael B. Goodman, Esq.
+                                                        Engineer Chief Trial Attorney
+                                                       Jason R. Chester, Esq.
+                                                       Ronald J. Goodeyon, Esq.
+                                                       Stephanie J. Milburn, Esq.
+                                                        Engineer Trial Attorneys
+                                                        U.S. Army Engineer District, Tulsa
+
+              MAJORITY OPINION BY ADMINISTRATIVE JUDGE PAGE 1
+
+       In this construction-contract case, GSC Construction, Inc. (GSC, appellant or the
+contractor) seeks additional compensation from the government. It asserts that the
+government ordered it to perform extra-contractual work for which it has not been paid,
+and also seeks the release of liquidated damages and retainage withheld by the
+government. Both entitlement and quantum are before the Board. 2 Familiarity is
+presumed with the Board's denial of the government's motion for summary judgment in
+GSC Construction, Inc., ASBCA No. 59046, 14-1BCA135,739. We grant the appeals
+~p~.                                                                                    .
+                                    FINDINGS OF FACT
+
+The Contract, Relevant Request for Proposals (RFP) Amendments, and Task Order
+
+       As described in 1 1.1 GENERAL DESCRIPTION OF WORK, the solicitation was
+for "Base Multiple Award Task Order Contracts (MATOC) for Design and Construction
+of Warehouses in the West of the Mississippi." The Department of the Army (Army or
+
+
+1
+    These appeals were heard by Judge Timothy P. Mcllmail.
+2 See, e.g., tr. 1/61; see also the Board's Order of May 19, 2015 concurring with the
+
+·        parties' joint status report of May 14, 2015 requesting that entitlement and
+         quantum be heard in a single proceeding.
+ government) intended to award more than one contract, with task orders for individual
+ projects. (R4, tab 4(e) at 1740)
+
+<          On September 15, 2011, the Army awarded Task Order 0001 (the task order) to
+  GSC. This was done pursuant to Contract No. W9126G-11-D-0061 (the contract) (R4,
+  tab 4(p) ), an indefinite delivery, indefinite quantity (ID/IQ) contract for work at
+  Ft. Sill, Oklahoma. The task order amount was $11,9~1,460 (id. at 3377). The contract
+- as awarded incorporated by reference "GSC' s proposal dated 29 August 2011,
+  solicitation W9126G-1 l-R-0053, and all twelve (12) amendments." Contract line items
+  (CLINS) that described particular work were each priced in a fixed, lump sum amount.
+  (Id. at 3378) According to§ 01 10.00,, 2.0 SCOPE, the purpose of the contract was to
+  "Construct a combined Central Issue Facility (CIF) for permanent party troops and
+  soldiers in Advanced Individual Training (AIT)" (id., tab 4(e) at 1768).
+
+       Contract § 00 72 00, , 1.3 PROPOSED BETTERMENTS (AUG [l 9]97) also made
+ GSC's proposal part of the contract:
+
+               (a) The minimum requirements of the contract are identified
+               in the Request for Proposal. All betterments offered in the
+               proposal become a requirement of the awarded contract.
+               (b) "B.~tterme_nt" is defined as any component or system
+               which exceeds the minimum requirements stated in the
+               Request for Proposal. This includes all betterments identified
+               in the proposal and/or all Government identified betterments.
+
+· (R4, tab 4{a) at 32; see also§ 00 73 00 (ID/IQ) SPECIAL CONTRACT REQUIREMENTS,
+  , 1.3, id. at 32)
+
+        Paragraph 1.10 BASE ID/IQ CONTRACT specifically applied the "requirements of
+ the Base ID/IQ Contract Division 00 PROCUREMENT AND CONTRACTING
+ REQUIREMENTS sections and documents and Division OI GENERAL
+ REQUIREMENTS sections ... except as otherwise specified in the task order documents"
+ (R4, tab 4(p) at 3388).
+
+        RFP Amendment 7, which was ~ffective March 28, 2011 (R4, tab H at 3150),
+ required at, 2.b the following change to the Statement of Work (SOW): "In paragraph
+ 6.4.6.1, replace all 'Infrastructure Contractor' with 'D/B [Design/Build] Contractor"' (id.
+ at3151).
+
+        Contract§ 014504.00 10,, 3.8 COMPLETION INSPECTION provides in, 3.8.1 for
+ preparation of a "punch list of items which do not conform to the approved drawings and
+ specifications .... " After these deficiencies were corrected, the parties were to proceed to
+
+
+                                               2
+ a "Pre-Final Inspection ('ti 3.8.2) then a Final Acceptance Inspection ('ti 3.8.3)." (R4,
+ tab 4(p) at 3556)
+
+          Among standard contract clauses from the Federal Acquisition Regulation (FAR)
+ is 52.211-10 COMMENCEMENT, PROSECUTION AND COMPLETION OF WORK (APR 1984).
+ At 't[ (a), this clause requires the design and construction of the CIF to be completed no
+ later than 519 days after receipt of notice to proceed. (R4, tab 4(p) at 3 3 83) That notice
+ was issued November 17, 2011 (id., tab Q).
+
+        Other :fAR clauses incorporated by reference were 52.236-21 SPECIFICATIONS
+ AND DRAWINGS FOR CONSTRUCTION (FEB 1997) and 52.236-21 SPECIFICATIONS AND
+ DRAWINGS FOR CONSTRUCTION ALT 1 (APR 1984) (R4, tab 4(a) at 9). See also
+ § 00 72 00 SPECIAL CONTRACT REQUIREMENTS 't[ 1.2 DESIGN/BUILD CONTRACT - ORDER
+ OF PRECEDENCE (AUG [19]97), which incorporates the "successful offeror's accepted
+ proposal" as part of the contract (id. at 3.2).                             ·
+
+        In accordance with 't[ (e) of FAR 52.232-5 PAYMENTS UNDER FIXED-PRICE
+ CONSTRUCTION CONTRACTS (SEP 2002), also incorporated by reference, the contracting
+ officer (CO) was allowed to "retain a maximum of 10 percent of the amount of the
+ payment [due the contractor] until satisfactory progress is achieved" (R4, tab 4 at 9).
+
+          FAR clauses incorporated by full text included 52.211-12 LIQUIDATED DAMAGES-
+ CONSTRUCTION (SEP 2000) (R4, tab 4(a) at 12). This provision.is reiterated at§ 00 73 10,
+ 'ti 1.3, which allowed the government to assess against GSC "$1280 for each calendar day
+ of delay until the work is completed or accepted ... " (R4, tab 4(p) at 3384).
+
+       The contract also included FAR 52.211-10 (R4, tab 4(a) at 12). Relevant here is
+ added note (3), which states:
+
+               (3) 0 & M Manuals. 0 & M Manuals shall be developed
+               and submitted in accordance with Contract Section O1 78
+               02.00.10 Closeout Submittals, at least 60 calendar days prior
+               to the scheduled contract completion date. Upon approval of
+               fully developed O & M Manuals, the Contractor shall have
+               earned the withholding amount shown for "Operation and
+               Maintenance Manuals" in Contract Section 01 78 02.00
+               Closeout Submittals.
+
+ (Id., tab 4(p) at 3383-84)
+
+         In§ 00 73 10, TASK ORDER SUPPLEMENTAL CONTRACT REQUIREMENTS, 't[ 1.4
+  contains Defense Federal Acquisition Regulation (DFARS) clause, 252.236-7001
+. CONTRACT DRAWINGS, MAPS, AND SPECIFICATIONS (AUG 2000). Of particular interest
+
+
+                                               3
+are 1 1.4(c )( 1), which states that "Large-scale drawings shall govern small-scale
+drawings" and 11.4(d), which provides:
+
+               Omissions from the drawings or specifications or the
+               misdescription of details of work which are manifestly
+               necessary to carry out the intent o.f the drawings and
+               specifications, or that are customarily performed, shall not
+               relieve the Contractor from performing such omitted or
+               misdescribed details of the work. The Contractor shall
+               perform such details as if fully and correctly set forth and
+             \__,described in the drawings and specifications.
+
+(R4, tab 4(p) at 3384-85)
+
+        SOW 16.3.1.4 states that the infrastructure drawings were being provided to the
+D/B contractor as a reference "for information only" (R4, tab 4( e) at 1817). SOW 1 6.3 .1.5
+reiterates that "infrastructure drawings are provided as 'for information only' reference"
+(id., tab 4(p) at 34 72).
+
+       sow 16.3 .2 SITE STRUCTURES AND AMENITIES calls for the contractor to:
+"Provide one dumpster pad and enclosure per facility" (R4, tab 4(e) at 1818).
+
+     In relevant part, RFP Amendment 4, § 0110 00,_SOW 16.4.6 BASE UTILITY
+INFORMATION apprises the contractor of the following:
+
+              6.4.6.1 Utilities: The Installation's DPW supervises
+              infrastructure and utilities. Most utilities are privatized ....
+              Existing utility services such as potable water [and] sanitary
+              sewer... are not located near the site. Closest locations for
+              tie-ins are shown on drawings in Appendix J. Coordinate and
+              plan utilities with the A/E Integrator through the Contracting
+              Officer. The site plan contained in Appendix J provides
+              utility main routing and. general orientation for points of ·
+              connection for each facility. Prior to final design, verify the
+              locations and sizes of utility services with the A/E Integrator.
+
+(R4, tab 4(e) at 1819)
+
+        The SOW furnished in RFP Amendment 4 provides specifications for water mains
+in 1 6.4.6.1( C):
+
+              Water mains are shown on the drawings at Appendix J. .. . The
+              Infrastructure Contractor will provide the potable water
+
+
+                                             4
+             service between the main line to the 5-foot line of the
+             building. Provide potable water service from the 5-foot line
+             to the facility and within the building.... The Government will
+             provide primary or main water pipe distribution, including .
+             the water meter and vault. Design and construct water
+             service lines from the 5-foot line to the building to meet the
+             utility provider's installation details and specification. The
+             Government will provide the Post Indicator Valve (PIV) and
+             any bollards required for protection and route the fire water
+             line (separate from the domestic supply) to 5 feet from the
+             building ....
+
+(R4, tab 4(e) at 1819; see also id., tab4(p) at 3474) (emphasis added)
+
+       SOW i16.4.6.l(d) provides:
+
+             The Infrastructure Contractor will design and construct the
+             sanitary sewer service line between the sanitary sewer main to
+             5 feet from the building including cleanout or manhole.
+             Sanitary sewer mains are shown on the drawings in
+             Appendix J. Coordinate points of connection through the CO
+             with the service provider [American Water Enterprises]
+             (AWE).
+
+(R4, tab 4(p)_at 3474)
+
+       RFP Amendment 4 introduced Appendix EE, "Infrastructure Drawings," which
+includes a drawing entitled "OVERALL PROJECT CONSTRUCTION ACCESS" (R4,
+tab 4(p) at 4090, 4093). "GENERAL PROJECT SCOPE NOTES," note 4 "WATER
+SUPPLY AND DISTRIBUTION" states in relevant part:
+
+             MULTIPLE EXISTING WATER LINES WILL NEED TO
+             BE REROUTED AS PART OF THIS PROJECT. THERE IS
+             AN EXISTING 12" TRANSITE AND 24" CAST IRON
+             WATER LINE RUNNING THRU THE FOOTPRINT OF
+             THE NEW FACILITY. THE 12"LINE WILL BE
+             REMOVED AND REROUTED AROUND THE SOUTH
+             SIDE OF THE FACILITY. AN 8" LOOP WILL BE
+             CONNECTED TO THIS LINE TO SERVE THE
+             FACILITY WATER DEMANDS. THE EXISTING
+             24" CAST IRON WATER LINE.IS ABANDONED .... THE.
+             PORTION OF THIS LINE UNDER THE FOOTPRINT OF
+             THE NEW FACILITY WILL BE REMOVED.'. AN
+
+
+                                            5
+              EXISTING 24" WATER LINE UNDER THE NEW POV
+              PARKING LOTS WILL NEED TO [BE] REMOVED.
+
+(Id. at 4093) (capitals in original, bold added as emphasis)
+
+       Appendix EE includes a drawing entitled "UTILITY PLAN." Note 2 of that
+drawing states that the "CONTRACTOR WILL PROVIDE ANY SANITARY SEWER
+ELEMENT REQUIRED OUTSIDE 5' OF THE BUILDING INCLUDING A
+CLEANOUT OR MANHOLE AND CAP FOR FUTURE CONNECTION." (R4,
+tab 4(p) at 4102)
+
+       The drawings in Appendix EE provided direction supplementing the water main
+specifications:
+
+              4. WATER.SUPPLY AND DISTRIBUTION. AS PART OF
+              THE PROJECT, THE EXISTING FIRE HYDRANTS IN
+              THE AREA ARE TO BE TESTED AND THE DATA
+              PROVIDED TO [AWE] TO CHECK AGAINST THEIR
+              MODEL. AFTER DISCUSSION WITH A WE IT HAS.
+              BEEN DETERMINED THERE ARE NO CONNECTION
+              POINTS OR FIRE HYDRANTS ON THE 12" WATER
+              LINE AVAILABLE FOR FLOW TESTING .... THERE IS
+              AN EXISTING 12" TRANSITE AND 24" CAST IRON
+              WATER LINE RUNNING THRU THE FOOTPRINT OF
+              THE NEW FACILITY. THE 12" LINE WILL BE
+              REMOVED AND REROUTED AROUND THE SOUTH
+              SIDE OF THE FACILITY. AN 8" LOOP WILL BE
+              CONNECTED TO THIS LINE TO SERVE THE FACILITY
+              WATER DEMANDS. THE EXISTING 24" CAST IRON
+              WATERLINE IS ABANDONED.
+
+(R4, tab 4(e) at 2438)
+
+       Keyed notes 1 and 4 to Drawing Cl20 [Dwg. Cl20] in Appendix EE provide:
+
+              KEYED NOTE 1: "CONTRACTOR WILL PROVIDE
+              DOMESTIC WATER LINE AND WATER METER SET IN
+              A VAULT OUTSIDE THE FACILITY. CONTRACTOR
+              WILL TAKE DOMESTIC WATERLINE AND ROUTE
+              WITHIN THE BUILDING THROUGH A BACKFLOW
+              PREVENTOR [SIC] (GENERALLY LOCATED IN
+              MECHANICAL ROOM)." .
+
+
+                                             6
+              KEYED NOTE 4: "CONTRACTOR WILL PROVIDE THE
+              PIV AND ROUTE FIRE WATERLINE (SEPARATE FROM
+              THE DOMESTIC SUPPLY). CONTRACTOR WILL TAKE
+              FIRE WATER LINE AND ROUTE WITHIN THE
+              BUILDING AND REQUIRED ELEMENTS TO PROVIDE
+              THE FIRE PROTECTION SYSTEM."
+
+(R4, tab 4(e) at 2447)
+
+       sow,i 6.4.6.1, ,i (d) states:
+              (d) Sanitary Sewer- With regard to the sanitary sewer,
+              Amendment 4 provides: Sanitary Sewer: The Infrastructure
+                                                 J
+
+              Contractor will design and construct the sanitary sewer
+              service line between the sanitary sewer main to 5 feet from
+              the building, including cleanout or manhole. Sanitary sewer
+              mains are shown on the drawings' in Appendix [EE].
+              Coordinate points of connection through CO with the service
+              provider (A WE).
+
+(R4, tab' 4( e) at 1819) ( emphasis added)
+
+   _ The Overall Project Construction Access drawing at note 5, "SANITARY
+SEWER," states:
+
+              THE NEW MAINS WILL BE 8" WITH THE NEW
+              SERVICE LINES 6". THE NEW MAINS AND SERVICE
+              LINES WILL HAVE PRE-CAST MANHOLES
+              INSTALLED TO ALLOW FOR THE CONNECTION OF
+              THE NEW FACILITY.
+
+(R4, tab 4(p) at 4093)
+
+      The Utility Plan drawing, at note 4, states that the "CONTRACTOR WILL
+PROVIDE THE PIV AND ROUTE FIRE WATERLINE (SEPARATE FROM THE
+DOMESTIC SUPPLY). CONTRACTOR WILL TAKE FIRE WATER LINE AND
+ROUTE WITHIN THE BUILDING." It required GSC to provide for the fire protection
+system. (R4, tab 4(p) at 4102)
+
+GSC's April 7, 2011 Proposal
+
+      Mr. Brannon Cundey of GSC helped estimate the job for appellant and served as a
+scheduler and project manager for the contract (tr. 2/13-14). He testified that GSC
+
+
+                                             7
+interpreted contract provisions for the sanitary sewer service line (id. at 2/24; R4, tab 4( e)
+at 1819) as changed by Amendment 7 (R4, tab 4h), as well as the information on Dwg.
+CI20, keyed note 2 (R4, tab 4(c) at 2447). GSC understood this to require the contractor
+to build sewer lines out to the manholes identified on Dwg. CI20, where the sewer main
+would be provided by the government (tr. 2/79-80).
+
+       GSC 's proposal of April 7, 2011 contained the following relevant information
+pertaining to the sanitary sewer:
+
+              A new 6 inch sanitary sewer will exit the proposed building
+              along the north side.and extend approximately 60 ft to the·
+              north into a new manhole and then tum east and travel to the
+              next manhole approximately I40lf [lineal feet] at
+              approximately 2.0% slope. Another 6 inch sanitary line,
+              approximately 80 lfwill exit the building along the east side
+              of the building and travel to the same manhole that the
+              northern lines ties into. At this manhole the sanitary line size
+              will be increased to an 8 inch line and the [sic] travel to the
+              existing sanitary manhole, approximately 240lf at 1.0%, the
+              existing manhole is located [at] the northeast of the site that
+              serves the existing building ....
+
+(R4, tab 4G) at 3321)
+
+        Appellant's proposal also contained the following regarding the fire protection
+loop:
+
+              A new 12 inch PVC water line waterline [sic] will be,installed
+              and routed approximately 680lf as shown on the utility
+              plans.... An 8 inch PVC fire loop will then circumvent the
+              building approximately 1500 lfto complete the required fire
+              protection loop.... There are three new fire hydrants.... These ·
+              will have approximately I20lf of 6 inch PVC and ductile iron
+              pipe to complete the tie in.
+
+(R4, tab 4G) at 3321)
+
+       Although the RFP and contract called for an 8-inch pipe to be used for the fire
+protection loop (see R4, tab 4(p) at 4090, 4093) and GSC proposed to install the fire loop
+using this size (id., tab 4G) at 3321), GSC later "upsized" it to a IO-inch pipe (tr. 1/49-51).
+Appellant offered no proof that it was required by the government to change this 8-inch
+pipe to a IO-inch one. Counsel for GSC said that the change in pipe size was not part of
+
+
+                                               8
+    the claim (tr. 2/16; see also R.4, tab 3 at 0002 discussing the 8-inch line as part of the
+    claim). 3
+
+    The Truck Turnaround and Beneficial Occupancy of the CIF
+
+           Section 2.0 SCOPE stated that "Design requirements and assumptions include but
+    are not limited to the following .... " At 1 (g), this provision called for the contractor to
+    "[a]ssume that supply trucks are tractor-trailers hauling 53 feet long shipping containers."
+    (R4, tab 4(p) at 3422)
+
+            At the hearing, GSC furnished a photograph showing a tractor-trailer parked at the
+    loading dock. GSC's "on-site superintendent project manager of the construction
+    activities" testified that he took the photograph sometime between the first and third
+    weeks of October, 2013. (App. ex. 18; tr. 2/76, 91-94)
+
+           GSC asserts that the government required it to perform additional work on a
+   number of items, including increasing the size of the loading dock area (see app. exs. 19,
+   29-31; tr. 3/11-14 ). The contractor says that it had to relocate the dumpster pad_ after
+   finalizing the.construction design and drawings because the government insisted that the
+_, contract required a turnaround area in the loading dock large enough to accommodate a
+   53-foot long truck (app. br.at6121 citing R4, tabs 27- 28).
+
+           According to a photograph taken by the contractor that is date-stamped
+    "10/2/2013" (app. ex. 27), the government had installed office furniture including cubicle
+    setups by that date. This was in the administrative area of the CIF. (Tr. 2/43-45)
+
+           The CO's representative (CbR) notified GSC on November 21, 2013 that the
+    previously-installed truck turnaround was found to be deficient during the delivery of
+    government-furnished storage rack systems to the warehouse. According to the
+    government, "A tractor-trailer hauling a 53 ft long shipping container is unable to enter
+    the space and maneuver to the loading dock within the confines of the aprons and
+    driveways provided." Appellant was told that a design defect resulting from a previously
+    approved deviation for a dumpster pad "did not become obvious until it was seen that the
+    space provided did not meet the required performance criteria." The COR called for
+    immediate corrective action and said that payment would not be approved until "this
+    deficient work" was corrected. (R4, tab 38)
+
+,          GSC took exception to the government's rejection of the turnaround. It reminded
+    the government that the design, which included the dumpster pad location, was
+
+
+    3
+        As counsel for appellant confirmed for the Board, ASBCA No. 59046 concerned "the
+             sanitary sewer line, the 12-inch water line, the 24-inch water line, [and] the
+             10-inch fire loop ... " (tr. 2/5, 9-10).
+
+                                                   9
+previously approved. (R4, tab 40) The COR informed the contractor that having the
+tractor-trailer back up from Randolph Road to the loading dock "does not meet the design
+requirement" (id., tab 42). On January 16, 2014, the CO issued a "Show Cause Notice"
+to GSC over this issue, and warned of possible termination of the contract for default if
+not corrected (id., tab 50).
+
+        The government advised on January 30, 2014 that GSC's design accommodated a
+truck turning radius of only 42.5 feet, and not 53 feet as required (R4, tab 55). The
+contractor replied on February 5, 2014, and disagreed with the CO's position. It
+reminded the government that work to date had been done with the government's
+approval, and denied that the contract required a design that allowed a truck to make a
+single point tum to access the loading dock (id., tab 58). The government's letter of
+February 19, 2014 said that it had never required a single-point tum, and restated that
+prior acceptance of work was not conclusive where deficiencies were later discovered
+(id., tab 62).
+
+       Mr. McKnight testified that the government had installed large racks in the
+warehouse and stocked that area before it raised alleged deficiencies in the truck
+turnaround. He said he looked at the daily reports for either December 27 or 28, 2013,
+and confirmed that the building was then being used. (Tr. 1/67-69) ·
+
+Final Completion and Punch List Items
+
+       A November 6, 2013 memorandum from the Boatwright Company, PA
+(Boatwright), which served as GSC's "commissioning agent" (tr. 2/66-67, 69-70),
+assessed "system components [that] should be completed as soon as possible." Items to
+be remedied included ductwork in the safe areas, boiler # 1 (although boilers #2 and #3
+were operational and might suffice), the mini-split system that cooled the server room,
+and balancing of the secondary heating hot water pumps ( although the differential
+pressure was being controlled by other means). Boatwright observed that only a partial
+review could be done for the ''local HVAC DDC system." Despite these shortcomings, it
+was Boatwright's "professional opinion that this facility can be used for its intended
+purpose." (App. ex. 19)
+
+        The government repeatedly reminded the cmitractor that certain contract
+requirements, including punch list items, remained incomplete, but the contractor took
+exception to this (see, e.g., R4, tabs 59-61 ). GSC told the government that Boatwright
+previously had opined that none of the missing items should hold up building acceptance
+(id., tab 60).
+
+
+                                           10
+The Claims and the Contracting Officer's Decisions
+
+        On March 15, 2012, GSC submitted,Request for Information 0014 (RFI-0014),
+asking for guidance: "Amendment 4· introduced new requirements to the RFP regarding
+the site utilities in specification section 01 10 00 para 6.4.6. Should GSC disregard the
+RFP specifications regarding the utilities and proceed with the verbage [sic] of GSC' s ·
+narrative regarding Site Utilities?" (R4, tab 5)
+
+       On March 26, 2012, the Administrative Contracting Officer (ACO) directed GSC
+"to design and install all items referenced in the RFP dealing with the 'infrastructure
+contractor.'" He continued that, in accordance with GSC's "proposal and the awarded
+contract, with all amendments, I consider the design and construction of all items
+associated with the infrastructure contractor as belonging [t]o the D/B Contractor." .(R4,
+tab 6)
+
+       GSC disagreed with this in its March 27, 2012 request for a CO's decision:
+
+              The correspondence received [from the ACO] on 3-26-12
+              states GSC is to proceed with designing and installing all of
+              the utilities for the project. The contract documents issued by
+              the government during the RFP process regarding
+              responsibility for the infrastructure of this project state in fact
+              almost the exact opposite. Amendment 4 para 5.2.5
+              "Utilities" references para. 6.4.6 "Base Utility Information"
+              and this describes all of the contractor's responsibility clearly.
+
+(R4, tab 7 at 1)
+
+       GSC' s request continued:
+
+              GSC feels that the specifications clearly state the utility
+              requirements for the infrastructure of the project and_GSC is
+              asking for a Contracting Officer['s] Final Decision [COFD]
+              on GSC's positions as stated above. GSC has found no
+              information in any other amendment altering the "Base
+              Utility Requirements." GSC believes that it does not have
+              any responsibility beyond the requirements of specification
+              section 01 10 00 para. 6.4.6.1. GSC estimates the additional
+              work as directed by your office for the water mains, sanitary
+              sewer, electrical distribution primary, and additional
+
+
+                                              11
+              communications is $502,907.50 and will also require a 90 day
+              contract extension.
+
+(R4, tab 7 at 2)
+
+       Although the parties met on May 17, 2012, the CO did not respond to GSC's
+request. On June 13, 2012, the contractor reiterated its concerns and again requested a
+COFD regarding these issues. (R4, tab 8)                                      ,
+
+       The CO on August 22, 2012 issued a "Letter of Direction," also referenced as "SL
+#0007," in response to GSC's request of March 27, 2012. The CO said that a COFD was ·
+"only rendered for Certified Claims," 4 but agreed to issue a "Contracting Officer's
+Decision pursuant to your request." Although the CO directed GSC to perform in a
+certain manner, the document was not styled as a COFD nor did it recite the contractor's
+appeal rights. (R4, tab 9) 5
+
+       The CO interpreted SOW ,r 6.4.6.l(c) to mean that "the Government [would]
+provide primary or main water pipe distribution, including water meter and vault." It
+would also "provide the Post Indicator Valve (PIV) and any bollards required for
+protection and route the fire water line (separate from the domestic supply) to 5 feet from
+the building." As the "Infrastructure/D/B Contractor," GSC was required to coordinate
+points of contact with "service provider" (AWE). Appellant also had to provide potable
+water service "between the main line to the 5-foot line ofthe building" as well as "from
+the 5-foot line to the facility and within the building, through a backflow preventer."
+GSC was told that it was responsible for the design and construction of all building and
+site work depicted in Appendices EE and FF. (R4, tab 9 at 7-8)
+
+       The CO stated that "The Government will provide primary or main water pipe
+distribution, including the~meter and vault," but noted that there was "a difference
+between the drawings and specifications in reference to the meter and vault (Refer to
+Keyed Note 1 in [Dwg.] Cl20)." The CO resolved this discrepancy by telling GSC that
+"In accordance with the contract, specifically FAR Clause 52.326.21, the specifications
+shall govern." Therefore, "GSC is to design and construct water service lines from the
+
+
+4 The Contract Disputes Act of 1978 at 41 U.S.C. _§ 7103(a)(3) requires a contracting
+
+       officer to issue a written decision on each claim by a contractor against the Federal
+       Government. In accordance with 41 U.S.C. § 7103(b)(l), the contractor must
+       properly certify claims of more than $100,000.
+5
+  Although the CO did not separately number the paragraphs in this correspondence,
+       GSC's March 14, 2013 "Request for Contracting Officer Final Decision" (R4,
+       tab 2) refers to specific numbered paragraphs. We correlate the references in the
+       two documents by topic.
+
+                                             12
+5-foot line to the building to meet [AWE's] installation details and specifications." (R4,
+tab 9 at 7)
+
+        The CO noted that there were two different types of connections between the CIF
+and the potable water supply: one was for the "domestic water supply" and the other was
+a "fire water line." The government again distinguished Dwg. C120 from the
+specifications, and cited FAR 52.236.21 SPECIFICATIONS AND DRAWINGS FOR
+CONSTRUCTION for the proposition that "the specifications shall govern.... GSC will take
+fire water line and route within the building and required elements to provide the fire
+protection system." (R4, tab 9 at 7)                   ,
+
+       As with the government's interpretation of SOW~ 6.4.6.l(c), the CO's letter of
+August 22, 2012 relied upon FAR 52.236.21 in interpreting~ 6.4.6.l(d) SANITARY
+SEWER to require GSC to "design and construct the sanitary sewer service line between
+the sanitary.sewer main to 5 feet from the building, including clean6ut or manhole" (R4,
+tab 9 at 7-8).
+
+        Contract Modification No. A00002 was effective on February 19, 2013. It
+increased the contract amount by $47,951, and called for appellant to "provide and install
+approximately 150 LF of 8 [inch] Fire Protection water line, extending from the water
+line to a point 5 ft from the building." The contract completion date remained
+unchanged. (R4, tab 4(s))
+
+        GSC's certified claim dated March 14, 2013 sought $826,355 for work related to
+"Natural Gas, Water Mains, Sanitary Sewer, Electrical, and Communications" as required
+by the government's letter of August 22, 2012. (R4, tab"2 at 1, 6) GSC agreed that
+Amendment No. 7 added certain responsibilities for the "'Infrastructure Contractor' to
+[the] 'Design Build Contractor'" in SOW§ 6.4.6.1 and that it was required under
+~ 6.4.6.1 (c) to "provide the portable [sic] water service between the main line to the
+5-foot line of the building, but claimed that the government "owed [it] for the design of
+the line from the water main installed by the base to the 5' line of the building." The
+contractor noted that the government in the August 22, 2012 letter of direction had said
+that "the government will provide primary or main water pipe distribution,
+including the meter and vault." Appellant continued that it "has not receive[d] a
+change order for moving the 24" primary or main water line and is requesting monies for
+this activity in this decision." Additionally, GSC sought a COFD "for the design and
+construction costs for installing the sanitary sewer main from the housing development to
+the project." (R4, tab 2 at 4-5) (emphasis in original)
+
+       GSC amended its claim on June 18, 2013, and provided information as requested
+by the CO. The contractor sought an extension of 112 days, and asked for "extended
+overhead in the amount of $162,309.28" that it associated with government-caused delay.
+(R4, tab 3 at 1-2)
+
+
+                                            13
+         As part of its claim for allegedly additional water utilities work, GSC passed
+.through the claims of its subcontractor Evans & Associates, which GSC hired to do the
+ tasks described in app. ex. I (tr. 1/54). In relevant part, the exhibit seeks compensation in
+ the amount of $191, 282 for "the installation of the site fire water line that includes
+ piping and valves to fire hydrants and 5' out of the building, any remaining requirements
+ for the site domestic water lines, installation [of] C905 24" pipe and removal of the 24"
+ water main that is being relocated" (app. ex. I). GSC supported amounts sought for the
+ water utilities work with its change order to Evans for this effort (app. ex. 4); a
+ spreadsheet showing various co·sts (app. ex. 5); and an email exchange (app. ex. 6).
+ (Tr. 1/43-44, 55-58, 2/30-34)
+
+        The COFD of August 22, 2013 granted appellant's claim in part. The CO found
+merit in the amount of$442,l 19.63 for "design an_d installation costs for the electrical
+distribution line and the site communication line." Relevant to these appeals, the CO
+denied appellant's claim for $546,544.65 for "[t]he remaining site utilities, (12" water
+line, relocate 24'' water line, 10" fire loop, sanitary sewer line, and site lighting)." (R4,
+tab I at I, 13) Appellant received the COFD on August 30, 2013, and timely appealed.
+
+        On February II, 2015, GSC filed another claim for $468,808.43 for additional
+work and delay attributed to both the government and bad weather. It broke down the
+amount as follows: truck turnaround area ($92,641.47); withheld payments
+($373,166.96) (this includes liquidated damages and "improperly withheld funds"); and
+claim preparation costs ($3,000). GSC argued that the government's failure to approve
+its requests for time extensions constructively accelerated the contract. (R4, tab 28)
+
+       The COFD of April 8, 2015 deemed GSC's February 11, 2015 claim without merit
+and denied it. The government said that the deficiency in the truck turnaround area was
+discovered during a government Quality Assurance inspection ofNovember 18, 2013,
+"when a tractor trailer hauling a 53-foot container was unable to enter the space and
+maneuver to the loading dock within the confines of the aprons and driveways provided."
+The CO said that GSC' s design did not meet RFP requiremerits, denied that a "single
+point tum" was required, and contended that the .government's prior approval of design
+changes to relocate a dumpster did not excuse errors later discovered. (R4, tab 27 at I, 7)
+
+       The COFD acknowledged that "The Government is currently withholding or
+retaining $373,166.96 on the contract." The CO said that the contract was to have been
+completed by June 27, 2013, but that "the contractor did not receive actual contract
+completion and BOD until February 28, 2014, which is 246 days late." The CO denied
+GSC's request for an extension and said_ the government was not responsible for these
+delays. He denied that BOD occurred on October 9, 2013 "when Army personnel started
+storing equipment and furniture in the building," because "the contract requirements were
+not substantially completed." The CO acknowledged that the government continued to
+
+
+                                              14
+hold $314,880 as liquidated damages, leaving "$58,286.96 remaining on the contract."
+He said the latter amount would be retained until successful completion of requirements
+such as furnishing As-Built drawings and O&M manuals. (R4, tab 27 at 7-8)
+
+                                        DECISION
+
+ASBCA No. 59046
+
+        According to appellant, it is entitled to an equitable adjustment for having to do
+additional work beyond contract requirements (app. br. at 1). GSC says that this involved
+"additional work involved [with] the installation of three types of pipes beyond the
+location of the manholes on [Dwg.] C120" (id. at 3 ~ 8). That work included "a 10" fire
+protection loop"; a "12" sanitary sewer line ... from the keyed note 2 manhole extending
+to the right to 'Currie Road"'; and "the 24" water line seen in section D6 of [Dwg.] C120
+(upper left comer of the drawing)" (id. at 3-4 ~ 8). GSC seeks a total of $191,282.00 for
+this "Water Utilities Work." Appellant claims $92,641.47 for additional work at the
+"Tum around area," which required the relocation of a dumpster pad it had already
+installed with the government's approval. (Id. at 9 ~ 32) GSC asserts that "While
+nothing in the contract required such an accommodation relating to 53' long trucks, the
+loading area as constructed actually accommodates trucks of that length" (id. at 7 ~ 24).
+
+        As verified at hearing, of the $191,282.00 sought for "water utilities work," the
+24" water line is "about a $97,000 claim" whereas the sanitary sewer claim is "about
+$80,000" not including unspecified "markups" (tr. 3/40-41). Lacking more precise
+information, we calculate that GSC seeks $14,282 for the fire protection loop portion of
+the claim.
+
+        A common thread running through these disputed items is the parties' respective
+interpretations of amendments 4 and 7 to the RFP. Amendment 4 in relevant part
+referenced sow~ 6.4.6 BASE UTILITY INFORMATION, particularly~ 6.4.6.1 UTILITIES
+regarding domestic water service, and referenced, among other things, information in
+Appendix J. Amendment 7 changed~ 6.4.6.1 to replace all references to the
+"Infrastructure Contractor" with "D/B" (design/build") contractor. (See, e.g., gov't br.
+at 2-5, 17-18) This led to the controversy over who was responsible for doing what, and
+resulted in the government's partially settling the claim; we analyze the remaining issues.
+
+       GSC's Legal Arguments for Entitlement and Quan.tum
+
+         According to GSC, "the Government's repeated modifications of the. RFP led to
+an internally inconsistent and contradictory specification" (app. br. at 11). It maintains
+that it is entitl~d to an equitable adjustment under the contract's Changes clause,
+FAR 52.243-1 because the government constructively changed the contract.
+
+
+                                             15
+ (Id. at 11-13) A "constructive change" occurs "'when a contractor performs work
+ beyond the contract requirements, without a formal change order under the [contract's] .
+ Changes clause; due either to an informal order from, or through the fault of, the
+ government."' Lebolo-Watts Constructors, ASBCA Nos. 59738, 59909, 2018
+ WL 6577624 (November 16, 2018, slip op. at 28) citing MA. Mortenson Co., ASBCA
+ No. 53229, 05-1 BCA ,r 32,837 at 162,469-70 and Ets-Hokin Corp. v. United States, 420
+ F. 2d 7.16, 720 (Ct. Cl. 1970). "The theory of constructive change is to compensate a
+ contractor for work that might properly have been directed through the contract's changes
+ clause, but which was not. See Zafer Taahhut lnsaat ve Ticaret A.S. v. United States, 833
+ F. 3d 1356, 1361 (Fed. Cir. 2016)." Charles F. Day, ASBCA No. 60211, 19-1 BCA
+ ,r 37,215 at 181,175. To recover, the contractor must prove not only that it was made by
+ the government to perform in excess of the contract but also that it suffered "increased
+ costs compared to what was otherwise required by the contract.. .. " Charles F. Day, 19-1
+ BCA ,r 37,215 at 181,175 (citing Norcoast Constructors, Inc., ASBCA No. 12751, 72-2
+ BCA ,r 9699 at 45,285). _In the instant appeal, the contract specifically incorporated
+ GSC's proposal by reference, and obligated the contractor to provide betterments it
+ offered in response to the RFP.
+
+        As these appeals involve both entitlement and quantum, GSC asserts that "[i]t is
+/well-settled that the measure for an equitable price adjustment is the difference between
+ the reasonable cost of performing the contract as awarded absent the change and the
+ reasonable cost of performing.with the change. (See Keco Indus., Inc. v. United States,
+ 364 F. 2d 838, 850 (Ct. Cl. 1966) cert. denied 386 U.S. 958 (1967); Nager Elec. Co. v.
+ United States, 442 F.2d 936, 946 (Ct. Cl. 1971))." (App. hr. at.13)
+
+        Discussion
+
+        Even where the contractor demonstrates that the government constructively changed
+ the contract and that it is entitled to additional costs, it is incumbent upon it as proponent to
+ prove the amount it is owed. The "burden of proof is upon the party asserting a right."
+ Parsons Evergreene, ASBCA No. 58634, 19-1 BCA ,r 37,251 at 181,312 citing Black
+ Tiger Company, ASBCA No. 59819, 18-1 BCA 'if 37,046 at 180,336.
+
+         GSC asserts that "because the quantum of Appellant's damages·is supported by
+ contemporaneous cost data in the record and the Government has presented no basis to
+ dispute Appellant's claimed costs, the Board should enter judgment on quantum on
+ GSC's favor" (app. hr. at 1). It describes the loss it suffered in this appeal as follows, and
+ relies upon the evidence as cited:
+
+
+                                               16
+       Cost Category                       Amount
+       Water Utilities Work                $191,282.00 App. Exs. 1, 4-6
+
+(Id. at 9, repeated at 13)
+
+       1. Potable (Domestic) Water Line
+                             -
+        Appellant says the government owes it for the relocation of a main waterline that
+ran under a parking lot (app. br. at 3-4, 8; tr. 2/8). The issue is whether the contract
+required appellant to relocate that main (see tr. 2/8). Appellant relies upon specification
+§ 6.4.6.1.(c) (see tr. 3/41), which says: "[P]rovide the potable water service between the
+main line to the 5-foot line of the building. Provide potable water. service from the 5-foot
+line to the facility.... The Government will provide primary or main water pipe
+distribution .... " (R4, tab 4(e) at 1819) That specification does not say that appellant
+would relocate the water main; ind~ed, to the extent it addresses a water main at all, it
+points to the governrhent as the responsible party: ''The Government will provide
+primary or main water pipe distribution" (id.). The government does not address that
+specification, but points (gov't resp. at 2; gov't br. at-3) to a drawing note tha{references
+a waterline, which the note states "WILL NEED TO BE REROUTED" (R4, tab 4(p)
+at 4093 n.4 ). The note does not say that the contractor would be responsible for that
+work.
+
+       We find that the government constructively change4 the contract, thereby entitling
+appellant to recover $97,000 for relocation of the water main.
+
+       2. Fire Protection Loop
+
+         GSC asserts the government owes it for the installation of a "fire protection loop,"
+which is a waterline dedicated to the warehouse's fire protection system (app. br. at 3-4
+, 8; tr. 2/8-10). The issue is whether the contract required appellant to install that loop.
+Again, GSC relies upon specification§ 6.4.6.1.(c) (see also tr. 3/42), which provides that
+"[t]he Government will ... route the fire water line (separate from the domestic supply) to
+5 feet from the building." (R4, tab 4(e) at 1819) And again, the government does not
+address that specification, but points (gov't resp. at 2; gov't br. at 4, , c) to a drawing
+note that states that "CONTRACTOR... WILL ROUTE FIRE WATERLINE" and
+"CONTRACTOR WILL TAKE FIRE WATER LINE AND ROUTE WITHIN THE
+BUILDING" (R4, tab 4(p) at 4102 n.4).
+
+        The contract instructs the contractor to "route the fire water line" as indicated
+(underlining
+           r
+              added). This directs GSC on the placement of this pipe as part of the
+installation. Reading this provision to require the government to install the fire protection
+loop but then have GSC route it "to 5 feet from the building" is not reasonable, and
+would create a patent ambiguity that required appellant to inquire before submitting its
+
+
+                                             17
+·proposal, and there is no proof that it did so. See, e.g., KiewitPhelps, ASBCA No. 61197,
+ 2019 WL 2052448, slip. op. at 25. GSC's proposal, which was incorporated by reference·
+ into the contract, also provides in relevant part: "An 8 inch PVC fire loop will then
+ circumvent the building approximately 1500 If to complete the required fire protection
+ loop" (R4, tab J at 3321). Because both the contract and its proposal obligate GSC to
+ furnish the fire protection loop, we deny this portion of the claim. Further, as there was
+ no proof th~t the government ordered GSC to "upsize" the pipe, GSC cannot recover for
+ that change.
+
+       3. Sanitary Sewer Main
+
+        According to GSC, the government improperly required appellant to install a
+"sanitary sewer main" (tr. 2/5-6). GSC says that specification 16.4.6.1.(d) sets forth its
+contractual obligations regarding sewer installation. It maintains that it was only required
+to "design and construct the sanitary sewer service line between the sanitary sewer main
+to 5 feet from the building, including cleanout or manhole." GSC says that "The record
+clearly shows that all of the utility work claimed by GSC is outside of the line of the
+manholes [that were] 30-40 feet from the CIF." (App. br. at 11) (emphasis in original)
+
+        The government disagrees, and regards construction of the sanitary sewer main as
+part of GSC's obligation as both "infrastructure" and "Design/build" contractor (gov't br.
+at 17-18). It relies upon contract Dwg. C120, which depicts the sewer main (labeled "6"
+SS"), but that drawing does not address who was to install it (gov't resp. br. at 10-11; R4,
+tab 4( e) at 244 7).
+
+        The Board addressed the government's argument that GSC is responsible for
+providing a sanitary sewer main in GSC Construction, Inc., ASBCA No. 59046, 14-1
+BCA 135,739 at 174,919, in which we denied the government's motion for summary
+judgment. There, we interpreted contract specification 1 6.4.6.1.( d) to require appellant
+only to "design and construct the sanitary sewer service line between the sanitary sewer
+main to 5 feet from the building" (R4, tab 4(p) at 3474) (emphasis added). We did not
+agree that this provision oblige~ GSC to install a sewer main. In this decision on the
+merits, we agree with that analysis and hold that appellant is entitled to recover $80,000
+for the installation of the sewer main.
+
+ASBCA No. 59957
+
+    GSC's claim of February 11, 2015 sought to recover for changes to the completed truck
+turnaround, the return of liquidated damages and retainage withheld by the government,
+and claim preparation costs. The contractor maintains that the government "wrongfully
+with[held] over $350,000 in payments" as liquidated damages and retainage, even though
+the government-ordered "additional work [that] increased GSC's time and cost of
+performance by 99 ~ays and $92,641.47." The contractor further argues that "Beneficial
+
+
+                                             18
+  occupancy of the CIF occurred on October 9, 2013 when [government] personnel started
+. storing equipment and furniture in the building." (App. hr. at 8 'if'if 29-30) GSC seeks
+  $373,166.96 for "Withheld payments [liquidated damages]" and retainage and asks for
+  $3,000.00 for "claim preparation costs." Appellant says that "These costs were the subject
+  of claims submitted to the contracting officer by letters, dated June 11, 2013." (Id. at 9
+  citing R4, tabs 2, 28)
+
+      1. Truck Turnaround
+
+     The government ordered appellant to redesign and reconstruct the truck turnaround
+area because,'the government says, "In November 2013, a tractor-trailer hauling a 53 foot
+shipping container was unable to maneuver the provided space and back up to the loading
+dock in order to unload the equipment for the piled rack storage system" (gov't br. at 11
+'if 33). It is not necessary to ascertain what the contract required regarding the turnaround,
+because the government points to no evidence that is first hand or of sufficient weight to
+show that a tractor-trailer hauling a 53-foot shipping container had trouble using the
+loading dock. Rather, the government cites the testimony of its contract manager (gov't
+br. at 11 'if 33; tr. 2/245, 255, 3/46-47), but he said that he heard it from another
+government employee (tr. 2/255, 269-71, see also tr. 3/46). Because. the government fails
+to credibly demonstrate that the truck turnaround area did not meet specifications, GSC is
+entitled to the cost of the redesign and reconstruction of that area. See Ensign-Bicliford
+Aerospace & Defense Co., ASBCA No. 57929, 16-1 BCA 'if 36,533 at 177,969 (the
+contractor is entitled to an equitable adjustment if the government fails to meet its burden
+of proving that the rejected work did not comply with the contract).
+
+    GSC claims $92,641.47 for this item, and cites certain documentary evidence that the
+government does not address (app. hr. at 13 citing app. ex. 3). That evidence is sufficient
+to establish that appellant spent $92,641.47 on the redesign and reconstruction of the
+turnaround area. We find appellant is entitled to this amount, plus applicable interest, for
+this extra work.
+
+      2. Liquidated Damages
+
+   Appellant challenges the government's withholding of $314,880 6 in liquidated
+damages (app. hr. at 9, 13). The contract completion date was June 27, 2013, and the
+contract says that liquidated damages would be $1,280 for each day oflate completion. In
+challenging the government's assessment of liquidated damages (app. reply br. at 13-15;
+app. sur-reply hr. at 11-16), appellant asserts that the government delayed completion by
+112 (or 114) days related to water utility work and 99 days related to the truck turnaround
+
+
+6
+    Although appellant's brief states that it seeks $373,166.96 in "Withheld Payments
+         [liquidated damages]" (app. br. at 9, 13), this amount includes $55,600 in separate
+         retainage for allegedly incomplete or defective work.
+
+                                              19
+area and overzealous inspection of a fire control system (app. sur-reply hr. at 4-5, 12-13).
+However, appellant does not prove th~se delay periods, and furnishes no analysis that
+addresses whether any of those delays were concurrent. See George Bernadot Co.,
+ASBCA No. 42943, 94-3 BCA ,r 27,242 at 135,741-42; compare HG. Reynolds Co.,
+ASBCA,. No. 42351 et al., 93-2 BCA ,r 25,797 at 128,378.
+
+        Nevertheless, the government took beneficial occupancy ·of the warehouse on
+October 2, 2013, when it started using it, and cannot assess liquidated damages after that
+date. See Strand Hunt Construction, Inc., ASBCA No. 55905, 13 BCA ,r 35,287
+at 173,188 (In assessing "beneficial occupancy" (also referred to as "substantial
+completion"), which "occurs on the date the work is completed satisfactorily to the extent
+that the facilities in question may be occupied or used by the Government for the purpose
+for which intendedt we consider '"( 1} the quantity of work remaining to be done, and (2)
+the extent to which the project was capable of servicing adequately its intended purpose"'
+(further citation omitted)).
+
+    October 2, 2013 was only 98 days after June 27, 2013, GSC's contract completion
+date, which, at $1,280 per day, allows an assessment of liquidated damages of $125,440.
+The difference between the $314,880 withheld by the government and $125,440.00 is
+$189,440. GSC is, therefore, entitled to this last amount in withheld liquidated damages
+plus applicable interest.
+
+   3. Retainage and Other Withheld Funds
+
+       The government concedes that appellant is entitled to $3,136.96 in retained funds
+(gov't hr. at 26-27). Appellant seeks the return of another $55,600 in retained funds (app.
+reply hr. at 12), which the government is withholding until issues with certain
+deliverables "have been satisfactorily resolved" (R4, tab 27 at 8). However, the
+government has not met its burden to demonstrate that the items for which funds have
+been retained are defective. See Ensign-Bickford, 16-1 BCA ,r 36,533 at 177,969
+(assigning burden). The government relies upon the COFD and its cross-examination of
+a witness identified with appellant (gov't hr. at 26-27,r 59), but none of that evidence
+demonstrates that any of the items was or is defective. Appellant is entitled to
+$58,736.96 in retained funds.
+
+   4. Claim Preparation Costs
+
+   Appellant requests $3,000 in claim preparation costs (app. hr. at 13), but presents no
+persuasive evidence in support of that very sparse claim. This portion of the appeal is
+denied.
+
+
+                                             20
+                                      CONCLUSION
+
+       ASBCA No. 59046 is sustained in the amount of $177,000, plus interest pursuant
+to 41 U.S.C. § 7109, from March 18, 2013 (the date that the contracting officer received
+appellant's certified claim (R4, tab 2 at 1)), to the date of payment.
+
+       ASBCA No. 59957 is sustained in the amount of $340,818.43, which includes
+$92,641.47 (truck turnaround)+ $189,440 (return ofliquidated damages)+ $3,136.96
+(retainage conceded by the government)+ $55,600 (government-withheld funds for
+allegedly deficient work). GSC is. also entitled to interest on the total amount owed
+pursuant to 41 U.S.C. § 7109, from February 11, 2015 (the date that the contracting
+officer received appellant's certified claim (R4, tab 27 at 1)), to the date of payment.
+The appeals are otherwise denied. The parties' other positions are unnecessary to
+address; given these results.
+
+       Dated: July 11, 2019
+
+
+                                                   Administrative Judge
+                                                   Armed Services Board
+                                                   of Contract Appeals
+
+
+ I concur                                          I concur
+
+
+                                                   Vice Chairman
+                                                   Administrative Judge
+ Armed Services Board                              Armed Services Board
+ of Contract Appeals                               of Contract Appeals
+
+
+(Signatures continued)
+
+
+                                            21
+ I concur                                      I concur in part-no separate opinion
+
+
+ Administrative Judge
+                                              ~Administrative Judge
+ Armed Services Board                          Armed Services Board
+ of Contract Appeals                           of Contract Appeals
+
+
+     I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA Nos. 59046, 59957, Appeals of
+GSC Construction, Incorporated, rendered in conformance with the Board's Charter.
+
+      Dated:
+
+
+                                               PAULLA K. GATES-LEWIS
+                                               Recorder, Armed Services
+                                               Board of Contract Appeals
+
+
+                                         22

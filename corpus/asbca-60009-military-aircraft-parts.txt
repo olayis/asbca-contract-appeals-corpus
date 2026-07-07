@@ -1,0 +1,1145 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeal of --                                    )
+                                                )
+Military Aircraft Parts                         )      ASBCA No. 60009
+                                                )
+Under Contract No. SPM4A7-l l-M-Dl 11           )
+
+APPEARANCE FOR THE APPELLANT:                          Mr. Robert E. Marin
+                                                        President
+
+APPEARANCES FOR THE GOVERNMENT:                        Daniel K. Poling, Esq.
+                                                        DLA Chief Trial Attorney
+                                                       Edward R. Murray, Esq.
+                                                       Jason D. Morgan, Esq.
+                                                        Trial Attorneys
+                                                        DLA Aviation
+                                                        Richmond, VA
+
+               OPINION BY ADMINISTRATIVE JUDGE O'SULLIVAN
+
+        Military Aircraft Parts (MAP) appeals from a contracting officer's final decision
+denying its claim for breach of contract. The parties have submitted the appeal for
+decision on the written record pursuant to Board Rule 11. 1 Both entitlement and quantum
+are at issue. We have jurisdiction pursuant to the Contract Disputes Act of 1978 (CDA),
+41 U.S.C. §§ 7101-7109. We sustain the appeal in part.
+
+                                  FINDINGS OF FACT
+
+        1. Purchase Order No. SPM4A7-l l-M-Dl 11 (the contract) was issued by the
+Defense Logistics Agency Aviation (DLA Aviation) field office, Richmond, Virginia,
+to MAP on 18 November 2010 (R4 tab 1). The government sought to acquire one first
+article and six production units of a steel flap track liner for the A-10 aircraft (id. at 3,
+8-10). The contract identifies this part as a Critical Application Item (id. at 4 ). The
+total price of the contract, for first article manufacture and testing and six production
+parts, was $7,550.00 (id. at 1). Section B of the contract contains first article testing
+instructions, which provide in pertinent part:
+
+               5. MATERIAL PROCESSING, INCLUDING FINISH
+               REQUIREMENTS (PLATING, CASTING, FORGING,
+
+1
+    MAP originally elected to proceed under Board Rule 12.2, small claims expedited
+       procedure. MAP subsequently elected to remove the appeal from the Board's
+       Rule 12 docket in order to extend the time available for discovery.
+             HEAT TREATMENT, WELDING, INSPECTION,
+             ANODIZE, PAINTING, ETC.) UTILIZED IN THE
+             MANUFACTURE OF FIRST ARTICLE ITEMS SHALL
+             BE IDENTIFIED AND CERTIFIED ALONG WITH A
+             COPY OF MATERIAL PURCHASE REQUESTS AS
+             CONFIRMING TO APPLICABLE DATA
+             REQUIREMENTS. A COPY OF THE PURCHASE
+             ORDER CERTIFYING THE PROCESS
+             ACCOMPLISHED AT OTHER THAN CONTRACTOR
+             FACILITY SHALL BE INCLUDED.
+
+(Id. at 3) The applicable drawings specify the application of cadmium plating and
+epoxy-polyamide primer as part of the manufacturing process (R4, tab 19 at 7).
+
+      2. The contract contained the Federal Acquisition Regulation (FAR) 52.209-4,
+FIRST ARTICLE APPROVAL-GOVERNMENT TESTING (SEP 1989) clause, with its
+AL TERNA TE I (JAN 1997). The clause provides in pertinent part:
+
+                    (b) Within 120 calendar days after the Government
+             receives the first article, the Contracting Officer shall
+             notify the Contractor, in writing, of the conditional
+             approval, approval, or disapproval of the first article. The
+             notice of conditional approval or approval shall not relieve
+             the Contractor from complying with all requirements of the
+             specifications and all other terms and conditions of this
+             contract. A notice of conditional approval shall state any
+             further action required of the Contractor. A notice of
+             disapproval shall cite reasons for the disapproval.
+
+                     (c) If the first article is disapproved, the Contractor,
+             upon Government request, shall submit an additional first
+             article for testing. After each request, the Contractor shall
+             make any necessary changes, modifications, or repairs to
+             the first article or select another first article for testing. All
+             costs related to these tests are to be borne by the
+             Contractor, including any and all costs for additional tests
+             following a disapproval. The Contractor shall furnish any
+             additional first article to the Government under the terms
+             and conditions and within the time specified by the
+             Government. ...
+
+                     (d) If the Contractor fails to deliver any first article
+             on time, or the Contracting Officer disapproves any first
+             article, the Contractor shall be deemed to have failed to
+
+                                             2
+              make delivery within the meaning of the Default clause of
+              this contract.
+
+
+                      (h) Before first article approval, the acquisition of
+              materials or components for, or the commencement of
+              production of, the balance of the contract quantity is at the
+              sole risk of the Contractor. Before first article approval,
+              the costs thereof shall not be allocable to this contract for
+              (1) progress payments, or (2) termination settlements if the
+              contract is terminated for the convenience of the
+              Government.
+
+(R4, tab 1 at 14)2 The contract also contains a DLA clause with additional requirements,
+52.209-9018, FIRST ARTICLE - GOVERNMENT TEST-ADDITIONAL REQUIREMENTS (SEP
+2008) DLAD (id.).
+
+        3. The contract required delivery of the first article to the government for
+testing by 17 May 2011, 180 days after award (R4, tab 1 at 2). It is undisputed that
+MAP did not deliver the first article by this date; the first article was delivered to the
+government for testing on 30 January 2012 (R4, tab 37). 3 Government testing of
+MAP's first article resulted in a discrepancy report that was attached to a notice
+provided by the contracting officer to MAP on 15 May 2012 that its first article was
+disapproved (R4, tabs 4, 5). The only discrepancy noted after testing and inspection
+was with respect to the holes drilled in the part to facilitate its attachment to the flap
+track-the contract called for the holes to be .190" to .194" in diameter, but the report
+stated that the actual diameter was ".195 - .196 [in] twelve places" (id.). 4
+
+       4. The government's structures engineer who replaced the engineer responsible
+for reviewing the first article submitted by MAP is familiar with the A-10 wing flap
+system and provided the following general information about the holes in the flap
+liner. Aircraft mechanics use the 12 holes to mount the liner, with fasteners, to an
+underlying aluminum section which is traversed by the roller that extends and retracts
+the wing flaps of the aircraft. If the liner were not securely fastened and were to
+detach from the mating section below, the roller would be likely to damage that
+section and potentially cause the wing flap not to operate correctly. In addition, if the
+
+2
+  FAR 52.209-4 is not set forth in full text in the contract document.
+3
+  The record before us does not indicate that the government took any action with
+      respect to the missed delivery date. There is no indication that a new delivery
+      date was ever established.
+4
+  A second discrepancy with respect to the certification package was corrected on
+       14 May 2012 (id.).
+                                             3
+liner holes are too large, the mechanic attaching the liner may not be able to use it as a
+template for drilling holes in the mating part and may not be able to use the specified
+fasteners. (Gov't br., ex. A, Casey Thurber decl. (Thurber decl.) iii! 1-4) However, the
+government has presented no evidence that the nonconforming holes in MAP's first
+article were large enough to actually present the potential problems described.
+
+       5. At MAP's request, quality assurance representatives (QARs) Randall Fritz
+and Greg Keeler from the Defense Contract Management Agency (DCMA) visited
+MAP's facility on 20 June 2012 to witness an inspection of the returned part (gov't br.,
+ex. C, Randall Fritz decl. (Fritz decl.) iii! 2, 3). Contrary to the discrepancy report,
+only 3 (out of 12 total) holes were found to be out oftolerance-i.e., measuring .195"
+to .196" in diameter (R4, tab 6). The remainder measured .190" to .194" in diameter
+(R4, tab 40). At the time, Mr. Marin of MAP pointed out that the out-of-tolerance
+holes were missing paint, and stated that this condition could have been caused by
+forcing gauge pins 5 through the holes, thereby removing the paint and enlarging the
+holes (Fritz decl. ii 5). Mr. Fritz responded that Mr. Marin's theory was plausible but
+unlikely, and offered him an opportunity to demonstrate on another part. Mr. Marin
+declined because he did not want to destroy a part. (Id.; R4, tab 9 at 1)
+
+        6. The same day, 20 June 2012, Mr. Marin emailed DLA contract administrator
+Lisa Hardy, noting that paint was missing from the holes that were measured to be out of
+tolerance, and further stating that MAP suspected that the part "was in tolerance and
+acceptable per drawing when submitted and forceful inspection at the ESA caused by
+forcing a gage pin thru the hole occurred." 6 Mr. Marin asserted that over a hundred holes
+in parts made at the same time were in tolerance and did not have paint removed from the
+holes. He requested permission to do a resubmittal at no cost. (R4, tab 6 at 1)
+QAR Fritz replied to this email, confirming to Ms. Hardy that three of the holes were out
+of tolerance, and stating "I would concur with you, if you should decide to allow a no
+cost resubmittal" (id.).
+
+       7. The ESA engineering technician who performed the measurement of the
+holes in the first article provided a declaration in which she confirmed that she "found
+the holes to be in the .195" to .196" range." She denied enlarging the holes or forcing
+gauge pins through the holes, but did state that it is possible that her use of the gauge
+pin could have removed paint from the holes. In her opinion, such a result would be
+"typical, but irrelevant to the inspection. The inspection is for the diameter of the
+metal, not the paint." (Gov't br., ex. B, Julie Morse decl. (Morse decl.) iii! 1-4)
+Engineer Thurber backs up Ms. Morse's opinion in this regard, declaring that:
+
+5
+  The Board will refer to these measuring instruments·as "gauge pins," following the
+      dictionary preferred spelling of the word "gauge," but in the record the spelling
+      used is most often "gage."
+6
+  ESA refers to the Engineering Support Activity at Hill Air Force Base, Utah. The
+      ESA conducted the first article inspection at issue in this appeal.
+                                            4
+              It is .. .irrelevant that the paint was removed from any of the
+              holes in the part. The inspection should be measuring the
+              diameters of the metal, not paint. Paint is not a structural
+              component and obviously does not have the structural
+              integrity of steel. Paint will not hold a fastener in place.
+              Likewise, a part with oversized holes cannot be repaired by
+              adding paint to the holes. This will not repair the structural
+              integrity of the part.
+
+(Thurber decl. ii 5)
+
+       8. Although Ms. Morse does not in her declaration provide any details about
+how she conducted her inspection, there is evidence in the record that she used gauge
+pins during the inspection process (R4, tab 38 at 5).
+
+       9. On 22 June 2012, Mr. Fritz issued a Corrective Action Request (CAR) to MAP,
+requesting that MAP respond on or before 5 July 2012 with its analysis of the cause of
+the dimensional nonconformance and the action proposed to be taken to prevent a
+re-occurrence (R4, tab 7).
+
+       10. On 25 June 2012, MAP quality inspector Alberto Valenzuela conducted his
+own inspection of the holes in the rejected part. He recorded measurements from .190
+to .196". (R4, tab 40)
+
+        11. The previous year, on 9 November 2011, Mr. Valenzuela had inspected the
+same part prior to sending the part to the government for inspection, and recorded a
+hole diameter of .194" at Step 4 of the manufacturing process (R4, tab 33). That same
+day, 9 November 2011, another MAP inspector performed an inspection of the same
+part at Step 5 of the manufacturing process and recorded the hole diameter as .191"
+(R4, tab 34). 7 Subsequently, on 21 November 2011, a third MAP inspector conducted
+an inspection on a sample of four parts out of a production run of 13 parts at Step 5 of
+the manufacturing process. 8 This inspector recorded a hole diameter of .191" for the
+four inspected parts. (R4, tab 35) Finally, on 30 January 2012, government
+QAR Gordon Gregory signed off on the First Article Test Report conducted by MAP
+prior to shipping the first article for government testing, commenting:
+
+7
+  From the information available in the record, it appears that Step 4 involves the
+      drilling of the holes and Step 5 involves "MACHINE DE-BURR PER G-FlOl."
+      Both of these steps precede the application of the required coating and primer.
+      (R4, tab 36)
+8 MAP elected to manufacture the first article, the six production parts, and additional
+
+      parts, for a total of one first article and twelve production parts, in one
+      production run prior to first article approval (R4, tab 48 at 14).
+                                            5
+              VERIFIED CALIBRATION, VERIFIED PPP&M,
+              REVIEWED CERT PACKAGE, REVIEWED
+              INSPECTION RECORDS, REVIEWED CONTRACT
+              FOR EXCEPTIONS, WITTINESS [sic] DIMENSIONAL
+              INSPECTION & METHODS, RECOMMEND FAT
+              APPROVAL[.]
+
+(R4, tab 37 at 2) The dimension recorded for hole diameter in the FAT Report was
+.191" for a sample of 4 out of 13, as inspected on 21 November 2011 (id. at 3 7).
+
+        12. On 19 July 2012, MAP responded to the DCMA CAR. MAP asserted that
+the root cause of the nonconformance was damage caused by the government while
+inspecting the part, pointing out that "144 holes in parts we have in stock made at the
+same time were in tolerance and did not have paint removed from the holes." MAP
+requested the opportunity to submit one of the production parts as a new first article
+and requested that the government use "reasonable care" in inspecting it. (R4, tab 8)
+Mr. Fritz responded on 23 July 2012 that MAP's response was unacceptable. He
+stated: "I offered you the chance to prove your theory if you were willing to destroy
+one of your stock parts at no expense to the government, to demonstrate. You
+declined." (R4, tab 9 at 11) Mr. Fritz apparently agreed with Mr. Marin that forcing a
+gauge pin through the hole, thereby removing the paint, would destroy the part.
+
+       13. On 19 July 2012, Ms. Lisa Hardy of DLA Aviation responded to
+Mr. Marin's 20 June 2012 email (finding 6), requesting that he confirm MAP's
+willingness to pay the first article re-testing fee of $651.07 as well as consideration of
+$1,325.55 to re-establish the first article test date to 31August2012. She further
+informed him that a no-cost cancellation of the order was an available option. He
+responded the same day, stating that "[w]e certainly feel strongly this was a
+Government caused disapproval and hope you will consider DCMA' s
+recommendation to resubmit at no additional cost. If not, then this is reluctantly
+acceptable." (R4, tab 13 at 2-3)
+
+         14. Both parties agree that on 20 June 2012 in the presence of Messrs. Fritz and
+Keeler, and again on 24 July 2012 in the presence of Mr. Robert Presley, DCMA
+supervisory quality assurance specialist, MAP employees pulled production parts from
+stock, used "go/no-go" gauge pins on them, and represented to the government
+representatives that the parts were compliant (Fritz decl. ii 4; gov't hr., ex. D,
+Robert Presley decl. (Presley decl.) ii 3). It does not appear from the record that the
+results of these inspections of the production parts were recorded, and both Mr. Fritz and
+Mr. Presley stated they do not know the sizes of the gauge pins that were used (Fritz decl.
+ii 4; Presley decl. ii 3). None of these government representatives either questioned any
+of the reported results, or performed any inspection themselves, despite having the
+opportunity to do so (id.).
+
+                                             6
+       15. From the record, there appear to be at least two different ways of inspecting
+the dimensional compliance of holes: (1) using go/no-go gauge pins; and (2) actually
+measuring the holes. The go/no-go process was described by Mr. Valenzuela, a MAP
+inspector with over 30 years of experience, as follows:
+
+               In my inspection I prefer to perform what I call a "hard
+               gage" inspection of the parts. This involves the use of two
+               gage pins, a go and a no-go pin. For the .190/. l 94"
+               diameter I would use a .190" and make sure it goes into all
+               the holes. Finally I would use a .194" and check to see it
+               does not go into any of the holes (no-go condition). This
+               shows passing results.
+
+(App. supp. R4, tab 110, Valenzuela decl. ~~ 4, 6) Actually measuring the specific
+dimension of a hole appears to be more time-intensive and was described by Mr. Valenzuela
+as more likely to enlarge the holes than go/no-go inspection. Mr. Valenzuela stated:
+
+               Measuring each and every hole in a part like this [referring
+               to the flap track liner] can be done, but it takes a lot of time
+               and can progressively make the hole larger, so I prefer not
+               to do this.
+
+(Id. ~ 7) MAP also submitted for the record independent industry materials indicating
+that the use of go/no-go pin or plug gauges is an accepted method for inspecting the
+dimensional compliance of drilled holes on a pass/fail basis. For instance, the Meyer
+Gage Catalog states that:
+
+               A GO gage is used to check the lower limit of a hole. A
+               NOGO gage is used to check the upper limit of a hole. If the
+               GO gage enters the hole and the NOGO gage is unable to
+               enter, the design specifications of the hole have been met.
+
+(R4, tab 108 at 3) The same source cautions that such gauges are used to inspect the holes
+for pass/fail compliance only, and will not measure the exact size of the hole (id. at 4).
+
+         16. On 25 March 2013 (there is no explanation in the record of what occurred, if
+anything, during the intervening eight months), DLA contracting officer (CO) Janice Hicks
+issued a show cause letter to MAP, inviting MAP to submit information bearing on
+whether the contract should be terminated for default, or a new delivery schedule should be
+established, within 10 days (R4, tab 11 ). MAP responded on 1 April 2013 that it had
+requested a no-cost resubmission and that it had enough parts in stock to immediately ship
+a first article and all production parts. It reiterated its position that the rejected first article
+was damaged during government inspection. (R4, tab 12 at 2) On 2 April 2013, CO Hicks
+
+                                               7
+responded that the government could not approve a no-cost first article resubmittal unless
+MAP provided evidence of the rejected part being damaged by the government (id.).
+CO Hicks' request for evidence of government damage drew the following response from
+QARFritz:
+
+               QAR Keeler and myself inspected the rejected part with
+               Military Aircraft Parts personnel when the part was
+               returned. We did not see any "clear and convincing
+               evidence" that the government caused damage to the part
+               during their test.
+
+               We did observe the part was nonconforming.
+               Just to be clear, DCMA at no time has recommended a no
+               cost FA resubmittal.
+
+(R4, tab 12 at 1)
+
+        17. On 5 April 2013, Mr. Marin responded to CO Hicks's invitation to submit
+evidence that the rejected part was damaged by the government by offering to return
+the damaged part to DLA "along with the 12 production parts that are in tolerance and
+undamaged. This will provide proof and assure that production parts are in tolerance
+at the same time." (R4, tab 14 at 2) CO Hicks responded the following Monday,
+8 April:
+
+               Rob
+
+               You have one of 2 choices-
+
+               1. You can resubmit the FAT samples and pay the cost for
+                  FAT resubmittal.
+               2. DLA can proceed with Termination for Default.l91
+
+               I need a decision no later than 16 April 2013. If no
+               response is received, then I will surmise that your decision
+               was for DLA to proceed with Termination for Default.
+
+On 17 April 2013, Mr. Marin responded that MAP agreed to the resubmittal and to pay
+the cost of re-testing. (R4, tab 14 at 1) That same day, Mr. Keeler emailed Mr. Marin
+and stated that MAP needed to make a new first article test part and could not use one
+
+9
+    In accordance with FAR 49.504(a)(l), the contract did not contain FAR 52.249-8. Default
+        (Fixed-Price Supply and Service) (or any other Default clause). The inclusion of this
+        clause was not required pursuant to FAR 49.504(a)(l) since the contract amount did
+        not exceed the simplified acquisition threshold. See FAR 2.101.
+                                             8
+of the parts from the prior production run, because "your FAT failed government
+inspection so all parts you made on the same run as the FAT are considered bad also"
+(R4, tab 15 at 1-2).
+
+        18. On 19 April 2013, DLA contract administrator Lee Skimin sent MAP contract
+Modification No. POOOO 1 (Mod. POOOO 1) containing a new CLIN and delivery date for
+the first article resubmittal (R4, tab 16 at 2, tab 2). Mr. Marin responded the following
+Monday, 22 April, that he was unsure how to proceed because:
+
+             2. On 6/20/12 we worked with our QAR to inspect all the
+             holes in the 12 remaining parts, which we would like to
+             use as our FA exhibit. All items were acceptable.
+             3. On 7/24/12 Randy's DCMA supervisor, Robert Presley,
+             also came in and the same inspection was conducted. All
+             holes were acceptable.
+             4. DCMA now wants to reject the parts with holes they
+             observed to be acceptable, per the email below [the
+             referenced email appears to have been deleted in the copy
+             provided by the government for the Rule 4 file].
+
+             The attached contract page seems to give the Government
+             the option to reject the parts, though this appears
+             counterproductive and cost prohibitive. Making new parts
+             obviously would require additional time and cost.
+
+             Is this something to address with your agency or DCMA?
+             I would certainly like to resolve this without further
+             conflict with DCMA.
+
+(R4, tab 17 at 2) The "attached contract page" refers to Section B of Order
+No. SPM4A7-11-M-Dl 11, which contains an unnamed, unnumbered, undated clause
+providing as follows:
+
+             SAMPLING:
+
+             1. SAMPLING FOR INSPECTION AND TESTING
+                SHALL BE IA W ANSI/ASQ Z.4-2008, DATED
+                JAN 1, 2008. ANY ALTERNATE PLAN MUST BE
+                APPROVED BY THE PCO. A SAMPLING PLAN
+                THAT ACCEPTS ON ZERO DEFECTS IS
+                REQUIRED.
+
+             2. ANY DEFECTIVE ITEM DISCOVERED DURING
+                INSPECTION MAY BE CAUSE FOR REJECTION
+
+                                          9
+                  OF THE ENTIRE CONTRACT QUANTITY.
+                  CRITICAL APPLICATION ITEM.
+
+(R4, tab 17 at 7, tab I at 4)
+
+       19. In response, CO Hicks emailed Mr. Marin on 23 April 2013, stating:
+
+              We cannot accept a new FAT sample from production
+              quantities where the FAT failed previously. The reason
+              being is your FAT failed government inspection so all
+              parts you made on the same production run as the FAT are
+              considered bad parts. That is a risk that you assumed when
+              you manufactured the entire production quantity at the
+              same time that you produce[ d] the FAT sample. You will
+              need to produce a new FAT sample and if it passes, then
+              you will need to produce new quantities.
+
+(R4, tab 17 at 1) Neither CO Hicks nor Mr. Keeler specified any contract term
+underlying their refusal to accept a new first article made from the same production
+run as the disapproved first article.
+
+        20. On 2 May 2013, MAP and the government executed bilateral Mod. POOOOl
+establishing a first article resubmittal date of 24 October 2013 (R4, tab 2). Mod. POOOOl
+states in pertinent part:
+
+              3. To re-submit a First Article, reference DLA Aviation,
+              FAWA Disapproval Letter, dated 19 JUN 2012. First
+              Article re-submission is as follows: a. Revise the delivery
+              date on CLIN 0002, formerly CLIN 9906 to 24 OCT 2013,
+              for First Article re-submission. b. Contractor shall provide
+              DLA Aviation with proof of delivery (DD250) and
+              shipping documents that the First Article re-submission
+              was shipped by the date above.
+
+              4. Revise the delivery date on CLIN 0001, Production
+              Units, as indicated- 22 APR 2014- due to the time
+              extension for the First Article re-submission.
+
+               5. Pursuant to FAR 52.209-4, the related costs are:
+
+              Re-Testing Charges: $651.07
+              Administrative Costs and Time Extension: Waived
+              Total: $651.07
+
+
+                                           10
+               Consideration in the amount of $651.07 is accepted for this
+               modification. For invoicing purposes, the contract value
+               will not be changed. Therefore, when invoicing the
+               contractor's invoice should NOT be adjusted to reflect this
+               modification. To effectuate this modification, the payment
+               office will offset the amount of this modification against
+               any outstanding payments due, potentially including other
+               contracts.
+
+               6. Pursuant to FAR 52.209-4 and the General Provision
+               Clauses, if the First Article re-submission is not delivered
+               by the date above, or if the First Article is disapproved
+               (second disapproval), this contract may be terminated in its
+               entirety at no cost to the Government.
+
+               Purpose of this modification is to authorize the Contractor
+               to re-submit the First Article, accept the Contractor's
+               consideration and to revise the delivery dates for the First
+               Article and for Production, due to the Contractor's decision
+               to re-submit a previously disapproved First Article.
+
+(R4, tab 2 at 2) Mod. POOOOl does not contain any requirement that the re-submitted
+first article be newly manufactured.
+
+       21. On 25 July 2013 MAP submitted a Request for Deviation/Waiver 10
+requesting permission to submit a new first article using one of the parts previously
+made. MAP reiterated that the remaining parts had been inspected with pin gauges in
+DCMA's presence and found to be 100% compliant with the .190-.194" hole
+requirement. (R4, tab 19 at 1, tab 20 at 2)
+
+        22. On 29 July 2013, Mr. Raymond Thomas, who had replaced Mr. Fritz as the
+QAR assigned to MAP, responded requesting an "inspection record showing the exact
+dimensions of all the holes for the twelve parts that were made with this first article"
+(R4, tab 20 at 2). Mr. Marin sent an email to Mr. Valenzuela, asking "Can you supply
+this?" (R4, tab 41 at 1). Mr. Valenzuela then sent Mr. Marin a copy of the inspection
+he had performed of the first article back in November 2011 (id. at 1, 10). Mr. Marin
+responded, "We need a QD form for the 12 extra parts ... not the 1 part we sent...can
+
+
+10
+     MAP asserts that it was directed by DCMA to file a waiver request as an alternative
+       to manufacturing more parts (app. reply br. at 6). However, there is no
+       evidence in the record supporting this assertion.
+                                            11
+you help?" Mr. Valenzuela responded, "I can modify or create a new one because the
+rest of the parts was finished, same machine and same program." (R4, tab 42 at 1) 11
+
+       23. Subsequently Mr. Marin sent Mr. Thomas an email with the message "See
+attached" (R4, tab 45). It is unclear from the Rule 4 file what was actually attached to his
+email. In any event, Mr. Thomas replied:
+
+               Rob,
+
+               Thank you for providing the inspection record from your
+               sampling. However I will need an inspection record for
+               each individual part that was made with the failed first
+               article showing the actual measurements for each hole that
+               is covered by .190-.194 DIA tolerance. Failure to provide
+               the documentation by 1 Aug. will cause the waiver to be
+               processed without this information.
+
+(R4, tab 20 at 1)
+
+      24. Mr. Marin then emailed Mr. Valenzuela, commenting "This seems
+unreasonable .. .! think measurements of 144 holes is excessive and unnecessary. Any
+thoughts?" (R4, tab 111 at 8)
+
+       25. Mr. Thomas and Mr. Keeler visited MAP on 1August2013. Mr. Valenzuela
+declares that:
+
+               I am sure I presented one new good part from inventory,
+               sometime after the first article rejection, to DCMA QAR
+               Greg Keeler. He said something to the effect of, "I'm
+               good with that. All you need is a mod now." I believe this
+               was on August Pt, 2013 to the best of my memory.
+
+(R4, tab 110,, 8) Mr. Marin states:
+
+               I am unsure about the events that occurred when DCMA
+               was at MAP's facility on 1August2013 for our regular
+               weekly QAR witness of parts, which is the deadline
+               QAR Thomas gave MAP to show inspection records
+               ofr [sic] all the holes for parts in inventory. However, the
+
+11
+     While the dates on these emails are considered reliable, the times are not. Most of
+        the emails are printed from government counsel's computer and it appears the
+        computer may have converted the original times of the most recent email in
+        each series from Pacific Time to Eastern Standard Time.
+                                            12
+              attached email from me [referring to his 29 July 2013
+              email quoted above] shows we knew inspection of all 144
+              holes in the good parts we had in stock could damage the
+              .190/.194 holes and may be the reason we failed to perform
+              the inspection. I believe this would be an issue we would
+              likely address with DCMA on that date, but we have no
+              other record of what transpired.
+
+(R4, tab 111, ~ 10)
+
+       26. Mr. Thomas's recollection of the I August meeting is as follows:
+
+              On August 1, 2013, I was at the MAP facility for a weekly
+              meeting. I asked Mr. Marin if MAP had an inspection
+              record showing dimensional measurements of all the holes
+              in all of the parts and he said he did not.
+
+(Gov't br., ex. E, Thomas decl. ~ 4) The record does not include a declaration from
+Mr. Keeler.
+
+        27. On 5 August 2013, DCMA's Mr. Presley forwarded MAP's waiver request
+package to DLA's Mr. Skimin for final approval/disapproval action by DLA Aviation.
+In the forwarding email, Mr. Presley stated: "Please note our functional specialists
+have reviewed this waiver request and do not recommend approval." (R4, tab 21 at I)
+By email dated 20 December 2013 (the delay is unexplained in the record), DLA
+notified MAP that its waiver request had been denied (R4, tab 22). Attached to the
+email were DCMA's comments on Form DD 1998. Mr. Thomas had commented, "I
+am not aware of any DCMA 100% inspection of the remaining twelve remaining [sic]
+parts. Requested the contractor provide inspection records for [sic] show the I 00% ·
+compliance with the .194/.190 requirement. The contractor never provided the
+records." (R4, tab 22 at 5) There is no explanation in the record of why Mr. Thomas
+insisted on an exact measurement of each hole in all the parts, vs. a pass/fail inspection.
+
+      28. In a 20 December 2013 email, Mr. Skimin ofDLA's contracting office
+informed MAP that:
+
+              Your RFW/RFD, dated 7/24/2013, has been denied. The
+              First article exhibit did not conform to Technical Data
+              Package requirements. Initial First Article disposition was
+              "Disapproved". Pursuant to FAR 52.209-4(h), before first
+              article approval, the acquisition of materials or components
+              for, or the commencement of production of, the balance of
+              the contract quantity is at the sole risk of the Contractor.
+              Your firm has 2 remaining options: I-resubmit a
+
+                                            13
+              conforming first article for government evaluation, as
+              prescribed in Modification POOO[O]l dated 2 MAY 2013;
+              or 2-take no action."
+
+A response was requested by 27 December 2013. (R4, tab 22 at 1)
+
+       29. On 27 December 2013, MAP (Mr. Marin) responded in part:
+
+              We respectfully reiterate our original position that the first
+              article for this contract was erroneously rejected by the
+              Government and the production parts we currently have in
+              our possession, sufficient in quantity to satisfy the
+              requirements of the entire contract, should be inspected
+              and accepted. Delivery of production parts would occur
+              when the final inspection paperwork is completed by
+              MAP, within two weeks of Government notification of
+              acceptance of this proposal.
+
+              We also respectfully decline to manufacture a new lot of
+              first article parts.
+
+(R4, tab 23 at 1) Mr. Marin further articulated the view that since the nonconforming holes
+and the holes from which paint had been removed were the same holes, the observed
+discrepancy was easily correctable in production and the government should have
+conditionally approved the part. He stated that the government had failed to explain its
+basis for refusing to allow other parts manufactured at the same time to be used for a new
+first article submission and, while he assumed that the government was relying on the
+contract clause stating that "any defective item discovered during inspection may be cause
+for rejection of the entire contract quantity," he did not believe that clause applied to the
+current situation but to instances where latent defects may be present in production parts or
+fraud or misrepresentation had occurred. (Id. at 1-2)
+
+       30. The record does not indicate whether the CO responded to Mr. Marin's email,
+other than to withdraw the purchase order for failure to meet the first article delivery date
+by unilateral Mod. P00002, effective 13 January 2014 (R4, tab 3). On 21April2015,
+MAP submitted its claim for breach of contract, alleging breach of the implied duty of
+good faith and fair dealing and seeking as damages restitution of the cost incurred to
+manufacture the parts ($10,591.42) plus the $651.07 paid to DLA as consideration for
+Mod. POOOO 1 (R4, tab 25). The claim was denied by CO Hicks on 13 May 2015 (R4,
+tab 26), and this appeal followed.
+
+        31. MAP' s inspection of the first article as well as other parts in the same
+production run before the first article was shipped to the government for first article
+testing consistently recorded conforming hole diameters ranging from .191 to .194
+
+                                            14
+inches (finding 11). Government QAR Gordon Gregory signed off on MAP's first
+article test report on 30 January 2012 expressly noting that he had witnessed the
+dimensional inspection and methods and recommending FAT approval (id.). The
+contract required that cadmium plating and epoxy-polyamide primer be applied to the
+part as part of the manufacturing process prior to shipment and testing of the first
+article (finding 1). The first article and all the other parts manufactured in the same
+production run therefore had both cadmium plating and primer applied prior to
+shipment of the first article to the government for testing.
+
+        32. After inspection, the government's dimensional technician reported that
+instead of the required dimension of .190 to .194 inches, the diameter of the holes was
+.195 to .196 inches "[in] twelve places." This was the only respect in which the first
+article did not meet contract requirements. (Finding 3) When the disapproved first
+article part was returned to MAP for inspection in the presence of the DCMA QARs
+on 20 June 2012, only three holes out of the total of twelve holes were found to be
+.195 to .196 inches in diameter, while the remaining nine were the required .190 to
+.194 inches in diameter (finding 5). The three nonconforming holes all had paint
+missing (id.). The nine holes that did not have paint missing were measured as
+conforming (id.).
+
+        33. The government does not dispute either that the nine holes without paint
+removed were conforming, or that all three nonconforming holes had paint missing.
+When Mr. Marin of MAP observed following the 20 June 2012 inspection of the
+returned part that the nonconforming condition could have been caused during the
+government inspection by forcing a gauge pin through the holes, thereby removing the
+paint, government QAR Fritz found this theory plausible, but unlikely (finding 5). The
+government's dimensional technician, on the other hand, while denying that she forced
+a gauge pin through the holes, stated that it is possible paint was removed during the
+inspection process and that the removal of paint would be a "typical" result of the
+inspection process (finding 7).
+
+        34. Based on the ESA technician's use of pin gauges during the inspection
+process (finding 8), her admission that paint could have been removed during her
+inspection and that such a result would be "typical," the evidence of record that pin
+gauges are not suitable for exact hole measurement because they tend to enlarge the
+hole (finding 15), the fact that a dimensional discrepancy of only two thousandths of
+an inch ( .196 vs .. 194) separated the failing holes from the passing holes, and the fact
+that paint was missing from the failing holes and only from the failing holes, we find
+that it most probable that the technician attempted an exact measurement of three holes
+with gauge pins, removing paint in the process, and then extrapolated the results to the
+other holes. Based on the evidence that the holes met the required dimensions prior to
+being shipped to the government for testing (finding 11) and no other discrepancies
+were noted in the inspection process (finding 3), we further find that MAP's first
+article met all contract requirements and that the dimensional discrepancy that resulted
+
+                                            15
+in the disapproval ofMAP's first article was caused by the government's own
+inspection process. 12
+
+        35. The contract in this case was a unilateral purchase order which by its terms
+lapses if complete performance in accordance with the offer's terms and conditions is
+not tendered. We find that MAP first tendered performance that met the offer's terms
+and conditions on 30 January 2012, when it shipped its first article for government
+inspection (finding 3). Thus, the unilateral purchase order was converted to a contract
+as of that date.
+
+        36. In finding that the first article met the contract requirements, we necessarily
+reject the government's argument that the 12 holes in MAP's first article part were
+required to meet the specified dimensions after paint was removed. The government
+has not directed us to any contract provision supporting this argument, and we have
+found none. To the contrary, the contract required that a cadmium coating and primer
+both be applied to the part before shipping it for inspection (finding 1), and thus we
+find that the contract required the dimensional requirement to be met with paint, not
+without.
+
+       37. Because MAP's first article met all contract requirements when shipped to
+the government (finding 34), we find that the CO's disapproval of that first article was
+improper. We also find that the CO's subsequent failure to acknowledge (1) that the
+government's own inspection process removed paint from three holes in MAP's part,
+causing them to be out of tolerance, and (2) that the remaining parts in MAP's
+inventory were in tolerance and acceptable, was unreasonable based in part on
+information known to her and in part on information known to the DCMA QARs
+whose knowledge is imputed to her. The QARs knew or had reason to know, either
+from the initial inspection of the first article part (findings 11, 31 ), or from the
+subsequent inspections of the disapproved first article compared to other parts
+manufactured at the same time (findings 5, 32), that the first article was damaged
+while in the government's possession and that the parts from the same run that MAP
+had in stock were fully acceptable under the contract. 13 The CO herself was personally
+
+12
+   With respect to our finding that MAP's first article met the contract requirements,
+      we note that the government has introduced evidence of difficulties MAP
+      encountered at the outset in manufacturing this part. MAP has explained in a
+      supplemental declaration from Mr. Marin that its first attempt at production
+      employed two inexperienced machinists due to a labor shortage (app. reply br.,
+      ex. F ,-i 8). The second production run from which the first article was
+      submitted employed two experienced machinists and no notable problems were
+      encountered (id.). The government has not introduced any evidence that MAP
+      experienced any difficulties in manufacturing the first article that was actually
+      submitted.
+13
+   The record does not reveal whether or not this information was actually shared with her.
+                                            16
+aware from MAP's contract correspondence that MAP contended its first article had
+been damaged by the government and that its remaining parts were acceptable, yet
+rejected MAP's offer to deliver the parts and let the government see for itself
+(findings 16-17).
+
+        38. Once MAP executed Mod. POOOOl establishing a new first article delivery
+date, it submitted a request for waiver/deviation again seeking the government's
+concurrence that it could submit an existing part as its first article. Raymond Thomas,
+the then-QAR, responded requesting an inspection record "showing the exact
+dimensions of all the holes for the twelve parts that were made with this first article."
+(Findings 21, 22) QAR Thomas provided no explanation to MAP of why exact
+measurement of the diameter of each hole in each part was needed to determine the
+dimensional compliance of the holes, and none otherwise appears in the record
+(finding 27). From the evidence of record (findings 7, 17), the Board concludes that
+pass/fail inspection using go/no-go gauges would have provided the government with
+adequate assurance that the holes were compliant, and, moreover, that exact
+measurement posed a risk of enlarging the holes and destroying what otherwise would
+have been a good part, as happened in the initial government inspection. Thus, we
+find the QAR's insistence on exact measurement of each of 144 holes to have been
+unreasonable, and the CO's denial of MAP's waiver request based on its failure to
+conduct an exact measurement of 144 holes to also have been unreasonable.
+
+       39. The CO's failure to acknowledge that government-caused damage to
+MAP's first article was the sole cause of its disapproval led directly and inevitably to
+her subsequent actions we find to have been unreasonable: the CO's failure to allow
+MAP a no-cost resubmittal (findings 16-17); the CO's imposition of a requirement that
+MAP manufacture a new part for the re-submittal (findings 18-19); the CO's denial of
+MAP's waiver request based on MAP's failure to comply with DCMA's unreasonable
+requirement to measure all 144 holes (findings 22, 27); and, ultimately, the CO's
+unilateral cancellation of the contract in January 2014 (finding 30).
+
+                                      DISCUSSION
+
+        MAP asserts that the government was not justified in disapproving its first
+article part because the government's unduly forceful inspection damaged the three
+holes found to be nonconforming. MAP also asserts that by insisting that the hole
+dimensions without paint meet the specified dimensions, the government imposed a
+more stringent or different inspection standard in its inspection of MAP's first article
+than provided for in the contract. In their totality, MAP asserts, the government's
+actions in this case violated the implied duty of good faith and fair dealing and
+constituted a breach of contract. MAP asserts entitlement to restitution, to restore it to
+the status quo ante (as if there never had been a contract that was breached), in the
+amount of $11,242.49. (R4, tab 25; app. br. at 9-16)
+
+
+                                            17
+        The government asserts at the outset that the unilateral purchase order at issue in this
+appeal, as modified by bilateral Mod. POOOO 1, required delivery of a first article by
+24 October 2013, and since MAP failed to do so, the CO was justified in cancelling the
+order (gov't br. at 24-25). The government acknowledges that MAP's position is that the
+CO abused her discretion in not allowing MAP to resubmit a first article using one of the
+production parts it had already manufactured (id. at 25). The government's response to this
+is in two parts: first, the government argues that MAP agreed to submit a newly
+manufactured first article by entering into Mod. POOOO 1 after being informed by
+government representatives that only a newly manufactured first article would be acceptable
+(id. at 25-26). Secondly, the government argues that, aside from Mod. POOOOl, the contract
+clause specifically stating that any defective item discovered during inspection may be
+cause for rejection of the entire contract quantity gave the CO the right to decide not to
+accept any parts made in the same production run as the disapproved first article (id. at 26).
+
+        As to the issue whether the government was justified in disapproving the initial
+first article, the government first argues that MAP is foreclosed from contesting this
+issue by having entered into Mod. POOOO 1, citing James Electronics, Inc., ASBCA
+No. 43505, 93-2 BCA ~ 25,677 at 127,728 (by agreeing to a new delivery schedule
+after two failed first article submissions, appellant surrendered its right to argue any
+then existing causes as a defense to its failure to deliver an acceptable first article on
+the third submittal) (id. at 30-31). Secondly, the government states that the
+disapproval, if reviewable, was correct because the holes in the part were oversized
+and MAP has not met its burden of proving that this defect was easily correctable in
+production (id. at 32-33).
+
+        To recover on its breach of contract theory, MAP must show ( 1) a valid contract
+between the parties; (2) an obligation or duty of the government arising out of the
+contract, (3) a breach of that duty, and (4) damages caused by the breach. San Carlos
+Irrigation & Drainage Dist. v. United States, 877 F.2d 957, 959 (Fed. Cir. 1989);
+Northrop Grumman Systems Corporation Space Systems Division, ASBCA No. 54774,
+10-2 BCA ~ 34,517 at 170,23 7. We consider each of these elements in tum.
+
+       1. A valid contract between the parties. The contract in this case was a
+unilateral purchase order. As such, as a matter of law, it constitutes an offer to buy
+certain supplies on specified terms and conditions if the offer is accepted by delivering
+those supplies on or before the date specified. If complete performance in accordance
+with the offer's terms and conditions is not tendered, the offer lapses by its terms.
+Comptech Corp., ASBCA No. 55526, 08-2 BCA ~ 33,982 at 168,082. We have found
+that MAP did tender acceptable performance (finding 35). Therefore, Order
+No. SPM4A7-l l-M-Dl 11 was a valid contract between the parties.
+
+      2. An obligation or duty of the government arising out of the contract. The
+government was obligated to evaluate MAP's first article in a reasonable manner in
+accordance with the terms of the contract. First articles are typically not production items
+
+                                            18
+and, unlike production items, which are either accepted or rejected, first articles are either
+approved, conditionally approved, or disapproved. Military Aircraft Parts, ASBCA
+No. 59978, 15-1BCA~36,101at176,258; see also FAR 52.209-4, FIRST ARTICLE
+APPROVAL - GOVERNMENT TESTING (SEP 1989) clause, which was included in the
+contract (finding 2): "Within 120 calendar days after the Government receives the first
+article, the Contracting Officer shall notify the Contractor, in writing, of the conditional
+approval, approval, or disapproval of the first article" (id. ~ (b) ). This clause is
+prescribed for use in contracts by FAR Part 9, Contractor Qualifications, which in
+Subpart 9.3, First Article Testing and Approval, sets forth the purpose of first article
+testing, which is to ensure that a contractor "can furnish a product that conforms to all
+contract requirements for acceptance." FAR 9.302.
+
+         The first article clause does not give the government the right to disapprove a
+first article for any noncompliance with specifications that would be a valid reason for
+rejection of supplies tendered for delivery under the contract. Marvin Engineering
+Co., ASBCA No. 27016, 84-2 BCA ~ 17,401 at 86,674. Ordinarily, the primary
+purpose for requiring first article submission is to prove the capability of the contractor
+to produce end products that will meet contract requirements. Id. (citing Astra Science
+Corp. v. United States, 471F.2d624 (Ct. Cl. 1973); Farris and Company, ASBCA
+No. 31275, 73-1 BCA ~ 9963)). Deficiencies in a first article that are correctable in
+production are not a valid basis for an outright disapproval and, in recognition of this,
+the first article approval clause expressly provides for conditional approval. Id.
+
+       First article testing and inspection of supplies have distinctly different purposes.
+As noted above, the purpose of first article testing is to determine whether the
+contractor can produce the supplies to the contract specifications. FAR 9.302. FAR
+Part 9 governs contractor qualifications and prescribes the use of the first article
+testing clause, FAR 52.209-4, under which deficiencies in a first article that are
+correctible in production are not grounds for disapproval. The purpose of inspection
+of supplies, on the other hand, is to determine whether production parts that have been
+delivered should be accepted. FAR Part 46, Quality Assurance, governs the inspection
+of delivered supplies and services.
+
+        In addition, both parties to the contract owe each other the implied duty of good
+faith and fair dealing. In Metcalf Construction Co. v. United States, 742 F.3d 984, 990
+(Fed. Cir. 2014), the United States Court of Appeals for the Federal Circuit affirmed
+the basic principle that the parties to a government contract are under a duty of good
+faith and fair dealing in the performance and enforcement of the contract, and that
+failure to fulfill that duty constitutes a breach. "The covenant of good faith and fair
+dealing .. .imposes obligations on both contracting parties that include the duty not to
+interfere with the other party's performance and not to act so as to destroy the
+reasonable expectations of the other party regarding thefruits of the contract." Id. at
+991 (citing Centex Corp. v. United States, 395 F.3d 1283, 1304 (Fed. Cir. 2005)).
+
+
+                                            19
+        In order to prove a violation of the duty, a contractor need not necessarily prove
+that the government specifically targeted action to obtain the benefit of the contract or
+that the government's actions were undertaken for the purpose of delaying or
+hampering performance of the contract. Metcalf, 742 F.3d at 993. Rather, the implied
+duty of good faith and fair dealing is "limited by the original bargain: it prevents a
+party's acts or omissions that, though not proscribed by the contract expressly, are
+inconsistent with the contract's purpose and deprive the other party of the
+contemplated value." Id. at 991.
+
+         3. A breach of the duty. Based on the record before us, we have found that
+MAP's first article met all contract requirements, including hole diameter, when shipped
+to the government. Were it not for the damage caused to the first article while in the
+government's possession, there would not have existed any reason not to approve the
+first article. Thus, the CO's disapproval of the first article submitted by MAP on
+30 January 2012 was unreasonable. In addition, the CO's refusal to allow MAP to
+submit another part from the same production run for re-testing, the after-the-fact
+imposition of a requirement that the holes in the part meet the dimensional requirement
+without paint, and the insistence that MAP conduct exact measurements of all 144 holes
+before a waiver would be considered, had no basis in the contract and were unreasonable.
+(Findings 37-39)
+
+        These acts were in violation both of the government's duty to evaluate MAP's
+first article in accordance with the express terms of the contract, and its implied duty to
+cooperate and not willfully or negligently hinder the contractor's performance.
+American Ordnance LLC, ASBCA No. 54718, 10-1BCA~34,386 at 169,795 (citing
+Malone v. United States, 849 F.2d 1441, 1445 (Fed. Cir. 1988)). We impute to the CO
+the knowledge of her representatives, the DCMA QARs, in finding the government's
+conduct to have been a breach of the duty of good faith and fair dealing. Walter Straga,
+ASBCA No. 26134, 83-2 BCA ~ 16,611at82,617-18.
+
+        We find inapposite the government's argument that our holding in James
+Electronics forecloses MAP from contesting the CO's disapproval of the first article.
+In that case, we held that the government had met its burden to show that the
+submitted first article, on a third submission, failed to meet contract requirements, and
+that the contractor had not met its burden to show that the defects were easily
+correctable in production. 93-2 BCA ~ 25,677 at 127,728. In connection with the
+latter holding, we observed:
+
+                      To the extent that appellant's brief concentrates
+              upon initial problems in appellant's obtaining copies of
+              pertinent specifications and differences in test
+              configuration when the second FA submittal was rejected,
+              as excusable causes for default, it is unavailing. The law is
+              clear that by agreeing to a new delivery schedule, which
+
+                                           20
+              appellant did in the fall of 1990, long after the first two FA
+              rejections .. .it surrendered its right to argue any then
+              existing causes as a defense to its failure to deliver an
+              acceptable FA on its third submittal.
+
+Id. In stark contrast, in this case MAP contends, and the preponderance of the
+evidence shows, that MAP's first article did meet contract requirements when first
+submitted. MAP is not presenting "defenses" to a failure to deliver an acceptable first
+article because there was no such failure.
+
+        We also reject the government's contention that CO Hicks was justified in
+requiring a newly manufactured first article because the contract included a clause
+stating that any defective item discovered during inspection may be cause for rejection
+of the entire contract quantity (gov't br. at 26). This clause, reproduced in full at
+finding 18, refers to "SAMPLING FOR INSPECTION AND TESTING," and states
+that "ANY DEFECTIVE ITEM DISCOVERED DURING INSPECTION MAY BE
+CAUSE FOR REJECTION OF THE ENTIRE CONTRACT QUANTITY." This
+language contemplates that a production lot will be delivered and items (the sample)
+will be selected from that lot for testing that will result in acceptance or possibly
+rejection of the entire lot. In contrast, the contract's first article testing clause, which
+applies in this case, calls for the delivery of an item or items that are not expected to be
+part of a production lot and which are inspected for the purpose of determining
+whether the contractor has the capability of producing items that meet the contract
+requirements. If the first article is approved or conditionally approved, then the
+contractor is given the opportunity to deliver the production quantity.
+
+        In order to shed light on the applicability of this clause to first article testing,
+the government was directed to supplement the record in this appeal with more
+information about the provenance of the clause. In response, the government informed
+the Board that the language of the clause is not part of any standard contract clause,
+and that it is included in Section B of the contract as part of the "standalone narrative
+terms of the contract" (Bd. corr. file, ltr. dated 9 February 2016). The government also
+provided the Board with an electronic link to the archived version of the DLAD in
+effect at the time the contract was issued (representing that the full DLAD comprised
+approximately 750 pages). The government stated further:
+
+                      With respect to the Board's question about whether
+              the clause applies to first article testing or production lot
+              testing, Respondent's position is that the plain terms of the
+              clause state that it applies to inspection ("Any defective
+              item discovered during inspection ... ") and there are two
+              inspection points identified in the contract - the first article
+              inspection and the production quantity inspection. Se[ e]
+              R4 Tab 1 at 2 ("F AT:Inspection=Origin, Acceptance=
+
+                                            21
+              Destination; Remaining Production:
+              Inspection/Acceptance=Origin). Respondent further notes
+              that the contract does not contemplate production lot
+              testing as there is no Production Lot Test clause in the
+              contract. See DLAD 52.209-9026, Production lot test
+              (PLT)
+              (http://farsite.hill.af.mil/archive/Dlad/Rev5_PROCL TRI 0-
+              40/Part52.htm).
+
+(Bd. corr. ltr. dtd. 22 February 2016)
+
+        The Board agrees that the contract does not contain the cited production lot
+testing clause. This makes sense, since the contract calls for first article testing, not
+production lot testing. The contract's first article testing clause, FAR 52.209-4, provides
+that following first article disapproval, if the government requests it, the contractor shall
+submit an additional first article for approval (finding 2). Nothing in the first article
+clause gives the government the right to dictate that only a newly manufactured part may
+be submitted as the additional first article. Nor does the non-standard contract language
+on which the government relies, as explained below.
+
+       The Board's review of the archived DLAD revealed that, subsequent to the issuance
+of the subject contract, pursuant to PROCLTR 11-45, PRODUCTION LOT TEST (PL T) (JAN
+2009) clause, DLAD 52.209-9026, was removed and replaced with new clauses:
+DLAD 52.246-9085, PRODUCTION LOT TESTING (PL T) - GOVERNMENT (JUL 2011 ); and
+DLAD 52.246-9086, PRODUCTION LOT TESTING (PL T) - CONTRACTOR (JUL 2011 ),
+Furthermore, the production lot testing clause (JUL 2011) contains language very similar to
+that on which the government relies:
+
+              (e) Upon completion of the PL T sample testing, the
+              Government test facility will provide the results to the
+              FAT/Testing Monitor (or ACO) and to the Contracting
+              Officer. If the PLT sample is disapproved, the
+              Government shall advise the Contractor of the
+              nonconformance, and whether the Contractor will be
+              allowed to produce a new lot to tender for testing.
+              Disapproval of the PLT sample is grounds for rejection of
+              the entire production lot produced. The Contractor shall
+              discard any failed production lot produced and produce a
+              new production lot under the contract terms and
+              conditions. [Emphasis added]
+
+
+                                            22
+http://farsite.hill.af.mil/archive/Dlad/Rev5 _PROCL TRl 1-45/PART52.htm. The
+quoted language is essentially unchanged in the current version of the production lot
+testing clause. 14
+
+        As discussed above, the non-standard contract clause relied on by the
+government, on its face, appears inapplicable to the first article testing process
+contemplated in the contract's first article clause. This, combined with the fact that
+substantially the same provision was incorporated in the 2011 production lot testing
+clause, leads the Board to conclude that the non-standard clause incorporated in the
+contract does not apply to first article testing and may not be invoked by the government
+to justify its imposition on MAP of requirements not authorized in the contract's first
+article testing clause. Moreover, even if we found that the clause properly applied to
+first article testing, it speaks in permissive, not mandatory terms. Under the facts and
+circumstances present in this case-where the part was damaged while in the
+government's possession and there was, therefore, no rational basis for concluding that
+the remaining parts manufactured by MAP were defective-it would still be
+unreasonable and an abuse of discretion for the government to require MAP to
+manufacture a new run of parts for a first article re-submission. In conclusion, the CO's
+insistence that MAP incur the expense of a whole new production run in order for the
+government to conduct another first article test was an unreasonable imposition of yet
+another obstacle to contract performance and a breach of the government's implied duty
+to cooperate and not hinder performance of the contract. 15
+
+       Ultimately, CO Hicks cancelled the purchase order after MAP insisted on its
+right under the contract to submit an existing part for the first article re-testing
+(finding 30). This action was also a breach of the contract, since MAP had effected
+delivery according to the terms of the contract by tendering a conforming first article.
+
+
+14
+   The Board also finds it significant that both the production lot testing regulatory
+       provisions and the related contract clauses were moved from Part 9 of the
+       DLAD, which addresses Contractor Qualifications, to Part 46, which addresses
+       Quality Assurance. This underscores the distinction in process and purpose
+       between first article testing to qualify a contractor to produce a part, and
+       inspection of delivered supplies to determine their acceptability.
+15
+   We also reject the government's argument that MAP nevertheless agreed to provide
+       a newly manufactured first article by entering into Mod. POOOO 1 after being
+       informed by a government representative that a newly manufactured first article
+       would be required (gov't br. at 25-26). Mod. POOOO 1 on its face did not require
+       MAP to submit a newly manufactured first article, and MAP did not otherwise
+       acquiesce to the government's demand. The government has not met its burden
+       of proof on this issue. DTC Engineers & Constructors, LLC, ASBCA
+       No. 57614, 12-1 BCA ~ 34,967 at 171,899.
+                                           23
+            While we find numerous breaches, both of express contract duties and the
+    implied duty of good faith and fair dealing, we do not find that any of the government
+    officials involved acted with malice or specific intent to injure MAP.
+
+            4. Damages caused by the breach. The contract's First Article Testing clause
+    provides that the contractor assumes the risk of any production parts manufactured
+    prior to first article approval; the cost thereof shall not be allocable to the contract for
+    purposes of progress payments or termination settlements (finding 2). In this case,
+    neither progress payments nor a constructive termination for convenience are
+    presented. Because the contract did not contain the standard Default clause,
+    FAR 52 .249-8, even if we were to conclude that the CO' s cancellation of the contract
+    equated to an improper termination for default, the government cannot avail itself of
+    the conversion of an improper default termination to a termination for convenience
+    provided for by paragraph (g) of that clause. 16 This being so, paragraph (h) of the First
+    Article Testing clause is not applicable and MAP is entitled to breach damages.
+
+            The contract price of $7550.00 included 1 first article and 6 production parts.
+    MAP elected to make 13 parts altogether in one production run, and claims its costs of
+    manufacturing all 13 parts ($10,591.42) plus $651.07 paid to DLA as consideration for
+    Mod. POOOO 1 (R4, tab 25). We have found that the government breached the contract
+    and its actions prevented MAP from successfully delivering conforming parts. Thus,.
+    the appropriate measure of foreseeable damages flowing from the government's
+    breach is the contract price, $7,550.00.
+
+            We do not grant MAP the full amount of its requested damages. The contract
+    only called for six production parts and it would be sheer speculation that it would
+    have ordered six more. As to the amount of $651.07 MAP agreed to as consideration
+    for the government's agreement to a first article resubmission, MAP has not met its
+    burden to show this amount was ever paid to or collected by the govemment. 17
+
+           Accordingly, this appeal is sustained in part.
+
+    16
+       Because the Default clause was not required to be included (see fn. 9 above), it is not
+           incorporated into the contract by operation of law. American Water Cooling
+           Equipment Corp., GSBCA No. 9083-TD, 89-1BCA~21,364 at 107,689; compare
+           Turnco Machine Co., ASBCA No. 33559, 88-2 BCA ~ 20,551(FAR52.249-8
+           required and incorporated by operation of law).
+    17
+       The government contends this amount was never charged to MAP (gov't br. at 34).
+           MAP counters that this amount was deducted from other amounts due and
+           owing to MAP per the terms of Mod. POOOO 1. Mod. POOOO 1 states that "the
+           payment office will offset the amount of this modification against any
+           outstanding payments due, potentially including other contracts" (R4, tab 2
+           at 2). We cannot find any evidence in the record that the amount was actually
+           collected from MAP.
+                                                24
+
+I
+                                       CONCLUSION
+
+           For the foregoing reasons, we sustain the appeal in the amount of $7,550.00,
+    plus interest pursuant to 41U.S.C.§7109 calculated from 21April2015 until paid.
+
+          Dated: 31 May 2016
+
+
+                                                     LYNDiO'SULLIVAN
+                                                                                            -
+                                                     Administrative Judge
+                                                     Armed Services Board
+                                                     of Contract Appeals
+
+
+     I concur
+
+
+      ~
+     ~~~~                                           _Rl_C_H_ARD
+                                                            _ _S_H_A_C_K-LE_F_O_RD
+                                                                                _ _ __
+     Administrative Judge                            Administrative Judge
+     Acting Chairman                                 Vice Chairman
+     Armed Services Board                            Armed Services Board
+     of Contract Appeals                             of Contract Appeals
+
+
+           I certify that the foregoing is a true copy of the Opinion and Decision of the
+    Armed Services Board of Contract Appeals in ASBCA No. 60009, Appeal of Military
+    Aircraft Parts, rendered in conformance with the Board's Charter.
+
+          Dated:
+
+
+                                                     JEFFREY D. GARDIN
+                                                     Recorder, Armed Services
+                                                     Board of Contract Appeals
+
+
+                                              25
+1
+I

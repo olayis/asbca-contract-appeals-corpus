@@ -1,0 +1,1168 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+    Appeal of -                                   )
+                                                  )
+    ECC International Constructors, LLC           )    ASBCA No. 59643
+                                                  )
+    Under Contract No. W912ER-10-C-0054           )
+
+    APPEARANCES FOR THE APPELLANT:                     R. Dale Holmes, Esq.
+                                                       Michael H. Payne, Esq.
+                                                        Cohen Seglias Pallas Greenhall & Furman PC
+                                                        Philadelphia, PA
+
+    APPEARANCES FOR THE GOVERNMENT:                    Michael P. Goodman, Esq.
+                                                        Engineer Chief Trial Attorney
+                                                       Martin Chu, Esq.
+                                                       Katherine M. Smith, Esq.
+                                                       Engineer Trial Attorneys
+                                                       U.S. Army Engineer District, Middle East
+                                                       Winchester, VA
+
+                  OPINION BY ADMINISTRATIVE JUDGE MCILMAIL
+
+       In this appeal concerning a contract to design and construct a 20-building
+military compound in Afghanistan, appellant, ECC International, Inc. (ECCI), requests
+$3,512,057 for alleged government-directed contract changes, or constructive contract
+changes, regarding the design of the project’s communications system. We issued an
+opinion in a companion appeal, ECCI Int’l Constructors, LLC, ASBCA No. 59586,
+2025 WL 1357784 (Apr. 18, 2025), as well as other, related opinions, and assume the
+reader’s familiarity with those opinions. 1
+
+                                    FINDINGS OF FACT
+
+      The contract was awarded on September 29, 2010, in the amount of
+$29,186,338, and called for ECCI to design and construct a 70,000 square meter
+compound whose primary facilities included a communications building. ECCI was to
+complete the work within 548 days of receipt of the notice to proceed. After
+
+
+1
+    E.g., ECC Int’l Constructors, LLC, ASBCA No. 59643, 21-1 BCA ¶ 37967
+          at 184,392; rev’d and remanded, ECC Int’l Constructors, LLC v. Sec’y of Army,
+         79 F.4th 1364 (Fed. Cir. 2023).
+modifications, the revised contract completion date was March 13, 2013. ECCI,
+2025 WL 1357784.
+
+        The contract is of the “design-build” type. Section 3.9 of the contract provides
+that ECCI’s design submittals were required to be submitted for government approval
+at the “Preliminary (65%), Final (95%), and at the Cleared for Construction (100%)
+stage[s].” Section 3.9.2, “Final Design Review Submittal (95%),” provides that “[t]he
+review of this submittal is to insure that the design is in accordance with directions
+provided the Contractor during the design process,” and that “[t]he only effort
+remaining between the FINAL DESIGN REVIEW SUBMITTTAL and the
+‘CLEARED FOR CONSTRUCTION’ DESIGN REVIEW SUBMITTAL is the
+incorporation of the Government Review Comments.” Id.
+
+       The government approved ECCI’s 95% design on August 23, 2011, providing
+56 comments on the communications design, one of the ten components of ECCI’s
+proposed design. ECCI submitted its 100% design on November 19, 2011,
+incorporating those comments. Most of the project’s buildings were cleared for
+construction in December 2011. However, on December 16, 2011, the government
+disapproved the 100% design, providing 226 new comments on the communications
+design. The government would require ECCI to submit the 100% communications
+design for review no fewer than three more times before approving it. Id.
+
+                                        DECISION
+
+       Pointing principally to the communications of James R. (“Chip”) Hopkins, Jr.,
+a government employee who authored “the Section 10 portion” of the contract
+specifications related to the project’s communications system, and who is referred to
+by the parties as a “design reviewer,” 2 ECCI brings change claims regarding
+(1) additional and changed outlets, (2) dedicated electrical systems, (3) additional
+government design review requirements, (4) server cabinets and wall-mounted racks,
+(5) “UL Listed communications materials,” (6) “LeGrand raised floor boxes,”
+(7) “non-metallic, UL Listed, surface-mounted raceway,” (8) UL Listed flexible
+conduits and spare conduit, (9) “trunk and splice,” (10) spare capacity and wire
+managers for relay racks, (11) an uninterruptible power supply (UPS), (12) UL Listed
+HVAC equipment with R-410 refrigerant, (13) additional Local Operator Consols
+(LOCs), (14) a resized vehicle maintenance facility, and (15) “144 FOCU Units.” 3
+
+2
+    Tr. 8/5-6; app. br. at 5 ¶ 24; gov’t br. at 56.
+3
+    App. br. at 65-92. This list generally tracks the order and nomenclature of the items
+          that ECCI addresses at pages 65-92 of its initial post-hearing brief. There are
+          three exceptions: (1) item number 14 at page 92 of that brief references the
+          relocation of a spoils pile, for which, in ECCI Int’l Constructors, LLC, ASBCA
+          No. 59643, 24-1 BCA ¶ 38,490 at 187,085, we awarded $29,680, upon the
+                                             2
+ECCI charges that “[d]espite numerous complaints from ECCI that [Mr.] Hopkins was
+directing changes to the contract,” the administrative contracting officer (ACO) and
+the contracting officer’s representative (COR) “failed to investigate the propriety of
+[Mr.] Hopkins’ comments, instead directing ECCI to follow them,” 4 and that the ACO
+and the COR “had virtually no knowledge or experience with communications
+systems, continually deferred to [Mr.] Hopkins, and directed ECCI to comply with his
+comments without any due diligence verification.” 5
+
+      The contract vests the authority to change the contract in the contracting officer,
+incorporating the full text of Federal Acquisition Regulation (FAR) 52.243-4,
+CHANGES (JUN 2007), which provides:
+
+              (a) The Contracting Officer may, at any time, without
+                  notice to the sureties, if any, by written order
+                  designated or indicated to be a change order, make
+                  changes in the work within the general scope of the
+                  contract . . .
+
+                                          ....
+
+              (b) Any other written or oral order (which, as used in this
+                  paragraph (b), includes direction, instruction,
+                  interpretation, or determination) from the Contracting
+                  Officer that causes a change shall be treated as a
+                  change order . . . . 6
+
+Pursuant to FAR 52.243-4, “a contractor is entitled to an equitable adjustment only for
+those changes ordered or directed by the [c]ontracting [o]fficer.” Edge Constr. Co. v.
+United States, 95 Fed. Cl. 407, 420 (2010). Even the contracting officer’s authorized
+
+         agreement of the parties; (2) we address, at item number 4, “server cabinets and
+         wall-mounted racks” (also referred to as “relay racks”) for which ECCI requests
+         (at page 98 of its brief) $170,462, but does not include in the list of change
+         claim items that appears on pages 91-92 of its brief; and (3) additionally, we
+         address, at item number 16, below, what the government at page 119 of its
+         initial brief says is a claim that ECCI has abandoned, concerning ladder rack
+         and overhead cable tray. Finally, in ECCI Int’l Constructors, LLC, 24-1 BCA
+         ¶ 38,490 at 187,085, we awarded, upon the agreement of the parties, $24,904
+         for work on a military working dog kennel, which ECCI addresses on pages
+         88-89 of its 2020 initial post-hearing brief.
+4
+  App. br. at 11 ¶ 58.
+5
+  Id. at 17 ¶ 69.
+6
+  R4, tab 5 at 92-93.
+                                            3
+representative cannot change the contract: the contract incorporated Defense Federal
+Acquisition Regulation Supplement (DFARS) clause 252.201-7000,
+CONTRACTING OFFICER’S REPRESENTATIVE (DEC 1991) by full text which
+provides, at subsection b:
+
+             The COR is not authorized to make any commitments or
+             changes that will affect price, quality, quantity, delivery, or
+             any other term or condition of the contract. 7
+
+As a result, only the contracting officer had authority to modify ECCI’s contract. See
+BGT Holdings LLC v. United States, 984 F.3d 1003, 1012-13 (Fed. Cir. 2020);
+Conquistador Dorado Joint Venture, ASBCA No. 60042 et al., 24-1 BCA ¶ 38,486
+at 187,070-71; Derian, Inc., ASBCA No. 62957, 23-1 BCA ¶ 38,425 at 186,757.
+
+1. Additional Outlets and Changed Outlets
+
+      ECCI requests $1,333,015.53, alleging that:
+
+             ECCI was required to install additional communications
+             outlets that increased the amount of cables project-wide by
+             approximately 62.4%, as well as similarly increasing the
+             quantity of keystone modules / connectors and
+             terminations, the number or size of raceways, the total
+             length of Category 6 cables, and the quantity of patch
+             panels. These increases created constrained workspace
+             and clearance issues that impacted labor productivity and
+             ECCI’s costs. 8
+
+       ECCI further alleges that:
+
+              Based on [the government’s] directive to install additional
+              communications outlets and Sage’s calculation of the delay
+              resulting from that directive, ECCI met its burden of
+              showing 53 days of compensable delay. 9
+
+      More specifically, ECCI alleges that:
+
+             ECCI was forced to install additional communications
+             outlets above those required by the Contract, based on the
+
+7
+  Id. at 107.
+8
+  App. br. at 65-66 ¶ 164-65.
+9
+  Id. at 60.
+                                           4
+              following improper directives to: 1) round up when
+              calculating wall outlets in offices; 2) install the
+              configuration of outlets for office space, in all non-office
+              space; and 3) install additional outlets in the “raised floors”
+              in the TOC. 10
+
+      With respect to: “rounding up,” in his opening statement, ECCI’s
+counsel previewed ECCI’s position that the contracting officer directed
+ECCI to “round up”:
+
+              But the roundup issue, which is exactly how many outlets
+              you need to have for your design in the building, [the
+              contracting officer] didn’t actually tell us that on
+              December 13, 2011. He said there’s something wrong
+              with your density, but he doesn’t specify what it is. Then
+              he comes back in June 2012 on the 18th and his specific
+              comment says you must round up on all these offices
+              then. 11
+
+In addition, ECCI alleges that:
+
+              [Mr.] Hopkins directed outlet quantity calculations for wall
+              outlets by dividing the area by 4.5 SM, and rounding up to
+              a whole number. ECCI was forced to install 2 wall outlet
+              groups in office spaces between 0 and 4.5 SM, 3 wall
+              outlets groups in office spaces between 4.5 SM and 9.0
+              SM, etc. 12
+
+ECCI also says that Mr. Hopkins “changed the configuration of wall outlets in non-
+office spaces,” 13 and that the contracting officer “confirmed this directive by directing
+ECCI to follow all of [Mr.] Hopkins’ comments.” 14 Finally, ECCI says that
+Mr. Hopkins directed that ECCI “install additional outlets in the ‘raised floors’ in the
+TOC,” 15 and the contracting officer “confirmed this directive by directing ECCI to
+follow all of [Mr.] Hopkins’ comments.” 16
+
+
+10
+   Id. at 20 ¶ 91.
+11
+   Tr. 1/72 (emphasis added).
+12
+   App. br. at 20-21 ¶ 93.
+13
+   App. br. at 21 ¶ 98.
+14
+   Id. at 21 ¶¶ 98-99.
+15
+   Id. at 20 ¶ 91.
+16
+   Id. at 21 ¶¶ 98-99.
+                                            5
+       In support of these allegations, ECCI cites Exhibit 1, the 44-page, 256-
+paragraph, single-spaced, sworn statement of Scott A. Hayward, an ECCI Senior
+Program Manager, 17 who states that “ECCI requested and received Contracting Officer
+direction on several issues in February 2012,” citing two documents: 18 (1) a
+February 12, 2012 letter from ECCI to the government requesting contracting officer
+direction, 19 and (2) an overall site plan drawing. 20 Neither document is evidence of
+contracting officer direction. Mr. Hayward also cites design comment 4329574, which
+appears not to exist, at least in the document of record to which Mr. Hayward points. 21
+
+       In general, ECCI alleges that:
+
+              [Mr.] Hopkins was improperly given unchecked authority
+              to act on behalf of [the government] on the 100%
+              communications design. Despite numerous complaints
+              from ECCI that Hopkins was directing changes to the
+              contract, [the government’s] ACO and COR repeatedly
+              failed to investigate the propriety of Hopkins’ comments,
+              instead directing ECCI to follow them. 22
+
+ECCI fails to identify either by quotation or otherwise, in any of the documents it
+cites, any direction by the contracting officer regarding outlets, much less does ECCI
+demonstrate that such direction constitutes a change to the contract. ECCI cites a
+lengthy string of documentary evidence that it does not explain or even quote; much
+less does ECCI demonstrate through those documents that the government gave
+Mr. Hopkins “unchecked authority to act on behalf of” the government with respect to
+the 100% communications design. 23 For example, ECCI cites a statement by
+Mr. Hopkins that “[a]ll room outlet calculations need to be reviewed to ensure the
+number meets the requirements of the 01 80,” 24 but Mr. Hopkins was not a contracting
+officer, and that statement merely indicates that the contract be followed. Elsewhere,
+ECCI refers to “the Contracting Officer’s and [Mr.] Hopkins’ directives,” “including
+the direction to round up outlet quantity calculations,” again citing, without
+
+
+17
+   Id. at 65-66 ¶ 164; ex. 1 at 1.
+18
+   Ex. 1 at 10 ¶ 43.
+19
+   R4, tab 217.
+20
+   R4, tab 200.
+21
+   Ex. 1 at 18 ¶ 81 (citing R4, tab 755).
+22
+   App. br. at 11 ¶ 58 (emphasis added).
+23
+   Id.
+24
+   R4, tab 755 at 36, comment 4329398.
+                                            6
+explanation or quotation, several documents of record. 25 ECCI also cites
+Mr. Hopkins’ statement that:
+
+              The Contractor needs to go back and calculate outlet
+              quantities in the offices. The Contracting officer has
+              directed the Contractor to follow the specifications on
+              outlet density and this building has a density of one
+              standard outlet configuration of each system for every
+              4.5 meters of office space. There are no fractional outlets,
+              so there are offices that require one more standard outlets
+              configuration. 26
+
+That statement, however, is, again, not one of the contracting officer, nor does it
+expressly or explicitly attribute to the contracting officer the idea that the parties refer
+to a “rounding up”; that is, that “[t]here are no fractional outlets, so there are offices
+that require more than one standard outlet.” Much less does that statement identify
+where the contracting officer directed that ECCI “round up.”
+
+        Regarding whether the contract actually requires “rounding up,” section 10.16
+of the contract, “Outlets Densities,” provides:
+
+              One secure network outlet, one above secret network outlet
+              and one NIPR net outlet per every 4.5 square meters of
+              office space. 27
+
+The plain language of section 10.16 does not provide for any “rounding up” in the
+event that dividing an office’s square footage by 4.5 square meters results in other than
+a whole number. Rather, as we have already, previously illustrated in ECC Int’l
+Constructors, LLC, ASBCA No. 59138, 19-1 BCA ¶ 37,281 at 181,387:
+
+              [I]f an office measures 4.5 square meters, the office shall
+              have one secure network outlet, one above secret network,
+              and one NIPR net outlet; if an office measures more than
+              4.5 square meters but fewer than 9 square meters, one of
+              each; if 9 square meters, two of each; and so on.
+
+       Regarding outlet configuration, ECCI also says that Mr. Hopkins “directed that
+wall outlets in any non-office location be configured the same as the office wall
+outlets,” and that the contracting officer “confirmed this directive by directing ECCI to
+
+25
+   App. br. at 12-13 ¶ 61(4).
+26
+   R4, tab 883 at 8-9, comment 4676194.
+27
+   R4, tab 5 at 462, subsections (a), (d), (g)-(i); see also subsection (c).
+                                              7
+follow all of Hopkins’ comments.” 28 In support of that allegation, ECCI cites a
+February 21, 2012 letter from Contracting Officer Michael A. Duncan, in which
+Mr. Duncan responds to ECCI’s February 12, 2012 letter, citing several documents. 29
+In that February 21, 2012 letter, the contents of which ECCI does not discuss in any
+detail, Mr. Duncan addresses many items, including outlets; but ECCI does not point
+to where, if at all, in that letter, Mr. Duncan directed that ECCI (referring now to all
+three of ECCI’s allegations in this part of its appeal) (1) round up when calculating
+wall outlets if offices, (2) install the configuration of outlets for office space, or
+(3) additional outlets in “raised floors.” 30 Nor do we find such direction upon our own
+examination of that document.
+
+       In support of its allegation that the government directed ECCI to follow all of
+Mr. Hopkins’ comments, ECCI cites the December 6, 2012 letter of ACO John Long. 31
+On December 5, 2012, ECCI wrote to ACO Long regarding seven comments that ECCI
+had received from government reviewers of its communications systems designs, “to
+request [c]ontracting [o]fficer direction to resolve the issues associated with the
+reviewer’s direction to perform work” that ECCI stated “was not in our contract.” 32 Of
+the items at issue here, those comments concerned only (1) outside plant configuration
+(OSP); (2) 25% spare capacity; and (3) wire managers for relay racks. 33 In his
+December 6, 2012 letter, ACO Long wrote to ECCI in response to its December 5,
+2012 letter:
+
+              It should be clearly noted that the Government does not
+              consider any of the design comments received by ECCI to
+              be outside the current contract requirements nor are they
+              issues that require Contracting Officer direction.
+              However [sic] should ECCI continue to believe that any of
+              the current comments or future comments is not within the
+              current contract requirements it is contractually imperative
+              that ECCI provide timely notice to the Government while
+              moving forward with the comments provided. 34
+
+
+28
+   App. br. at 21 ¶¶ 98-99 (citing R4, tab 211 (a letter from ECCI); tab 220
+        (February 21, 2012 letter from the contracting officer), tab 345 (letter from an
+        authorized COR), tab 367 (a letter from a COR), 384 (a letter from an ACO)).
+29
+   Id. at 21 ¶ 99 (citing R4, tab 220).
+30
+   R4, tab 220.
+31
+   App. br. at 21 ¶ 99 (citing R4, tab 384).
+32
+   R4, tab 382 at 1.
+33
+   Id. at 1, 3 (comments 1 and 6).
+34
+   Id. at 1 (emphasis added).
+                                            8
+        We interpret Mr. Long’s statement as contracting officer direction, express or
+implied, that ECCI implement the seven design reviewer comments addressed in
+ECCI’s December 5, 2012 letter, including because that statement was made in
+response to ECCI’s explicit request for “contracting officer direction to resolve the
+issues associated with the reviewer’s direction to perform work.” The contracting
+officer’s advice to ECCI that if it “continu[ed] to believe that any of the current
+comments or future comments is not within the current contract requirements,” “it is
+contractually imperative that ECCI provide timely notice to the Government while
+moving forward with the comments provided” does not change our view: that
+statement expressly directs ECCI to move forward with the reviewer’s comments. 35
+However, none of the seven comments in ECCI’s December 5, 2012 letter concerns
+the additional outlets and changed configurations that are the subject of this part of
+ECCI’s appeal. Nor will the Board scour the record for evidence supporting ECCI’s
+argument. See ESCgov, Inc., ASBCA No. 58852, 17-1 BCA ¶ 36,772 at 179,189;
+Highland al Hujaz, ASBCA No. 58243, 16-1 BCA ¶ 36,336 at 177,169-70. ECCI
+fails to demonstrate that the government changed the contract regarding “additional
+outlets and changed configurations,” and we accordingly deny ECCI’s request for
+additional compensation for this item.
+
+2. Dedicated Electrical Panels in Telecommunications Rooms
+
+       ECCI seeks $28,638.85 for what it says was a government change to the
+contract requiring it to install dedicated electrical panels in communications rooms,
+and alludes to “a directive to install dedicated electrical panels in communications
+rooms.” 36 ECCI also alleges that “[o]n June 12, 2013, after much of the electrical
+work was installed, [the government] requested dedicated electrical panels in the
+communications rooms.” 37 Finally, ECCI alleges that “[o]n September 10 and 11,
+2013, [the government] directed ECCI to install dedicated electrical panels in the
+communications rooms of the TOC and JOC only.” 38
+
+       On June 12, 2013, ECCI wrote to the government that “ECCI was recently
+directed to install dedicated electrical distribution panels for each Communications
+
+
+35
+   Id.
+36
+   App. br. at 26 ¶ 127, 66; see app. br. at 20 ¶ 90 (citing app supp. R4, tabs 255, 1185,
+        1189, 1190; ex. 1 at 38 ¶¶ 217, 220; ex. 19 at 23 ¶ 1; tr. 5/66-66, 76-77, 99,
+        153-54).
+37
+   Id. at 23 ¶ 111 (citing R4, tab 538; ex. 1 at 38 ¶ 215; ex. 19 at 21 ¶ 3).
+38
+   Id. at 24 ¶ 113 (citing R4, tab 5 at 461; app. supp. R4, tabs 254, 255).
+                                            9
+Room on the project.” 39 On September 11, 2013, ACO Peter Gauer, referencing that
+June 12, 2013 letter, stated that:
+
+              The Government did not respond to this letter because as
+              stated above the Government’s position is that this is a
+              contract requirement per the original request for proposals
+              solicitation so there is no need by the Administrative
+              Contracting Officer or the Contracting Officer to direct the
+              Contractor to do what has been interpreted by the
+              Government to be in your contract. 40
+
+        We need not decide whether Mr. Gauer’s statement constitutes contracting
+officer direction, express or implied, that ECCI install dedicated electrical distribution
+panels. As the government points out, the contract provides that certain publications
+listed in the contract “form a part of this specification”; that is, paragraph 10.1.1 of the
+contract, “to the extent referenced.” 41 The publication “I3A (2010) Technical Criteria
+for Installation Information Infrastructure Architecture,” is one of those publications
+referenced, and the contract incorporates the I3A in its entirety. 42 The I3A, ¶ 2.2.15,
+provides: “[p]rovide a dedicated electrical panel for each TR,” with “TR” meaning
+“telecommunications room.” 43 ECCI does not address the I3A, ¶ 2.2.15. Because the
+contract, by referencing the I3A, requires dedicated electrical panels in each
+telecommunications room, we deny ECCI’s claim for $28,638.85 for dedicated
+electrical panels for communications rooms.
+
+        Alternatively, we determine that in 2013, ECCI conceded away its dedicated
+electrical panels claim. In its 2020 reply brief, ECCI challenges the government’s
+contention that ECCI had previously conceded whether the contract requires dedicated
+electrical panels in telecommunications rooms. 44 Indeed, in responding to a 2016
+government summary judgment motion regarding whether the contract requires
+dedicated electrical panels, ECCI stated that it “concedes this issue and will revise its
+claim accordingly at the quantum stage.” 45 ECCI attempts to walk away from that
+concession, citing Clearmeadow Inv. v. United States, 87 Fed. Cl. 509, 529 (2000), for
+the point that “a party may concede a fact for purposes of its own summary judgment
+motion and yet reserve the right to litigate that fact should its motion be overruled,”
+
+39
+   R4, tab 538.
+40
+   App. supp. R4, tab 255 at 1.
+41
+   Gov’t br. at 22; R4, tab 5 at 450-51 § 10.1.1.
+42
+   R4, tab 5 at 450. The transcript of the hearing references the I3A as “the IAAA.”
+        E.g., tr. 8/198.
+43
+   R4, tab 826 at 11 § 2.2, 27 § 2.5.15.
+44
+   App. reply at 96; gov’t br. at 107.
+45
+   ASBCA No. 59138 et al. app. Oct. 3, 2016 resp. at 100.
+                                             10
+and noting that the Board did not rule upon that part of the government’s motion. 46
+However, ECCI did more than make a strategic concession for purposes of advancing
+a summary judgment motion, cf. Casitas Mun. Water Dist. v. United States, 102 Fed.
+Cl. 443, 445 n.2 (2011) (describing defendant’s concession in support of ultimately
+unsuccessful pursuit of summary judgment as “behind us”): ECCI abandoned the
+entirety of its dedicated electrical panels claim in response to the government’s motion
+for summary judgment. Having done so, we determine in the alternative that ECCI
+abandoned its claims for compensation related to dedicated electrical panels for
+telecommunications rooms.
+
+3. Alleged Additional Design Review Costs
+
+        In a claim that is companion to a delay claim that we decided in ECCI,
+2025 WL 1357784, ECCI requests $246,101, consisting of $24,022 for conference
+calls, $146,397 for additional design review comments, and $41,857 for design project
+management, allegedly incurred by its designer, Atkins Global, for what ECCI says
+were “over 60 design conferences, in person and telephonic, caused by [Mr.] Hopkins’
+improper design review,” including the government’s “improper issuance of new
+design comments on the five 100% design submittals.” 47 In ECCI, 2025 WL 1357784
+(footnotes omitted), we held that:
+
+              In response to ECCI’s 95% design submission, the
+              government made 56 comments, on the communications
+              design. When ECCI responded with a 100%
+              communications design that incorporated those
+              56 comments, ECCI was entitled to the approval of that
+              design, and clearance for construction. Instead, the
+              government responded with 226 new comments, triggering
+              a delay period that we conclude is attributable to the
+              government.
+
+We concluded that ECCI was “entitled to the remission of 119 days of liquidated
+damages for excusable delay.” Id. Applying the reasoning behind that conclusion, we
+determine that ECCI is entitled to recover the cost of responding to the government’s
+review of the 100% communications design.
+
+        The three amounts that ECCI seeks for this item correspond to three unrounded
+figures—$24,021.54, $146,396.70, and $41,857.45, totaling $212,275.69—that appear
+in a spreadsheet 48 that was prepared by the project manager for Atkins Global,
+
+46
+   App. reply at 96.
+47
+   App. br. at 66 ¶ 169, 67 ¶ 171-72.
+48
+   App. supp. R4, tab 329 at 4.
+                                          11
+Ms. Terry Suehr, whom we credit, and who testified that those unrounded figures
+represent the costs of the additional design services that Atkins Global incurred
+responding to the government’s comments upon ECCI’s 100% communications
+design. 49 To that ECCI adds markups for its total request of $246,101. 50 The
+government apparently challenges Ms. Suehr’s work, and by extension ECCI’s
+damages calculation, as “nothing more than speculation,” 51 pointing to Ms. Suehr’s
+explanation to ECCI that:
+
+              For JanCom’s effort, I was not able to receive a
+              breakdown, but I did have a total. I guessed that the best
+              way to divide their effort across tasks, but you may want to
+              revise this. 52
+
+        “The ascertainment of damages is not an exact science, and where
+responsibility for damage is clear, it is not essential that the amount thereof be
+ascertainable with absolute exactness or mathematical precision: ‘It is enough if the
+evidence adduced is sufficient to enable a court or jury to make a fair and reasonable
+approximation.’” Bluebonnet Sav. Bank, F.S.B. v. United States, 266 F.3d 1348, 1355
+(Fed. Cir. 2001) (quoting Elec. & Missile Facilities, Inc. v. United States, 416 F.2d
+1345, 1358 (Ct. Cl. 1969); see also Missouri Dep’t of Soc. Servs., ASBCA No. 61121,
+19-1 BCA ¶ 37,240 at 181,278. Ms. Suehr’s inclusion of $5,632.94 for “JanCom” into
+her $212,275.69 calculation 53 is supported by the sworn statement of John Jankowski
+(whom the government accepts is JanCom’s president 54), who declared under oath that
+the breakdown of JanCom costs reflected in Ms. Suehr’s spreadsheet “generally
+appears to be a reasonable estimate of the relative effort required for each of the
+identified issues.” 55 We credit that $5,632.94. ECCI claims a 5.4% G&A rate and a
+10% profit rate, which it says are approved by DCAA (Defense Contract Audit
+Agency), which are reflected in an ECCI spreadsheet, 56 and which the government
+does not challenge. We credit those rates, and award the requested $246,101 for this
+item.
+
+
+49
+   See app. br. at 5 ¶¶ 27-28; ex. 11 at 7-12; app. supp. R4, tab 329 at 1, 4; tr. 4/10-13.
+50
+   App. br. at 67 ¶ 172.
+51
+   See gov’t br. at 72-73.
+52
+   Id. at 72 ¶ 92.
+53
+   App. supp. R4, tab 329 at 4.
+54
+   Gov’t br. at 73 ¶ 93.
+55
+   Ex. 15 at 4.
+56
+   App. br. at 66 ¶ 165 & n.12; app. supp. R4, tab 321 at “Added Work Direct Cost
+        Summary.
+                                            12
+4. Server Cabinets, Relay Racks, and Modification No. 13
+
+       In an example of the problematic briefing provided by both parties in this
+appeal, the government says that ECCI was “completely compensated” for server
+cabinets and relay racks by Modification No. 13 (which ACO Long issued unilaterally
+on January 13, 2013), and that ECCI is entitled “to additional costs incurred in excess
+of the $300,000 provided in Modification No. 13,” 57 admitting that the $300,000 that
+the government provided for this work was not enough. See generally, ECCI,
+2025 WL 1357784 (regarding admissions; collecting cases). Despite that admission,
+the government only questions, without offering any alternative, the additional amount
+that ECCI seeks for the work that the government unilaterally directed: $146,963 for
+materials, shipping, and labor, plus markups for a total of $170,472. 58 Again, it is
+enough if the evidence adduced is sufficient to enable a court or jury to make a fair
+and reasonable approximation. Bluebonnet, 266 F.3d at 1355. ECCI provides a
+breakdown of the additional amount it seeks in a detailed spreadsheet created by
+Mr. Hayward, whose presentation we credit on this point; 59 we find that spreadsheet
+adequate to the task. However, when we apply the markups that ECCI has identified
+(5.4% G&A and 10% profit), 60 we arrive at $170,388 (rounded). For these reasons,
+we determine that ECCI is entitled to recover $170,388 for server cabinets and relay
+racks.
+
+5. UL Listed Material
+
+       ECCI requests $207,893 for what it says was a government-directive
+constructive change to the contract that only UL (Underwriters Laboratories, Inc.) 61
+Listed communications materials be provided, as opposed to requiring that only
+specific communications materials be UL Listed. 62 However, ECCI fails to allege
+that—much less point to evidence that—the alleged directive came from a contracting
+officer; rather, ECCI again points the finger at Mr. Hopkins. 63 Because ECCI fails to
+point to a contracting officer directive that only UL Listed materials be provided,
+ECCI’s request for additional compensation for this item is denied.
+
+
+57
+   Gov’t br. at 96-97; app. br. at 69 ¶ 183; R4, tab 26.
+58
+   Gov’t br. at 97; see app. br. at 69 ¶ 186.
+59
+   App. supp. R4, tab 321 (Racks): “Cabinet Unilateral and Relay Rack Directed
+        Changes”; tr. 2/56-57; ex. 1 at 25 ¶ 123.
+60
+   App. br. at 66 ¶ 165.
+61
+   R4, tab 5 at 442-43 § 9.3.1.
+62
+   See app. br. at 69-72 ¶¶ 187-95.
+63
+   Id. at 70 ¶¶ 192-93; app. reply at 71.
+                                          13
+6. LeGrand Raised Floor Outlet Boxes
+
+        ECCI requests $62,325 associated with the installation of LeGrand raised floor
+outlet boxes that ECCI says were needed to accommodate a government directive that
+ECCI revise its electrical distribution system to meet British Standards (BS). 64
+Specifically, ECCI says that Mr. Hopkins “directed that ECCI provide LeGrand
+Evolution Series raised floor boxes.” 65 Again, Mr. Hopkins was not the contracting
+officer, so no direction by him could change the contract.
+
+      In addition, the government points to Modification No. 14, a May 2013 bilateral
+Modification that provides:
+
+              Contractor shall provide all material, supplies, equipment,
+              design and labor necessary to construct and or install the
+              electrical system components associated with contract
+              change MN032 in accordance with British Standard
+              7671. 66
+
+The government points also to the following “closing statement” set forth in
+Modification No. 14, which statement the government says bars ECCI’s claim for
+additional compensation for having to install LeGrand floor boxes to meet the British
+Standard:
+
+              It is understood and agreed that pursuant to the above, the
+              contract time is not affected, and the contract price is
+              increased a stated above, which reflects all credits due the
+              Government and all debits due the Contractor. It is further
+              understood and agreed that this adjustment constitutes
+              compensation in full on behalf of the Contractor and its
+              Subcontractors and Suppliers for all costs and markups
+              directly or indirectly attributable for the change ordered,
+              for all delays related thereto, for all extended overhead
+              costs, and for performance of the change within the time
+              frame stated. 67
+
+       We agree that the second sentence of the closing statement applies to ECCI’s
+LeGrand floor boxes claim, in that any cost arising from having to install those floor
+boxes is, in the parlance of the statement, “attributable for the change ordered” by
+
+64
+   App. br. at 72-74.
+65
+   Id. at 72 ¶ 197; see also id.at 17 ¶ 72 (citing app. supp. R4, tab 69), 42.
+66
+   R4, tab 28 at 2; gov’t br. at 91 ¶ 161.
+67
+   R4, tab 28 at 4 (emphasis added); gov’t br. at 91 ¶ 161.
+                                             14
+Modification No. 14; such change being that ECCI “provide all material, supplies,
+equipment, design and labor necessary to construct or install the electrical system
+components associated with contract change MN032 in accordance with British
+Standard 7671.” Certainly, that closing statement does not expressly exempt LeGrand
+raised floor boxes from the scope of the modification, nor does Modification No. 14
+anywhere else reserve LeGrand raised floor boxes from its scope. See United States v.
+William Cramp & Sons Ship & Engine Bldg. Co., 206 U.S. 118, 128 (1907)
+(“If parties intend to leave some things open and unsettled, their intent to do so should
+be made manifest.”). Furthermore, we see no ambiguity in the language of
+Modification No. 14 that would warrant our accepting ECCI’s implied invitation to
+consider parol evidence to interpret the scope of the modification. 68 See Avant
+Assessment, LLC, ASBCA No. 58867, 15-1 BCA ¶ 36,137 at 176,384. For all these
+reasons, this component of the appeal is denied.
+
+7. Non-Metallic Raceways
+
+        ECCI requests $71,788 for what it says was the government’s directive that
+ECCI use “non-metallic raceway” for cable routing in certain applications, instead of
+the metallic raceway or cable tray that ECCI says it had planned to use. 69 ECCI says
+that the contract did not require the use of non-metallic raceways, but that Mr. Hopkins
+issued the challenged directive. 70 However, nowhere does ECCI allege that a
+contracting officer directed the alleged change; 71 consequently, ECCI fails to point to a
+person with authority to have made the alleged contract change. See BGT Holdings,
+984 F.3d at 1012-13; Conquistador Dorado, 24-1 BCA ¶ 38,486 at 187,070-71;
+Derian, 23-1 BCA ¶ 38,425 at 186,757. Accordingly, ECCI’s request for additional
+compensation for non-metallic raceways is denied.
+
+8. Flexible Metal Conduit, and Additional Conduit
+
+        ECCI requests $178,166 for what it says was the government’s directive that
+the flexible metal conduit that ECCI installed be “UL Listed,” and that ECCI provide
+“a spare empty conduit for the raised floor outlets.” 72 In its opening brief, ECCI points
+only to Mr. Hopkins as the source of this alleged directive, rather than a contracting
+officer. 73 In its reply brief, ECCI says that the ACO “directed the spare and extra
+conduits be provided,” 74 but ECCI having raised that issue for the first time in its reply
+
+68
+    App. br. at 73 (citing app. supp. R4, tabs 193, 288, 290).
+69
+    App. br. at 75-76.
+70
+    Id. at 75 ¶ 210.
+71
+    See id.at 74-76; app. reply at 69-71.
+72
+    App. br. at 77 ¶¶ 224, 227.
+73
+   Id. at 77-78.
+74
+    App. reply at 72.
+                                            15
+brief, that issue is waived. Brooks Range Contract Servs., Inc. v. United States,
+101 Fed. Cl. 699, 708 (2011) (“[A] party waives issues not raised in its opening
+brief.”).
+
+        ECCI having failed to demonstrate that a person with authority directed the
+alleged contract changes, its request for additional compensation for providing
+(1) flexible metal conduit that was UL Listed (as opposed to non-UL Listed), and
+(2) spare conduit, is denied. See BGT Holdings, 984 F.3d at 1012-13; Conquistador
+Dorado, 24-1 BCA ¶ 38,486 at 187,070-71; Derian, 23-1 BCA ¶ 38,425 at 186,757.
+
+9. Trunk and Splice Outside Plant Configuration, and 25% Spare Fibers
+
+       ECCI seeks $75,026 for having to configure cables in a “trunk and splice”
+outside plant (OSP) configuration, as opposed to the “homerun” configuration that
+ECCI says its designer chose, 75 and for having to provide “25% spare fibers in the
+trunk line.” 76 Regarding the “trunk and splice” versus “homerun” configuration, we
+understand from the parties that the terms “trunk and splice” and “loop-through
+splicing” are synonymous. 77 As noted above regarding dedicated electrical panels, the
+contract incorporates the I3A. 78 Paragraph 3.15.4.7(c) of the I3A, “Splices and Power
+Budget” provides:
+
+              Loop-through splicing shall be used in lieu of
+              homeruns/dedicated cables to the serving location. 79
+
+And paragraph 3.7.8.4 of the I3A, “Fabric-mesh Innerduct,” provides:
+
+              Fiber optic cables shall not be “home run” from buildings
+              to serving nodes because of the increased modularity of
+              fabric type innerducts. 80
+
+ECCI does not address ¶¶ 3.7.8.4 and 3.15.4.7(c). We determine that ¶¶ 3.7.8.4 and
+3.15.4.7(c) defeat ECCI’s claim for additional compensation for having to configure
+OSP cables in a trunk and splice configuration.
+
+
+75
+    App. br. at 79-80 ¶¶ 239, 242, 244.
+76
+   Id. at 79 ¶ 243.
+77
+    App. reply at 75-76; gov’t br., app’x 16 at 74.
+78
+    R4, tab 5 at 450.
+79
+    R4, tab 826 at 75 (emphasis added).
+80
+    Id. at 53 (emphasis added).
+                                             16
+      Regarding spare fibers, the government points to § 10.17 of the contract,
+“Outside Plant Cable Installation,” 81 which provides:
+
+              The cable system shall have a factor of 25% spare built in
+              additions of service without installing addition [sic]
+              physical Outside plant cable. 82
+
+ECCI addresses § 10.17, but not its reference to the “25% spare” factor. 83 We
+determine that § 10.17 defeats ECCI’s claim for additional compensation for having to
+provide “25% spare fibers in the trunk line.”
+
+10. Spare Capacity and Wire Managers for Relay Racks
+
+        ECCI requests $29,084, stating that “[t]he direction to provide additional spare
+rack space and wire managers constitutes a constructive change causing direct costs
+for redesigning the racks and installing additional materials,” referencing only alleged
+direction from Mr. Hopkins. 84 The government says that “ECCI’s post-hearing brief
+claims costs due to direction to provide additional spare rack and wire managers,
+but”—presumably referring to ECCI’s May 2, 2014 claim to the contracting
+officer 85— “the claim makes no such demand regarding spare rack.” 86 The
+government further states that “[i]t is not clear the amounts attributable to each claim
+and it would be speculation to assign any amount for wire managers.” 87 ECCI replies
+that:
+
+              [The government] incorrectly argues that ECCI’s post
+              hearing brief claims costs due to providing spare racks, but
+              the claim does not. (Citation omitted). Both the claim and
+              ECCI’s revised cost calculations include costs required to
+              revise its design to produce the [text illegible] within the
+              racks that were already in the design. 88
+
+81
+   Gov’t br. at 94 ¶ 168.
+82
+   R4, tab 5 at 464 ¶ 10.17; gov’t br., app’x 1 at 39).
+83
+   App. br. at 79 ¶ 238.
+84
+   App. br. at 80-81 ¶¶ 245-51.
+85
+   R4, tab 75.
+86
+   Gov’t br. at 104.
+87
+   Id.
+88
+   App. reply at 84. The illegible text referenced in the quotation above is one of many
+        instances in which, in ECCI’s reply brief, text appears compressed,
+        compromising legibility or making text illegible altogether. Despite the
+        Board’s having ordered ECCI to refile its reply brief to correct that infirmity,
+        ECCI refiled what is evidently the same, typographically problematic brief.
+                                           17
+        We see in the May 2, 2014 claim to the contracting officer that ECCI says that,
+in a reference to Mr. Hopkins, “[t]he Communications systems design reviewer
+directed ECCI to . . . [p]rovide additional relay racks to accommodate additional patch
+panels required because of the additional cables, as well as additional spare rack
+capacity---not required by the contract’” that statement, however, is in reference to
+ECCI’s challenge to what ECCI says is “[t]he unwarranted level and type of comments
+subsequent to the design review comments period.” 89 We see no stand-alone claim
+presented to the contracting officer for additional spare rack capacity, and conclude
+that we lack jurisdiction to entertain such a claim; consequently, we dismiss that claim
+for lack of jurisdiction. See 41 U.S.C. § 7103(a).
+
+       On the other hand, the claim demands $27,093.56 for wire managers. 90
+However, ECCI relies upon the communications of Mr. Hopkins for its government-
+direction claim; that reliance is not enough, because, again, Mr. Hopkins was not a
+contracting officer. Consequently, we deny on its merits ECCI’s claim for additional
+compensation for wire managers.
+
+11. Uninterruptible Power Supply (UPS)
+
+        ECCI seeks $72,187 ($83,729 with markups) for having to provide a 225 KVA
+UPS unit, instead of a 120 KVA UPS unit (or the 200 KVA UPS unit that ECCI
+alleges the ACO directed be used), later than it would have otherwise. 91 In March
+2011, the parties signed Modification No. A00002 to the contract, making certain
+changes to the work. 92 In a July 2011 letter to ECCI, the ACO took the opportunity to
+address “unresolved critical design issues,” including that, as the ACO put it, “[t]he
+UPS requirement was deleted from the contract in modification number A00002.” 93
+In the sentence following the reference to the USP requirement, the ACO directed
+ECCI “to proceed with design and construction in accordance with the findings
+above.” 94 Although, as the government points out, 95 Modification No. A00002 does
+not reference the USP requirement, 96 we find that in the July 2011 letter, the ACO
+lifted the requirement to provide a UPS system.
+
+        Nearly two years later, in May 2013, the contracting officer resurrected the UPS
+issue, and, in response to ECCI’s proposal to “base the design on a demand load of
+
+89
+   R4, tab 75 at 12 (emphasis added).
+90
+   Id.at 32.
+91
+   App. br. at 82-83 ¶¶ 255, 256, 258, 262.
+92
+   R4, tab 9 at 1.
+93
+   R4, tab 141 at 1-2.
+94
+   Id. at 2.
+95
+   Gov’t br. at 105 ¶ 216.
+96
+   R4, tab 9.
+                                              18
+120 KVA,” 97 the contracting officer directed that ECCI provide a UPS system “sized
+for a 200 KVA demand load (168 KVA x 1.20). 98 That is, the government having
+changed the contract in July 2011, to eliminate the UPS requirement, the government
+changed the contract again, in May 5, 2013; this time to require a 200 KVA UPS.
+
+       The contracting officer also left open the possibility of paying for expedited
+delivery costs:
+
+
+              It is requested that we receive a proposed
+              procurement/delivery schedule as soon as possible from
+              ECCI to include option for expedited delivery (if needed)
+              to meet the proposed turnover date for the
+              Communications Building of 21 July 2013. If there is an
+              option for proposed expedited delivery costs, the
+              Government will address as soon as possible to include a
+              potential modification to the contract if warranted. 99
+
+       In response, ECCI agreed to provide a 200 KVA UPS system, and warned that
+“the additional cost of the larger system, not including expedited delivery or delay
+costs, will exceed $100,000.” 100 ECCI claims to have provided a 225 KVA unit at an
+apparent increased cost of $83,729. 101 However, as the government points out,
+ECCI’s claim indicates that it purchased a 200 KVA unit that was “upgradable to
+225 KVA.” 102
+
+       At least at some point after contracting, ECCI understood that, pursuant to
+section 9.1.1 of the contract, it would have to design and construct a UPS. 103 And it
+appears that at some point, ECCI understood that the system would consist of
+government-furnished equipment, and that the UPS system would consist of a
+200 KVA unit. Indeed, Sheet Reference No. P3-E-601, dated November 18, 2011, and
+submitted by ECCI’s designer, Atkins Global, includes the notation “200KVA” as part
+of a “UPS Room,” with “Equipment by Gov’t.” 104 ECCI does not claim here that it
+bid the contract understanding that the UPS system would be government-furnished,
+and we find that the concept of government-furnished equipment post-dates the
+
+97
+   R4, tab 485 at 1.
+98
+   R4, tab 489.
+99
+   Id.
+100
+    R4, tab 495 at 1 (emphasis added).
+101
+    App. br. at 82-83 ¶¶ 256, 262.
+102
+    Gov’t br. at 106 ¶ 221; R4, tab 75 at 113.
+103
+    R4, tab 5 at 441.
+104
+    Gov’t br., app’x 8 at 48-49.
+                                            19
+parties’ entering the contract. However, based upon Sheet Reference No. P3-E-601,
+we find that ECCI understood at least as late as November 2011, that it would be
+installing a 200 KVA unit. Consequently, the issue here is not that ECCI is entitled to
+compensation for having provided a 200 KVA system, but whether ECCI is entitled to
+the difference between the cost of providing a 200 KVA system after May 2013, when
+the government reinstated the contract requirement to provide a UPS system that in
+2011, it had eliminated. A spreadsheet in ECCI’s claim provides a credible basis for
+such compensation: $5,946 for airfreight, and $5,200 for “late rework,” 105 for a total
+of $11,146, which, marked up to $12,922 (rounded), we award for this item.
+
+12. United Laboratories (UL) Listed HVAC Equipment With R-410 Refrigerant
+
+      ECCI seeks $861,998 for an alleged change to the contract to require ECCI to
+provide UL Listed HVAC equipment and meet an accelerated completion date. 106
+ECCI says:
+
+              On June 18, 2012, [the government] disapproved ECCI’s
+              May 29, 2012 construction submittal proposing additional
+              CE marked HVAC equipment that used R22 refrigerant;
+              ECCI was directed to provide UL listed equipment with
+              R410 refrigerant. 107
+
+ECCI also says:
+
+              On November 20, 2012, [the government] directed ECCI
+              to provide UL listed HVAC equipment, with R-410
+              refrigerant. ECCI promptly submitted UL listed
+              equipment with R410 refrigerant, but did not receive
+              review comments from [the government] for 55 days. 108
+
+Specifically, ECCI says that “[Mr.] Hopkins continuously directed ECCI to provide
+only UL communications materials.” 109 Of course, Mr. Hopkins was not the
+contracting officer, and none of the material that ECCI cites is a statement of a
+contracting officer. The alleged November 20, 2012 “direction” by the government
+referenced above is apparently an interaction between the government and ECCI
+
+
+105
+    R4, tab 75 at 113.
+106
+    App. br. at 87 ¶ 289.
+107
+    Id. at 85 ¶ 280 (citing app. supp. R4, tabs 581, 594; ex. 1 at 35 ¶¶ 193, 195).
+108
+    Id. at 86 ¶ 285 (citing app. supp. R4, tab 143 at 2, R4, tab 381; exs. 1 at 35 ¶¶ 198,
+        26).
+109
+    Id. at 70 ¶ 193.
+                                            20
+during a meeting held on that date, during which, according to notes of the meeting
+prepared by ECCI, the following happened:
+
+              HVAC Specifications and Equipment Submittals – MED /
+              Marmal RO has directed ECCI provide UL equipment and
+              R410 refrigerant. ECCI is proceeding and will submit an
+              REA for the additional cost and time impact. 110
+
+ECCI makes no effort to identify who “MED / Marmal RO” is, much less does ECCI
+represent that such person is a contracting officer. The Board will not scour the record
+for ECCI’s evidence, or do ECCI’s work for it. See ESCgov, Inc., ASBCA No. 58852,
+17-1 BCA ¶ 36,772 at 179,189; Highland al Hujaz, ASBCA No. 58243, 16-1 BCA
+¶ 26,336 at 177,169-70. ECCI has failed to demonstrate that the government, in the
+person of the contracting officer, directed ECCI to use R-410 refrigerant.
+Consequently, we deny ECCI’s request for compensation for having used R-410
+refrigerant.
+
+13. Additional Local Operator Consoles (LOCs)
+
+        ECCI requests $16,806 for what it says was the government’s requirement that
+ECCI install three additional LOCs in the TOC. 111 Citing exhibit 1 at 40 ¶ 231, ECCI
+states that the government “directed ECCI to install three additional LOCs in the TOC,
+based upon an Army requirement for minimum travel distance needed to reach a
+LOC.” 112 That paragraph states, in its entirety:
+
+              The Government argues that ECCI’s design was deficient
+              because the UFC have criteria for an “Army” project
+              regarding the maximum distance [an] occupant can travel
+              to an LOC and that criteria dictated an LOC in each of the
+              four TOC rooms. 113
+
+We find no evidence of government direction in that paragraph, and will not scour the
+record for such evidence. See Parsons Evergreene, LLC v. Sec’y Air Force, 968 F.3d
+1359, 1368; McCotter Motors, Inc., ASBCA Nos. 30498, 30997, 86-2 BCA ¶ 18,784
+at 94,647 (“The days of simply alleging every conceivable theory and leaving it up to
+the Board to search for facts and law to support the theories are over.”). Accordingly,
+ECCI’s request for $16,806 for additional LOCs is denied.
+
+
+110
+    App. supp. R4, tab 143 at 2 (boxed in red in the original).
+111
+    App. br. at 87-88.
+112
+    Id.at 88 ¶ 295.
+113
+    Ex. 1 at 40 ¶ 231.
+                                            21
+14. Vehicle Maintenance Facility (VMF)
+
+        ECCI requests $3,514 for what it says was the government’s requirement that
+ECCI reduce the size of the VMF. 114 The ACO “directed [ECCI] to develop a process
+to reduce the gross area for the Vehicle Maintenance Shop Building to a maximum
+gross area of 462 sm.” 115 That was, apparently, a reduction in size, because ECCI says
+that “[r]educing the size of the VMF caused ECCI $3,031 in additional direct costs,
+$3,514 with G&A and Profit.” 116 However, ECCI does not explain how reducing the
+size of the VMF increased its costs, which, as the government implies, is, at least
+apparently, counterintuitive. 117 We find more persuasive the government’s position
+upon this item, and deny ECCI’s request for $3,514 for the reduction of the size of the
+VMF.
+
+15. 144 Port Fiber Optic Combination Units (FOCUS)
+
+       ECCI seeks $54,992 for what ECCI characterizes as a directed change by
+Mr. Hopkins to install 144 FOCUs. 118 ECCI also says that in ECC Int’l Constructors,
+LLC, ASBCA No. 59138 et al., 19-1 BCA ¶ 37,281 at 181,388, we held that “the
+directive to install 144 FOCUs was a change.” 119 We did no such thing. Rather, we
+held that:
+
+              The contract provides that:
+
+              The fiber optic cables shall be terminated in floor mounted,
+              four post relay rack combination units that will allow
+              splicing and patching within the same enclosure. The
+              enclosures shall be sized to contain a minimum of 48 fibers
+              and a maximum of 144 fibers.
+
+              The parties disagree on whether the provision requires
+              each “enclosure” to be able to contain 144 fibers. The
+              plain unambiguous language of the provision requires that
+              “enclosures,” in general, be sized to contain at least
+              48 fibers but no more than 144 fibers; it does not require
+              that each enclosure be sized to contain 144 fibers.
+
+
+114
+    App. br. at 89.
+115
+    R4, tab 183.
+116
+    App. br. at 89 ¶ 308.
+117
+    See gov’t br. at 120 ¶ 259.
+118
+    App. br. at 90.
+119
+    Id.
+                                            22
+ECCI, 19-1 BCA ¶ 37,281 at 181,388 (citations omitted; emphasis added). Now the
+government says that no contracting officer directed ECCI “to size every FOCU to
+144 fibers.” 120 To this, ECCI says that “ECCI was given direction by [Mr.] Hopkins
+in a January 12, 2012 conference call that all FOCUs were to be 144 port units.” 121
+But Mr. Hopkins was a design reviewer, 122 not a contracting officer. ECCI fails to
+point to a person with authority who made the alleged contract change. See BGT
+Holdings, 984 F.3d at 1012-13; Conquistador Dorado, 24-1 BCA ¶ 38,486 at 187,070-
+71; Derian, 23-1 BCA ¶ 38,425 at 186,757; States Roofing Corp., ASBCA No. 55500,
+09-1 BCA ¶ 34,036 at 168,348 (“ROICC’s [(Resident Officer in Charge of
+Construction)] authority to administer the contract did not empower Mr. Haste, a
+member of the ROICC’s senior management, with either express or implied authority
+to modify the contract with a compensable change requiring SRC to provide a full-
+time safety person.”); relying upon Winter v. Cath-Dr/Balti Joint Venture, 497 F.3d
+1339 (Fed. Cir. 2007). Accordingly, ECCI’s request for compensation for the
+installation of 144 FOCU Units is denied.
+
+16. Additional Ladder Rack and Overhead Cable Tray
+
+        The government says that ECCI has abandoned a claim for at least $36,404.32
+allegedly owed for “additional ladder racks in communications rooms,” and “overhead
+cable tray in the TOC.” 123 The government takes this position because, it says, ECCI
+has not addressed that claim in its post-hearing briefs, and pointing out that in March
+2019, in ECCI, 19-1 BCA ¶ 37,281 at 181,387, we held that the contract required the
+installation of a cable ladder rack around the walls of communications and server
+rooms. 124 ECCI does not respond to the argument that it has abandoned that claim.
+Although we see in ECCI’s initial post-hearing brief one reference to ladder racks, and
+several references to cable tray, 125 those references appear to relate to other claims,
+rather than a claim for a least $36,404,32 allegedly owed for “additional ladder rack
+around the perimeter of the communications rooms,” and “overhead cable tray on the
+TROC due to additional outlets.” We find any such claim abandoned. See SmithKline
+Beecham Corp. v. Apotex Corp., 439 F.3d 1312, 1319 (Fed. Cir. 2006)
+
+
+120
+    Gov’t br. at 101.
+121
+    App. reply at 81(citing R4, tab 755 at 99, comment 4329792; tab 1165 at 12
+        ¶ “FOCU 1”).
+122
+    See app. br. at 5 ¶ 24; gov’t br. at 48.
+123
+    Gov’t br. at 119.
+124
+    Id.
+125
+    E.g., app. br. at 12 ¶ 61 (ladder rack and cable tray in context of design review),
+        74 ¶ 205 (cable tray in context of non-metallic raceways); 92 (listing alleged
+        contract changes including “direction to install non-metallic raceways from the
+        wall outlets to cable trays for the secret and above secret systems”).
+                                          23
+                                       CONCLUSION
+
+        We have considered the parties’ other arguments and find them unnecessary to
+ address. We dismiss for lack of jurisdiction ECCI’s claims for additional
+ compensation for additional spare rack capacity. We sustain the appeal in the amount
+ of $429,411, consisting of (1) $246,101 for the cost of responding to the government’s
+ review of the 100% communications design; (2) $170,388 for server cabinets and relay
+ racks, and (3) $12,922 for the uninterruptable (UPS) system, plus interest in
+ accordance with 41 U.S.C. § 7109, from May 2, 2014, the date that the contracting
+ officer received ECCI’s claim, until the date of payment.
+
+           Otherwise, the appeal is denied.
+
+           Dated: July 29, 2025
+
+
+                                                   TIMOTHY P. MCILMAIL
+                                                   Administrative Judge
+                                                   Armed Services Board
+                                                   of Contract Appeals
+
+
+I concur                                           I concur
+
+
+OWEN C. WILSON                                     MICHAEL N. O’CONNELL
+Administrative Judge                               Administrative Judge
+Acting Chairman                                    Vice Chairman
+Armed Services Board                               Armed Services Board
+of Contract Appeals                                of Contract Appeals
+
+
+                                              24
+       I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA No. 59643, Appeal of ECC
+International Constructors, LLC, rendered in conformance with the Board’s Charter.
+
+      Dated: July 29, 2025
+
+
+                                                 PAULLA K. GATES-LEWIS
+                                                 Recorder, Armed Services
+                                                 Board of Contract Appeals
+
+
+                                            25

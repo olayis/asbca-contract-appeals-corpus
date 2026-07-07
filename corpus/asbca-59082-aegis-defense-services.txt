@@ -1,0 +1,737 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeals of --                                 )
+                                              )
+Aegis Defense Services, LLC,                  )      ASBCA Nos. 59082, 60111, 60259
+ f/k/a Aegis Defence Services Ltd.            )
+                                              )
+Under Contract No. W52P1J-l 1-D-0082          )
+
+APPEARANCES FOR THE APPELLANT:                       Armani Vadiee, Esq.
+                                                     Ashley N. Amen, Esq.
+                                                      Smith Pachter McWhorter, PLC
+                                                      Tysons Comer, VA
+
+APPEARANCES FOR THE GOVERNMENT:                      Raymond M. Saunders, Esq.
+                                                      Army Chief Trial Attorney
+                                                     MAJ David H. Stem, JA
+                                                      Trial Attorney
+
+                 OPINION BY ADMINISTRATIVE JUDGE PROUTY
+
+       Although the facts of these appeals are intriguing, involving, as they do, the
+Milo Minderbinderesque (see JOSEPH HELLER, CATCH-22 (Simon & Schuster 1961))
+machinations sometimes necessary to do business in Iraq, in the end the issues
+presented are quite straightforward: what are the government's obligations to a
+contractor to which it gave a right of first refusal to purchase armored sport utility
+vehicles (SUVs), known as LAVs (short for "light armored vehicles") at the
+completion of contract performance, so long as it had no further need for them? And
+did the government meet those obligations when it refused to sell the LAVs to its
+contractor and, instead, gave them to the Government of Iraq, unbidden? As explained
+below, although the United States had its reasons for declining to make the sale to its
+contractor, those reasons do not excuse it from complying with its contractual
+obligations.
+
+                                 FINDINGS OF FACT
+
+   I.     The Contract and Efforts of the Government to Furnish Aegis with LAVs
+
+       On 1June2011, the Rock Island Contracting Center (the Army) awarded
+the above-captioned contract (the contract) to appellant's predecessor in interest,
+Aegis Defence Services Ltd. (Aegis), a company doing business in the United
+Kingdom (R4, tab 1 at 1). As explained at the hearing, Aegis is primarily in the
+business of providing private security services to governments and commercial
+organizations (tr. 1/14). The contract, which was a multiple-award
+indefinite-delivery/indefinite-quantity (ID/IQ) contract 1, was for the provision of
+security support services to the United States Department of Defense and Department
+of State in Iraq (R4, tab 1 at 4, 24; tr. 1117-18).
+
+        Aegis was awarded Task Order No. 0002 (TO 2) on the contract on 2 September
+2011, and both parties executed it on 13 September 2011 (R4, tab 3 at 203). TO 2 was
+intended to provide mobile and staffing security to various sites within Iraq (tr. 1/23).
+This task order required Aegis to reach "full operational capability" by the end of the
+month, and included a period of performance for the base year to conclude at the end of
+2011 (R4, tab 3 at 206). TO 2 was priced at more than $28 million for this first period
+of performance (id. at 230), and it included the prospect of up to four additional option
+years (id. at 206).
+
+        With respect to the LAVs that are at the heart of this dispute, TO 2, which
+contemplated the government's providing such vehicles, took a very different approach
+than the original contract, which required the contractor to provide them and to keep
+ownership of them through the conclusion of contract performance. The original contract
+directed, in section 13 .1.5 .1, that Aegis would "provide all weapons, ammunition, LAV s
+[and other equipment]" (R4, tab 1 at 73). Section 13.1.5.2 of the contract further stated
+that "Vehicles [including LAVs] provided by the Contractor in support of providing
+transportation services for this contract shall remain the Contractor's property. The
+Government will not own or accept ownership of any vehicles furnished to it by the
+Contractor." (Id.) The Performance Work Statement (PWS) of TO 2, by contrast, stated,
+in paragraph 11.0, that, "[t]he Government will provide 155 LAVs for use to perform the
+required services under this task order" (R4, tab 3 at 235). The TO 2 PWS further
+elaborated, in paragraph 12.0, that, except for the LAVs, the remainder of the equipment
+utilized by Aegis would be "Contractor furnished" (id.), consistent with the dictates of
+the original contract (see also tr. 1/23-27).
+
+        When Aegis bid on TO 2, it took into account the fact that it would not be
+required to provide its own LAVs, and priced its offer accordingly (tr. 1/25-26).
+Almost immediately after Aegis began performance of TO 2, though, it became clear
+that the notion of government-provided LAVs was problematic.
+
+
+1
+    A multiple-award ID/IQ contract is a contractual vehicle by which the government
+        awl:j.rds similar contracts to several different contractors and then (subject to any
+        requirement to make minimum awards to each contractor) awards separate task
+        orders on that contract to whichever contractor it chooses for the particular task
+        order. Typically, contractors submit competing bids to the contracting officer to
+        vie for the award of the task orders. See, e.g., Relyant, LLC, ASBCA No. 58172,
+        16-1BCA~36,228 at 176,748-49.
+
+
+                                              2
+        Iraq in 2011 was a country in the midst of a significant transition, with the
+ expectation that American military forces would soon leave the country as a result of
+the United States keeping its commitment to remove its military presence from that
+sovereign nation (tr. 1124-25). One of the consequences of this transition was the Iraqi
+government's greater involvement in the regulation of private security contractors
+(PSCs) operating within its territory- even those PSCs working on behalf of the
+United States. With respect to LAVs operating on the open road in Iraq, the Private
+Security Department of the Iraqi Ministry of the Interior required a "vehicle sticker"
+on such vehicles (tr. 1126). Before providing such a sticker, the Iraqi Ministry of the
+Interior required proof of ownership, which had to be obtained through the Iraqi
+Ministry of Transport (tr. 1/26-27). And without such a sticker, Aegis had a real
+concern that, as soon as one of its LAVs encountered a checkpoint manned by Iraqi
+troops, the LAV would be impounded and its occupants arrested (tr. 1/18-19, 28).
+
+       The United States Government Office of Security Cooperation - Iraq (OSC-1)
+worked with Aegis to get stickers from the Iraqi government for the LAVs that the
+Army intended to provide (tr. 1128-30). These efforts were extensive, involved
+embassy and other personnel, and lasted through November 2011, culminating in
+OSC-I's obtaining a letter from a senior Iraqi official that, unfortunately, proved
+insufficient for registration purposes (id.). At some point, it was suggested that the
+matter could be resolved if Aegis purchased LAVs in its own name and then
+approached the appropriate Iraqi ministries as the actual owner ofthe LAVs (tr. 1129).
+Ms. Melissa Burant, the contracting officer (CO), ultimately requested Aegis to submit
+a formal proposal to do just that (tr. 1131-32).
+
+      IL    Aegis and the Government Agree that Aegis will Purchase the LAVs; They
+            also Agree upon Terms Regarding the Possible Procurement of the LAVs by
+            Aegis after Completion of Contract Performance
+
+        In response to Ms. Burant' s request, Aegis investigated the commercial
+marketplace for such vehicles and found an Iraqi commercial supplier. Aegis then
+prepared a proposal that it submitted to the Army, based upon obtaining the LAVs from
+the Iraqi supplier2 (tr. 1/32). The first informal proposal, for between 50 and 80 LAVs,
+was sent from Aegis to the Army on 11November2011 (supp. R4, tab 72). After
+some back and forth, a more formal amended proposal was sent by Aegis to the Army
+on 11 December 2011 (tr. 1133-34; app. supp. R4, tab 1).
+
+
+2
+    The LAVs were "up-armored" commercial SUVs. Though Aegis proposed using the
+         Toyota Land Cruiser for its lower "profile," American personnel strongly
+         preferred the relatively roomier Chevrolet Suburban, which was what they got
+         (tr. 1/34-35).
+
+                                           3
+        The 11 December proposal (drafted by Aegis's in-house counsel, Ms. Sylvia White
+(see tr. 1137)), was for the purchase of 54 LAVs at $138,375 per unit (app. supp. R4,
+tab 1 at 8319 3) and included three provisions relevant to the dispute here. First, the
+revised proposal included a statement regarding the costs of transferring ownership from
+Aegis to the government at the end of contract performance:
+
+             For the avoidance of doubt any costs associated with
+             transferring ownership to the Government at the end of the
+             Contract will be for the Government's account.
+
+(App. supp. R4, tab 1 at 8319) To be clear, what Aegis meant was that costs incurred
+in transferring ownership to the government would be paid by the government (tr. 1/36).
+
+        The second material provision in the Aegis proposal states that, "the [LAVs]
+would be ~he property of the Government (as CAP), [but] Aegis would hold the
+vehicles to the Government's order, but in Aegis name" for purposes of getting them
+registered with the Iraqi government (app. supp. R4, tab 1 at 8320). Ms. White
+testified that she, herself, was not particularly well-acquainted with the term, CAP,
+which she took to mean "contractor acquired property," as utilized by the Federal
+Acquisition Regulation (FAR), but that she included it in an attempt to conform the
+proposal to the FAR (tr. 1175-76).
+
+      The third, and final, material provision provided that:
+
+             At the end of the Contract Aegis will be given the right of
+             first refusal to purchase the vehicles in the event the
+             Government has no further use for them. We propose a
+             straight line amortization over a 2 year period with a 5%
+             residual value.
+
+(App. supp. R4, tab 1 at 8320 (footnote omitted))
+
+       Notably, Ms. White testified that, when she drafted the proposal on behalf of
+Aegis, she envisioned the LAVs as being owned by the government, notwithstanding
+their being titled to Aegis with the Iraqi government (tr. 1176).
+
+
+3 The pages in appellant's supplemental Rule 4 file include consecutive numbers both
+
+      at the upper right-hand comers of each page and at the bottom right-hand
+      comers of the pages, which appear to be the numbers utilized when the
+      government produced the documents in discovery. Because, during the trial,
+      counsel and the witnesses tended to reference the consecutive number on the
+      bottom right-hand comer of the document, that is the number we use herein.
+
+                                          4
+        On 19 December 2011, Ms. Burant sent an email to Ms. White of Aegis,
+forwarding a notice to proceed (NTP) with the purchase of 14 LAVs at the
+11 December proposal price of $138,375 each (app. supp. R4, tab 2 at 227-29;
+see also tr. 1/40). Funding issues, apparently, were the reason for the discrepancy
+in the number of LAVs proposed on 11 December and the number ordered
+through the NTP (tr. 1/40). On 20 December 2011, as requested by Ms. Burant
+(see app. supp. R4, tab 2 at 227), Aegis acknowledged acceptance of the terms of the
+NTP (which was to be formalized by a modification to the TO), but added a
+handwritten note above the signature block from Ms. White:
+
+              Except with respect to numbers of vehicles to be
+              purchased, which is limited by the value of funding in this
+              NTP all other terms included in Aegis' proposal dated
+              11 December 2011 apply to this purchase.
+
+(App. supp. R4, tab 2 at 230; tr. 1/41)
+
+       Ms. White continued discussions with government personnel in an attempt
+to reach agreement upon the terms of the contract modification so that it could be
+completed and Aegis's invoices for the LAVs could be paid before the New Year
+(app. supp. R4, tab 4). On 23 December 2011, the parties executed Modification
+No. 06 to TO 2 (Mod 6) (R4, tab 13 at 385). The purpose of Mod 6 was to fund the
+purchase of the 14 LAVs, and it expressly provided that, "Aegis proposal, submitted
+via e-mail, dated 19 December 2011 is incorporated to the award" (id. at 387). We are
+aware of no proposal from Aegis to the government dated 19 December 2011 as
+referenced in this modification, but Mod 6 includes the 11 December 2011 proposal as
+an attachment (id. at 390-94).
+
+         In the meantime, the parties negotiated amendment of the terms of the TO 2
+PWS to provide for the use of the Aegis-acquired LAVs. As communicated to Aegis
+in a 19 December 2011 email, the government's view about the sentence in its
+proposal that Aegis would have the right of first refusal if the government had "no
+further use for" the LAVs was that the condition was acceptable, inasmuch it was
+stated to be "incorporated" into the government-proposed PWS revision without
+further comment (R4, tab 15 at 408). The government, however, did not agree to the
+proposed straight-line depreciation for the LAVs, and preferred language simply
+specifying that the government would negotiate with Aegis at the end of the contract if
+it were not taking the vehicles (id.). Ms. White's response to the government's draft
+did not address these particular matters (id. at 403), tacitly suggesting that Aegis was
+satisfied with the proposed revised PWS provisions regarding the right of first refusal
+and pricing issues. The record includes no further correspondence regarding the right
+of first refusal language prior to the conclusion of negotiations over the PWS revision.
+
+
+                                           5
+       Modification No. 07 to TO 2 (Mod 7), effecting the revision of the PWS to
+account for the purchase of the LAVs, was executed on 9 January 2012 (app. supp. R4,
+tab 7 at 1977). The modified PWS (dated 3 January 2012) incorporated into TO 2 by
+Mod 7, provided in relevant part:
+
+                All LAVs purchased by the contractor for use on this
+                contract will be registered and licensed in contractor's
+                name to facilitate [Government of Iraq] licensing. Govt
+                will provide reimbursement for costs associated with
+                licensing, registration, taxes, renewal fees and title transfer
+                fees imposed by the Government of Iraq. At the end of
+                contractor's performance period on this Task Order, USG
+                will retake title to LAV s. If USG does not wish to take
+                title to the vehicles, contractor will be given first right of
+                refusa1£4l on negotiating and possible procurement of said
+                vehicles.
+
+(App. supp. R4, tab 7 at 1983) Nothing in this modification referenced Mod 6 or
+addressed what was to be done in the event that its terms were inconsistent with the
+terms of Mod 6 (see app. supp. R4, tab 7).
+
+        The government obtained more funding for LAVs shortly thereafter, and on
+25 January 2012, presumably at the government's request, Aegis submitted an updated
+proposal to Ms. Burant for the purchase of an additional 38 LAVs (app. supp. R4,
+tab 8 at 571-72). The terms of the proposal were similar to those in Aegis's
+11 December 2011 proposal, with a few variances not relevant to the present dispute.
+In particular, the 25 January proposal included, word-for-word, the clause providing
+for Aegis's "right of first refusal" to purchase the LAVs at the end of performance if
+"the Government has no further use for them" (app. supp. R4, tab 8 at 573). On
+30 January 2012, Ms. Burant sent Ms. White an email forwarding an NTP to purchase
+the additional 38 LAVs "in accordance with" the 25 January proposal (id. at 570).
+
+       On 13 February 2012, the parties executed Modification 10 to TO 2 (Mod 10),
+to effect the purchase of the 38 LAVs provided for in the 30 January NTP (R4,
+tab 23 at 615). Like Mod 7, it included an amendment to the TO 2 PWS using the
+same exact language stating that at the end of performance period, the government
+would retake title of the LAV, but that if the government "does not wish to take title to
+the vehicles, contractor will be given first right of refusal on negotiating and possible
+
+4
+    Here, the language departed from the "right of first refusal" used in earlier
+         correspondence to become "first right of refusal." Neither party has remarked
+         upon the difference, and we see no material difference in the phrases, which we
+         consider to be interchangeable.
+
+                                              6
+procurement of said vehicles" (R4, tab 23 at 623). The record includes no
+intermediate modification affecting the NTP for the 38 LAVs in the way that Mod 6
+did for the first 14 LAV s. In any event, nothing in Mod 10 referenced the NTP or
+addressed what was to be done in the event that Mod 10' s terms were inconsistent with
+the terms of the NTP (see R4, tab 23).
+
+        Aegis purchased the 52 LAVs embraced by Mods 6, 7, and 10, took title
+to them, and successfully registered them with the appropriate Iraqi authorities
+(tr. 1152-53). There were no disputes between the parties regarding their use.
+
+   III.   The Government Refuses to Sell the LAVs to Aegis
+
+       As contract performance neared completion, Aegis expressed a desire to
+negotiate the purchase of the LAVs from the government. The first evidence of this
+expression in the record is an internal Army email dated 4 June 2013 in which an
+Army contracting specialist named Trisha Polfliet notified her chain of command of
+Aegis's wish to obtain the LAV s, and inquired whether the government wanted to
+keep the LAVs for itself (R4, tab 33 at 722; see also tr. 1158 (Ms. White recalls
+making inquiries regarding keeping the LAVs approximately July 2013)).
+
+        In response to Ms. Polfliet' s email, the government began the process of
+deciding whether it had a use for the vehicles (R4, tab 33 at 719-21). The Defense
+Contract Management Agency (DCMA) property managers to whom this task was
+forwarded were taken by surprise, to say the least (see generally, R4, tab 34). On
+6 June 2013, Jeff Garrett, the Department of Defense (DoD) Demilitarization Program
+Manager, responded to the internal inquiry by stating that DoD was "not authorized to
+sell excess military equipment in Iraq especially Armored vehicles" and explained that
+the LAVs needed to be "turned in to OSC-I" (id. at 724).
+
+        By 21June2013, however, it appeared that those being consulted were in
+favor of selling the vehicles to Aegis and that any internal obstacles to the sale
+had been overcome. On that date Army L TC John Turner, in an email on behalf
+of OSC-1, responded to renewed questions about the LAVs by stating, "If Aegis
+wants the vehicles, that is their right IA W the contract. No argument from OSC-1."
+(R4, tab 36 at 731) After a few additional email exchanges about the mechanics of the
+LAV sale to Aegis, on 25 June 2013, Ms. Polfliet asked LTC Turner for confirmation
+regarding their use before she could move forward: "Basically we need the USG
+to state they don't need them." She also expressed her desire to sell the LAVs to
+Aegis so that the government could obtain the money to put towards the contract.
+(R4, tab 37 at 734) LTC Turner's response later the same day was, "please use this
+email to serve as official notice that the USG will not require the 52 purchased
+vehicles for operations post site closure and normalization." He then offered to
+provide a memorandum more formally stating the same if the email were insufficient.
+
+
+                                          7
+(Id.) Ms. Polfliet forwarded this email to Mr. John Gorman, the DCMA Property
+Manager for Iraq, who responded that it satisfied him and told her to go ahead and
+"negotiate directly with Aegis on the purchase of these vehicles" (R4, tab 39 at 752).
+
+       That was not, however, the end of the story. On 2 July 2013, in an email
+response to Ms. Pol:fliet, who was ensuring that she "cross[ed] all of our T's" for the
+negotiation with Aegis (R4, tab 40 at 755), Mr. Garrett, the DoD Demilitarization
+Program Manager, who earlier sent the email stating that such sales were forbidden,
+again voiced his concerns. In short, Mr. Garrett explained that up-armored SUVs were
+considered to be subject to the Department of Commerce Arms Export Regulation,
+and, as such, DCMA had no authority to release them to Aegis. He did hold out the
+possibility that a purchase could be coordinated through the "LM&R" office of the
+Office of the Secretary of Defense. (Id. at 754)
+
+         Apparently unaware of any flies in the ointment, on the 4th of July 2013, Aegis
+sent ACC-RI additional information regarding the 52 LAVs that it wished to purchase
+(R4, tab 41 at 772). An internal government discussion followed (see, inter alia, R4,
+tab 44). In a 10 July 2013 email that was part of this discussion, an OSC-I
+representative explained that OSC-I's need to rapidly wind down sites meant that its
+:flexibility in dealing with the vehicles continually diminished, and that the "default
+position" was to "FEPP"5 the vehicles to the Government of Iraq (id. at 806-07). In a
+further email exchange the same day, after agreeing that the export controls on the
+armored vehicles had an exception that allowed their transfer to the Government of
+Iraq, Mr. Garrett reiterated to Ms. Pol:fliet that, "[c]urrently DOD can't sell or release
+Demil Code Q/3 (sensitive) [which is the category that he earlier explained applied
+to the LAVs] out DOD [sic] to civilians" (id. at 804-05). He further noted that the
+DoD policy on the matter was being updated, but that he expected "no major change"
+(id. at 804). Ms. Pol:fliet forwarded the material part of Mr. Garrett's email to
+Ms. White, of Aegis, the next day (R4, tab 45 at 826).
+
+        In her email response to Ms. Polfliet sent on 12 July 2013, Ms. White
+thanked her for the information and informed her that she would have Aegis's
+American attorneys look into the issue "to see if they have any bright ideas" (R4,
+tab 45 at 825-26). In a follow-up email sent the 23rd of July, Ms. White inquired about
+why the LAVs were considered to be "Demil Code Q/3 and whether they [had] ever
+officially been classified as such by the US Government." She further shared that
+Aegis was of the opinion that the LAVs should not be considered to be subject to
+the Department of Commerce demilitarization classifications since they were
+purchased, titled, and registered to Aegis, not the United States. (R4, tab 45 at 825)
+Responding to Ms. Polfliet's email forwarding this exchange on the 24th of July,
+
+5
+    "FEPP" stands for Foreign Excess Personal Property. "FEPPing," in this context,
+        means transferring ownership of property to the Government oflraq. {Tr. 1/84)
+
+
+                                            8
+Mr. Gorman, the DCMA Iraq Property Manager, appeared to agree that the LAV s
+were contractor-furnished equipment and thus not covered by the demilitarization rules
+(id. at 824).
+
+        Nevertheless, by the next day, the 25th of July, Ms. Polfliet received new
+direction that would end up as the final government position. As she explained to
+Ms. White, since the LAVs were bought with government funds, they were considered
+to be government-furnished equipment to which the demilitarization rules applied.
+And noncombat commercial armored vehicles were apparently classified as "Q."
+(R4, tab 49 at 872) Although the record is unclear, it appears to us that Ms. Polfliet's
+position was based upon direction given to her by the new CO, Ms. Jodie Bennett
+(see tr. 11141-43).
+
+       According to her testimony, which we find to be credible, Ms. Bennett's
+decision-making with respect to the disposition of the LAVs was driven almost
+completely by the advice she received from Mr. Garrett, the DoD demilitarization
+expert, who had communicated that the sale of the LAVs would be contrary to
+governing regulations (tr. 11143). She did not FEPP the LAVs to the Government of
+Iraq because the United States had a particular need to give them to the Iraqis; rather,
+she did so because the vehicles needed to be disposed of at the end of the contract and
+FEPPing them to the Iraqis was preferred to simply destroying them, which was also
+an option (tr. 11143-44). Thus, we specifically find that the decision to FEPP the
+LAVs, rather than sell them to Aegis, was not made for reasons involving national
+security or foreign policy, but was simply the path taken to dispose of them once the
+government, rightly or wrongly, internally decided that it could not transfer them to
+Aegis on contract completion.
+
+        We also find that the government had no use for the LAVs upon contract
+completion. This finding is based upon CO Bennett's earlier-discussed testimony
+regarding her motivation for disapproving the sale as well as her testimony, in
+response to the Board's questions, that nobody had actually particularly wanted to give
+the LAVs to Iraq, except as a means of their disposal (tr. 11143-44) and OSC-l's
+earlier-noted statement that the government had no further use for the LAVs. 6
+Interestingly, in early August 2013, some government personnel explored the options
+available for exporting at least some of the LAVs to other countries in the region for
+use in security contracts so that the money already spent on them would not be wasted.
+To that end, the persons involved in this discussion affirmatively did not wish for the
+
+
+6 To the government's credit, the CO's final decision in response to Aegis's non-monetary
+
+      claim upon this matter did not assert that there was a use for the vehicles; stating,
+      instead, that the future use of the vehicles was irrelevant to the government's
+      decision-making (R4, tab 63 at 1042-43).
+
+                                           9
+LAVs to be FEPP'd to the Iraqis (see R4, tabs 47-48). Unfortunately, however, the
+export of these LAVs proved to be impracticable (see R4, tab 48).
+
+        Through a series of emails in early to mid-August 2013 to Ms. Bennett and her
+supervisor, Ms. Christine Berry, Ms. White attempted to persuade the government to
+change its mind regarding the LAVs prior to their transfer to the Iraqis (R4, tabs 49,
+52-53). One matter of particular concern to Ms. White was the possibility that LAVs
+FEPP'd to the Government of Iraq might simply be handed over to a different security
+contractor by that government (R4, tab 53 at 934-35). CO Bennett agreed that such a
+thing had happened, though it should not have (app. supp. R4, tab 24 at 4428-29). In
+the end, however, the government felt that it could not budge (R4, tab 53 at 936). On
+17 September 2013, Ms. White submitted a non-monetary claim to the CO seeking a
+contractual interpretation permitting the sale of the LAVs to Aegis as part of an effort
+to get the government to reconsider and make a definitive decision7 (see R4, tab 56;
+tr. 1/60). This claim was denied in due course in a final decision by CO Bennett dated
+25 October 2013 (R4, tab 63). That decision was appealed on 20 December 2013 and
+docketed as ASBCA No. 59082.
+
+        In the end, the LAVs were a11 8 FEPP'd to the Iraqis in April 2014 (supp. R4,
+tab 95). The FEPP paperwork included a statement by the Deputy Chief of OSCI-C
+that the FEPP transfer was "for the benefit of both the [Government of Iraq] and the
+United States (US) Government," and ''will contribute significantly to [US] efforts [to
+help] Iraqi Security Forces" (supp. R4, tab 95 at 2936).
+
+       Aegis submitted two monetary claims to the CO in 2015. The first, in the
+amount of$3,709,843.75, was submitted on 7 May 2015 for 37 LAVs (supp. R4,
+tab 96). It was denied by the CO on 4 June 2015 (supp. R4, tab 97), appealed by
+Aegis on 27 July 2015, and docketed as ASBCA No. 60111. The second monetary
+claim, in the amount of$1,081,187.50, for 13 LAVs, was submitted by Aegis on
+
+7
+  The claim turned out not to be quite the last effort on Aegis's part. In early
+       October 2013, Aegis's director, Brigadier James Ellery, sent an email directly
+       to L TG John Bednarek, chief of OSC-I in an attempt to get the government to
+       change its mind. The two engaged in what appears to have been a friendly and
+       constructive colloquy about the issue, with L TG Bednarek ultimately
+       explaining that the government would have liked to have sold the LAVs to
+       Aegis and been paid for them, but had felt compelled to follow its interpretation
+       of the regulations that precluded such a sale. (R4, tab 62)
+8
+  The FEPP paperwork indicates that only 50 LAVs were FEPP'd to the Government
+       of Iraq (app. supp. R4, tab 28 at 463), rather than the full 52 at issue in the
+       contract. The discrepancy is likely resolved by the fact that at least 1, and
+       perhaps 2 of the original 52 LAVs had become inoperable by the time of
+       contract completion (see tr. 1/61-62).
+
+                                          10
+27 July 2015 (supp. R4, tab 98). The record does not include a CO's final decision
+upon this claim, and its deemed denial was appealed by Aegis on 2 October 2015 and
+docketed as ASBCA No. 60259.
+
+                                        DECISION
+
+        We do not second guess the government's motives in its apparently sincerely held
+belief that it was precluded from selling the LAVs to Aegis, as contrary to common sense
+as it may seem. The consequence of acting upon that belief, however, is that the
+government broke its contractual promise to Aegis to give it a right of first refusal to
+purchase the LAVs if the government had no use for them. As the government, in fact,
+had no use for the LAVs and as the contract was definite enough to pass legal muster and
+no other circumstances were proved to excuse performance, we rule in favor of Aegis on
+entitlement.
+
+   I.     The Contractual Language Required the Government to Offer to Sell the
+          LAVs to Aegis if the Government had No Use for Them
+
+        The terms of the contract material to this dispute are, at first blush, not as clear
+as we would like them to be. The government argues, consistent with the terms of the
+amended PWS, that the sole determinant of triggering Aegis's right of first refusal was
+whether the government wished to take back "title" to the LAVs (gov't br. at 19-24).
+This would make Aegis's rights tum upon the subjective desires of the government
+and have nothing to do with whether the government had an alternate use for the
+LAVs. The contract terms, however, are not so plainly focused upon the term, ''title,"
+as the government would like and, as will be seen, ultimately support Aegis's
+preferred reading: that Aegis had the right of first refusal if the government had no
+further use for the LAV s.
+
+       To resolve this issue, we begin with the law of contract interpretation. Under
+basic principles of the law, a contract is interpreted "in terms of the parties' intent, as
+revealed by language and circumstance." United States v. Winstar Corp., 518 U.S. 839,
+911 (1996) (citations omitted). Generally, this process begins and ends with the
+language of the contract. TEG-Paradigm Environmental, Inc. v. United States,
+465 F.3d 1329, 1338 (Fed. Cir. 2006). And in reviewing this language, the Board
+should read the contract "as a whole and [interpret it] to harmonize and give reasonable
+meaning to all its parts," if possible, leaving no words "useless, inexplicable,
+inoperative, insignificant, void, meaningless or superfluous." Precision Dynamics, Inc.,
+ASBCA No. 50519, 05-2 BCA ~ 33,071at163,922; see also Hercules, Inc. v.
+United States, 292 F.3d 1378, 1381 (Fed. Cir. 2002) ("contract must be construed to
+effectuate its spirit and purpose giving reasonable meaning to all parts of the contract");
+Hunkin Conkey Constr. Co. v. United States, 461F.2d1270 (Ct. Cl. 1972) (rejecting
+contract interpretation that would render a clause in the contract meaningless).
+
+
+                                            11
+        With this in mind, we tum to the terms of the contract, which are more expansive
+than admitted by the government. The government's insistence that we are limited to
+the terms of the PWS is contradicted by the parties' adoption of the terms of Aegis's
+11 December 2011 proposal into Mod 6 as well as the government's adoption of those
+terms into the NTP that preceded Mod 6 and into the NTP that preceded Mod 10. That
+proposal, of course, included the language granting the right of first refusal to Aegis if
+the government had no use for the LAVs. Because Mod 6 is part of the contract9 and
+because Mod 7 made the revised PWS part of the contract (without explicitly replacing
+or rejecting the terms of Mod 6), we are presented with a requirement to reconcile these
+contractual terms. See, e.g., Hunkin Conkey, 461F.2d1270.
+
+         The most direct way to reconcile the seemingly different contract terms ("no
+further use" in the proposal versus the government's '\vish[ing] to take title" LtJ. the
+PWS) is to interpret the title language in the PWS as the equivalent of the use language
+in the earlier-drafted proposal. To understand how this can be so, we digress slightly to
+discuss the meaning of "title" in the PWS. Although the parties were both of the belief
+that, as property acquired under the contract, the LAVs were the government's
+property, both parties also recognized that the LAVs had to be titled to Aegis so that it
+could engage with the Iraqi government to obtain the necessary sticker. At the end of
+the contract, even if the government had always equitably owned the LAVs, in order to
+use them in Iraq or elsewhere, it would need to take title to them. To the contrary, ifthe
+LAV s were only to be destroyed or handed to a different contractor (or the Government
+of Iraq), there would be no need for the government to take title for itself. Thus, taking
+title, as a practical matter, would only be done in the event that the government had use
+for the LAVs, and would not be done if it did not. We do not perceive - and the
+government does not present - an alternate interpretation of the contract that reconciles
+the two writings. Moreover, this interpretation has the great merit of being exactly
+what the parties intended 10, as reflected in the government's previously-discussed 19
+December 2011 email correspondence with Aegis, in which it informed Aegis that its
+proposal, regarding a right of first refusal to purchase the LAVs if the government had
+no use for them, had been incorporated into the PWS except for the straight-line
+depreciation issue. See Blinderman Constr. Co. v. United States, 695 F.2d 552, 558
+
+9
+  The government asserts, without support, that the PWS in Mods 7 and 10 "superseded"
+       the incorporation of Aegis's proposal by Mod 6 (gov't hr. at 20). Nothing in
+       Mod 7 or Mod 10 supports this conclusion with respect to the terms at issue here.
+10
+   Aegis asks us to make an adverse inference against the government with respect to its
+       intent because of its failure to produce Ms. Burant as a witness (app. br. at 25-27).
+       Drawing such an inference is unnecessary here, given that the documentary
+       evidence amply explains the parties' intents and there is no reason to believe
+       that Ms. Burant's testimony would be materially any different than Ms. White's.
+       The government's failure to call a witness that the appellant believes would be
+       helpful to appellant's case, without more, does not justify an adverse inference.
+
+                                           12
+(Fed. Cir. 1982) (contemporaneous construction of an agreement prior to dispute is
+entitled to great weight).
+
+        Additionally, we reject the government's attempt to make hay of the fact that
+there was no equivalent to Mod 6, incorporating the terms of the Aegis proposal for
+the purchase of the first 14 LAVs (which preceded Mod 7), for Mod 10, involving the
+later 38 LAVs (see gov't br. at 22). Through reconciliation of the terms of Mods 6 and
+7, the meaning of the revised PWS was already established by the time of Mod 10;
+there is simply no need to revisit its interpretation.
+
+   II.     The Government Had No Use for the LAVs After Contract Performance
+
+        Althoug.li the government asserts that its handing the LAV s to the Iraqi
+government furthered a valid national security aim and thus advanced a legitimate
+government purpose (see gov't br. at 22), the overwhelming weight of the evidence is
+to the contrary. LTC Turner's emails on behalf of OSC-I certifying that the
+government had no use for the LAVs are convincing evidence that there was no
+government need for them. Ms. Bennett's candid testimony that her decision to FEPP
+the vehicles was based completely upon the advice she received forbidding their sale,
+and had nothing to do with any government need for them constitutes further
+persuasive evidence that the government had no remaining use for them. There is also
+the notable absence in the email correspondence of any argument, whatsoever, that
+FEPPing the LAVs to the Iraqi government would be of any use to the United States
+Government.
+
+        To counter this evidence, the government presents the fact that the apparently
+standard government memorandum to justify the FEPPing of the LAVs included
+language stating that it was done in the interest of the government and for Iraqi
+security (gov't br. at 13). The government also states, in one sentence of its brief
+that, in being transferred to the Iraqi government, the LAVs were being legitimately
+used by the United States (id. at 22). There is nothing in the FEPPing memorandum
+that gives us any reason to believe that the statement about the use of the LAVs
+was anything more than a standard incantation with little evidentiary worth. The
+contemporaneous statements of LTC Turner; the extensive email thread; and
+Ms. Bennett's sworn testimony all prove otherwise.
+
+       Under the terms of the contract, the government had no use for the LAVs and was
+obligated to give Aegis the right of first refusal for their purchase, which it did not do.
+
+
+                                           13
+    III.   Aegis May be Entitled to Monetary Damages
+
+        Due to prior agreement at the pretrial stage of these appeals, we only decide
+entitlement at this stage of the proceedings. Nevertheless, the government has argued
+that the terms of the contract are such that the damages are too speculative to support a
+finding of entitlement to money damages, as sought in Aegis's second and third claims
+and appeals (gov't hr. at 27-30). In response, Aegis contends that arguments about
+damages are premature at this point in the litigation and that it is not seeking
+speculative damages; only the difference between what it paid for replacement LAVs
+and what it would have paid for the LAVs had the government complied with the
+contract and sold them to Aegis (app. reply hr. at 11-13). Neither side's argument is
+completely correct.
+
+        We start by noting that the theory upon which Aegis appears to be seeking
+damages is flawed. That damages theory is that, in accepting Aegis's 11 December
+2011 proposal, the government agreed to a straight-line depreciation of the price of the
+LAVs over a two-year period with a 5% residual value. Damages, then, would be
+calculated by subtracting the depreciated price of the contractually obtained LAVs
+from the price that Aegis ultimately paid on the market for other LAVs that it bought
+to replace them for use in its post-contract Iraqi business (see supp. R4, tab 96 at 4
+(damage analysis in first monetary claim), tab 98 at 1 (second monetary claim,
+adopting analysis of first)). But the contract did not mandate that the government
+depreciate the LAVs to almost nothing as Aegis first proposed.
+
+         To be sure, as we discussed at length above, the contract incorporated both
+Aegis's 11December2011 proposal and its revised PWS. But while the proposal was
+firm that the right of first refusal would be triggered if the government had no use for
+the vehicles, it was not so firm about the means of calculating their price. With respect
+to use, the language was: "At the end of the Contract Aegis will be given the right of
+first refusal to purchase the vehicles in the event the Government has no further use for
+them" (app. supp. R4, tab 1 at 8320 (emphasis added)). By contrast, the price
+language, which immediately followed was: "We propose a straight line amortization
+over a 2 year period with a 5% residual value" (id.). Moreover, unlike the terms of the
+PWS that could be harmonized with the use language of the proposal, the PWS
+language on the terms of the sale specifically rejected the set price proposed by
+Aegis's proposal, and stated: "If USG does not wish to take title to the vehicles,
+contractor will be given first right of refusal on negotiating and possible procurement
+of said vehicles" (app. supp. R4, tab 7 at 1983 (emphasis added)). This was consistent
+with the government's written response to Aegis's proposal in which it specifically
+rejected the set depreciation rate and proposed negotiations, instead (R4, tab 15 at
+408). We thus interpret the contract modifications together, to provide that Aegis and
+the government agreed to negotiate a price for the LAVs if the government had no use
+for them, but not to adopt the pricing formula proposed by Aegis.
+
+
+                                           14
+       Although this interpretation might diminish Aegis's damages - and certainly
+makes them less easily quantifiable - it does not prevent us from finding a breach of
+contract or making a monetary award. What we are presented with in this contract is
+an agreement to negotiate over a matter- in other words, an "agreement to agree,"
+which imposes upon the parties an obligation to negotiate in good faith. North Star
+Steel Co. v. United States, 477 F.3d 1324, 1332 (Fed. Cir. 2007). Such agreements to
+agree have been held to be sufficiently definite to support the finding of the existence
+of a contract, see, e.g., Gardiner, Kamya & Assocs., P.C. v. Jackson, 369 F.3d 1318,
+1322 (Fed. Cir. 2004) (citing cases), and we see no reason to depart from this
+precedent at this time. Of course, ifthe parties are unable to resolve the quantum of
+this appeal upon remand, Aegis will be obligated to present evidence of the value of its
+agreement that was breached by the government, but we have no need to further
+address the measure of damages here and now.
+
+   IV.    The Government Has Not Presented a Legal Impossibility Defense
+
+        Finally, we briefly address the matter of a defense that has not been raised by
+the government, but is so implicit in the facts leading up to the contract breach that we
+feel obligated to acknowledge it: was the government legally barred from selling the
+LAVs to Aegis? If so, does this suggest that both parties were under the
+misapprehension when they agreed to Mods 6, 7 and 10, that the government could
+sell the LAVs to Aegis when, in fact, it could not, thus presenting the defense of
+mutual mistake of law?
+
+        Mutual mistake is an affirmative defense. See, e.g, K-Con Building Systems,
+Inc. v. United States, 131 Fed. Cl. 275, 332 (2017); Ameriserv Trust v. United States,
+125 Fed. Cl. 733, 747 (2016); see also East-Wind Industries, Inc., ASBCA No. 25684,
+86-1 BCA ~ 18,698 at 93,987 (holding that mutual mistake is "not merely" an
+affirmative defense, but also, effectively, a counterclaim). As an affirmative defense,
+it must be pied and proved. See Board Rule 6(b) (requiring affirmative defenses to
+be pied in the government's answer); Northrop Worldwide Aircraft Services, Inc.,
+ASBCA Nos. 45216, 45877, 96-2 BCA ~ 28,574 at 142,630-31 (failure to timely
+raise affirmative defense may waive it); Kellogg Brown & Root Services, Inc.,
+ASBCA No. 58175, 15-1BCA~35,988 at 175,823 (burden of proof). The
+government did neither here.
+
+       The defense of mutual mistake is not present in the government's answer or in
+any pre- or post-trial filing in this appeal. Moreover, even when Aegis raised a related
+matter in its opening post-trial brief (primarily arguing that, because it had not been
+raised as a defense, the government could not rest upon a DoD regulation to excuse its
+performance (see app. br. at 36)), the government never claimed that it was presenting
+such a defense. Finally, at the hearing, the government presented no evidence (such as
+proof that the regulation actually prohibited the sale versus whether it was merely
+
+
+                                           15
+perceived to do so) to prove such a defense. 11 The defense is thus both waived and
+unproved.
+
+                                     CONCLUSION
+
+        The government agreed to give Aegis a "right of first refusal" to negotiate a
+purchase of the LAVs obtained under the contract after the contract was over, so long
+as the government had no use for them. The government, in fact, had no use for the
+LAVs, but declined to sell them to Aegis because of its belief that it was not permitted
+to do what it had agreed to do under the contract. This was a breach of the contract for
+which the government has presented and proved no defense. Accordingly, Aegis is
+entitled to those damages it can properly prove came from that breach. The appeals
+are sustained and remanded to the parties to negotiate quantum.
+
+         Dated: 15 November 2017
+
+
+                                                  J. REfDPROUTy
+                                                  Administrative Judge
+                                                  Vice Chairman
+                                                  Armed Services Board
+                                                  of Contract Appeals
+
+
+                                                  I concur
+
+
+ RICHARD SHACKLEFORD
+ Administrative Judge
+ Acting Chairman
+ Armed Services Board
+ of Contract Appeals
+
+
+11
+     We do not know or speculate why the government chose this strategy, but recognize
+        that there may have been very good reasons for it to do so.
+
+                                           16
+       I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA Nos. 59082, 60111, 60259,
+Appeals of Aegis Defense Services, LLC, f/k/a/ Aegis Defence Services Ltd., rendered
+in conformance with the Board's Charter.
+
+      Dated:
+
+
+                                               JEFFREY D. GARDIN
+                                               Recorder, Armed Services
+                                               Board of Contract Appeals
+
+
+                                        17

@@ -1,0 +1,1280 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeal of--                                      )
+                                                 )
+TriRAD Technologies Inc.                         )       ASBCA No. 58855
+                                                 )
+Under Contract No. F A3002-11-C-0002             )
+
+APPEARANCE FOR THE APPELLANT:                            Mr. Rhett Reardin
+                                                          Director
+
+APPEARANCES FOR THE GOVERNMENT:                         Lt Col James H. Kennedy III, USAF
+                                                         Air Force Chief Trial Attorney
+                                                        Gregory A. Harding, Esq.
+                                                        John Pettit, Esq.
+                                                         Trial Attorneys
+
+                 OPINION BY ADMINISTRATIVE JUDGE CLARKE
+
+       This appeal involves the termination for convenience of a commercial items
+contract for ten aircraft simulators for Randolph Air Force Base (AFB). The parties
+disagree over the amount owed TriRAD by the Air Force pursuant to the commercial
+items termination for convenience clause. The Board has jurisdiction pursuant to the
+Contract Disputes Act of 1978 (CDA) 41 U.S.C. §§ 7101-7109. We decide entitlement
+and quantum. We sustain the appeal.
+
+                                  FINDINGS OF FACT
+
+Contract No. FA3002-11-C-0002
+
+       1. Contract No. FA3002- l 1-C-0002 (0002) was a commercial items contract
+awarded to TriRAD Technologies Inc. (TriRAD) on 28 February 2011. The contract
+required TriRAD to deliver a total of ten FAA certified fixed training device flight
+simulators for the T-6A Texan II aircraft. (R4, tab 1; tr. 2/39-40) The total fixed-price
+was $2,445,200.00 (R4, tab 1 at 1 of 28).
+
+       2. Delivery of the first simulator was due on 15 June 2011, the second on
+15 August 2011, and the remaining eight, one every month commencing on 1 October
+2011 (R4, tab 1 at 3 of 28). The contract included clauses utilized for commercial items
+including FAR 52.212-4, CONTRACT TERMS AND CONDITIONS - COMMERCIAL ITEMS
+(JUN 2010) (id. at 5 of 28). Paragraph 4, Additional Contract Requirements, stated that
+TriRAD must provide on-site instructor training with the delivery of each simulator (R4,
+tab 1at28 of28; tr. 2/41).
+      3. FAR 52 .212-4, CONTRACT TERMS AND CONDITIONS - COMMERCIAL ITEMS
+(JUN 2010), includes the following:
+
+                     (1) Termination for the Government's convenience.
+             The Government reserves the right to terminate this contract,
+             or any part hereof, for its sole convenience. In the event of
+             such termination, the Contractor shall immediately stop all
+             work hereunder and shall immediately cause any and all of its
+             suppliers and subcontractors to cease work. Subject to the
+             terms of this contract, the Contractor shall be paid a
+             percentage of the contract price reflecting the percentage of
+             the work performed prior to the notice of termination, plus
+             reasonable charges the Contractor can demonstrate to the
+             satisfaction of the Government using its standard record
+             keeping system, have resulted from the termination. The
+             Contractor shall not be required to comply with the cost
+             accounting standards or contract cost principles for this
+             purpose. This paragraph does not give the Government any
+             right to audit the Contractor's records. The Contractor shall
+             not be paid for any work performed or costs incurred which
+             reasonably could have been avoided.
+
+       4. Contract 0002's Statement of Need (SON), 20 December 2010, reads in part as
+follows:
+
+             1.0 DESCRIPTION OF NEED:
+
+             Air Education & Training Command, Chief, Undergraduate
+             Flying Training and Standardization Division (HQ
+             AETC/A3F) has a need to purchase a Federal Aviation
+             Administration (FAA) commercial off-the-shelf (COTS) IFR
+             Flight Simulator, Fixed Training Device (FTD)/Flight
+             Simulation Device (FSD), that will be used in Undergraduate
+             Remotely Piloted Aircraft (RPA) Pilot Instrument
+             Qualification training.
+
+             A Simulator/Professional Airplane Simulator (PAS), Fixed
+             Training Device (FTD), Flight Simulation Device (FSD), that
+             is able to become FAA FTD Level 5 certified IA W 14 CFR
+             Part 60, Appendix B, and that may be used in accordance
+             with Federal Aviation Regulations for Instrument Flying
+             Training. FAA certification must occur within 1 year of the
+             first Simulator delivery, 15 June 2012.
+
+
+                                           2
+(R4, tab 1 at 25-26 of 28) The SON also included, in pertinent part, paragraph 2, Scope
+of Work (2.1.1-2.1.3), paragraph 3, Technical Description (Hardware profile, 3.1.1-3.1.8,
+Software profile, 3.2.1-3.2.6, and Sustainability, Vendor Support, Database Updates,
+3.3.1-3.3.3) (id. 26-28 of28) These were all narratives of performance requirements.
+For example, paragraph 2.1.1 reads:
+
+              2.1.1    Training in the basic category, contact category, and
+                       instrument category must be supported. Formation
+                       training is not required. A student pilot shall be able
+                       to operate the simulator without instructor support.
+
+(R4, tab 1 at 26 of 28)
+
+       5. SON, paragraph 4, Additional Contract Requirements, reads:
+
+              The vendor must supply training for our Instructor Force with
+              delivery of each simulator. The vendor will provide on-site
+              Instructor training (3 day, 8 hours per day) in San Antonio, TX
+              for each of the simulators delivered. AETC will provide the
+              facilities for the vendor's training. The Simulator/Professional
+              Airplane Simulator (PAS), Fixed Training Device (FTD),
+              Flight Simulation Device (FSD), shall be FAA FTD Level 5
+              certified IA W 14 CFR Part 60, Appendix B within 1 year of
+              the first Simulator delivery, 15 June 2012. Final payment is
+              contingent upon attaining FAA certification.
+
+(R4, tab 1 at 28 of 28)
+
+Delivery and Testing of the First Simulator
+
+       6. On 13 June 2011, TriRAD notified the Air Force that due to an unexpected
+delay in receiving the display system it would not be able to deliver the first unit on
+15 June 2011 (R4, tab 3). On 28 June 2011 CO Pritchett wrote TriRAD expressing
+concern that delivery of the first simulator had not yet occurred (R4, tab 4 ).
+
+        7. Mr. Ham is a simulator instructor at the 558 Flying Training Squadron at
+Randolph AFB (tr. 2/122). When the first simulator was delivered to Randolph AFB
+on 20 June 2011, Mr. Ham conducted testing (tr. 21126; R4, tab 6 at 1). The testing
+occurred on 11 and 12 July 2011 (tr. 2/127). A second test took place on 26 July 2011
+(tr. 21127-28). The results of the inspections are in the record and consists of three
+columns; the first lists the performance requirement paragraphs of the SON, the second
+identifies the tests and present the results of the 11-12 July testing and the third presents
+the results of the 26 July 2011 testing (R4, tab 6 at 5-14; tr. 21128). The record also
+includes a version of this table with a column listing TriRAD's comments after the
+
+                                               3
+11-12 July 2011 test results (ex. G-28). Mr. Ham testified about the performance of the
+first simulator, "[b]ut if I looked at it based on our training syllabus and what we had to -
+- what we would have to do with that sim, what our job is, to train RP A students, the sim
+was of no use to us in our training program" (tr. 2/138). There was no evidence of what
+the "training syllabus" referred to by Mr. Ham was or what it contained; there is no copy
+of it in the record or no explanation that by "training syllabus" Mr. Ham was referring to
+the SON. Mr. Ham thought the problems were due mostly to software issues (tr. 2/138.
+Mr. Ham agreed that TriRAD's simulator did "fly" and they could accomplish pieces of
+the mission but not the whole mission (tr. 2114 7). CO Pritchett testified that the first
+simulator that TriRAD delivered would turn on and he saw it "fly"-it was a "working
+simulator"-but it did not meet 100% of the requirements (tr. 2/53).
+
+FAA Certification
+
+     8. Mr. Ham was asked why TriRAD's simulator was not inspected based on the
+FAA Level 5 requirement and he responded:
+
+              Well, one thing is, first off, Level 5 is kind of the minimum
+              requirement that's needed. We had a basic outline that said
+              what Level 5 needed to be and what Level 5 needed to do.
+              But the sim was so deficient in meeting the statement of need
+              we never even got to the technical part of the Level 5 stuff
+              and FAA would have been the one that certified it. But Level
+              5 is kind of just the minimum. The statement of need was
+              what we were actually looking at.
+
+
+(Tr. 2/142) At the Board's request the government included a copy of FAA Appendix B
+to Part 60 - Qualification Performance Standards for Airplane Flight Training Devices in
+the Rule 4 (R4, tab 53). Other than Mr. Ham's testimony quoted above, the government
+presented no testimony on FAA Appendix B to Part 60. The first paragraph in FAA
+Appendix B to Part 60 reads:
+
+
+                      This appendix establishes the standards for Airplane
+              FTD evaluation and qualification at Level 4, Level 5, or
+              Level 6. The Flight Standards Service, NSPM, is responsible
+              for the development, application, and implementation of the
+              standards contained within this appendix. The procedures
+              and criteria specified in this appendix will be used by the
+              NSPM, or a person or persons assigned by NSPM when
+              conducting airplane FTD evaluations.
+
+
+                                              4
+(R4, tab 53 at 1) Table B lA, Minimum FTD Requirements, presents in tabular form the
+"General FTD requirements" for Levels 4, 5, and 6 (R4, tab 53 at 12-16). There are other
+requirements in tabular form: Table BlB, Table of Tasks vs. FTD Level; Table BlC,
+Table of FTD System Tasks QPS Requirements; Table B2A, Flight Training Device (FTD)
+Objective Tests; and others through B3A (id. at 16-18, 21-45). None of these tables were
+explained by government witnesses, however, FAA Appendix B to Part 60 clearly presents
+details of performance requirements for FAA Level 5 certification applicable to the
+simulators delivered by TriRAD per Contract 0002's SON (R4, tab 1 at 26of28).
+
+Termination for Cause
+
+       9. On 3 August 2011, by contracting officer's final decision (COFD) signed by
+Janelle J. Larrison, CIV, DAF, termination contracting officer (TCO), Contract 0002 was
+terminated for cause based on the two inspections conducted by Mr. Ham (R4, tab 6).
+Contract Modification No. P00002 implemented the termination for cause (R4, tab 7).
+Mr. Reardin testified that TriRAD stopped working on the simulators as of the date of the
+termination (tr. 1/107, 1 191, 218). Mr. Reardin's testimony is corroborated by
+contemporaneous email (R4, tab 33). CO Pritchett testified that after the termination,
+TriRAD offered to pay for the Air Force to travel to TriRAD and inspect and "fly"
+Unit 2 (tr. 2/101-02). CO Pritchett explained that they did not accept TriRAD's offer
+because the contract was terminated and "[t]here's no going back" (tr. 2/102).
+
+        10. In August 2011 the Air Force learned that TriRAD had submitted an invoice
+for the first simulator and was paid by the Air Force in the amount of $248,600.00
+(R4, tabs 8, 9).
+
+      11. TriRAD's appeal of the termination for cause was docketed as ASBCA
+No. 57740 on 17 August 2011 (R4, tab 11).
+
+       12. On 2 September 2011, by COFD signed by TCO Larrison, the Air Force
+demanded the repayment of the $248,600.00 erroneously paid to TriRAD (R4, tab 13).
+TriRAD appealed that final decision and the appeal was docketed as ASBCA No. 57820
+on 28 October 2011 (R4, tab 14 ).
+
+        13. The government included TriRAD's responses to government interrogatories
+in the Rule 4 (R4, tab 15). TriRAD's response to interrogatory 5 asking ifthe SON was
+"not accurate" read in part:
+
+               TriRAD provided a training device that included every
+               system identified in the SON (i.e., as per paragraph 3.2.3, the
+               VOR, DME, ILS, LOC, ASR/P AR, and OPS/RNAV). These
+               systems were noted in the SON, but there were no specific
+
+1
+    He also testified that some work was done twelve days after termination (tr. 1/115).
+                                              5
+               details regarding the extent of their operation. The details
+               would have been included in either a Technical Specification
+               or a Statement of Work. These types of documents are
+               standard and should have been provided for a training device
+               such as the T-6A, especially when the FAA Level 5 FTD
+               requirements were included. None of these documents were
+               included in the RFQ or SON.
+
+(R4, tab 15 at 4) TriRAD reiterated this contention in its reply brief:
+
+               TriRAD contends that the SON and Scope of Work were not
+               a detailed technical specification that is always required for a
+               complex simulator device. The SON and Scope of Work
+               lacked any significant detail relating to the specific training
+               requirements of the USAF RPA Program.
+
+(App. reply br. at 16) TriRAD contends, "[t]here are no testing requirements noted in the
+SON or the Contract other than its reference to the FAA certification" (app. reply br. at
+86). In other responses to interrogatories TriRAD noted that the SON provided that
+TriRAD had one year to attain FAA Level 5 certification (R4, tab 15 at 5, tab 16 at 9).
+
+Termination/or Convenience
+
+       14. By letter dated 24 October 2012 the Air Force converted the termination for
+cause to a termination for convenience (R4, tab 17). 2 The Air Force referenced
+FAR 52.212-4(1), Termination for the Government's convenience, and stated that
+TriRAD could submit a written request for termination for convenience costs (id.).
+CO Pritchett testified that TriRAD was erroneously paid for the first simulator, but that
+allowing them to keep that payment was "the fair thing to do" (tr. 2/54).
+
+Termination for Convenience Settlement Proposal
+
+       15. On 3 November 2012, TriRAD submitted its termination for convenience
+settlement proposal in the amount of $1,803,993.00 (R4, tab 19). This amount was
+comprised of $1,494,3 82.00 for 61.11 % completion at termination for cause plus
+$558,211.00 for unavoidable charges between August 2011 and October 2012 minus
+$248,600.00 paid for the first unit (id. at 3). The proposal included an SF 1436,
+Settlement Proposal (Total Cost Basis), with the pre-printed certification on page 4 of the
+form (id. at 13-16). The SF 1436 was signed by Mr. Reardin (id. at 16). TriRAD
+included a table that listed the major components installed in the simulator cockpit, and
+the percent of completion for each component for each of the ten simulators. TriRAD
+
+2
+    As a result of the conversion, ASBCA Nos. 57740 and 57820 were dismissed with
+         prejudice on 14 November 2012 (R4, tab 20).
+                                              6
+listed the first two simulators as 100% complete, Unit 3 at 97%, Unit 4 at 71.9%, Unit 5 at
+55.7%, Unit 6 at 38.7%, Unit 7 at 30.9%, Units 8, 9 and 10 at 20.6%. (Id. at 7) 3 TriRAD
+described the methodology it employed to calculate percentage completion as follows:
+
+                1. The simulator's overall top assembly is shown in drawing
+                   No. 106170100 (T-6 Level 5 Trainer, attached). There are
+                   5 main assemblies for each T-6 Level 5 Trainer. See page 6
+
+                   a. Other than the cockpit assembly, the 4 other
+                      assemblies are comprised of mainly commercial off-
+                      the-shelf purchased items (i.e., computers, projectors,
+                      gantry, etc.) The exception is the Dome Hemisphere
+                      assembly which was manufactured to meet FAA Level
+                      5 certification requirements.
+
+                   b. Except for the Cockpit assembly, the above items are
+                      purchased and then require minimum assembly except
+                      the Cockpit assembly.
+
+                2. The main simulator part is the Cockpit Assembly as
+                   shown in drawing No. 106120100 (attached). See page 8
+
+                   a. There are 14 major assemblies associated with the
+                      cockpit. The cockpit is a TriRAD custom made
+                      assembly. These assemblies are listed on the spread
+                      sheet labeled "Major Cockpit Assemblies Completed at
+                      Termination for Cause (August 3, 2011)". See page 7
+                   b. There are over 200 individual subassembly parts
+                      associated with the major assemblies.
+                   c. Over 80 parts (i.e., switches, electronic components,
+                      etc.) were ordered for all 10 simulators.
+                   d. Most of the parts are to be installed in the various
+                      subassemblies (e.g., the Main Instrument Panel
+                      assembly which TriRAD had purchased all of the
+                      backing panels for the remaining 8 units).
+                   e. The Main Instrument Panel represents the most
+                      complex and labor intensive major cockpit assembly of
+                      the simulator. Other major hardware components
+                      include the Throttle Quadrant, the Control Stick and
+                      the Adjustable Rudder Pedals. These four major
+
+
+3
+    These percentages are slightly higher than the percentages TriRAD included in its
+         interrogatory responses (R4, tab 16 at 11 ).
+                                              7
+                      assemblies represent around 70% of the TriRAD
+                      effort.
+
+              The percentage of completion is based on the existence of
+              materials (in-house) and assemblies that were available at the
+              Termination for Cause work stoppage. At the time of the
+              work stoppage, TriRAD had completed work on the
+              subassemblies as noted in the Major Cockpit Assemblies
+              Completed at Termination for Cause (August 3, 2011) table.
+              (See page 7) f\t the time of the work stoppage, TriRAD had
+              10 technical people working on the program and the
+              remaining Units. It would take approximately 1232 man
+              hours for the TriRAD technicians to create and test the Major
+              Cockpit Assemblies for each Unit.
+
+(R4, tab 19 at 4-5)
+
+         16. By letter dated 10 December 2012, CO Pritchett requested additional
+information from TriRAD in support of its settlement proposal including among other
+things invoices, receipts, billings, G&A, overhead, profit, employee records/timecards etc.
+(R4, tab 21 ). CO Pritchett testified that he wrote the 10 December 2012 letter to TriRAD
+requesting additional supporting documentation to validate the percentage of completion
+of each simulator, start-up costs, employment/payment records, facilities and utilities
+records, and other documents supporting the claim (tr. 2/45; R4, tab 21). CO Pritchett
+testified that TriRAD's claim "didn't give me the whole story" and he wanted information
+of such things as labor, overhead, G&A, profit, and receipts even though he realized that
+since this was a commercial items contract he could not force TriRAD to provide that
+information (tr. 2/60-62). On 13 December 2012, a teleconference was held between
+Mr. Reardin and CO Pritchett concerning the government's request for supporting
+information (R4, tab 22; tr. 2/46-4 7). Mr. Reardin was unsure how they could provide the
+requested information and stated he felt the percentage table and explanation should be
+sufficient (id.). CO Pritchett again requested receipts, invoices, billings, payroll records,
+etc. (id.). CO Pritchett testified that he couldn'tjust take TriRAD's word for the claimed
+costs and that he worked with Mr. Reardin to help him understand how to support the
+claim (tr. 2/48-49). During the call CO Pritchett mentioned the possibility of a site visit
+by the government to allow TriRAD to explain its percentages. TriRAD did not agree to a
+site visit (id.). On 17 December 2012 TriRAD responded in writing to CO Pritchett's
+10 December 2012 letter and included 283 pages of additional information including
+invoices and receipts (R4, tab 23). TriRAD provided additional information on
+29 January 2013 (R4, tab 25). CO Pritchett agreed that TriRAD provided almost
+everything he requested (tr. 21103-04, 116).
+
+      17. On 6 March 2013 CO Pritchett emailed Mr. Reardin stating that the government
+was having difficulty finding ample substantiation in the information submitted by TriRAD
+
+                                             8
+(R4, tab 26). CO Pritchett suggested that a site visit would be useful and stated that if
+TriRAD would not agree to a site visit he would need additional labor records, material
+receipts, production/start-up information, etc. (id.). On 11 March 2013 TriRAD submitted
+an additional 152 pages of payment vouchers (R4, tab 28). 4 On 22 March 2013 TriRAD
+submitted utility bills and time sheets for Mr. Daab, 5 Mr. Reardin and Ms. Price (R4,
+tab 31). CO Pritchett did not agree to pay for any other wages for Mr. Reardin, Mr. Daab,
+or Ms. Price because they continued essentially full time fighting the termination for cause
+and then working on the termination for convenience (tr. 2172). The employee termination
+settlement costs were not required payments and there was no documentation that they were
+actually paid (tr. 2173). CO Pritchett continued to ask questions about invoices and
+vouchers and Mr. Reardin continued to respond during May 2013 (R4, tabs 32-36).
+CO Pritchett testified that he requested payroll records and other production costs because
+he could not rely on TriRAD's percentage of completion claims (tr. 2/78-84). He testified
+that there was nothing in the contract that would allow him to pay for a partially completed
+simulator (tr. 2/84).
+
+         18. On 29 May 2013, CO Pritchett issued a letter explaining his position on
+TriRAD's termination for convenience settlement proposal (R4, tab 36). CO Pritchett
+questioned TriRAD's percentage of completion estimates because "[t]he supporting
+documentation received from TriRAD during the ensuing months to support this part of
+its settlement did not come close to adding up to the total amount TriRAD was
+requesting" (id. at 2). He also questioned the "credibility of the percentages" because of
+the difference between the percentages in interrogatory responses and in the proposal
+(id.). Additionally, TriRAD's refusal to allow a site visit by the government was cited as
+a reason for his decision (id. at 3). CO Pritchett wrote, "[t]herefore, the Government can
+only determine with certainty that one simulator was produced, so the percentage of
+completion for one simulator will be allowed in the amount of $248,600.00 (id. at 4).
+CO Pritchett also questioned TriRAD's unavoidable reasonable charges. In addition to
+allowing TriRAD to keep the payment for the first unit delivered to Randolph AFB,
+CO Pritchett allowed one month's rent, utilities, and the cost of removing the first unit
+and transporting it back to Florida for an additional $13,385.84, $7,404.44 of which was
+for "simulator retrieval" (id.). The letter was not identified as a final decision and did not
+contain appeal rights. CO Pritchett asked TriRAD several times for a site visit so that he
+could look at the progress TriRAD made on manufacturing the ten simulators to assist
+him in determining a percentage of completion (tr. 2/51 ). TriRAD would not allow a site
+visit (tr. 2/51 ). CO Pritchett did not receive any pictures of the simulators in various
+stages of completion until 2013 (tr. 2/52).
+
+
+4
+  Mr. Reardin testified that TriRAD did not keep formal payroll records and that the
+      documents in the claim were reconstructed at the request of the government based
+      on his best recollection of what TriRAD paid (tr. 11188-89).
+5
+  Mr. Daab was TriRAD's program manager (tr. 1/201-02).
+                                              9
+        19. The record includes a second letter from CO Pritchett, dated 11June2013,
+wherein he reiterated the position he took in his 29 May 2013 letter (R4, tab 37). This
+letter was not identified as a final decision and did not contain appeal rights.
+CO Pritchett signed unilateral Modification No. P00004, dated 11 June 2013, adding the
+$13,385.84 to the contract (R4, tab 38).
+
+Impasse
+
+        20. By email dated 13 June 2013, to the ASBCA and CO Pritchett, TriRAD,
+referring to its 3 November 2012 settlement proposal as a "Certified Settlement Proposal,"
+rejected the government's settlement offer of $13,385.84 and stated that it would ask the
+ASBCA for assistance (R4, tab 40). On 19 June 2013, CO Pritchett responded to
+TriRAD's 13 June 2013 email and stated that TriRAD had not followed the procedures in
+the contract's Disputes clause and had not filed a properly certified claim (R4, tab 41).
+
+Re-Certified Claim
+
+        21. On 1 July 2013, TriRAD submitted its "2nd Revised and re-Certified" claim
+with a CDA certification (comp I., attachment 6). The total claim amount was $1,861,313 7
+comprised of $1,494,3 82 attributed to a completion of 61.11 %, unavoidable charges
+between 3 August 2011 and 24 October 2012 of $463,052, unavoidable charges between
+25 October 2012 8 and 30 June 2013 of $152,479, minus the previous payment of
+$248,600 (id. at 3). The claim included a proper CDA certification (id.). The claim
+included the same narrative from the 3 November 2012 proposal quoted above in
+finding 15. The claim included four tabs: Tab 1 included start-up costs and 18 pictures
+of the simulators in various stages of completion and 7 pictures of the facility; Tab 2
+documented "Reasonable Charges" between 3 August 2011 and 24 October 2012; Tab 3
+documented "Unavoidable Expenses" from 1 November 2012 to 30 June 2013; and Tab 4
+documented "Support for Production Costs."
+
+       22. Mr. Reardin testified in detail about the 1 July 2013 claim. The drawing on
+page 6 in the first tab of the claim is a top level drawing illustrating all of the major
+components of TriRAD's simulator (claim at 6; tr. 1/29). The major components are the
+gantry with projector equipment, the one-third dome hemisphere, the simulator cockpit
+assembly and the instructor station on the table with computer behind the cockpit
+assembly (tr. 1/29-30). The table at page 7, "Major Cockpit Assemblies Completed at
+
+
+6
+  TriRAD did not submit its claim as a separate Rule 4 tab. We treat the claim and
+      supporting documents (tabs 1-4) attached to TriRAD's complaint as a Rule 4
+      document and refer to it as "claim."
+7
+  The increase over the 3 November 2012 proposal was due to additional "unavoidable
+      costs."
+8
+  The claim includes a typographical error indicating the date as 25 October 2011.
+                                            10
+Termination for Cause (August 3, 2011)" of the claim lists components that go into the
+simulator cockpit assembly and the percentage of completion at termination for cause on
+3 August 2011 based on total hours (tr. 1130, 36). All of these assemblies go into the
+cockpit illustrated in the drawing on page 8 of the claim {id.). Mr. Reardin testified that
+the percentage of completion table on claim page 7 included the start-up costs (tr. 11154 ).
+The percentage of completion is based upon the complexity of the assembly and total
+hours to complete the cockpit (tr. 1131, 36). For example, FIND No. 5, MIP Assy, is the
+main instrument panel (MIP) and the 0.357 in the Unit 1 column represents the
+percentage of the simulator attributed to the MIP based on its complexity and hours
+required to make the MIP (tr. 1132, 35). It takes 1232 hours to produce the cockpit
+(tr. 1/33). The table on page 7 indicates that Units 1and2 were 100% complete (id.). In
+Unit 4 the MIP was only 0.173 complete (tr. 1136-37). TriRAD did not include the dome,
+projector or gantry as separate items in the table on page 7 because they took just a few
+hours to assemble (tr. 1/34) and are included in the .014 figure for simulator final
+assembly (tr. 11102-03). TriRAD buys licenses for the software and loads it into the
+simulator at final assembly and it takes less than an hour (tr. 1/152). Mr. Reardin
+testified that the percentage completion table on page 7 was difficult to develop, but he
+tried to simplify it as best he could (tr. 1139). Mr. Reardin developed the percentage of
+completion table on claim page 7 using his knowledge of the production process and
+related drawings and other information (tr. 11157-58). The table on page 9 identifies
+"Production/Start-up Costs" as: T-6A Study ($7,297), CAD Drawings ($37,703), Wiring
+Diagrams ($21,892), Sfwr Dev/Mods ($34,054), Mfg Des & Dev ($19,459), and
+Purchasing ($1,216) for a total of $121,621. The back-up for the production/start-up
+costs identifies different costs making up the $121,621: $54,062 for Mr. Reardin,
+Mr. Daab, Mr. Chavez, and Ms. Price (yet to be paid) (see claim at 1-1-2 through -4 );
+$48,360 for VGI (software supplier); $3,800 for Foam by Design; and $15,399 for
+YounGraphix, Inc., (drawings) (claim at 1-1-1). The difference between start-up costs
+was not explained. The table on page 10 of the claim multiplies the percentage of
+completion times the unit price of the simulators to calculate the amount of the claim
+based on percentage of completion (tr. 1140).
+
+        23. Mr. Reardin testified about pictures in the claim starting on page 1-2-1 under
+tab 1 (tr. 1143). All the parts shown in the pictures existed at the time of the original
+termination for cause on 3 August 2011 (tr. 1158). The picture on page 1-2-1 shows Units
+1, 2, and 3. The second picture on page 1-2-2 shows Unit 1 that was delivered to
+Randolph AFB (tr. 1144) The picture on page 1-2-3 shows Unit 2 (id.). Simulator 3,
+partially shown in the picture on page 1-2-4, had a cockpit shell made of wood (tr. 1/76).
+Mr. Daab testified that the wooden cockpit was the "staging" cockpit that they used for
+every simulator so that they knew that everything fit (tr. 1121 ). The wooden shell was not
+going to be shipped to the Air Force (tr. 1/78, 117, 187, 2/203). The picture on page
+1-2-5 show the MIPs for Units 3 to 10 in various stages of completion (tr. 1/46). The first
+MIP is for Unit 3 and it was 100% complete (tr. 1146). The pictures on pages 1-2-6, -7,
+-8 and -9 show other cockpit assemblies in various stages of completion (tr. 1/47-49).
+The picture on page 1-2-10 shows partially completed seats for Units 3 and 4 (tr. 1149).
+
+                                             11
+The picture on page 1-2-11 shows projector shelves (tr. 1150). The picture on page
+1-2-12 shows the control stick and that Unit 3 is complete and Unit 4 is almost complete
+(tr. 1/50-51 ). The picture on page 1-2-13 shows bow assemblies that are complete
+(tr. 1/51). The picture on page 1-2-14 shows the rudder pedals (tr. 1151). The picture on
+page 1-2-15 shows master control panels (tr. 1151-52). The picture on page 1-2-16 shows
+EFIS control panels (tr. 1/52). The picture on page 1-2-17 shows printed circuit boards
+(id.). The picture on page 1-2-18 shows decals used in the cockpit (id.). The remaining
+pictures on pages 1-3-1 to -7 show the facility (tr. 1/53). Mr. Reardin testified that the
+residual equipment from the simulator contract takes up a lot of space in TriRAD's
+facility and he is asking to be compensated for the rent for keeping the equipment
+(tr. 1153-54 ).
+
+        24. The table at tab 2 of the claim represents expenses incurred during the
+termination for cause phase before the termination was converted to one for convenience.
+During that time they tried to get the government to convert the termination to one for
+convenience. (Tr. 1/60) One of the itemized costs was for the lease of the facility
+(tr. 1/60-61 ). TriRAD was not conducting other business in the facility during that time
+(tr. 1161). Mr. Reardin testified that the document at page 2-1-12 represents a lease
+invoice that was for $4,895.28 (tr. 1/62; claim at 2-1-12). At pages 2-1-13 to -15 is a
+lease amendment for the TriRAD facility for the period of 17 March 2012 through
+16 September 2012 (tr. 1/62, 161). Mr. Reardin testified that they paid the lease
+(tr. 1162). CO Pritchett had supporting documentation showing what TriRAD paid for
+the rent (tr. /68). Mr. Reardin testified that in his view the severance packages were not
+required by law or contract (tr. 11164). In the 15 months following the termination
+TriRAD attempted to reinstate the contract (tr. 1/191). Mr. Reardin and Mr. Daab were
+still working on trying to get the contract reinstated in 2012 and 2013 (tr. 1/164-65, 184).
+
+       25. Mr. Reardin testified that the documents under tab 3 of the claim represented
+expenses incurred after the conversion to the termination for convenience including rent
+receipts (tr. 1163). Mr. Reardin provided no further explanation of the documents in
+tab 3. Mr. Reardin testified that the documents under claim tab 4 were created for the
+government (tr. 1165). The bills and invoices under tab 4 of the claim all relate to the T-6
+job but were not parts for production and TriRAD is not asking the government to
+reimburse them (tr. 1/183). They were assembled for CO Pritchett who repeatedly asked
+for such information (tr. 1/183, 192-93).
+
+        26. Mr. Reardin testified that the government did not tell him to keep the
+simulator equipment but government personnel "kept asking questions about it all the
+time" and if he didn't keep the equipment he would not have been able to make the claim
+(tr. 11169). He never received any guidance from the government as to what to do with
+the simulator equipment (tr. 11170).
+
+
+                                             12
+       27. On 3 September 2013, TriRAD filed a notice of appeal based on a deemed
+denial with the ASBCA. TriRAD's appeal was docketed on 4 September 2013 as
+ASBCA No. 58855.
+
+Final Decision
+
+        28. On 24 September 2013, CO Pritchett issued his final decision denying
+TriRAD's claim (R4, tab 44). Concerning the pictures, CO Pritchett wrote: "[t]he pictures
+submitted with the claim are not credible evidence that these simulator parts had been
+acquired and/or assembled prior to the 3 Aug 11 Termination for Cause" (id. at 2).
+CO Pritchett questioned the material receipts because some were dated after the
+termination, and stated "[t]he Government cannot accurately determine the amount of
+materials which had been purchased prior to the termination to support the percentages of
+completion claimed based on the provided receipts" (id. at 3). CO Pritchett questioned the
+labor records because they were created after the fact by Mr. Reardin and were not
+corroborated by "cancelled checks, tax documents or other documents to show proof of
+these employees being employed by TriRAD or being allocated to this contract" (id.).
+CO Pritchett essentially took issue with everything TriRAD claimed and did not change his
+position that all that was owed, after allowing the payment for the first unit, was
+$13,385.84 (id. at 9). The only costs incurred as a result of the termination that
+CO Pritchett considered reasonable were one month rent and utilities and the cost to
+retrieve the first simulator delivered to the Air Force that added up to $13,385.84 (tr. 2/65,
+68-71). He believed that TriRAD could have disposed of the equipment and gotten out of
+the lease rather than continuing to incur lease costs for more than two years (tr. 2/67).
+
+Site Visit
+
+        29. TriRAD agreed to allow the government to conduct a site visit at its facility
+in Tampa, Florida, on 18 October 2013 (ex. G-13). Mr. Vanderkarr is a DoD civilian
+employed at MacDill Air Force base as the project officer for the KC-135 simulator
+program (tr. 2/154). He conducted the site visit to TriRAD to assess the percentages of
+completion of the ten simulators (tr. 2/155). Mr. Vanderkarr took pictures during the site
+visit, and although he did not testify in detail about the pictures, the pictures reflect the
+same extent of completion documented in Mr. Reardin's pictures (supp. R4, tab 52;
+tr. 2/160). He reported the results of his inspection in a 4 December 2013 report
+(tr. 21156-7; ex. G-13). In the report Mr. Vanderkarr writes, "Per TriRAD's Certified
+Claim, page 7, chart of Major Cockpit Assemblies Completed at Termination (August 3,
+2011) I found Mr. Reardin's percentages of completion for each individual cockpit
+assembly to be accurate" (ex. G-13 at I). The report indicates that cockpit subassemblies
+identified in the chart on page 7 of the claim account for only "50% of the effort
+required" (ex. G-13 at 1, ,-i 3). Mr. Vanderkarr testified that he felt the percentages of
+completion presented in the table on page 7 of TriRAD's claim were "fairly well
+represented" but that he "took exception" with the fact that the dome assembly was not
+represented in the table (tr. 21159, 179-80). He believed that there would be a "fair
+
+                                             13
+amount of wiring" and "wiring harnesses" involved in populating the cockpit that was not
+included in the table (tr. 2/159-60). He also questioned the 1.4% associated with final
+assembly that included alignment of the projection screen (tr. 2/161-62). He believes that
+the subassembly effort indicated in the table on claim page 7 is 50% of the hardware
+effort required (tr. 6/163, 170; ex. G-13 at 1, ,-i 3). The report indicated the remaining
+50% would be cockpit fabrication, 30%, and final assembly, 20% (ex. G-13 at 1, ,-i,-i 4, 5).
+The report estimated the unit completion percentages as follows: Units 1 & 2 - 100%;
+Unit 3 - 49%; Unit 4 - 36%; Unit 5 - 28%; Unit 6 - 19%; Unit 7 - 16% and Units 8, 9,
+ 10 - 10% (id. at 2-3). Software completion was not considered in these estimates (id. at
+2, 1 6). However, he looked at the deficiencies on the inspection document (ex. G-28)
+and he believes that a lot were software problems (tr. 2/170-71). Mr. Vanderkarr testified
+that the percentages of completion in his report are for the hardware, not the software
+(tr. 2/189). He believed that hardware was 50% and software was 50% of completion
+(tr. 21190-91, 197). He did not attempt to estimate the percentage of completion for the
+software, but ifhe had it would add to the percentage for the hardware (tr. 2/192). In his
+report, Mr. Vanderkarr wrote that the residual simulator equipment at TriRAD could not
+be used in other simulator projects, could not be returned for refunds, and that the cockpit
+assemblies have no "noteworthy salvage value" (ex. G-13 at 4 ). On cross-examination,
+Mr. Vanderkarr agreed that he did not have knowledge of how TriRAD assembled the
+simulator (tr. 2/178-79), or wired the cockpit assemblies (tr. 2/183). He also did not have
+knowledge of how much modification was required for the commercial software used by
+TriRAD (tr. 2/182). CO Pritchett testified that Mr. Vanderkarr's report of his site visit
+was the first evidence that simulator number 2 was complete, but because TriRAD would
+not allow Randolph AFB to send an expert to fly it he did not feel he had sufficient
+information to change his decision (tr. 2/57).
+
+        30. Mr. Reardin responded to Mr. Vanderkarr's testimony at the hearing.
+Mr. Reardin testified that the software TriRAD used in the simulator is COTS and costs
+less than $100 (tr. 2/200). The software is modular in design and TriRAD "tailored" it
+for the T-6 simulator (tr. 2/200). Once the software tailoring is done for the first unit it is
+"done" and then putting it into all remaining units, takes about an hour (tr. 2/201, 211).
+Software load is accounted for in the final assembly along with the gantry that takes only
+a couple of hours (tr. 2/201-02, 212). TriRAD does not use wiring harnesses as
+Mr. Vanderkarr assumed-TriRAD simply uses ethernet cables, "[w]e just buy them off
+the shelf and plug them in" (tr. 1/57, 2/204). Mr. Vanderkarr's belief that software was
+50% of the effort is not correct (tr. 2/201, 203-04). At the point when TriRAD was
+terminated for cause they had resolved "many, many of the issues" in the inspection
+reports (tr. 2/206). Unit 2 had "all of that stuff cleaned up" but the Air Force did not
+want to look at it (tr. 2/206, 213).
+
+        31. CO Pritchett testified that he believes that TriRAD is entitled to more money
+but that the amount is "undetenninable" because of a lack of supporting documentation
+(tr. 21109-10).
+
+
+                                              14
+                                         DECISION
+
+Contentions of the Parties
+
+       TriRAD contends that it is entitled to be paid based on the percentage of
+completion of the simulators on its production line at the time of the termination for
+cause and for other unavoidable charges resulting from the conversion to termination for
+convenience. TriRAD multiplies the percentage of completion of each of the ten units
+times the unit price for each totaling $1,494,3 82 minus $248,600 already paid for the first
+unit. TriRAD claims $463,052 for unavoidable charges during the time the termination
+for cause was in effect and $152,4 79 for unavoidable charges from the conversion to a
+termination for convenience through 30 June 2013. TriRAD's total claim is
+$1,861,313.00 (1July2013 claim at 3).
+
+        The Air Force suggests a vastly different interpretation of FAR 52.212-4(1). The first
+prong of termination for convenience recovery is, "the Contractor shall be paid a percentage
+of the contract price reflecting the percentage of the work performed prior to the notice of
+termination." The Air Force interprets "work performed" to mean work delivered and
+accepted (gov't br. at 41-42). Since only one simulator was delivered, but rejected, the
+Air Force argues, "appellant has failed to establish that any work required by the Contract
+was performed for purposes of recovery under the first prong, leaving the second prong as its
+sole means of recovery" (gov't br. at 42). As to the second prong, "plus reasonable charges
+the Contractor can demonstrate to the satisfaction of the Government using its standard
+record keeping system, have resulted from the termination," the Air Force argues,
+"[a]ppellant's 'standard record keeping' was minimal to nonexistent and as a result appellant
+has failed to demonstrate an amount of the 'reasonable charges" presented in the claim to the
+government's satisfaction" (gov't br. at 45).
+
+Commercial Items Contracting
+
+       By way of background for this decision, FAR Part 12 -Acquisition of
+Commercial Items, establishes "acquisition policies more closely resembling those of the
+commercial marketplace and encouraging the acquisition of commercial items and
+components." FAR 12.000. In other words - contracting policy for commercial items is
+different from other FAR policies and "[w ]hen a policy in another part of this chapter is
+inconsistent with a policy in this part, this Part 12 shall take precedence for the
+acquisition of commercial items." FAR 12.102(c). The FAR 52.212-4(1) & (m)
+termination provisions "contain concepts which differ from those contained in the
+termination clauses prescribed in Part 49 [-Termination of Contracts]" and "the
+requirements of Part 49 do not apply when terminating contracts for commercial items."
+FAR 12.403(a). 9 Under FAR Part 49, termination for convenience recovery consists of
+
+9
+    We recognize that to the extent that FAR Part 49 does not conflict with Part 12 it may
+        be used as guidance. FAR 12.403(a).
+                                              15
+( 1) payment for completed goods or services delivered and accepted by the government,
+and (2) reasonable costs incurred for performance and as a result of the termination.
+FAR 49.205; 49.206-2(a); 52.249-2(g). Under this approach, a contractor recovers all of
+its costs of performance and settlement expenses, i.e., is "made whole." By interpreting
+percentage of completion of the "work performed" as only items delivered and accepted
+(gov't br. at 42), the Air Force would impose the FAR Part 49 approach to damages on
+commercial contracts. This violates FAR 12.403(a) and therefore is an unreasonable
+interpretation. Moreover, the Air Force's interpretation is not consistent with the
+language of the clause. "Work performed" and "items delivered and accepted" are not
+synonymous terms.
+
+        The Air Force argues that since it cannot audit a commercial contract, "it is
+incumbent upon appellant to prove what the practice is with respect to payment for
+undelivered supplies in terminations for convenience in commercial contracts" (gov't br.
+at 59). The Air Force insists that the contractor provide cost data to determine percentage
+of completion. The problem with the Air Force's arguments is that it applies the
+language, "demonstrate to the satisfaction of the Government using its standard record
+keeping system" to the first prong, percentage of completion, when the language only
+appears in the second prong, reasonable charges resulting from the termination. It also
+violates FAR 52.212-4(1) statement that a commercial items contractor "shall not be
+required to comply with the cost accounting standards or contract cost principles for this
+purpose" (finding 3). While we accept that a contractor may use its costs as some
+evidence of a percentage of completion, under the first prong it is the contract price that
+is the base upon which recovery is predicated, and cost evidence is not required. It is
+clear to us that CO Pritchett applied the recovery scheme for the second prong of
+recovery to the first and no cost evidence was required by the clause to prove a
+percentage of work performed.
+
+Commercial Items Termination/or Convenience Clause
+
+        The Board recently considered and interpreted FAR 52.212-4(1) Termination/or
+the Government's convenience but dealt only with the second prong because the contract
+was terminated before any performance had occurred and thus no production line was
+involved. SWR, Inc., ASBCA No. 56708, 2014 ASBCA LEXIS 412, at *94-97
+(4 December 2014). With respect to the second prong, we held, "[t]he second prong of
+the sentence providing for payment to the contractor of 'reasonable charges' the
+contractor can 'demonstrate' 'have resulted from the termination,' when read in
+conjunction with the first prong of the sentence relating to recovery for work completed,
+refers to the recovery of those charges incurred that 'do not relate to work completed' but
+should be reimbursed to fairly compensate the contractor whose contract has been
+terminated." SWR, Inc., 2014 ASBCA LEXIS 412, at *86. We rejected the
+government's argument that the second prong only allowed recovery of post-termination
+settlement charges. We also allowed SWR profit and overhead on non-settlement related
+charges. Id. at * 128, 132. ·
+
+                                            16
+        Likewise, other cases deal primarily with services or similar contracts that do not
+involve production lines. Russell Sand & Gravel Co. v. International Boundary and
+ Water Commission, CBCA No. 2235, 13 BCA ii 35,455 (contract for supply and delivery
+of embankment material); Teresa A. Mc Vicker, P.C., ASBCA Nos. 57487, 57653, 12-2
+BCA ii 35, 127 (services of two pediatric physician assistants); Red River Holdings, LLC,
+ASBCA No. 56316, 09-2 BCA ii 34,304, transfer granted Red River Holdings, LLC v.
+Mabus, 2010 U.S. App. LEXIS 12251 (Fed. Cir. 2010), rev 'din part, remanded in part,
+Red River Holdings, LLC v. United States, 802 F. Supp. 2d 648 (D. Md. 2011) (charter of
+a U.S. flagged vessel); ALKAI Consultants, LLC, ASBCA Nos. 56792, 56954, 10-2 BCA
+ii 34,493 at 170, 131 (service contract for cleaning a water treatment plant digester
+"mostly complete"); Individual Development Associates, Inc., ASBCA Nos. 55174,
+55188, 06-2 BCA ii 33,349 (contract for language instruction). The Air Force cites
+United Partition Sys. v. United States, 90 Fed. Cl. 74 (2009) (gov't br. at 47), but that is a
+construction case and did not have partially completed items on a production line at
+termination. Thus, the Air Force incorrectly argues that United Partition supports its
+interpretation that "work performed" means work tendered for acceptance (gov't br. at
+51-52). The Air Force also relies on Hermes Consolidated, Inc. d/b/a/ Wyoming Refining
+Co., ASBCA Nos. 52308, 52309, 02-1BCAii31,767, that involved an IDIQ contract for
+jet fuel. The contract in Hermes included the commercial item termination for
+convenience clause, however, since the government had purchased all of its minimum
+quantities of fuels, the percentage of completion provision did not come into play. We
+have considered all of the cases relied upon by the Air Force and find no support for its
+interpretation of FAR 52.212-4(1) as to the meaning of percentage of completion.
+
+Prong One -Percentage o/Completion
+
+         In a commercial item supply contract where the item is manufactured on a
+production line, items will likely be in various percentages of completion at termination.
+Upon termination for convenience, the contractor has completed a "percentage of the
+work" required by the contract and that percentage is embodied in the items delivered and
+accepted and the items remaining on the production line (finding 15). The Air Force
+would have us ignore the items on the production line and consider only finished items
+that are delivered and accepted (gov't br. at 42). This is not what the plain meaning of
+FAR 52.212-4(1) requires. FAR 52.212-4(1) makes no reference to items delivered and
+accepted. Indeed, under the Air Force's asserted interpretation, termination of items
+delivered in lots could result in the contractor not being paid for perhaps hundreds of
+completed items, not to mention those items partially completed. This result is clearly at
+variance with the well known principle that a termination for convenience settlement
+should fairly compensate a contractor and make the contractor whole for the costs
+incurred in connection with the terminated work. SWR Inc., 2014 ASBCA LEXIS 412, at
+*86. We conclude that the only reasonable interpretation of "a percentage of the contract
+price reflecting the percentage of the work performed prior to the notice of termination"
+is that it applies to all work performed including partially completed items on the
+
+                                              17
+production line at the time of termination. This interpretation establishes a simple
+mathematical calculation to arrive at compensation that does not require cost data
+required by Part 49. This is consistent with the language of FAR 52.212-4(1) and the
+stated intent behind Part 12. Therefore, CO Pritchett's belief that there was nothing in
+the contract authorizing him to pay for partially complete simulators was incorrect
+(finding 17).
+
+        The methodology for calculating the percentage of the contract price due the
+contractor is straightforward, for each unit: ( 1) determine the percentage of completion at
+termination, and (2) multiply the percentage of completion times the contract price for that
+unit. Cost and payroll data is not required to prove percentage of completion as CO Pritchett
+demanded (findings 16-18). The resulting amount will increase the percentage of the price
+that represents profit, G&A and start-up costs relating to the work performed.
+
+Acceptability of the First Simulator
+
+        The Air Force contends that because the first simulator delivered failed acceptance
+testing, the Air Force is not obligated to pay for it (gov't br. at 42). The Air Force
+asserts, "[a]ppellant failed to demonstrate that even that [sic] one simulator met Contract
+requirements. Consequently, appellant has failed to establish that any work required by
+the Contract was performed for purposes of recovery under the first prong, leaving the
+second prong as its sole means of recovery." (Gov't br. at 42) It is true that the first
+simulator failed the Air Force's two inspections and TriRAD was terminated for cause as
+a result (finding 7). However, the Air Force voluntarily converted the termination for
+cause to a termination for convenience (finding 14), yet the Air Force now resurrects the
+termination for cause case to support its argument that TriRAD is not entitled to payment
+for the first simulator or any of the other simulators/components on the production line.
+The Air Force abandoned 10 any argument that TriRAD was not entitled to be paid
+pursuant to 52.212-4(1) for work it performed when it converted the termination from
+one for cause to one for the convenience of the Air Force.
+
+Percentage of Completion Analysis
+
+       The parties disagree on the percentage of completion. First we consider TriRAD's
+approach. Mr. Reardin developed TriRAD's percentage of completion based on his
+knowledge of the production process, drawings and other information (finding 22). The
+simulator, illustrated in the drawing on page 6 of the claim, is comprised of the cockpit
+assembly, dome hemisphere assembly (projection screen), and commercial computers,
+projectors, gantry and software (findings 15, 22). The custom manufactured cockpit
+
+10
+     The record included many problems with the specification (Level 5 qualified within
+         1 year (finding 5)) and testing methodology (testing to a "training syllabus" not in
+         the contract (findings 7, 8)), that simply were not included in discovery or
+         otherwise litigated.
+                                               18
+assembly is the most complex and labor intensive component of the simulator having 14
+major subassemblies with over 200 individual parts (id.). Mr. Reardin chose to focus his
+percentage of completion analysis on the cockpit subassemblies. We consider this a
+reasonable approach. His percentage completion figures are presented in a table on page
+7 of the claim. We need not go into much detail concerning the table on page 7 because
+the Air Force's simulator expert, 11 Mr. Vanderkarr, agrees with Mr. Reardin's
+percentages, "I found Mr. Reardin's percentages of completion for each individual
+cockpit assembly to be accurate" (finding 29). TriRAD's claim included pictures of the
+residual simulator components. Mr. Reardin testified that all production work stopped
+when the contract was terminated for cause (finding 9) and the parts shown in the
+pictures existed at the time of that termination. He explained each of the pictures (finding
+23). We consider the pictures and Mr. Reardin's testimony to be credible 12 evidence
+corroborating Mr. Reardin's percentage of completion analysis in the table on page 7.
+
+        Although Mr. Vanderkarr agreed with Mr. Reardin's percentage of completion for
+the cockpit subassemblies, he disagreed that the cockpit subassemblies were
+representative of the total percentage of completion (finding 29). Mr. Vanderkarr
+testified that there would be a "fair amount of wiring" and "wiring harnesses" involved in
+populating the cockpit that was not included in the table (id.). He thought the 1.4% for
+final assembly was low. Mr. Vanderkarr considered the total effort to be allocated as
+50% hardware and 50% software. He considered the cockpit subassemblies itemized in
+the table on page 7 to be only 50% of the total hardware effort and that "cockpit
+fabrication" was an additional 30% and "final assembly" was 20% (id.). He testified that
+he did not attempt to estimate the percentage of completion of software. However, he
+reviewed the first unit test results and considered "a lot" of the deficiencies to be software
+problems. Mr. Vanderkarr admitted he did not actually know how TriRAD assembled
+and wired the cockpit. (Id.) Mr. Vanderkarr's pictures were remarkably similar to
+TriRAD's and likewise provide credible evidence of the percent of completion at
+termination as stated by TriRAD.
+
+       Comparing the two positions 13 on percentage of completion, we find TriRAD's to
+be more credible, but not completely accurate. Mr. Reardin effectively rebutted several
+of Mr. Vanderkarr's observations. He explained that they did not use wiring harnesses as
+envisioned by Mr. Vanderkarr but just "[plugged] in" "off the shelf' ethernet cables
+
+11
+   While Mr. Vanderkarr was not formally qualified as an expert witness, TriRAD did
+       not challenge his competence to conduct the site visit.
+12
+   We reject the Air Force's assertion that "[t]here are a plethora of facts in the record that
+       compels one to question appellant's credibility and thus its claim" (gov't br. at 65).
+13
+   Neither witness testified that the training requirement (finding 2) should be considered
+       in the percentage of completion calculation nor is it in either party's documents.
+       However, in its brief the Air Force argues training should be deducted (gov't hr. at
+       50). The training was not separately priced and we decline to attempt to speculate
+       its impact on the analysis.
+                                              19
+(finding 30). The software was inexpensive commercial software of "modular" design
+and once it was properly "tailored" for one unit it was done. Mr. Reardin testified that
+shortly after termination the software problems were solved (id.). 14 It took only about an
+hour to load the software into a unit. The gantry assembly took only a couple of hours.
+(Id.) We conclude that Mr. Reardin's testimony was credible and that he is in a much
+better position to assess percentage of completion than Mr. Vanderkarr.
+
+        According to Mr. Vanderkarr the hardware was 50% of the total effort and the
+cockpit subassemblies (table on page 7) accounted for 50% of the hardware (finding 29).
+Therefore, according to Mr. Vanderkarr, the cockpit subassembly was 25% of the total
+work. The other 50% of the total effort was software (id.). Therefore, according to
+Mr. Vanderkarr, the residual hardware seen in the pictures represented only 25% of the
+total effort. The first two simulators (often), that both sides agree are 100% complete,
+are, therefore, 20% of the contract. To accept Mr. Vanderkarr's percentage analysis
+would mean that all of the other equipment shown in the pictures was only 5% of the
+work. We do not accept this conclusion. It is clear to the Board that the pictures, taken
+by both parties, and Mr. Reardin's testimony establish a greater than 25% completion and
+we cannot accept Mr. Vanderkarr's percentage calculations.
+
+      In its brief the Air Force contends that the percentage of completion calculation
+must be supported by payroll and cost records, among other things:
+
+                       The percentage of work performed included in the
+               claim for Units Two through Ten is unreliable and
+               unsupported; the claim has only a single spreadsheet to
+               support appellant's calculations. There are no corroborating
+               documents in the claim or in the record to substantiate
+               appellant's estimates, i.e., no records of man-hours or costs
+               incurred. Appellant did not use any sort of schedule to track
+               its progress during the performance period, nor did it track
+               what units, subassemblies or projects its employees worked
+               on. In fact, Appellant's declaration that it took 1,232
+               man-hours to create just the cockpit subassemblies - not an
+               entire simulator - is mere conjecture .
+
+
+                      .. .Appellant contends that it has no record of its costs
+               incurred nor any record of the costs it based its initial
+               proposal on. The lack of any cost data is incredible
+
+14
+     We have no evidence one way or the other on this contention because the Air Force
+        refused to "fly" Unit 2 shortly after termination and TriRAD refused to allow the
+        Air Force to "fly" the unit shortly before trial (findings 9, 29).
+                                               20
+              considering that this Contract is appellant's largest contract to
+              date as a prime contractor and is contrary to the general
+              principle expressed in FAR 32.201-2( d) that contractors are
+              responsible for keeping records adequate to demonstrate costs
+              claimed to have been incurred. [Citations omitted]
+
+(Gov't br. at 60-61) The Air Force insists that TriRAD comply with FAR 32.201-2(d).
+FAR 52.212-4(1) specifically states that "[t]he Contractor shall not be required to comply
+with the cost accounting standards or contract cost principles for this purpose"
+(finding 3). FAR 32.201 (d) is a "contract cost principle." We have rejected the position
+that the percent of completion must be proven with cost records earlier in this decision.
+
+Prong Two - Reasonable Charges
+
+       We follow the guidance in our recent decision in SWR. Prong two affords the
+contractor the ability to recover charges not recovered in prong one's percentage of
+completion calculation that provides "fair compensation." SWR, Inc., 2014 ASBCA
+LEXIS 412, at *92. TriRAD may recover profit on the prong two amount except for
+settlement expenses and G&A indirect cost. Id. at* 128, 132.
+
+Quantum
+
+Percentage of Completion
+
+        We disagree with TriRAD's 61.11 % total completion percentage as it includes
+start-up costs (finding 15). We find the tables on claim pages 7 and 10 to be credible.
+On page 10 TriRAD multiplies its percentages of completion times the unit prices. This
+is consistent with the procedure specified in FAR 52.212-4(1). TriRAD arrives at
+$1,3 72, 7 61 or 56 .141 % of the total contract value including the amount already paid for
+Unit 1. (Claim at 10) 15 We do not agree that any costs may be added to this figure
+because the prong one recovery is based on the percentage calculation specified in
+FAR 52.212-4(1) and the contract's price (finding 22). We hold that the correct
+percentage of completion is 56.141 % and TriRAD is entitled to $1,3 72, 761 less $248,600
+(for the payment made for Unit 1) or $1, 124,161 based on percentage of completion. 16
+This amount includes profit, overhead and start-up costs amortized in the price for work
+that was performed. We discuss the date when interest starts later in this decision.
+
+15
+   TriRAD treated its claim as if it were its Rule 4 documents, but failed to separately
+       identify it with tab numbers. Therefore, we cite to the claim and consider it to be
+       part of TriRAD's Rule 4.
+16
+   The Air Force argues that we should deduct $15,000 because the units were never
+       FAA certified (gov't br. at 50), but that amount is too speculative for us to adopt.
+       It also wants us to deduct freight (gov't br. at 51 ), but that is not contemplated in
+       FAR 52.212-4(1).
+                                              21
+Reasonable Charges Resulting/ram the Termination
+
+      The Air Force persists in its argument that TriRAD must produce cost data that the
+termination clause of the contract specifically states is not required to be produced to
+recover these charges:
+
+                      Appellant's "standard record keeping" was minimal to
+              nonexistent and as [a] result appellant has failed to
+              demonstrate an amount of the "reasonable charges" presented
+              in the claim to the government's satisfaction. The contracting
+              officer testified at the hearing that it was impossible to
+              determine whether the charges in the claim reflect material
+              for the Contract, charges that could have been avoided, or
+              costs incurred in anticipation of the Contract [being] fully
+              performed. The charges in the claim are so speculative and
+              so unsubstantiated that the contracting officer testified that he
+              would have lost his job had he recommended compensating
+              appellant for them. [Citations omitted]
+
+(Gov't br. at 45) The Air Force's interpretation of FAR 52.212-4(1) is the same as what
+is required in Part 49 that is specifically made inapplicable by FAR Part 12.
+
+Uncompensated Start-Up Costs
+
+        TriRAD is also entitled to reimbursement of its uncompensated start-up costs. We
+have held that the percentage of completion amounts included a percentage of start-up
+costs. Start-up costs would have been allocated to all of the simulators and since the total
+percent of completion is 56.14% there remain 43.86% of start-up costs that are not
+compensated in the percent completion amount. The difficulty is that TriRAD presents
+two different explanations for start-up costs (finding 22). There was no testimony
+explaining these differing costs and we are left only with the claim documents to draw
+what conclusions we can. The contract was awarded on 28 February 2011 (finding 1).
+The start-up costs in the claim includes invoices from The Visual Group, Inc., for
+$48,360 in software costs for billing periods from 19 February 2011 through 3 June 2011
+(claim, tab 1 at 1-1-6 to 1-1-12). The start-up costs also include an invoice from
+YounGraphix, Inc., for drawings dated 18 May 2011 for $15,399 (claim, tab 1at1-1-14).
+We accept these invoices as evidence of start-up costs. The total for start-up costs is
+therefore $63,759. We do not accept the other purported evidence of start-up costs due to
+the conflicts noted (finding 22). Accordingly we allow 43.86% of $63,759 or $27,964.70
+in start-up costs not compensated in the percentage of work performed calculation
+amount. TriRAD is entitled to profit and overhead on this amount.
+
+
+                                             22
+Other Reasonable Charges from 3 August 2011 to 2 4 October 2012
+
+       This is the period of time when the contract remained terminated for cause. The
+conversion to a termination for convenience relates back to the date of termination for
+cause, 3 August 2011. Space Dynamics Corp., ASBCA No. 25106, 81-2 BCA ~ 15,205
+at 75,286; Q. V.S. Inc., ASBCA No. 7513, 1963 BCA ~ 3699 at 18,494. Therefore,
+"reasonable charges" during this time period are eligible to be considered as charges
+under FAR 52.121-4(1). TriRAD claims $329,895 in labor costs for Mr. Reardin,
+Mr. Daab, and Ms. Price during this period (app. claim, tab 2 at 2-1). Very little if any of
+the labor expended during this time was on the termination for convenience settlement
+proposal and claim. Testimony reveals that during this time Mr. Reardin and Mr. Daab
+were attempting to persuade the government to reinstate the contract (finding 24).
+TriRAD presents no other evidence proving that these costs were reasonably necessitated
+by the termination for convenience. We do not recognize these costs as resulting from
+the termination for convenience.
+
+        TriRAD claims $22,83 8 for severance payments to its employees (claim, tab 2 at
+2-1 ). Testimony reveals that TriRAD had no legal obligation to pay these costs
+(finding 24). The severance costs were therefore avoidable and not recoverable. TriRAD
+claims $17,507 in legal fees and $4,449 in accounting fees incurred during this period
+(claim, tab 2 at 2-1 ). These costs were caused by the termination for cause, not the
+termination for convenience and are not reasonable. TriRAD claims $1,954 in costs
+associated with removing the simulator from Randolph AFB (id.). CO Pritchett allowed
+$7,404.44 for "simulator retrieval" in his final decision (finding 18). It is not clear from
+the record ifTriRAD ever submitted an invoice and was paid the $13,385.84 allowed in
+the Air Force's 11June2013 decision (finding 19). The $13,385.84 consists of simulator
+retrieval ($7,404.44), one-month rent ($4,895) and one month utilities ($1,086.40) (id.). 17
+The rent and utilities are accounted for elsewhere in our decision. TriRAD claimed
+$86,409 for facility costs; we deal with that separately later in this decision.
+
+Reasonable Charges from 25 October 2012 to 30 June 2013
+
+        This is the period after the conversion to a termination for convenience up until
+TriRAD submitted its properly certified claim. TriRAD claims $107 ,531 for monthly
+labor by Mr. Reardin, Mr. Daab and Ms. Price (claim, tab 3 at 3-1). In its claim TriRAD
+contends that during this time Mr. Reardin, Mr. Daab and Ms. Price were engaged in
+drafting the settlement proposal and claim, responding to requests for information from
+the government and generally attempting to recover its money (claim at 13). We agree
+that during this time TriRAD expended effort to ( 1) develop its percentage of completion
+data, (2) produce a settlement proposal and certified termination for convenience claim
+
+
+17
+     lfthe $1,954 (TriRAD's claimed amount) has not been paid, it should be added to the
+         quantum amount.
+                                             23
+with pictures and other supporting data, 18 and (3) respond to numerous requests from the
+government for cost data. Costs associated with these efforts are clearly necessitated by
+the termination for convenience or government requests for information and are
+recoverable by TriRAD.
+
+      The termination for convenience clause specifically provides that a contractor may
+recover, "reasonable charges the Contractor can demonstrate to the satisfaction of the
+Government using its standard record keeping system, have resulted from the
+termination" (finding 3). We do not interpret the language "using its standard record
+keeping system" so narrowly as to preclude recovery if a contractor's "standard record
+keeping system" is lacking sophistication (finding 17 n.4). Indeed, in SWR we relied
+upon "records other than the contractor's own standard record keeping system, e.g.,
+contemporaneous Army and SWR emails discussing the Pineridge Farms site lease"
+when we allowed SWR to recover a $15,000 payment to end a lease. SWR, Inc., 2014
+ASBCA LEXIS 412, at *104 n.4.
+
+        The conversion to a termination for convenience occurred on 24 October 2012
+(finding 14). The first settlement proposal was submitted on 3 November 2012
+(finding 15). On 10 December 2012, CO Pritchett asked for cost data (finding 16).
+On 17 December 2012 TriRAD submitted 283 pages of data (id.). On 6 March 2013,
+CO Pritchett requested more cost data (finding 17). On 11 March 2013, TriRAD
+submitted an additional 152 pages of data (id.). The "2nd Revised and re-Certified" claim
+was submitted on 1 July 2013 (finding 21). For the time period of October 2012 through
+January 2013 TriRAD claims a monthly direct labor charge for Mr. Reardin of$1 l,676
+(claim, tab 2 at 2-1, tab 3 at 3-1). Mr. Reardin's monthly direct labor charge drops to
+$5,834 for February 2013 through June 2013 (claim, tab 3 at 3-1). Ms. Price's claimed
+direct labor is a constant $1,735 (claim, tab 2 at 2-1, tab 3 at 3-1). Mr. Daab's claimed
+direct labor varies each month from a high of $9,660 in October 2012 to a low of $2,048
+in April 2013 (id.). TriRAD claims a total of $23,071 for October 2012 and $22,441 for
+November 2012. We conclude that one month 19 is a reasonable amount of time to create
+the settlement proposal, including completion percentages, and conclude that $23,000 is a
+reasonable amount for that effort. TriRAD took seven days to respond to CO Pritchett's
+10 December 2012 request for information. We conclude that seven days is a reasonable
+period of time to respond. Therefore TriRAD is entitled to 22.58% (7 days/31 days) of
+its claimed direct labor for December 2012 or .2258 x $17,034 = $3,846.28. TriRAD
+took six days to respond to CO Pritchett's 6 March 2013 request for more data. We
+conclude six days is a reasonable time to respond. Therefore TriRAD is entitled to
+19.35% (6 days/31 days) of its claimed direct labor for March 2013 or .1935 x $10,036 =
+
+18
+   We recognize that much of this data was created after the fact in an attempt to satisfy
+       the government (tr. 1/188-89).
+19
+   We recognize that there are only eleven days between the conversion on 24 October
+       2012 and the settlement proposal on 3 November 2012, but we believe some work
+       on it must have occurred before 24 October and think a month is reasonable.
+                                            24
+$1,941.96. TriRAD submitted its "2nd Revised and re-Certified" claim on 1 July 2013
+(finding 21). This version of the claim included the information in the 3 November 2012
+termination for convenience settlement proposal but added much more including pictures
+and contemporaneous and recreated cost information (findings 21-25). As before, we
+conclude that one month labor would be a reasonable time to allow for creation of the
+claim. For the month of June 2013, TriRAD claimed labor for Mr. Reardin ($5,834),
+Mr. Daab ($2,730) and Ms. Price ($1,735) for a total of $10,299. We conclude this is a
+reasonable amount to allow for preparation of the second version of the claim. We must
+also determine a reasonable amount to allow for the site visit on 18 October 2013
+(finding 29). We conclude that $1,000.00 is a reasonable amount to allow TriRAD for
+conducting the site visit. Thus the total reasonable charges for this period is $40,087.24
+($23,000.00+ $3,846.28 + $1,941.96 + $10,299.00 + $1,000).
+
+Storage Costs
+
+         The government contends that only one month of rent was due TriRAD for storing
+the simulator equipment reasoning that TriRAD could have immediately gotten rid of the
+equipment and cancelled the lease (finding 28). We do not agree this is reasonable
+because the termination for convenience relates back to 3 August 2011, the residual
+equipment was essential to TriRAD's ability to develop its termination for convenience
+claim, and the Air Force gave no direction to TriRAD. TriRAD claims $4,895 for each
+month's lease payments (claim, tab 2 at 201, tab 3 at 3-1). The support for this amount is
+a copy of the third amendment of the lease dated 17 March 2012 (claim, tab 2 at 2-1-13 ),
+a "Statement" (id. at 2-1-12) and Mr. Reardin's testimony that he paid the claimed
+amounts (findings 24, 25). CO Pritchett agreed that TriRAD had presented evidence of
+lease payments (finding 24). The monthly base rent was $3,073.85 (claim, tab 2 at
+2-1-13). The lease required TriRAD to pay "all applicable Florida sales and other tax on
+all payments" (id.). The "Statement" shows how the $4,895 was calculated: base rent
+($3,073.85) +operating expense ($1,501.18) +tax on base rent ($215.17) +tax on
+operating expense ($105.08) = $4,895.28 (claim, tab 2 at 2-1-12). We consider
+Mr. Reardin to be a credible witness and accept that TriRAD paid $4,895 per month for
+the facility. In his testimony, CO Pritchett did not dispute this amount. We also accept
+                                                 °
+the claimed utilities and miscellaneous costs. 2 For the approximate fourteen months
+between 3 August 2011 and 24 October 2012, TriRAD claims $86,409 for facilities and
+utilities (claim at 11) for an average of $6, 172 per month. For the approximate eight
+months between 24 October 2012 and 30 June 2013, TriRAD claims $44,948 for
+facilities and utilities (claim at 13) for an average of $5,619 per month.
+
+       Now we must determine a reasonable number of months to use to multiply these
+average monthly facilities and utilities costs by to arrive at a reasonable amount. We start
+with the fact that the Air Force put TriRAD in this position by first terminating TriRAD
+on 3 August 2011 for cause and then fifteen months later on 24 October 2012 converting
+
+20
+     The claim includes actual receipts for some of these costs (claim, tabs 2, 3, 4).
+                                               25
+to a termination for convenience. We also note that the Air Force gave no direction to
+TriRAD as to disposition of the items and that after the conversion the Air Force asked
+repeatedly for cost information and a site visit to observe the items (findings 16, 17, 26).
+Mr. Vanderkarr testified that the residual items could not be returned and it had no
+"noteworthy salvage value" (finding 29). We take into consideration that TriRAD
+refused repeated government requests for a site visit (findings 16, 17) that logically made
+it difficult for CO Pritchett to assess the claim. We also take into consideration that
+CO Pritchett testified the contract did not allow him to pay for partially complete
+simulators (finding 17), a position we have found to be incorrect. The first time
+CO Pritchett received pictures of the residual equipment was with the second version of
+the claim submitted on 1July2013 (finding 21) but he found them "not credible
+evidence" (finding 28). Looking at the pictures, we do not understand how CO Pritchett
+could reach that conclusion. 21 Because we relate back the termination for convenience to
+3 August 2011, we charge the government with storage costs from the date of termination
+for cause through submission of the termination for convenience settlement proposal on
+3 November 2012 (finding 15). We decline to grant TriRAD more storage time because
+of what we consider TriRAD's unreasonable and frankly inexplicable refusal to allow a
+site visit that would have greatly assisted the government in its ability to assess the claim.
+TriRAD also failed to include pictures in its initial settlement proposal that we view as
+impeding the Air Force's ability to assess the claim. After the conversion both parties
+made bad decisions. The Air Force ignored TriRAD's percentage calculations and
+pictures and demanded cost information that is clearly not envisioned by the commercial
+items clause, FAR 52.212-4(1). We allowed labor hours for TriRAD's responding to
+these unnecessary requests, but do not allow storage time because TriRAD refused to
+allow a site visit and failed to provide the Air Force the pictures earlier when it easily
+could have. Therefore, we conclude that TriRAD is entitled to storage costs from
+3 August 2011 to 3 November 2012. 22 We conclude that TriRAD could have disposed of
+the items, cancelled the lease, and ended the storage costs during November 2012 if it
+had allowed the site visit and documented the residual items with pictures, thereby
+preserving the evidence needed to litigate its termination for convenience case. At that
+time there would be no need for TriRAD to continue to store the residual simulator items.
+The costs were avoidable and therefore not recoverable under the clause. We therefore
+allow TriRAD $86,409 for facilities and utilities from 3 August 2011 through 24 October
+2012 and $1,873 for 25 October 2012 through 3 November 2012 (ten days at $187.30 per
+day) for a total of $88,282.
+
+
+21
+   We have no evidence that CO Pritchett ever asked TriRAD ifthe pictures represented
+       the state of production on the date of termination for cause. Mr. Reardin testified
+       that it did (finding 23).
+22
+   Mr. Reardin testified that the building was not used for other contract work
+       (finding 24). Taking this into account and the pictures (claim, tab 1at1-2-1 to
+       1-3-7), we are not able nor are we inclined to attempt to assign a percentage of the
+       lease to storing the residual items.
+                                             26
+       The Air Force estimates that the residual items only took up about 10% to 20% of
+the warehouse space and that other work could be accomplished in the unused space and
+the office space (gov't br. at 75-76). The Air Force believes a downward adjustment is
+merited. Judging from the pictures in the claim and testimony (finding 23), we think the
+Air Force's utilization estimate is low. We think it would have been impractical for
+TriRAD to relocate the residual supplies and decline to reduce the $88,282 by some
+percentage as suggested by the Air Force.
+
+       Appellant makes a variety of other arguments that have all been carefully
+considered by the Board, but we did not feel necessitate discussion in this decision. We
+also did not discuss the Air Force's quantum arguments that we agree with.
+
+       In awarding costs to TriRAD we give weight to CO Pritchett's testimony that
+TriRAD is owed more money but that he was unable to determine how much
+(finding 31). The amounts due TriRAD are summarized as follows:
+
+           $1, 124, 161.00           Percentage of Completion
+              $27,964.70             Uncompensated Start-up Costs
+                    *                Costs 3 August 2011 to 24 October 2012
+             $40,087.24              Costs 25 October 2012 to 30 June 2013
+             $88,282.00              Storage Costs
+          $1,280,494.94              Total
+
+*Add $1,954 in removal costs if they have not been paid as part of the $7,404.44 (finding 18).
+
+Profit & Overhead I G&A
+
+       TriRAD has not proven what its profit and overhead/G&A amounts (percentages)
+are and we do not speculate as to what they might be.
+
+Interest Accrual Date
+
+       On 3 November 2012 TriRAD submitted its termination for convenience settlement
+proposal in the amount of $1,803,993.00 (finding 15). The proposal was submitted with an
+SF 1436 form that included a pre-printed certification (id.). The certification does not comply
+with the certification requirements of the CDA but is correctable. TriRAD submitted its "2nd
+Revised and re-Certified" claim on 1July2013 (finding 21). The claim included a proper
+CDA certification (id.). A termination for convenience settlement proposal that contains the
+pre-printed certification found on SF 1436 (as TriRAD did 23 ) becomes a CDA claim, eligible
+for CDA interest, when the parties reach an impasse in their negotiations on the proposal.
+James M Ellett Construction Co. v. United States, 93 F.3d 1537 (Fed. Cir. 1996); Optical
+E.T.C., Inc., ASBCA No. 53350, 04-1BCA~32,608 at 161,385-86. We conclude that the
+
+23
+     The certification was corrected on 1 July 2013 (finding 21 ).
+                                              27
+parties here reach an impasse by TriRAD's 13 June 2013 email to the CO rejecting the
+government's settlement offer and saying it would seek the assistance of the ASBCA (finding
+20). Therefore. TriRAD's proposal .. became a claim" that was ··received" by CO Pritchett on
+13 June 2013.
+
+                                    CONCLUSION
+
+     TriRAD's appeal is sustained in the amount of $1,280,494.94. CDA interest will
+commence on 13 June 2013.
+
+      Dated: 23 February 2015
+
+
+                                               c
+                                               Administra ve Judge
+                                               Armed Se ices Board
+                                               of Contract Appeals
+
+I concur                                       I concur
+
+
+~~ ~CKLEFORD
+Administrative Judge                           Administrative Judge
+Acting Chairman                                Vice Chairman
+Armed Services Board                           Armed Services Board
+of Contract Appeals                            of Contract Appeals
+
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA No. 58855, Appeal ofTriRAD
+Technologies Inc., rendered in conformance with the Board's Charter.
+
+      Dated:
+
+
+                                               JEFFREY D. GARDIN
+                                               Recorder, Armed Services
+                                               Board of Contract Appeals
+
+
+                                          28

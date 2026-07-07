@@ -1,0 +1,1130 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+ Appeal of -                                  )
+                                              )
+ Healtheon, Inc.                              )     ASBCA No. 63145
+                                              )
+ Under Contract No. W912P8-15-C-0024          )
+
+ APPEARANCES FOR THE APPELLANT:                     Larry W. Caudle, Jr., Esq.
+                                                    Jonathan J. Straw, Esq.
+                                                     Kraftson Caudle PLC
+                                                     McLean, VA
+
+ APPEARANCES FOR THE GOVERNMENT:                    Michael P. Goodman, Esq.
+                                                     Engineer Chief Trial Attorney
+                                                    Jacob S. Stephens, Esq.
+                                                     Engineer Trial Attorney
+                                                     U.S. Army Engineer District, New Orleans
+
+                OPINION BY ADMINISTRATIVE JUDGE WILSON
+
+       This appeal arises from a hurricane protection project in Jefferson Parish,
+Louisiana. Appellant, Healtheon, Inc. (Healtheon or appellant), challenges the
+contracting officer’s denial of its claim for additional compensation and time
+extensions in connection with directed changes and differing site conditions it
+allegedly encountered during contract performance. The Board conducted a six-day
+hearing in New Orleans, Louisiana. For the reasons stated below, the Board grants
+appellant one additional day in time extensions and denies the remainder of the appeal.
+
+                                FINDINGS OF FACT
+
+                   The Contract, Modifications, and Claim Issues
+
+       1. On September 5, 2014, the New Orleans District of the U.S. Army Corps of
+Engineers (USACE or Corps) issued Solicitation No. W912P8-14-R-0041 for a
+hurricane protection project in Jefferson Parish, Louisiana (project) (R4, tab 3
+at COE000340).
+
+        2. Specifically, the project required the awardee to construct submersible
+electric pumps, diesel generators, fuel tanks, a pre-engineered metal building system
+(metal building), a concrete emergency shelter building (safehouse), and perform other
+related work (id. at COE000348-49).
+       3. On April 10, 2015, the Corps awarded Contract No. W912P8-15-C-0024
+(contract) to Healtheon (id. at COE000165).
+
+      4. The contract incorporated by reference the following clauses from the
+Federal Acquisition Regulation (FAR): 52.233-1, DISPUTES (MAY 2014); 52.236-2,
+DIFFERING SITE CONDITIONS (APR 1984); and 52.236-8, OTHER CONTRACTS
+(APR 1984) (R4, tab 3 at COE000184). The contract also incorporated the full text of
+FAR 52.243-4, CHANGES (JUN 2007) (id. at COE000197).
+
+       5. Healtheon segmented the project into three phases of work:
+
+            a.     Phase 1: Primary installation of the platform piling and re-grading
+                   of existing and new rip-rap stone;
+
+            b.     Phase 2: Construction of the platform, installation of the generator
+                   building, and demolition and replacement of the first three of seven
+                   electric pumps;
+
+            c.      Phase 3: Demolition and replacement of the remaining four
+                    pumps, installation of the emergency shelter building, installation
+                    of the jib crane and removal of equipment from the existing
+                    platform, general building finishes, and final site work.
+
+(Joint Statement of Undisputed Material Facts (JSUMF) ¶ 4)
+
+       6. In accordance with the contract, appellant was required to “commence
+work . . . within 10 calendar days after the date [Healtheon] receives the notice to
+proceed . . . [and] complete the entire work ready for use not later than 363 [calendar
+days]” (R4, tab 3 at COE000185). USACE issued the notice to proceed on April 30,
+2015 (app. supp. R4, tab 2). Given this, appellant was required to complete
+performance by April 27, 2016 (id.; R4, tab 3 at COE000185).
+
+        7. The contract also noted that the 363 days allotted for project completion
+reflected the government’s best estimate of the shortest reasonable performance
+period, and that appellant was obligated to do whatever was necessary, including
+hiring multiple crews, working overtime, and overseeing concurrent operations, to
+complete the work within the allotted time period without equitable adjustment (R4,
+tab 3 at COE000185).
+
+        8. Throughout contract performance, the government issued 13 modifications
+to the contract. In accordance with these modifications, the contract completion date
+was extended 63 days to June 29, 2016 (R4, tabs 6-8, 16-17).
+
+
+                                            2
+            9. The table below summarizes the content of the modifications for the project.
+
+
+Mod                                                  Change in    Change in Contract Rule 4
+         Mod Date            Description
+No.                                                 Contract Time       Price         Tab
+                      Rip-Rap Differing Site
+A0001    10/19/2015   Condition                           0             NTE $30,000.00        5
+                    Weather Days: 4/30/15 -
+A0002     3/23/2016 9/30/15                               3                        $0.00      6
+                    Weather Days: 10/1/15 -
+A0003     5/13/2016 12/31/15                              7                        $0.00      7
+                    Weather Days: 1/1/16 -
+A0004     7/11/2016 4/30/16                               6                        $0.00      8
+A0005     6/14/2016 Fuel Vents & Piping                   0               NTE $8,500.00       9
+                    Changes
+                      Rip-Rap in Berm Differing
+A0006    11/15/2016   Site Condition                      0                 $102,687.08       10
+                    Electrical
+A0007     11/2/2016 Modifications/Changes                 0             NTE $65,000.00        11
+                      Contaminated Soil Differing
+A0008    12/14/2016   Site Condition                      0               NTE $5,000.00       12
+A0009     5/19/2017 Gantry Crane Change                   0                   NTE $0.00       13
+A00010    8/11/2017 Louver Screens Change                 0                   $23,006.76      14
+                    Pipe Piles & Rip-Rap
+A00011    8/21/2017 Quantity Variations                   0                  -$60,695.82      15
+A00012     6/7/2018 CLIN 0023 Gantry Crane                0                   -$9,730.33      16
+                    Change
+                    CLIN 004 480V/Wiring
+                    Trough &
+A00012     6/7/2018 Disconnect Switches                   12                       $0.00      16
+A00012     6/7/2018 CLIN 0018 Fuel Vents &                5                   $26,410.99      16
+                    Piping Changes
+                    CLIN 0011 Electrical
+A00012     6/7/2018 Modifications/Changes                 7                   $86,250.78      16
+                    CLIN 0014 Contaminated
+                    Soil Removal (Differing
+A00012     6/7/2018 Site Condition)                       1                    $9,207.13      16
+                                               3
+                     Weather Days: 5/1/16 -
+A00013     8/30/2018 3/20/17                                22                          $0.00    17
+                       Totals (excluding
+                       undefinitized NTE
+                       amounts)                             63                    $177,136.59
+
+    It should be noted that under Mod A00012, CLIN 004, USACE awarded 12
+    non-compensable additional days.
+
+           10. On June 10, 2019, USACE issued a letter stating that contract performance
+    was complete. Specifically, the letter stated, “[a]ll contract work was performed in
+    accordance with approved plans and specifications and meets the design criteria.”
+    (App. supp. R4, tab A26 at COE038653)
+
+            11. Complete performance required the completion of several 1 smaller
+    construction and maintenance activities set forth within the specifications. These
+    subprojects included: (1) metal building; (2) metal building louvers; (3) 480V service;
+    (4) rip-rap; (5) crane; (6) fuel system piping; (7) electrical modifications; and
+    (8) contaminated soil.
+
+                                          Metal Building
+
+           12. Part of the project involved the procurement and erection of a metal
+    building to house two generators that could operate the electric water pumps at the
+    project site during an electrical outage. Section § 13 34 19 of the contract’s
+    specifications, Metal Building Systems, included the following relevant parts:
+
+                    1.1 SCOPE
+
+                    The work covered by this section consists of furnishing all
+                    plant, equipment, labor and materials, and performing all
+                    operations in connection with the design, fabrication,
+                    transportation and installation of a metal building system
+                    (Generator Building) and appurtenances. Mechanical,
+
+    1
+        There are two additional subprojects appellant completed to achieve complete
+             performance for which it does not seek any damages or time extensions: the
+             construction of an emergency shelter building and the provision of certain
+             pumps and discharge pipes (R4, tab 1 at COE0000007, COE000076,
+             COE000101; see also JSUMF ¶¶ 181-94). Because appellant does not seek any
+             relief in connection with these items, the Board will not within this decision
+             delve into the merits of any arguments appellant set forth for these subprojects.
+                                                 4
+electrical and plumbing components for the building are
+covered under the applicable mechanical, electrical and
+plumbing specification sections.
+
+...
+
+1.3 REFERENCES
+The publications listed below form a part of this
+specification. . . .
+
+AMERICAN SOCIETY OF CIVIL ENGINEERS (ASCE)
+ASCE/SEI 7 (2010) Minimum Design Loads for Buildings
+and Other Structures, Including Supplement No. 1
+
+...
+
+METAL BUILDING MANUFACTURERS
+ASSOCIATION (MBMA) MBMA MBSM (2002) Metal
+Building Systems Manual
+
+...
+
+1.4 DESIGN REQUIREMENTS
+
+1.4.1 Structural Performance
+
+Provide metal building systems capable of withstanding
+the effects of gravity loads and the following loads and
+stresses within the limits and conditions indicated.
+Calculations and drawings shall be signed and sealed by a
+registered professional engineer.
+
+...
+
+
+                               5
+                1.4.1.2 Design Loads
+
+                Conform to the requirements of MBMA MBSM,
+                ASCE/SEI 7, and the building code applicable to the
+                project geographical location.
+
+                ...
+
+                1.8 QUALITY ASSURANCE
+
+                ...
+                1.8.4 Manufacturer’s Qualifications
+
+                Metal building system manufacturer must . . . . [p]rovide
+                engineering services by an authorized currently licensed
+                engineer in the geographical area where construction will
+                take place, having a minimum of four (4) years experience
+                as an engineer knowledgeable in building design analysis,
+                protocols and procedures for the “Metal Building Systems
+                Manual” (MBMA MBSM); ASCE/SEI 7, the building
+                code in the geographic area where the construction will
+                take place and ASTM E 1592.
+
+      (R4, tab 3 at COE000944-956)
+
+        13. The above specifications incorporate by reference two different manuals:
+the Metal Building Manufacturers Association Metal Building Systems Manual
+(MBSM) and a manual issued by the American Society for Civil Engineers (ASCE)
+entitled Minimum Design Loads for Buildings and Other Structures. The MBSM
+describes a summary of the practices and responsibilities of the parties in a typical
+project involving a metal building. The ASCE manual “gives [the] criteria to
+determine whether or not a building should be classified as enclosed or partially
+enclosed” (tr. 2/31-32, 3/32). 2
+
+      14. Healtheon subcontracted American Building Company (ABC) to fabricate
+the metal building (tr. 1/31).
+
+
+2
+    The parties did not provide the Board with a copy of the 2002 ASCE 7 referenced by
+         the specifications, but appellant did provide a copy of the 2006 Metal Building
+         Systems Manual (MBSM), which “focuses on how to apply the loads specified
+         by . . . ASCE 7” and contains a large number of equations from the ASCE
+         7 manual regarding design loads (see app. supp. R4, tab A95 at 4, 40, 46-53).
+                                             6
+       15. On July 24, 2015, Healtheon received a purchase order from ABC (R4,
+tab 193 at COE058100). The purchase order classified the building as an Enclosed
+Building (id. at COE058107). We find no evidence in the record that calculations
+were done by either Healtheon or ABC to support the initial conclusion that the metal
+building would be fully enclosed (tr. 2/218-28).
+
+       16. In addition, although it is undisputed that Healtheon hired the engineering
+firm Waldemar Nelson Engineering to work with it on the project, the record evidence
+reveals that the firm did not review any of ABC’s submittals (tr. 2/223-24).
+
+      17. On October 13, 2015, Healtheon transmitted the first set of metal building
+shop drawings to USACE (app. supp. R4, tab A6 at H00218).
+
+       18. On October 28, 2015, USACE rejected Healtheon’s initial submittal and
+included the following comment to be addressed in a resubmission:
+
+                    On sheet ABC-1, the enclosure classification is
+                    labeled as “Enclosed.” The eastern wall of this
+                    building contains one large opening (270 sq. ft.) that
+                    will remain open during a hurricane for air intake.
+                    This opening greatly exceeds the openings in the
+                    rest of the building, because the exhaust side will
+                    not be an “opening” as it is sealed off between the
+                    generator's radiator and wall. Per ASCE 07, this
+                    building would then be classified as “Partially
+                    Enclosed.” Please revise.
+
+(Id. at H00217)
+
+      19. Between January 4, 2016 and February 12, 2016, Healtheon realized that
+ABC’s original anchorage design was fundamentally flawed (app. supp. R4, tab A6
+at H00220-38, H00267-81, H00283).
+
+        20. On March 1, 2016, appellant submitted RFI-0024, in which it requested
+that the government review the structural design of the proposed building, specifically
+issues with the building slab and uplift loads (id. at H00286-87). In response, the
+Corps informed appellant that the problems highlighted in RFI-0024 did not rest with
+the slab, but “the loading applied to the anchorage” (id. at H00326, 329).
+
+      21. On March 22, 2016, Healtheon submitted to the Corps an alternative
+anchorage design using steel I-beams (app. supp. R4, tab A6 at H00357).
+
+
+                                           7
+       22. On March 31, 2016, the Corps returned the submittal with a C-code, 3
+because the Corps sought clarification or confirmation of some design elements (app.
+supp. R4, tab A6 at H00377). Specifically, the Corps stated, “[t]his submittal is not a
+variation to the concrete platform but is a variation to the contract, in that the building
+system design is being changed” (id.).
+
+       23. By letter dated April 11, 2016, Healtheon contested the Corps’
+characterization of the alternative design as a variance and change to the metal
+building system. Specifically, appellant’s letter stated that the “modification was
+made necessary by USACE’s insistence on the nonexistent requirement that the metal
+building be classified as a ‘partially enclosed’ building and our effort to comply
+with the associated uplift requirements as explained in our letter 1503-L-0024 dated
+April 5, 2016.” (App. supp. R4, tab A6 at H00381)
+
+      24. On April 13, 2016, Healtheon resubmitted a revised version of the
+anchorage design that was approved by the Corps on May 6, 2016 (app. supp. R4,
+tab A6 at H00399-400).
+
+                                Metal Building Louvers
+
+       25. The specifications require appellant to provide louvers 4 for the project, but
+the specifications contained contradicting information regarding the wind load the
+louvers were required to withstand.
+
+       26. Specifically, Specification § 08 91 00 sets forth requirements for metal wall
+louvers. Paragraph 2.2 of the specification required appellant to provide metal wall
+louvers “to withstand a wind load of not less than 140 pounds per square foot” (R4,
+tab 3 at COE000870).
+
+
+3
+  The Corps has a variety of codes it uses to respond to contractor submittals, all of
+       which are associated with alphabet letter abbreviations. A C-code signifies that
+       the submittal was approved, but a resubmission is required. (U.S. Army of
+       Corps of Engineers, RMS Support Desk, What Do the Submittal Codes Mean?,
+       https://rms.usace.army.mil/datafiles/helpvideos/qcsabout/Advanced/Content/To
+       pics/FAQ_COM_2/What%20do%20the%20Submittal%20Codes%20Mean.htm
+       (last visited March 3, 2025))
+4
+  The parties do not define the term “louver” within the record, but for the purposes of
+       this decision, we find that louvers are sets of specialized vents that allow air to
+       flow into a building while simultaneously blocking out rain and debris. See
+       App. supp. R4, tab A300 at 61.
+                                             8
+      27. Paragraph 2.8.7 of specification § 13 34 19 required certain louvers to be
+removable for maintenance. Paragraph 2.8.7(e) required louver supports to carry
+“120 pounds per square foot wind load” (R4, tab 3 at COE000968).
+
+      28. Contract Drawing No. M-022 stated that the louvers should be rated for
+180 pounds per square foot (PSF) (R4, tab 4 at COE001316).
+
+       29. On April 27, 2016, Healtheon submitted to the Corps RFI-0031. In the
+RFI, appellant inquired how the specifications could simultaneously require appellant
+to provide louvers rated at 140 PSF while rating the building at 120 PSF and with
+drawings calling for a rating of 180 PSF (app. supp. R4, tab A6 at H00456).
+
+       30. On May 5, 2016, the Corps responded that the “requirements for the doors
+and louvers shall be adhered to as stated in the plans and specifications” (id.). The
+government ultimately accepted the louvers that appellant provided when the project
+was substantially completed on March 20, 2017 (R4, tab 65).
+
+                                     480V Service
+
+       31. Contract Drawing No. E-004 depicts an electrical system (480V overhead
+service system) servicing a specific sector gate on the project site (app. supp. R4,
+tab A6 at H00484).
+
+          32. On February 3, 2016, Healtheon submitted to the Corps RFI-0021, alleging
+that the existing 480 overhead service system was not built in accordance with
+(1) Drawing No. E-004; (2) national power standards; or (3) local power company
+standards (id. at H00483; tr. 2/118-20). Specifically, appellant asserted that the “meter
+. . . . is downstream (load side) of the service switch” rather than ahead of the service
+switch in accordance with Drawing No. E-004 (app. supp. R4, tab A6 at H00483).
+
+       33. On March 10, 2016, USACE responded to RFI-0021 stating that the current
+set-up complied with contract standards and that if Healtheon still believed that there
+was a code violation, it needed to specify the exact code and requirement being
+violated (id.).
+
+        34. On March 23, 2016, Healtheon re-submitted a portion of its concerns to the
+government in RFI-0026 (app. supp. R4, tab A6 at H00488). In the resubmission,
+appellant stated that multiple changes were needed for the 480 service system to
+comply with articles 230.71 & 230.72 of the National Electric Code (NEC) (id.). In its
+reply, the government conceded that disconnects were necessary downstream (id.).
+
+
+                                            9
+       35. On April 18, 2016, a USACE representative visited the site, agreed a
+change was necessary to correct the design, and discussed three possible solutions for
+appellant to consider (app. supp. R4, tab A6 at H00495-96).
+
+       36. On June 23, 2016, USACE issued a request for proposals (RFP) directing
+Healtheon to submit a cost proposal for new “wiring trough and disconnect switches to
+the existing 480 Entergy feeder to supply power to the new LP-S panel” (app. supp.
+R4, tab A6 at H00508). On June 30, 2016, Healtheon submitted a proposal (app. supp.
+R4, tab A6 at H00504). 5
+
+      37. Thereafter, the Corps issued unilateral Modification No. A00012, which
+allowed $86,250.78 for electrical systems changes and extended the contract
+completion date by 12 non-compensable calendar days (R4, tab 16; finding ¶ 9).
+
+                                          Rip-Rap
+
+       38. Rip-rap is a term of art used to describe a layer of large rocks that are used to
+protect soil and structures from water erosion (see tr. 1/105, 150, 2/13, 3/87, 4/71-72).
+
+       39. The contract included several technical specifications incorporating rip-rap.
+Specifically, sheet C-006 required the contractor to remove a single existing layer of
+24” rip-rap from the project site (R4, tab 4 at COE001282; see also tr. 1/107
+(“[e]specially the large stones absolutely would interfere with the pipe pile driving”)).
+
+       40. In accordance with sheet C-002A, “ONLY [the] 20 FOOT SECTION [of
+rip-rap] SHOWN IS REQUIRED TO BE REMOVED FOR PILE DRIVING” (R4,
+tab 4 at COE001277) (capitalization in original).
+
+        41. On August 11, 2015, Healtheon began excavating the existing rip-rap and
+discovered that (1) the depth of the rip-rap was substantially greater than represented
+in the specifications and (2) the rip-rap extended underneath the berm (app. supp. R4,
+tab A6 at H00126; see also tr. 1/106-07 (stating that the contract required “minimal”
+rip-rap removal, but that the rip-rap appellant found “went well into the berm and . . .
+towards the flood wall”)).
+
+       42. On August 18, 2015, USACE admitted that “[r]emoval of any of the stone
+on the protected side berm face, which is in the way of pile placement, would be
+reason for additional compensable work” (R4, tab 22). Thereafter, on September 14,
+2015, USACE conceded that “additional work would be required to remove the rip rap
+
+5
+    The parties did not include a copy of appellant’s proposal within the record, but it is
+         undisputed that appellant submitted a proposal for $85,481.01 and 14 additional
+         days to perform these tasks (JSUMF ¶ 104).
+                                             10
+from the berm while maintaining the level of flood protection. . . .” (app. supp. R4,
+tab A6 at H00187).
+
+        43. On October 19, 2015, USACE determined that the rip-rap work constituted
+a differing site condition and issued unilateral Modification A00001 (app. supp. R4,
+tab A5 at H00189-90; see also R4, tab 2 at COE000146). Ultimately, over 1,200 tons
+of additional rip-rap were removed from the project site (app. supp. R4, tabs A157,
+A267, A300).
+                                          Crane
+
+       44. Specification § 41 22 13.14 required Healtheon to provide an adjustable
+portable gantry crane 6 suitable for outdoor service. The specification also stated that
+the government would provide appellant with an electric-operated trolley that must be
+included within the lifting height (R4, tab 3 at COE001251; see also tr. 2/198).
+
+       45. On March 8, 2016, the Corps informed appellant that the contract would be
+modified because USACE would no longer provide a trolley. Instead, the government
+directed Healtheon to provide a manually operated trolley and chain hoist (app. supp.
+R4, tab A6 at H00723-26; tr. 2/199).
+
+      46. On June 9, 2016, USACE issued an RFP to “chang[e] the gantry crane
+from being electrically powered to chain operated” (app. supp. R4, tab A283
+at H00728-29). Thereafter, the Corps issued a revised RFP specifying that appellant
+provide a “portable gantry crane” (app. supp. R4, tab A6 at H00750-53; see also tr.
+2/207-08).
+
+       47. On April 5, 2017, Healtheon sent the government a proposal for $3,698.21.
+The proposal included a credit of $13,150 for the reduced cost of the manual gantry
+crane and an additional $16,086.01 for direct costs. (R4, tab 260 at COE57612-23)
+
+       48. On June 7, 2018, USACE finalized the gantry crane change order by
+issuing Modification No. A00012. The modification resulted in a net deduction of
+$9,730.33. (R4, tab 16 at COE001399; see also R4, tab 260 at COE57612-23)
+
+
+6
+    Specification § 41 22 13.14 does not define the term “portable gantry crane.” But,
+         Randy Persica, the Corps’ administrative contracting officer, discussed the
+         gantry crane in detail during his oral testimony. Specifically, he defined a
+         gantry crane as a crane “that mounts . . . to the framework of the building . . . .
+         suitable for lifting the largest piece of equipment inside the pump station for
+         maintenance and repair.” (Tr. 4/145)
+                                              11
+                                  Fuel System Piping
+
+        49. Contract Drawing Nos. M-030, M-031 and S-026 contained designs for
+fuel tanks and related system piping for the project site (R4, tab 4 at COE001297,
+COE001317-18).
+
+       50. It is undisputed that in April 2016, the Corps changed its design for the fuel
+tanks and related system piping to avoid penetrating the concrete flood wall (JSUMF
+¶ 158).
+
+
+    51. On April 27, 2016, Healtheon submitted RFI-0030, in which it informed
+USACE:
+
+              Healtheon’s fuel systems supplier has identified
+              components missing from the existing tank modification
+              scope, which would impede correct function based on the
+              general fuel systems integration concept . . . . Healtheon
+              recommends the addition of the float and integration into
+              the new system, which will require engineering and
+              installation supervision not included in the original scope.
+
+(App. supp. R4, tab A6 at H00592)
+
+        52. On May 24, 2016, the Corps acquiesced to appellant’s recommendations
+set forth in RFI-0030 (id.).
+
+       53. On June 10, 2016, the Corps issued Modification No. A00005, which
+rerouted the supply and return fuel piping over the top of the floodwall (app. supp. R4,
+tab A6 at H00600). Additionally, the Corps directed appellant to “delete” Contract
+Drawing Nos. M-030, M-031, and S-026 and replace said drawings with substitutes
+dated April 11, 2016 (id. at H00601).
+
+      54. On October 13, 2016, the Corps proposed additional adjustments to the
+system in revised Contract Drawing No. M-031 dated October 6, 2016 (app. supp. R4,
+tab A6 at H00612).
+
+       55. On October 28, 2016, the Corps requested that appellant provide a pricing
+proposal to “revise[] the location of the primary vents and to add foot valves to the
+day tank return pumps as detailed in DWG M-031, FILE NO. H-4-47769, Rev. 2 dated
+10-6-16.” The Corps issued this change directive with a not-to-exceed price of $8,500.
+(App. supp. R4, tab A6 at H00614)
+
+
+                                           12
+      56. On December 16, 2016, appellant submitted a revised pricing proposal
+informing the Corps that it would incur $48,973.67 for the directed fuel system piping
+changes (app. supp. R4, tab A6 at H00627, 639, 641).
+
+      57. On June 7, 2018, USACE issued unilateral Modification No. A00012 for
+$26,410.99 and extended the contract completion date by five non-compensable
+calendar days (app. supp. R4, tab A6 at H00677-79).
+
+                               Electrical Modifications
+
+
+       58. On September 30, 2016, Healtheon submitted RFI-0045, informing
+USACE that certain electrical equipment required by the contract was not certified by
+the manufacturer to meet contractually required wind pressure ratings. According to
+appellant, the only equipment that could be used required a different configuration and
+different electrical controls. (App. supp. R4, tab A6 at H00790)
+
+      59. On October 27, 2016, the Corps responded to RFI-0045 stating that a
+“modification will be provided to address the change and a wiring diagram will be
+provide[d] to show how the fans and dampers are to be controlled” (id.).
+
+        60. On November 2, 2016, the Corps issued Modification No. A00007
+“add[ing] a remote generator annunciator panel and fuel control panel emergency stop
+to the safe house[,] and . . . provid[ing] a wiring diagram for the generator building
+exhaust fan and damper controls” (app. supp. R4, tab A6 at H00794-95). The Corps
+authorized a not-to-exceed price of $65,000 for this change and requested a formal
+pricing proposal from Healtheon (id. at H00795).
+
+      61. Throughout December 2016, appellant submitted multiple revised pricing
+proposals for this work. Healtheon transmitted its final proposal to USACE on
+January 25, 2017, for $106,782.84. (App. supp. R4, tab A6 at H00844-47)
+
+       62. On June 7, 2018, USACE issued unilateral Modification No. A00012 for
+$86,250.78 in electrical modifications plus a seven calendar-day, non-compensable
+time extension (R4, tab 16; finding 9).
+
+                                  Contaminated Soil
+
+
+       63. The contract identified certain plots of contaminated soil for disposal at the
+project site. Specifically, paragraph 3.1.2 of specification 31 23 16.16 12 required
+appellant to “excavate all contaminated soil as called out on the Contract Drawings.
+All contaminated soil shall be handled and disposed of in an industrial waste landfill in
+
+                                           13
+accordance with local, state, and federal regulations.” (R4, tab 3 at COE001158) The
+contract price to perform this work was $98,000 (R4, tab 3 at COE000174).
+
+      64. Note 3 on Contract Drawing No. C-002 provided:
+
+             SOIL UNDER AND ADJACENT TO EXISTING
+             PLATFORM CONTAINS SIGNS OF HYDRAULIC
+             FLUID SPILL. SOIL SHALL BE PROPERLY
+             REMOVED AND DISPOSED OF IN AN INDUSTRIAL
+             WASTE LANDFILL. THE SPILL IS THE FULL
+             LENGTH OF THE WEST SIDE OF THE PLATFORM
+             (60 FEET), 6 FEET WIDE, AND AN ESTIMATED
+             DEPTH OF 1.5 FOOT.
+
+(R4, tab 4 at COE001276) (capitalization in original.)
+
+       65. On November 16, 2016, USACE submitted a request for an internal field
+modification after it determined that the amount of contaminated soil to be removed was
+greater than what was identified in the contract drawings. The initial estimated cost for
+an additional 22 cubic yards of work was $48,600. (R4, tab 258 at COE038995)
+
+       66. On December 14, 2016, USACE, via Modification No. A00008, directed
+Healtheon to proceed with this change for the not-to-exceed price of $5,000 (app.
+supp. R4, tab A6 at H00891-96).
+
+      67. In accordance with the government’s directed change, Healtheon and its
+subcontractor, Global Contracting LLC, timely performed the changed work and
+submitted a pricing proposal in the amount of $30,865.26 (app. supp. R4, tabs A6
+at H00901-11, A28 at COE 057984; see also tr. 2/168-77).
+
+      68. On June 6, 2018, USACE issued unilateral Modification No. A00012 to
+“Remove Contaminated Soil” for $9,207.13 and 1 calendar day (R4, tab 16
+at COE001397-99).
+
+                                Liquidated Damages
+
+       69. The contract incorporated the full text of certain FAR clauses, including
+FAR 52.211-12, LIQUIDATED DAMAGES – CONSTRUCTION (SEP 2000).
+FAR 52.211-12 includes a blank space that allows contractual parties to fill in an
+agreed-upon daily liquidated damages rate. With regards to liquidated damages, the
+contract provided:
+
+
+                                          14
+                 (a) If the Contractor fails to complete the work within the
+                     time specified in the contract, the Contractor shall pay
+                     liquidated damages to the Government in the amount of
+                     $2,210.00 7 for each calendar day of delay until the
+                     work is completed or accepted.
+
+                 (b) If the Government terminates the Contractor's right to
+                     proceed, liquidated damages will continue to accrue
+                     until the work is completed. These liquidated damages
+                     are in addition to excess costs of repurchase under the
+                     Termination clause.
+
+(R4, tab 3 at COE000185-86)
+
+      70. It is undisputed that USACE assessed and withheld liquidated damages in
+the amount of $559,040 from June 30, 2016, through March 20, 2017 (R4, tab 2
+at COE000121-22; JSUMF ¶ 12).
+
+                   Request for Equitable Adjustment, Claim, and COFD
+
+       71. On February 26, 2021, appellant submitted a request for equitable
+adjustment (REA) to the Corps seeking $869,373.56 and a time extension of
+294 calendar days (R4, tab 191 at COE 004334). The government never responded to
+the merits of appellant’s REA.
+
+        72. On July 23, 2021, appellant submitted a certified claim to the Corps for a
+contracting officer’s final decision (R4, tab 1). Appellant’s claim is substantially
+similar to its REA with the claim amount increased to $870,249.56 (id. at COE 00001;
+R4, tab 191). Notably, appellant’s claim does not mention the government’s alleged
+failure to disclose the correct classification for the metal building at the time of
+contract award or any attempts to misrepresent the correct classification to appellant
+(see generally R4, tab 1).
+
+      73. On December 6, 2021, the contracting officer issued a final decision
+denying appellant’s claim in its entirety (R4, tab 2).
+
+       74. Healtheon timely filed an appeal at the Board on January 4, 2022, and the
+appeal was docketed as ASBCA No. 63145.
+
+
+7
+    In the contract, the parties highlighted the $2,210 daily rate by writing it in red ink
+          (R4, tab 3 at COE000186) (emphasis in original).
+                                               15
+                    The Parties’ Experts: Oral Testimony and Reports
+
+
+        75. The Board conducted a six-day hearing wherein the parties presented
+six fact witnesses as well as oral testimony from each party’s scheduling expert. Both
+experts prepared a delay analysis, which included the experts’ opinions regarding the
+causes of delay on the project, responsibility for each delay, and the impact of each
+delay (R4, tab 262; app. R4 supp., tab A267).
+
+       76. Healtheon’s scheduling expert, Mr. Richard Ott, presented extensive
+testimony at the hearing about his detailed schedule analysis of the project. Mr. Ott
+received a Bachelor of Science degree in civil engineering from the University of
+Missouri, Columbia (app. R4 supp., tab A267 at HE00089). He subsequently worked
+as a project engineer and project superintendent for multiple companies in Missouri
+and Virginia (id.). He holds professional licenses in three states and is a member of
+the American Society of Civil Engineers and the National Society of Professional
+Engineers (id.). In his current role as the president of Milestone Consultants, Inc.,
+he prepares and analyzes construction schedules and claims (tr. 3/53-54), the Board
+accepted Mr. Ott as an expert in construction scheduling and damages analysis (tr.
+3/58).
+
+        77. Mr. Ott submitted to the Board an expert report 8 which contained the
+following conclusions: (1) the Corps is responsible for 278 days of compensable delay
+to the project; (2) the Corps is responsible for an additional 94 days of excusable,
+non-compensable delay; (3) appellant is entitled to $1,214,015.63 in damages for
+directed changes or differing site conditions that it allegedly encountered at the project
+site; and (4) appellant is entitled to the remission of $559,040 in liquidated damages
+withheld by the Corps (app. supp. R4, tab A267a at 2).
+
+
+8
+    In his original report, Mr. Ott concluded that the Corps is responsible for
+          297 compensable days of delay and 75 days of excusable, non-compensable
+          days of delay (app. supp. R4, tab A267 at HE00005). In addition, Mr. Ott
+          concluded that Healtheon is entitled to $620,498.55 in additional compensation
+          for directed changes or differing site conditions it encountered at the project
+          site, as well as the remission of $559,040.00 in liquidated damages withheld by
+          the Corps (id.). Thereafter, Mr. Ott submitted an updated cost summary that
+          revised all of the aforementioned delay and damage calculations (app. supp. R4,
+          A267a). Mr. Ott’s two-page updated cost summary is confusing, as it presents
+          the new delay and damage calculations in revised tables without much
+          explanation or context (id.). Nevertheless, we will rely solely on the
+          calculations proffered within Mr. Ott’s updated cost summary.
+                                            16
+        78. Notably, the conclusions contained within Mr. Ott’s report directly
+contradict much of the delay analysis proffered within appellant’s certified claim.
+Although both documents rely upon the same project schedule updates and state that
+they utilize the same methodology to interpret these documents, the two documents
+come to significantly different conclusions. Specifically, while the claim states that
+appellant delayed progress by 29 days and that the government delayed progress by
+325 days, Mr. Ott concludes that the government is responsible for 372 delay days
+(297 compensable, 75 non-compensable) and that appellant actually sped up project
+completion by 3 days (R4, tab 1; app. supp. R4, tab 267). In addition, the claim and
+Mr. Ott’s report sometimes attribute very different sources to alleged delays as well as
+varied degrees of magnitude to such delays. For example, if we consider the time
+period between May 31, 2016, and June 30, 2016, the claim states that the critical path
+was delayed by 25 days due to issues with the 480V service, while Mr. Ott’s report
+states that the critical path was delayed by 2 days due to issues with discharge pipes
+and tubing (R4, tab 1 at X; app. supp. R4, tab 267 at X). We find that these
+discrepancies greatly reduce the reliability of appellant’s expert report and
+significantly weaken appellant’s arguments that rely upon Mr. Ott’s delay calculations.
+
+        79. The government presented its scheduling expert, Mr. William Manginelli.
+Mr. Manginelli received a Bachelor of Science degree with honors from the United
+States Merchant Marine Academy (R4, tab 262 at COE059410). Mr. Manginelli
+began his career at the Corps’ Marine Design Center, where he eventually assumed the
+role of senior project manager (id. at COE059411). More recently, Mr. Manginelli
+transitioned to the private sector. After working as a resident construction manager,
+Mr. Manginelli assumed his current role as president of Trauner Consulting Services
+(id.at COE059410). He holds several professional memberships, has developed and
+led countless industry training programs, and has written two editions of a book on
+construction claims and schedule analysis (id. at COE059413-20; tr. 6/8). The Board
+accepted Mr. Manginelli as an expert in schedule and delay analysis, and construction
+damages (tr. 6/11).
+
+        80. Mr. Manginelli submitted an expert report outlining the government’s
+conclusion that appellant has been adequately compensated for any directed changes
+or differing site conditions that appellant encountered at the project site (R4, tab 262).
+Specifically, Mr. Manginelli’s report cites 39 documents within the record to support
+his opinion that six of the seven activities at issue did not affect the critical path of the
+project (id. at COE059409).
+
+        81. With the exception of 13 delay days that both experts attribute to the
+480 volt service change, Mr. Manginelli asserts that none of the other-directed changes
+or differing site conditions appellant experienced at the project site delayed the overall
+completion of the project by delaying the critical path (id. at COE059396).
+
+
+                                             17
+       82. In addition, Mr. Manginelli determined that (1) Healtheon was the direct
+cause of at least 264 of the 328 days of delay; (2) of the remaining 64 calendar days,
+Healtheon was provided 63 days of time extensions; and (3) appellant is entitled to an
+additional time extension of one day (id.).
+
+     83. The government provided the Board with multiple graphs that concisely
+summarize Mr. Manginelli’s conclusions, including the table below:
+
+
+(Gov’t br. at 45)
+
+       84. Following the hearing of this appeal, the parties engaged in extensive
+briefing. The appeal is now before the Board for decision.
+
+
+                                        DECISION
+
+        Our analysis is split into three different parts. First, we delve into the merits of
+appellant’s arguments regarding the construction of the metal building. Next, we
+explore appellant’s arguments regarding the alleged defective specifications and
+differing site conditions encountered at the project site. Finally, we turn to appellant’s
+assertion that it is entitled to the remission of $559,040 in liquidated damages.
+
+
+                                             18
+       Metal Building
+
+        Appellant argues that the government provided defective specifications,
+breached the duty of good faith and fair dealing, constructively changed the contract,
+and improperly withheld superior knowledge regarding the generator building.
+Specifically, appellant alleges that it reasonably interpreted the specifications to
+support the construction of a fully enclosed building. According to Healtheon, the
+contract did not contain an express statement of the metal building’s enclosure
+classification. In addition, appellant alleges that the government did not clarify that
+the building was to be fabricated as a “partially enclosed” structure able to withstand
+uplift forces until October 2015, halfway through the project. By withholding this
+information from appellant, Healtheon contends that the government failed to
+cooperate, delayed the proper fabrication and erection of the building, and ultimately
+delayed the critical path of the project. For these delays, appellant argues that it is
+entitled to a 137-day compensable time extension and $197,563.59 of extended
+overhead. (App. br. at 31-40)
+
+        Conversely, the government argues that Healtheon is solely responsible for all
+delays associated with the metal building. According to the government, appellant did
+not follow the contract specifications because it did not employ a professional engineer
+with experience with the ASCE 7 manual to review the metal building specifications
+in accordance with contract requirements. The government contends that the engineer
+was required to then make an independent determination of the building enclosure
+classification and design the building in conformance with that classification. Instead,
+the government alleges that Healtheon’s subcontractor, ABC, relied exclusively on a
+building enclosure classification contained within a purchase order submitted by
+Healtheon and that no engineer reviewed the classification during the project. Given
+this, the government asserts that it cannot be held liable for any delays appellant
+experienced by deviating from the specifications it received. As such, it requests that
+the Board disregard appellant’s defective specification, superior knowledge,
+constructive change, and good faith and fair dealing arguments and deny appellant’s
+requests for any time extensions or overhead costs in connection with the construction
+of the metal building. (Gov’t br. at 21-33)
+
+        For Healtheon to shift the burden of its extended overhead costs to the
+government, appellant must establish two things: first, that the government-furnished
+design specifications were defective, and second, that there is a causative link between
+the alleged design defect and the additional costs and time that Healtheon spent to
+correct the defect. KiewitPhelps, ASBCA No. 61184, 23-1 BCA ¶ 38,254 at 185,765.
+
+      The issue of defective specifications is governed by the Spearin doctrine. The
+Spearin doctrine states that “[w]hen the [g]overnment provides specifications directing
+how a contract is to be performed, the [g]overnment warrants that the contractor will
+
+                                           19
+be able to perform the contract satisfactorily if it follows the specifications.” Hercules
+Inc. v. United States, 516 U.S. 417, 425 (1996) (citing United States v. Spearin,
+248 U.S. 132, 136); see also Essex Electro Eng’rs, Inc. v. Danzig, 224 F.3d 1283,
+1289 (Fed. Cir. 2000) (“When the government provides a contractor with defective
+specifications, the government . . . breache[s] the implied warranty that satisfactory
+contract performance will result from adherence to the specifications, and the
+contractor is entitled to recover all of the costs proximately flowing from the breach”).
+It is well-established that the Spearin doctrine’s implicit warranty applies to design
+specifications that permit no deviations in contract performance and that the doctrine
+does not apply to performance specifications that “merely set forth an objective
+without specifying the method of obtaining the objective.” White v. Edsall Constr.
+Co., 296 F.3d 1081, 1084 (Fed. Cir. 2002).
+
+        In addition, the Spearin doctrine does not negate the contractor’s duty to
+investigate or inquire about a patent ambiguity, inconsistency, mistake, or obvious
+error that the contractor recognized or should have recognized within the
+specifications. Id. at 1085. “A design defect is not sufficiently patent so as to trigger a
+duty to inquire unless the defect constitutes a ‘major patent discrepancy, or obvious
+omission, or a drastic conflict in provisions’” that would be clearly evident to a
+reasonable contractor. KiewitPhelps, 23-1 BCA ¶ 38,254 at 185,766. As such,
+contractors are not expected to “ferret out hidden or subtle errors in the specifications”
+to meet their duty to inquire. Id. (citing Edsall, 296 F.3d at 1085).
+
+       We agree that appellant deviated from the specifications by failing to have an
+engineer review the contract and determine the appropriate enclosure classification for
+the metal building. Specification 13 34 19 is entitled “Metal Building Systems”
+(finding ¶ 12). Paragraph 1.1 states that the work covered by the section includes all
+operations with the design and fabrication of a metal building system (id.). Paragraph
+1.4.1 states, “[c]alculations and drawings shall be signed and sealed by a registered
+professional engineer” (id.). In addition, paragraph 1.4.1.2 states that design loads
+must “[c]onform to the requirements of MBMA MBSM, ASCE/SEI 7, and the
+building code applicable to the project geographical location” (id.). The parties did
+not provide the Board with a copy of the 2002 ASCE 7 referenced by the
+specifications, but appellant did provide a copy of the 2006 Metal Building Systems
+Manual (MBSM), which “focuses on how to apply the loads specified by . . . ASCE 7”
+and contains a large number of equations from the ASCE 7 manual regarding design
+loads (finding ¶ 13, n.2).
+
+        A cursory review of the 2006 MBSM reveals that the engineer would take the
+specifications for the metal building and input them into the equations provided within
+the ASCE 7 manual to determine the appropriate classification for the structure (id.).
+It is undisputed that Healtheon hired the engineering firm Waldemar Nelson
+Engineering to work with it on the project, but the firm did not review any of ABC’s
+
+                                            20
+submittals (finding ¶ 16). Further, there is no record evidence that calculations were
+done by either Healtheon or ABC to support the initial conclusion that the metal
+building would be fully enclosed (finding ¶ 15). The evidence before the Board
+indicates that Healtheon failed to conform to the specifications by having a
+professional engineer review the contract and provide calculations and drawings to
+support an enclosure classification for the metal building. Given this, we must deny
+appellant’s defective specifications argument.
+
+        We reject appellant’s other arguments for similar reasons. First, appellant has
+not proven that the government constructively changed the contract by requiring the
+metal building to be partially enclosed. A constructive change “arises from the
+contractor’s performance of work ‘beyond the contract requirements without a formal
+order, either by an informal order or due to the fault of the [g]overnment.’” Tkacz
+Eng’g, LLC, ASBCA No. 60358, 18-1 BCA ¶ 36,940 at 179,962 (internal citations
+omitted). It is well-established that there are four elements that must be satisfied to
+prevail on a constructive change claim. The first is that the contractor was compelled
+by the government to perform work not required by the terms of the contract. Id. The
+evidentiary record reveals that appellant was required by the contract specifications to
+employ a professional engineer well-versed in the ASCE 7 manual to make an
+independent determination of the metal building’s classification and design the
+building in accordance with that classification (finding ¶ 12). Appellant did not follow
+these specifications when it classified the building as fully enclosed. Contrary to
+appellant’s contentions, the government merely required appellant to comply with
+these specifications when it informed appellant that the building should be classified as
+partially enclosed. As such, appellant has failed to satisfy the first element of the
+constructive change doctrine, and we must deny appellant’s constructive change
+argument.
+
+        Second, appellant has not proven that the government breached its duty of good
+faith and fair dealing. Breach of such a covenant can be proven in a myriad of ways,
+including a “lack of diligence and interference with or failure to cooperate in the other
+party’s performance.” Metcalf Constr. Co. v. United States, 742 F.3d 984, 990
+(Fed. Cir. 2014) (citing Malone v. United States, 849 F.2d 1441, 1445 (Fed. Cir.
+1988)). Appellant, as the proponent of this claim, bears the burden of proof. “The
+proper inquiry regarding [this] duty often boils down to questions of ‘reasonableness’
+of the government’s actions.” Relyant, LLC, ASBCA No. 59809, 18-1 BCA ¶ 37,085
+at 180,539. Given that appellant did not comply with the explicit requirements of the
+contract and the government simply enforced the specifications that both parties
+agreed to follow, we must conclude that any challenge to the government’s duty of
+good faith and fair dealing regarding the metal building is meritless. As such, we
+similarly deny appellant’s good faith and fair dealing argument.
+
+
+                                           21
+       Finally, to the extent that appellant makes a superior knowledge claim, we do
+not possess jurisdiction over that claim because it is a new claim that appellant did not
+present to the contracting officer. Nassar Grp. Int'l, ASBCA No. 58451 et al.,
+19-1 BCA ¶ 37,405 at 181,831. While an appellant may introduce on appeal
+additional facts that do not alter the nature of the original claim, its appeal must be
+based upon a common or related set of operative facts to those presented to the
+contracting officer. Id. A claim is new when it “presents a materially different factual
+or legal theory” of relief. Id. (quoting Lee's Ford Dock, Inc. v. Sec'y of the Army,
+865 F.3d 1361, 1369 (Fed. Cir. 2017). Materially different claims will necessitate a
+focus on a different or unrelated set of operative facts. Id. The theory of superior
+knowledge is unique in that it normally relies on operative facts in existence before
+award. Grumman Aerospace Corp. v. Wynne, 497 F.3d 1350, 1357 (Fed. Cir. 2007)
+(addressing Board's determinations about the contractor's knowledge during
+“pre-award period” and “vital knowledge or the opportunity to obtain that knowledge
+before contract entry.”) Specifically, it requires appellant to present facts in the claim
+relating to a disparity in knowledge between the parties at contract award of which the
+government was aware. Here, appellant’s claim does not mention the government’s
+alleged failure to disclose the correct classification for the metal building at the time of
+contract award or any attempts to misrepresent the correct classification to appellant
+(finding ¶ 72). Given this, we must conclude that appellant’s superior knowledge
+claim is a materially different claim than those presented to the contracting officer.
+Accordingly, we do not have jurisdiction to consider such a new claim.
+
+       Although appellant presented various arguments to support the award of
+additional time and damages in connection with its work on the metal building, the
+record evidence indicates that appellant did not follow the specifications agreed to by
+both parties within the contract. As such, we reject appellant’s arguments and deny
+entitlement to additional damages and time extensions for the metal building.
+
+
+       Directed Changes
+
+        Appellant also alleges that it is entitled to additional costs as well as time
+extensions, both compensable and non-compensable, for government-directed changes
+to seven distinct elements of the project: the gantry crane, metal building louvers,
+480V service to the project site, fuel system piping, CO-03 electrical modifications,
+rip rap, and contaminated soil (app. br. at 27-58). The following chart lays out the
+time extensions and damages sought for each activity:
+
+
+                                            22
+ Activity               Compensable            Non-Compensable Costs Sought
+                        Days Sought            Days Sought
+ Gantry Crane           91                     11              $13,428.54
+
+ Metal Building         12                     7
+ Lovers
+ 480V Service           35                                            $50,472.45
+
+ CO-03 Electrical       3                      40                     $81,669.44
+ Modifications
+                                                                      ($4,326.21 extended
+                                                                      overhead +
+                                                                      $77,343.23 direct
+                                                                      costs)
+ Fuel System Piping                                                   $22,562.68
+ Rip-rap                                       36                     $19,436.95
+
+ Contaminated Soil                                                    $21,658.13
+
+
+(App. br. at 27, 45, 49, 51, 57-58; app. reply br. at 8, 20, 23-26)
+
+        It is well-established that Healtheon bears the burden of proof to establish that
+any alleged compensable or non-compensable delay ultimately delayed project
+completion. Specifically, to demonstrate entitlement for a compensable delay,
+a contractor must prove: (1) specific delays were attributable to government causes;
+(2) such delays resulted in delay in completion of the overall project; and (3) the
+government-caused delays were not concurrent with delays within the contractor’s
+control. Env’t Chem. Corp., ASBCA Nos. 59280, 60760, 22-1 BCA ¶ 38,166
+at 185,365. To demonstrate entitlement for a non-compensable delay, a contractor
+must show that (1) the delay resulted from “unforeseeable causes beyond the control
+and without the fault or negligence of the Contractor” and (2) the unforeseeable cause
+delayed overall contract completion by affecting the critical path of performance.
+Sauer Inc. v. Danzig, 224 F.3d 1340, 1345 (Fed. Cir. 2000); see also Ken Laster Co.,
+ASBCA Nos. 61292, 61828, 20-1 BCA ¶ 37,659 at 182,855; FAR 52.249-10(b)(1).
+“Proof of damage is also an element of entitlement and, while mathematical certainty
+is not required, some proof of damage is required.” L.C. Gaskins Constr. Co., ASBCA
+No. 58550 et al., 18-1 B.C.A. ¶ 36,978 at 180,122.
+
+       The government has already accepted partial responsibility for directing
+additional work and for the existence of differing site conditions in connection with all
+seven of the aforementioned activities. In response, the government has compensated
+appellant for portions of the additional work that it and its subcontractors performed to
+
+                                            23
+complete each of the seven activities (gov’t br. at 36). Appellant now seeks additional
+compensation and time extensions to cover its remaining costs and delays.
+
+        Appellant has not proven that it is entitled to any additional damages or
+compensable time extensions. To meet its burden of proof, appellant relies heavily
+on the oral testimony and expert report of its scheduling expert, Mr. Ott. However,
+Mr. Ott’s conclusions are unpersuasive for two reasons. First, Mr. Ott “corrected”
+all of his delay and damage calculations in a separate document from his expert report
+(finding ¶ 77, n.8). This updated cost summary did not outline all of the new
+allegations of delay and damages in a clear and concise manner with citations to the
+record evidence (id.). Because of this, Mr. Ott’s updated cost summary can be boiled
+down to two revised tables of numbers that are presented without any support or
+sufficient explanation as to how he arrived at each of his new conclusions. Second,
+Mr. Ott purports to utilize the same schedule updates and methodology employed in
+appellant’s certified claim to support the analysis set forth within his expert report, but
+appellant’s claim and Mr. Ott’s report come to drastically different conclusions
+regarding the number of alleged days of delay and the claimed causes or magnitude of
+such alleged delays without explanation for the major discrepancies (finding ¶ 78).
+These two shortcomings negate appellant’s attempts to meet its burden of proof using
+Mr. Ott’s oral testimony and expert report and render the report unpersuasive at best
+and unreliable at worst.
+
+        The evidence reveals that appellant is only entitled to one additional day in
+non-compensable time extensions for any directed changes or differing site conditions
+encountered during contract performance. To show that appellant is not entitled to any
+additional damages and no more than one day in time extensions, the
+government relies upon the oral testimony and expert report proffered by its
+scheduling expert, Mr. Manginelli. In his report, Mr. Manginelli cites 39 documents
+within the record to support his opinion that six of the seven activities at issue did not
+affect the critical path of the project (finding ¶ 80). In addition, he fairly showcases
+how the government’s actions led appellant to perform additional 480 volt feeder work
+that requires the government to award appellant one additional day in time extensions.
+Mr. Manginelli even filled some of the gaps left by appellant’s expert testimony and
+report. Persuaded by Mr. Manginelli’s oral testimony and expert report, we must
+conclude that appellant is only entitled to one additional day of time extensions in
+connection with additional work performed in connection with the 480V feeder.
+
+        We agree with Mr. Manginelli’s conclusion that any directed changes appellant
+encountered at the project site in connection with the gantry crane, the metal building
+louvers, the emergency shelter building, CO-03 electrical modifications, fuel system
+piping, rip-rap, and contaminated soil did not affect the critical path of performance.
+As the graphic table provided by Mr. Manginelli states, the record evidence reveals
+that there were only eight schedule impacts that affected the critical path:
+
+                                            24
+(Findings ¶¶ 82-83).
+
+        Specifically, these eight impacts were the late submittals of pipe pile and
+generator building drawings, the late submittal of the pre-engineered emergency
+shelter building, platform beams and slab, planned progress, electrical systems
+installation, the existing 480V modification, the commission/testing and demo/removal
+of pumps and equipment, and repairing defective work that appellant performed on the
+emergency shelter building (finding ¶ 83). None of these critical work components
+stem from any directed changes or differing site conditions caused by the government,
+except the one day of critical work for which the government is responsible in
+connection with the 480V modification. Instead, the record evidence reveals that
+Healtheon is responsible for every day of delay it experienced beyond those accounted
+for in the time extensions totaling 63 days that the government has already provided.
+
+       In summary, appellant has not met its burden of proof to show that it is entitled
+to any additional compensation or time extensions for the directed changes or differing
+site conditions it encountered in connection with seven of the remaining issues within
+this appeal: the gantry crane, the metal building louvers, emergency shelter building,
+CO-03 electrical modifications, fuel system piping, rip rap, and contaminated soil.
+As such, we deny appellant’s requests for additional compensation or time extensions
+in connection with these seven issues. The record presented contains only evidence to
+support an additional day in non-compensable time extensions in connection with the
+work appellant completed on the 480 volt feeder. Given this, we grant appellant a
+time extension of one day for that work.
+
+
+                                          25
+         Liquidated Damages
+
+        Finally, we turn to appellant’s request for the remission of $559,040 in
+liquidated damages. It is well established that “the Government bears the initial
+burden of proving that the contractor failed to meet the contract completion date and
+that the period of time for which it assessed liquidated damages is correct.” Sauer,
+Inc., ASBCA No. 62395, 21-1 BCA ¶ 37,845 at 183,753 (citing KEMRON Env’tl
+Servs. Corp., ASBCA No. 51536, 00-1 BCA ¶ 30,664 at 151,399). “Once the
+government has overcome the initial burden, it is incumbent upon appellant to show
+either that the government incorrectly assessed the damages under the contract or that
+appellant's failure to comply with the terms of the contract was excusable.” Derian,
+Inc., ASBCA No. 62957, 23-1 BCA ¶ 38,425 at 186,759 (citing Chem-Care Co.,
+ASBCA No. 53614, 06-2 BCA ¶ 33,427 at 165,726). Here, appellant alleges that its
+failure to comply with the contract completion date was excusable because of all the
+directed changes and differing site conditions it encountered at the project.
+
+       The contract contains a liquidated damages clause that requires Healtheon to
+pay $2,210 in liquidated damages for each calendar day of delay until the work is
+completed or accepted (finding ¶ 69). It is undisputed that USACE assessed and
+withheld liquidated damages in the amount of $559,040 from June 30, 2016, through
+March 20, 2017 (finding ¶ 70). The Board has determined that Healtheon was
+responsible for 264 days of delay, and we are persuaded by Mr. Manginelli’s
+determination that no additional concurrent delays must be granted to appellant.
+Having determined that Healtheon bears the sole responsibility for 264 days of delay,
+the government was entitled to collect liquidated damages for those days. As such, the
+government is entitled to retention of the collected liquidated damages. 9
+
+                                    CONCLUSION
+
+        Appellant has not proven that it is entitled to any additional compensation in
+connection with the work it performed under the contract. Appellant has similarly not
+proven that it is entitled to the remission of any liquidated damages. Appellant is,
+however, entitled to one additional day of time extensions for its work on the 480-volt
+feeder.
+
+
+9
+    The government has chosen only to assess and withhold $559,0400 for delays
+         between June 30, 2016, and March 20, 2017, but based on our calculation,
+         264 days of delay x $2,210 per day = $583,440. See R4, tab 2 at COE000122.
+                                          26
+Therefore, we grant appellant a one-day non-compensable time extension and deny the
+remainder of the appeal.
+
+       Dated: July 24, 2025
+
+
+                                                    OWEN C. WILSON
+                                                    Administrative Judge
+                                                    Acting Chairman
+                                                    Armed Services Board
+                                                    of Contract Appeals
+
+
+ I concur                                           I concur
+
+
+ MICHAEL N. O’CONNELL                               DAVID B. STINSON
+ Administrative Judge                               Administrative Judge
+ Vice Chairman                                      Armed Services Board
+ Armed Services Board                               of Contract Appeals
+ of Contract Appeals
+
+
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA No. 63145, Appeal of
+Healtheon, Inc., rendered in conformance with the Board’s Charter.
+
+       Dated: July 24, 2025
+
+
+                                                PAULLA K. GATES-LEWIS
+                                                Recorder, Armed Services
+                                                Board of Contract Appeals
+
+
+                                           27

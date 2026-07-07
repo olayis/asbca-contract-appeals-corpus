@@ -1,0 +1,830 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeal of --                                 )
+                                             )
+Pro-Built Construction Firm                  )      ASBCA No. 59278
+                                             )
+Under Contract No. W5J9JE-10-D-0016          )
+
+APPEARANCE FOR THE APPELLANT:                       William J. Spriggs, Esq.
+                                                     Spriggs Consulting Services
+                                                     Lynchburg, VA
+
+APPEARANCES FOR THE GOVERNMENT:                     Thomas H. Gourlay, Jr., Esq.
+                                                     Engineer Chief Trial Attorney
+                                                    Pietro 0. Mistretta, Esq.
+                                                    Matthew S. Tilghman, Esq.
+                                                    Michael A. Rea, Esq.
+                                                     Engineer Trial Attorneys
+                                                     U.S. Army Engineer District, Middle East
+                                                     Winchester, VA
+
+           OPINION BY ADMINISTRATIVE JUDGE D' ALESSANDRIS
+
+        In July 2011, the United States Army Corps of Engineers (Corps) awarded
+Contract No. W5J9JE- l O-D-0016 to appellant, Pro-Built Construction Firm (Pro-Built)
+for construction of a police station in Atghar District, Zabul Province, Afghanistan. The
+Corps did not issue a notice to proceed before terminating the contract for the
+convenience of the government in March 2012. In March 2012 Pro-Built first submitted
+a termination for convenience settlement proposal. In March 2014, following several
+revisions, and a Defense Contract Audit Agency (DCAA) audit, Pro-Built submitted a
+certified claim of roughly $1.1 million. In a final decision dated 4 April 2014, the Corps'
+contracting officer issued a unilateral determination that Pro-Built was entitled to
+$48,972. Pro-Built timely appealed that final decision to this Board. We sustain the
+appeal in part.
+
+                                 FINDINGS OF FACT
+
+ I.    The Contract
+
+       1. The U.S. Army Corps of Engineers Afghanistan District North issued a
+Multiple Award Task Order Contract (MATOC) No. W5J9JE-10-D-0016 to Pro-Built
+on 18 March 2010 (R4, tab 3). On 31July2011 the Corps awarded Task Order
+No. 0009 (the contract or task order 9) in the amount of $4,976,022.32 to Pro-Built
+(R4, tab 16). Pro-Built performed other task orders pursuant to the MA TOC in other
+parts of Afghanistan (tr. 1144, 60).
+
+        2. Task order 9 was a firm-fixed-price contract for the design and construction
+of an Afghanistan National Police Uniformed Police District Headquarters Compound
+in Atghar District, Zabul Province (R4, tabs 16-17). The contract required site
+adaption and construction including an administration building, a well house, guard
+shacks, guard towers, barracks buildings, women's barracks, a Criminal Investigative
+Directorate/Family Response Unit building, a water tower and tank, a fuel storage
+facility, a vehicle refuel point, septic tank, perimeter security wall, and primary and
+secondary entry control points (R4, tab 1 at 5, tab 13 at 65). The contract required
+approval of a security plan before the contractor could start work on the project site,
+and submission of a quality control plan not later than five days after the notice to
+proceed (R4, tab 13 at 131, 219).
+
+        3. The contract had a performance period of 365 days from receipt of the notice
+to proceed (R4, tab 17 at 14). Although the Corps informed Pro-Built that it planned
+to issue the notice to proceed at the Pre-construction Conference (R4, tab 16 at 1), the
+notice was never issued (R4, tab 1 at 5).
+
+      4. Relevant to this appeal, the contract contained Federal Acquisition
+Regulation (FAR) 52.211-10, COMMENCEMENT, PROSECUTION, AND COMPLETION OF
+WORK (APR 1984) (R4, tab 17 at 14).
+
+     5. The contract also contained FAR 52.249-2, TERMINATION FOR
+CONVENIENCE OF THE GOVERNMENT (FIXED-PRICE) (MA y 2004) which provides that:
+
+              (g) If the Contractor and the Contracting Officer fail to
+              agree on the whole amount to be paid because of the
+              termination of work, the Contracting Officer shall pay the
+              Contractor the amounts determined by the Contracting
+              Officer as follows ... :
+
+
+              (2) The total of -
+
+              (i) The costs incurred in the performance of the work
+              terminated, including initial costs and preparatory expense
+              allocable thereto, but excluding any costs attributable to
+
+
+                                           2
+              supplies or services paid or to be paid under subparagraph
+              ( f)( 1) of this clause;
+
+              (ii) The cost of settling and paying termination settlement
+              proposals under terminated subcontracts that are properly
+              chargeable to the terminated portion of the contract if not
+              included in subdivision (g)(2)(i) of this clause; and
+
+              (iii) A sum, as profit on subdivision (g)(2)(i) of this clause,
+              determined by the Contracting Officer under 49.202 of the
+              Federal Acquisition Regulation, in effect on the date of this
+              contract, to be fair and reasonable; however, if it appears
+              that the Contractor would have sustained a loss on the
+              entire contract had it been completed, the Contracting
+              Officer shall allow no profit under this subdivision (iii) and
+              shall reduce the settlement to reflect the indicated rate of
+              loss.
+
+(R4, tab 3 at 53-55)
+
+       6. The contract provided for liquidated damages of $1,579.00 from Pro-Built
+per calendar day of delay of completion of the contract beyond the 365-day
+performance period (R4, tab 17 at 14).
+
+       7. The contract also included a provision entitled "Sequence of Design-Construction
+(Fast-Track)" providing:
+
+              After receipt of the Contract Notice to Proceed (NTP) the
+              Contractor shall initiate design, comply with all design
+              submission requirements and obtain Government review of
+              each submission. The contractor may begin construction
+              on portions of the work for which the Government has
+              reviewed the final design submission and has determined
+              satisfactory for purposes of beginning construction. The
+              Contracting Officer will notify the Contractor when the
+              design is cleared for construction.
+
+(R4, tab 13 at 197)
+
+       8. The contract scope of work provided in~ 3.1.1 "Design Concept
+Coordination Meeting" that, shortly after the notice to proceed, the government or
+contractor could suggest a meeting to review the design submittal process (R4, tab 13
+
+
+                                             3
+at 189). The scope of work described the design submittal process, including~ 3.8.2
+"Sequence of Design-Construction (Fast-Track)" which provided that the contractor
+could begin construction on portions of the project for which the government had
+approved the submittals while other portions of the design were still being reviewed
+(id. at 197). The scope ofwork specification also contained~ 3.8.5 "Commencement
+of Construction" which provided that commencement of construction prior to the
+notice to proceed would "be at the Contractor's own risk and expense" (id. at 197).
+
+       9. The DD Form 1155 awarding Task Order No. 9 to Pro-Built provided for
+the base bid proposal line items that, "THIS DOES NOT CONSTITUTE YOUR
+NOTICE TO PROCEED" (R4, tab 17 at 6). The same warning was included for the
+optional bid line items (id. at 7).
+
+       10. The Notice of Award letter advised Pro-Built that it was required to
+account for "all contractor personnel, to include subcontractors and vendors,
+performing services under this contract in the U.S. [Central Command] Area of
+Responsibility" in the Synchronized Pre-deployment Operational Tracker (SPOT) (R4,
+tab 16 at 1). The letter provided that SPOT registration demanded Pro-Built's
+"immediate attention in advance of the preconstruction conference" and additionally
+required Pro-Built to "enter 'all' your personnel under this contract within ten ( 10)
+calendar days from the date of this letter" (R4, tab 16 at 1-2).
+
+        11. Mr. Ismail Amiri, managing consultant and acting chief executive officer
+for Pro-Built testified that he was familiar with the SPOT system and that the contract
+required Pro-Built to identify its employees within ten days (tr. 1/66-67). However,
+Mr. Amiri testified that usually after receiving an award Pro-Built would enter three or
+four names into the SPOT system and that this was acceptable to the contracting
+officer (tr. 1/67). Mr. Amiri was unable to recall if any employees were entered into
+the SPOT system for task order 9 (tr. 1167-68).
+
+        12. Mr. Amiri described the site conditions in Zabul Province, Afghanistan
+as dangerous, the center of activities of the insurgents and a "very non-secure area"
+(tr. 1120-21 ). He further testified that it was difficult to find qualified subcontractors
+and laborers in 2011 because of booming construction in Afghanistan and because of
+security issues. Mr. Amiri testified that qualified subcontractors and qualified staff
+would prefer to work in other areas of Afghanistan where it was more secure and there
+were projects available. (Tr. 1/23) Mr. Amiri testified that, due to the labor market
+conditions, Pro-Built assembled a team of workers before the notice to proceed
+because, "[i]f you do not have a dedicated team concentrating on the project from the
+start, you will never be able to finish it" (tr. 1149). Mr. Amiri also testified that he
+anticipated receiving the notice to proceed one month after the contract award (tr. 1125).
+
+
+                                            4
+       13. Mr. Amiri noted that the number of employees retained at the start of a
+project varied depending on the complexity of the project and location (tr. 1192-93).
+Mr. Amiri additionally testified that "the construction never started" and that "if you
+would start the construction we would hire maybe 150 to 200 more, you know,
+laborers, you know. We did not hire them." {Tr. 1/69, 81) Mr. Amiri testified that the
+timekeeper was responsible for keeping track of equipment use and not employee
+hours (tr. 1180-81 ). Additionally, Mr. Amiri testified that, the security manager was
+responsible for performing security analysis and to consider threats to Pro-Built's staff,
+but was not the person actually carrying a rifle (tr. 1186-87).
+
+        14. Mr. Amiri testified that the normal employment practice in Afghanistan is
+to hire workers on a monthly basis, with a minimum contract of one month, and
+requiring a minimum of one month notice before terminating an employee (tr. 1134 ).
+
+       15. While waiting for the notice to proceed, Pro-Built prepared its
+pre-construction submittal, quality control plan, accident prevention plan, and security
+plan. It also sent staff and subcontractors to see the site, talk with the local people and
+talk with the village elders, and considered elements for the design including building
+codes and specifications. {Tr. 1126-27)
+
+        16. In an email dated 24 October 2011, the government's project engineer,
+Mr. Ron Rodriguez informed Pro-Built that the pre-construction meeting would take
+place on 29 October 2011. He indicated that only Pro-Built's major subcontractors
+needed to attend the meeting, and informed Pro-Built that he anticipated issuing the
+notice to proceed after the meeting. (App. supp. R4, tab A-2)
+
+        17. On 29 October 2011, Pro-Built attended the pre-construction meeting that,
+among other things, identified the government personnel for the project, explained
+their roles and responsibilities, and provided their contact information (R4, tab 22
+at 8-13, 53).
+
+        18. On 12 November 2011, Pro-Built emailed Mr. Rodriguez requesting a
+meeting regarding progress of the project. Mr. Rodriquez responded the same day:
+"[ u]nfortunately we have not been given direction from the Area Office on the way
+forward for the [district headquarters]. We cannot schedule a mutual understanding
+meeting at this time. I will notify you as soon as the Project Office receives a directive
+from the Area Engineer and Project Manager." (App. supp. R4, tab A-3)
+
+       19. On 18 December 2011, Pro-Built emailed Mr. Rodriguez, writing that it
+had been more than a month since Pro-Built had submitted its pre-construction
+submittals. Pro-Built referred to the 14-day response time provided for in the request
+
+
+                                             5
+ for proposal, and stated it was looking ahead to receive the notice to proceed. (App.
+ supp. R4, tab A-5)
+
+        20. On 19 December 2011, Mr. Rodriguez responded to the 18 December
+ email, stating that "[t]he Area Office is working on a possible reduction in the scope of
+ work. I will keep you informed of anticipated notice to proceed issue date." (App.
+ supp. R4, tab A-5)
+
+ II.     Termination For Convenience
+
+         21. On 15 January 2012, the NATO Training Mission-Afghanistan,
+ Combined Security Transition Command-Afghanistan, Afghanistan National Police
+ Infrastructure Branch Chief asked the Corps to terminate task order 9 for convenience
+ of the government due to "negative security conditions" (R4, tab 23).
+
+       22. On 4 March 2012, the Corps' contracting officer issued Serial Letter
+·No. C-0003 to Pro-Built, terminating task order 9 for the convenience of the
+ government pursuant to FAR 52.249-2 (R4, tab 25).
+
+ III.    Pro-Built's Termination For Convenience Claim
+
+        23. On 8 March 2012, four days after the termination for convenience,
+ Pro-Built submitted a termination for convenience settlement proposal 1 (R4, tab 1
+ at 5). On 1 April 2012, the Corps informed Pro-Built that its settlement proposal was
+ inadequate (R4, tab 26). Pro-Built subsequently submitted a revised proposal dated
+ 28 February 2013, in the amount of $1,133,243. By letter dated 11 March 2013, the
+ Corps informed Pro-Built that its revised settlement proposal was deficient. (R4,
+ tab 30) Pro-Built issued a third settlement proposal in the amount of$1,l 15,418 on
+ 25 March 2013, which the Corps again determined to be deficient (R4, tab 2).
+
+        24. On 5 September 2013, DCAA issued Audit Report No. 2241-2013Al7100007
+ concerning Pro-Built's 25 March 2013 termination for convenience settlement proposal
+ (R4, tab 32).
+
+       25. The DCAA audit report questioned the entire $1,115,418 proposed by
+Pro-Built as unallowable pursuant to FAR 31.201-2, Determining allowability,
+because Pro-Built did not comply with the FAR 52-211-10, Commencement,
+Prosecution, and Completion of Work clause when it incurred costs, prior to receiving
+the notice to proceed (R4, tab 32 at 7-8).
+
+
+ 1
+     Pro-Built's 8 March 2012 settlement proposal is not included in the record.
+
+
+                                              6
+       26. The DCAA audit report also concluded that it was "unreasonable" for
+Pro-Built to have incurred any costs, other than to meet bond, insurance, or
+administrative requirements, prior to receiving the notice to proceed; that Pro-Built did
+not have a formal accounting system; that Pro-Built's proposal was not an acceptable
+basis for settlement; and that Pro-Built had not properly calculated its General and
+Administrative (G&A) costs (R4, tab 32 at 4-8).
+
+       27. The DCAA audit also questioned Pro-Built's direct labor and subcontractor
+costs as unreasonable, in part because Pro-Built failed to submit subcontractor
+settlements to the contracting officer for ratification (R4, tab 32 at 9). The audit noted
+that Pro-Built's direct labor costs were based on pay slips and employment agreements,
+and that the signed pay slips included the project name among other information.
+DCAA did not question the direct labor costs for lack of supporting documentation. Id.
+In addition, the DCAA audit questioned Pro-Built's claimed profit as unallowable
+anticipatory profit (id.).
+
+       28. By letter dated 30 January 2014, the contracting officer offered to settle the
+termination for convenience claim, recognizing Pro-Built's costs "properly incurred
+and supported in meeting bond, insurance and other administrative requirements" (R4,
+tab 33). Pro-Built rejected the Corps' offer (R4, tab 2 at 2).
+
+       29. By letter dated 27 February 2014, the contracting officer increased his
+settlement offer to $48,972, and provided that the offer would expire on 17 March
+2014 (R4, tab 34). Pro-Built did not accept the offer by the 17 March 2014 deadline
+(R4, tab 2 at 2).
+
+        30. On 31March2014 Pro-Built submitted a certified claim seeking $1,115,418
+in settlement costs, and provided certain supporting documentation (R4, tab 35).
+
+      31. On 4 April 2014, the contracting officer issued a settlement by
+determination 2 in the amount of$48,972, pursuant to FAR 49.109-7(d) (R4, tab 2).
+
+       32. On 9 April 2014, the contracting officer issued Modification No. 02 to task
+order 9, definitizing the settlement by determination of $48,972 (R4, tab 19).
+
+
+2   A settlement by determination is a unilateral decision by the contracting officer
+         establishing a termination settlement amount when the parties are unable to
+         come to a mutual agreement. This determination is a contracting officer's
+         decision, subject to the contract's disputes clause. FAR 49.109-7(d).
+
+
+                                             7
+        33. On 23 April 2014 the Corps responded to Pro-Built's 31March2014
+certified claim informing Pro-Built that the 4 April 2014 settlement determination was
+the final decision of the contracting officer (R4, tab 36).
+
+ IV.   Litigation Before the Board
+
+       34. Pro-Built timely appealed to the Board on 28 April 2014 (R4, tab 1).
+
+       35. Pro-Built subsequently proffered to the Board an expert report by
+James L. McGovern, Certified Public Accountant/Certified in Financial Forensics,
+Certified Valuation Analyst dated 25 June 2015 (app. supp. R4, tab A-9). Mr. McGovern
+reviewed documentation, including staff salary slips, for the project and communicated
+with Mr. Ismail Amiri and a second Pro-Built employee, Mr. Farzad Farzam (app. supp.
+R4, tab A-9 at 38; tr. 11102-03). At the hearing in June 2016, Mr. McGovern was
+admitted as an expert in government contract cost accounting (tr. 1/104).
+
+       36. The expert report indicated that Pro-Built had a rudimentary accounting
+system built on Excel spreadsheets similar to systems used by other small,
+unsophisticated contractors. Pro-Built's practice was to track each project's costs
+using spreadsheets for labor, materials, subcontractors, and equipment utilized on each
+project. The accounting for each project would then be rolled up into formal financial
+statements for the company. (App. supp. R4, tab A-9 at 32-33) Because the contract
+did not specify the use of any particular accounting system, Mr. McGovern opined that
+it was unreasonable for the DCAA audit to have expected Pro-Built to have
+"conducted business and maintained records according to standards not commonly
+practiced by small Afghani companies" (app. supp. R4, tab A-9 at 33).
+
+       37. Formal financial statements for Pro-Built were prepared and audited by
+Akram and Company, a chartered accounting firm in Afghanistan (app. supp. R4,
+tab A-9 at 33, 372-409). The audited financial statements were initiated at the
+suggestion of Mr. McGovern and are dated May and June 2014, after the
+commencement of this litigation (app. supp. R4, tab A-9, ex. D; tr. 1/113).
+
+       38. In his expert report, Mr. McGovern stated that the common practice in
+Afghanistan, followed by Pro-Built, was to hire project personnel by employment
+contracts specific to each project and to pay them monthly salaries without requiring
+detailed time sheets. Similarly, subcontracts did not require formal documentation of
+each dollar spent. (App. supp. R4, tab A-9 at 34) Mr. McGovern also provided his
+expert opinion, based upon his work with other contractors in Afghanistan, that
+assembling a dedicated project team for each project was common practice in
+Afghanistan (id. at 36).
+
+
+                                           8
+       39. Mr. McGovern concluded that Pro-Built was entitled to $816,273 under the
+contract (app. supp. R4, tab A-9 at 50). Mr. McGovern attached a revised settlement
+proposal form SF 1436 to his expert report, detailing the $816,273 amount (id. at 52-55).
+
+       40. The settlement proposal includes direct labor of $416,715.83. Exhibit A to
+the expert report breaks out the claimed categories of direct field labor and the
+monthly salaries for these positions. The categories as set forth in the proposal are:
+
+             •       driver                       $500
+             •       security manager            $3,000
+             •       surveyor                    $2,500
+             •       logistic officer            $2,000
+             •       mechanical engineer         $5,500
+             •       procurement officer         $1,200
+             •       survey helper               $1,000
+             •       electrical engineer         $5,000
+             •       safety officer              $1,200
+             •       cook                          $500
+             •       construction manager        $4,500
+             •       civil engineer              $5,000
+             •       qc manager                  $4,500
+             •       project scheduler           $5,000
+             •       safety officer              $2,500
+             •       admin manager               $2,300
+             •       project manager             $9,000
+             •       project doctor              $1,800
+             •       site engineer               $3,000
+             •       time keeper                 $1,200
+
+(App. supp. R4, tab A-9 at 57)
+
+        41. Mr. McGovern reduced Pro-Built's $741,394 direct labor claim in the
+earlier settlement proposal to eliminate the costs of employees who he determined
+could work on other projects and to move subcontractor costs to a separate category
+(app. supp. R4, tab A-9 at 38). Notwithstanding these reductions, there remain a
+number of questionable employee costs in Mr. McGovern's report as set forth
+immediately, below.
+
+       42. Pro-Built's settlement proposal claims the salary of Mr. Javed Shahab as
+quality control manager from August 2011 through March 2012; however, on
+9 October 2011, Pro-Built submitted its quality control plan, listing other individuals
+
+
+                                            9
+as the quality control manager and alternate quality control manager (app. supp. R4,
+tab A-9, ex. A; R4, tab 21at25-33; tr. 1175-76).
+
+        43. Pro-Built's settlement proposal claims the salary of Mr. Habib Rahman as
+construction manager for the project from August 2011 through October 2011;
+however, on 9 October 2011, Pro-Built submitted its quality control plan, listing
+Rohullah Nazari as construction manager (app. supp. R4, tab A-9, ex. A; R4, tab 21
+at 34).
+
+       44. Pro-Built's settlement proposal claims the salary of Mr. Wahab Gui as
+timekeeper from August 2011 through March 2012; however no records were kept of
+Pro-Built employees' time working under the contract (app. supp. R4, tab A-9, ex. A;
+tr. 1179-81). Mr. Amiri testified that Mr. Gul'sjob as timekeeper involved tracking the
+hourly operation of machinery at the job site (tr. 1/33). However, there was no
+machinery on the job site because the notice to proceed was not issued (tr. 1/80-81 ).
+
+       45. Pro-Built's settlement proposal claims the salary of Mr. Khalid Haqjo as
+project scheduler from August 2011 through October 2011; however, Mr. Haqjo was a
+Pro-Built employee prior to the award of the contract and had supervisory
+responsibilities on other task orders during the performance of the contract (app. supp.
+R4, tab A-9 at 57; tr. 1150, 60-62; exs. DEI, DE2).
+
+        46. Pro-Built's settlement proposal claims 70 percent of the salaries of
+Mr. Bashir Mashal as mechanical engineer and Mr. Haron Jalalzada as civil engineer,
+from August 2011 through March 2012, with the other 30 percent of their time
+devoted to two other contracts; however, Mr. Mashal was a Pro-Built employee prior
+to the award of the contract and worked on all of Pro-Built's projects (app. supp. R4,
+tab A-9 at 57; tr. 1/50, 64-65).
+
+       47. Pro-Built's settlement proposal claims the salary of Mr. Fayaq Ahmad
+as electrical engineer from August 2011 through March 2012; however, Mr. Ahmad
+was a Pro-Built employee prior to the award of the contract and worked on all of
+Pro-Built's projects (app. supp. R4, tab A-9 at 57; tr. 1/52, 64-65).
+
+        48. Pro-Built's settlement proposal claims the salary of Mr. Mohammad Asif
+as safety officer from August 2011 through March 2012; however, Mr. Asif was a
+Pro-Built employee prior to the award of the contract (app. supp. R4, tab A-9 at 57;
+tr. 1/65).
+
+      49. Pro-Built's settlement proposal also included costs for its security
+subcontractor, Arya Security Company (Arya) in the amount of $40,800 for three
+armed security guards at $5, 100 per month, for eight months from August 2011
+
+
+                                           10
+through March 2012; and costs for its construction subcontractor, Najah Tallat
+Construction & Road Building Company (NTCC), in the amount of $200,000
+representing eight employees at a total cost of $25,000 per month for eight months.
+The claimed amount for NTCC represents almost 7% of the subcontract's agreed upon
+fixed price of $2,869,700. (App. supp. R4, tab A-9 at 40, 41, 257-365)
+
+        50. The subcontract between Pro-Built and NTCC was originally executed in
+their native language. The copy of the subcontract in the record is a translation for
+purposes of obtaining a customs clearance. (Tr. 1/85-86) The subcontract provides, in
+a prefatory "Background Information" section, that Pro-Built "intends" to hire NTCC
+(app. supp. R4, tab A-9 at 267). In addition, paragraph 1.3 provides that:
+
+              The following shall be a condition precedent to this
+              Agreement: The project consists of the Design and
+              Construction of UP District Headquarter in Atghar, Zabul,
+              Afghanistan, based on designs, drawings, scope of work
+              and technical requirements and specifications provided by
+              the Contractor and approved by Client. This Work is
+              defined as the management, material, labor, and equipment
+              to construct the facilities and related structures in
+              accordance with the Scope of Work, the Technical
+              Requirements/specifications, commercial terms,
+              construction procedures, quality & safety norms & client's
+              requirements - modifications- suggestions, objections, all
+              back to back applicable as far as the facilities being
+              constructed by the sub-contractor. Part of the work is
+              provision of Spare parts as required by the Client for all
+              systems described above.
+
+(App. supp. R4, tab A-9 at 268)
+
+       51. The settlement proposal also includes Defense Base Act (DBA) insurance
+fees of$17,020, including transfer costs (app. supp. R4, tab A-9 at 41, 367-69).
+
+       52. Mr. McGovern recalculated the G&A expense by dividing G&A expense
+by total direct cost of all contracts, resulting in a rate of 8.7% and a claimed amount of
+$58,533 (app. supp. R4, tab A-9 at 42, 371-409).
+
+       53. The settlement proposal additionally applies a 10% profit rate (app. supp.
+R4, tab A-9 at 42). Mr. McGovern testified that a 10% profit rate was "pretty
+common" given the nature of the work, the difficulty of the type of work and the fact
+
+
+                                            11
+that it was being performed in a war zone where there were "significant security
+issues" (tr. 11118-19).
+
+        54. Finally, the settlement proposal asserts entitlement to settlement expenses
+of $3, 777 in legal and accounting fees, and $6,098 in in-house labor for the finance
+manager and administrator time (app. supp. R4, tab A-9 at 54).
+
+                                      DECISION
+
+        The resolution of this appeal turns upon the reasonableness of the costs incurred
+by Pro-Built in preparation to perform the contract. Pro-Built argues that it was
+necessary to staff portions of the contract before bidding to ensure that it would be
+possible to obtain the necessary people if awarded the contract. Pro-Built cites to
+Afghani business practices and labor market conditions, along with the security
+situation in the Zabul province of Afghanistan as reasons for this approach. Pro-Built
+also asserts that the claimed costs were permissible as the costs were incurred in
+preparing to perform the contract and were not construction costs that would have
+been incurred at Pro-Built's risk prior to a notice to proceed. (App. br. at 9-10)
+
+        Conversely, the Corps alleges that it was unreasonable for Pro-Built to incur
+costs prior to the notice to proceed. The Corps asserts that it was especially
+unreasonable for Pro-Built to incur such costs on this contract because it was a
+design-build contract where Pro-Built would not be able to begin construction until
+design submittals were prepared and approved by the Corps, a process that would take
+several months (gov't br. at 16-18). Additionally, the Corps cites to multiple
+deficiencies in Pro-Built's termination for convenience claim, including Pro-Built's
+failure to enter most or all of the workers for which it seeks reimbursement into the
+SPOT system; the fact that the quality control submittal lists individuals other than
+those included in the termination for convenience claim in certain key roles; the fact
+that individuals identified as working full-time on the contract appear to have done
+work on other Pro-Built projects; and the fact that a number of the identified
+individuals were Pro-Built employees prior to award of the contract (id. at 23-26).
+
+       The Corps terminated Pro-Built's task order for the convenience of the
+government. The termination for convenience of a fixed-price contract "has the
+general effect of' converting the contract into a cost-reimbursement contract. See,
+e.g., New York Shipbuilding Co., A Division of Merritt-Chapman & Scott Corp.,
+ASBCA No. 15443, 73-1BCAiJ9852 at 46,019. The terminated contract thus
+
+
+                                           12
+provides for reimbursement of allowable costs incurred in performing the terminated
+portion of the contract. Id.
+
+        Here, the contract provided that no construction work was to be performed prior
+to the notice to proceed (findings 7-8 ("Any work performed by the Contractor prior to
+receipt of the clearance for construction, shall be at the Contractor's own risk and
+expense.")). As the notice to proceed was not issued, construction costs are not
+reimbursable. However, costs incurred in preparing to perform are reimbursable.
+FAR 49.201(a) ("A settlement should compensate the contractor fairly for the work
+done and the preparations made for the terminated portions of the contract..."). The
+FAR provides that "[ f]air compensation is a matter of judgment and cannot be
+measured exactly.... The use of business judgment, as distinguished from strict
+accounting principles, is the heart of a settlement." FAR 49.20l(a). Additionally, the
+FAR provides that "[c]ost and accounting data may provide guides, but are not rigid
+measures, for ascertaining fair compensation." FAR 49.20l(c).
+
+        Under the proper circumstances, standby labor costs are reimbursable. See
+Bennie J Meeks t/a Lawn Grooming Service, GSBCA No. 6605-REM, 85-2 BCA
+ii 17,947. In Meeks, the General Services Board of Contract Appeals initially
+denied the contractor recovery for most of its expenses in preparing to perform. See
+Bennie J Meeks t/a Lawn Grooming Service, GSBCA No. 6605, 84-1BCAii16,937,
+rev'd758 F.2d 661 (Fed. Cir. 1984). The United States Court of Appeals for the
+Federal Circuit reversed in an unpublished opinion. Meeks v. United States, 758 F.2d
+661 (Fed. Cir. 1984) (table). On remand, in accordance with the Federal Circuit's
+direction to revisit its out of hand rejection of pre-performance costs the General
+Services Board held that the contractor "reasonably concluded that he must begin
+preparing to perform the contract shortly after he knew he would be committed to it"
+and that, the "costs he incurred in hiring, training, and keeping a group of workmen on
+a standby basis were legitimately a part of his gearing-up effort, and he would not have
+incurred them except in anticipation of performing the subject contract." Meeks, 85-2
+BCA ii 17,947 at 89,921, 89,923.
+
+        In this appeal, Pro-Built provided the uncontroverted testimony of Mr. Amiri
+and its expert witness, Mr. McGovern, that workers in Afghanistan are normally
+employed through contracts on a monthly basis, with a minimum term of one month,
+and requiring one month's notice before termination (findings 14, 38). Accordingly,
+we analyze the termination for convenience proposal on that basis. In addition,
+Pro-Built presented the unrefuted testimony of Mr. Amiri and Mr. McGovern's expert
+opinion that it was necessary to retain key employees in advance of bidding for a
+construction project due to the construction labor market and security situation, in
+order to ensure the ability to complete the project. (Findings 12, 38) The Federal
+Circuit has noted that the "standard for assessing reasonableness is flexible, allowing
+[the Board] to consider many fact-intensive and context-specific factors." Kellogg,
+
+
+                                           13
+Brown & Root Services, 728 F.3d 1348, 1360 (Fed. Cir. 2013) (citing FAR 31.201-3).
+Accordingly, we find that Pro-Built incurred costs in preparing to perform and that
+these costs took the form of monthly employment contracts.
+
+       Had the Corps issued the notice to proceed, Pro-Built would have been required to
+build the police station, and, because it was a firm-fixed-price contract, Pro-Built would
+not have been entitled to an adjustment for standby labor costs incurred prior to the notice
+to proceed. Thus, Pro-Built exercised its business judgment and determined that it was in
+the firm's best interest to retain these individuals in advance of the notice to proceed.
+Here, the Corps is simply second guessing the business decisions made by Pro-Built.
+
+        Having determined that Pro-Built incurred costs in preparing to perform and
+that these costs took the form of monthly employment contracts, we tum to the
+reasonableness of the amounts claimed. The Corps does not allege that the monthly
+wages for specific employees are unreasonable, so we allow them. The Corps
+questioned the employment of a timekeeper since no timesheets were kept for the
+workers as they were paid monthly salaries. Mr. Amiri testified that the timekeeper
+would be responsible for keeping track of equipment use once construction began
+(finding 13 ). The Corps questioned the employment of security personnel because the
+subcontract with NTCC also required the construction subcontractor to provide
+security (gov't br. at 25). Mr. Amiri testified that the security manager was
+responsible for performing security analysis and considering threats to Pro-Built's
+staff, but was not the person actually carrying a rifle (finding 13). Mr. Amiri also
+noted that the number of employees retained at the start of a project varied depending
+on the location and complexity of the project (id.). We credit Mr. Amiri's testimony
+and hold that it was reasonable for Pro-Built to retain the twenty listed employees in
+preparation to perform the contract.
+
+       Having determined that Pro-Built reasonably retained these individuals using
+monthly employment contracts, the question is whether it was reasonable to retain
+these individuals for the entire eight-month period from August 2011 through March
+2012. We note that two employees, the construction manager and project scheduler,
+were reassigned to other task orders after three months (findings 43, 45). Additionally,
+Pro-Built allocated 30% of the time for the mechanical engineer and civil engineer to
+other projects (finding 46). For the remaining sixteen employees, Pro-Built includes in
+the settlement proposal 100% of their monthly wages for eight months. We do not
+find these costs to be reasonable.
+
+       Pro-Built is experienced in government contracting, and was performing other
+task orders for the Corps on the same MATOC (finding 1). While it may have been
+reasonable to line-up the key employees in preparation to perform the contract, it was
+not reasonable to continue paying them for eight months without any work being
+
+
+                                           14
+performed. Simply put, it strains credulity to assume that a contractor would pay
+individuals for no work for eight months. Here, the record demonstrates that Pro-Built
+moved some individuals to other task orders after three months and had other
+employees split their time with other task orders through the duration of the contract.
+(Findings 43, 45-46) Moreover, the government demonstrated that some of the
+employees performed work on other task orders (findings 45-47). Additionally, we
+note that a number of the workers were existing Pro-Built employees prior to award of
+the current task order (findings 45-48). Pro-Built, the party with the burden of proof,
+does not explain why these workers could not have been moved to other task orders
+during this period. Moreover, Mr. Amiri's testimony that each of the employees
+worked 100% on the contract is contradicted by the Corps' demonstration that some of
+the workers did work on other projects, and the fact that Pro-Built's pre-construction
+submittals identify individuals other than those identified in the settlement proposal, as
+responsible for certain key tasks. (Findings 42-48)
+
+         Pro-Built alleges that it was reasonable to keep the employees included in the
+settlement proposal on payroll based upon the Corps' continued representations that
+the notice to proceed would be issued shortly (app. supp. br. at 10). However, the
+record does not support such a conclusion. As an initial point, we note that Mr. Amiri
+testified that he expected to receive the notice to proceed one month after being
+awarded the contract (finding 12). The pre-construction conference was not held until
+29 October, some three months after contract award (finding 17). Despite statements
+that the notice to proceed would be issued after the pre-construction conference, two
+weeks after that conference the Corps told Pro-Built that it had "not been given
+direction from the Area Office on the way forward for the [district headquarters]" and
+that it could not schedule further meetings (finding 18). In December, the Corps
+informed Pro-Built that the Area Office was considering a reduction in scope of the
+project (finding 20). Pro-Built was performing a fixed-price contract and a reasonable
+contractor, even in Afghanistan, would separate workers or shift workers to other task
+orders rather than paying workers to standby for eight months.
+
+       Pro-Built cites to the 365-day performance period as an aggressive schedule
+requiring it to be staffed-up and ready to begin construction as soon at the notice to
+proceed was issued (app. br. at 9). However, as the Corps notes (gov't hr. at 21), the
+liquidated damages pursuant to the contract were $1,579 per day, but Pro-Built's
+payroll for standby labor was $1,680 per day for its own direct labor3 (findings 6, 40).
+
+
+3   The Corps' calculation here is actually conservative in that it does not consider the
+        per day cost of subcontractor labor. Adding the claimed subcontractor labor
+        would add roughly $1,000 per day to the standby costs. (App. supp. R4,
+        tab A-9 at 53)
+
+
+                                             15
+Thus, financially, Pro-Built would have been better-off risking the liquidated damages
+rather than paying for standby labor.
+
+        The Corps also alleges that Pro-Built "had outstanding submittals that were
+required for [the notice to proceed] for several months after contract award" and that
+this is evidence that Pro-Built failed to demonstrate that its staffing was reasonable or
+that the claimed expenses were allocable to the project (gov't reply br. at 2). 4
+However, the Corps' argument finds no support in the record as the security and
+quality control submittals were not required prior to the notice to proceed. The
+contract required approval of a security plan before the contractor could start work on
+the project site, but it was not explicitly a prerequisite to receiving the notice to
+proceed (finding 2). In addition, the submission of a quality control plan was required
+not later than five days after the notice to proceed (id.). Regardless, Pro-Built did
+submit these plans, and the Corps did not timely review the submissions (finding 19).
+
+       The Corps additionally asserts that "Pro-Built has not met its burden to show that
+these alleged employees were paid" based upon asserted "credibility problems" with
+Mr. Amiri's testimony (gov't reply br. at 6). However, even ignoring Mr. Amiri's
+testimony, Mr. McGovern's expert report indicated that he reviewed the staff salary
+documentation (finding 35) and the salary records and employment agreements (which
+we have reviewed and are extensive) that were included in Mr. McGovern's expert
+report (app. supp. R4, tab A-9 at 58-255). 5
+
+        The Board's task of determining the reasonableness of the costs incurred is
+complicated by the parties' all-or-nothing litigation strategies. Pro-Built asserts that
+all eight months of costs were reasonable and the Corps asserts that none of the costs
+were reasonable. As neither party proposed a basis for determining a reasonable
+period for Pro-Built to keep workers under contract, it is up to the Board to determine
+a reasonable amount. Given the totality of the evidence, we conclude that a reasonable
+contractor in Afghanistan would have reassigned workers to other contracts, or
+separated the employees, not later than three months after award. In fact, Pro-Built
+moved two of its workers to other projects at this time (findings 43, 45), demonstrating
+that Pro-Built was concerned with incurring salary costs without any construction
+work being performed. Given that Mr. Amiri expected to receive the notice to proceed
+one month after award, this provides for two additional months of standby labor,
+which we find to be reasonable based on the facts of this appeal. We have considered
+the evidence that some workers performed work on other task orders but are charged
+
+
+4
+    The Corps' reply brief does not have page numbers.
+5 Moreover, we note that DCAA reviewed the salary records and employment
+
+        agreements and did not question the costs on the basis that they had not been
+        paid (finding 27).
+
+
+                                            16
+100% to this contract, and that the names of the workers in the settlement proposal do
+not match the names of individuals included in Pro-Built's contractual submissions
+(findings 42-48), but this does not change our conclusion. Thus, we find that Pro-Built
+is entitled to $173,965 .83 6 for its direct labor from August 2011 through October 2011.
+{App. supp. R4, tab A-9 at 57)
+
+        Having determined that Pro-Built is entitled to three months of pay for its direct
+employees, we tum to Pro-Built's subcontractor costs. Pro-Built claims $40,800 in
+subcontractor direct labor for its security subcontractor, Arya, and $200,000 for direct
+subcontractor labor for its construction subcontractor, NTCC. Pro-Built asserts that it
+was necessary to assemble a dedicated team at the start of the contract to ensure their
+availability and that the settlement proposal includes only direct labor retained by the
+subcontractor. (App. br. at 4, 10) As with its challenges to Pro-Built's direct labor,
+the Corps again asserts that it was unreasonable for Pro-Built to retain subcontractors
+before the notice to proceed (gov't br. at 24). The Corps additionally challenges the
+costs because the language of the subcontract with NTCC purportedly indicated only
+that the parties intended to enter into a contract, and because Pro-Built's provision of
+approved plans to NTCC was a condition precedent to the contract, and that provision
+was not met (gov't br. at 25-26).
+
+        We agree with Pro-Built that the language contained in the NTCC subcontract
+providing that Pro-Built "intends" to hire NTCC (finding 50) is simply a prefatory
+comment providing the reason for the formal agreement that follows (app. reply at 5).
+The Corps' argument that the subcontract was not effective because the condition
+precedent of delivery of drawings was not met fares no better. Mr. Amiri testified that
+Pro-Built initially entered into an agreement with NTCC in their native language. The
+subcontract in the record is a translation of the agreement into English for the purpose
+of obtaining a customs clearance. (Finding 50) While the subcontract contains the
+term "condition precedent" it does not appear that the term is being used in the legal
+sense. The translated clause, read as a whole, requires NTCC to build the entire
+headquarters based on whatever design is ultimately submitted by Pro-Built and
+approved by the Corps. (Id.) We do not read the language of the clause as setting
+forth a legal condition precedent, that is, an act or event that must occur before a duty
+to perform arises.
+
+       As with Pro-Built's direct labor, we find that a reasonable contractor would
+have terminated or renegotiated subcontracts after three months. Here, Arya was paid
+
+
+6   This amount is based on Pro-Built's payroll records and is slightly lower than three
+         times the monthly salaries in finding 40 because the monthly salaries for two
+         employees were partially allocated to other contracts (finding 46) and due to
+         some minor payroll differences in certain months.
+
+
+                                             17
+$15,300 for the first three months of security (app. supp. R4, tab A-9 at 257). NTCC
+billed $25,000 per month, which would total $75,000 for the first three months. This
+results in a total subcontract cost of $90,300.
+
+       The Corps does not dispute, and has already paid Pro-Built for its DBA
+insurance cost of $17,020. Pro-Built additionally claims overhead, profit and its costs
+in preparing the settlement proposal.
+
+        Pro-Built asserts entitlement to 8. 7% of its direct costs for G&A expenses. The
+Corps' post-hearing brief includes a proposed fact noting that Mr. McGovern
+calculated the G&A expense rate using financial reports that were prepared for the
+purposes of litigation, but does not include any argument on this point (gov't br. at 50).
+As the contract did not require Pro-Built to maintain such records, and because the
+Corps does not present any argument that the calculations are incorrect, we find that
+Pro-Built is entitled to 8.7% of G&A expenses. Similarly, the Corps does not
+challenge the use of a 10% rate of profit on the contract, and we find the proposed rate
+to be reasonable. However, we note that FAR 49.202(c)(3) prohibits profit on
+settlements with construction subcontractors for "preparations made to complete the
+work." As the notice to proceed was not issued, we find that Pro-Built is not entitled
+to profit on NTCC's subcontract costs. See Singleton Enterprises v. Dept. of
+Homeland Security, CBCA No. 2771, 12-2 BCA ~ 35,139 at 172,508. Accordingly,
+Pro-Built is entitled to $24,471.87 in G&A expense and $23,075.77 in profit. As a
+final point, the Corps argues that Pro-Built should not recover profit pursuant to the
+allowance for loss provision, FAR 49.203. The burden for demonstrating that
+Pro-Built would have lost money performing the contract falls on the Corps. Systems
+& Computer Information, Inc., ASBCA No. 18458, 78-1BCA~12,946 at 63,131.
+Here the Corps provides no analysis, other than a statement by counsel, in support of
+its theory that Pro-Built would have lost money performing the contract. Accordingly,
+we find that the Corps has not met its burden, and award profit to Pro-Built. Finally,
+the Corps does not challenge Pro-Built's claim for settlement costs of $9,875 for legal
+and accounting fees and in-house labor which we find to be reasonable. Thus
+summing Pro-Built's allowable direct labor, subcontract costs, DBA insurance, G&A
+and profit. Pro-Built is entitled to recover $338,708.47. After deducting the $48,972
+already paid Pro-Built, it is entitled to recover $289,736.47.
+
+
+                                            18
+                                    CONCLUSION
+
+        In addition to the amount already paid pursuant to the contracting officer's
+settlement by determination, we sustain Pro-Built's appeal in the amount of
+$289,736.47 with CDA interest to run from 31 March 2014, the date of Pro-Built's
+certified claim.
+
+       Dated: 1 June 2017
+
+
+                                                  DAVID D' ALESSANDRJS
+                                                  Administrative Judge
+                                                  Armed Services Board
+                                                  of Contract Appeals
+
+                                                  I concur
+
+
+ RJCHARDSHACKLEFORD                               J.          OUTY
+ Administrative Judge                             Administrative Judge
+ Acting Chairman                                  Acting Vice Chairman
+ Armed Services Board                             Armed Services Board
+ of Contract Appeals                              of Contract Appeals
+
+
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA No. 59278, Appeal of
+Pro-Built Construction Firm, rendered in conformance with the Board's Charter.
+
+       Dated:
+
+
+                                                  JEFFREY D. GARDIN
+                                                  Recorder, Armed Services
+                                                  Board of Contract Appeals
+
+
+                                           19

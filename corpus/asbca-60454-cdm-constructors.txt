@@ -1,0 +1,1180 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeals of --                                 )
+                                              )
+CDM Constructors, Inc.                        )      ASBCA Nos. 60454, 60455, 60669
+                                              )
+Under Contract No. W912PL-12-C-0022           )
+
+APPEARANCES FOR THE APPELLANT:                       Bret S. Wacker, Esq.
+                                                     Jeffrey M. Gallant, Esq.
+                                                     Emily J. Baldwin, Esq.
+                                                      Clark Hill PLC
+                                                      Detroit, MI
+
+APPEARANCES FOR THE GOVERNMENT:                      Michael P. Goodman, Esq.
+                                                      Engineer Chief Trial Attorney
+                                                     John F. Bazan, Esq.
+                                                     Gilbert H. Chong, Esq.
+                                                     Brian M. Choe, Esq.
+                                                      Engineer Trial Attorneys
+                                                      U.S. Army Engineer District, Los Angeles
+
+                 OPINION BY ADMINISTRATIVE JUDGE SWEET
+
+       Appellant CDM Constructors, Inc. (CDM) 1 appeals the decision of the
+contracting officer (CO) denying its request for an equitable adjustment (REA), and the
+deemed denial of an REA. All three appeals concern the design and construction of a
+water treatment plant (WTP). 2
+
+       ASBCA No. 60454 addresses the WTP's evaporation ponds (EPs), alleging that
+CDM is entitled to an equitable adjustment and delay damages. In particular, CDM
+alleges that the Army Corps of Engineers (Corps) constructively changed the contract
+by compelling it to include one backup EP, to use a three million gallon per day (mgd)
+average daily flow (ADF), and to use a 0.8 pan evaporation coefficient only if the
+maximum water depth was three feet or less. (App. br. at 44-53)3 The Corps argues
+
+1
+  CDM Constructors, Inc. 's parent company was CDM Smith. CDM Smith was
+       responsible for design, and CDM Constructors, Inc. was responsible for
+       construction (tr. 1/38). We refer to CDM Constructors, Inc. and CDM Smith
+       collectively as "CDM."
+2
+  This decision only addresses entitlement.
+3
+  The ASBCA No. 60454 complaint also alleges that there was a cardinal change,
+       defective specifications, and breach of a covenant of good faith and fair dealing
+
+
+                                                                                                 I
+that the contract required those design elements (gov't br. at 22-24 ). For the reasons
+discussed below, the Corps is correct about the backup EP, but not the ADF,
+evaporation coefficient, and water depth. Therefore, CDM is entitled to an equitable
+adjustment for any increased costs incurred as a result of having to use the Corps'
+ADF, evaporation coefficient, and water depth, but not as a result of having to provide
+a backup EP.
+
+        ASBCA Nos. 60455 and 60669 address the standby generator (generator),
+alleging that CDM is entitled to an equitable adjustment under the Changes clause
+because the contract contained defective specifications. 4 In particular, CDM alleges that
+the Corps improperly rejected its design, which followed concept drawings in the
+contract. (App. br. at 53-58) The Corps responds that the contract did not require CDM
+to follow the concept drawings, which, in any event, were trumped by conflicting
+contract provisions. For the reasons discussed below, CDM is correct. Thus, CDM is
+entitled to an equitable adjustment for any increased costs incurred as a result of the
+defective specifications.
+
+                                FINDINGS OF FACT
+
+I. Facts Common to All Appeals
+
+       1. On May 24, 2012, the Corps issued Request for Proposal No. W912PL-12-R-0018
+(0018 RFP), for the design and construction of a WTP at Fort Irwin, California (R4, tab 9;
+tr. 1/43, 4/126).
+
+       2. Under the 0018 RFP, it was CDM's responsibility to "design and construct
+the [WTP] as described in the Request For Proposal (RFP) Documents contained
+herein" (R4, tab 9 at 1, 729). 5 The RFP documents:
+
+
+        (60454, compl. ,r,r 53-66). However, CDM abandoned those allegations by
+        failing to raise them in its post-hearing brief. United Launch Services, LLC,
+        ASBCA No. 56850 et al., 16-1 BCA ,r 36,483 at 177,765 (failure to address
+        allegations from pleadings in post-hearing brief equated to abandonment of the
+        issue).
+4
+  The ASBCA Nos. 60455, 60669 complaint also alleges that there was a non-disclosure of
+        superior knowledge, mutual mistake, and breach of the covenant of good faith and
+        fai,r dealing (60455, 60669, compl. ,r,r 41-63). However, CDM abandoned those
+        allegations by failing to raise them in its post-hearing brief. United Launch, 16-1
+        BCA ,r 36,483 at 177,765.
+5
+  Citations to the Rule 4 files are to the consecutively-numbered pages unless
+        otherwise indicated.
+
+                                           2
+1
+
+                     [D]escribe[] the design work that shall not be changed, and
+                     shall be included in the construction documents. All
+                     remaining design work shall be performed by the
+                     Contractor based on the design criteria as required by the
+                     RFP. No deviations from the criteria will be allowed
+                     unless prior approval is obtained from the Contracting
+                     Officer's Representative.
+
+    (Id. at 1, 731-32) In particular, "General Design Requirements are contained in
+    [section 01 10 10], with Specific Design Requirements .. .identified in" appendix A (id. at
+    1,729). Section O1 10 10 described "the requirements for appearance, function, materials,
+    and types of construction in sufficient detail to enable engineering and design to be
+    completed by the Contractor" (id. at 1,731). Appendix A "is intended to guide the
+    completion of the design by establishing existing conditions, and desired character,
+    appearance, and function of the new construction" (id. at 1,730). Thus, section 01 10 10
+    and appendix A "shall define the design and performance criteria" (id. at 1,732).
+
+           3. Appendix X contained for information only (FIO) concept drawings from
+    CH2M Hill Constructors, Inc. (CH2M Hill)6 and Southern California Edison (SCE)7
+    (R4, tab 9 at 1,731, 6,679, 7,113), and stated:
+
+                    Information in appendices below [including appendix X]
+                    that are noted for information only (FIO) represent studies,
+                    analyses, and designs previously developed for this project.
+                    This information is made available to the contractor for its
+                    use without any warranty of usefulness or suitability of
+                    purpose.... Drawings and designs included in FIO
+                    appendices shall NOT be considered "Drawings of Record"
+                    or "For Construction". As the designer of record, all design
+                    requirements are the responsibility of the contractor.
+
+    (Id. at 1,730) Similarly, appendix A stated that:
+
+                    The concept drawings of Appendix A and this
+                    specification section indicate processes required by the
+                    DD1391 as well [as] additional requirements. These
+                    concept drawings indicate estimated relationships and
+                    approximate sizes of individual components for the
+                    treatment facility. Drawings have been provided for
+
+    6
+        CH2M Hill was the privatized water operator for Fort Irwin (tr. 1/47).
+    7
+        SCE was the electrical utility serving parts of Southern California, including Fort Irwin
+            (tr. 2/10).
+
+                                                  3
+              information only (FIO) from a 2009 partial design by
+              CH2M HILL Constructors, Inc. of the process required
+              that was based on a Design/Build/Operate business
+              process. See Appendix X. The design and FIO drawings
+              provided do not meet the full requirements of this
+              solicitation. The actual sizing of the tanks, pumps, piping,
+              buildings, etc. shall be determined by the Contractor
+              during his design.
+
+(R4, tab 10 at 9,773)
+
+       4. Section 01 10 10 stated that "[t]he drawings and details provided by SCE
+shall be utilized for pricing of this effort" (R4, tab 9 at 1,785).
+
+       5. Section 01 10 10 also contained the following Order of Precedence clause:
+
+              Where the various elements of the RFP are in conflict, the
+              following priority shall be used to establish precedence,
+              unless specifically noted otherwise:
+              a. Appendices A - I and Technical Specifications, where
+              furnished.
+              b. Section 01 10 10 DESIGN REQUIREMENTS, GENERAL.
+              c. Drawings.
+
+(R4, tab 9 at 1,732)
+
+      6. On August 8, 2012, the Corps awarded Contract No. W912PL-12-C-0022
+(0022 contract) to CDM based upon the 0018 RFP (R4, tab 7).
+
+       7. The 0022 contract contained the Federal Acquisition Regulation (FAR)
+52.243-4, CHANGES (JUN 2007), clause under which the Corps had to provide CDM
+with an equitable adjustment if there was any written or oral direction, instruction,
+interpretation, or determination from the CO that caused a change (R4, tab 7 at 696).
+
+II. Facts Unique to the EvaporatiorJ Ponds Appeal (ASBCA No. 60./54)
+
+      A. Background
+
+       8. A WTP produces wastewater. Because of Fort Irwin's isolated location in
+the desert, there were limited options available for the disposal of that wastewater.
+(Tr. 4/127) However, due to that desert location, it was advantageous to remove the
+liquid component of the wastewater through natural evaporation in EPs, and then to
+haul the remaining solid waste to a landfill. Therefore, the Corps decided to use EPs
+
+
+                                           4
+to deal with the wastewater at Fort ltwin. (App. supp. R4, tab 134 at 173; tr. 1/61-62,
+86-87)
+
+       9. The sizing of the EPs must take account of the fact that the net evaporation
+rate-i.e., the rate at which water evaporates from the EPs minus the rate at which
+water enters the EPs as precipitation-must equal or exceed the rate at which
+wastewater flows into the EPs (inflow) over time (tr. 1/92-93, 2/183, 204, 4/129-30).
+
+        10. The measurement of the EPs' likely evaporation rate starts with a
+determination of the pan evaporation rate. The pan evaporation rate measures the rate at
+which water in a standardized test pan evaporates. That rate accounts for climatic factors
+at that particular location. However, different bodies of water will experience different
+evaporation rates at the same climatic location based upon their size, depth, salinity, and
+water temperature. To account for those characteristics, the pan evaporation rate is
+multiplied by an evaporation coefficient. (R4, tab 4 at 32-33; tr. 1/89-91)
+
+       11. On the other side of the equation, two factors-the ADF and the recovery
+rate-determine the likely inflow. The ADF is the likely average rate per day at which
+water enters the WTP, which is determined by user demand. That ADF is multiplied
+by the remainder of the recovery rate-which is the percentage of the water entering
+the WTP that leaves the WTP as treated water-to determine the likely inflow rate.
+(R4, tab 4 at 31; tr. 1/91-92)
+
+        12. EPs require very little maintenance (tr. 1/85). While EPs can leak, such leaks
+are rare and usually only take a few days to repair. Moreover, it is highly unlikely that
+the EPs will fail completely during the life of the WTP. (Tr. 2/184, 3/30-34) However,
+if the EPs fail or cannot be used for an extended period of time, the result would be
+catastrophic for the WTP and Fort IIWin. Because net evaporation must equal or exceed
+inflows over time, the WTP would have to be shut-down in order to avoid an overflow if
+the EPs did not adequately function over an extended period of time. That, in turn,
+would require Fort IIWin to close. To compound the problem, it would be difficult for
+the Corps to obtain funding for any major repairs. (Tr. 2/204, 4/129-30)
+
+      B. The Contract Documents
+
+              1. Evaporation Pond Sizing and a Standby Evaporation Pond
+
+       13. The contract documents required CDM to design and build EPs (R4, tab 9
+at 2,107). "Actual plant configuration shall be determined by the Contractor" (id.
+at 2,113).
+
+     14. However, the Corps provided concept design requirements. The contract
+documents stated that
+
+
+                                           5
+              Table 8 provides the Government's conceptual design unit
+              requirements. The Government's concept may be
+              incomplete and the Contractor shall provide a complete
+              system. What is identified in Table 8 is the Government's
+              expected minimum unit operations necessary. The
+              Contractor shall meet the quantities in Table 8 as a
+              minimum but additional units, if required to meet the
+              criteria herein, shall be provided.
+
+(R4, tab 9 at 2, 113) Table 8 indicated "NUMBER OF PONDS ... 2 + 1 STANDBY.''
+It did not mention standby capacity. (Id. at 2, 116) 8
+
+        15. The contract documents also indicated that "[a] total of approximately 11 acres
+is allowed for the evaporation ponds as shown in the current layout, without prior approval
+from the [contracting officer representative (COR)]. Any requirement above this area will
+require Government approval and likely revision to the Environmental Assessment (EA)
+before design approval is granted." (R4, tab 9 at 2107)9 Obtaining a revision to an EA was
+a bureaucratic hurdle that could delay the project (tr. 1/116, 4/139).
+
+       16. The CH2M Hill drawings showed three EPs covering a total area of 10.8 acres
+(R4, tab 9 at 6,681, 6,688, 7,077-80, 9,602; app. supp. R4, tab 175).
+
+       17. Reviewing the CH2M Hill drawings in conjunction with Table 8-which was
+derived from the CH2M Hill drawings-a reasonable contractor would have realized that
+one of the three EPs shown in the CH2M Hill drawing was not to be used in day-to-day
+operations. Table 8 showed an overall recovery rate of 99.6 or 99.7 percent. (App. supp.
+R4, tab 101 at 8-9; tr. 4/116, 141)10 At that recovery rate, at most, only two of the three
+
+8
+  The WTP also generates a sludge of lime, which is siphoned off, and pumped to lime
+       sludge lagoons. In the lagoons, the water evaporates from the sludge, and the
+       Corps hauls the solids to a landfill (tr. 1/137-38). Wastewater also is pumped
+       from the lime sludge lagoons to the EPs (tr. 3/92). Table 8 required 1 + 1
+       standby lagoon. It also required standby units for other items, such as cartridge
+       filters, electro dialysis reversal (EDR) membrane treatments, treated water pump
+       stations, lime softening contact clarifiers, lime softening filtrations, reverse
+       osmosis (RO) feed water storage and pump stations, RO cartridge filters, RO
+       systems, and concentrate equalization basins. (R4, tab 9 at 2,114-17)
+9
+  The EA is state approval to build on a certain area of land (tr. 1/115, 2/175).
+10
+   To achieve that recovery rate-which was very high (tr. 1/44)-the Corps
+       contemplated using several consecutive processes to extract usable water.
+       Table 8 delineated the recovery rate for each process. Table 8 shows that the
+       EDR provided a 92 percent recovery rate. Wastewater then went to RO stage 1,
+       which provided an additional 58.8 percent recovery rate. Wastewater then went
+
+                                           6
+EPs shown on the CH2M Hill drawings would be needed to ensure that inflows equaled
+net evaporation (supp. R4, tab 101 at 8-9; tr. 4/127, 170). 11
+
+       18. The 0018 RFP initially required two assessments to evaluate the actual
+daily demand performance and the maximum daily demand performance. Reflecting
+the 99.6 or 99.7 percent recovery rate, the 0018 RFP stated that
+
+              [T]he Contractor shall demonstrate that the design of the
+              WTP material/mass balance achieves a minimum of99.6%
+              recovery efficiency at 6.0 MGD at the given requirements
+              for raw water quality range and treated water quality
+              requirements. For the range of design flows (2.0 to 2.5
+              MGD annual average daily flow; 0.8 MGD minimum daily
+              flow; and 5.4 maximum daily flow), the WTP
+              material/mass balance design shall be designed to exceed a
+              minimum of99% recovery efficiency.
+
+(R4, tab 9 at 2,082; tr. 4/178)
+
+       19. However, the problems arose in this case from the fact that the Corps
+decided to reduce the recovery rate during the solicitation phase, as reflected in
+Amendment 8 (tr. 4/159). Amendment 8 amended the above paragraph to read that:
+
+              [T]he Contractor shall demonstrate that the design of the
+              WTP material/mass balance achieves a minimum of 99-=6%
+              recovery efficiency at 6.0 MGD at the given requirements
+              for raw water quality range and treated water quality
+              requirements. For the raage of design flows (2.0 to 2.5
+              ~4GD 8:BfH:lal aYerage daily flow; 0.8 ~4GD m-inimam daily
+              flo~;.r; and 5. 4 maximam daily flow), the '.VIP
+
+
+       to the RO stage 2, which provided an additional 39.5 percent recovery rate.
+       Wastewater then went to a mechanical evaporator, which provided an
+       additional 85 percent recovery rate. Taken together, that provided a recovery
+       rateofabout99.7percent. (Supp. R4, tab71 at2,114-16, tab 101 at8-9;
+       tr. 4/176, 181)
+11
+   Dr. Beth Gross-CDM's EP expert-opined that the CH2M Hill drawings could not
+       be based upon a 99. 6 or 99. 7 percent recovery rate because, at that recovery
+       rate, only one of the three EPs would be needed to balance inflows and net
+       evaporation (app. supp. R4, tab 180 at 539, tab 187 at 579; tr. 3/18, 72-74).
+       However, that merely shows that CH2M Hill may have conservatively designed
+       the EPs with excess capacity.
+
+                                          7
+              materiatrmass ba:10.flee desigt1: sha:11 be desigt1:ed to exeeed a
+              miaimam of 99% reeo:very effieieaey.
+
+(R4, tab 10 at 10,353) (Strikeout in original) On the one hand, reducing the recovery
+rate benefitted contractors by reducing the risk and cost of designing such an efficient
+WTP. On the other hand, reducing the recovery rate increased the amount of
+wastewater flowing into the EPs. That meant that the contractor had to modify another
+EP parameter-such as increasing the EP surface area-in order to maintain a balance
+between inflows and net evaporation. (App. supp. R4, tab 153 at 236, tr. 1/44,
+4/178-79, 211)
+
+             2. Average Daily Flow
+
+       20. The contract documents did not require CDM to use any particular ADF
+(R4, tab 9).
+
+       21. The contract documents stated that the CH2M Hill drawings were based
+upon a 3.0 mgd ADF. However, the contract documents stated that "[a]s designer's
+collect data and develop the actual system, all numerical data used to support the
+design shall be from the Contractor's inquiries and research." (R4, tab 9 at 2,107)
+
+        22. The contract documents stated that the current ADF was 2.44 mgd, and that
+the ADF in 2010 was 2.26 mgd (R4, tab 9 at 1,727, 4,332). Dr. Beth Gross-CDM's
+EP expert-opined that it was industry standard to use historic flow data to develop
+the ADF (app. supp. R4, tab 180 at 540, tab 187 at 576; tr. 3/40, 43-44, 67-68). We
+find this uncontested testimony credible.
+
+       23. As noted above, Amendment 8 eliminated one reference to the 2.0 to 2.5
+mgd ADF. However, it continued to provide that, in measuring actual daily demand
+performance, "the flowrates ranges include: Average flow in the range of 2.0 to 2.5
+MGD for well production rates; minimum flows at 0.8 MGD[;] and maximum
+flowrates near 5.4 MGD." (R4, tab 10 at 10,354)
+
+             3. Evaporation Coefficient and Water Depth
+
+      24. The contract documents did not require CDM to use any particular
+evaporation coefficient for any particular water depth (tr. 4/192).
+
+
+                                              8
+       C. Performance
+
+       25. After award, CDM submitted several EP designs, including a 10 percent
+design, a 65 percent design, and a 100 percent design (R4, tab 4 at 109). CDM used
+the CH2M Hill drawings to create its EP design, assuming that none of the EPs were
+backup EPs (tr. 2/168).
+
+       26. Dr. Gross opined that it was standard industry practice to construct WTPs
+without a backup EP. Dr. Gross testified that she was unaware of any other WTPs that
+have used a backup EP. (App. supp. R4, tab 180 at 537; tr. 3/25-26) However,
+Dr. Gross conceded that she "could not find any reference in the technical literature to
+a standby pond" (app. supp. R4, tab 180 at 541). Nor had she ever seen another
+contract that has used the term standby EP (tr. 3/116). We find that this term as used
+within the trade does not differ from the standard dictionary definition found in the
+New Oxford American Dictionary, 1699 (3rd ed. 2010), discussed in greater detail
+below.
+
+       27. The 65 percent and 100 percent designs used a 3.0 mgd ADF, a five-foot
+maximum water depth, a three-foot average water depth, and a 0.8 evaporation
+coefficient (R4, tab 4 at 109).
+
+       28. On March 6, 2013, CDM submitted a technical memorandum explaining its
+design. Regarding the evaporation coefficient and water depth, the March 6, 2013
+memorandum explained that
+
+             In general, a conservative factor of 0. 7 is typically used to
+             convert pan data to freshwater "lake" evaporation rates,
+             whereas greater coefficients are used for smaller, shallower
+             ponds. This coefficient generally ranges from 0. 7 to 0.95,
+             depending on the size of the pond or lake (see attached
+             [pages] from "Design Characteristics for Evaporation
+             Ponds in Wyoming"). For purposes of sizing the
+             evaporation ponds, a conservative pan evaporation
+             coefficient of 0.8 was applied by CDM Smith to account
+             for the smaller pond size, shallow depths (generally less
+             than 3 feet) and warm water temperatures (including
+             average discharge temperature to the EPs of 90 [degrees
+             Fahrenheit].
+
+(R4, tab 47 at 14,891) The Design Characteristics for Evaporation Ponds in Wyoming
+report referenced above indicated that a reasonable coefficient for EPs in semi-arid
+conditions was 0.7 to 0.95, depending upon EP size (id. at 14,902). The March 6, 2013
+
+
+                                           9
+memorandum proposed using a five-foot maximum water depth and a three-foot average
+water depth (id. at 14,890-93).
+
+        29. The Corps rejected the 10 percent design, the 65 percent design, the
+100 percent design, and the March 6, 2013 technical memorandum (supp. R4, tab 105
+at 73; tr. 4/123, 133-34). In particular, the Corps rejected the evaporation coefficient.
+Moreover, the Corps rejected the designs and memorandum because they lacked a
+backup EP-meaning an EP that was operational, but not in use unless or until there was
+an emergency. 12 (R4, tab 40; supp. R4, tab 105 at 73, tr. 1/112-13, 118, 2/194)
+
+       30. Converting one of the three EPs to a backup EP, while maintaining three
+equally-sized EPs, would have required CDM to increase the surface area to 17.2
+acres, which would have exceeded the EA (app. supp. R4, tab 175; tr. 1/113-15).
+
+     31. After several discussions, CDM submitted a revised 100 percent design in a
+May 17, 2013 memorandum (R4, tab 37; tr. 1/117-21).
+
+        32. The May 17, 2013 memorandum proposed three EPs-with one being
+rotated out of service every year-on 11 acres. To achieve those parameters, CDM
+reduced the ADF from 3.0 mgd to 2.25 mgd. The justification the May 17, 2013
+memorandum offered for using the 2.25 mgd ADF was that it was "mid '2.0 to 2.5
+MGD' from Appendix A." (R4, tab 36 at 14,503-07; tr. 1/121-24) Dr. Gross opined
+that it was reasonable for CDM to decrease the ADF from 3.0 mgd to 2.25 mgd
+because of the multiple measures of conservativism that the Corps added to the
+contract (app. supp. R4, tab 180 at 540, tab 187 at 576; tr. 3/40, 43-44, 67-68). The
+proposed evaporation coefficient was 0.8. While the proposed maximum water depth
+was five feet, the May 17, 2013 memorandum indicated that the water depth never
+actually would exceed three feet (R4, tab 35 at 14,503-07).
+
+       33. The Corps responded to the May 17, 2013 memorandum in two letters
+dated May 20, 2013, and May 22, 2013. Those letters questioned the lack of a standby
+EP, the ADF, and the evaporation coefficient relative to the water depth. (R4, tabs 33,
+35) Regarding the ADF in particular, the letters explained that:
+
+
+12
+     CDM often refers to an operational, but not in use, EP as a "spare" EP (see, e.g.,
+        app. br. at 3). However, as CDM correctly recognizes, the term "spare" is
+        interchangeable with the term "backup" (id. at 31, 50; see also ROGET'S INT'L
+        THESAURUS, 822, 1222 (4th ed. 1977) (identifying both the term backup and
+        spare as being synonymous with the term substitute)). For ease of reference
+        and consistency, we use the term backup EP-instead of spare EP-to describe
+        the required EP that is operational, but not in use except in an emergency.
+
+                                            10
+              The contract states that the current average daily flow is
+              2.44 mgd and the average daily flow range of well
+              production is 2.0 to 2.5 mgd. This is based on historical
+              data for the Water Treatment Plant (WTP) and not listed as
+              the design capacity to support future demands. WTP
+              design manuals and regulatory permits .. .indicate that new
+              treatment systems be sized based on future demands.
+
+(R4, tab 35 at 14,498-99) Regarding the evaporation coefficient and water depth in
+particular, the letters explained that "[s]ince the 0.8 coefficient is assumed based on
+shallow depths (generally less than 3 feet) being maintained [in the] ponds, and the
+design actually reaches 5 foot depth without precipitating solids, it is questionable that
+the 0.8 coefficient would still be appropriate" (R4, tab 33 at 14,494). Dr. Gross opined
+that CDM's use of a 0.8 evaporation coefficient for EPs whose water depth generally
+was less than three feet-but occasionally was up to five feet-was appropriate, and
+that the Corps' directive that an evaporation coefficient of 0.8 could be used only for
+water depths of three feet or less was not supported by technical data or scientific
+evidence (app. supp. R4, tab 180 at 539; tr. 3/38-40). We find this testimony credible.
+
+       34. On May 22, 2013, CDM sent the Corps a notification of change. In the
+notification of change, CDM stated that:
+
+              The essential issues center on the insistence by the
+              Government that the appropriate design parameters are:
+              3 MGD Average Daily Flow (ADF) and that the
+              Government's definition of "standby" does not allow for
+              use of the "standby" pond during routine maintenance and
+              cleaning of a pond. This is inconsistent with the accepted
+              engineering definition of 2 + I Standby. Also, the
+              Government is not accepting our evaporation rate design
+              factors that are based upon site specific data and literature
+              describing standard industry practices.
+
+(R4, tab 34 at 14,496)
+
+        35. The Corps responded by letter dated May 29, 2013. The May 29, 2013
+letter "constitutes formal direction" to meet three relevant design elements. First, the
+Corp directed CDM to include one backup EP. Second, the Corps directed CDM to
+use a 3 mgd ADF. Third, the Corps directed CMD to use:
+
+              Evaporation pond factors of 0.8 for pan evaporation
+              coefficient, if operated with smaller pond size and shallow
+              depth of 3' or less, and actual calculated salinity correction
+
+
+                                            11
+                 factor (both as stated in 17 May Evaporation Ponds Design
+                 Analysis memo). If design size or operation varies, please
+                 vary factors as necessary.
+
+(R4, tab 32 at 14,492)
+
+       36. CDM responded by submitting a final design package. CDM reduced the
+surface area required for the EPs from 17.2 acres to 13.5 acres by revising its design to
+contain 8 EPs that would be in day-to-day use and one backup EP. Doing so, CDM
+was able to meet the Corps' ADF, evaporation coefficient, and water depth
+requirements. (R4, tabs 172, l 75~ tr. 1/129-30) The 13.5 acres did not require an EA
+amendment because CDM moved other equipment to keep the entire WTP within the
+EA (tr. 1/133, 4/139-40). 13
+
+         37. The Corps accepted the final design package (tr. 1/136).
+
+       38. The ADF has decreased over the last five years. The year prior to the
+hearing, the ADF was 1.7 mgd. (Tr. 1/142-43)
+
+III. Facts Unique to the Generator Appeals (ASBCA Nos. 60455 and 60669)
+
+         A. The Southern California Edison Electrical Service Requirements
+
+        39. In 2006, SCE published the Electrical Service Requirements (ESR). The
+ESR were "issued for the guidance and assistance of electrical contractors ... engaged in
+the installation and design of electrical service wiring and service equipment." (R4,
+tab 51 at 15,022) The ESR were guidelines with which SCE customers in Southern
+California had to comply in order to receive services. However, SCE often waived the
+ESR. (Tr. 2/64-65, 108-10, 4/32)
+
+         40. Paragraph 12 of the ESR stated that:
+
+                When a customer has a standby generator to supply all of
+                their load during an Edison system outage, the generator
+
+13
+     In the final design, there were only two lime sludge lagoons, both of which were in
+          use. Antonia Ortiz-the Corps' technical design manager and an expert in
+          WTPs-testified that the Corps initially complained about both lagoons being
+          in use, but "that just kind of fell by the wayside." Because liquid waste can go
+          from the lagoons to the EP, the lagoons-unlike the EPs-are not a critical
+          component whose failure will cause the WTP and Fort Irwin to shut down.
+          CDM provided a backup unit for the other items for which Table 8 required a
+          standby unit. (Tr. 1/133, 4/152)
+
+                                              12                                             J
+
+                                                                                             I
+                 shall be connected to the load by a double-throw switch or
+                 automatic relays and switches which will isolate the load
+                 from the Edison system before the generator is connected
+                 to the load. When the Edison service is re-energized, the
+                 generator will then be isolated from the load before the
+                 load is reconnected to the Edison system.
+
+(R4, tab 51 at 15,023)
+
+   B. Contract Documents
+
+      41. The contract documents required a standby generator connected to the
+normal site power by an automatic transfer switch (ATS) (R4, tab 9 at 2,161). The
+generator connection design had to satisfy two potentially relevant requirements.
+
+       42. First, under appendix A, § 9.1.3, "[m]ultiple generators and transfer
+switches will be required when physical distances exceed 200 feet to load"
+(R4, tab 9 at 2,161).
+
+        43. Second, section 01 10 10 provided that "[a]ll work shall be designed
+and constructed to meet all state and federal codes, standards and law" (R4, tab 9
+at 1,732). Similarly, section 01 10 10 stated that "[t]he applicable building codes
+and standards shall be used as the minimum criteria to develop the construction
+documents for areas of work not specifically defined" (id.). Regarding the
+electrical system in particular, appendix A stated that:
+
+                 All electrical equipment shall be installed in accordance
+                 with NFPA 70 (National Electrical Code), ANSI C2
+                 (National Electrical Safety Code), California's Energy
+                 Efficiency Standards for Residential and Nonresidential
+                 Buildings Title 24, Part 6, of the California Code of
+                 Regulations, all applicable UFC's, ETL's, TM's and other
+                 DOD and national standards as applicable to the system
+                 under consideration.
+
+(Id. at 2,159)
+
+       44. The RFP initially contained the CH2M Hill drawings, but not the SCE
+drawings (tr. 1/146-47). The CH2M Hill drawings showed a primary 12 kilovolt (kv)
+network and a secondary 480 volt (v) network (tr. 1/160-61, 236, 2/22). According to the
+CH2M Hill drawings, electricity would come into the WTP from an SCE substation on
+the primary network during normal operations. After the electricity passed through an
+ATS and traveled along the primary network, transformers would step the voltage down
+
+
+                                             13
+
+                                                                                           I
+to 480v, so that the electricity could travel on the secondary network to where it was
+needed. If the A TS sensed that the power from SCE was interrupted, it would send a
+signal to the 480v generator to start. The generator was connected to a transformer,
+which increased the voltage to 12kv. The transformer then connected to the ATS,
+through which the electricity would flow to the primary network. The A TS ensured that
+electricity only came from one source at a time, and did not back feed from the generator
+onto the SCE system. (R4, tabs 136, 145; tr. 1/147-50, 218)
+
+       45. There was a pre-bid request for information (RFI) regarding the CH2M Hill
+drawings from another offeror besides CDM. The RFI indicated that appendix A of
+the RFP "states 'Multiple generators and transfer switches will be required when
+physical distance exceed 200 feet to load.' The initial concept drawings by CH2M
+(90-E-501) indicate one generator which connected into the SCE distribution system.
+Please confirm that Appendix A takes precedence over the CH2M design." The RFI
+did not indicate that there was an actual conflict because it did not state that the
+physical distance from the generator to the load on the CH2M Hill drawing exceeded
+200 feet. The Corps' response did not acknowledge a conflict either. Rather, the
+Corps merely responded, "[p]lease see Section 01 10 10 paragraph 2.8 Conflicts in
+RFP Criteria for precedence required." (App. supp. R4, tab 148 at 220; tr. 2/54-55)
+
+       46. Nor may it be inferred from the Corps' response to the RFI that it read the
+RFI as establishing that there was a conflict because, the same day that the Corps
+responded to the RFI, it amended the RFP to add the SCE drawings, which were
+substantially similar to the CH2M Hill drawings. By issuing drawings showing a
+single generator using a single ATS and primary network to distribute electricity after
+the RFI quoting appendix A,§ 9.1.3, the Corps demonstrated that it did not read the
+RFI as establishing that such a design conflicted with appendix A, § 9.1.3. (App.
+supp. R4, tab 152; tr. 1/146-47, 153-55, 2/16-19)
+
+      47. That conclusion was correct. The SCE drawings were consistent with
+appendix A,§ 9.1.3 because the distance to the load was not an issue when using the
+primary network (tr. 4/47-48). Moreover, while the SCE drawings only showed one
+generator and one ATS, the distance from the generator to the A TS-which was the
+load-was only about 100 feet (app. supp. R4, tab 152; tr. 1/153-56, 2/16-20, 89-90).
+
+      C. Pe,formance
+
+       48. After award, CDM submitted a 10 percent electrical design. The design
+followed the concept drawings. In particular, the design-like the drawings-showed
+one generator connected to the primary network by one ATS. (R4, tab 6 at 294; app.
+supp. R4, tab 162; tr. 1/157-58, 2/95) However, the design did not contain any
+distance measurements. In particular, it did not include any measurement of the
+distance from the generator to the load (R4, tab 6 at 294; tr. 2/32, 4/54).
+
+
+                                          14
+        49. The fact that the concept drawings and 10 percent design showed the
+generator connected to the primaiy network did not conflict with ESR 112 because the
+drawings and the design showed the generator connected to the load with an A TS that
+isolated the load from the SCE system before the generator was connected to the load
+(tr. 1/227-28, 2/30, 71-72, 144, 146). 14 Indeed, it was reasonable to interpret the ESR
+in light of the SCE drawings because the SCE drawings constituted SCE applying its
+guidelines to this particular electrical system (tr. 1/232, 2/60, 127, 130).
+
+       50. Representatives from CDM, the Corps, and SCE attended a meeting to
+discuss the 10 percent design. As the Corps subsequently documented, the SCE
+representative indicated at the meeting that
+
+                The emergency generator will not be able to be installed as
+                originally shown. At the time of the original drawing years
+                ago it was not necessaiy to submit the information through
+                the generation group. Per SCE's new standards this
+                installation would have to be submitted to the generation
+                group and this type of installation will not be accepted.
+
+The Corps did not mention ESR 1 12 or appendix A, § 9.1.3. (R4, tab 6 at 295)
+
+        51. In. response, CD M recommended using the secondaiy network to feed
+electricity from the generator to two locations, each with an ATS. Using the
+secondary network raised concerns about the distance to the load. (Tr. 4/47-48)
+Moreover, the proposed design violated appendix A,§ 9.1.3 because one of the two
+locations at which the secondaiy network would feed into the load was more than
+200 feet from the generator. Nevertheless, the Corps approved the proposed design.
+(App. supp. R4, tab 166 at 398; tr. 1/162-63, 218, 2/27-29, 4/51)
+
+JV Procedural History
+
+        52. Abe Nejad-CDM's scheduling expert-prepared a time impact analysis on
+Januaiy 27, 2014, which showed that the rejection of the EP caused a 51-day delay to the
+WTP completion date (app. supp. R4, tab 178; tr. 3/144-45) However, Mr. Nejad conceded
+that, if there was a Corps-caused delay and a CDM-caused delay in the EP design, then that
+would constitute concurrent delay that would not be compensable (tr. 3/199, 4/10).
+
+14
+     Derrick Collier-the Corps' electrical engineer for the project-testified that the
+         10 percent design violated ESR 1 12 because "you can't utilize the primaiy
+         distribution system and be isolated from it" (tr. 4/54). That testimony is
+         inconsistent with ESR 112, which acknowledged that the load can be isolated
+         from the SCE system by an ATS (R4, tab 51 at 15,023).
+
+                                            15
+       53. CDM subsequently submitted REAs regarding the EPs (R4, tabs 4, 29) and
+the generator (R4, tab 6).
+
+      54. On July 22, 2015, CDM submitted a claim for changes in the EPs and the
+generator design (R4, tab 3).
+
+       55. On May 6, 2016, the CO issued a final decision, rejecting the generator
+claim (R4, tab 2). The CO did not issue a final decision on the EPs claim, and that
+claim is deemed denied.
+
+       56. These appeals followed.
+
+                                       DECISION
+
+        CDM has the burden of proving that there was a constructive change or a
+defective specification by a preponderance of the evidence. Amos & Andrews
+Plumbing, Inc., ASBCA No. 29142, 86-2 BCA ,r 18,960 at 95,738 (citing Teledyne
+McCormick-Selph v. United States, 588 F.2d 808 (Ct. Cl. 1978)). As discussed below,
+it has satisfied that burden in part, and has not satisfied it in part.
+
+I. Evaporation Ponds (ASBCA No. 60-15-1)
+
+        In particular concerning the EPs, CDM has met its burden of showing a
+constructive change regarding the ADF, evaporation coefficient, and water depth, but
+has not met its burden regarding the backup EP. In order to establish that there was a
+constructive change, a contractor must show that: ( 1) an official compelled it to
+perform work not required under the terms of the contract; (2) the official directing the
+change had contractual authority to alter the contractor's duties unilaterally; (3) the
+official enlarged the contractor's performance requirements; and (4) the added work
+was not volunteered, but resulted from the official's direction. A/fair Dev. Co.,
+ASBCA Nos. 53119, 53120, 05-2 BCA ,r 32,990 at 163,515. "Where as a result of the
+Government's misinterpretation of contract provisions a contractor is required to
+perform more or different work, or to higher standards, not called for under its terms,
+the contractor is entitled to equitable adjustments pursuant to the Changes Article,
+including extensions of time." Emerson-Sack-Warner Corp., ASBCA No. 6004, 61-2
+BCA ,r 3248 at 16,827.
+
+       In determining what work a contract requires, "clear and unambiguous [contract
+provisions] must be given their plain and ordinary meaning, and we may not resort to
+extrinsic evidence to interpret them." Coast Fed Bank, FSB v. United States, 323 F.3d
+1035, 1040 (Fed. Cir. 2003) (en bane) (citations omitted). "An ambiguity exists when
+a contract is susceptible to more than one reasonable interpretation." E.L. Hamm
+
+
+                                           16
+                                                                                            I
+                                                                                            I
+& Assocs., Inc. v. England, 379 F.3d 1334, 1341 (Fed. Cir. 2004). "To show an
+ambiguity it is not enough that the parties differ in their respective interpretations of a
+contract term. Rather, both interpretations must fall within a ·zone of
+reasonableness."' NVT Techs., Inc. v. United States, 370 F.3d 1153, 1159 (Fed. Cir.
+2004). As we have held:
+
+              Determining whether ... differing interpretations are
+              reasonable begins with an examination of the plain
+              language of the contract, construing the contract so as to
+              effectuate its spirit and purpose giving reasonable meaning
+              to all parts of the contract. In order to fall within the zone
+              of reasonableness, a party's interpretation must be
+              logically consistent with the contract and the parties'
+              objectively ascertainable intentions.
+
+ECCI-C Metag, fl~ ASBCA No. 59031, 15-1 BCA ,r 36,145 at 176,418 (citations and
+quotations omitted).
+
+       "[T]he language of a contract must be given that meaning that would be derived
+from the contract by a reasonably intelligent person acquainted with the
+contemporaneous circumstances." Hol-Gar Mfg. Corp. v. United States, 351 F.2d 972,
+975 (Ct. Cl. 1965). Thus:
+
+              We must seek to put ourselves in the position of appellant
+              at the time he bid on the contract, i.e., we must seek the
+              meaning that would be attached to the language by a
+              reasonably intelligent bidder in the position of appellant,
+              who would be expected to have the technical and trade
+              knowledge of his industry and to know how to read and
+              interpret technical engineering specifications and perform
+              construction work in accordance with such specifications.
+
+Adrian L. Roberson, db a Roberson Constn1ction Co., ASBCA No. 6248, 61-1 BCA
+,r 2857 at 14,915.
+       ""Trade practice and custom illuminate the context for the parties' contract
+negotiations and agreements." Metric Constn,ctors, Inc. v. NASA, 169 F.3d 747, 752
+(Fed. Cir. 1999). Before we can conclusively declare a contract ambiguous or
+unambiguous, we must consult the context-including trade practice and custom-in
+which the parties exchanged promises. However, a contracting party cannot invoke
+trade practice and custom to create an ambiguity where a contract was not reasonably
+susceptible to differing interpretations at the time of contracting. "Trade practice
+
+
+                                            17
+evidence is not an avenue for a party to avoid its contractual obligations by later
+invoking a conflicting trade practice." Id.
+
+       As discussed below, the contract unambiguously required a backup pond, but
+did not require a particular ADF or evaporation coefficient for a particular water depth.
+Thus, there was no constructive change regarding the backup EP, but there was a
+constructive change regarding the ADF, evaporation coefficient, and water depth.
+
+       A. Backup Evaporation Pond
+
+       There was not a constructive change when the Corps compelled CDM to
+provide a backup EP that was operational, but not in use except in an emergency
+because the plain language of the contract documents required CDM to provide at least
+one backup EP. Table 8 required at least one "STANDBY'' EP (finding 14). The
+dictionary definition of the word "standby" is "readiness for duty or immediate
+deployment. ... a person or thing ready to be deployed immediately, especially if needed
+as a backup in an emergency." NEW OXFORD AM. DICTIONARY, 1699 (3rd ed. 2010).
+Thus, by using the word standby to modify the word pond, Table 8 plainly required a
+backup EP that was operationally ready for duty, but not yet deployed unless or until
+needed for an emergency.
+
+       CDM correctly argues that context and the parties' intentions may be more
+important than dictionary definitions in determining plain meaning (app. br. at 43);
+Metric ConstnJctors, 169 F.3d at 752. However, the context in which the parties used
+the term standby-namely the CH2M Hill drawings and Table S's recovery rates-
+confirms that they intended the term standby to have its usual meaning as a backup.
+The CH2M Hill drawings showed three EPs, covering a total area of 10.8 acres
+(finding 16). When read in the context of the 99.6 or 99.7 percent recover rate
+provided for in Table 8-which was based upon the CH2M Hill drawings-a
+reasonably intelligent contractor would understand that at least one of the CH2M Hill
+drawings' three EPs was a backup EP (finding 17).
+
+        As context, CDM points to the fact that three EPs capable of balancing inflows
+and net evaporation would not fit within the 11 acres for which there was an EA if one
+of the EPs was a backup EP (app. br. at 28-29; app. reply br. at 8-9). That argument
+incorrectly assumes that the contract documents limited CDM to three EPs. While
+Table 8 indicated that the number ofEPs was "2 + 1 STANDBY," the contract
+documents also stated that "[w ]hat is identified in Table 8 is the Government's
+expected minimum unit operations necessary .... [A]dditional units, if required to meet
+the criteria herein, shall be provided." (Finding 14) Thus, nothing in the contract
+documents prohibited CDM from including more than three EPs in its design. And
+indeed, CDM ultimately was able to accommodate a backup EP within the EA by
+
+
+                                           18
+using nine EPs (finding 36). As a result, the area available within the EA was
+consistent with a backup EP.
+
+       Nor did the term standby have a customary meaning within the trade that differs
+from the dictionary definition. On the contrary, CDM's EP expert testified that she
+was unaware of any reference to the term standby EP in the technical literature or its
+use in any other contracts. Rather, she opined that it was not standard industry
+practice to construct EPs with a backup EP. (Finding 26) However, "evidence that
+some practitioners customarily accomplish tasks differently from the manner called for
+by the contract will not overcome the clear language of the contract." Metric
+Constructors, 169 F.3d at 752. 15
+
+       CDM also argues that Table 8 merely required standby capacity in the EPs
+(app. br. at 45). That reading of Table 8 does not fall within the zone of
+reasonableness. Table 8 does not even mention capacity. Rather, the word standby
+modifies the word pond. (Finding 14) Thus, by its plain language, Table 8 required
+one standby EP; not any particular standby capacity.
+
+        CDM also relies upon the Environmental Protection Agency's (EPA's)
+definition of the word standby as "the period of time that an impoundment is not
+accepting uranium byproduct material or tailings but has not yet entered final closure''
+(app. br. at 46; 40 C.F .R. § 61.251 (k) ). However, that definition is consistent with the
+dictionary definition of the word standby, albeit applied to modify a period of time
+instead of a physical structure (id.). The EPA definition indicates that the standby
+period-i.e., the period of time that an impound is ready for duty, but not yet deployed
+unless or until needed for an emergency-is when it is not accepting uranium
+by-product or tailings but has not yet entered final closure under EPA regulations.
+Because the word standby modifies a physical structure (i.e., an EP) instead of a
+period of time here, the plain meaning of the contract documents required CDM to
+provide a backup EP that was operationally ready for duty, but not yet deployed unless
+or until needed for an emergency. Thus, there was no constructive change when the
+Corps compelled CDM to provide a backup EP. 16
+
+15
+   It is not our place to second-guess the soundness of the Corps' decision to require a
+         backup EP. Savantage Fin. Servs., Inc. v. United States, 595 F.3d 1282, 1286
+         (Fed. Cir. 2010). In any event, we note that, while the probability of an EP
+         failure might be low, the impact of any such failure likely would be
+         catastrophic, leading to the closure of Fort Irwin (finding 12).
+16
+   CDM also points to the fact that it did not provide a backup lime sludge lagoon,
+         despite the fact that Table 8 called for a standby lagoon (app. br. at 50).
+         However, as the Corps explains, it objected to the lack of a backup lagoon, but
+         did not insist upon strict compliance with the contract requirements in that case
+         because, unlike the EPs, the lagoons were not a critical component whose
+
+                                            19
+       B. Average Daily Flow
+
+       There was a constructive change when the Corps compelled CDM to utilize a
+3.0 mgd ADF. The contract documents stated that the CH2M Hill drawings were
+based upon a 3.0 mgd ADF, but it did not require CDM to use that-or any
+particular-ADF (finding 21). On the contrary, the contract documents stated that the
+CH2M Hill drawings were FIO, and it was up to the contractor to determine sizing
+(finding 3). Because the contract documents did not require the use of any particular
+ADF, the Corps constructively changed the contract documents when it compelled
+CDM to use a 3.0 mgd ADF. Indeed, because the contract documents required CDM
+to use an ADF in the range of 2.0 to 2.5 mgd to measure actual daily demand, it was
+reasonable for CDM to conclude that it could use an ADF within that range-namely a
+2.25 mgd ADF (finding 23).
+
+       The Corps argues that CDM's constructive change claim regarding the ADF
+must fail because it was CDM-not the Corps-that changed the ADF from the
+3.0 mgd that CDM had proposed in its 65 percent and 100 percent designs to the
+2.25 mgd that CDM proposed in its revised 100 percent design (gov't br. at 26; gov't
+reply br. at 7). That is beside the point. A constructive change occurs when the
+government compels a contractor to perform work not required under the terms of the
+contract. Affair Dev., 05-2 BCA ,r 32,990 at 163,515. Thus, the relevant change was
+when the Corps required CDM to use a 3.0 mgd ADF that was not called for by the
+contract documents (findings 20, 35). It was not when CDM changed the ADF from
+an earlier design. The earlier ADFs proposed by CDM were not contract
+requirements. On the contrary, the Corps had rejected those earlier designs
+(finding 29). Absent a contract requirement or an approved design to the contrary,
+CDM was free to select an ADF, so long as it was sound and supported, which was the
+case here. 17
+
+       failure likely would lead to the closure of Fort Irwin. Moreover, for all the
+       other design elements requiring a standby unit, CDM provided a backup unit.
+       (Finding 36) CDM argues that those elements are different from EPs because
+       they are mechanical and thus prone to failure (app. br. at 50). However,
+       nothing in the language of the contract documents evidences a mutual intent to
+       draw such a distinction.
+17
+   The Corps does not-and could not-argue that the 2.25 mgd ADF was unsupported
+       or unsound. On the contrary, Dr. Gross testified that the 2.25 mgd ADF was
+       reasonable, and the evidence shows that the ADF actually has been lower than
+       2.25 mgd (findings 33, 38). Moreover, the contract documents contained
+       historical data showing that the ADF was below 3.0 mgd ADF. Dr. Gross
+       testified that historical data is an industry-accepted basis for determining ADF.
+       (Finding 22) Further, the contract documents themselves supported a 2.25 mgd
+
+                                          20
+       C. Evaporation Coefficient and the Water Depth
+
+       There also was a constructive change when the Corps compelled CDM to use a
+0.8 evaporation coefficient only if the maximum water depth was three feet or less. 18
+The contract documents did not require CDM to use any particular evaporation
+coefficient for any particular water depth (finding 24). Therefore, the Corps
+constructively changed the contract documents when it compelled CDM to use a 0.8
+evaporation coefficient only if the maximum water depth was three feet or less. 19
+
+       As with the ADF, the Corps argues that it was CDM-not the Corps-that
+changed the evaporation coefficient relative to the water depth from that proposed by
+CDM in its March 6, 2013 memorandum (gov't br. at 32). That argument is even
+weaker than the Corps' argument regarding the ADF. First, it suffers from the same
+defect discussed above regarding the ADF. Namely, it fails to recognize that the
+relevant change for purposes of establishing a constructive change was when the Corps
+compelled CDM to perform work not required by the contract documents; not when
+CDM purportedly changed the coefficient relative to the water depth from that CDM
+proposed in the rejected March 6, 2013 memorandum.
+
+
+       ADF by requiring CDM to use an ADF in the range of 2.0 to 2.5 mgd to
+       measure actual daily demand (finding 23). That CDM had proposed a more
+       conservative 3.0 mgd ADF earlier does not establish that the subsequent
+       2.25 mgd ADF was unsound because the revised 100 percent design increased
+       conservativism elsewhere (findings 27, 32).
+18
+   The Corps improperly seeks to segregate CDM's evaporation coefficient claim from
+       its water depth claim in an attempt to argue that CDM voluntarily used a 0.8
+       evaporation coefficient (gov't reply br. at 2-3, 8). The March 6, 2013
+       memorandum voluntarily proposed using a 0.8 evaporation coefficient for a
+       maximum water depth of five feet (finding 28). The Corps rejected that
+       proposal, directing CDM to use a 0.8 evaporation coefficient only if the
+       maximum water depth was three feet or less (findings 29, 33, 35). Thus, it was
+       not the evaporation coefficient alone that was compelled, but rather the
+       evaporation coefficient relative to the ·water depth.
+19
+   The Corps does not-and could not-argue that the use of a 0.8 evaporation
+       coefficient for EPs with a maximum water depth of five feet was unsound or
+       unsupported. On the contrary, Dr. Gross testified that a 0.8 evaporation
+       coefficient for EPs with a maximum water depth of five feet was reasonable
+       (finding 33). Moreover, CDM supported its evaporation coefficient by citing
+       the Design Characteristics for Evaporation Ponds in Wyoming, which indicated
+       that a reasonable evaporation coefficient was in the range of 0. 7 and 0.95
+       (finding 28).
+
+                                         21
+        Moreover, the Corps' argument regarding the evaporation coefficient and water
+depth is even weaker than its argument regarding the ADF because it was the Corps-
+not CDM-that sought to change the evaporation coefficient relative to the water
+depth from that proposed in CDM's rejected proposal. In the March 6, 2013
+memorandum, CDM proposed using a 0.8 evaporation coefficient for EPs that had a
+maximum water depth offive feet and a usual water depth of three feet or less
+(finding 28). It was the Corps-not CDM-that changed that criteria by compelling
+CDM to use a 0.8 evaporation coefficient only for EPs that had a maximum water
+depth of three feet or less (findings 29, 33, 35). The Corps justified that requirement
+by stating that, "[s]ince the 0.8 coefficient is assumed based on shallow depths
+(generally less than 3 feet) being maintained [in the] ponds, and the design actually
+reaches 5 foot depth without precipitating solids, it is questionable that the 0.8
+coefficient would still be appropriate" (finding 33). However, in that statement, the
+Corps improperly compared apples (i.e., the March 6, 2013 memorandum's proposed
+five foot ma.ximum water depth) with oranges (i.e., the March 6, 2013 memorandum's
+proposed three feet or less general or usual water depth) to call into question the
+March 6, 2013 memorandum's evaporation coefficient by creating an illusory
+inconsistency. Because the Corps was compelling CDM to use an evaporation
+coefficient relative to the water depth that was not called for by the contract
+documents-or even by CDM' s rejected March 6, 2013 design memorandum-there
+was a constructive change.
+
+       The Corps also argues that CDM failed to provide adequate notice (gov't br. at
+29-32). That is incorrect. While the May 22, 2013 notice of change focused upon the
+standby EP and ADF issues, it stated, "[a]lso, the Government is not accepting our
+evaporation rate design factors" (finding 34). That provided adequate notice that
+CDM considered the evaporation coefficient relative to the water depth requirement to
+be a constructive change that CDM did not voluntarily perform.
+
+        Similarly, the Corps' argument that CDM voluntarily changed the evaporation
+coefficient relative to the water depth because the Corps merely provided feedback
+instead of direction is incorrect (gov't reply br. at 18). After the notice of change, the
+Corps issued the May 29, 2013 letter, which-by its own terms-"constitutes formal
+direction" to use a 0.8 evaporation coefficient only for water depths of three feet or
+less (finding 35) (emphasis added). Therefore, CDM did not voluntarily use a 0.8
+coefficient only for water depths of three feet or less. 20
+
+20
+     There was no compensable delay because there was concurrent contractor-caused
+         delay (i.e., failing to include a backup EP) that was intertwined with the
+         government-caused delays (i.e., changes to the ADF, coefficient, and water
+         depth requirements) (finding 52). Sauer, Inc. v. Danzig, 224 F.3d 1340, 1348
+         (Fed. Cir. 2000}; Celesco Indus., Inc., ASBCA No. 21928, 81-2 BCA ,r 15,260
+         at 75,556. Whether CDM will be able to segregate any increased costs it
+
+                                            22
+11. The Standby Generator (ASBCA Nos. 60-1-55 and 60669)
+
+        CDM is entitled to an equitable adjustment under the Changes clause because
+the Corps provided defective specifications regarding the generator. "When the
+government provides a contractor with defective specifications, the government is
+deemed to have breached the implied warranty that satisfactory contract performance
+will result from adherence to the specifications." Alliance Gen. Contractors, LLC,
+ASBCA No. 54979, 09-1 BCA ,r 34,030 at 168,327 (quoting Essex Electro
+Engineering, Inc. v. Danzig, 224 F.3d 1283, 1289 (Fed. Cir. 2000)). Here, by
+providing the concept drawings, the Corps warranted that satisfactory performance
+would result from adherence to those drawings (findings 44, 46). The Corps breached
+that warranty when it subsequently rejected a design that followed the concept
+drawings (finding 50).
+
+        The Corps argues that the concept drawings were not specifications because the
+contract documents did not require CDM to comply with those drawings (gov't br.
+at 38). However, we rejected that argument in MA. Mortenson Company, ASBCA
+No. 39978, 93-3 BCA ,r 26,189 at 130,367 (holding that concept drawings create a
+warranty, even if the contract does not require a contractor to follow the drawings).
+Indeed, the conclusion that the concept drawings created a warranty is even stronger
+here than it was in Mortenson because, unlike in that case, the contract documents
+required the contractor to use the drawings to price its proposal (finding 4). 21
+
+       The Corps also argues that it was unreasonable for CDM to follow the concept
+drawings because appendix A, § 9 .1. 3 trumped the concept drawings under the Order
+of Precedence clause (gov't br. at 36-37). Under the Order of Precedence clause,
+appendix A took priority over the concept drawings only if there was an inconsistency
+(finding 5). That clause is not applicable here because the concept drawings are
+consistent with appendix A, § 9. 1. 3. Appendix A, § 9 .1. 3 stated that "[m]ultiple
+generators and transfer switches will be required when physical distances exceed
+
+         incurred as a result of the ADF, evaporation coefficient, and water depth
+         changes from any increased costs it incurred as a result of its failure to include a
+         backup EP is an issue of damages that is not addressed in this opinion.
+21
+   It is true that the contract documents indicated that the concept drawings were FIO,
+         and were made available to CDM for its use without any warranty of usefulness
+         or suitability of purpose (finding 3). However, "[g]overnmental disclaimers of
+         responsibility for the accuracy of specifications which it authors are viewed
+         with disdain by the courts." Edsall Constr. Co., ASBCA No. 51787, 01-2 BCA
+         ,r 31,425 at 155,181 (quoting Bromley Contracting Co., ASBCA No. 14884 et
+         al., 72-1 BCA ,r 9252 at 42,902); see also Metcalf Constr. Co. v. United States,
+         742 F.3d 984, 995-96 (Fed. Cir. 2014).
+
+                                             23
+200 feet to load" (finding 42). The concept drawings' use of a single generator and
+ATS was consistent with appendix A, § 9.1.3 because the distance from the generator
+to the load was less than 200 feet (finding 47). Moreover, the Corps' reliance upon
+appendix A, § 9 .1. 3 is unavailing in light of the facts that the rejected 10 percent
+design did not even show distances, the Corps did not cite appendix A, § 9.1.3 as a
+basis for rejecting the 10 percent design, and the design the Corps ultimately approved
+violated appendix A, § 9.1.3 because it only had one generator that was over 200 feet
+from the load (findings 48, 50-51).
+
+         Similarly, the Corps argues that ESR ,r 12 trumped the concept drawings under
+the Order of Precedence clause (gov't br. at 36-37). That argument is even weaker
+than its argument regarding appendix A, § 9.1.3. First, it suffers from the same defect
+discussed above regarding appendix A, § 9.1.3. Namely, the Order of Precedence
+clause does not apply because ESR ,r 12 was consistent with the concept drawings.
+The Corps is unclear precisely how it claims the concept drawings conflicted with
+ESR ,r 12 (id.). To the extent that it is claiming that the concept drawings' use of a
+single ATS or the primary network to distribute electricity was inconsistent with ESR
+,r 12, that argument would fail because ESR ,r 12 did not require the use of multiple
+ATSs or the secondary network. ESR ,r 12 provided that
+
+             When a customer has a standby generator to supply all of
+             their load during an Edison system outage, the generator
+             shall be connected to the load by a double-throw switch or
+             automatic relays and switches which will isolate the load
+             from the Edison system before the generator is connected
+             to the load. When the Edison service is re-energized, the
+             generator will then be isolated from the load before the
+             load is reconnected to the Edison system.
+
+(Finding 40) (Emphasis added) That language expressly recognized that a single
+double-throw switch was acceptable. Nor did that language prohibit CDM from
+connecting the generator to the primary network. (Id.) Further, SCE sometimes
+waived the ESR's provisions (finding 39). Therefore, the SCE drawings can be read
+consistently with ESR ,r 12 as either the SCE applying ESR ,r 12 to this project, or
+waiving any inconsistent provisions of ESR ,r 12 (finding 49). Indeed, in its
+contemporaneous communications with CDM, the Corps did not cite ESR ,r 12 as the
+basis for rejecting the 10 percent design (finding 50).
+
+       Moreover, even if ESR ,r 12 were inconsistent with the concept drawings, it
+would not trump the concept drawings under the Order of Precedence clause. Under
+the Order of Precedence clause, appendix A and section O1 10 10 took priority over the
+concept drawings if there was a conflict (finding 5). However, unlike with appendix
+A,§ 9.1.3, appendix A and section 01 10 10 did not require compliance with ESR
+
+
+                                          24
+,r 12. Appendix A and section 01 10 10 required compliance with "all state and federal
+codes, standards and law,'' "applicable building codes and standards," and "DOD and
+national standards" (finding 43). Building codes are "[l]aws, ordinances, or
+government regulations." BLACK'S LAW DICTIONARY, 195 (6TH ed. 1990). The ESR
+was not a state or a federal code, standard or law; applicable law ordinance, or
+government regulation; or a DoD standard because it was issued by a utility-not a
+government. Nor was it a national standard because it only applied to SCE's
+customers in Southern California. (Findings 3, 39) Further, the Corps does not even
+attempt to define a "building standard," or show that the ESR was a building standard
+(gov't br. at 37; gov't reply br. at 19-21). Therefore, appendix A and section 01 10 10
+did not require compliance with ESR ,r 12.
+
+       The Corps finally argues that its response to the RFI put CDM on notice of the
+Corps' belief that there was a conflict between the CH2M Hill drawings and
+appendix A, § 9.1.3 (gov't br. at 2, 38). However, the Corps' response to that RFI did
+not indicate a belief that there was a conflict. On the contrary, a reasonable contractor
+could infer that the Corps believed that the electrical design shown in the CH2M Hill
+drawings was consistent with appendix A, § 9.1.3 from the fact that the Corps
+responded to the RFI-which purportedly established that the CH2M Hill electrical
+design was inconsistent with appendix A, § 9.1.3-by amending the RFP to add the
+SCE drawings, which showed an electrical design that was substantially similar to that
+shown in the CH2M Hill drawings. (Findings 45-46) If the Corps had believed that
+the RFI had established that such a design was inconsistent with appendix A, § 9.1.3, a
+reasonable contractor could have expected that the Corps would have responded to the
+RFI by amending the RFP to remove the inconsistent drawings and/or to add a
+consistent drawing-instead of to add drawings that continued to show a purportedly
+inconsistent design. Any subjective understanding of a conflict that was so unclearly
+communicated is insufficient to establish an actual conflict. Because the concept
+drawings were not trumped by inconsistent requirements in appendix A or
+section O1 10 10, those drawings created an implied warranty that adherence to the
+drawings would result in satisfactory contract performance, which the Corps breached.
+
+                                    CONCLUSION
+
+       On entitlement under ASBCA No. 60454, the appeal is sustained as to the
+constructive change claim relative to the average daily flow, pan evaporation
+coefficient, and water depth. Otherwise, the appeal in ASBCA No. 60454 is denied.
+On entitlement under ASBCA Nos. 60455 and 60669, the appeals are sustained on the
+
+
+                                           25
+defective specification claim. Otherwise, the appeals in AS_BCA Nos. 60455 and
+60669 are denied. Accordingly, the appeals are returned to the parties for a
+determination of quantum consistent with this decision.
+
+       Dated: October 24, 2018
+
+
+                                                  Administrative Judge
+                                                  Armed Services Board
+                                                  of Contract Appeals
+
+
+ I concur                                         I concur
+
+
+ ~HACKLEFORD                                      OWEN C. WILSON
+ Administrative Judge                             Administrative Judge
+ Acting Chairman                                  Vice Chairman
+ Armed Services Board                             Armed Services Board
+ of Contract Appeals                              of Contract Appeals
+
+
+       I certify that the foregoing is a true copy of the Opinion and Decision of the Armed
+Services Board of Contract Appeals in ASBCA Nos. 60454, 60455, 60669, Appeals of
+CDM Constructors, Inc., rendered in conformance with the Board's Charter.
+
+      Dated:
+
+
+                                                 JEFFREY D. GARDIN
+                                                 Recorder, Armed Services
+                                                 Board of Contract Appeals
+
+
+                                          26

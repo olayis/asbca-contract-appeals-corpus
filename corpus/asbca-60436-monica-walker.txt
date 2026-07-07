@@ -1,0 +1,623 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeal of --                                   )
+                                               )
+Monica Walker                                  )      ASBCA No. 60436
+                                               )
+Under Contract No. DACA45-5-14-6100            )
+
+APPEARANCE FOR THE APPELLANT:                         Ms. Monica Walker
+
+APPEARANCE FOR THE GOVERNMENT:                        Thomas H. Gourlay, Jr., Esq.
+                                                       Engineer Chief Trial Attorney
+                                                      Melissa M. Head, Esq.
+                                                       Engineer Trial Attorney
+                                                       U.S. Army Engineer District, Omaha
+
+                OPINION BY ADMINISTRATIVE JUDGE PROUTY
+
+       In this appeal, decided pursuant to the accelerated procedures of Board Rule 12.3
+and on the record without a hearing pursuant to Board Rule 11, we determine what
+amount of compensation is due to appellant, Ms. Walker, for damage done to a house that
+she leased to the United States Army Corps of Engineers (the Corps) for use by an Army
+recruiter and his family. As will be seen, Ms. Walker is entitled to some compensation,
+but not the full amount that she has sought.
+
+                          SUMMARY FINDINGS OF FACT
+
+        On 11 August 2010, a Corps real estate contracting officer (CO), executed
+Lease No. DACA45-5-10-001 l l (the initial lease), through which Ms. Walker and
+Joseph Gordon Hylton (Ms. Walker's now-former husband) provided a house in
+Waukesha County, Wisconsin (the house), for use by Army Sergeant First Class
+(SFC) Jose Rodriguez, Jr., and his family (R4, tab 39). The term of the initial lease
+was one year, from 20 August 2010-19 August 2011, renewable annually at the
+choice of the Corps until 19 August 2013 (id. at 1). The initial lease included a
+provision for an "INITIAL CONDITION REPORT," through which the parties would
+jointly inspect the leased premises on or before the effective date of the lease and
+co-sign a report about the condition of the house (id. at 3, ii 3). The initial lease also
+included a provision (the Restoration Clause) requiring a "final joint inspection and
+condition report" and that, "[ u]pon written notice, the lessors may require restoration
+of the demised premises ... to the same condition as that existing at the time of initial
+occupancy" or payment of money sufficient to make up for the loss of value to the
+house caused by any damage to the premises (id. at 4, ii 13(A)). This restoration
+requirement, however, did not extend to "ordinary wear and tear" (id., ii 13(B)).
+
+        The Corps duly renewed the initial lease annually through 19 August 2014 (see
+R4, tabs 35-37). 1 On 16 July 2014, the CO sent a letter to Ms. Walker and Mr. Hylton
+officially terminating the lease, but noting that it would be replaced by Lease
+No. "DACA455140006100" (the new lease) (R4, tab 34). This letter also provided
+that the exit inspection would be performed at the termination of the new lease (id.).
+The new lease, was, in fact, executed by Mr. Hylton and Ms. Walker on 30 July 2014,
+and by the CO on 4 August 2014 (R4, tab 33).
+
+        The initial lease and the new lease generally contained similar provisions
+(compare R4, tab 39 to R4, tab 33), but the new lease had a slightly different Restoration
+Clause. In the new lease, the Restoration Clause explicitly required written notice of
+"damage beyond normal wear and tear ... along with validation of damages" be provided
+to the government within 30 days of the termination date (R4, tab 33 at 4, ii 13(A)).
+The Restoration Clause in the new lease also explicitly provided that the government
+would not restore "the interior paint of the demised premises, when the Government has
+possessed the leased premises for three or more years prior to the date of the
+termination" (id, ii 13(B)). The new Restoration Clause also limited the government's
+payment, when restoration was deemed warranted, to an amount "depreciated for normal
+wear and tear" reflecting either the amount that the damage decreased the value of the
+house or the amount necessary to make repairs (id., ii 13(C)). The new lease was
+modified on 15 May 2015, primarily to reflect Ms. Walker as the sole lessor
+(R4, tab 32).
+
+        On 26 June 2015, the CO sent to Ms. Walker a letter acting as a notice of
+termination ofthe lease, effective 19 August 2015 (R4, tab 31). This termination letter
+raised the issue of the final joint inspection, stating that it needed to be conducted within
+five days before the termination date, and include the service member, Ms. Walker, and a
+government representative from the military service member's office (id.). The letter
+also informed Ms. Walker that, if she felt damage had occurred "above normal wear and
+tear," she was to inform the government within 30 days so that they could discuss what
+was needed to negotiate a final settlement (id.).
+
+      The walk-through inspection was conducted on 19 August 2015, and Ms. Walker,
+SFC Rodriguez, and Mr. Keith Falvey from the Corps were in attendance (R4, tabs 22, 23,
+26). The 20-page joint survey was completed at the time and signed by both Ms. Walker
+
+
+1
+    The record does not reflect any change to the initial lease extending its end date to
+         19 August 2014 from the 19 August 2013 date originally in the initial lease.
+        The discrepancy, however, is not material to the issues before us.
+
+
+                                              2
+and Mr. Falvey (see R4, tab 26), and multiple photographs were taken by Mr. Falvey.
+Mr. Falvey wrote up a short memorandum the next day (20 August) including his
+impression of the state of the home (R4, tab 24). Ms. Walker sent an email to the CO on
+20 August 2015 characterizing the amount of "intentional damage" to the house as being
+"staggering" (R4, tab 22). Attached to this email was a four-page memorandum noting
+issues observed during the 19 August walkthrough (id. at 3-7). On that day, Mr. Falvey
+sent SFC Melissa Berberian to the house to meet with Ms. Walker and take additional
+photographs, which she did (R4, tab 42).
+
+        On 21 August, Ms. Walker sent the CO another email, detailing comments from a
+contractor who she had taken through the house for a further examination of the damage
+to it (R4, tab 20). We will discuss this in more detail below, but the damage to the house
+reported in this email was more extensive than in Ms. Walker's or Mr. Falvey's earlier
+assessments (compare R4, tab 20 at 1-2 to R4, tabs 22, 24), and included, for the first
+time, claims that five of the interior doors were seriously damaged (R4, tab 20 at 1-2).
+In apparent response, on 8 September 2015, SFC Rodriguez provided a slide presentation
+to the CO setting forth his view of the damage to the house (R4, tab 19).
+
+         Ms. Walker's communications with the CO adding further details and
+allegations of damages continued. On 16 September 2015, Ms. Walker sent a
+memorandum with photographs to the CO further detailing the damage to the house
+for which she blamed SFC Rodriguez (R4, tab 18). Ms. Walker sent the CO extensive
+estimates for repairing the damage on 14 October (R4, tabs 11-15), and an additional
+list of "other damages" done to the house and appliances on 25 October (R4, tabs 7-9).
+The 25 October email included 10 itemized components setting forth the "Cost of
+Vandalism to Home," summing to $21,135.92 (R4, tab 6). 2
+
+        The CO inquired of Ms. Walker if this was the final total for the cost of the damage
+to the house and asked her for a signed and dated letter if it were so (R4, tab 6).
+Ms. Walker responded with a signed letter, dated 27 October 2015, resubmitting the
+$21,135.92 request and included further explanation and cost estimates (R4, tab 5).
+The CO considered this to be Ms. Walker's claim, pursuant to the Contract Disputes Act
+(CDA) (R4, tab 2 at 3, iJ 9). The CO sought and received additional information from
+SFC Rodriguez (see R4, tab 4), as well as from Ms. Walker (see R4, tab 3).
+
+       On 11 January 2016, the CO issued a final decision (COFD) on Ms. Walker's
+claim (R4, tab 2). In the COFD, the CO agreed to payment of $4,067.87 of Ms. Walker's
+claim, which the CO calculated to sum to $22,275.92, rather than the $21,135.92 written
+on the claim (id. at 12). Ms. Walker filed a timely notice of appeal to the Board on
+1 February 2016, revising her total damages as indicated below (R4, tab 1 at 1).
+
+
+2
+    These components will be set forth below.
+
+
+                                           3
+                       The Components of Ms. Walker's Claim
+
+       Ms. Walker's claim to the CO that was later appealed to us had 10 components
+that we will address in more detail below when explaining our decision. Those
+components, and the CO' s decision upon them are as follows (see notice of appeal at 1):
+
+        Claim                     Amount of Claim Amount Given by CO
+ Kitchen Cabinetry and Labor      $5,075.43             $0
+                                  (revised to $4,758.52
+                                  in this appeal)
+ Kitchen Flooring                 $1,916                $1,131
+
+ Doors                            $4,051                      $0
+                                  (revised to $2,880.51
+                                  in this appeal)
+
+ Bathrooms                        $1,669                        $160
+                                  (revised to $2,411
+                                  in this appeal)
+
+ *Gutter Repair                   $1,925                      $0
+
+ Garage Door                      $999                        $0
+                                  (revised to $356
+                                  in this appeal)
+
+ Living Room Carpet               payment of $1,253 .28 resolves dispute
+
+ Kitchen Appliances               $1,117.59                   $0
+
+ *Other Damages                   $2,958.80                   $0
+                                  (revised to $938.80
+                                  in this appeal)
+
+ Cleaning Costs and Replacing     payment of $584.79 resolves dispute
+  External Locks
+
+        In Ms. Walker's brief to the Board, however, she added $7,590 for "Paint,"
+apparently excusing its tardiness by noting that "information received [on] 2/25/16"
+(app. br. at 3). In her brief before the Board she also withdraws the two components of
+the claim set forth by asterisks, above (app. br. at 58 (gutter repair), at 65 (other
+damages)).
+
+
+                                           4
+                                       DECISION
+
+        We evaluate the components of Ms. Walker's serially, but note a number of
+matters governing our review that apply to all of them. First, despite the accelerated
+nature of review in this case brought pursuant to Board Rule 12.3, the burden of proof
+remains upon Ms. Walker as the appellant. That means that she must prove her
+entitlement to compensation by a preponderance of the evidence, and that unsupported
+allegations will not do. Second, the damages in this matter are limited by the strictures
+of the new lease (in particular, the Restoration Clause), which provides that the Corps
+is not required to pay for normal wear and tear nor to pay more to restore the home
+than the cost of the restored items depreciated for their normal wear and tear nor for an
+amount greater than the damage diminished the value of the house.
+
+I.     Ms. Walker Is Not Entitled to Compensation for Her New "Paint" Claim
+
+       For the first time, in her brief to the Board, Ms. Walker requests payment of
+$7,590 for interior painting (app. br. at 3-8). This was not sought in her claim to the
+CO, nor referenced in her appeal to the Board (see R4, tab 1 (appeal), tab 5 (claim)). In
+large part, this claim is aimed at the cost of remedying painting of the house performed
+by SFC Rodriguez that Ms. Walker describes as having been poorly done and without
+primer (see generally app. br. at 4-8). She also notes water damage (id. at 6), and the
+need for minor drywall repair, throughout (id at 4-8).
+
+        We deny this portion of Ms. Walker's claim in its entirety for two reasons: First,
+as the Corps noted, a claim for interior paint damage was never submitted to the CO (see
+gov't br. at 2). Submission of a claim to the CO is a prerequisite to our jurisdiction. E.g.,
+Northrop Grumman Computing Sys., Inc. v. United States, 709 F.3d 1107, 1111-12 (Fed.
+Cir. 2013) (valid claim a jurisdictional prerequisite for legal action). To be sure,
+Ms. Walker did submit a claim for damage to her house, but that claim did not put the CO
+on notice that there would be a substantial request for damages due to general painting
+issues, rather than those that were particularly specified. Although we generally allow
+some modification of a claim amount to reflect better information as litigation progresses,
+see, e.g., Tecom, Inc. v. United States, 732 F.2d 935, 937-38 (Fed. Cir. 1984); Newell
+Clothing Co., ASBCA No. 24482, 80-2 BCA i! 14,774 at 72,916; J.F. Shea Co. v. United
+States, 4 Cl. Ct. 46, 54 (1983), this tolerance for adjustment to the amount of damages
+does not extend to a case, like here, in which an entire category of damages is first
+presented in the final brief on the merits of the appeal. A claim is "new" if it is not
+"based on a common or related set of operative facts." See Placeway Constr. Corp. v.
+United States, 920 F.2d 903, 907 (Fed. Cir. 1990). Although the painting damages are
+based upon the alleged mistreatment of the house by SFC Rodriguez, they are different
+enough from the damages sought in the claim presented to the CO that we would need to
+
+
+                                            5
+adjudicate "new operative facts" to decide them - new operative facts that the CO was
+not given the opportunity to evaluate. Under these circumstances, the painting damages
+constitute new claims and we do not possess jurisdiction to consider them. See
+Unconventional Concepts, Inc., ASBCA No. 56065 et al., I 0-1 BCA ii 34,340 at
+169,591; see also Santa Fe Engineers, Inc. v. United States, 818 F.2d 856, 859-60 (Fed.
+Cir. 1987) ("unrelated problems" to original claims on same contract not properly before
+the Board).
+
+        If we did have jurisdiction, we would deny this portion of Ms. Walker's claim
+because it is precluded by the new lease. As the Corps correctly contends (see gov't
+br. at 3-4), the Restoration Clause specifically carves out an exception to the Corps'
+being liable for the cost of interior painting after the house had been occupied by SFC
+Rodriguez for three years. SFC Rodriguez occupied the home for more than three
+years, thus, by operation of the new lease, the Corps cannot be held liable for the
+repainting 3 costs sought here.
+
+II.     Ms. Walker is Not Entitled to Compensation for the Kitchen Cabinetry
+
+       Ms. Walker's kitchen cabinetry claim stems from water damage to the maple
+cabinetry with granite countertops that had been installed at the house sometime before
+SFC Rodriguez moved in (see app. br. at 9-14). Through photographs, Ms. Walker has
+demonstrated that there was apparent rot of the wood from water damage under the
+sink (and water damage that continued to the basement under the sink) and that a "lazy
+susan" cabinet adjacent to the sink also suffered mechanical damage to its latches,
+which SFC Rodriguez allegedly attempted to cover up by "flipping" the doors (id. at
+11). Ms. Walker notes in her briefthat her insurance company characterized the
+damage to the cabinetry as "vandal[ism]" (id. at 9). It is not particularly clear from
+Ms. Walker's brief what she believes to have been the source of the water damage
+under the sink and how that is SFC Rodriguez's fault, though she blames his failure to
+tum off the water to the copper pipe to the refrigerator for damage to the refrigerator
+wall panel (id. at 10).
+
+       In the end, as the government argues, there is insufficient evidence to support a
+finding that the water damage was the fault of SFC Rodriguez. The water damage
+
+
+3   We note that Ms. Walker also seeks "minor drywall repair" within the scope of her
+        repainting claim, but this is part and parcel with the painting job that is
+        precluded by the new lease. Moreover, she did not provide us any
+        separated-out costs for drywall repair so, even if the new lease did not preclude
+        the award of damages for drywall repair (and even if we possessed jurisdiction
+        to consider it-which we do not), we could not make an award compensating
+        Ms. Walker for such damages for lack of proof.
+
+
+                                             6
+under the sink plainly came from a leak near that location and SFC Rodriguez
+presented evidence both in his declaration and in email correspondence between
+himself and Ms. Walker that was attached to the declaration, that there were problems
+with the sink and that Ms. Walker had sent a plumber to fix it, although there was
+some delay for parts (R4, tab 43,, 5, tab 43, ex. C). It was also evident that there was
+a leak behind the refrigerator about which SFC Rodriguez and Ms. Walker
+communicated (R4, tab 43, , 4, exs. A, B, C). There is no evidence, however, that any
+of these leaks were the fault of SFC Rodriguez or that any failure to remedy them in a
+more timely way caused damage that was not already there when the leaks were
+discovered. Although Ms. Walker appears to allege that the water damage behind the
+refrigerator came from SFC Rodriguez's replacement of the original refrigerator with
+one that he purchased (see app. hr. at 10), she presents no evidence to support this
+assertion, while the Corps has provided ample proof that the leaking water behind the
+refrigerator pre-dated SFC Rodriguez's replacing the existing refrigerator with one of
+his own (see R4, tab 43 , 5, ex. A), thus, there is no basis to hold SFC Rodriguez
+responsible for the consequences of this leak.
+
+        With respect to the "flipped over" doors to the "lazy susan," and the broken latch,
+there is again a lack of evidence that SFC Rodriguez was in any way responsible for this,
+and the photographic evidence is less than clear that anything was, in fact, broken. There
+were no comments on this subject on the exit survey (R4, tab 25 at 6), and
+SFC Rodriguez denied having done anything to those doors in his 14 December 2015
+letter to the contracting officer (R4, tab 4 at 45), although we hasten to add that we give
+SFC Rodriguez's unswom denial little evidentiary weight (similar to Ms. Walker's
+unswom statements). At the end, we have no evidentiary basis to find that
+SFC Rodriguez did anything to damage the "lazy susan" doors in such a way that the
+Corps should be held liable for it.
+
+III.   Ms. Walker Is Entitled to Additional Compensation for the Kitchen Flooring
+
+       The CO agreed that. SFC Rodriguez was responsible for damage done to the
+hardwood kitchen floor that occurred when he moved the refrigerator, but was only
+willing to pay $1,131 of the $1,916 requested by Ms. Walker (R4, tab 2 at 5-6). The CO
+obtained this figure by selecting the lowest bid of the three provided by Ms. Walker for
+the floor work, submitted by Wicks Wood Floors for $1, 140, and subtracting out a $204
+component for "water pop floor," which was contingent upon its being found to be
+necessary at the time of installation (id.), leaving $936. The CO then added the cost of
+moving three appliances at $65 per appliance, which sums to $1, 131 (id.).
+
+       Ms. Walker asserts that four, not three, appliances need to be moved and that
+the $65 charge was for moving each appliance out of the way, with an additional $65
+for moving each back where it belonged after the floor work (see app. hr. at 20-21).
+
+
+                                           7
+She also requests $150 to reconnect the gas to her clothes dryer and water to her
+clothes washer, as well as $150 to replace the allegedly damaged copper line to the
+refrigerator (id. at 21). The CO denied the reconnection and copper line costs for lack
+of support (R4, tab 2 at 5-6)- support which remains lacking in Ms. Walker's brief.
+
+       In any event, although we cannot find the $65 charge per appliance in the
+paperwork provided, the CO apparently found this number somewhere in the
+correspondence and determined it to be supported (R4, tab 2 at 6). But the $65 per
+appliance is apparently for moving the appliance out or moving the appliance in to the
+kitchen, so the appliances need to be counted twice as much as done by the CO. Thus,
+we double the amount paid for appliance moving to add an additional $195 to the
+amount agreed to by the CO. 4
+
+        We also believe it appropriate to pay the costs of re-attaching the gas and water
+lines, but see no evidence of those costs in the documents provided to us. Ms. Walker
+asserts that plumbing service calls begin at $75 (see app. hr. at 20), and we are
+persuaded to assess this amount, even in the absence of further evidence, in view of
+the fact that there is obviously some charge for this service and note the absence of
+contrary evidence.
+
+       With respect to the copper water pipe to the refrigerator that Ms. Walker states
+was damaged by SFC Rodriguez, but repaired by a plumber for $150, (see app. hr. at
+20), there is simply no evidence to support either SFC Rodriguez's culpability for such
+damage or the cost of such repairs. By contrast, SFC Rodriguez has submitted a
+declaration denying any responsibility for this damage (R4, tab 43, ~ 5). Accordingly,
+we award no damages for the refrigerator water pipe.
+
+      Finally, like the CO, we agree that there was no evidence presented that the
+"water pop floor" treatment was necessary, and thus cannot award money for it.
+
+       Thus, we add $270 to the amount already found by the CO for damages to the
+kitchen flooring.
+
+
+4
+    Ms. Walker argues that she should also get an additional $65 for the refrigerator that
+        she would move back in (see app. br. at 20-21 (three items moved out; four items
+        moved in, adding up to seven)), but, if SFC Rodriguez moved his own refrigerator
+        out of the space upon leaving we are not inclined to award a payment to
+        Ms. Walker for moving hers back in.
+
+
+                                            8
+IV.      Ms. Walker Is Entitled to a Slightly Depreciated Payment for Three of the
+         Interior Doors
+
+       Ms. Walker argues that five interior doors and two storm/screen doors required
+replacement as a result of mishandling by SFC Rodriguez (see app. br. at 25-32). The
+Corps denies any responsibility, whatsoever, for the doors (see gov't br. at 8-13). We
+find the evidence supports a finding that three of the interior doors were so damaged
+during the time of SFC Rodriguez's residence that the Corps should be held
+responsible for their replacement.
+
+        We will address the five interior doors in the order that they were raised in
+Ms. Walker's brief. First, the door to the new master bedroom 5 , as is obvious from the
+photograph included in the brief (see app. br. at 25) and the clearer photograph taken
+by Mr. Falvey during the exit inspection (see R4, tab 41, ex. A at 1), is irreparably
+damaged, far beyond normal wear and tear. Whether it was "kicked in" as surmised
+by Ms. Walker (app. br. at 25), or damaged in some other way, it requires replacement.
+The Corps argues that the timing of this and all other door claims was "very suspect"
+(see gov't br. at 8), but Ms. Walker's allegations regarding the doors first arose only
+two days after the first walk-through inspection and, unless we are to believe that
+Ms. Walker purposefully damaged all of the suspect interior doors immediately after
+the inspection with the hope of fraudulently obtaining payment from the government
+for their replacement (a scenario that we find unlikely), we must conclude that the
+damage to the doors was caused during SFC Rodriguez's tenancy and that the Corps is
+liable for it, notwithstanding SFC Rodriguez's denial of responsibility for the damage
+(see R4, tab 43, ~ 4).
+
+        Examining the four other interior doors at issue, we determine that two require
+replacement, while the remaining two appear to have suffered only regular wear and
+tear, albeit on the heavy side. The door to the "original master bedroom" is entirely
+different than the other interior doors and appears to have been recently (and poorly)
+installed (see app. br. at 26-27, photographs). Inasmuch as this was not noted during
+
+
+5
+    Whether this door was the door to the new master bedroom or the door to the old
+       master bathroom, or even the "main bathroom" is somewhat problematic and
+       confusing. Ms. Walker avers that it is to the new master bedroom (app. br. at
+       25), but, after giving both photographs close scrutiny, it is clear to us that the
+       door depicted in Ms. Walker's brief is the same door that Mr. Falvey
+       photographed during the 19 August 2015 exit inspection (see R4, tab 41, ex. A
+       at 1). That door, based upon the exit inspection comments, appears to be the
+       "main bathroom" door that was noted as "coming apart" (R4, tab 26 at 17). In
+       the end, it makes no difference which door is depicted here because we will
+       only make an award for it once.
+
+
+                                             9
+the entry inspection (R4, tab 37 at 15, 20) and we believe it more likely than not that
+such an incongruity would have been given attention at that time, we conclude that this
+mismatched, poorly installed door requires replacement and that the Corps should bear
+responsibility for it. Likewise, the multiple holes in the "Front Bedroom" door (see
+app. br. at 28, photographs) are not in any way normal wear and tear, and also require
+the door's replacement. The evidence supporting replacement of the "Back Bedroom"
+door, consists of photographs (see app. br. at 27) that do not support a conclusion that
+it has suffered more than ordinary wear and tear, just as photographs of the "Office"
+door (see id. at 29) do not appear to support the assertion that it requires replacement,
+either. See WL. Holbrook, AGBCA No. 2000-174-1 et al., 03-1BCAii32,103 at
+15 8, 715 (determination of what constitutes normal wear and tear is a judgment call).
+
+        The Corps argues that, notwithstanding any damage to these doors, it should be
+excused from paying for them because they had depreciated past their useful life (see
+gov't br. at 12-13). To be sure, as noted above, the contract's Restoration Clause
+requires depreciation for the "normal wear and tear" of items that needed restoration
+(R4, tab 33 at 4, ii 13(C)), but the three doors needing replacement here appear to have
+had years of useful life ahead of them prior to their suffering the damage that requires
+their replacement. It would be unreasonable to blindly apply the depreciation table, as
+requested by the government (gov't br. at 12), to doors whose value remained far
+greater than zero. Making a judgment call based upon our examination of the
+photographs of the undamaged doors, we conclude that it would be reasonable to
+depreciate the value of the doors by one-third. Thus, Ms. Walker is effectively entitled
+to the cost of replacing two out of the three damaged interior doors. Ms. Walker
+provided a price of $121.33 per door (R4, tab 5 at 20) for the door, itself, and $235 per
+door for its staining and installation (id. at 19), which we deem reasonable. This sums
+to $356.33 per door, or $712.66 in total.
+
+        The two exterior screen/storm doors that are the subject of the remainder of this
+portion of Ms. Walker's claim (see app. br. at 30), appear to be suffering the type of
+damage that is unsurprising to encounter upon such doors near the end of their
+lifetimes. The holes in the front screen/storm door where the pneumatic cylinder has
+apparently been re-attached on multiple occasions (see id., photographs) are not
+unfamiliar to homeowners who own such doors that are some years old, as are the
+doors here. Neither is the damage to the rear screen door beyond the realm of normal
+wear and tear. The government makes the fair point that the normal lifetime for such
+doors is about 30 years (see gov't br. at 13 (citing R4, tab 16 at 3)), and these doors do,
+in fact, appear to have been near the end of their useful lives. With this in mind, and
+because there is absolutely no evidence that the doors were damaged as a result of
+anything done by SFC Rodriguez during his tenancy, we must deny the storm/screen
+door portion of Ms. Walker's claim.
+
+
+                                            10
+V.       Ms. Walker Is Entitled to Some Compensation for Damage to the Bathrooms
+
+       Simply put, the bathrooms for the master bedroom and the new master bedroom
+are not pretty. The new master bathroom apparently had issues with lack of ventilation,
+causing the wallpaper to peel and mold to grow (R4, tabs 24, 26 at 12, tab 43, ,-i 8).
+Tellingly, Ms. Walker does not dispute this. The original master bathroom does not
+appear to be in as bad shape, though there was some damage to the sink noted in the
+inspection (R4, tab 26 at 16).
+
+       We tum first to the allegations regarding the new master bathroom, which is
+referenced as the 2nd Floor MBR Bath in the exit survey (see R4, tab 26 at 12). There
+is mention in the exit survey of the "very poor paint job - paint all over stained
+molding" (id.), and the CO, in fact, determined that Ms. Walker should be
+compensated $160 for addressing the stained wood trim (R4, tab 2 at 7). 6 Ms. Walker,
+however, alleges that all of the fixtures in that bathroom need to be replaced, as well as
+the door and that the walls require repainting (app. br. at 51-53).
+
+        There is little evidence to support Ms. Walker's claim that all of the finishes on
+the bathroom fixtures were "ruined," beyond the assertions in her brief (see app. br. at
+53). The photographs that she included with her brief were only clear with respect to
+the lighting fixtures, and the top of the mirror trim (see id.). Somewhat better pictures
+may be seen in Ms. Walker's 16 September 2015 communication to the CO (see R4,
+tab 18 at 13). Notably, SFC Rodriguez did not dispute Ms. Walker's allegations
+regarding the damage done by the painting in the rebuttal he provided to the CO (R4,
+tab 4 at 50), although the Corps argues, as does SFC Rodriguez in his declaration, that
+there is no evidence of damage to the sink and that the photographs purportedly
+demonstrating paint damage to the mirror merely show crumbling drywall (see gov't
+br. at 14 (citing R4, tab 43, ii 8)).
+
+        We do not agree with the government's denial of responsibility for the paint
+damage to the lighting fixtures and the mirror, but will not extend our finding of
+liability to the other fixtures in this bathroom because there is simply no evidence to
+support it. Moreover, we also find that it is excessive to characterize the paint damage
+to these fixtures as "ruining" them. In our judgment, a rough estimate of 50%
+diminution of value is merited. Ms. Walker provided estimates of replacing the
+lighting fixtures and mirror which we deem reasonable: $99 for the mirror (R4, tab 5
+
+6
+    The Corps asserts, in the conclusion of its brief, that it should not be responsible for
+        the $160 awarded by the CO (see gov't br. at 17). This conclusory assertion is
+        not supported by evidence or argument and we see no reason to disturb the
+        CO's decision on this point, which is consistent with our finding that
+        SFC Rodriguez's paint job caused damage to some fixtures.
+
+
+                                              11
+at 37); $115' for the labor to replace the mirror (id. at 3 3) and $115 for the labor to
+replace the light fixture (id.), although we do not see any estimated cost for the light
+fixture, itself. This sums to $329, discounted by 50% to $164.50.
+
+       We find the damage to the walls and wallpaper to be the expected ordinary
+"wear and tear" to a poorly-ventilated bathroom over a period of years, and not the
+responsibility of the tenant. Moreover, as noted above in the section regarding
+Ms. Walker's late-added painting claim, the Restoration Clause absolved the Corps of
+the cost of internal re-painting, which is the remedy that the walls require. Thus, we
+award no damages for the damaged wallpaper.
+
+       With respect to the damage that Ms. Walker argues was done to the interior
+bathroom door, we do not find that the photographic or other evidence supports a
+finding that this door was damaged beyond ordinary wear and tear, and thus award no
+damages for it.
+
+        Turning to the original master bathroom, Ms. Walker appears to be requesting
+the replacement of a damaged door and frame as well as the sink, which she argues
+was damaged "beyond repair" (app. hr. at 54). First, we note that there is no evidence
+presented of damage to the original master bathroom door. As discussed in footnote 4,
+there is some documentation of a damaged door, perhaps from one of the bathrooms,
+but we account for it in the section above dealing with damaged interior doors.
+
+        With respect to the damaged sink, we have examined the photographs and are not
+persuaded that the damage is nearly as severe as Ms. Walker contends (see R4, tab 41,
+ex. A at 20), although it does appear to be beyond normal wear and tear. Ms. Walker
+requests $450 to replace the sink, but only provides evidence of the labor cost ($275), and
+not the $175 that she seeks for the sink, itself (see app. br. at 55-56). Even had she
+provided evidence of the sink cost (and the $175 figure strikes us as being in the right
+ballpark for such an expense), the total would be excessive for the light damage done to
+the sink's value. We estimate the loss in value to be approximately $150, which is a third
+of the figure that Ms. Walker requests.
+
+VI.    Ms. Walker Is Not Entitled to Damages for the Garage Door
+
+        Ms. Walker next seeks payment for damage to the garage door, which she
+asserts was caused by "something tall from inside the garage" (app. br. at 58). Her
+brief presented no evidence of any damage having originated from the interior of the
+garage, and neither did her claim (see R4, tab 5). The 16 September 2015
+correspondence to the CO, however, did include photographs of the garage door (see
+R4, tab 18 at 3-4 ), but although we can discern that the door is partially bent, it is not
+as clear from the evidence provided that whatever caused the bending came from the
+
+
+                                             12
+interior of the garage. SFC Rodriguez explained in his declaration that a tree had
+fallen on the garage door during a storm (R4, tab 43, iJ 6). Because the tenant would
+not be responsible for such damage and because there is no evidentiary basis to
+contradict SFC Rodriguez's declaration, we find no liability against the Corps for the
+damage to the garage door.
+
+VII.   Ms. Walker Is Not Entitled to Damages for the Kitchen Appliances
+
+       The final claims brought by Ms. Walker involve her kitchen stove and microwave,
+which she requests be replaced (app. br. at 60). According to Ms. Walker, the microwave
+"works ... but sustained a direct heavy blow to the microwave control panel mechanism so
+nothing can be cooked in the microwave" (id.). Ms. Walker also asserts that the lever to
+lock the stove door (used during oven cleaning) was broken, and surmises both that the
+"heavy blow" that damaged the microwave also damaged the stove door, and that this was
+why the stove had not been cleaned on SFC Rodriguez's departure (id.). Both claims are
+denied for lack of proof.
+
+        With respect to the microwave, neither the claim (see R4, tab 5 at 55), nor
+Ms. Walker's brief (app. hr. at 60) provided any evidence that the microwave control
+panel was damaged in the manner that she asserts. Moreover, there was evidence from
+SFC Rodriguez that the microwave was tested and worked at the time of the inspection
+(R4, tab 43, i-17), and Ms. Walker confirms that she did test it and it appeared to work at
+that time (app. hr. at 60). In these circumstances, we have no evidentiary basis to believe
+that the microwave was damaged or that SFC Rodriguez was responsible for it.
+
+        The claim regarding the alleged damage to the oven is similar. There is no
+evidence that a blow of any sort caused the oven cleaning latch to break during
+SFC Rodriguez's tenancy- which is consistent with SFC Rodriguez's denial of the
+same (R4, tab 43, ,-i 7). Ms. Walker suggests that the reason that the stove was dirty on
+SFC Rodriguez's departure was because it was not cleanable due to the broken latch
+(app. hr. at 60). This, however, ignores the fact that the stove was dirty at the time that
+it was inspected prior to SFC Rodriguez's tenancy (see R4, tab 26 at 6). Thus, it is
+equally conceivable that the cleaning latch was broken when SFC Rodriguez moved
+in. In any event, even if there were proof that SFC Rodriguez was responsible for the
+broken latch (used only during self..:cleaning), that is hardly cause to justify buying an
+entirely new replacement oven, and we would consider the diminishment in value
+occasioned by such damage to an older stove to have been de minimus, even were
+SFC Rodriguez responsible for it, which he was not.
+
+
+                                            13
+                                        CONCLUSION
+
+            In addition to those damages already found by the CO, we sustain Ms. Walker's
+    appeal in the additional amount of$1,297.16 with CDA interest to run from
+    27 October 2015, the date Ms. Walker's claim was submitted to the CO. This figure
+    represents $270.00 for additional costs related to the kitchen flooring; $712.66 in costs
+    for the interior doors; $164.50 in damages to the new master bathroom; and $150.00 in
+    damages to the original master bathroom. The remainder of the appeal is denied.
+
+           Dated: 27 July 2016
+
+
+                                                      J.'~
+                                                      Administrative Judge
+                                                      Armed Services Board
+                                                      of Contract Appeals
+
+     I concur
+
+
+    RICHARD SHACKLEFORD
+    Administrative Judge
+    Vice Chairman
+    Armed Services Board
+    of Contract Appeals
+
+
+           I certify that the foregoing is a true copy of the Opinion and Decision of the Armed
+    Services Board of Contract Appeals in ASBCA No. 60436, Appeal of Monica Walker,
+    rendered in conformance with the Board's Charter.
+
+           Dated:
+
+
+                                                      JEFFREY D. GARDIN
+                                                      Recorder, Armed Services
+                                                      Board of Contract Appeals
+
+
+                                               14
+f
+i

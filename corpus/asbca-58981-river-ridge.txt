@@ -1,0 +1,1289 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeal of --                                     )
+                                                 )
+River Ridge Development Authority                )      ASBCA No. 58981
+                                                 )
+Under Contract No. DACA27-l-02-477               )
+
+APPEARANCES FOR THE APPELLANT:                          Barry P. Steinberg, Esq.
+                                                        Joseph L. Fuller, Esq.
+                                                         Kutak Rock, LLP
+                                                         Washington, DC
+
+APPEARANCES FOR THE GOVERNMENT:                         Thomas H. Gourlay, Jr., Esq.
+                                                         Engineer Chief Trial Attorney
+                                                        Tarrah M. Beavin, Esq.
+                                                        Lisa M. Patrick Esq.
+                                                         Engineer Trial Attorneys
+                                                         U.S. Army Engineer District, Louisville
+
+                  OPINION BY ADMINISTRATIVE JUDGE CLARKE
+
+        The Indiana Army Ammunition Plant was leased to the River Ridge Development
+Authority (RRDA) for the ultimate purpose of transferring the property to the State of
+Indiana. The lease provided that certain costs could be offset as a credit against the fair
+market rental each year. RRDA disputes the Army's "disallowance" of certain costs as
+credits. We have jurisdiction pursuant to the Contract Disputes Act of 1978 (CDA),
+41 U.S.C. §§ 7101-7109. The parties chose to submit the case on the record pursuant to
+Board Rule 11. We decide entitlement only. We sustain the appeal in part.
+
+                                   FINDINGS OF FACT
+
+       1. In 1992 the Army placed the Indiana Army Ammunition Plant in Charlestown,
+Indiana (INAAP), into caretaker status after over 40 years of INAAP producing, storing,
+and bagging reactive material, including smokeless powder, black powder, and powder
+charges for cannons and mortars (stip. ~ 1). 1
+
+       2. The State of Indiana recognized the INAAP Reuse Authority (RA) as an
+authorized local reuse authority in accordance with Indiana Code, Title 36, Article 7,
+
+
+1
+    The parties entered into a joint stipulation of fact (stip.) dated 22 August 2014.
+Chapter 30, et seq. INAAP Reuse Authority changed its name on 14 April 2004 to the
+River Ridge Development Authority (appellant). 2 (Stip. ii 5)
+
+       3. Public Law (Pub. L.) No. 105-261, section 2843, authorized the Army to
+convey approximately 4,660 acres of INAAP to RRDA for purposes of developing an
+industrial park, which the Army designated parcel 1 and later confirmed the acreage of
+parcel 1 to be approximately 4,390 acres (stip. ii 6). Parcel 2, consisting of approximately
+1,514 acres was claimed by RRDA during state and local screening of federal excess
+property. Pub. L. No. 105-261, section 2843, does not authorize the Army to include an
+indemnification clause in the contract conveying INAAP to RRDA. 112 Stat. 2217-18.
+
+        4. On 30 October 2000, the Army and RRDA entered into a Memorandum of
+Agreement (MOA) for the transfer of the Indiana Army Ammunition Plant and Interim
+Lease No. DACA27-l-00-037 (Interim Lease) (stip. ii 8; R4, tab 2 at 11 3 ; supp. R4, tab Q
+at 31).
+
+TheMOA
+
+       5. The MOA declared that the INAAP was excess to the needs of the Army and
+that parcels 1 and 2 (The Property) would be "transferred" to RRDA as provided in the
+MOA (stip. ii 9; R4, tab 2 at 11-12). Section 2.05 reads in part:
+
+              The Reuse Authority shall pay all expenses for surveys; title
+              insurance costs; real estate transfer taxes, if any; recording
+              fees; and all other reasonable costs/expenses associated with
+              the transfer/conveyance of The Property and personality
+              [sic]. This MOA will be an exhibit to the lease.
+
+(R4, tab 2 at 15)
+
+       6. Section 3.02 of the MOA states in part:
+
+              The Army shall remain responsible for all losses and
+              damages to The Property by fire, wind storm, casualty, or
+              other cause, and for liabilities that may arise due to the
+              activities of the Army's officers, agents, and employees,
+              occurring on The Property or related thereto and prior to
+              leasing or conveyance of The Property to the Reuse
+              Authority and subject to the terms of the Interim Lease.
+
+
+2
+  While the name change was not effective until 14 April 2004, we will refer
+      hereinafter to the INAAP RA as RRDA.
+3
+  Page numbers in Rule 4 file citations are to the consecutively-stamped numbers.
+
+                                            2
+              This provision applies only to the extent that the loss,
+              damage, or liability is not attributable to the activities of
+              the Reuse Authority or its officers, employees, agents,
+              contractors, licensees, or sublessees prior to or during the
+              lease term. Notwithstanding the foregoing, the Army shall
+              have no obligation to repair, replace or demolish property
+              damaged or destroyed prior to transfer, but the Army shall
+              take reasonably appropriate measures to ensure that the
+              portion of The Property upon which the buildings or
+              structures are located is rendered safe in accordance with
+              applicable Federal regulations.
+
+(Stip. ~ 12; R4, tab 2 at 15-16)
+
+       7. Section 3.03 C. of the MOA states in part:
+
+              The Reuse Authority shall indemnify and hold the Army
+              harmless from all claims, liability, loss, cost, or damage
+              that may occur as a result of the Reuse Authority's
+              undertakings under this Section 3.03, except where such
+              claims, liability, loss, cost, or damage is the result of:
+
+              ( 1)  the negligence or misconduct of the Army or its
+              employees, agents, or contractors; or
+
+              (2)    the existence of any hazardous substance, pollutant
+              or contaminant, or petroleum or petroleum derivative on
+              The Property, or portion thereof, prior to the leasing of
+              such Property by the Reuse Authority, to the extent that the
+              Reuse Authority has not contributed to the release of said
+              hazardous substance, pollutant or contaminant, or
+              petroleum or petroleum derivative.
+
+(Stip. ~ 13; R4, tab 2 at 17)
+
+       8. Section 4.01 of the MOA states in part:
+
+              For and in consideration of the leasing of The Property, to
+              include the personal property, the Reuse Authority agrees
+              to the following terms and conditions:
+
+
+                                            3
+                      A. Provide O&M [Operations and Maintenance] for
+               the entire installation .... The O&M expenditures will be
+               considered as offsets to Fair Market Rental (FMR).
+
+(Stip. ii 14; R4, tab 2 at 18)
+
+       9. Section 6.03 of the MOA states in part:
+
+               The Army agrees to complete the environmental cleanup
+               of the Property and provide the applicable warranties and
+               covenants as required by Section 120(h) of CERCLA and
+               other applicable law and regulation, subject to the
+               availability of appropriated funds .... The Reuse Authority
+               or any successor, assignee, transferee, lender, contractor or
+               lessee of the Reuse Authority or its successors or assigns,
+               shall have no obligation to fund, participate in, or complete
+               the cleanup of existing hazardous substances, pollutants or
+               contamination ("Existing Contamination") on or adjacent
+               to The Property ....
+
+(Stip. ii 15; R4, tab 2 at 22)
+
+       10. Section 6.07 of the MOA states:
+
+               The Reuse Authority acknowledges receipt of and has
+               reviewed and carefully inspected the Environmental
+               Baseline [Study] ("EBS") for the Property dated August
+               1998 and November 1998.
+
+(Stip. ii 16; R4, tab 2 at 23)
+
+The Environmental Baseline Study (EBS)
+
+        11. The EBS documented the results of a study of all current and past
+tenant-leased properties within the boundaries of INAAP. The stated purpose was to
+"document whether or not hazardous substances were stored, used, released, and/or
+disposed on INAAP property by current or past Facility-Use tenants" (supp. R4, tab Bat
+1-1 ). The EBS grouped the properties into three classes
+
+               Class I:   Locations/tenants where little or no potential
+                          exists for environmental contamination (office
+                          space, warehousing and storage facilities).
+
+
+                                             4
+              Class II: Locations/tenants where some potential exists
+                        for environmental contamination (machine
+                        shops, manufacturing, chemical storage).
+
+              Class III: Locations/tenants where high potential exists for
+                         environmental contamination or with known
+                         environmental contamination situations (tank
+                         farms, scrap metal operations).
+
+(Id.) The EBS included maps, narrative descriptions for each location/tenant and pictures
+(supp. R4, tab B).
+
+The Interim Lease 4
+
+        12. The Interim Lease stated the fair rental value of The Property at the time of
+execution of the Interim Lease was $1,594,424 and that the projected cost of operation
+and maintenance required by the Army's Operations and Maintenance Plan (O&M Plan)
+was $1,889,438. The Interim Lease states that the "Secretary agrees that all documented
+costs, which are directly related to improvement, operation, maintenance, protection and
+repair, as described in Exhibit D[51, will be applied as an offset to the fair rental due to the
+Lessor under this Lease." (Stip. ii 18; supp. R4, tab Q at 4-5, ii 3.a., c., d.)
+
+       13. Interim Lease Condition 14, "HOLD HARMLESS AND INDEMNITY,"
+provides that the Lessee assumed "all risks of loss or damage to property and injury or
+death to persons" resulting from the condition of the leased premises or its possession or
+use by Lessee (supp. R4, tab Q at 11-12). Lessee waives all claims against Lessor and
+indemnifies and holds harmless the Lessor from any liabilities resulting from Lessee's
+possession and/or use of the leased premises (id.). Condition 14 does not include a clause
+providing indemnity from the Lessor to the Lessee for release of hazardous material.
+
+The Master Lease
+
+        14. The Master Lease, No. DACA27-l-02-477, dated 2 May 2003, replaced the
+Interim Lease and extended the relationship between the Army and RRDA for 25 years
+until 2028. The Master Lease was signed by Mr. Dan James, President, INAAP Reuse
+Authority, on 23 April 2003 and by Mr. Joseph Whitaker, Deputy Assistant Secretary of
+the Army on 2 May 2003. (R4, tab 3 at 70) In the preamble the Master Lease recited,
+"Public Law 105-261, Section 2843 authorized the Secretary of the Army to convey
+approximately 4,660 acres ofINAAP (Exhibit A) to the INAAP Reuse Authority for the
+
+4
+  We do not go into great detail of what is in the Interim Lease because most of what
+      is in the Interim Lease is also in the Master Lease (see findings 14-27).
+5
+  Exhibit Dis the O&M Plan (R4, tab 4).
+
+                                              5
+purpose of developing an industrial park to replace all or part of the economic activity lost
+at the inactivated plant" (R4, tab 3 at 33). The Army agreed to lease The Property and
+RRDA agreed to perform the requirements of the Army O&M Plan in exchange for
+offsetting the costs against the Fair Rental Value of The Property, which was stated in the
+Master Lease to be $1,723,998, based on government appraisals dated 14 July 1999 and
+16 August 1999 (stip., 20; R4, tab 3 at 34-36).
+
+         15. Condition 3.b. of the Master Lease states in part:
+
+                As consideration for the Lease, Lessee agrees to assume
+                responsibility for the care, custody, maintenance, repair,
+                and protection obligations of the Lessee (safety, security
+                including Force Protection, and fire protection including
+                HAZMAT), as outlined in Exhibit D, Army Operation and
+                Maintenance (O&M) Plan.
+
+(Stip., 21; R4, tab 3 at 35)
+
+        16. Condition 3.c. of the Master Lease states that RRDA may accomplish
+environmental restoration projects with the prior written approval of the Army "as
+consideration under this Lease up to the appraised value of the annual leasehold interest"
+(stip., 40; R4, tab 3 at 36). Condition 3.d. states:
+
+                As portions of the Leased Premises are conveyed to the
+                Lessee, the conveyed property will be deleted from the
+                Leased Premises and the O&M requirements under Exhibit
+                D [O&M Plan] will be adjusted accordingly.
+
+(Stip., 27; R4, tab 3 at 36)
+
+       17. Condition 3. f. of the Master Lease contemplates an annual accounting of
+appellant's receipts for subleases on The Property and expenditures related to performing
+the requirements of the O&M Plan. The Master Lease provides that RRDA will submit
+"detailed documentation certified by an independent Certified Public Accountant,
+describing receipts and expenditures related to the Lessee's requirements as outlined in
+Exhibit D," 6 and that the Army will evaluate that documentation. The Master Lease
+indicates that upon completion of the Army's review, the Army will determine
+
+6   As near as we can determine, this phrase is the sole criteria contained in the Master
+        Lease for determining whether the costs at issue are properly includable as
+        credits for appellant pursuant to this accounting. Thus, to be eligible, a
+        documented cost must be related to RRDA's responsibilities under the "O&M
+        Plan (exh. D)."
+
+                                             6
+"additional consideration due, if any, to satisfy the annual Fair Market Value
+requirements" (offset) and if appellant's expenditures exceed the Fair Market Value rent,
+the Army and RRDA agree that the expenditures would be carried over to the subsequent
+years and continue to carry over until such time as all expenditures have been applied to
+consideration due or subsequent purchase of The Property. (R4, tab 3 at 36-37)
+
+        18. Condition 3.g. provides:
+
+               It is understood that taxes, insurance and common area
+               maintenance are the Lessee's responsibility and will not be
+               considered as valid consideration during the annual
+               accounting period. However, for those existing tenants
+               described in Condition No. 3.a., any verifiable costs of
+               taxes, insurance and common area maintenance and any
+               other offsets agreed to by the Lessee and the District
+               Engineer, which are directly or indirectly (pro-rata share)
+               attributable to the existing tenants, will be considered
+               allowable offsets, as described in Condition No. 3.b.
+
+(R4, tab 3 at 37)
+
+        19. Condition 8 of the Master Lease states in part:
+
+               Except as otherwise provided in this Lease and except for
+               (1) the environmental condition of the Leased Premises as
+               reflected in the Environmental Baseline [Study's] (EBS's)
+               dated August 1998, and November 1998, prepared by
+               Plexus Scientific Corporation, attached hereto and made a
+               part hereof as Exhibit E; and (2) obligations imposed under
+               the Comprehensive Environmental Response,
+               Compensation, and Liability Act (42 U.S.C. 9601 et seq.,
+               hereinafter ("CERCLA"), the Leased Premises, including
+               all improvements located thereon, is leased "AS IS" and
+               "WHERE IS" without representation, warranty, or
+               guaranty by the Lessor as to the quantity, quality,
+               character, title, condition, size or kind, or that the same is
+               in condition or fit to be used for the purpose for which
+               intended, and no claim for allowance or deduction upon
+               such grounds will be considered unless the damage under
+               such claim is the result of an act or omission of the Lessor
+               or an agent of the Lessor ....
+
+(Stip. ii 31; R4, tab 3 at 3 8)
+
+
+                                             7
+       20. Condition 11, "PROTECTION OF PROPERTY," provides that RRDA "shall
+keep the premises in good order and in a clean, safe condition by and at the expense of
+the Lessee" and assume responsibility for any damage caused by Lessee's or its
+sublessee's activities on INAAP (R4, tab 3 at 41). "The Lessor shall be responsible only
+for any damages to property, which occurs due to the Lessor's activities" (id.).
+
+       21. Condition 12, "INSURANCE," subparagraph a. provides that the Lessee shall
+obtain comprehensive liability insurance in the amount of no less than $1,500,000 for
+"bodily injuries or death resulting therefrom, property damage, or both ... resulting from
+the operations of the Lessee under the terms of this Lease" (R4, tab 3 at 41).
+Subparagraph 12.f. reads, "Environmental protection is addressed in Condition No. 21,
+CERCLA REMEDIATION, ARMY LIABILITY AND ENVIRONMENTAL
+PROTECTION" (id. at 43).
+
+        22. Condition 14, "HOLD HARMLESS AND INDEMNITY," provides that
+except as otherwise expressly provided in the Master Lease, Condition 14.b. provides that
+RRDA assumes "all risks of loss or damages to property or injuries or death to persons
+which may arise from or be attributable or incident to the condition or state of repair of the
+Leased Premises after the commencement date of the [Master Lease], or [appellant's]
+possession and/or use and occupation of the Leased Premises, or [appellant's] operations
+conducted under this Lease" (stip. ~ 35; R4, tab 3 at 44). Per Condition 14.d., this hold
+harmless and indemnification does not apply to damages, claims, suits, liabilities,
+judgments, costs, expenses and attorney's fees resulting from the negligence or willful
+misconduct of the Army or its officials, officers, agents, employees or contractors; from
+activities undertaken by the Army in relation to environmental remediation of the
+property; or from the Army's activities on the property for which the Army would
+otherwise be responsible (id.).
+
+       23. Condition 14.e. of the Master Lease states:
+
+              The Lessor recognizes and agrees, as set forth in by [sic]
+              Section 330 of Public Law 102-484,Plas amended, to hold
+
+
+7
+    SEC. 330, INDEMNIFICATION OF TRANSFEREES OF CLOSING DEFENSE
+        PROPERTY.
+
+                (a) IN GENERAL.-(1) Except as provided in
+              paragraph (3) and subject to subsection (b), the Secretary
+              of Defense shall hold harmless, defend, and indemnify in
+              full the persons and entities described in paragraph (2)
+              from and against any suit, claim, demand or action,
+              liability, judgment, cost or other fee arising out of any
+
+                                            8
+              harmless, defend, and indemnify in full [appellant] and its
+              employees, agents, contractors, subcontractors, Lessees,
+              sub-lessees, transferees, successors and assigns from and
+              against any suit, claim, demand or administrative or
+              judicial action, liability, judgment, cost or other fee arising
+              out of any claim for personal injury or property damage
+              (including death, illness, or loss of or damage to property
+              or economic loss) that results from, or is in any manner
+              predicated upon, the release or threatened release of any
+              hazardous substance, pollutant or contaminant, or
+              petroleum or petroleum derivative as a result of the
+              Lessor's activities on the Property. This indemnification
+              does not apply to the extent there is a release or threatened
+              release which Lessee, its employees, agents, contractors,
+              subcontractors, Lessees, sub-lessees, transferees,
+              successors and assigns caused or contributed to ....
+
+(Stip. ii 36; R4, tab 3 at 44-45) The parties stipulated that the Army's position on the
+Section 330 Indemnity Provision (Condition 14.e.) is that since the property was not
+closed pursuant to a base closure law, it was ultra vires and invalid as a matter of law
+(stip. ii 37). The Army has admitted that sometime between May 2003 and June 2004
+the Army informed appellant that it would not honor Condition 14.e. (app'x to app.
+Rule 11 br., answer to interrogatory No. 8). No deeds transferring The Property
+contain any reference to this "Section 330 Indemnity" (stip. ii 38).
+
+       24. The record includes an affidavit from Mr. Elliott (app. br., appx. 1).
+Mr. Elliott was the Executive Director of RRDA and primary negotiator during the
+negotiations with the Army for the Interim Lease and Master Lease (id. ii 6). "RRDA's
+potential liability for environmental issues on The Property was of particular concern to
+RRDA and the Army" (id. ii 8). Mr. Elliott recalled that RRDA "pushed for stronger
+environmental protection by the Army for the portion of the ammunition plant we were
+negotiating to receive" (id. ii 10). In paragraph 11, he recalled that they "insisted that the
+Master Lease include an environmental indemnity in light of all of the concerns that arose
+during the Interim Lease. According to Mr. Elliott RRDA wanted an environmental
+
+
+              claim for personal injury or property damage (including
+              death, illness, or loss of or damage to property or economic
+              loss) that results from, or is in any manner predicated
+              upon, the release or threatened release of any hazardous
+              substance or pollutant or contaminant as a result of
+              Department of Defense activities at any military
+              installation (or portion thereof) that is closed pursuant to a
+              base closure law.
+
+                                             9
+indemnity and Condition 14.e. was included in the Master Lease after RRDA requested it
+and the Army agreed to insert it." (Id. ii 11) Mr. Elliott believed that the State oflndiana
+had received the indemnity protection of a provision like 14.e. in the documents
+concerning another transfer of property (id. ii 11 ). Mr. Elliott's affidavit establishes that
+RRDA would not have entered into the Master Lease without Condition 14.e. (id. ii 13).
+
+       25. In its reply brief the Army included an affidavit by Mr. Dupaquier who
+participated in the negotiation of the Interim and Master Lease with RRDA on behalf of
+the Army (gov't reply br., attach. 1). Mr. Dupaquier responded to Mr. Elliott's affidavit.
+Concerning paragraph 11 of Mr. Elliott's affidavit, he disagreed that the Army provided
+indemnification to the State of Indiana but was silent as to Mr. Elliott's assertion that
+RRDA insisted that indemnification be added to the Master Lease and the Army agreed
+to add paragraph 14.e. (id. ii 3.c.). Thus, we find as fact that during negotiations of the
+Master Lease, RRDA and the Army had a "meeting of the minds" that the Army would
+provide environmental hazard indemnification for RRDA, and the parties agreed on
+Condition 14.e.
+
+     26. Condition 21, "CERCLA REMEDIATION, ARMY LIABILITY AND
+ENVIRONMENTAL PROTECTION," notifies appellant:
+
+                      a. Pursuant to Sections 120(h) (1) of CERCLA, as
+              amended, 42 U.S.C. Section 9629 (h) (1), Lessor hereby
+              notifies Lessee that: ( 1) hazardous substances were stored,
+              released, and disposed on the Leased Premises so as to
+              exceed the time period or quantity limits established by
+              40 CFR Part 373 for notification (for the purpose of this
+              Lease, "hazardous substances" shall have the same
+              meaning as section 101(14) of CERCLA); (2) available
+              information regarding the type, quantity, and location of
+              such substances and actions taken is at Exhibit J, attached
+              hereto and incorporated herein; (3) except as indicated by
+              this table at Exhibit J, there is no evidence indicating that
+              hazardous substances were released on site.
+
+                     b. Lessor hereby notifies Lessee that the white
+              areas inside the heavy black lines depicted on Exhibit K
+              are Category 1 properties as set forth in the EBS attached
+              hereto as Exhibit E. Category 1 properties are those
+              properties where no release or disposal of hazardous
+              substances has occurred, including migration of these
+              substances from adjacent areas.
+
+
+                                             10
+                      c. With regard to the Categories 2 through 7cs1
+              properties that are subject to this Lease and also shown on
+              Exhibit Kl 91, the Lessor assumes responsibility to take all
+              response actions, consistent with the planned future use of
+              the Leased Premises as a commercial or industrial park,
+              that are necessary to protect human health and the
+              environment with respect to any such hazardous substances
+              existing on the Leased Premises as a result of the Lessor's
+              or its contractors'.prior use ....
+
+
+                      e. Except as otherwise provided by law, including,
+              but not limited to CERCLA, the Lessor shall not incur
+              liability for additional response action or corrective action
+              found to be necessary after the date of lease unless the
+              storage, release, or disposal of any hazardous substances
+              were due to Lessor's activities, ownership, use, or
+              occupation of the Leased Premises, or the activities of
+              Lessor's contractors, and/or agents.
+
+(R4, tab 3 at 49-51)
+
+        27. Condition 37.c., "PROPERTY MANAGEMENT PLAN," of the Master Lease
+states that RRDA may accomplish environmental restoration projects "as offsets, not to
+exceed the Fair Market Value of the property, and to help accelerate development of the
+industrial park and property conveyance" (stip. if 40; R4, tab 3 at 66-67).
+
+The O&MPlan
+
+       28. The Army's O&M Plan, included as exhibit D to the Master Lease, describes
+the tasks and services developed by the Army for RRDA to fulfill the Army's
+responsibility to preserve and protect The Property while in the ownership of the Army.
+Paragraph I, Purpose of the O&M Plan states, in part:
+
+              The purpose of this O&M Plan is to provide the
+              surveillance and protection requirements to the facility to
+              protect the Army's interests and liability. This document
+
+8 The EBS does not have "Categories 2 through 7," it has "Class I, II, and III" (supp. R4,
+      tab B at 1-1 ). There is no explanation for this in the record.
+9 Exhibit K is a map with seven categories but does not define the categories and is
+
+      largely illegible (supp. R4, tab E).
+
+                                            11
+               identifies the general requirements of maintenance services
+               required at INAAP. Only minimal fire protection, road
+               and grounds, real and personal property maintenance
+               measures are required in addition to safety, security and
+               environmental compliance to protect the Army's liability
+               and interests until the facility is transferred.
+
+(Stip. ,-i 26; R4, tab 4 at 72)
+
+        29. Section D, "SECURITY," of the O&M Plan designates The Property as a
+restricted controlled area and requires RRDA to provide all physical safety and security
+for the leased premises 24 hours a day, 7 days a week (stip. ,-i 29; R4, tab 4 at 76).
+
+       30. Section E, "ENVIRONMENTAL," of the O&M Plan includes detailed
+requirements related to appellant's environmental oversight and management of The
+Property on behalf of the Army including hazardous waste management, permitting,
+reporting, training, and payment of fees to ensure compliance with various environmental
+laws (stip. i-f 30; R4, tab 4 at 79). The O&M Plan requires RRDA to "conduct an
+environmental program which shall include, but is not limited to, establishing,
+developing, and implementing policies, objectives, priorities, procedures, and assigning
+responsibility for complying with an Environmental Quality Program which is designed
+to effectively and efficiently manage and control environmental pollution" (stip. if 30;
+R4, tab 4 at 80, if 2.1.). Section E also contains the following:
+
+                      2.2. INAAP RA will identify, locate, and document
+               all INAAP environmental problems associated within the
+               INAAP RA's operations. The INAAP RA will establish
+               plans in accordance with and comply with all applicable
+               Federal, state, and local environmental laws, regulations,
+               and executive orders. INAAP RA will comply with all
+               applicable Department of the Army policies as set forth in
+               AR 200-1 and AR 200-1 and supplements.
+
+                       2.3. INAAP RA will provide appropriate
+               administrative and technical support to the District
+               Engineer, Commander's Representative, Federal, State or
+               local regulatory agency in conducting specific or multi-
+               media audits, inspections and/or surveys. INAAP RA will
+               correct and/or respond to any violations or deficiencies
+               cited and/or identified by the District Engineer,
+               Commander's Representative, and/or Federal, State or
+               local regulatory agencies during planned and/or unplanned
+               inspections. Corrective actions will be coordinated with
+
+
+                                           12
+              the District Engineer and Commander's Representative.
+              The INAAP RA shall be responsible for the payment of
+              any and all fines, penalties and costs resulting from actions
+              or inaction by themselves and their tenants.
+
+
+                     2.5. INAAP RA shall provide to the Commander's
+              Representative through the District Engineer, all
+              information needed to initiate budgeting documents
+              required to prepare the Army's Environmental Program
+              Requirements Report (See Attachment 3). This will
+              include information to correct existing or potential
+              violations of Federal, State, or local environmental laws,
+              regulations, Army regulations, and Executive Orders. The
+              Army will seek funding to correct identified deficiencies
+              outside the terms of the O&M Plan. Unless specifically
+              directed by the leasing officer, use of facilities shall be at
+              the discretion of the lessee. The correction of deficiencies
+              will be funded by the Army on a case-by-case basis,
+              subject to the availability of funds.
+
+(R4, tab 4 at 80-81)
+
+        31. On 27 August 2004, RRDA sent a letter to William Birney, then Deputy
+Assistant Secretary of the Army, that requested an amendment to the Master Lease that
+"protects the Development Authority from all costs, losses, and expenses which arise
+from or are related to environmental conditions of the property which existed prior to
+conveyance of title" and suggested that these protections be accomplished by providing a
+credit against the purchase price for conveyed property for expenses that occur within ten
+years of conveyance of title. RRDA stated in the letter its position that:
+
+              The need for this protection became apparent after the
+              recent episode between the Army and Chryso (a tenant).
+              In this situation, the Army leased property to Chryso in
+              1994 and ordered the company to cease operations in 2003
+              after it concluded some of the leased premises might be
+              contaminated. An effort was made by the Army to
+              associate [appellant] with liability for damages during this
+              incident. Therefore, it is both justified and necessary that
+              any such costs, losses, or damages be deducted from the
+              purchase price if they occur.
+
+
+                                            13
+(Stip. ii 47; supp. R4, tab Rat 2) RRDA also requested that credits against acquisition
+costs be provided for "the costs of environmental risk insurance to protect against adverse
+environmental conditions not known to the Army or Development Authority at the time
+of the Master Lease" (id. at 3).
+
+      32. The Army, through the then-new Deputy Assistant Secretary of the Army,
+Joseph W. Whitaker, responded to appellant's letter of 27 August 2004 by letter dated
+27 October 2004, stating in relevant part:
+
+              3.   Provide Further Protection Against Losses from
+                   Environmental Conditions-
+
+                   You requested that the Army provide a credit against
+              the purchase price for all costs, losses, and expenses
+              related to pre-transfer environmental conditions that occur
+              within ten years after conveyance of title. Prior to
+              transferring property, the Army is required to complete all
+              remedial action necessary to protect human health and the
+              environment. In addition, the Army will provide a
+              covenant to perform additional remediation found to be
+              necessary after the date of transfer. If there are personal
+              injury or property damage claims as a result of pre-transfer
+              environmental or explosive-safety conditions, Army
+              liability would be determined in accordance with the
+              Federal Tort Claims Act or other applicable law.
+              Therefore, the Army will not provide the RRDA an
+              "environmental conditions" credit.
+
+
+                     F. Regarding environmental risk insurance, please
+              review Condition No. 21, CERCLA Remediation, Army
+              Liability and Environmental Protection of the Master
+              Lease. Prior to transferring property, the Army is required
+              to complete all remedial action necessary to protect human
+              health and the environment. In addition, the Army will
+              provide a covenant to perform additional remediation
+              found to be necessary after the date of transfer; therefore
+              environmental risk insurance is not an allowable expense.
+
+(Stip. ii 48; supp. R4, tab S)
+
+
+                                           14
+      33. RRDA responded to the Army's 27 October 2004 letter with a letter dated
+1 November 2004, which included the following regarding environment liability and
+environmental insurance:
+
+              3. Protection from Losses for Environmental Conditions-
+              We know the Army is liable for damages caused by the
+              environmental conditions it created. We became
+              concerned that the Army may be attempting to avoid its
+              responsibilities for such liability as we observed its actions
+              relative to Chryso (a tenant). This is why we are
+              somewhat skeptical about the Army's follow through on
+              meeting its environmental responsibilities and additional
+              protection is being sought. We will withhold our judgment
+              until we see how the Army resolves the Chryso issue. We
+              may continue to ask for more protection if we are not
+              satisfied with the Army's disposition of the Chryso matter.
+
+
+              Further, the Master Lease provides that we be covered by
+              liability insurance in an amount not less than that which is
+              "prudent, reasonable, and consistent with sound business
+              practices." Therefore, we conclude that no prudent
+              business would accept title to an ammunition plant without
+              environmental liability insurance and that the payment for
+              such insurance is an allowed expense under the terms of
+              the Master Lease.
+
+(Stip. ii 49; supp. R4, tab Tat 1-2)
+
+        34. The Army responded to Appellant's 1November2004 letter with a letter
+dated 14 January 2005, which restated the Army's previous response regarding
+environmental liability as follows: "If there are personal injury or property damage
+claims as a result of pre-transfer environmental or explosive safety conditions, then Army
+liability would be determined in accordance with the Federal Tort Claims Act or other
+applicable law." With respect to environmental insurance, the letter referenced
+paragraph F of the Army's 27 October 2004 letter. (Stip. ii 50; supp. R4, tab U at 1)
+
+RRDA Purchases Environmental Hazard Insurance
+
+      35. After concluding that environmental insurance was RRDA's only
+remaining alternative to mitigate the risks it was now facing, on or about September
+2003, RRDA hired an environmental insurance broker to assist in the purchase of an
+
+
+                                            15
+environmental liability insurance policy. RRDA purchased a policy from Zurich
+Environmental with an effective date of 29 April 2005 and a ten-year term of coverage
+for pre-existing unknown environmental conditions including munitions and
+explosives of concern (MEC), unexploded ordnance, and concussive risk. (Stip. ~ 51;
+supp. R4, tab W; app. br., app'x 1, Elliott aff. ~~ 15-19_)
+
+       36. Policy No. REL 9028576-00 provided $25,000,000 liability for three areas
+of coverage:
+
+             COVERAGE A: FIRST PARTY CLEANUP DISCOVERY
+
+             We will pay on behalf of an "insured" any "cleanup costs"
+             required by "government authority" as a result of a
+             "pollution event" on, at or under a "covered location" that
+             is first discovered by the "insured" during the "policy
+             period", provided that the "claim" is reported to us in
+             writing during the "policy period", or any applicable
+             extended reporting period. Coverage for "claim(s)" due to
+             changes in "governmental authority" during any applicable
+             extended reporting period is set out in EXTENDED
+             REPORTING PERIODS (Section V.).
+
+             COVERAGE B: THIRD PARTY POLLUTION LIABILITY
+
+             We will pay on behalf of an "insured" any "loss" caused
+             by a "pollution event" on, at, under or coming from a
+             "covered location" that an "insured" is legally obligated to
+             pay as a result of a "claim" first made against the "insured"
+             during the "policy period", provided that the "claim" is
+             reported to us, in writing, during the "policy period", or
+             any applicable extended reporting period.
+
+
+             COVERAGE C: MEC LOSS LIABILITY
+
+             We will pay on behalf of an "insured" any "MEC loss"
+             caused by "munitions and explosives of concern" present
+             on or in the soil, on or inside structures, or below the
+             surface of the "covered location(s)" prior to the effective
+             date of this policy, including "MEC loss" as a result of the
+             explosion of the above-referenced "munitions and
+             explosives of concern", that an "insured" is legally
+
+
+                                          16
+               obligated to pay as a result of a "claim" first made against
+               an "insured" during the "policy period", provided that the
+               "insured" reports the "claim" to us, in writing, during the
+               "policy period", or any applicable extended reporting
+               period.
+
+(R4, tab Wat 1, 2of15) 10 The policy also included section IV, "EXCLUSIONS," A
+through HH (id. at 6-9 of 15).
+
+Due Diligence, Boundary Survey & Security Gate
+
+       37. The parties stipulated to the following: "Appellant procured the services of
+professional engineers to review the explosive conditions of the Property and related
+documentation and corrective action plan" (stip. ii 34 ). This is referred to as the "Due
+Diligence" contract. The Due Diligence contract with CH2M HILL, Inc., is attached to a
+7 March 2013 letter from RRDA to the Army (R4, tab 7). The contract with CH2M HILL
+was signed on 8 November 2004 (R4, tab 7 at 108), and is a time-and-material contract
+with a not-to-exceed amount of $50,000 (R4, tab 7 at 104, 110).
+
+     38. In April 2005 RRDA procured a boundary survey for a portion of the property
+known as parcel D2 (stip. ii 28).
+
+       39. On 10 January 2012 RRDA submitted its annual income and expenses for the
+period 1 January 2005 through 31 December 2005 (stip. ii 55). 11 On 7 February 2013 the
+Army sent its reconciliation of income and expenses under the Master Lease for the
+period 1 January through 31 December 2005. The reconciliation "disallowed" the
+following costs:
+
+               ( l .a.) Due Diligence                        $10,036.00
+               (2.a.) Parcel Boundary Surveys                   $840.00
+               (3 .a.) Frontage Road & Utilities              $5,147.00
+               (4.a.) Frontage Road & Utilities              $14,500.00
+               Environmental Liability Insurance          $1,019,875.00
+               Environmental Insurance Broker Fee           $129,350.00
+
+(R4, tab 6)
+
+      40. By letter dated 7 March 2013, RRDA responded to the Army's denial of
+expenses stating:
+
+10
+     The main policy is the last 15 pages of Rule 4, tab W.
+11
+     We do not know why the "annual" submission in 2012 is for the year 2005, but it is
+        supported by the record (R4, tab 6).
+
+                                            17
+             1.a. Due Diligence - $10,036.00; this is a continuation of
+             expenses related to a contract that was carried over from
+             and approved in 2004. The purpose of this expense was to
+             insure RRDA's compliance with regulations concerning
+             existing explosive manufacturing and storage operations
+             located on Army owned property. See the attached general
+             ledger and associated contract marked Attachment l .A.
+
+             2.a. Parcel Boundary Survey - $840.00; this survey
+             expense was required to correct the property line
+             description on the pending transfer of Parcel D2. See
+             attached general ledger marked as Attachment 2.A.
+
+             3.a. Frontage Road & Util - $5,147.00; this expense is
+             related to the relocation of the security gate. See attached
+             general ledger marked as Attachment 3 .A.
+
+             4.a. Frontage Road & Utility - $14,500.00; this expense
+             was necessary to insure proper operation and lighting of
+             the security gate. This amount also included $2,000.00 for
+             security/crisis management training for the proper
+             supervision of security operations associated with Army
+             owned property. See attached general ledger marked as
+             Attachment 4 .A.
+
+(Id. at 96) The attached general ledger entry for the period 1 January 2005 to
+31December2005 for "Due Diligence" indicated a debit amount of$38,918.83, a credit
+amount of $28,883.20, and a balance of $10,035.63 (id. at 98). The claimed $10,036 is
+simply the balance rounded up. Also attached to the letter are copies of checks from
+RRDA to CH2M HILL for $36,512.72, dated 18 January 2005; and $2,406.11, dated
+21March2005, that total $38,918.83 (id. at 99, 102). The general ledger for "Parcel
+Boundary Surveys" shows the $840.00 (id. at 113), and the invoice for that amount has a
+handwritten entry, "South of Fairgrounds - Preparation to convey to RRDA eventually-
+cleared up property line question" (id. at 114). The general ledger entry for: "Frontage
+Rd. & Util Imp" shows $5,147.30 but it is one of four entries totaling $26,554.30 that
+appear to be associated with the security gate relocation. There is no credit amount for
+this activity. (Id. at 116) In the letter, RRDA requested that the Army reconsider its
+disallowance of appellant's 2005 expenditures under the Master Lease and requested a
+contracting officer's final decision as contemplated in the Contract Disputes Act
+applicable to the Master Lease and certified its claim for a credit of $1,179,748 against
+rental payments (stip. if 57; R4, tab 7 at 97).
+
+
+                                          18
+       41. On 1August2013, the Army's contracting officer issued a contracting
+officer's final decision denying all but $2,000 of the expenditure amount, which $2,000
+the Army agreed to deduct from "the amount owed as rent for 2005" and finding that the
+remaining expenditures "were not eligible for reimbursement to RRDA as a credit under
+the lease." (R4, tab 1 at 1, 9)
+
+      42. By letter dated 24 October 2013, RRDA filed a timely notice of appeal with
+the Board. On 25 October 2013, the Board docketed the appeal as ASBCA No. 58981.
+
+                                       DECISION
+
+Contentions of the Parties
+
+       The dispute over environmental insurance constitutes the majority of the dollar
+amount ofRRDA's claim. RRDA argues that even though the indemnification clause
+may be unenforceable as a violation of the Anti Deficiency Act (ADA), since it was a
+basis of the bargain, the Army breached the contract when it reneged on the
+indemnification and refused to modify the contract to make alternative arrangements
+to ensure RRDA did not assume the risks previously covered by Condition 14.e .. The
+Army is therefore liable for the cost of insurance needed to replace the protections lost.
+As part of this argument RRDA argues it is entitled to equitable reformation, and that
+the Army breached its implied duty of good faith and fair dealing. RRDA also claims
+costs for environmental "due diligence" services, a parcel boundary survey, and the
+relocation of a security fence.
+
+       The Army counters that the insurance was unnecessary because it was already
+obligated to provide protection to RRDA by the MOA, Master Lease, O&M Plan,
+FTCA, CERCLA and ITCA. The Army reasons that is should not be liable for the
+cost of insurance that duplicated the protections already in place. The Army argues
+that RRDA is responsible for the costs of the environmental "due diligence" services, a
+parcel boundary survey, and the relocation of a security fence.
+
+RRDA 's Environmental, Munitions and Explosives Liability Insurance
+
+Indemnification Clause 14.e.
+
+       We have found that during negotiations of the Master Lease, RRDA and the
+Army had a "meetings of the minds" that the Army would indemnify RRDA and
+included Condition 14.e. in the lease to provide for this situation (finding 25). The
+parties are in agreement that the Indemnification Clause was unenforceable as it
+violated the ADA (gov't reply br. at 10, attach. 2). We agree with the parties that the
+
+
+                                            19
+Indemnification Clause is unenforceable. 12 Therefore, there is no need of the Board to
+discuss the ADA and the enforceability of the Indemnification Clause.
+
+Insurance Provisions of the Master Lease
+
+       Since the majority of the amount claimed is for insurance costs, we first look at the
+specific provisions relating to insurance in the Master Lease to ascertain if the contract
+allows a credit of such costs towards rent. The first mention of insurance in the Master
+Lease is in Condition 3 .g. where "taxes, insurance and common area maintenance are the
+Lessee's responsibility" and not to be offset from rent except for insurance "attributable"
+to tenants (finding 18). Condition 12, Insurance, subparagraph a. of the Master Lease
+required RRDA to purchase "comprehensive liability insurance" covering risks
+associated with appellant's operation on INAAP. Subparagraph f. excepts environmental
+protection from the comprehensive insurance and refers to Condition 21, CERCLA
+Remediation, Army Liability and Environmental Protection. (Finding 21)
+
+         RRDA argues that the insurance referred to in Condition 3 .g. is not limited to
+'"comprehensive liability insurance' intended to protect against claims 'resulting from
+operations of the Lessee"' as is the insurance required in Condition 12 (app. br. at 49). It
+is true that the word "insurance" in Condition 3.g. is not qualified as in Condition 12.
+However, it is qualified by the requirement, "which are directly or indirectly (pro-rata
+share) attributable to the existing tenants" (finding 18). RRDA argues that it purchased
+environmental hazard insurance "to protect itself and the tenants" 13 from damages
+associated with "preexisting contamination during Appellant's operation of the Property"
+(app. br. at 51). RRDA then concludes, "The overwhelming benefit of the environmental
+insurance purchased by Appellant is attributable to existing tenants on the Property"
+(id.). 14 The Army counters with, "In order to be considered 'attributable to existing
+tenants,' the need for environmental insurance would have to be caused by existing
+tenants" (gov't reply br. at 28). We agree with the Army's interpretation. We do not see
+how the insurance purchased by RRDA benefits tenants. Even if it did, RRDA's
+interpretation that "benefit" is the equivalent of "attributable to existing tenants" is not
+within the "zone of reasonableness" and is not a reasonable second interpretation. States
+Roofing Corp. v. Winter, 587 F.3d 1364, 1369 (Fed. Cir. 2009). Accordingly we
+
+
+12
+   "[A]bsent an express provision in an appropriation for reimbursement adequate to
+      make such payment, [the ADA] proscribes indemnification on the grounds that
+      it would constitute the obligation of funds not yet appropriated." Shell Oil Co.
+      v. United States, 751F.3d1282, 1299 (Fed. Cir. 2014) (quoting Cal-Pac. Utils.
+      Co. v. United States, 194 Ct. Cl 703, 715 (1971)).
+13
+   We note that the tenants are not listed in the policy as the "insured" (supp. R4,
+      tab Wat 1 of 1).
+14
+   We agree with RRDA's argument that insurance does not require District Engineer
+      approval as does "other offsets" in Condition 3.g. (app. br. at 49-51).
+
+                                           20
+conclude that RRDA's environmental hazard insurance is not within the "existing
+tenants" exception in Condition 3.g. and therefore not allowed as an offset by Condition
+3.f. (findings 17-18).
+
+        We interpret Condition 12.f., "Environmental protection is addressed in Condition
+No. 21, CERCLA REMEDIATION, ARMY LIABILITY AND ENVIRONMENTAL
+PROTECTION" to exclude environmental contamination from the mandatory insurance
+required by Condition 12.a. (finding 21). We interpret the factthat environmental liability
+is specifically excluded from Condition 12, Insurance, to mean that the Master Lease
+neither prohibits nor demands insurance to cover environmental contamination and is
+silent on the matter of environmental hazard insurance cost as an offset from the rent.
+
+Appellant's Argument
+
+       RRDA argues that the ADA is not a bar to its recovery of environmental insurance
+costs as a credit against Fair Market Rent and in support of that argument cites several
+cases (app. br. at 28-35). 15 We have reviewed those cases and conclude that their facts
+are not analogous to the facts in the present appeal.
+
+Equitable Reformation
+
+         The Federal Circuit has provided guidance on the availability of reformation:
+
+                      Reformation of a written agreement on the ground
+               of mutual mistake is an extraordinary remedy, and is
+               available only upon presentation of satisfactory proof of
+               four elements.
+
+                      ( 1) the parties to the contract were mistaken in their
+                      belief regarding a fact;
+
+                      (2) that mistaken belief constituted a basic
+                      assumption underlying the contract;
+
+                      (3) the mistake had a material effect on the bargain;
+                      and
+
+
+15
+     National Presto Industries, Inc. v. United States, 167 Ct. Cl. 749 (1964); RCS
+         Enterprises v. United States, 57 Fed. Cl. 590 (2003); Salazar v. Ramah Navajo
+         Chapter, 132 S. Ct. 2181 (2012); South Carolina Public Service Authority,
+         ASBCA No. 53701, 04-2 BCA ~ 32,651.
+
+                                            21
+                       (4) the contract did not put the risk of the mistake
+                       on the party seeking reformation.
+
+National Australia Bank v. United States, 452 F.3d 1321, 1329-30 (Fed. Cir. 2006). 16
+Proof of the elements required to support reformation must be proven by clear and
+convincing evidence. Id.
+
+        RRDA argues that it is entitled to "equitable reformation" because the parties'
+belief that INAAP was closed pursuant to a base closure law providing for
+indemnification was mistaken, stating that "[a]t the time the Government and Appellant
+executed the Master Lease both were mistaken in their belief that the Property was closed
+pursuant to a base closure law" (app. br. at 46). This is an important point because the
+success ofRRDA's argument depends on there being a mistake of fact, not a mistake of
+law. Reformation is not available ifthe mistake is one oflaw. AECOM Government
+Services, Inc., ASBCA No. 56861, 11-1 BCA, 34,667 at 170,773 (post-award change in
+tax law); Safety Training Systems, Inc., ASBCA Nos. 57095, 57166, 14-1BCA,35,509
+at 174,054 (post-award increase in shipping costs). Mistakes oflaw cannot form the
+basis for reformation:
+
+                       GD characterizes the alleged mistake as one of law,
+                not fact, and views the issue as one that is ripe for decision.
+                We agree with GD that the mistake alleged by the
+                Government is one of law. In the absence of unusual
+                circumstances, however, mistakes of law cannot form the
+                basis for reformation. TL. Roof & Associates Constr. Co.
+                v. United States, 28 Fed. Cl. 572, 577 (1993). No unusual
+                circumstances are present here and we find against the
+                Government on its mutual mistake theory as a matter of
+                law. [Citation omitted]
+
+General Dynamics Corp., ASBCA No. 49339, 97-2 BCA, 29,167 at 145,030-31.
+
+       The record provides little to assist us in our consideration of the nature of the
+mistake other than the language of the Master Lease. Based on that language, we
+cannot accept RRDA's contention that the parties were "mistaken in their belief that
+the Property was closed pursuant to a base closure law" (arguably a mistake of fact)
+when the Master Lease itself clearly stated that it was authorized by Public Law
+
+16
+     Another Federal Circuit case cited in cases relied upon by RRDA adds another
+        basis for reformation, violation of a law or regulation intended to benefit
+        contractors. LaBarge Products, Inc. v. West, 46 F.3d 1547, 1550 (Fed. Cir.
+        1995). We need not discuss this line of cases because it is self-evident that the
+        ADA is not intended to benefit contractors.
+
+                                              22
+No. 105-261, Section 2843, and not the base closure law (finding 14). This leads us to
+the conclusion that the alleged mistake was the Army's apparent belief it was
+authorized by the base closure law to include the indemnification, not that the INAAP
+was closed pursuant to base closure law. This is a mistake of law.
+
+      Additionally, it is RRDA's burden to prove the elements necessary for
+reformation. RRDA assumes, without discussion or analysis, that the mistake was a
+mistake of fact. We have found otherwise. RRDA failed to carry its burden,
+reformation is not available in this appeal.
+
+Duty of Good Faith and Fair Dealing
+
+        Next RRDA argues that the Army breached the implied obligation of good faith
+and fair dealing. We agree such an obligation exists. The alleged breach was the Army's
+failure to "mitigate its invalidation of the Condition 14.e Indemnity and repeatedly
+refused Appellant's requests to renegotiate the terms of the Master Lease" (app. br. at
+35). RRDA relies on Comptroller General decisions for the proposition that "the
+Government has a duty to take all reasonable steps to mitigate an ADA violation as soon
+as the violation is identified" (app. br. at 35). RRDA misconstrues what "mitigation"
+means in this context. In both decisions cited by appellant, 55 Comp. Gen. 768,
+B-132900 and B-223857, 17 the suggested mitigation was termination for the convenience
+of the government. Clearly the "mitigation" is ending the ADA violation not mitigating
+the effect of that action on the contractor as suggested by appellant. 18 The Army
+mitigated the ADA violation when it stated Condition 14.e. was illegal and would not be
+enforced. The Army did not violate its duty of good faith and fair dealing.
+
+FTCA,CERCLAand!TCA
+
+        In response to RRDA's 27 August 2004 request for an amendment to the master
+lease to replace the protections afforded by the illegal indemnification (finding 31 ), the
+Army, in denying the request, took the position that RRDA was protected by the Federal
+Tort Claims Act (FTCA) and CERCLA (finding 32). On 1 November 2004, RRDA
+responded that while they "know the Army is liable for damages caused by the
+environmental conditions it created" they were "somewhat skeptical" that the Army
+would live up to its obligations (finding 33). We do not consider RRDA's being
+"skeptical" that the Army would live up to its obligations justifies granting RRDA an
+offset from the rent for insurance that duplicates the protection afforded by the Army.
+
+    In its brief, RRDA argues that the protections afforded by the FTCA, the
+CERCLA, and the Indiana Tort Claims Act (ITCA) do not provide comprehensive
+
+17
+     This decision does not have an associated Comp. Gen. cite.
+18
+     Appellant does not suggest that a termination for convenience is a remedy it seeks.
+
+                                            23
+coverage as did the indemnification in Condition 14.e. (app. br. at 37). RRDA argues
+that limitations in the FTCA's protections exposes it to risk that would have been covered
+by the indemnification in Condition 14.e. (app. br. at 37-38). Similarly, RRDA argues
+that CERCLA is a limited waiver of sovereign immunity. RRDA seems particularly
+concerned that CERCLA does not impose any time constraints on the Army for
+remediation. (App. br. at 38-39) RRDA refers to the ITCA as a "red herring" and we
+tend to agree (app. br. at 39). Significantly, the Army agrees that these laws do not
+"provide the same protection from liability that an indemnification agreement would"
+(gov't reply br. at 14-15). The Army's position is that these laws "provide a broad range
+of protections, and that Appellant overstates the potential liability to which it is subjected
+without the protection of Condition 14.e. of the Master Lease" (id. at 15). RRDA argues
+that the difference in coverage that was lost justifies a credit for the entire insurance
+premium. RRDA argues, "the Government's indifference to Condition 14.e. of the
+Master Lease violates the fundamental principle of contract interpretation that contracts
+must be read to give meaning to all provisions and not render any provisions superfluous"
+(app. br. at 40) (citations omitted). We agree with this well-known tenet of contract
+interpretation. However, we also agree with the Army's reply, "principles of contract
+interpretation [do not] require meaning be given to otherwise illegal and unenforceable
+provisions" (gov't reply br. at 18). RRDA's argument seems to assume that the ADA
+violation is somehow irrelevant (app. br. at 28-35). We found above that Condition 14.e.
+was illegal and that the cases relied upon by RRDA to support its conclusion that the
+illegality did not matter in fact did not support that conclusion.
+
+       The important point we take from these arguments is that both parties agree that
+indemnification Condition 14.e. provided RRDA greater protection from environmental
+damage caused by the Army's activities on INAAP than it derives from the MOA, Master
+Lease, O&M Plan, FTCA, CERCLA and ITCA.
+
+The O&MP!an
+
+        RRDA argues that its insurance premiums and broker's fee are authorized costs to
+perform the requirements of the contract's O&M Plan and should be allowed as an offset
+to rent under Condition 3.f. (app. br. at 41-45). It is correct that by Master Lease
+Condition 3.b. RRDA assumed responsibility for the O&M Plan and Condition 3.f.
+provided for a credit against rent for the costs of appellant's performance of the
+requirements of the O&M plan (findings 15, 17). RRDA points to Master Lease
+Condition 11, Protection of Property, and O&M Plan section E, Environmental,
+paragraph 2., INAAP RA Requirements, as the basis for its right to offset its
+environmental insurance costs (app. br. at 44). Condition 11 placed responsibility on
+RRDA for damage caused by RRDA or its sub-lessee's activities on INAAP (finding 20).
+The O&M Plan section E, paragraph 2.1., requires RRDA to "conduct an environmental
+program which shall include, but is not limited to, establishing, developing, and
+implementing policies, objectives, priorities, procedures, and assigning responsibility for
+
+
+                                            24
+complying with an Environmental Quality Program which is designed to effectively and
+efficiently manage and control environmental pollution" (finding 30). Paragraph 2.2.
+requires RRDA to "establish plans in accordance with and comply with all applicable
+Federal, state, and local environmental laws, regulations, and executive orders" (id.).
+Paragraph 2.3. requires RRDA to "correct and/or respond to any violations or
+deficiencies cited and/or identified by" various state and Federal entities and be
+"responsible for the payment of any and all fines, penalties and costs resulting from
+actions or inactions by themselves and their tenants" (id.). These provisions are very
+broad and give RRDA great discretion to determine how best to fulfill its obligations
+under the O&M Plan. As we stated above, we find nothing in the Master Lease or O&M
+Plan either directing or prohibiting the purchase of environmental hazard insurance as
+part ofRRDA's performance of its obligations under the O&M Plan. There is nothing in
+the Master Lease or O&M Plan that requires RRDA to self-insure. We see no reason
+why, given the broad discretion afforded to RRDA, that environmental hazard insurance
+cannot be part of its performance of the Master Lease and O&M Plan's requirements and
+therefore provide an offset to rent.
+
+Appellant's Environmental, Munitions and Explosives of Concern Liability Insurance Policy
+
+         The insurance policy purchased by RRDA is a complicated document (R4, tab W
+at 1 of 15). For our purposes we need only understand that there are three general
+liabilities covered. Coverage A is for "FIRST PARTY" cleanup costs where the insured
+(RRDA) is "required by 'government authority'" to pay for cleanup resulting from a
+"pollution event" that is "first discovered by the 'insured' during the 'policy period."'
+We understand this to cover contamination caused by RRDA and its tenants. Coverage B
+is for "THIRD PARTY POLLUTION LIABILITY" caused by a "pollution event" for
+which RRDA is "legally obligated to pay." Coverage C is for explosive loss liability for
+a loss RRDA is "legally obligated to pay." We understand Coverage B and C to cover
+contamination caused by the Army and its tenants. An extensive list of exceptions
+applies. (Finding 36)
+
+Protection Provided by the Army
+
+       We next consider the protection provided by the Army in the MOA, Master Lease,
+O&M Plan, FTCA, CERCLA and ITCA. The MOA provided that the Army "shall remain
+responsible" for loss or damage resulting from Army "activities" prior to RRDA leasing
+INAAP (finding 6). The MOA required RRDA to indemnify the Army resulting from its
+"undertakings" under the MOA, however, "hazardous substance, pollutant or contaminant,
+or petroleum or petroleum derivative" on the property prior to the lease were excluded
+from the indemnification (finding 7). The Army agreed to complete environmental
+cleanup as required by CERCLA and "other applicable laws" (finding 9). The Army
+provided a detailed Environmental Baseline Study detailing where environmental
+contamination was likely to exist (findings I 0, 11 ). The "AS IS" and "WHERE IS" clause
+
+
+                                          25
+excludes damage resulting from "an act or omission of the Lessor or an agent of the
+Lessor" (finding 19). The Protection of Property clause excludes damages caused by the
+"Lessor's activities" (finding 20). The hold harmless agreement in the Master Lease
+excludes liabilities resulting from Army negligence and from the Army's activities on the
+property for which the Army would otherwise be responsible (finding 22). The Army
+assumed responsibility for protecting human health and the environment from hazardous
+substances existing on the property as a result of the Army's or its contractor's prior use
+(finding 26). The O&M Plan required the Army to "seek funding to correct identified
+deficiencies" relating to environmental violations (finding 30). We conclude that through
+these provisions the Army provided RRDA significant protection from liability due to
+environmental contamination caused by the Army and its tenants.
+
+The Difference in Coverage between the Insurance and Army Protection
+
+        We conclude that to the extent the insurance policy purchased by appellant covers
+cleanup of Army-caused contamination, it duplicates protection already provided by the
+Army in the MOA, Master Lease, O&M plan, FTCA, CERCLA and ITCA. We refer to
+this as "duplicate coverage." Recall that the parties have agreed that the indemnification
+clause, Condition 14.e., provided more protection to RRDA than the MOA, Master
+Lease, O&M Plan, FTCA, CERCLA and ITCA. Therefore, we conclude that the
+insurance covers more than this "duplicate coverage" for Army-caused contamination.
+The insurance also covers environmental contamination caused by RRDA and its tenants.
+Therefore, there is a "difference" in coverage between the "duplicate coverage" and the
+insurance coverage that does not duplicate the Army's protections. As stated above,
+RRDA purchased duplicate coverage based on speculation that the Army might not live
+up to its obligations and we do not consider this expense to be the Army's responsibility.
+However, we consider purchasing insurance for the "difference" to be within RRDA's
+discretion to implement the O&M Plan and is an expense it may offset against the rent.
+
+       We believe that this "difference" is a matter for quantum and competent evidence
+as to what portion of the insurance premiums and broker fee is attributable to the
+"difference." Since we are deciding only entitlement, we do not comment on this matter.
+
+Due Diligence Costs
+
+       RRDA states, "Appellant submitted the cost of $10,036.00 to the Army for these
+environmental compliance services as credit against the Fair Market Rent" (app. br. at 23,
+~ 63). RRDA contends that it is entitled to offset the $10,036.00 because the study was a
+part of its performance of the O&M Plan section E, Environmental, paragraph 2., INAAP
+RA Requirements (app. br. at 51-52). The Army contends that since it is obligated to
+conduct remediation on the INAAP property it should not bear the cost of a study to
+
+
+                                           26
+assess if the Army is complying with its own regulations or to assess if its remediation
+efforts are adequate (gov't hr., argument§ 11.) 19
+
+       On 8 November 2004, RRDA entered into a time and material contract with
+CH2M HILL to review the explosive conditions of the property. This is referred to as the
+"Due Diligence" contract. (Finding 37) RRDA claimed $10,036.00 as an offset to rent
+for due diligence work in 2005 but the Army disallowed the claim (finding 39). RRDA
+objected to the disallowance, asked for reconsideration and a final decision in a 7 March
+2013 letter. In the letter, RRDA referred to the $10,036.00 as a "continuation of
+expenses related to a contract that was carried over from and approved in 2004." The
+general ledger attached to the letter, with copies of two checks, proves that RRDA paid
+CH2M HILL $38,918.83 for work on the contract. The general ledger indicated a credit
+amount of $28,883.20. The claimed $10,036.00 is the difference between the total paid
+of$38,918.83 and the credit amount of $28,883.20. (Finding 40)
+
+        None of these payments are mentioned by either party in their briefs or reply
+briefs. Neither party explained the meaning of the letter, the invoices, the checks, and
+most importantly the general ledger entries. Therefore, we must take the documents at
+face value and draw our conclusions as best we can. We conclude that the checks prove
+that CH2M HILL was paid $38,918.83. The $10,036.00 is the difference between the
+$38,918.83 paid and the $28,883.20 credit amount. What we do not know and cannot
+decipher is ifthe credit amount means that the Army allowed a credit against rent of
+$28,883.20 in 2004.
+
+       Keeping the above in mind, we apply the same interpretation of the Master Lease
+and O&M Plan to the "Due Diligence" claim as we did for the insurance costs. We found
+that Master Lease Condition 11, Protection of Property, and O&M Plan section E,
+Environmental, paragraph 2., INAAP RA Requirements "are very broad and give RRDA
+great discretion to determine how best to fulfill its obligations under the O&M Plan."
+Nothing in the Master Lease or O&M Plan limits RRDA's discretion to double check the
+Army's efforts at INAAP. Therefore, we agree with RRDA that the Due Diligence
+contract was within its discretion to determine how best to implement the O&M Plan and
+the costs are eligible to be offset against rent.
+
+Parcel Boundary Survey
+
+        The parties stipulated that RRDA procured a parcel boundary survey in April 2005
+(finding 38). The MOA states that RRDA shall pay for surveys "associated with the
+transfer/conveyance of The Property" (finding 5). RRDA's 7 March 2013 letter states
+that the "survey expense was required to correct the property line description on the
+pending transfer of Parcel D2" (finding 40). The invoice includes a handwritten
+
+
+19
+     The Army Rule 11 brief does not have page numbers.
+
+                                           27
+comment that it was in "Preparation to convey" 20 (id.). RRDA characterizes the survey
+as "necessary for Appellant to meet its obligations under the Master Lease by ensuring
+that the costs of safety and security were separately allocated between the new Property
+boundaries, which were creditable against Fair Market Rent, and the conveyed property,
+which were the responsibility of Appellant" (app. br. at 53). On this rather meager record
+we agree with the government that RRDA "attempts to re-characterize a disposal expense
+as an O&M expense" (gov't reply br. at 33). RRDA is responsible for this expense and it
+may not be offset as a credit against the rent.
+
+Relocation of the Security Gate
+
+       The Army disallowed $5,147.00 for relocation of a gate and $14,500 for electrical
+work associated with the relocation of the gate (finding 39). It is unclear why the general
+ledger for this work shows $26,554.30 whereas RRDA claims $17,647 ($5,147 +
+$12,500). 21 In any event, the relocation of the gate was apparently necessitated by the
+transfer to parcel D2. Since the gate is necessary to comply with the Master Lease and
+O&M Plan requirements to protect and secure the property (findings 20, 28, 29), we
+agree with RRDA that these costs are eligible to be a credit against the rent.
+
+                                    CONCLUSION
+
+       As discussed above, RRDA's appeals for the costs is sustained in part. The .
+appeal is remanded to the parties to determine quantum in accordance with this opinion.
+
+        Dated: 22 March 2016
+
+
+(Signatures continued)
+
+
+20
+     We found nothing in the record explaining this entry.
+21
+     Of the $14,500, $2,000 was allowed thus reducing the claimed amount to $12,500
+         (R4, tab 1 at 09).
+
+                                           28
+I concur                                        I concur
+
+
+~#--
+1MARK N. STEMP ER
+Administrative Judge
+                                                                CKLEFORD
+                                                Administrative Judge
+Acting Chairman                                 Vice Chairman
+Armed Services Board                            Armed Services Board
+of Contract Appeals                             of Contract Appeals
+
+
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA No. 58981, Appeal of River
+Ridge Development Authority, rendered in conformance with the Board's Charter.
+
+      Dated:
+
+
+                                                JEFFREY D. GARDIN
+                                                Recorder, Armed Services
+                                                Board of Contract Appeals
+
+
+                                          29

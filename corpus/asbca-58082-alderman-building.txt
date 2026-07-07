@@ -1,0 +1,946 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeal of --                                 )
+                                             )
+Alderman Building Company, Inc.              )      ASBCA No. 58082
+                                             )
+Under Contract No. N40085-09-D-5321          )
+
+APPEARANCE FOR THE APPELLANT:                       Marilyn H. David, Esq.
+                                                     D’Iberville, MS
+
+APPEARANCES FOR THE GOVERNMENT:                     Craig D. Jensen, Esq.
+                                                     Navy Chief Trial Attorney
+                                                    Genifer M. Tarkowski, Esq.
+                                                     Trial Attorney
+
+                OPINION BY ADMINISTRATIVE JUDGE YOUNGER
+
+       In this sponsored appeal regarding a contract for the renovation and interior repair
+of a building, Alderman Building Co., Inc. (Alderman), seeks unabsorbed home office
+overhead on behalf of its electrical subcontractor relating to performance delays. The
+issues are heavily fact-intensive, and we have previously denied motions for summary
+judgment filed by both parties. After disposition of their summary judgment motions, the
+parties elected to submit the appeal on the record pursuant to our Rule 11 and
+supplemented the record with additional documents. Both entitlement and quantum are
+before us for decision. We sustain the appeal in part.
+
+                                 FINDINGS OF FACTS
+
+       A. Contract and Subcontract
+
+       1. By date of March 27, 2009, the Navy awarded a Task Order for supplies or
+services under Contract No. N40085-09-D-5321 to Alderman for renovations of the
+interior, repairs to building systems, and incidental related work, on building M403
+at Marine Corps Base Camp Lejeune, North Carolina (R4, tab 1 at 1-7). The
+Task Order provided that “[t]he entire work . . . shall be completed by 3/22/2010”
+(id. at 7).
+
+     2. The contract contained various standard clauses, including Federal Acquisition
+Regulation (FAR) 52.233-1, DISPUTES (JUL 2002); FAR 52.242-14, SUSPENSION OF
+WORK (APR 1984); and FAR 52.243-4, CHANGES (JUN 2007) (R4, tab 5.6 at 958).
+       3. By date of April 8, 2009, Alderman entered into a subcontract with
+Big John’s Electric Co., Inc. (Big John’s), for labor, equipment, materials, and
+supplies for specified portions of the interior repairs to the building (R4,
+tab 5.12 at 995). Big John’s was an electrical subcontractor that performed
+approximately 90 percent of its work on Federal projects (ex. A-1, tab 40 ¶¶ 2-27).
+The subcontract provided that “time is of the essence,” and that Big John’s was to
+“begin work within 7 days after notification” by Alderman (R4, tab 5.12 at 996).
+
+        B. Delays
+
+       4. Approximately two months after award, by email dated May 27, 2009, the
+Navy directed Alderman to “[c]ontinue to get all of your submittals approved and
+ready to start construction and we will move the [contract completion date]”
+accordingly when we have a nailed down work start date” (R4, tab 5.13). We find
+that the Navy expected the work to be initiated with full force by all parties.
+
+       5. While the solicitation provided that the contract start date would be
+10 days after award (R4, tab 5.6 at 948), we find that contract performance was
+characterized by repeated government-caused delays that aggregated to 263 days
+and pushed the start work date into February 2010. The delays were chiefly caused
+by the unavailability of new facilities for the existing tenants in building M403
+(R4, tab 6 at 1107). The multiple delays to the start date were memorialized
+as follows:
+
+ Date                  Document               Start Date            Record Citation
+ January 13, 2009      Solicitation           10 calendar days      R4, tab 5.6 at 948
+                                              after award.
+ March 10, 2009        Solicitation           “Work may not         R4, tab 1 at 21
+                       Amendment              begin . . . until
+                       No. 0003               01 June 2009.”
+ May 27, 2009          Email, Navy            “Lets plan on         R4, tab 5.13
+                       project engineer       starting” in mid-
+                       to Alderman            July 2009 “time
+                       Project Manager        period.”*
+ June 19, 2009         Email, Navy            Afraid construction   R4, tab 5.14
+                       project engineer       may be pushed
+                       to Alderman            back to August
+                       Project Manager        2009.
+
+
+                                          2
+ July 1, 2009         Email, Navy             “Lets set the new      R4, tab 5.15
+                      project engineer        start date at 15
+                      to Alderman             October” 2009.*
+                      Project Manager
+ July 7, 2009         CO Suspension           Suspension “until      R4, tab 5.16
+                      Letter to               further notice.”
+                      Alderman
+ July 9, 2009         Email, Alderman         Project start date     R4, tab 5.17
+                      Project Manager         “suspended until
+                      to Subcontractors       October” 2009.*
+
+ September 30, 2009 Email, Alderman           “[N]ew start date      R4, tab 5.18
+                    Project Manager           for the project is
+                    to Subcontractors         12/15/09.”
+ November 18, 2009 Email, Navy                “We are still on for   R4, tab 5.20
+                   project engineer           15 December
+                   to Alderman                [2009] at this
+                   Project Manager            point.”*
+
+ December 8, 2009     Email, Navy             “[N]o earlier than     R4, tab 5.21
+                      project engineer        the 1st of February
+                      to Alderman             [2010] for
+                      Project Manager         Starting.”
+
+ December 8, 2009     Email, Alderman         “Project will not be   R4, tab 5.22
+                      Project Manager         starting now until
+                      to Subcontractors       February 1st
+                                              [2010], at the
+                                              earliest.”*
+ February 2, 2010     Email, Navy             Some tenants not       R4, tab 5.28
+                      project engineer        moving out “until
+                      to Alderman             sometime, probably
+                      Project Manager         after the 9th”;
+                                              others will vacate
+                                              on the 8th.
+
+
+ *Underscoring in original.
+
+       6. In his July 7, 2009 letter to Alderman, the contracting officer had advised
+that, pursuant to the Suspension of Work clause (see finding 2), “you are hereby
+
+
+                                          3
+directed to suspend all work under the referenced contract,” with an exception not
+relevant here, “until further notice.” The contracting officer’s cited reason was
+“Government delays in vacating the premises.” (R4, tab 5.16 at 1004) The
+contracting officer’s notice did not contain any explicit direction to Alderman to
+place its work force on standby during the suspension period.
+
+        7. After the delays set forth in finding 5, above, Alderman began contract
+performance on February 19, 2010 (ex. A-1 at 2). Big John’s began performance
+of its subcontract on the same date and completed work on October 28, 2010
+(ex. A-1, tab 40 ¶¶ 4-5).
+
+      8. In a three-part email string dated March 17, 2010, the Navy project
+engineer agreed to submit Alderman’s requested 270-day time extension in the
+contract completion date to the contracting officer (R4, tab 4.11).
+
+      C. Claims Sponsorship Agreement
+
+       9. By date of August 18, 2011, Alderman and Big John’s executed a
+Claims Sponsorship Agreement (R4, tab 5.57). In the introductory paragraph of
+that agreement at issue here, the two parties provided:
+
+            WHEREFORE, pursuant to the terms of the
+            Subcontract, and this Agreement, Contractor and
+            Subcontractor agree that the Owner is the ultimate
+            responsible party to pay for the Subcontractor’s and
+            Contractors’ claims, and further agree that it is the
+            intent of this Agreement to reserve and preserve to
+            Subcontractor the right to have its claims prosecuted in
+            Contractor’s name against the Owner, in accordance
+            with this Agreement.
+
+(R4, tab 5.57 at 1101) Consistent with that stated intent, the agreement provided
+in paragraph 1 that “Contractor will pay any Subcontractor’s sums due
+Subcontractor with respect to its claims promptly upon payment to Contractor by
+the Owner” (id.). It also provided in paragraph 2(a) that “[t]he claims of
+Subcontractor will be included in a claim to be presented by Contractor and
+Subcontractor in the name of Contractor against the Owner before the
+Contracting Officer . . .” (id.).
+
+      10. We find no evidence in the record that Big John’s released Alderman
+from liability to Big John’s for any costs of performing its subcontract.
+
+
+                                        4
+      11. By date of February 20, 2012, Alderman’s president executed a final
+release under the prime contract providing that, in consideration of a specified
+sum, Alderman:
+
+             [D]oes, and by the receipt of said sum shall, for itself,
+             its successors and assigns, remise, release and forever
+             discharge the Government, its officers, agents, and
+             employees, of and from all liabilities, obligations and
+             claims whatsoever in law and in equity under or arising
+             out of said contract.
+
+(Respondent’s Motion for Summary Judgment and Motion to Dismiss for Lack of
+Jurisdiction, dated August 31, 2012, attachment A) The release does not contain
+any reservation of rights by Alderman (id.). In a March 13, 2015 stipulation, both
+parties agreed that the release does not bar this appeal (ex. A-5).
+
+      D. Claim and Appeal
+
+12. By letter to the contracting officer dated August 18, 2011, Alderman
+submitted a pass-through claim for $20,518, on behalf of Big John’s, for Eichleay
+damages, and for attorney fees and expenses, breach of contract, and requested a
+contracting officer’s final decision (R4, tab 5 at 869, 874, 884). In the course of
+this litigation, Dr. Seals (see finding 14) calculated that the correct amount of the
+claim should be $56,548 (ex. A-4, tab 7). We find no evidence that the claim
+included an item for the direct costs of standby. We find that the contracting officer
+received the claim on August 24, 2011 (R4, tab 5 at 868).
+
+       13. By date of January 19, 2012, the contracting officer denied the claim in
+its entirety (R4, tab 6). Alderman thereafter, brought this timely appeal.
+
+       14. Alderman’s position in this appeal relies heavily on the expert opinion of
+Roger K. Seals, Ph.D., P.E., a retired professor of Civil and Environmental
+Engineering at Louisiana State University. Dr. Seals’ report has multiple iterations
+in the record. The version that we understand to be authoritative is his 2nd
+Supplemental Expert Report – Corrected Version, dated October 17, 2016. It
+appears in the record as Exhibit A-27. Unless otherwise indicated, citations to the
+Seals report are solely to this corrected version of the original report.
+
+       15. We find that Dr. Seals is qualified as an expert in civil engineering. We
+find no evidence, however, that he is qualified as an expert in cost accounting.
+
+
+                                          5
+      E. Standby
+
+       16. We find that, during Delay 1, which ran from June 1, 2009 to February 11,
+2010, the Navy did not explicitly require Alderman or Big John’s to place their
+workforces on standby (ex. G-5 at 174).
+
+        17. We find that it was the Navy’s practice to afford Alderman and Big John’s
+little advanced notification of the delays in the project’s start dates. With his expert
+report, Dr. Seals included a table showing both definite and indefinite start dates for
+each delay (ex. A-1 at 3). Dr. Seals opined that “these notification periods were
+inadequate for material acquisition and re-scheduling and/or rehiring employees” (id.
+at 8). Mr. Michael Dougherty, Big Johns’ project manager, agreed regarding the
+inadequacy of the periods with definite dates and stated that, with respect to the
+remaining start date notices, which were sent on May 27, June 19, and July 7, 2009:
+
+             [T]he Navy did not even give definite, revised start-dates
+             that [Big John’s] could use for planning. Instead, the Navy
+             gave indefinite, broad timeframes like “mid-July,”
+             “August,” and “until further notice.” These indefinite dates
+             prevented [Big John’s] from being able to schedule
+             replacement work or to take its workers off of standby for
+             the . . . job.
+
+(Ex. A-1, tab 40 ¶ 26)
+
+       18. The Navy points to three email exchanges that are said to show that it did
+not require Alderman to resume work immediately and at full speed (Respondent’s
+Cross-Motion for Summary Judgment and Response in Opposition to Appellant’s
+Motion for Partial Summary Judgment Regarding (1) Unabsorbed Overhead Under
+Alternative to Eichleay Formula and (2) Standby Labor Costs, dated September 27,
+2013 at 9-10). We find that none are conclusive. The first cited exchange is dated
+February 1, 2010 between Alderman, Big John’s, and the Navy. It was, by its terms,
+technical in nature, initiated by the subcontractor’s expression of “a few concerns
+with a partial turnover of the building” regarding “several circuits.” (R4, tab 4.5)
+The second cited exchange is between the Navy project engineer and Alderman on
+January 28 and February 2, 2010 regarding “New Developments.” It relates to
+arrangements to have “temp. power going before the start date,” to avoid consuming
+time on such arrangements when work ultimately began. (R4, tab 4.6) The third
+cited exchange is between the project engineer and Alderman on February 1-2, 2010
+regarding the cost of doing inside work while the building was partially occupied,
+as well as tracking “contractual impacts . . . due to the government delays [for] a
+revised cost proposal” (R4, tab 5.27).
+
+
+                                           6
+      19. By date of August 16, 2010, the Navy and Alderman executed
+Modification No. 03 which, in pertinent part, increased the contract performance
+time by 270 calendar days (R4, tab 3 at 847-48). We find that this modification,
+executed seventeen months after contract award (see finding 1), was the first time
+extension granted to Alderman by the Navy.
+
+      20. With respect to standby, Dr. Seals set forth his conclusion that:
+
+             [I]t was necessary for Big John’s to be prepared to
+             commence work immediately when the delays were lifted,
+             not as much as 7 days thereafter, because of the overriding
+             factors of proper project coordination and prevention of
+             liquidated damages.
+
+(Ex. A-1 at 8)
+
+       21. Dr. Seals conceded at his deposition that he never found a document in
+which the Navy explicitly directed Big John’s to keep its workforce on standby,
+ready to perform work immediately (ex. G-5 at 174). Dr. Seals also testified that
+Big John’s kept its workforce on standby because of the Navy’s failure to issue a
+time extension and the threat of liquidated damages:
+
+             [T]he fact that they [Big John’s] were dealing with
+             potential for liquidated damages, the fact that they were at
+             this point, they had no extension for the completion date
+             and, thus, they stood . . . the possibility of liquidated
+             damages – I think that really drove the decision making on
+             the part of Big John’s to ensure that they had standby so
+             they could begin work immediately.
+
+(Ex. G-5 at 175)
+
+      22. Dr. Seals’ overall conclusion regarding standby as it affected Big John’s
+was that:
+
+             [C]ircumstances surrounding the short durations of time
+             and indefinite new start dates after each postponement
+             notification caused insufficient time for Big John’s to take
+             its workers off of standby status during either Delay 1 or
+             Delay 2. I conclude Big John’s keeping workers on
+             standby was necessary and reasonable, in order to respond
+             to the dwindling period of performance with no time
+             extension, and due to [] other factors . . . .
+
+
+                                          7
+(Ex. A-27 at 51)
+
+        23. Alderman has also tendered the affidavit of Mr. Dougherty, Big John’s
+project manager. Mr. Dougherty’s background is in “residential, commercial and
+light industrial construction, specifically electrical subcontracting” (ex. A-1, tab 40 ¶
+1). In this first affidavit, he noted that “the project was delayed 8 times from the
+original date of June 1, 2009 to February 19, 2010” (id. ¶ 6). With respect to the Navy
+project engineer’s May 27, 2009 email regarding the first post-award delay (see finding
+4), Mr. Dougherty stated that the email resulted from Alderman’s request for
+clarification of the start date, but that the Navy “failed to give a definite date for
+ending the delay” (ex. A-1, tab 40 ¶ 11).
+
+       24. In his second affidavit in the record, Mr. Dougherty attested:
+
+             22. Throughout both delay periods [June 1, 2009 –
+             February 11, 2010 and February 17, 2010 - February 19,
+             2010], Big John’s planning for the Bldg. M403 work was
+             hampered by important uncertainties. These included the
+             availability of qualified workers for rehire when the delays
+             ended, the diminishing period of performance with no
+             Navy time extension, the potential for liquidated damages
+             that could be imposed by the Navy since there was no time
+             extension, and the Navy’s pattern of issuing short-notice
+             postponements which overruled each other and many of
+             which had no clear or definite start-date.
+
+             23. These uncertainties were not under Big John’s control.
+             If Big John’s were to be able to start and complete the
+             work on time, then Big John’s had to keep a sufficient
+             workforce on standby during both delays.
+
+(Ex. A-4, tab 45 ¶¶ 22-23)
+
+       25. Mr. Daugherty also stated, and we find, that Big John’s “kept 2 workers
+on standby as floated or nonproductive labor during the period from 3 June 2009
+to 17 February 2010” (ex. A-1, tab 40 ¶ 31). These workers “would be a full crew
+and would be able to commence work . . . immediately” (id. ¶ 33).
+
+        26. The Navy points to several emails in 2010 which it says demonstrate
+that it and Alderman “openly negotiated when to begin [building] M403 contract
+performance” (gov’t br. at 13-14). We find these emails unpersuasive because, by
+their own terms, they reflect little to no actual negotiation. Thus, while the Navy
+
+
+                                            8
+stated in its January 28, 2010 email that it wanted to reschedule a power outage in
+building M403 to February 19, 2010, and inquired whether that rescheduling
+would affect Alderman’s schedule (see R4, tab 4.6), this email pertained to one of
+the last in a series of revisions to the contract start date (see finding 5). It did not
+occur until Delay 1 (June 1, 2009 – February 11, 2010) was almost concluded,
+and, in any event, the parties did not agree to the proposed February 19 revised
+start date. We further find that the January 28, 2010 email, as late in the
+performance period as it was, constituted the first time that the Navy asked
+Alderman about the scheduling impact of a revised start date.
+
+       27. The Navy also relies upon an email chain beginning on February 2,
+2010 that is also said to show that the parties negotiated the start date for when
+work would begin and “therefore the Navy did not require Alderman or Big John’s
+to resume work immediately” (gov’t br. at 14). The Navy asserts that a February
+2, 2010 email from Alderman requesting that the Navy reschedule the planned
+February 19, 2010 power outage to an earlier date, stating that Alderman “would
+like to get Big John’s to set the pole and have the temp. power going before the
+start date of the project” (R4, tab 4.6; ex. A-27 at 28 ¶¶ 4-5).
+
+      28. We find that Alderman and the Navy did not reach agreement on an
+extension of the contract completion date until August 16, 2010, when they executed
+Modification No. 03 (see finding 19).
+
+       F. Replacement Work
+
+       29. We find that in the period of June 4, 2009 through February 18, 2010,
+Big John’s bid on 28 other contracts, from which it received five contract awards in
+the total amount of $3,552,312 (R4, tab 5.53; ex. A-2 at 11). The Navy contends
+that these five contracts constituted replacement contracts, by which it means that
+Big John’s was able to bid on this work because it was not occupied in performing
+the contract at issue, and that they were adequate to absorb overhead that would
+otherwise have been paid by this contract. The five contracts pointed to as
+replacement contracts are as follows:
+
+       (a) a $505,000 contract for building 118 dated June 26, 2009 (ex. A-2
+           at 11-13, section E; ex. A-2, attach. SR2B at 4);
+
+       (b) a $1,046,500 contract for buildings 205 and 213 dated June 29, 2009
+           (id.);
+
+       (c) a $445,000 contract for building 19 dated July 15, 2009 (id.);
+
+       (d) a $668,700 contract for building 730 (id.); and
+
+
+                                             9
+       (e) a $887,121 contract for P619 Tactical Van Pad dated January 26,
+           2010 (id.).
+
+       30. During Delay 1 and Delay 2, Big John’s received a total of $147,416 under
+three replacement contracts on the following dates and in the following amounts:
+
+       Date                        Amount               Replacement Contract
+       January 6, 2010             $15,070              19B
+       February 3, 2010            $43,310              19B
+       February 22, 2010           $89,036              205, 213
+
+(Ex. A-2 at 11-13, section E; ex. A-4, tab 12; ex. A-4, tab 24 at 168-69; ex. A-27 at 55 ¶ 8)
+
+       31. During Delay 1, Big John’s posted actual labor charges on four replacement
+contracts, as follows:
+
+       (a) on October 14, 2009, to replacement contract 213 (ex. A-2, attach. SR2B at 4);
+
+       (b) on November 11, 2009, to replacement contract 19 (id.);
+
+       (c) on November 18, 2009, to replacement contract 118 (id.); and
+
+       (d) on January 6, 2010, to replacement contract 730 (id.).
+
+      32. During Delay 1, Big John’s submitted five invoices for a cumulative amount
+of $188,452 under replacement contracts, as follows:
+
+       (a) by date of October 26, 2009, Big John’s invoiced $60,000 for replacement
+           contracts 205 and 213 (ex. A-2, attachment SR3 at 5; ex. A-2 at 11-13,
+           section E; ex. A-4, tab 12; ex. A-4, tab 33C at 444-52);
+
+       (b) by date of December 18, 2009, Big John’s prepared an invoice for $15,070 for
+           replacement contract 19B (ex. A-2, attachment SR3 at 5; ex. A-2 at 11-13,
+           section E; ex. A-4, tab 12; ex. A-4, tab 36C at 651-55);
+
+       (c) by date of January 14, 2010, Big John’s prepared an invoice in the amount of
+           $43,310 for replacement contract 19B (ex. A-2, attachment SR3 at 5; ex. A-2
+           at 11-13, section E; ex. A-4, tab 12; ex. A-4, tab 36C at 656-59);
+
+       (d) by date of January 25, 2010, Big John’s prepared an invoice in the amount of
+           $89,036 for replacement contracts 205 and 213 (ex. A-2, attachment SR3 at 5;
+           ex. A-2 at 11-13, section E; ex. A-4, tab 12; ex. A-4, tab 33C at 453-61); and
+
+
+                                             10
+      (e) by date of January 26, 2010, Big John’s prepared an invoice in the amount of
+          $36,036 for replacement contract 118 (ex. A-2, attachment SR3 at 5; ex. A-2
+          at 11-13, section E; ex. A-4, tab 12; ex. A-4, tab 31C at 318-22).
+
+       33. Big John’s attributed home office overhead expenses to four replacement
+contracts during Delay 1, as follows:
+
+      (a) on July 15, 2009, Big John’s started home office overhead for replacement
+          contract 205 (ex. A-2, attach. SR2B at 4);
+
+      (b) on July 15, 2009, Big John’s started home office overhead for replacement
+          contract 213 (id.);
+
+      (c) on July 28, 2009, Big John’s started home office overhead for replacement
+          contract 19B (id.); and
+
+      (d) on July 30, 2009, Big John’s started home office overhead for replacement
+          contract 118 (id.).
+
+       34. Mr. Daugherty attested, and we find, that Big John’s was unable to obtain
+sufficient replacement work during the delay periods to absorb the overhead that it
+would have realized had it been performing its subcontract with Alderman during the
+delay periods (ex. A-2 at 11, ¶ 2; ex. A-1, tab 40 ¶ 35).
+
+      35. Mr. Daugherty attested that “Big John’s began seeking other work to
+perform as soon as it learned that the Building M403 job would be delayed to June 1,
+2009” (ex. A-1, tab 40 ¶ 34). Mr. Daugherty summarized:
+
+             From June 4, 2009 – February 18, 2010, Big John’s
+             submitted a total of 28 bids and received 5 contract awards
+             for Federal jobs. . . . Big John’s submitted 10 of those 28
+             bids during June 2009, and 10 during August and
+             September 2009. The awards totaled $3,552,312 . . . .
+
+(Id.) With respect to the process of seeking replacement work, Mr. Daugherty
+identified the Navy’s notification policy as an obstacle to scheduling adequate
+replacement work. He attested that “the Navy gave very short advance
+notifications of when each delay was to end and work had to start” (id. ¶ 26;
+see also finding 5). Some notification periods, Mr. Daugherty attested, “did not
+allow Big John’s sufficient time for acquiring materials and re-scheduling
+
+
+                                          11
+and/or re-hiring employees.” With respect to other notification periods,
+Mr. Daugherty attested that “the Navy gave indefinite, broad timeframes like
+‘mid-July,’ ‘August,’ and ‘until further notice.’ These indefinite dates prevented
+[Big John’s] from being able to schedule in replacement work or to take its workers
+off standby . . . .” (Id. ¶ 26) Mr. Daugherty also attested that the short notification
+periods posed an obstacle to Big John’s’ rescheduling of employees. “Re-hiring
+qualified employees laid off due to lack of adequate work also requires time to
+accomplish,’ he attested, and it “cannot be accomplished during notification periods
+running from only 4 to 7 days, or when new definite start-dates are not provided”
+(id. ¶ 27). We find this evidence from Mr. Daugherty credible.
+
+      36. With respect to replacement work, Dr. Seals concluded:
+
+             It is evident that Big John’s was active in seeking
+             replacement work and was successful, as measured against
+             the company’s previous bid-and-award history . . . . Despite
+             this, the billings for replacement work were insufficient to
+             compensate Big John’s for unabsorbed [home office
+             overhead] as calculated [earlier in his report].
+
+(Ex. A-27 at 71)
+
+     37. We find that Big John’s substantially completed its subcontract work on
+August 24, 2010 (ex. A-27 at 19, ¶¶ 6, 10).
+
+       38. While the Navy asserts that Big John’s was “working on at least six
+other contracts during the M403 Contract suspension period” (gov’t br. at 20),
+we find the Navy’s contention, in and of itself unpersuasive because it does not
+establish that billings for these replacement contracts were sufficient to
+compensate Big John’s for its unabsorbed home office overhead.
+
+       39. We find that, in computing the direct costs of standby labor, Dr. Seals
+employed an equivalent hourly rate estimate. To arrive at this rate, Dr. Seals
+explained that he took “the total labor cost for either floated or non-productive
+labor during the delay periods divided by the respective number of labor hours.
+These calculations yield hourly rates that are weighted averages of the actual range
+of labor rates.” (Ex. A-27 at 79) We have found no credible evidence that
+Dr. Seals is qualified to render opinions regarding cost accounting issues
+(see finding 15).
+
+
+                                           12
+      G. Contracting Officer Authority
+
+       40. In our 2013 decision denying summary judgment, we concluded that
+there was an outstanding issue of fact regarding whether Meghan J. Hislop had
+contracting officer authority. See Alderman Building Co., ASBCA No. 58082,
+13 BCA ¶ 35,381 at 173,617. We now find, from the Navy’s subsequent
+interrogatory response in the record, that, from the beginning of the contract, she
+had a contracting officer’s warrant of $5,000,000, as well as authority over this
+contract (exs. A-15 at 12 n.1, A-16 at 5, A-18 at 4).
+
+       41. In our 2014 decision, we concluded that “there is no triable issue that
+portions of the total delay period were of uncertain duration.” Alderman Building
+Co., ASBCA No. 58082, 15 BCA ¶ 35,841 at 175,273.
+
+                                      DECISION
+
+        As indicated in our findings, we have previously rendered two decisions in
+this Rule 11 appeal. See Alderman Building Co., ASBCA No. 58082, 15 BCA ¶
+35,841 and Alderman Building Co., ASBCA No. 58082, 13 BCA ¶ 35,381. In those
+decisions, we denied summary judgment on multiple issues of fact, concluding that
+their resolution must await a fuller post-trial record trial. Nonetheless, following our
+decisions, the parties elected Rule 11 disposition.
+
+       In this decision, we first resolve outstanding legal issues relating to a release
+said to bar the appeal; to the applicability of the Severin doctrine to the appeal; and to
+our jurisdiction in light of the certification of the claim. We then consider the merits
+of Alderman’s entitlement to Eichleay recovery on behalf of its subcontractor, Big
+John’s.
+
+      Alderman’s lengthy complaint is in 15 counts. Styling the counts as
+Alderman does, we summarize the allegations regarding entitlement to Eichleay
+recovery as follows:
+
+      (a) Count I: Ordered and Constructive Suspensions of Work. In general,
+Alderman alleges that the Navy “delayed the start of Big John’s work, by delaying
+the Notice to Proceed and by successively revising the date the job site would be
+available and work could start” (comp1. ¶ 27). Alderman then makes particular
+allegations regarding the delays in the start date (see finding ¶ 5), and alleges that
+the delays were unreasonable, that they were due to the Navy’s convenience, and
+alleges entitlement to extended and unabsorbed home office overhead costs on
+behalf of Big John’s (id. ¶¶ 28-46).
+
+
+                                           13
+      (c) Count III: Eichleay Claim and Prerequisites. In general, Alderman
+          alleges that it meets the requirements for application of the Eichleay
+          formula, “[e]ven with use of an alternate method of computation”
+          (id. ¶ 79).
+
+      Alderman also alleges entitlement to recovery of unabsorbed overhead using a
+methodology other than the Eichleay formula, including the Changes clause (id. ¶ 125)
+and quantum meruit (id. ¶¶131-35).
+
+       In its present briefing, Alderman organizes its argument around the
+elements for Eichleay recovery set forth in P.J. Dick, Inc. v. Principi, 324 F.3d
+1364, 1369-70 (Fed. Cir. 2003). Alderman asserts that it satisfies those elements
+for the two delay periods at issue, which it has denominated Delay 1 (June 1, 2009
+through February 11, 2010) and Delay 2 (February 17, 2010 through February 19,
+2010).
+
+        In defending against entitlement, the Navy advances three broad arguments.
+First, the Navy contends that we lack jurisdiction because, in the Claims
+Sponsorship Agreement (see finding 9), Alderman and Big John’s agreed that
+Alderman is not liable to Big John’s for the latter’s costs, which embraces home
+office overhead costs incurred during the suspension period for Building M403
+(gov’t br. at 11-12).
+
+       Second, the Navy maintains that we also lack jurisdiction over the appeal
+because Alderman has not executed a proper certification of the claim (id. at 12).
+Third, addressing the merits of Eichleay entitlement, the Navy asserts that
+Alderman has failed to prove the requisite elements of either an uncertain
+suspension period or an extension of the time for contract performance (id.
+at 12-21).
+
+       The Navy urges that Alderman has failed to prove the merits of its
+unabsorbed home office overhead claim. The Navy thus stresses, first, that it did
+not instruct Alderman to place its workers on standby, or to begin work
+immediately (gov’t br. at 13-15). The Navy also points out that the “time is of the
+essence” provision in Big John’s subcontract (finding 3) does not translate into a
+requirement imposed by the Navy to be on standby (gov’t br. at 15). The Navy
+further urges that its exchanges with Alderman regarding modification of the
+contract completion date (see finding 26-27) negate any claimed requirement that
+Alderman keep its forces on standby (gov’t br. at 15-16). In addition, the Navy
+dismisses as irrelevant the market conditions for Big John’s to hire qualified
+workers, rejecting Dr. Seals’ conclusion that such conditions forced it to keep
+workers on standby and asserts that the minimal number of hours that it actually
+billed during February 2010 believed Alderman’s standby argument (id. at 16-17).
+
+
+                                          14
+      After carefully considering the parties’ submissions, we conclude that the
+appeal must be sustained. We reach this conclusion for the reasons set forth below.
+
+      A. Release
+
+       Alderman first argues that the final release that Alderman and the Navy
+executed on February 20, 2012 (see finding 11) does not bar the appeal (app. br.
+at 8-9). In our 2013 decision, we concluded on summary judgment that the motion
+papers raised a genuine issue of material fact regarding the finality of the release.
+Alderman Building Co., ASBCA No. 58082, 13 BCA ¶ 35,381 at 173,618-19. In its
+present brief, however, the Navy now agrees that the release does not serve as a bar.
+The Navy admits that “Big John’s claim is not barred by the release signed by
+Alderman . . . . The Contracting Officer who discussed the release as well as the
+exception to the release has proper warrant and authority to preserve Alderman’s
+rights to pursue this . . . appeal” (gov’t br. at 21).
+
+       We accordingly conclude that there is no longer any issue between the parties
+regarding whether the release bars the appeal. We accordingly reject Alderman’s
+release argument as moot.
+
+       B. Severin Doctrine
+
+       Invoking Severin v. United States, 99 Cl. Ct. 435 (1943), cert. denied,
+322 U.S. 733 (1944), the Navy argues that the appeal must be dismissed with
+prejudice because “Alderman . . . avers that it is not responsible for the costs
+allegedly incurred by . . . Big John’s” (resp. br. 11-12). In general, the Severin
+doctrine “is based upon the principles of sovereign immunity and privity of contract.
+It generally precludes a prime contractor from sponsoring a subcontractor claim
+against the government if the prime contractor is not liable to the subcontractor for
+the costs or damages in question.” Freedom Systems, LLC, ASBCA No. 59259,
+15 BCA ¶ 36,103 at 176,266.
+
+       According to the Navy, dismissal is required “because Alderman asserts it is
+not responsible for the costs incurred by Big John’s during the Contract suspension
+period” (gov’t br. at 11). The Navy focuses upon a portion of one of the introductory
+paragraphs of the Claims Sponsorship Agreement between Alderman and Big John’s
+(see finding 9) in which the parties “agree that the Owner is the ultimate responsible
+party to pay for the Subcontractor’s . . . claims” (gov’t br. at 11). The Navy tells us
+that, by this provision, Alderman “avers that it is not responsible for the costs
+allegedly incurred by the subcontractor,” Big John’s (gov’t br. at 11-12).
+
+
+                                          15
+       In its reply brief, Alderman challenges the Navy’s Severin argument
+(app. reply br. at 1-3). Alderman asserts that the Navy has not met its burden
+under E.R. Mitchell Construction Co. v. Danzig, 175 F.3d 1369, 1370 (Fed. Cir.
+1999) to prove that “the prime contractor is not responsible for the costs incurred
+by the subcontractor” (emphasis in original). In Mitchell, the court quoted with
+approval the Court of Claims’ decision in Cross Construction Co. v. United States,
+225 Ct. Cl. 616, 618 (1980) that the Severin doctrine “requires an iron-bound
+release or contract provision immunizing the prime contractor completely from
+any liability to the sub.”
+
+       We conclude that the Severin doctrine does not warrant dismissal of the
+appeal. Applying the standard articulated in Mitchell, we cannot say that the Navy
+has made the requisite showing that Alderman “is not responsible for the costs
+incurred by” Big John’s. Mitchell, 175 F.3d at 1370 (emphasis in original). We
+reach this conclusion for two principal reasons.
+
+       First, we reject the Navy’s argument that the cited provision of the Claims
+Sponsorship Agreement constitutes either an “iron-bound release or contract
+provision immunizing [Alderman] completely from any liability to [Big John’s].”
+Cross Construction, 225 Ct. Cl. at 618. By its terms, the provision cited by the Navy
+does not purport to be a release. It appears in an introductory clause of the Claims
+Sponsorship Agreement (finding 9), not in a substantive provision. Neither this
+provision, nor any other part of the agreement, constitutes an express undertaking by
+either Big John’s or the Navy to release Alderman from any obligation.
+
+       Second, in advancing this argument, the Navy disregards Alderman’s
+unqualified undertaking in paragraph 1 of the agreement that “Contractor will pay
+any Subcontractor’s sums due Subcontractor with respect to its claims promptly
+upon payment to Contractor by the Owner” (finding 9). This undertaking is the
+antithesis of “an iron-bound release or contract provision immunizing the prime
+contractor completely from any liability to the sub.” Cross Construction, 225 Ct. Cl.
+at 618.
+
+       We accordingly reject the Navy’s Severin doctrine defense.
+
+       C. Claim Certification
+
+        The Navy contends that we lack jurisdiction to consider Alderman’s claim until
+it is properly certified, inasmuch as it now exceeds $100,000 (gov’t br. at 12). For its
+part, Alderman asserts that certification is unnecessary because the claim amount was
+only $20,518 when submitted to the contracting officer and, even if the amount rose
+during the disputes process, certification would not be required because “it is not a new
+claim arising from a different set of operative facts” (app. reply br. at 3). Alderman
+
+
+                                            16
+ asserts that the Navy’s position is based on a factual error. Alderman represents that
+ its:
+
+               [C]laim amount when submitted to the contracting officer was
+               $20,518, due to Navy delays from [1 June 2009 into mid-
+               February 2010]. . . . During litigation of this appeal,
+               Alderman’s expert found the current amount of [Big John’s]
+               direct and indirect costs, due to the Navy delays, is $56,548. . . .
+               At no time did Alderman revise the amounts arising from these
+               operative facts (i.e., Navy delays) to reach at or above $100,000.
+
+(App. reply br. at 3) Alderman adds that its expert “listed his fees . . . on the same page as
+the claim amount,” which “should not be considered” for purposes of certification (id.).
+
+        We accept this uncontroverted explanation, which is supported by the record.
+ Dr. Seals’ October 2013 Second Supplemental Expert Report contains the updated
+ claim summary that reflects direct labor cost of $23,073, unabsorbed home office
+ overhead of $33,218, and bond premium of $257, all aggregating $56,548 (ex. A-4,
+ tab 7 at 108), the amount that Alderman recites in its reply. On the same page,
+ Dr. Seals adds to this amount $45,556 in interest and costs of his expert reports (id.).
+ These amounts are not components of the claim and, at best, would only be
+ recoverable as incidental costs after Alderman has prevailed on its claim.
+
+         We accordingly conclude that Alderman’s claim aggregates $56,548. Inasmuch
+ as that amount is less than $100,000, we reject the Navy’s argument that we lack
+ jurisdiction over the appeal until it is properly certified.
+
+        D. Unabsorbed Overhead
+
+       In our 2014 decision, we denied both Alderman’s motion for summary
+ judgment, and the Navy’s cross-motion for summary judgment, regarding the issue of
+ Alderman’s entitlement to Eichleay recovery. We followed the Federal Circuit’s
+ holding in Nicon, Inc. v. United States, 331 F.3d 878, 888 (Fed. Cir. 2003), that
+ Eichleay “is the exclusive formula for the calculation of damages for unabsorbed
+ overhead due to a period of government-caused delay in situations in which contract
+ performance has begun.”
+
+         In applying the formula, we looked to the three Eichleay elements set forth in
+ Satellite Electric Co. v. Dalton, 105 F.3d 1418, 1421 (Fed. Cir. 1997). With respect to
+ the first element, we concluded that there was “no triable issue that portions of the total
+ delay period were of uncertain duration.” Alderman, 15 BCA ¶ 35,841 at 175,273.
+ With respect to the remaining two elements – standby and replacement work -- we
+ concluded that there were triable issues regarding whether Alderman was on standby
+
+
+                                              17
+and whether it was unable to take on replacement work. Alderman, 15 BCA ¶ 35,841
+at 175,273-74. The parties have since submitted evidence regarding these latter two
+elements, which we analyze below.
+
+       1. Standby
+
+       In our 2014 decision, we concluded that three email exchanges between
+Alderman, Big John’s, and the Navy, as well as both the Dougherty affidavit, and the
+Seals report, collectively established a triable issue regarding standby. Alderman,
+15 BCA ¶ 35,841 at 175,273-74.
+
+        Alderman now argues that indirect evidence establishes that it was on standby
+during both Delay 1 and during Delay 2. With respect to both delays, Alderman relies
+on P.J. Dick, Inc. v. Principi, 324 F.3d 1364 (Fed. Cir. 2003). Inasmuch as the
+contracting officer did not issue a written order suspending “all the work . . . for an
+uncertain duration and [requiring] the contractor to remain ready to resume work
+immediately or on short notice,” P.J. Dick, 324 F.3d at 1371, Alderman seeks to prove
+standby by indirect evidence (app. br. at 11). While the Navy contends that Big John’s
+made a business decision to keep its workers on standby, Alderman urges that the
+workers were on standby due to the Navy’s contract administration practices, such as
+the lack of a time extension, the reduced work force, the remobilization time, and relief
+from the risk of liquidated damages (app. reply br. at 3). Alderman continues by
+denying the Navy’s contention that there was no nexus between standby and the Navy
+delays, insisting that the Navy’s awareness of Alderman’s and Big John’s unrelaxed
+performance obligations is an “‘operative fact’ driving a holding that the Navy
+required standby” (app. reply br. at 4). Alderman also stresses that the parties did not
+negotiate or agree upon the Navy’s multiple revisions to the work start date
+(see finding 5), and the parties did not agree to a time extension before the delays
+ended (app. reply br. at 4-5). Finally, Alderman rejects the Navy’s defense that the
+large number of hours that Big John’s billed in February 2010 refutes the conclusion
+that the Navy kept Big John’s on standby (app. reply br. at 5-6).
+
+        In its brief, the Navy stresses that, in its original suspension notice (see finding
+6), it did not require Alderman to place its workforce on standby, and hence Alderman
+must demonstrate that it was required to be on standby through indirect evidence
+(gov’t br. at 13). The Navy tells us that Alderman cannot do so, pointing to emails in
+2010 that “clearly show[] that Alderman and the Navy were negotiating when to begin
+the M403 Contract performance” and hence the Navy did not require Alderman or
+Big John’s to resume work immediately (id. at 14).
+
+       We accept Alderman’s argument that it had to place its forces on standby. In
+reaching this conclusion, we acknowledge that the Navy did not explicitly order
+Alderman to place its workers – and Big John’s – on standby (finding 16).
+
+
+                                              18
+Nonetheless, we accept Dr. Seals’ explanation, which is consistent with the other
+evidence of record, that Big John’s kept its work force on standby chiefly because of
+the threat of liquidated damages and because of the absence of a time extension
+(finding 21). We also accept Dr. Seals’ overall conclusion that, as time went on,
+“keeping workers on standby was necessary and reasonable, in order to respond to the
+dwindling period of performance with no time extension” (finding 22). Finally, we
+find persuasive Mr. Dougherty’s outline of the “important uncertainties” facing
+Big John’s, such as “the availability of qualified workers for rehire when the delays
+ended,” and “the Navy’s pattern of issuing short-notice postponements” (finding 24),
+both of which are evident from the chart in finding 5.
+
+       We accordingly conclude that Alderman has established that it was required to
+have its workforce on standby.
+
+       2. Inability to Take On Replacement Work
+
+        The parties’ arguments regarding replacement work are chiefly factual. In our
+2014 decision, we concluded that the parties’ arguments regarding replacement work
+required a more fully developed record concerning the start dates (see finding 5) and
+their impact. Alderman, 15 BCA ¶ 35,841 at 175,274.
+
+        At the outset, the Navy acknowledges the burden shifting that takes place after
+we conclude, as we have, that Alderman has made a prima facie case that the Navy
+required Big John’s to be on standby during a government-caused delay of uncertain
+duration (gov’t br. at 18). That is, the burden shifts to the Navy to show “either (1)
+that it was not impractical for the contractor to obtain ‘replacement work’ during the
+delay, or (2) that the contractor’s inability to obtain such work, or to perform it, was
+not caused by the government’s suspension.” Melka Marine, Inc. v. United States,
+187 F.3d 1370, 1375 (Fed. Cir. 1999) (citing West v. All State Boiler, Inc., 146 F.3d
+1368, 1376 (Fed. Cir. 1998)).
+
+       The Navy now urges that “[i]t was not impractical for Big John’s to obtain
+replacement work during the M403 Contract suspension period” (gov’t br. at 20).
+The Navy points to five contracts with a cumulative value of $3,552,312 that it says
+constitute replacement contracts that were awarded to Big John’s during this period
+(gov’t br. at 18-20). The Navy argues that Big John’s suffered no loss, or should have
+suffered no loss, because of Navy actions, inasmuch as Big John’s posted actual labor
+hours, submitted invoices, and received three payments, and allocated the unabsorbed
+home office overhead from the M403 contract to these contracts during the suspension
+period (id.).
+
+       For its part, Alderman insists that Big John’s was unable to obtain sufficient
+replacement work to compensate for the unabsorbed overhead related to the contract
+
+
+                                            19
+for the relevant period, which Alderman defines as the 192 day period from June 1,
+2009 through December 9, 2009 (app. reply br. at 6).
+
+       To meet its burden, the Navy contends that it was “not impractical” for Big
+John’s to obtain replacement work (gov’t br. at 18-20). The thrust of the Navy’s
+argument is to attack Dr. Seals’ conclusions. The Navy emphasizes that it has met its
+burden of proof “using evidence submitted by Big John’s to establish that it was not
+impractical for Big John’s to obtain ‘replacement work’ during the . . . suspension
+period.” (Gov’t br. at 21)
+
+         We agree that Big John’s made efforts to obtain replacement work; we have
+given credence to the evidence of bids that it submitted for other work in June to
+September 2009 (finding 35). We agree that Big John’s efforts met with some success,
+and that it was able to take on some replacement work during the suspension period, as
+its billings and book entries reflect (findings 29-36, 38). But we also conclude that
+Big John’s was unable to obtain sufficient replacement work during either Delay 1 or
+Delay 2 to compensate for the disruptive effect of the multiple delays. We are persuaded
+by Dr. Seals’ analysis, as well as by Mr. Daugherty’s evidence, that Big John’s was
+frustrated in the first instance by the Navy’s practice of giving Alderman “very short
+advance notifications of when each delay was to end and work had to start” (finding 35).
+
+      We accordingly conclude that the Navy has not met its burden regarding
+Big John’s ability to take on replacement work.
+
+       E. Direct Costs of Standby
+
+        As a separate category of relief, Alderman contends that, independent of the
+Eichleay formula, it is entitled to $21,753 in direct costs of standby. Alderman tells us
+that “[t]hese are the costs of paying an electrician-supervisor and a licensed electrician
+to keep them on standby during the delays.” (App. br. at 23) Alternatively, Alderman
+urges that these amounts are recoverable “under a jury verdict approach” (app. reply
+br. at 10).
+
+       For its part, the Navy derides Alderman’s argument as “lacking any basis in
+case law, regulation or fact” (gov’t br. at 22). The Navy points out that these costs rest
+upon a calculation by Dr. Seals, who constructed an “equivalent hourly rate”
+calculation that we do not accept as within Dr. Seals’ expertise (findings 15, 39;
+gov’t br. at 22-23). In addition, we do not accept Alderman’s alternate argument
+regarding the use of a jury verdict to recover these costs. In Dawco Construction, Inc.
+v. United States, 930 F.2d 872, 882 (Fed. Cir. 1991) (overruled on other grounds by
+Reflectone, Inc. v. Dalton, 60 F.3d 1572 (Fed. Cir. 1995) (en banc)), the court of
+appeals set out the criteria for applying the jury verdict method:
+
+
+                                             20
+             (1) [T]hat clear proof of injury exists; (2) that there is no
+             more reliable method of computing damages; and (3) that the
+             evidence is sufficient for a court to make a fair and
+             reasonable approximation of the damages.
+
+      On this record, we cannot conclude that Alderman has made the requisite
+showing to justify resort to the jury verdict method.
+
+       We accordingly deny the alleged direct costs of standby and deduct this item
+from the amount due Alderman.
+
+      F. Amount of Award
+
+      As indicated, we deduct the amount of the alleged direct costs of standby from
+Alderman’s claim of $56,548 (see finding 12), leaving a net recoverable amount of
+$34,795. Alderman is entitled to recover this amount, plus interest under the Contract
+Disputes Act, 41 U.S.C. §§ 7101-7109, from August 24, 2011 until paid (see finding 12).
+
+
+                                        CONCLUSION
+
+      The appeal is sustained in part to the extent indicated and is otherwise denied.
+
+      Dated: May 21, 2020
+
+
+                                                 ALEXANDER YOUNGER
+                                                 Administrative Judge
+                                                 Armed Services Board
+                                                 of Contract Appeals
+
+
+(Signatures continued)
+
+
+                                           21
+ I concur                                      I concur
+
+
+RICHARD SHACKLEFORD                            J. REID PROUTY
+Administrative Judge                           Administrative Judge
+Acting Chairman                                Vice Chairman
+Armed Services Board                           Armed Services Board
+of Contract Appeals                            of Contract Appeals
+
+
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA No. 58082, Appeal of
+Alderman Building Company, Inc., rendered in conformance with the Board’s Charter.
+
+      Dated: May 21, 2020
+
+
+                                               PAULLA K. GATES-LEWIS
+                                               Recorder, Armed Services
+                                               Board of Contract Appeals
+
+
+                                          22

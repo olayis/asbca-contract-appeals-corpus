@@ -1,0 +1,1809 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+ Appeals of -                                   )
+                                                )
+ Konecranes Nuclear Equipment &                 ) ASBCA Nos. 62797, 62827
+  Services, LLC                                 )
+                                                )
+ Under Contract No. N62470-16-D-2013            )
+
+ APPEARANCES FOR THE APPELLANT:                    Suzanne Sumner, Esq.
+                                                    Taft Stettinius & Hollister LLP
+                                                    Dayton, OH
+
+                                                   William Wagner, Esq.
+                                                    Taft Stettinius & Hollister LLP
+                                                    Indianapolis, IN
+
+ APPEARANCES FOR THE GOVERNMENT: Craig D. Jensen, Esq.
+                                  Navy Chief Trial Attorney
+                                 Susannah M. Mitchell, Esq.
+                                 Antonio T. Robinson, Esq.
+                                  Trial Attorneys
+
+
+                OPINION BY ADMINISTRATIVE JUDGE HERZFELD
+
+       Konecranes Nuclear Equipment Services, LLC (Konecranes) appeals the
+Department of the Navy’s (Navy) contracting officer’s final decisions denying
+Konecranes’ claims to interpret the contract and for delay damages. Konecranes
+sought to deliver four portal cranes to the Navy, but the Navy refused to accept
+delivery after an initial test of one of the cranes revealed some damage to the luffing
+drum. Konecranes quickly identified the root cause of the damaged drum and fixed
+the problem. However, the Navy would not accept Konecranes’ solution and its
+unsuccessful demand for an unnecessary alternative solution caused further delay and
+increased Konecranes’ costs. We conducted a six-day hearing on entitlement and
+quantum and conclude that Konecranes’ four cranes met the contractual requirements
+and were ready for delivery. The Navy’s decision to delay delivery based on a
+requested change to contractual requirements was not justified. Therefore, we sustain
+Konecranes’ appeals and award $4,862,696.31 plus any Contract Disputes Act (CDA)
+interest from the time it submitted its monetary claim.
+                                     FINDINGS OF FACT
+
+I.      The Navy Approves of Konecranes’ Design for Four Level-Luffing Cranes
+
+          A.    The Navy Purchases Four Level-Luffing Cranes
+
+        On March 3, 2016, the Navy awarded Konecranes contract No. N62470-16-D-
+2013 (the Contract), an indefinite delivery/indefinite quantity contract to design,
+fabricate, assemble, and deliver up to four, 25-ton general purpose portal cranes for use
+at the Navy’s Puget Sound Naval Shipyard, Naval Base Kitsap, Bremerton and Bangor,
+Washington (R4, tab 1, at 27; tab 128 at 795). 1 The cranes will be used to load food,
+maintenance, parts, and other supplies into the Navy’s nuclear submarines at the naval
+shipyard, but will not handle any nuclear materials (tr. 1/39-40, 43). The Navy ordered
+two cranes for Bangor (cranes 53-54) and two cranes for Bremerton (cranes 51-52) for a
+total of $62,241,720 (R4, tab 15; exs. A-15 to -17).
+
+       The Navy Crane Center (the Navy agency that typically handles crane
+procurements involving cranes above 10 tons) conducted the procurement and
+awarded the Contract (tr. 6/8). The Navy has an inventory of between 4,000 and
+5,000 cranes (tr. 6/10). The Navy procured the cranes from Konecranes as commercial
+items, but the Navy Crane Center had never previously used a commercial items
+procurement to purchase a crane (tr. 1/43, 6/78-79, 6/101).
+
+       Konecranes and its predecessors – Pawling & Harnischfeger and Morris Material
+Handling – have built over 600 cranes for the Navy, including recently delivering a
+140-ton portal crane for lifting nuclear materials, and constructing three, 175-ton portal
+cranes (tr. 1/41-43). Also, Konecranes is a subsidiary of Finland-based Konecranes, Plc
+(Konecranes-Finland), which has built tens of thousands of cranes (including hundreds
+of commercial portal cranes) (tr. 1/41, 57).
+
+1
+     The Rule 4 file submitted by the Navy consisted of Tabs 1-98. Konecranes
+          supplemented the Rule 4 file with Tabs 99-164. At the request of the parties, we
+          admitted all Rule 4 file documents as evidence in our April 13, 2022 Order (see
+          also tr. 1/9-10). Because the tabs are sequential, we reference all these
+          documents as “R4.” The parties also requested and we admitted Konecranes
+          Exhibits A-1 through A-19 as evidence in our April 13, 2022 Order (see also tr.
+          1/10). We admitted Exhibits A-20 and G-1 during the hearing (tr. 3/67, 5/27-29).
+          As represented to the Board on the first day of the hearing, the parties stipulated
+          to the admission of deposition transcripts for seven witnesses so the parties could
+          cite relevant parts in their post-hearing briefs (tr. 1/8-9). For page citation to the
+          Rule 4 documents, we refer only to the page number and exclude pre-fixes
+          (“GOVRule4,” “KNESRule4Sup4,” or “GOVPROD”) and leading zeroes before
+          the page numbers.
+                                                2
+        Konecranes proposed using level-luffing portal cranes to meet the requirements
+of the Contract (tr. 1/60, 69; R4, tab 99). Konecranes-Finland’s ports group had
+showed the Navy’s Bremerton personnel a level-luffing crane used in nearby Victoria
+Island before contract award and Bremerton’s personnel were interested in that design
+(tr. 3/155, 171). Below is a diagram of the proposed level-luffing crane, which we
+have annotated based on the testimony at the hearing:
+
+
+(R4, tab 99 (diagram); tr. 1/45, 47 (boom at 285 feet when raised, structure
+slews/rotates); R4, tab 128 at 796 (30 foot rails at Bangor, 20 foot rails at Bremerton)).
+
+        When the boom is raised and lowered it is known as “luffing” (tr. 1/51). To
+“luff” (or raise or lower) the boom, the crane uses two steel ropes wrapped around a
+
+                                            3
+steel luffing drum (powered by a motor) (tr. 1/64, 118). As the steel ropes unwind, the
+boom gets lowered, usually to a 35-degree angle when loading submarines or fully
+horizontal when the crane is subject to quarterly maintenance (tr. 1/65-66). As the steel
+ropes wind back around the steel drum, the boom gets raised (tr. 1/64, 118, 2/20, 67).
+
+       Konecranes proposed using a level-luffing crane (as opposed to a non-level
+luffing crane, also known as a reeving crane), because the hook holding the payload
+stays at the same height when the boom is raised and lowered (R4, tab 99; tr. 1/61-62).
+Konecranes deemed using a level-luffing crane “a little safer” when loading materials
+because it would result in faster and more efficient loading that would avoid “hitting”
+the periscopes, antennas, and the submarine sail (the large black tube that sticks up
+from the submarine) (tr. 1/39-40, 66-67, 70). The level-luffing crane also required less
+use and, thus, less stress on the luffing drum – sometimes only used for several
+minutes to move the boom into a steady angle before rotating (or “slewing”) a load
+from the dock to over a submarine (tr. 2/19-21, 3/215-16). Instead of using the luffing
+mechanism to move the boom up and down to load supplies, the level-luffing crane
+relies more heavily on a separate main hoist and whip hoist (or auxiliary hoist) with a
+separate hoist steel drum and ropes to raise and lower the hook to place loads into the
+submarine (R4, tab 128 at 796-97; tr. 3/215-17).
+
+       Prior to the Contract with Konecranes, the Navy had never purchased a
+level-luffing crane (tr. 5/82, 6/81).
+
+       B.   Navy and Konecranes’ Design Changes, Design Drawings Approved
+
+       Given the requirement for a commercial item crane, the Contract’s
+specifications stated, “The crane design is intended to be a manufacturer’s standard
+design incorporating the additional features required by the specification” (R4, tab 128
+at 795). Konecranes submitted the crane design for Navy approval (tr. 1/71).
+Konecranes submitted its proposed design drawings in September 2018 (tr. 1/74;
+but see R4, tab 38 at 359 (stating September 18, 2017)). During the Navy’s review of
+Konecranes’ design, the Navy requested and Konecranes agreed to modify the
+Contract to add a steel walkway along the boom to be used during maintenance of the
+crane (R4, tab 17 at 1; tr. 1/97-98). The addition of the steel walkway added more
+than 5,000 pounds to the boom weight (tr. 1/98-99, 234).
+
+        In analyzing the impact of adding the 5,000-pound walkway to the 80,000-pound
+boom, Konecranes discovered it had made a calculation error in determining the radial
+bearing pressure on the luffing drum and wire ropes, which was exacerbated by the
+increased weight from the walkway (tr. 1/98-99, 229-35; ex. A-18 at 53-54). The
+Contract’s specification stated that “all mechanical components . . . shall be designed
+for a factor of safety of no less than 5.0” and specifically stated that the main hoist wire
+rope should have a “minimum wire rope design factor of 5 to 1” (R4, tab 128 at 819-20;
+                                            4
+tr. 1/92-93). The Navy asserted that the luffing drum and wire rope needed to meet the
+“5 to 1” safety factor (similar to the main hoist wire rope) because it considered the
+luffing drum and rope to be mechanical components like the main hoist drum and rope;
+Konecranes and other commercial manufacturers considered the luffing drum and rope
+to be structural components not subject to this safety factor and excessive for a
+commercial crane (tr. 1/92-93; ex. A-18 at 101, 103).
+
+        Konecranes proposed a solution that would make the drums subject to a safety
+standard more commonly used in commercial cranes – European Normal 13001 (tr.
+1/100-01). On May 13, 2020, the Navy’s engineers agreed to modify the Contract to
+insert this standard for the luffing drum on the cranes (R4, tab 100; tr. 1/100-01).
+However, as an “oversight” the Navy failed to issue and sign a contract modification
+with this new standard (tr. 3/28-29, 6/127-28). On May 27, 2020, the Navy approved
+Konecranes’ mechanical design drawings (subject to several conditions that
+Konecranes met) (R4, tab 42; tr. 1/73, 3/19, 6/88).
+
+II.   The Navy Observes Damage to the Luffing Drum on Crane 53 and the Parties
+      Come to Different Conclusions Regarding the Root Cause of the Damage
+
+       A.   The Damaged Drum
+
+       The Contract required delivery of both Bangor cranes (cranes 53-54)
+“completely assembled” and, similarly, required delivery of both Bremerton cranes
+(cranes 51-52) as “complete as possible” (R4, tab 128 at 798; tr. 1/78, 3/118-19).
+Konecranes leased a site from Alaska Marine Lines in Seattle, Washington, which site
+could hold the 1.1 million pound cranes, and was located next to a waterway that
+allowed Konecranes to load and transport the cranes by barge to the Bangor and
+Bremerton, Washington sites of the Naval base (R4, tab 127 (lease agreement); tr.
+3/174-79, 188-89).
+
+        By the end of May 2020, Konecranes completed construction of crane 53 –
+destined for Bangor (tr. 1/76). Before shipment of a completed crane, the Contract
+required Konecranes to perform a self-test of the crane and then make the crane
+available for the Navy to conduct an inspection of the crane and witness Konecranes’
+shop test (R4, tab 128 at 838-39). The Contract’s specifications state: “All shop test
+identified deficient items shall be resolved prior to shipment of the crane, unless
+authorized by the Contracting Officer” (R4, tab 128 at 838).
+
+        On June 3, 2020, Navy Crane Center personnel were conducting their
+inspection prior to the scheduled June 6, 2020 shop test (ex. A-10 (shop test dates);
+tr. 2/128 (shop test dates), 2/34 (June 3 inspection)). The Navy’s lead inspector
+observed, “The luff hoist drum has clear corrugation wear/indication in the bottom of
+the drum grooves which is significant for the very low use of the hoist (a brand new
+
+                                           5
+crane)” (ex. A-9 at 1). The Navy lead inspector continued, “On the top of the drum
+grooves on the side that is loaded due to the fleet angle, there is significant peening
+and scrubbing damage including some material loss. The metal shavings that are
+being removed from the tops of the grooves appear to be imbedded in the wire rope”
+(ex. A-9 at 1). 2 Noting this might be a “significant issue,” the Navy Crane Center’s
+lead mechanical engineer on this project agreed that the “the wear appears to be
+corrugation,” which he defined as where “the grooves of the sheave or drum after they
+have been worn down to a point where they show an impression of a wire rope” (ex.
+A-9 at 1-2 (quoting Wire Rope Users Manual); tr. 5/10-11). One Navy inspector
+described the damage: “In every groove across the drum there are corrugation
+indentations in a diagonal pattern matching the helix of the wire rope strands” with
+indentations “estimated to be 0.005” to 0.010” deep” (R4, tab 139 at 184). The Navy’s
+lead inspector photographed the damage to the luffing drum on crane 53:
+
+
+(R4, tabs 22 at 333, 95 at 521; tr. 5/10-11).
+
+       The Navy’s inspectors and engineers had never seen such significant damage to
+a drum, particularly given that the crane had been operated for only 80 hours (tr. 5/10,
+13; R4, tab 24; Rexin dep. at 49-50). Indeed, Konecranes’ president had never seen
+anything like this in his 35 years in the crane industry and, accordingly, Konecranes
+found it “unacceptable” (tr. 1/124-25, 2/34, 3/143). On June 3, 2020, the Navy
+requested a response from Konecranes regarding the luffing drum (R4, tab 21; tr.
+5/14).
+
+
+2
+    A “fleet angle” is the “angle of the wire rope coming off the drum” and as you
+         unwind the rope on the drum “that fleet angle changes as you move up and
+         down the drum” (tr. 1/146). “[T]here’s a maximum fleet angle you want” and if
+         you have “too much fleet angle . . . you’re wearing away parts of the drum” (tr.
+         1/146).
+                                                6
+      B.    Konecranes and the Navy Differed on the Root Cause of the Damage to
+            the Luffing Drum on Crane 53
+
+       Konecranes and the Navy came to different conclusions regarding the root
+cause of the damage to the luffing drum. Konecranes proposed and implemented a
+plan to change the type of wire rope used on the luffing drum. The Navy doubted that
+solution and its personnel coalesced around proposing that Konecranes install stronger
+flame-hardened steel drums on all four cranes. That difference resulted in
+Konecranes’ claims and is central to the dispute in this appeal.
+
+             1.    Konecranes Identifies the Wire Rope as the Root Cause of the
+                   Damage and Proposes Changing to a Different Wire Rope
+
+       After receiving the Navy’s concerns on June 3, 2020, Konecranes conducted a
+root cause analysis, which included inspecting the damaged luffing drum (including
+the drum grooves and wire rope size) and consulting with Konecranes-Finland and
+wire rope and drum experts (including manufacturers) (tr. 1/125-26, 2/34-36).
+
+        The Contract required the use of “6 x 36 class wire rope” for the main hoist
+drum, but had no such specific requirement for the luffing drum (R4, tab 128 at 820;
+tr. 2/98). Konecranes opted to use 6 x 36 rope for the luffing drum because it is a
+“standard rope” and would “minimize the number of different types of rope” used on
+the crane and minimize “inspection procedures” (tr. 2/99). However, Konecranes
+determined that the contact pressure from the 6 x 36 wired-rope on the luffing drum
+had caused the damage identified by the Navy (R4, tab 21; tr. 1/126-27, 2/36). In
+particular, Konecranes determined that the high strands on the surface of the 6 x 36
+rope had caused the indentations to the luffing drum grooves because the pressure
+from the rope was not evenly distributed (tr. 1/126-28, 2/35-36; R4, tab 21).
+
+        On June 5, 2020, Konecranes responded to the Navy with its written conclusion
+that the root cause of the problem derived from the 6 x 36 rope (R4, tab 21).
+Konecranes proposed using a different wire rope – “Python Super 8V, Grade 1960
+wire ropes” (R4, tab 21). The Python rope is smoother, “18% stronger” than the
+6 x 36 rope, and would “minimize contact stress points and reduce drum wear” (R4,
+tab 21; tr. 2/38-40, 3/22-23). The Python rope would “significantly increase the
+surface area of the wire rope that is in contact with the drum” (R4, tab 21; tr. 1/131,
+2/39-40 (reiterated in conversation between Konecranes personnel and Navy Crane
+Center lead engineer regarding Python rope being smoother)). Konecranes stated that
+it would come up with a procedure “to remove all sharp localized indentations” but
+concluded “the drum can be safely operated” (R4, tab 21). Konecranes also noted that
+most of the damage to the luffing drum was from lowering the boom horizontally to
+the “maintenance position” but that “[n]o drum wear [was] visible over the portions of
+
+
+                                           7
+the drum supporting the wire rope that moves the boom through its normal operating
+range” (R4, tab 21).
+
+              2.   The Navy Identifies the Root Cause of the Damage as a Soft Drum
+
+        After review of Konecranes’ response, a Navy Crane Center engineer proposed
+a different solution on June 6, 2020: “The existing drum should be rejected and
+replaced with a new drum design with hardened wire rope grooves” (R4, tab 22 at 332;
+see also tab 136 (June 5 email: “I can’t envision any repair for this short of a different
+design and a replacement drum. Re-matching grooves doesn’t help, and the wire rope
+pressures and [fleet] angle is fixed. All that is really left is hardening of the drum
+grooves.”); tr. 3/23-24). This same engineer previously explained that this was “NOT
+related to the drum calc’s where a design with less than 5:1 on ultimate strength was
+accepted” because even if the drum met the 5:1 safety factor “this exact same problem
+would still be occurring” (R4, tab 136; Bowen dep. at 81-82). Instead, he concluded,
+“The root cause of the problem is the high pressure from the wire rope on the drum
+groove surface and a soft steel material (lower strength material)” (R4, tab 22 at 332).
+
+        On June 8, 2020, the Navy Crane Center’s lead engineer for this project
+conceded to the contracting officer (among other Navy personnel) that Konecranes’
+assertion that the drums were not “‘excessively worn’” and that “‘the drum can be
+safely operated’ is accurate . . . for now” (R4, tab 137; tr. 3/23). “The obvious concern
+is that the drum is brand new and is already showing signs of significant wear, so it
+will likely be excessively worn in the near future” (R4, tab 137).
+
+        On June 11, 2020, the Navy sent its initial response to Konecranes, “The use of
+an alternative wire rope construction does not address the root causes of the problem,
+which are the high radial bearing pressure from the wire rope on the drum groove
+surface and the low strength drum material” (R4, tabs 24, 23 (email transmitting)).
+“Based on the rate at which the current wear has occurred and the future anticipated
+use (600 hours per year, or 7.5 times the amount of operation so far), the Government
+estimates this condition will occur in less than five years, and the drum will certainly
+not last 30 years as required by Section 1.3 of the Specification” (R4, tab 24 (citing
+R4, tab 128 at 796)). The Navy’s conclusion relied on the Contract’s Specification,
+which states: “The entire crane shall be designed with a minimum 30 year life” (R4,
+tab 128 at 796). A 600 hours per year usage would result in an expected 18,000 hours
+of usage over 30 years (tr. 1/167, 3/73). The Navy had not looked “into the
+operational life in hours of the crane until after the damage was discovered during
+inspection” (tr. 5/24).
+
+       Also on June 11, 2020, Konecranes sent its technical justification for its crane
+design (R4, tabs 25, 26). Among other issues, Konecranes “confirm[ed] minimum
+crane life of 30 years will be met” and that Konecranes had manufactured the luffing
+                                            8
+drum consistent with the Contract’s requirements to use ductile ASTM A572,
+Grade 50 steel (R4, tab 26 at 340 (discussing R4, tab 128 at 810-11); tr. 1/53-54, 107,
+2/13).
+
+        On June 12, 2020, the Navy’s contracting officer repeated the Navy Crane
+Center engineers’ concerns: “The issue is two-fold: 1) the wire rope/drum
+design is creating premature wear on the luffing hoist drum; and 2) excessive wear on
+the luffing hoist drum does not meet contract requirements” (R4, tab 32 at 348). The
+Navy blamed “[t]he current design of the wire rope, including the wire top line pull,
+drum diameter and fleet angle” as causing “high pressure on the drum groove surface”
+that “exceeds the drum surface material strength” (R4, tab 32 at 348; tr. 3/25-26).
+Reiterating the Navy Crane Center’s conclusion, the contracting officer concluded
+“this continued wear will significantly impact the lifespan of the drum, reducing it to a
+5-year period, making it noncompliant with the certified 30 year lifespan referenced in
+the contract” (R4, tab 32 at 348). The Navy cited the “flawed design” of the luffing
+drum and found it in “non-conformance” with the specification that “[m]aterial shall
+be free from defects and imperfections that might affect the serviceability and
+appearance of the finished product. All material shall be new and unused.” (R4,
+tab 32 at 348 (quoting R4, tab 128 at 810))
+
+        The Navy acknowledged Konecranes’ “proposed solution to replace the current
+wire rope with a smoother, less abrasive wire rope” but the Navy asserted that “[w]hile
+this solution may slow the rate at which the damage occurs, the Government provides
+clear and relevant evidence . . . that this solution will not solve the root cause of the
+problem” (R4, tab 32 at 349 (emphasis in original)). The Navy reiterated its position
+“that the existing luffing hoist drum is currently non-conforming with the contract
+requirements, and the wire rope/drum configuration is the root cause of the issue” (R4,
+tab 32 at 349). “The Government does not intend to grant an approval to ship until the
+issue is either resolved or an agreed upon resolution is in place prior to shipping” (R4,
+tab 32 at 349; tr. 3/26-27).
+
+              3.   Konecranes Pauses the Shop Test, Changes the Rope on the Luffing
+                   Drum, and the Parties Disagree About Whether the Luffing Drum
+                   Meets Contractual Requirements
+
+        On June 12, 2020, the same day that Konecranes received the contracting
+officer’s letter, Konecranes informed the Navy it intended to buff the surfaces of the
+luffing drum and replace the 6 x 36 rope with the smoother Python rope (R4, tab 138;
+tr. 2/42-43). Konecranes’ president wanted to “implement that solution as quickly as
+possible” to keep the project on the “critical path” by completing the shop test and
+obtaining the Navy’s approval to ship crane 53 by July 2, 2020 (tr. 3/199-200,
+1/149-50). Konecranes had a specific contract schedule with the barge company –
+Alaska Marine Lines (which also rented Konecranes land to construct the cranes in
+                                            9
+Seattle) – to ship the cranes from Seattle, Washington and deliver them to Bremerton
+and Bangor, Washington (tr. 1/149-50, tr. 3/185-86; R4, tab 64). Konecranes paid a
+base rate of $424,500 for shipments between March 20, 2020 and August 15, 2020, with
+a $4,500 per day charge for delivery after August 15, 2020 (R4, tab 64 at 425-26; tr.
+3/185-86). So, Konecranes’ costs rose if the schedule slipped (tr. 1/150, 3/185-86). 3
+
+       On June 15, 2020, Konecranes confirmed it was replacing the rope and buffing
+the surfaces, but also wrote to dispute the Navy’s assertion that the luffing drum must
+have “600 hours of annual operation” (R4, tabs 34, 33 (cover email sending tab 34),
+141 (same document as tab 34)). Konecranes “[did not] know where” the 600 hours of
+operation (or 18,000 for 30 years) came from (tr. 2/44-45). Nevertheless, Konecranes
+responded that, based on its understanding of the Contract, the Navy’s “specification
+requires only 3,200 hours of operational life from the luffing hoist components”
+(which would explain why the Navy was concluding that 600 hours of annual use
+would result in only five years of life) (R4, tab 34 at 351; tr. 2/44-45, 48-51).
+
+        In particular, the Contract’s specifications state, “The crane shall have
+minimum ISO 4301 group classifications of A5 for the crane as a whole and M5 for
+hoists, luff, slew and travel” (R4, tabs 128 at 796, 34; tr. 2/7). Konecranes reminded
+the Navy that the Contract specification “does not contain any other information on the
+state of loading . . . or required numbers of hours of operation” (R4, tab 34 at 351;
+tr. 2/45 (noting that “there was nothing in the technical specification that discussed
+600 hours per year”)). An A5 designation (between A1 through A8) meant that the
+crane was “not a light duty crane” and “not a heavy-duty crane” but “right in the
+middle . . . a very average crane” (tr. 2/8; R4, tab 54). “‘M’ classes are mechanical
+classifications given to mechanisms which guide the designer in selection of
+components” (R4, tab 34 at 351; tr. 2/8; R4, tab 54 at 401). Similarly, the M5
+
+3
+    In addition to replacing the wire rope, Konecranes also shipped the newly
+         manufactured luffing drum for crane 52 from the firm’s Wisconsin fabrication
+         site to Seattle, Washington, as a potential replacement for the luffing drum on
+         crane 53 (tr. 3/200-01). Konecranes’ project manager spoke with the Navy’s
+         project manager and offered for this like-kind replacement without cost, but it
+         was turned down as not remedying the root cause, which the Navy has always
+         maintained was the softness of the drum (tr. 2/166-67, 5/40-41 (Navy chief
+         engineer acknowledging that he would have recommended not accepting a
+         like-kind replacement because it did not address the root cause)). The Navy’s
+         contracting officer never understood that Konecranes was offering to make this
+         change without cost to the Navy (and, indeed, the Navy’s project manager
+         apparently never mentioned the offer to her at all), but nevertheless she would
+         have rejected the offer because it did not remedy what the Navy’s engineers
+         deemed the root cause of the problem – the softness of the drum steel (tr. 3/34-38,
+         6/73; R4, tabs 83 at 480, 96 at 544-45).
+                                             10
+designation (between M1 through M8) was “in the middle of the M classification
+system . . . a very standard average design” (tr. 2/9; R4, tab 54 at 401). The higher the
+classification, the bigger the crane, and the higher the cost to construct the crane (tr.
+2/10). Based on the calculations of the expected load, Konecranes determined that the
+Navy was expecting to use a “heavy” duty crane, which equated to a loading capacity
+of L3 – “Mechanism subjected frequently to the maximum load and, normally, to
+loads of heavy magnitude” (R4, tab 34 at 351 (quoting R4, tab 54 at 401); tr. 1/165
+(discussing load spectrum equating to an L3 load)). Based on an L3 load and M5
+designation, the ISO standard results in an expected crane life of 3,200 hours of use
+(R4, tabs 34 at 351, 54 at 400-01; tr. 2/16-17). Ultimately, Konecranes stated that “the
+current drum design meets the applicable requir[e]ments in both the contract and [ISO]
+standards” (R4, tab 34 at 352; tr. 3/43).
+
+        On June 18, 2020, the Navy responded and accused Konecranes of “selectively
+misappl[ying] minimum requirements in the contract specification to support their
+position that the luff hoist drum is expected to last less than five years by design” (R4,
+tab 37 at 355; tr. 3/46). The Navy pointed to the Contract specification that “requires
+hoists to have a minimum ISO 4301 group classification of M5” (R4, tabs 37 at 356
+(emphasis in original), 142 at 214 (draft of letter), 128 at 796 (Contract specification
+(emphasis added)). The Navy asserted that, had Konecranes “used the ISO 4301/1
+properly, they would have concluded that the group classification for the luff hoist is
+significantly higher than the minimum required in the specification” (R4, tab 37
+at 356). The Navy asserted that, rather than the M5 classification in the Contract
+specifications, Konecranes should have arrived at a more “appropriate classification of
+the luff hoist of M7 or M8” (R4, tab 37 at 356; tr. 5/49-50).
+
+        Even as the Navy confidently made these assertions regarding the ISO standard
+as requiring an M7 or M8 classification, the Navy’s lead engineer on this project
+privately acknowledged he did “not understand” how the commercial ISO standards
+related to designing crane components, such as drums (R4, tab 148 at 339 (Navy lead
+engineer: “I do not understand the design implications for a particular group
+classification. Do you know how being a group classification of M5 or M7 for a hoist
+affects the design of hoist components?”); tr. 5/59-60). One of the Navy’s mechanical
+engineers on the shop inspection team acknowledged he did “not have much insight or
+experience in the use of ISO and FEM service class ratings, but from the little I know I
+do think we could be vulnerable” (R4, tab 148 at 338; tr. 3/60-61). The Navy’s lead
+engineer on this project later acknowledged that, in “retrospect . . . the M7 or M8
+would have been appropriate” (tr. 5/57-58). Notably, the Navy had used a minimum
+M7 classification in its contract specifications for the significantly heavier 140-ton and
+175-ton cranes Konecranes had recently built for the Navy (tr. 5/59, 2/12).
+
+     Moreover, the Navy engineers were dissatisfied with the 3,200 hours usage
+number established by the specifications (as explained by Konecranes), which usage
+
+                                           11
+was “significantly lower than what we were expecting” (tr. 6/104-05, 5/44-45 (noting
+that “the 3,200 hours is not what I’m looking for”)). Internally, as the Navy engineers
+drafted the June 18 letter, they recognized that “we did not provide any usage
+information or hourly information to the contractor in the RFP and therefore I don’t
+believe we should use any of that specific usage information in our response to this
+issue. The only thing that we can point to with respect to usage is our 30-year life
+expectancy.” (R4, tab 143 at 4628; tr. 6/103-05, 5/47-48)
+
+       In its letter to Konecranes, the Navy cited the “30-year expected service life” in
+the Contract’s requirements and asserted that Konecranes “should have estimated the
+expected hours of operation . . . of two hours per day and 250 working days per year,
+over the given 30-year crane life gives a total duration of use of 15,000 hours” (R4,
+tab 37 at 355; tr. 3/47, 5/64; R4, tab 142 at 214 (draft)). The Navy’s engineers did not
+derive this estimate themselves but requested and received an estimate from the Puget
+Sound base that “500hrs is in the zone of actual use” (R4, tab 143 at 4629; tr. 5/46-47).
+However, the Navy had no level-luffing cranes, so the Navy operators and engineers
+that made these hours usage estimates had no knowledge whether a level-luffing crane
+would require more luffing usage to move loads than the non-level luffing cranes the
+Navy had (tr. 5/62 (Navy Crane Center lead engineer: “Like I said, we don’t have any
+level-luffing cranes, so I don’t have that info[rmation]” regarding whether it takes less
+or more luffing time to load), 6/89 (Navy Crane Center Director of Acquisition and
+Engineering: same), 6/63 (Navy Crane Center Director of Acquisition and
+Engineering: “not aware” that the Puget Sound staff had ever seen a level-luffing
+crane), 6/81-82).
+
+       The Navy’s letter repeated its conclusion that the root cause of the problem was
+“the high radial bearing pressure from the wire rope on the drum groove surface and
+the low strength drum material” (R4, tab 37 at 356). The Navy also rejected
+Konecranes’ actions to buff out the drum grooves because that would mean the drum
+would no longer be “new material” and the drum was already “excessively worn” (R4,
+tab 37 at 356-57). “[T]he Government does not intend to grant approval to ship the
+crane using the current luff drum configuration” (R4, tab 37 at 357).
+
+       On June 30, 2020, Konecranes responded (through counsel) and demanded that
+the Navy Crane Center “either allow [Konecranes] to ship the crane based on its
+current, contract-compliant design, or modify the delivery order technical specification
+to incorporate the new technical requirements for the luffing hoist drum” (R4, tab 38
+at 358). Konecranes noted that (1) the luffing drum on crane 53 was “new material”
+under the Contract despite being buffed to remove the wear, (2) the luffing drum met
+the Contract’s requirements for M5 classification and the Contract did not include
+hours of usage or require a higher M7 or M8 classification, and (3) the Navy had
+approved the crane design and, thereby, endorsed Konecranes’ underlying assumptions
+(including the luffing hoist design provided almost three years earlier) (R4, tab 38).
+
+                                           12
+“On the eve of crane delivery, [the Navy Crane Center] has changed its mind about
+key technical requirements and wants something in a different group classification”
+(R4, tab 38 at 361).
+
+        On July 1, 2020, the Navy personnel completed the shop test on crane 53 (ex.
+A-10; tr. 2/127-28, 1/154). Other than the Navy’s continued concerns with the buffed
+out luffing drum, the Navy had only one other issue remaining that would have
+prevented Konecranes from shipping – an outstanding submittal for a brake shoe
+adjustment (tr. 3/64-65, 1/156-57, 5/39-40; ex. A-20). Konecranes believed the brake
+shoe adjustment issue was a “paperwork” issue, such as changing terms “ft/lbs” to
+“ft-lb” and “nm” to “Nm” and confirming serial numbers for the brakes (tr. 1/157,
+3/153-54). Konecranes believed the Navy was using it as a “delay tactic,” and
+believed that it did not prevent shipping crane 53 even though it was part of the
+Contract’s data requirements list (tr. 1/157; 3/153, 5/39). Konecranes was ready to
+ship the crane (tr. 3/152-54).
+
+       On that day, however, the Navy’s contracting officer issued a written directive
+denying Konecranes’ request to deliver the crane (R4, tab 39; tr. 3/33-34). The Navy
+repeated its prior concerns, including that Konecranes “elected to incorporate the
+minimum M5 requirement” that was a “minimum requirement for the stated
+components and does not relieve [Konecranes] from providing a design in which
+related components work cohesively such that they do not cause abnormal wear of
+other crane components” (R4, tab 39 at 363 (emphasis in original)). The Navy
+concluded: “To avoid rejection of the barge for delivery, it is important that you
+adhere to the contracting officer’s directive set forth in this letter by not shipping the
+crane prior to resolution as stated above” (R4, tab 39 at 363; tr. 3/33-34, 64). The
+Navy understood that refusing shipment impacted Konecranes’ critical path (tr. 6/75).
+The Navy’s letter did not mention the brake shoe issue (R4, tab 39).
+
+       On July 2, 2020, and again on July 17, 2020, the Navy listed both the luffing
+drum and the brake shoe adjustment paperwork as the basis for denying Konecranes’
+repeated requests to ship crane 53 (R4, tabs 40, 49). Konecranes resolved the brake
+shoe issue by August 3, 2020 (R4, tab 160; tr. 1/157).
+
+        On July 7, 2020, Konecranes (again through counsel) requested technical
+direction to determine the Navy Crane Center’s “minimum technical requirements for
+the luffing hoist drum mechanism” including identifying: (1) the minimum required
+hours of use for the luffing mechanism, (2) the appropriate “M” classification the Navy
+wanted from the ISO 4301 standard, and (3) any minimum hardness requirements for
+the drum (R4, tab 41 at 365-66; tr. 3/76). Konecranes concluded by stating that it was
+“incurring unsustainable cost increases and delays with each day the Contract’s
+Technical Specification issues are not resolved” (R4, tab 41 at 366; tr. 3/76-77).
+
+
+                                            13
+       Internally, the Navy contracting officer and Navy engineers acknowledged they
+were pressing a weak position and agreed with Konecranes’ position that the Contract
+only required delivery of an M5 classified luffing drum (R4, tab 150; tr. 3/73-75).
+The Navy Crane Center’s director of the design division opined that “if our response
+contains anything more than ‘NCC requests [Konecranes] provide a luff drum that
+meets the M5 minimum requirement, as specified’, it will mean we are directing them
+to provide something that is outside of the original contract, and ultimately, and equate
+to an REA from [Konecranes]” (R4, tab 150 at 4733; tr. 6/110-11, 3/73-74; Emerson
+dep. at 9-10 (noting position as director of design division)). The Navy’s contracting
+officer agreed: “You’re right, which means we lose this battle. This further supports
+that we do not have a strong position to get anything more than another M5 drum”
+(R4, tab 150 at 4733; tr. 3/74-75, 6/112 (“[A]t this point, after the deficiency, that we
+didn’t want to specify a specific M class, because that was really the determination of
+the designer, and that we couldn’t, per the contract, specify anything other than the
+minimum requirement of M5.”)).
+
+        Nonetheless, on July 13, 2020, the Navy responded to Konecranes and again
+blamed Konecranes’ “luffing hoist design” (R4, tab 43 at 368). At that time, the Navy
+disclaimed that it could “have provided details on the load spectrum of the luffing
+hoist” or regarding “the appropriate material, material surface hardness, surface finish,
+or material hardness depth” that would have provided greater guidance to the Navy’s
+alleged requirements (R4, tab 43 at 368). As noted above, however, the Contract
+specified the material hardness and the appropriate material – particularly the type of
+steel to be used in constructing the drums (R4, tab 128 at 810-11). Konecranes
+constructed the drums consistent with the Contract’s steel material specifications (tr.
+1/53-54, 107, 2/13). The Navy’s engineers have since acknowledged that the Navy
+could have provided information regarding the expected number of usage hours for
+“clarity,” but did not (tr. 6/98, 5/61).
+
+
+III. Konecranes Submits its First Certified Claim Requesting the Navy’s
+     Interpretation of the Contract’s Requirements for the Luffing Drum
+
+       On July 20, 2020, Konecranes (through counsel) submitted a certified claim
+requesting a contracting officer’s final decision interpreting the terms of the Contract
+(R4, tabs 44-45). Konecranes pointed to the Contract’s requirement to build the hoists
+to an ISO classification of M5, resulting in 3,200 hours of operational life over
+30 years (R4, tab 45 at 374). Konecranes requested the Navy’s interpretation of
+whether Konecranes’ luffing hoist design met that contractual requirement, whether
+the Navy required greater than 3,200 hours and 30 years of operational life (including
+up to 15,000 hours), and whether a luffing hoist drum meeting the M5 requirement
+would meet the Navy’s intended usage of the crane (R4, tab 45 at 374-75; tr. 3/80-81,
+4/5).
+
+                                           14
+       On July 30, 2020, the Navy’s contracting officer answered a separate inquiry
+from Konecranes’ counsel about the usage and load information for the luffing hoist
+drum (R4, tab 52). The Navy agreed with Konecranes that the load spectrum was L3
+(heavy), but the Navy now asserted it expected a workload of 25,000 hours over
+30 years “[d]ue to the level luffing configuration” (R4, tab 52 at 392; tr. 3/81, 5/54-55).
+The Navy asserted that for a “non-level luffing design,” the Navy would have only
+required a lower 6,300-hour usage requirement (R4, tab 52 at 392; tr. 5/55). The Navy
+believed that a level-luffing crane would require three-to-four times more luffing usage
+than a non-level luffing crane (tr. 6/95).
+
+       On August 3, 2020, Konecranes responded that the newly suggested
+25,000-hour requirement meant that the Navy was seeking a standard that “greatly
+exceeds the Contract’s Technical Specification’s minimum requirement of M5” for the
+25-ton cranes (R4, tab 53 at 395). Konecranes explained that the 25,000-hour
+requirement meant the crane would need to meet an M8 classification, which was
+greater than what the Navy required from Konecranes in delivering 140-ton and
+175-ton cranes in other contracts (R4, tab 53 at 395; tr. 5/56-59 (Navy lead engineer
+on Contract acknowledging it would result in M8 classification and that 140-ton and
+175-ton cranes usually required minimum of M7)). Konecranes looked at the
+changing hours-requirement as a “moving target” (tr. 1/170).
+
+       Also on August 3, 2020 (as noted above), the Navy acknowledged Konecranes
+had resolved the brake shoe issue – one of the two remaining reasons given by the
+Navy for refusing shipment of crane 53 (R4, tab 160; see also tabs 40, 49). However,
+on August 6, 2020, the Navy again disapproved Konecranes’ request to ship crane 53
+based on the “[d]eficient luffing hoist drum” (R4, tab 55; tr. 3/85).
+
+       On August 5, 2020, the parties had a conference call to determine the best path
+forward to resolve this issue (R4, tab 96 at 543-44). That resulted in Konecranes
+providing the Navy with a requested memo laying out several options to move forward;
+Konecranes recommended the use of a flame-hardened drum using stronger ASTM
+A830 grade 1037 steel, which would meet the Navy’s heightened M8 “new usage
+requirements” resulting in 12,500 usage hours (R4, tab 56 at 403-04; tr. 1/175-78,
+2/79-80). On August 13, 2020, the Navy chose that option and requested pricing from
+Konecranes (R4, tab 58; tr. 3/89-90, 4/10-11). On September 4 and 11, 2020,
+Konecranes provided proposals for replacing the luffing drums with flame-hardened
+drums on all four cranes for $6.3 million (R4, tabs 60, 65 at 433; tr. 4/14-15).
+Konecranes also advised of the need to move forward quickly because the costs for the
+barge to transport the cranes would increase $33,333.33 per week after September 24,
+2020 (R4, tab 65 at 430; tr. 3/91-92). Alternatively, it would cost $328,656 to
+demobilize the transportation company (R4, tab 65 at 433; tr. 3/91).
+
+
+                                            15
+       The Navy balked at the cost of the flame-hardened drums, finding it “much
+higher than we anticipated,” and counteroffered $895,552 for the four new luffing
+drums, which Konecranes did not accept (R4, tab 82; tr. 6/36-37). With the impasse,
+the Navy stated it would instead provide a contracting officer’s final decision on the
+contract interpretation issue; Konecranes stated it would file a monetary claim for
+delay costs and demobilize the barge to mitigate costs (R4, tab 82 at 471; tr. 3/92,
+111, 4/20-21).
+
+        On October 30, 2020, the Navy issued its contracting officer’s final decision on
+the contract interpretation issue (R4, tab 95). The Navy squarely blamed Konecranes
+for a deficient design and that “the burden is on the Contractor to develop and propose
+a solution that will meet the contract requirements” (R4, tab 95 at 519). The Navy
+labeled the crane 53 luffing drum as “defective,” recounted the “unacceptable damage
+due to corrugation,” and rejected Konecranes’ solution of changing the wire rope on
+the luffing drum (R4, tab 95 at 519-25). The Navy asserted that Konecranes had
+provided no “calculations or technical justification” to demonstrate the luffing drum
+would even last 3,200 hours (R4, tab 95 at 527). Moreover, “the ‘minimum’ ISO 4301
+M5 classification requirement provided in the contract requires that no-less than M5
+can be used, but certainly does not limit the designer to provide a higher classification
+if design conditions necessitate” (R4, tab 95 at 530). Because Konecranes’ design
+used only the minimum M5 classification in the Contract and would have an
+operational life of 3,200 hours, the Navy asserted that Konecranes’ design failed to
+meet the 30-year operational life (R4, tab 95 at 529-31). The Navy concluded that
+Konecranes was at fault and “in light of FAR 52.212-4(a), the Government expects
+that the replacement of the nonconforming supplies will come at no increase in
+contract price” (R4, tab 95 at 533). Thus, the Navy asserted that Konecranes must
+replace the luffing drums with flame-hardened drums the parties had previously
+discussed, but the Navy would not pay for it (R4, tab 95 at 532-33).
+
+        As part of its analysis, the Navy blamed the deficient design and the 3,200-hour
+operational life, in part, on Konecranes’ “significant error” in calculating the luffing
+hoist line pull radial bearing pressure (R4, tab 95 at 527-28). As noted above, the
+Navy engineering staff had previously dismissed the calculation error as the problem
+(R4, tab 136). Indeed, the Navy had agreed to adopt the European commercial
+standard as requested by Konecranes but initially failed to formally modify the
+contract as an “oversight” (R4, tab 100; tr. 1/100-01, 3/28-29, 6/127-28). Now that
+problems arose with the damaged luffing drum and Konecranes had submitted a claim,
+the Navy withheld issuing the promised modification out of concern that it would
+weaken the Navy’s litigation position even though the Navy’s engineers “do not like
+this from an ethical perspective” (R4, tab 144 (“I think it would be worthwhile to put it
+in our back pocket for later as it might be useful.”); tr. 6/132-33, 5/91-92, 3/51
+(Contracting officer: “So we just felt uncomfortable signing, issuing a modification,
+not understanding what the impact to our potential litigation would be.”); R4, tab 108
+
+                                           16
+(Navy contract specialist noted that revisions relating to the European standard were
+“removed from the proposed modification due to their connection to [Konecranes’]
+claim”). The Navy has not pressed this factual assertion on appeal.
+
+        The contracting officer’s decision also stated that Konecranes did not comply
+with industry standards regarding “wire rope radial bearing pressure and fleet angle for
+the luffing hoist drum” (R4, tab 95 at 528; tr. 5/17-18). However, as the Navy
+acknowledged internally, the Contract does not include any specifications for wire
+rope radial bearing pressure and fleet angle (R4, tabs 136 (“This portal crane spec has
+no fleet angle requirements.”), 157 (“[W]e have no basis to disapprove the submittal
+for the radial [bearing] pressure”); tr. 3/93-95, 5/96-97). Moreover, Konecranes’
+design met industry standards for radial bearing pressure (tr. 1/115-21, 2/28-29,
+56-60; R4, tab 164; ex. A-18 at 53-54); and fleet angle (tr. 1/146-48 (noting that the
+luffing drum would have a fleet angle of 2.9 degrees, which was below the 4 degrees
+suggested by industry standards), 2/32-33 (same)). The Navy has not pursued this
+factual assertion on appeal.
+
+       The Navy also asserted that, during the June 2020 shop test, Konecranes’ project
+manager “specifically prohibited the Government personnel from inspecting the drum”
+on crane 53 to allow the Navy to assess whether the buffing and polishing had worked
+before Konecranes attached the new Python rope (R4, tab 95 at 525; Rexin dep. at 70;
+Bowen dep. at 107). However, Konecranes had invited the Navy’s lead quality control
+representative to look at the drum on crane 53 before attaching the new Python rope,
+but the Navy representative declined to come (tr. 2/145-46; ex. A-12). 4
+
+       On January 27, 2021, Konecranes appealed the Navy contracting officer’s final
+decision denying Konecranes’ contract interpretation claim to this Board.
+
+
+4
+    The Navy asserts that Konecranes has never allowed Navy personnel to inspect the
+         luffing drum on crane 53 after it replaced the wire rope (gov’t br. at 3 (citing
+         Bowen dep. at 10-11)). However, the deposition cited refutes this assertion,
+         with the Navy inspector acknowledging he attended the crane 53 inspection and
+         “during that time I looked at the luff hoist drum” (Bowen dep. at 9-10).
+         Moreover, between July 2020 and August 2021, the Navy had four to eight
+         Navy engineers on-site for two days every two weeks to inspect all the cranes
+         and did so without interference from Konecranes’ personnel because of COVID
+         protocols (tr. 2/124-26, 6/134-35 (Navy Crane Center Director of Acquisition
+         and Engineering acknowledging that “we may have had the opportunity at least
+         to look at the drum”)).
+                                            17
+IV. Konecranes’ Second Certified Claim Seeks Monetary Delay Damages
+
+        On October 5, 2020, Konecranes submitted a certified claim for $2,737,838 for
+“costs it has and continues to incur as a direct result of government-caused delays
+during the design approval and inspection process, as well as government-caused
+delays resulting from the government’s change in the requirements contrary to the
+Contract’s Technical Specification[s]” (R4, tab 83 at 472, 491). 5 Konecranes asserted
+that “the Navy has revealed that its intended requirement for the luffing hoist drum is
+in fact a classification of M8” (for a 30-year usage of 15,000 or 25,000 hours) instead
+of an M5 classification in the Contract’s specifications (R4, tab 83 at 479, 486).
+Konecranes asserted that the Navy’s conflicting requirements and superior knowledge
+about the unstated M8 requirement rendered performance impossible (R4, tab 83
+at 487).
+
+        On December 4, 2020, the contracting officer issued a final decision denying
+Konecranes’ delay damages claim (R4, tab 96). Referencing its October 30, 2020
+contracting officer’s final decision, the Navy noted that the alleged delays were the
+“direct result of the Government’s disapproval of [Konecranes’] Request to Ship . . .
+Crane 53 due to a defective luffing hoist drum” (R4, tab 96 at 545-46). The Navy
+stated that it had “not created an impossible performance scenario; nor ha[d] it
+changed contract requirements” (R4, tab 96 at 546). The Navy continued its assertion
+that Konecranes failed to accurately assess the Contract’s “requirement to design the
+crane with an anticipated 30-year life” and “to assess what materials would be needed
+to meet that requirement” (R4, tab 96 at 546).
+
+      On March 3, 2021, Konecranes appealed the contracting officer’s final decision
+denying the delay damages claim to this Board.
+
+V.     Konecranes Continues Performance and Finishes Constructing the Four Cranes
+
+       Notwithstanding the on-going disputes and appeals, Konecranes was
+contractually obligated to keep building all four cranes (tr. 3/203-04; R4, tab 19 at 326
+(delivery order for crane 53 to Bangor); exs. A-15 at 3 (delivery order for crane 54 to
+Bangor), -16 at 3 (delivery order for crane 51 to Bremerton), -17 at 3 (delivery order for
+crane 52 to Bremerton)). Based on the Contract’s delivery schedule, Konecranes only
+anticipated needing “space to build two cranes at any given time” at the Alaska Marine
+Lines site (tr. 3/183, 1/78). However, the Navy’s refusal to allow Konecranes to ship
+crane 53 (and then crane 54) meant that Konecranes needed to lease additional land from
+
+5
+    The claim also sought $8,323.56 for costs incurred due to the Navy’s alleged delays
+         in conducting the technical review of Konecranes’ crane design (R4, tab 83
+         at 491). Konecranes does not appear to be pursuing this aspect of its claim on
+         appeal.
+                                            18
+the Alaska Marine Lines site to build all four cranes (tr. 3/184 (“taking up substantially
+more space . . . because we had now parts of four jibs [cranes] on the site, but we didn’t
+have anything shipped”), 4/58-59). Between August 2020, through August 2021, Alaska
+Marine Lines increased the monthly rental rate from $9,800 to $25,250 to account for
+the additional space (R4, tab 64 at 425; ex. A-6 at 3 (noting the increased costs from
+August 2020 through August 2021); tr. 3/184). Konecranes informed the Navy’s
+contracting officer regarding the increased rental costs (tr. 3/190-91).
+
+       On January 25, 2021 (before filing either notice of appeal), Konecranes
+provided a report to convince the Navy that the 6 x 36 rope was the root cause of the
+luffing drum damage and that replacing it with the Python rope solved the problem
+(R4, tabs 113-14 at 645; tr. 1/133, 2/63-64, 3/101, 124, 4/26). Konecranes tested the
+luffing drum on crane 54, which had been initially run for 10 hours using the 6 x 36
+rope and, like crane 53’s luffing drum, had also suffered some damage prior to rope
+replacement (R4, tab 114; tr. 2/66; 3/210-11). Konecranes buffed out the drum on
+crane 54, replaced the 6 x 36 rope with Python rope, operated the crane’s luffing hoist
+drum for an additional 107 hours, and found “no abnormal contact marks” (R4, tab
+113 at 581-82; tr. 1/132-33, 2/63-64). After conducting this test, the drum grooves
+showed no damage or wear:
+
+
+(R4, tab 113 at 583; tr. 1/133-40, 2/66-70)
+
+                                              19
+        On February 26, 2021, the Navy responded by reiterating the Navy’s interest
+“in attempting another negotiation for the upgraded drums” and ignoring the report
+(R4, tab 114 at 645; tr. 3/111-12). Indeed, Navy engineers did not review the report
+(Bowen dep. at 117; tr. 5/102). Throughout March and April 2021, the parties
+exchanged correspondence and held a meeting regarding the new technical
+specifications for upgraded flame-hardened drums resulting in a proposed
+modification to the Contract with the new technical specifications (R4, tabs 116-18,
+124-25).
+
+        As the parties again discussed upgrading to flame-hardened material for the
+drums, Konecranes again attempted in April 2021 to convince the Navy that the
+Python rope solved the problem with the luffing drums on cranes 52-54 (R4, tab 126;
+tr. 1/141, 2/211). 6 Konecranes tested crane 52’s luffing drum for 50 hours to show
+there was no damage or wear with the Python rope (R4, tab 126 at 730, 734; tr. 2/208).
+Unlike cranes 53-54 that had used the 6 x 36 rope, crane “52 was a brand new drum
+and it never had the 6 x 36” rope on it (tr. 1/142; R4, tab 126 at 730). Konecranes then
+compared the grooves of the luffing drums on cranes 52- 54 (R4, tab 126 at 730,
+
+
+6
+    The Navy asserts that the Board should not treat the January and April test reports as
+         “expert reports,” asserting that they were Konecranes’ “internal” reports that should
+         not be credited as expert testimony (gov’t br. at 14). Konecranes acknowledges the
+         documents are not expert reports, but it notes it is providing this information as
+         permissible factual “empirical evidence” and, contrary to the Navy’s assertion,
+         Konecranes provided the reports to the Navy during contract performance to
+         demonstrate that changing the type of wire rope corrected the problem (app. reply
+         br. at 13-14). Indeed, the Konecranes engineers that prepared the reports testified
+         about them during the hearing (tr. 1/132-40, 2/60-72, 2/197-217). The Navy’s
+         objection seems to go to the weight of evidence and not admissibility, given that
+         the parties stipulated to the admission of all Rule 4 tabs into evidence (including
+         the two reports) (Pre-Hearing Stips. (Apr. 1, 2022); Order (Apr. 13, 2022)
+         (admitting Rule 4 tabs as evidence); tr. 1/8-10). The Board will assess and weigh
+         the reports and accompanying testimony as factual testimony, given that it was
+         based on the personal perceptions of the engineers that prepared the reports during
+         construction of the cranes under the Contract. Hanley Indus., Inc., ASBCA
+         Nos. 54315, 56383, 08-2 BCA ¶ 33,932 at 167,915-16, appeal dismissed, 345 F.
+         App’x 572 (Fed. Cir. 2009). Even if we believed the reports were hearsay (and,
+         here we do not, because the engineers that prepared the reports in the ordinary
+         course testified per FED. R. EVID. 803(6)), the Board may admit such evidence even
+         without a hearsay exception so long as we believe the evidence is reliable. Hamp’s
+         Constr. LLC, ASBCA No. 62257, 24-1 BCA ¶ 38,514 at 182,710, appeal filed, No.
+         24-1528 (Fed. Cir.).
+                                             20
+762-72; tr. 2/213-14). The testing (including pictures of the drum grooves) showed no
+peening, corrugation, or other wear to these drums after use of the Python rope (R4,
+tab 126 at 762-72; tr. 1/143-44, 161-62, 2/213-14, 231).
+
+
+       As pictured, the Navy inspectors spent some time physically inspecting the
+luffing drum on crane 52 at the time one of Konecranes’ engineers was preparing the
+April 2021 report (R4, tab 123; tr. 2/192-96). “[U]sually, it’s just a quick visual
+inspection. It does not take long” (tr. 2/194-96).
+
+      The Navy’s inspection team provided no feedback regarding the April 2021
+drum report until the December 2021 mediation. 7 A Navy engineer (that was one of
+
+7
+    To the surprise of the presiding judge who was unaware of the substance of the
+         mediation proceedings, both parties introduced and discussed a document from
+         the mediation, without objection (tr. 5/27-29 (Navy introducing Ex. G-1
+         without Konecranes objection), 2/216-31 (Konecranes witness discussing issues
+         raised in mediation including Ex. G-1 without Navy objection). Guided (but
+         not bound) by FED. R. EVID. 408, the Board generally will not admit evidence
+         “to prove or disprove the validity or amount of a disputed claim or to impeach
+         by a prior inconsistent statement” regarding the consideration, conduct, or
+                                           21
+the inspectors) critiqued the report as useless, claiming that Konecranes’ surface
+measurement tools of crane 52 would not have picked up scrubbing or peening
+damage to the depth (.005 inches) that was found on crane 53 (Bowen dep. at 112-13;
+ex. G-1 at 1). However, Konecranes measured deeper (250 micro inches or
+.00025 inches) and would have picked up any such damage if it was present (tr. 2/205,
+222 (noting that .005 inches was “approximately 20 times larger than what the surface
+roughness meter was measuring”)). The Navy engineer criticized the report for
+providing the data graphically instead of attaching the underlying data and doubted
+whether Konecranes had prepared any type of regression analysis (ex. G-1 at 2).
+In fact, Konecranes had conducted a regression analysis to compile and graphically
+present the data, but did not include the underlying data in the report (and the Navy
+never requested it) (tr. 2/228).
+
+        Moreover, in its response to the April 2021 report, the Navy discounted the
+test’s 50 usage hours on crane 52 (which included lowering the boom to its horizontal
+maintenance position four times) as insufficient to show that similar damage to
+crane 53 would not occur (ex. G-1 at 1). But, by placing the boom in the horizontal
+maintenance position four times (the annual number of times it would be placed in that
+position), Konecranes demonstrated how the Python rope and luffing drum performed
+for the equivalent of a year at that stress and in that position (tr. 2/221-22). And, “if
+that damage is going to occur, you would expect to see it on Crane 52 after our testing
+with the new wire rope” after 50 hours given that damage was seen “after a rather
+short quick period of time on Cranes, 53 and 54” with the 6 x 36 rope (tr. 2/218).
+Indeed, while still asserting that the “the hoist design is flawed” and pointing to some
+wear in the maintenance zone of the drum, the Navy engineer admitted the “new wire
+rope is likely to lessen the rate of wear as compared to the original 6x36 wire rope”
+
+
+       statements made during settlement negotiations or mediation sessions. FED. R.
+       EVID. 408(a); Jt. Mediation Agreement ¶ 7 (Oct. 13, 2021) (“The admissibility,
+       in any further proceedings before the Board, of statements made or documents
+       used in connection with the ADR proceeding will be guided by Federal Rule of
+       Evidence 408.”); ASBCA Rule 10(c) & Addendum II, ¶ 5. However, the
+       parties can choose to jointly waive any confidentiality protections from a Board
+       mediation, as they have done here regarding this document. AeroVironment,
+       Inc., ASBCA Nos. 58598, 58599, 16-1 BCA ¶ 36,337 at 177,175 (considering
+       mediation statements that raised new issues where neither party objected); cf.
+       also 5 U.S.C. § 574(b)(2) (“A party to a dispute resolution proceeding shall not
+       voluntarily disclose or through discovery or compulsory process be required to
+       disclose any dispute resolution communication, unless . . . all parties to the
+       dispute resolution proceeding consent in writing.”); 3 CHARLES ALAN WRIGHT
+       & ARTHUR M. MILLER, FED. PRACTICE & PROCEDURE § 5315 (2d ed.
+       Apr. 2023 update) (“[T]he protections of Rule 408 can be voluntarily waived.”).
+                                           22
+(ex. G-1 at 2). Also, the Navy Crane Center’s Director of Acquisition and Engineering
+admitted that the luffing drums “were showing no damage” after the testing (tr. 6/143).
+
+       In May 2021 (while initially ignoring Konecranes’ April 2021 report), the Navy
+offered $2.48 million to Konecranes to replace the luffing drums with flame-hardened
+drums using the proposed modification the parties had been negotiating (tr. 3/113-14).
+Konecranes counter-offered $3.015 million, but also requested a new contract line
+item number to provide for costs caused by the Navy’s delay (tr. 3/114-15). The Navy
+rejected the counter-offer (tr. 3/114-15).
+
+       After Konecranes completed all four cranes in August 2021, it had to maintain
+the Alaska Marine Lines site. To give Konecranes an “incentive to leave,” Alaska
+Marine Lines increased the monthly rental rate to $37,925 per month starting in
+September 2021 (tr. 3/187-88; R4, tab 127 at 785; ex. A-6 at 3 (noting the increased
+costs starting in September 2021). Konecranes informed the Navy’s contracting
+officer regarding the increased rental costs (tr. 3/190-91).
+
+       Other than the luffing drum dispute, crane 53 has been ready for shipment since
+August 2020 (tr. 4/31; R4, tab 55; tr. 3/85). Crane 54 has been ready for delivery and
+only needs the shop test (tr. 1/203). A government-witnessed shop test cannot occur
+on crane 54, until crane 53 has been shipped (tr. 3/104, 4/59, 5/103). By August 2021,
+cranes 51-52 were completed, but the Navy had neither approved the design nor
+conducted the shop test on those cranes (although Navy Crane Center inspectors saw
+Konecranes conduct the tests on those crane’s luffing drums and observed no damage)
+(R4, tab 123, tr. 1/203, 206, 4/35, 114; 6/143). As the construction site is currently
+configured, cranes 53-54 must be shipped before cranes 51-52 (tr. 3/104, 4/58-59).
+
+       In November and December 2021, the parties entered alternative dispute
+resolution by mediation with the prior presiding judge. 8 The mediation was
+unsuccessful so the Board re-assigned the appeal and it proceeded to a six-day hearing.
+
+8
+    The Navy introduced evidence through direct, leading questioning of Navy witnesses
+         regarding its settlement offers during the Board’s mediation and Konecranes’
+         rejection of those offers (tr. 3/118-20, 6/47-54). Aside from this evidence being
+         less convincing given Navy counsel’s leading its own witnesses to obtain this
+         testimony, Konecranes has objected to this evidence as irrelevant under FED. R.
+         EVID. 408 (app. reply br. at 12-13). Indeed, as noted above, the mediation
+         agreement states that “admissibility in any further proceedings before the Board,
+         of statements made or documents used in connection with the ADR proceeding
+         will be guided by Federal Rule of Evidence 408.” Jt. Mediation Agreement ¶ 7
+         (Oct. 13, 2021). We sustain the objection on a related ground. Our rules state:
+         “[A]ll discussions in connection with such [mediation] proceedings between the
+         parties and the Neutral are confidential and, unless otherwise specifically agreed
+                                             23
+        During the hearing, Konecranes presented delay damages for periods for which
+it had documented costs and estimated future costs:
+
+       Delay Costs from July 2020 – January 2021
+                     TYPE OF COSTS                           AMOUNT
+       Transportation                                          $824,999.98
+       July 2020 – Oct. 2020
+       Yard Costs                                               1,059,734.24
+       Aug. 2020 – Aug. 2021
+       Crane Maintenance Costs                                    584,865.05
+       July 2020 – Aug. 2021
+       Long Term Storage Preparation Costs                        385,972.65
+       Aug. 2021 – Sept. 2021
+
+       TOTAL DAMAGES with General &                            $4,862,696.31
+       Administrative (15.2%), Overhead (31.6%),
+       and Markup (16%)
+
+       Estimated Future Costs Caused by Delays
+                     TYPE OF COSTS                           AMOUNT
+       Estimated Future Yard Costs Caused by                   $921.186.51
+       Delays: Jan. 2022 – Aug. 2023
+       Estimated Future Crane Maintenance Costs                   540,247.95
+       Feb. 2022 – Sept. 2022
+       Yard Remobilization Costs                                1,918,522.72
+       Future Costs for New Transportation Schedule             3,352,408.00
+
+       TOTAL DAMAGES with General &                           $11,464,410.01
+       Administrative (15.2%), Overhead (31.6%),
+       and Markup (16%)
+
+(Ex. A-6 at 1; tr. 4/45-51). Konecranes used general and administrative and overhead
+rates approved by the Defense Contract Audit Agency (tr. 4/47-50). The markup or
+profit derives from the agreed-upon rate for change orders between Konecranes and
+the Navy under this Contract (tr. 4/50). Based on the parties’ discussions, Konecranes
+
+
+      by the parties, inadmissible as evidence in any pending or future Board
+      proceeding involving the parties or matter in dispute.” ASBCA Rules,
+      Addendum II, ¶ 5; see also FED. R. EVID. 408 advisory committee’s note to 2006
+      amendment (stating that “Rule 408 excludes compromise evidence even when a
+      party seeks to admit its own settlement offer or statements made in settlement
+      negotiations” because “protections of Rule 408 cannot be waived unilaterally”).
+                                          24
+also provided its potential costs ($1,162,083.10) based on a change proposal to modify
+the Alaska Marine Lines site to allow delivery of cranes 51-52 before cranes 53-54
+(ex. A-6 at 1; tr.4/52-53, 57-59). Also, as noted in the table, some of the costs labeled
+as “July 2020 through January 2021” includes costs through September 2021 based on
+bills Konecranes “paid to that point” (ex. A-6 at 2-5; tr. 4/45-46).
+
+       The Navy still needs and wants the four cranes built by Konecranes (tr. 6/56-57).
+However, regardless of the outcome of this litigation, the Navy intends to replace the
+luffing drums with flame-hardened drums (tr. 6/56).
+
+                                      DECISION
+
+I.    Standard of Review
+
+       Under the CDA and Board Rule 10, the Board proceeds de novo and weighs
+evidence based on the written and testimonial record from a hearing, unbound by any
+findings of a contracting officer’s final decision. Dep’t of Transp. v. Eagle Peak Rock
+& Paving, Inc., 69 F.4th 1367, 1374-76 (Fed. Cir. 2023); 41 U.S.C. § 7103(e);
+ASBCA Rule 10(c), (d). By statute and rule, our hearings are “informal,” but not
+chaotic to avoid unfairness or prejudice. 41 U.S.C. § 7105(g)(1); ASBCA Rule 10(c)
+(“Hearings shall be as informal as may be reasonable and appropriate under the
+circumstances.”). Konecranes, as the proponent of the claims, bears the burden of
+proof by a preponderance of the evidence. Peter Bauwens Bauunternehmung GmbH
+& Co. KG, ASBCA No. 44679, 98-1 BCA ¶ 29,551 at 146,497, aff’d, 194 F.3d 1338
+(Fed. Cir. 1999).
+
+
+II.   Konecranes Complied with the Plain and Unambiguous Meaning of the
+      Contract’s Specifications
+
+        The Navy asserts that the Contract’s specifications were patently ambiguous
+regarding the number of usage hours that could meet the 30-year life requirement of
+the luffing drums (gov’t br. at 7-9). Because Konecranes failed to inquire with the
+Navy regarding these allegedly ambiguous specifications, the Navy asserts that the
+Navy’s interpretation should govern this appeal and, thereby, Konecranes failed to
+meet the contractual requirement for the luffing drums (id.). Konecranes points to the
+plain meaning of the Contract’s specifications and asserts the Contract is unambiguous
+(app. reply br. at 6-10). We hold that the Contract is unambiguous and Konecranes
+properly provided luffing drums consistent with the plain meaning of the Contract’s
+specifications.
+
+     “Contract interpretation begins with the language of the written agreement.”
+NOAA Md., LLC v. Adm’r of Gen. Servs. Admin., 997 F.3d 1159, 1165 (Fed. Cir. 2021)
+
+                                           25
+(quoting NVT Techs., Inc. v. United States, 370 F.3d 1153, 1159 (Fed. Cir. 2004));
+FlightSafety Int’l, Inc., ASBCA No. 62659, 23-1 BCA ¶ 38,245 at 185,709, on appeal,
+No. 23-1700 (Fed. Cir.). If unambiguous, the plain meaning of a contract controls.
+Boeing Co. v. Sec’y of Air Force, 983 F.3d 1321, 1326 (Fed. Cir. 2020); Hercules, Inc.
+v. United States, 292 F.3d 1378, 1380-81 (Fed. Cir. 2002) (“In contract interpretation, the
+plain and unambiguous meaning of a written agreement controls.” (internal citation
+omitted)). “A contract term is unambiguous if there is only one reasonable
+interpretation.” Premier Off. Complex of Parma, LLC v. United States, 916 F.3d 1006,
+1011 (Fed. Cir. 2019) (quoting C. Sanchez & Son, Inc. v. United States, 6 F.3d 1539,
+1544 (Fed. Cir. 1993)). However, “[w]hen a contract is susceptible to more than one
+reasonable interpretation, it contains an ambiguity.” Metric Constructors, Inc. v. Nat’l
+Aeronautics & Space Admin., 169 F.3d 747, 751 (Fed. Cir. 1999); Lebolo-Watts
+Constructors 01 JV, LLC, ASBCA No. 59740 et al., 21-1 BCA ¶ 37,789 at 183,432,
+aff’d, 2022 WL 499850 (Fed. Cir. 2022). “‘To show an ambiguity it is not enough that
+the parties differ in their respective interpretations of a contract term,’ rather, both
+interpretations must be reasonable.” Premier Off., 916 F.3d at 1011 (quoting Metric,
+169 F.3d at 751). To show a patent ambiguity, which we construe against the
+non-drafting party, the drafting party must show an “obvious, gross, [or] glaring”
+ambiguity so substantial as to impose a “duty to inquire” before contract formation.
+States Roofing Corp. v. Winter, 587 F.3d 1364, 1372 (Fed. Cir. 2009) (internal quotations
+omitted); Vectrus Sys. Corp., ASBCA No. 61651, 22-1 BCA ¶ 38,066 at 184,817 (stating
+a “patent ambiguity” is “‘sufficiently glaring to trigger’ a reasonable contractor to inquire
+before submitting a bid” (internal citations omitted)).
+
+        The Navy asserts that two provisions of the Contract specifications taken
+together render the Contract patently ambiguous. First, the Contract states: “The
+entire crane shall be designed with a minimum 30 year life” (R4, tab 128 at 796).
+Second, the Contract states: “The crane shall have minimum ISO 4301 group
+classifications of A5 for the crane as a whole and M5 for hoists, luff, slew and travel”
+(R4, tab 128 at 796). As discussed above, Konecranes designed the crane, including
+the luffing drums by relying on the ISO standard for A5 for the crane and M5 for the
+luffing drum (R4, tabs 34, 54 at 400-01; tr. 2/16-17). The ISO standard results in an
+expected crane life of 3,200 hours of use over 30 years (R4, tabs 34, 54 at 400-01;
+tr. 2/16-17). Konecranes followed the plain meaning of the Contract’s specifications,
+including the explicitly incorporated ISO standard. Konecranes interpreted the
+Contract reasonably and, thus, its interpretation controls unless the Navy has identified
+some contractual ambiguity. Premier Off., 916 F.3d at 1011.
+
+        Attempting to create ambiguity, the Navy emphasizes the term “minimum” in
+these Contract specifications, particularly the ISO A5/M5 classification, and asserts
+that Konecranes should have known it needed to provide a luffing drum that met a
+higher classification standard that resulted in a higher number of usage hours (gov’t br.
+at 8-9; R4, tab 95 at 530). However, the Navy’s position is unreasonable. Let us be
+
+                                            26
+clear: satisfying a minimum requirement constitutes satisfying the requirement. Even
+the Navy’s witnesses agreed.
+
+        The Navy contracting officer and Navy engineers acknowledged they were
+pressing a weak position and agreed with Konecranes’ position that the Contract only
+required delivery of an M5 classified luffing drum (R4, tab 150; tr. 3/73-75). As noted
+above, the Navy Crane Center’s director of the design division recognized that
+requiring anything more than “‘a luff drum that meets the M5 minimum requirement,
+as specified’, it will mean we are directing them to provide something that is outside of
+the original contract, and ultimately, and equate to an REA [request for equitable
+adjustment]” from Konecranes (R4, tab 150 at 4733; tr. 6/110-11, 3/73-74). The
+Navy’s contracting officer agreed: “You’re right, which means we lose this battle.
+This further supports that we do not have a strong position to get anything more than
+another M5 drum” (R4, tab 150 at 4733; tr. 3/74-75; see also tr. 6/112 (Navy Crane
+Center Director of Acquisition and Engineering: “[A]t this point, after the deficiency,
+that we didn’t want to specify a specific M class, because that was really the
+determination of the designer, and that we couldn’t, per the contract, specify anything
+other than the minimum requirement of M5.”)). When the Navy wanted a higher
+M classification for the 140-ton and 175-ton cranes Konecranes built for the Navy, the
+Navy required a higher M7 classification (tr. 5/59, 2/12). The Navy understood that
+the Contract required Konecranes to provide a luffing drum at an M5 classification,
+which Konecranes did. There was no ambiguity, much less an obvious, gross, or
+sufficiently glaring ambiguity that would trigger Konecranes’ duty to inquire before
+contract formation. States Roofing, 587 F.3d at 1372; Vectrus, 22-1 BCA ¶ 38,066
+at 184,817.
+
+       The Contract did not place Konecranes on notice that the Navy expected the
+luffing drum to perform beyond 3,200 hours over 30 years – the number of hours
+expected using the ISO standard incorporated in the Contract’s specifications. As the
+Navy admits, the Contract “did not provide any usage information or hourly
+information to the contractor in the RFP” (R4, tab 143 at 4628; tr. 6/103-05, 5/47-48).
+Thus, Konecranes correctly relied on the ISO standard in the Contract.
+
+       Only after learning about the damaged luffing drum on crane 53 in June 2020 –
+well into performance and after the Navy approved Konecranes’ crane design – did the
+Navy attempt to derive the number of usage hours it expected. However, the Navy’s
+hours estimates were pure fiction based on (1) a lack of understanding of the ISO
+standard the Navy chose to put in the specifications and (2) a lack of familiarity with
+commercial level-luffing cranes. The Navy Crane Center had never done a commercial
+items procurement for cranes before (tr. 1/43, 6/78-79, 101). The Navy’s engineers
+were uncertain regarding how the commercial ISO standard’s M classifications related
+to usage hours for drums (R4, tab 148 at 338-39; tr. 5/59-61, 3/60-61). And, the Navy
+had no level-luffing cranes, so the Navy operators and engineers that provided hours
+
+                                           27
+usage estimates had no knowledge whether a level-luffing crane would require more
+luffing usage to move loads than the non-level luffing cranes the Navy had (tr. 5/62,
+6/63, 81-82, 89). Indeed, the Navy engineers believed that for a non-level luffing crane,
+the Navy would have only required usage of 6,300 hours (R4, tab 52 at 392; tr. 5/55).
+The Navy believed incorrectly that a level-luffing crane’s luffing drum would require
+three to four times more usage than a non-level luffing crane’s luffing drum, resulting
+in the unrealistic 15,000, 18,000, or 25,000 hour estimates (tr. 6/95). 9
+
+       Nearly the opposite is true. A level-luffing crane will use the luffing drum less
+than a non-level luffing crane and, thus, impose less stress and usage on the luffing
+drum (tr. 2/19-21, 3/215-16). Instead of using the luffing mechanism to move the
+boom up and down to load supplies, the level-luffing crane relies more heavily on a
+separate main hoist and whip hoist (or auxiliary hoist) with a separate hoist steel drum
+and ropes to raise and lower the hook to place loads into a submarine (R4, tab 128
+at 796-97; tr. 3/215-17). The 3,200-hour usage expected under the ISO standards for
+an M5 classification makes sense with the design of a level-luffing crane.
+
+       Ultimately, Konecranes built its cranes, including its luffing drums, to the ISO
+standard in the Contract’s specifications. In retrospect, the Navy asserts it did not get
+what it wanted. But, it got what it contracted for. Pro. Mgmt. Consulting Servs., LLC,
+ASBCA Nos. 61861, 62173, 20-1 BCA ¶ 37,638 at 182,751 (“While [the agency]
+clearly demonstrated that it did not get what it wanted from [the contractor] in the SOP
+manual, it did not demonstrate by a preponderance of the evidence that it did not
+receive what it contracted for.”). Thus, because Konecranes constructed the cranes
+
+9
+    Konecranes also asserts that the Navy had superior knowledge and failed to disclose
+        its actual usage hours requirements through a higher M classification in the
+        Contract’s specifications (app. br. at 49-51). See ECC Int’l, LLC, ASBCA
+        No. 58993 et al., 22-1 BCA ¶ 38,073 at 184,896. Indeed, there is good reason
+        to believe that, consistent with the superior knowledge doctrine, the usage hours
+        would have been vital information that would have avoided costly delays, the
+        Contract’s specifications misled Konecranes by failing to include a higher
+        M classification, Konecranes had no duty to inquire regarding the unambiguous
+        specifications (as noted above), and the Navy failed to provide this information
+        until well into performance. Hercules, Inc. v. United States, 24 F.3d 188, 196
+        (Fed. Cir. 1994), aff’d on other grounds, 516 U.S. 417 (1996). However, here
+        the superior knowledge claim “is a prop we do not need.” Broad Ave. Laundry
+        & Tailoring v. United States, 681 F.2d 746, 751 (Ct. Cl. 1982). As we found
+        above, the Navy did not determine it wanted a higher-level M classification
+        with higher usage hours at contract formation. The Navy only reached that
+        conclusion during performance, fumbling unnecessarily to change contractual
+        requirements resulting in compensable delays (as discussed more below) (tr.
+        5/24).
+                                            28
+based on the Contract’s plain and unambiguous specifications, we sustain Konecranes’
+appeal of the contract interpretation claim (ASBCA No. 62797).
+
+III. The Navy Is Liable for Delay Damages
+
+       “A contractor seeking to prove the government’s liability for a delay must
+establish the extent of the delay, the contractor’s harm resulting from the delay, and
+the causal link between the government’s wrongful acts and the delay.” Essex Electro
+Eng’rs, Inc. v. Danzig, 224 F.3d 1283, 1295 (Fed. Cir. 2000); States Roofing Corp.,
+ASBCA No. 54860 et al., 10-1 BCA ¶ 34,356 at 169,661. As to causation, “a
+contractor has the burden of demonstrating that the specific delays were due to
+government-responsible causes, that the overall completion was delayed as a result,
+and that any government-cause[d] delays were not concurrent with delays within the
+contractor’s control.” Fox Constr. Inc., ASBCA No. 55265 et al., 08-1 BCA ¶ 33,810
+at 167,379.
+
+        Konecranes asserts that the Navy had no basis to reject delivery of crane 53
+(and the remaining cranes) because the luffing drums conformed to the Contract’s
+requirements after Konecranes installed the Python rope on the luffing drums (app. br.
+at 42-49). Also, Konecranes asserts that the Navy’s refusal to allow shipment of the
+cranes and demand that Konecranes use a stronger steel for the luffing drums, resulted
+in delays based on a constructive stop-work order (app. br. at 45; app. reply br. at 12).
+The Navy asserts that it properly denied Konecranes’ repeated requests for delivery
+based on the initial damage to the luffing drum and that Konecranes bears
+responsibility for any delays because it did not act in good faith by refusing to accept
+the Navy’s proposed price for upgrading the luffing drums (gov’t br. at 9-11, 13). As
+discussed below, Konecranes proved that changing the wire rope corrected any defects
+to the luffing drum and the Navy should have accepted delivery of the cranes. The
+Navy’s refusal to accept delivery resulted in compensable delays. The Navy extended
+the delays by demanding an unnecessary change to the Contract’s technical
+requirements.
+
+       A.   Konecranes Proved that the Drums Met the Contract’s Specifications and,
+            thus, the Navy Had No Basis to Refuse Delivery of the Cranes
+
+       The Navy refused to allow Konecranes to ship crane 53 (and the three other
+cranes) because it determined that the luffing drum failed to conform to the Contract’s
+specifications (R4, tab 95 at 519-25, 533 (citing FAR 52.212-4); gov’t br. at 13).
+Notably, the Navy based this assessment on the initial damage to the crane 53 luffing
+drum, refusing to credit Konecranes’ corrective action that changed the 6 x 36 rope to
+Python rope (see generally R4, tabs 95-96). However, Konecranes has proved by a
+preponderance of the evidence that the luffing drums meet the Contract’s
+
+
+                                           29
+specifications and its corrective action of changing the rope fixed the initial problem of
+corrugation, peening, and other wear to the drums.
+
+       The Contract states, “The Contractor shall only tender for acceptance those
+items that conform to the requirements of this contract” (R4, tab 1 at 36 (quoting
+incorporated full text of FAR 52.212-4(a) – CONTRACT TERMS AND
+CONDITIONS – COMMERCIAL ITEMS (MAY 2014)). The Contract also states the
+Navy “reserves the right to inspect or test any supplies or services that have been
+tendered for acceptance” and “may require repair or replacement of nonconforming
+supplies . . . at no increase in contract price” (R4, tab 1 at 36 (FAR 52.212-4(a)).
+
+        “When the Government rejects work as being not in compliance with its
+specifications, the Boards of Contract Appeals have held that the burden is upon the
+Government to demonstrate that fact.” Sw. Welding & Mfg. Co. v. United States,
+413 F.2d 1167, 1176 n.7 (Ct. Cl. 1969); Ensign-Bickford Aerospace & Def. Co.,
+ASBCA No. 57929, 16-1 BCA ¶ 36,533 at 177,969 (“Unless the government proves
+that it properly rejected these lots, appellant is entitled to an equitable adjustment.”).
+We have explained this anomaly of the government bearing the burden for a contractor
+claim “as a variation of the implied warranty of specifications seen in impossibility
+and defective specifications cases and characterized it as the government ‘putting in
+issue the sufficiency of its own specifications.’” Northrop Grumman Corp., ASBCA
+No. 52178 et al., 05-2 BCA ¶ 32,992 at 163,525 (quoting Sw. Welding, 413 F.2d
+at 1183), aff’d, 206 F. App’x 991 (Fed. Cir. 2006). In assessing these “inspection and
+rejection cases,” we focus on whether the evidence demonstrates that a product fails
+“to meet contract requirements.” Ensign-Bickford, 16-1 BCA ¶ 36,533 at 177,970,
+177,974; Yardney Tech. Prods., Inc., ASBCA No. 53866, 09-2 BCA ¶ 34,277
+at 169,333. Regardless of which party bears the burden of proof, Konecranes proved
+by a preponderance of the evidence that the luffing drums complied with the
+Contract’s specifications after changing the wire rope and should not have been found
+defective with the new rope.
+
+       The Navy rejected the luffing drum, in part, on its determination that the
+3,200 hours expected from the M5 classification would not meet the 30-year
+requirement of the Contract (R4, tabs 96 at 546, 95 at 529-31; gov’t br. at 5, 7-9). As
+discussed above, however, Konecranes’ design met the 30-year requirement, because
+Konecranes designed the crane based on the M5 classification standard incorporated in
+the Contract. The Navy cannot refuse acceptance based on a heightened classification
+standard not incorporated in the unambiguous terms of the Contract. Sw. Welding,
+413 F.2d at 1185 (requiring equitable adjustment where contractor complied with the
+contract requirements, but the government demanded more by effectively “questioning
+the sufficiency of its own specifications”); Yardney Tech., 09-2 BCA ¶ 34,277
+at 169,333 (“To justify rejection of the contractor’s product, the government must
+
+
+                                           30
+show that the inspection or test used did not impose a higher or more stringent
+requirement, or standard of performance, than the contract required.”).
+
+       The Navy also rejected the cranes based on the initial damage to the luffing
+drum on crane 53 and refused to allow Konecranes to ship the cranes, claiming that
+Konecranes had failed to remedy the damage (gov’t br. at 13; R4, tabs 95 at 519-25,
+529-31, 39 at 363; tr. 3/33-34, 64). The Navy relied on the Contract’s specifications,
+which state: “Material shall be free from defects and imperfections that might affect
+the serviceability and appearance of the finished product. All material shall be new
+and unused.” (R4, tab 128 at 810). And, “[a]ll shop test identified deficient items
+shall be resolved prior to shipment of the crane, unless authorized by the Contracting
+Officer” (R4, tab 128 at 838).
+
+        Konecranes remedied the problem, but the Navy refused to accept Konecranes’
+solution. Initially, the luffing drum on crane 53 showed significant damage that
+matched the helix of the 6 x 36 wire rope after only 80 hours of use (ex. A-9 at 1-2;
+tr. 5/10-11; R4, tab 139 at 184). Konecranes identified the problem as the 6 x 36 wire
+rope, which Konecranes replaced with Python rope; the stronger rope’s smoother
+surface solved the problem of corrugation, peening, and scrubbing that had been
+evident on the luffing drum of crane 53 and crane 54 (after even less use) (R4, tab 21;
+tr. 2/38-40, 3/22-23). As discussed in detail above, Konecranes provided the Navy
+with two reports to demonstrate that the luffing drums showed no damage (such as
+corrugation, peening, or scrubbing) after 50 or 100 hours using the Python rope (R4,
+tabs 113, 114 at 645; tr. 1/133, 2/63-64, 3/101, 124, 4/26; R4, tab 126 at 762-72; tr.
+1/143-44, 161-62, 2/213-14, 231). Navy engineers acknowledged that the luffing
+drums showed less wear and no damage after lengthy testing with the Python rope (ex.
+G-1 at 2; tr. 6/143). The Navy’s speculative concerns (while understandable after the
+initial damage to the luffing drum on crane 53), cannot overcome the objective
+evidence that the drums showed little wear or damage after Konecranes’ corrective
+action of replacing the rope. Ensign-Bickford, 16-1 BCA ¶ 36,533 at 177,973
+(“Subjective standards do not pass muster as adequate justification for the
+government’s rejection of contracted items.”).
+
+       Notwithstanding evidence that Konecranes had successfully remedied the
+problem, the Navy asserts that Konecranes still bears some of the blame for the Navy’s
+refusal to allow shipment. The Navy contends that Konecranes denied the Navy an
+opportunity to inspect the luffing drum on crane 53 (and the other cranes) to assess
+whether Konecranes had solved the problem by replacing the 6 x 36 rope with Python
+rope (gov’t br. at 3, 13). Indeed, the government can demonstrate it properly rejected
+a product if a contractor refuses to allow the government to re-test and re-inspect the
+product. See Gooch Pkn. Co., VABCA No. 1387, 80-2 BCA ¶ 14,559 at 71,765-66.
+However, as we have found above, the facts do not support this allegation. First, in
+June 2020, Konecranes had invited the Navy’s lead quality control representative to
+
+                                          31
+look at the drum on crane 53 after it had been buffed out to remove the damage and
+before attaching the new Python rope, but the Navy representative declined to come
+(tr. 2/145-46; ex. A-12). Second, between July 2020 and August 2021, the Navy had
+four to eight Navy engineers on-site for two days every two weeks to inspect all the
+cranes and did so without interference from Konecranes’ personnel because of COVID
+protocols (tr. 2/124-26, 6/134-35). Third, the Navy’s inspectors were present while
+Konecranes tested the luffing drums for Konecranes’ reports to prove the Python rope
+resolved the issue and would not damage the drum (tr. 2/192-94; R4, tab 126). As
+pictured above, the Navy inspectors carefully looked at the drum on crane 52 at the
+time one of Konecranes’ engineers was preparing the April 2021 report that showed
+the luffing drums were compliant using the Python rope (R4, tab 123; tr. 2/192-96).
+Thus, the Navy had the opportunity to inspect the cranes, including the luffing drums,
+to determine whether Konecranes’ solution of changing the wire rope fixed the
+problem.
+
+       Ultimately, the Navy erred by failing to accept shipment of the cranes. The
+evidence demonstrates that Konecranes’ corrective action of changing the wire rope
+resulted in a luffing drum (and cranes) that complied with the Navy’s contractual
+requirements. Thus, the Navy did not have a basis for rejecting the cranes after
+Konecranes implemented its corrective action.
+
+       B.   The Navy Breached its Implied Duty to Reasonably Inspect
+
+        The Navy acted unreasonably in refusing to accept the cranes. Konecranes
+asserts the Navy’s actions in refusing shipment and demanding contract changes made
+it impossible for Konecranes to perform and, thus, constituted a constructive
+stop-work order (app. br. at 17, 45-49; app. reply br. at 12). The Navy asserts it is an
+unproven constructive suspension of work (gov’t br. at 9-11). Notably, Konecranes’
+claim and brief both rely on Board decisions relating to constructive suspensions of
+work or stop-work orders (R4, tab 83 at 487 (citing Piland Corp., ASBCA No. 22560,
+78-2 BCA ¶ 13,503 at 66,163 (constructive suspension while government considered
+changes); Structural Restoration Co., ASBCA Nos. 8747, 8756, 65-2 BCA ¶ 4,975
+at 23,473 (analyzing claim as a constructive suspension of work where there was no
+“formal stop work order”); Utilities Contracting Co.,, ASBCA No. 9723, 65-1 BCA
+¶ 4,582 at 21,913 (analyzing a “notice of substantial change in method of performance
+by the Government” constituted a constructive suspension of work)); app. br. at 46-47
+(same)). However, the Contract does not include a Stop-Work Order, Government
+Delay of Work, or Suspension of Work clause. Instead, because we cannot
+incorporate these clauses by operation of law in a commercial items contract, we find
+that the Navy breached its implied duty not to interfere by unreasonably inspecting the
+cranes. There can be no “constructive” suspension or stop-work order if there is no
+clause to base it on. It becomes a breach.
+
+
+                                           32
+             1.   We Will Not Incorporate a Stop-Work Order, Government Delay of
+                  Work, or Suspension of Work Clause by Operation of Law Because
+                  This is a Commercial Items Contract
+
+       For our Board “to incorporate a clause into a contract under the Christian
+doctrine, it generally must find (1) that the clause is mandatory; and (2) that it
+expresses a significant or deeply ingrained strand of public procurement policy.”
+K-Con, Inc. v. Sec’y of Army, 908 F.3d 719, 724 (Fed. Cir. 2018) (discussing and
+citing G.L. Christian & Assocs. v. United States, 312 F.2d 418 (Ct. Cl. 1963) and Gen.
+Eng’g & Mach. Works v. O’Keefe, 991 F.2d 775, 779 (Fed. Cir. 1993)). Here, the
+Suspension of Work, Government Delay of Work, and the Stop-Work Order clauses
+are not mandatory for commercial items contracts and, thus, we will not incorporate
+any of these clauses into the contract by operation of law.
+
+       In particular, the Contract does not incorporate a Suspension of Work,
+Government Delay of Work, or Stop-Work Order clause. The parties’ briefs do not
+provide a cite to these contractual provisions and we have been unable to find them in
+the Contract, including modifications and delivery orders (see R4, tabs 1, 4-20; exs.
+A-15 to -17). The Contract explicitly included the Contract Terms and Conditions –
+Commercial Items clause, but that clause does not include any form of the Suspension
+of Work, Government Delay of Work, and Stop-Work Order clauses (R4, tab 1 at 35-40
+(incorporating FAR 52.212-4)). Notably, the FAR implements the congressional
+requirement that commercial items contracts “shall, to the maximum extent practicable,
+include only those clauses” required by law or “consistent with customary commercial
+practice.” FAR 12.301(a) (implementing 41 U.S.C. § 3307(e)(2)(B)); CGI Fed. Inc. v.
+United States, 779 F.3d 1346, 1352 (Fed. Cir. 2015); SWR, Inc., ASBCA No. 56708,
+15-1 BCA ¶ 35,832 at 175,218; see also generally 10 U.S.C. § 3453(b)(5). So, given
+the policy preference to limit the number of standard FAR contract clauses in a
+commercial items contract, we should not be surprised that there is no explicit
+suspension, delay, or stop-work provision to hang the parties’ “constructive” hat on.
+
+       Instead, we must assess whether any of these clauses is mandatory and must be
+incorporated by operation of law under the Christian doctrine. K-Con, 908 F.3d
+at 724. Only fixed-price construction or architect-engineer contracts, not commercial
+items contracts, require the Suspension of Work clause. FAR 42.1305(a). The
+Government Delay of Work clause would permit similar suspension of work for a
+fixed-price supply contract. FAR 42.1305(c). However, the Government Delay of
+Work clause is “optional,” not required, for commercial supply contracts such as this
+one. Id.; see also Palmer & Sicard, Inc., ASBCA No. 23485, 81-1 BCA ¶ 15,029
+at 74,364 (refusing to incorporate Government Delay of Work clause by operation of
+law into commercial items contract). Similarly, a contracting officer “may” include
+the Stop-Work Order clause in supply contracts, but it is not mandatory even for
+non-commercial items contracts. FAR 42.1305(b)(1); cf. also SWR, 15-1 BCA
+
+                                          33
+¶ 35,832 at 175,235 (discussing a commercial items contract where the parties
+expressly included FAR 52.242-15, STOP-WORK ORDER (AUG 1989)). Thus,
+because none of these clauses are mandatory in a commercial items contract, we will
+not incorporate them by operation of law under the Christian doctrine.
+
+             2.    The Breach of the Implied Duty Not to Interfere Regarding
+                   Inspections
+
+        In the absence of a contract provision allowing the government to unilaterally
+stop or delay a contractor’s performance, any government caused delay constitutes a
+breach of the government’s implied duty not to interfere with a contractor’s
+performance. F2M, Inc., ASBCA No. 49719, 97-2 BCA ¶ 28,982 at 144,331. The
+implied duty not to interfere derives from the implied duty of good faith and fair
+dealing, assuring that one party cannot destroy the other party’s reasonable
+expectations regarding the fruits of a contract. Metcalf Constr. Co. v. United States,
+742 F.3d 984, 991 (Fed. Cir. 2014) (noting that the implied duty of good faith and fair
+dealing includes “the duty not to interfere with the other party’s performance and not
+to act so as to destroy the reasonable expectations of the other party regarding the
+fruits of the contract”) (quoting Centex Corp. v. United States, 395 F.3d 1283, 1304
+(Fed. Cir. 2005) (emphasis added)). “An implied duty of good faith and fair dealing
+exists in government contracts and applies to the government just as it does to private
+parties.” Agility Pub. Warehousing Co. KSCP v. Mattis, 852 F.3d 1370, 1383-84 (Fed.
+Cir. 2017).
+
+         Any implied duty derives from the explicit terms of a government contract.
+Metcalf, 742 F.3d at 991 (“The implied duty of good faith and fair dealing is limited
+by the original bargain: it prevents a party’s acts or omissions that, though not
+proscribed by the contract expressly, are inconsistent with the contract’s purpose and
+deprive the other party of the contemplated value.”); Amatea/Grimberg JV, ASBCA
+No. 60426 et al., 23-1 BCA ¶ 38,366 at 186,329 (“This duty is not free-floating but is
+tied to the explicit terms of the contract.”), on appeal, No. 23-1700 (Fed. Cir.). Here,
+as we concluded above, the Navy unreasonably inspected Konecranes’ cranes pursuant
+to the inspection provisions of the Contract Terms and Conditions – Commercial Items
+clause and Contract’s specifications (R4, tab 1 at 36 (FAR 52.212-4(a)). The Navy’s
+unreasonable inspection and ensuing delays resulted in a breach of the implied duty
+not to interfere. Gardner Displays Co. v. United States, 346 F.2d 585, 588-89 (Ct. Cl.
+1965) (concluding that the government’s “dilatory and inconclusive inspection and
+approval procedures . . . exceeded reason” and resulted in a breach of the implied duty
+not to hinder contractor performance); Military Aircraft Parts, ASBCA No. 60009,
+16-1 BCA ¶ 36,388 at 177,411 (finding breach of implied duty where the contractor’s
+first article “met all contract requirements” and the agency’s disapproval was
+“unreasonable”).
+
+
+                                          34
+      Ultimately, because we have found the Navy breached the implied duty, we
+must next turn to whether the Navy’s breach solely caused the delays or whether
+Konecranes is responsible for any concurrent delays.
+
+         C.   Konecranes Did Not Create a Concurrent Delay When Negotiating the
+              Potential Contract Modification
+
+       The Navy states that Konecranes bears some responsibility for the delay
+because Konecranes refused to bargain in good faith to change the Contract’s
+requirements to upgrade the luffing drums to a stronger steel (gov’t br. at 10-11, 13).
+Konecranes asserts that the Navy solely caused the delay by refusing to reasonably
+inspect and accept shipment of the cranes, which complied with the Contract’s
+specifications (app. br. at 45, 51-53; app. reply br. at 12-13). Konecranes asserts it
+was not obligated to accept an offer for a contract modification that did not fully
+compensate it for any changes, including on-going delays (app. reply br. at 12-13). As
+we have found and concluded above, the Navy caused delays by refusing to reasonably
+inspect and accept shipment of the cranes. As we discuss below, Konecranes
+bargained in good faith during the failed negotiations for a contract modification to
+upgrade the drums. There is no concurrent delay. The Navy solely caused the delay. 10
+
+       The Contract permits only bilateral modifications to change the terms and
+conditions of the Contract. FAR 52.212-4(c) (incorporated at R4, tab 1 at 36)
+(“Changes in the terms and conditions of this contract may be made only by written
+agreement of the parties.”). Because the Contract does not permit the Navy to make
+unilateral changes, any unilateral constructive change arguably would have resulted in
+a separate breach of contract. Hawaii CyberSpace, ASBCA No. 54065, 04-2 BCA
+¶ 32,744 at 161,946 n.1 (“Since this contract includes the FAR 52-212-4 Contract
+Terms and Conditions—Commercial Items clause, which does not include a Changes
+clause authorizing unilateral changes, the question could be raised whether appellant’s
+claims should be analyzed as claims for constructive changes or claims for breach of
+contract.”), appeal dismissed sub nom., Blackman v. Roche, 133 F. App’x 743 (Fed.
+Cir. 2005). Necessarily, the Navy had to negotiate with Konecranes to change the
+terms of the Contract.
+
+10
+     Notably, the Navy’s briefing has not asserted a concurrent delay for July 2020,
+         where the Navy rejected delivery of crane 53 based on both the luffing drum
+         and a brake shoe paperwork issue (R4, tabs 40, 49). In any event, Konecranes
+         offered testimony that the brake shoe paperwork issue should not have
+         prevented delivery of the crane and viewed it as a Navy “delay tactic” to give
+         the Navy more time to resolve the luffing drum issue (tr. 1/157, 3/153-54).
+         And, even though the brake shoe paperwork was not approved until August 3,
+         2020, Konecranes could have still delivered crane 53 by the August 22, 2020
+         delivery date (R4, tab 19 at 327-28).
+                                            35
+        Here, the Navy’s desire for harder drums constituted a proposed change to the
+terms and conditions of the Contract. As noted above, Konecranes built the luffing
+drums using a type of steel the Navy explicitly incorporated into the Contract’s
+specifications – ASTM A572, grade 50 steel (R4, tab 128 at 810-11; tr. 1/53-54,
+107, 2/13). After the damage to the luffing drum and the Navy’s incorrect assessment
+that the damage stemmed from a soft luffing drum, the Navy wanted a drum made of
+stronger steel than set forth in the Contract’s specifications – ASTM A830, grade 1037
+steel (R4, tab 56 at 403; tr. 1/175-78, 2/79-80; R4, tab 58; tr. 3/89-90, 4/10-11).
+
+        The Navy asserts Konecranes did not negotiate in “good faith” regarding the
+proposed upgrade to stronger steel drums and, thus, bears some of the blame for the
+delays (gov’t br. at 13). Essentially, the Navy is asserting an affirmative defense that
+Konecranes committed a prior, partial material breach of the implied duty of good
+faith and fair dealing. The Navy did not issue a contracting officer’s decision on this
+point. However, the affirmative defense of prior material breach is a common-law
+affirmative defense, which is not subject to a contracting officer’s final decision
+because it neither seeks payment of money nor the adjustment of contract terms.
+Securiforce Int’l. Am., LLC v. United States, 879 F.3d 1354, 1362-63 (Fed. Cir. 2018),
+overruled, in part, on other grounds, ECC Int’l Constructors, LLC v. Sec’y of Army,
+79 F.4th 1364, 1372-73 (Fed. Cir. 2023); Frazier Invs., Inc., ASBCA No. 63001, 23-1
+BCA ¶ 38,313 at 186,044.
+
+       As noted above, this Contract like all government contracts, includes an implied
+duty of good faith and fair dealing. Agility, 852 F.3d at 1383-84. “Under an existing
+contract each party, though free to refuse to negotiate a modification, is bound, once
+negotiations have begun, by a duty of good faith and fair dealing imposed by the
+contract.” 1 E. ALLAN FARNSWORTH, FARNSWORTH ON CONTRACTS § 3.26 (3d ed.
+2004); RESTATEMENT (SECOND) OF CONTRACTS § 205 cmt. c (1981) (stating that the
+implied duty of good faith and fair dealing applies “[i]n cases of negotiation for
+modification of an existing contractual relationship”). Indeed, the implied duty
+requires reasonable decision-making by a party when considering the other party’s
+request for contract modification. See Relyant LLC, ASBCA No. 59809, 18-1 BCA
+¶ 37,085 at 180,539 (stating that “the proper inquiry regarding the duty often boils
+down to questions of ‘reasonableness’” of a party’s actions); see also Dawson &
+Douglas Inc. v. Dep’t of Agriculture, CBCA 6304, 21-1 BCA ¶ 37,816 at 183,638
+(“The implied duty of good faith and fair dealing requires the Government to use
+reasonable decisionmaking when considering a contractor’s request for a contract
+modification.”).
+
+      Here, there is no evidence that Konecranes unreasonably negotiated regarding
+the Navy’s proposed change to the terms and conditions of the Contract. The Navy
+mainly points to Konecranes’ refusal to accept the Navy’s offer for a contract
+
+
+                                           36
+modification to upgrade the drums. 11 However, the evidence does not bear out any
+unreasonableness in the contract modification negotiations. Indeed, Konecranes
+worked with the Navy to develop the specifications for the modification and the
+parties exchanged counteroffers, including pricing for upgrading the drums (R4, tabs
+116-18, 124-25; tr. 3/113-15). However, the Navy rejected Konecranes’ counteroffer,
+because Konecranes wanted the contract modification to include a line item to pay
+Konecranes for its on-going delay costs (tr. 3/113-15). The parties could not come to a
+final agreement to modify the Contract. We discern no impropriety by Konecranes in
+its negotiating the potential contract modification, but refusing to take a bad deal, and,
+thus, we reject the Navy’s assertion of a prior material breach of the implied duty of
+good faith and fair dealing.
+
+       To reiterate, the failed negotiations to upgrade the luffing drum did not cause
+the delay – the Navy’s refusal to accept the cranes during the inspection process
+caused the delay. As discussed above, Konecranes was prepared to deliver cranes,
+including the luffing drums, that met the Contract’s specifications. The Navy had no
+contractual basis to refuse delivery and acceptance of the cranes once Konecranes
+changed the wire rope on the luffing drums and corrected that problem. The Navy
+caused the delay by refusing to allow delivery of the cranes and demanding steel
+
+
+11
+     Normally, such settlement negotiations would be protected by FED. R. EVID. 408(a),
+        which guides but does not bind our Board. Cheyenne River Sioux Tribe v.
+        United States, 806 F.2d 1046, 1050 (Fed. Cir. 1986) (“An unaccepted offer of
+        settlement ordinarily is not admissible evidence to show either the existence or
+        amount of liability.”); Linda Rugina Co., ASBCA Nos. 62207, 62334, 20-1
+        BCA ¶ 37,578 at 182,462 (“[A]n offer to settle a claim is not admissible to
+        prove the validity (or amount) of a disputed claim.”). Yet, Konecranes never
+        objected to our consideration of the pre-mediation settlement negotiations,
+        likely because allegations of bad faith and undue delay are an exception to
+        consideration of such evidence per FED. R. EVID. 408(b). Milhouse v. Travelers
+        Comm. Ins. Co., 982 F. Supp. 2d 1088, 1105 n.10 (C.D. Cal. 2013) (stating that
+        Rule 408 “allows evidence of settlement negotiations to be admitted where
+        offered not to prove liability, but to refute a claim of undue delay or bad faith”),
+        aff’d, 641 F. App’x 714 (9th Cir. 2016). However, as we discussed in the
+        Findings of Fact above, we will not admit settlement discussions from the
+        Board mediation as evidence unless both parties consent. ASBCA Rules,
+        Addendum II, ¶ 5 (“[A]ll discussions in connection with such [mediation]
+        proceedings between the parties and the Neutral are confidential and, unless
+        otherwise specifically agreed by the parties, inadmissible as evidence in any
+        pending or future Board proceeding involving the parties or matter in
+        dispute.”).
+                                              37
+drums stronger than required by the Contract. The Navy could have ended any delay
+by simply accepting a compliant product.
+
+        Indeed, the Navy prolonged this process by knowingly raising tangential issues
+that delayed and complicated resolution through a contract modification. For example,
+the Navy had agreed to modify the Contract to add a commercial European safety
+standard, but reneged when Konecranes filed its first claim, even though the Navy’s
+engineers believed it was unethical (R4, tab 144; tr. 6/132-33, 5/91-92, 3/51; R4,
+tab 108). Also, Navy engineers did not think the miscalculation that prompted the
+change to the European safety standard was related to the damaged luffing drum, but
+the contracting officer cited it as a basis in her final decision anyway (R4, tabs 136;
+95 at 527-28). The Navy raised concerns regarding the fleet angle of the wire rope and
+radial bearing pressure on the drum (including in the contracting officer’s final
+decision) (R4, tab 95 at 528; tr. 5/17-18), even though the Navy recognized that the
+Contract included no such requirements (R4, tabs 136, 156; tr. 3/93-95, 5/96-97).
+Also, the contracting officer’s final decision demanded that Konecranes pay for the
+upgraded drums, even though the Navy was changing the type of steel required for the
+luffing drums and, even now, recognizes that the parties needed to negotiate a
+modification to upgrade the drums (R4, tab 95 at 533). Given that the Navy pushed
+for this change and it delayed and frustrated Konecranes’ performance, the Navy
+remains liable for the delay. See Piland Corp., ASBCA No. 22560, 78-2 BCA
+¶ 13,503 at 66,163 (finding government liable where agency opted to change a
+contract’s terms and it resulted in delaying performance).
+
+       Ultimately, Konecranes’ actions in attempting to negotiate a contract
+modification were not unreasonable and the basis for the delay. The Navy’s actions in
+refusing to allow Konecranes to ship the contractually compliant cranes caused the
+delay. The Navy must compensate Konecranes for these delays.
+
+
+IV. Konecranes May Recover Delay Damages Through the Hearing
+
+        Konecranes has built the cranes, it still intends to deliver them, and the Navy
+still wants them. Where there is a breach, typically the non-breaching party may elect
+to allege a total breach, resulting in contract termination, or treat it as a partial breach,
+electing to enforce the contract and recover damages as incurred for any delays. Scott
+Timber Co. v. United States, 692 F.3d 1365, 1379 (Fed. Cir. 2012) (“At the time of the
+alleged breach, Scott was entitled to elect one out of two options: (1) treat the
+suspensions as a total breach, seek to rescind the contract, and sue for damages
+including the costs of replacing the contracted-for timber; or (2) treat the suspensions
+as a partial breach, accept the government’s delayed performance, and sue for damages
+caused by that delay.”). Here, Konecranes diligently performed the contract all the
+way up to delivery and its claim and appeal do not seek to end the Contract but seek
+
+                                             38
+only to recover damages resulting from the delays caused by the Navy. 12 Thus, we
+have a partial breach of an on-going contractual relationship.
+
+       “A non-breaching party who accepts delayed performance may still claim
+damages for partial breach because of the delay.” Raytheon Co., ASBCA No. 61859,
+20-1 BCA ¶ 37,630 at 182,689. Like any other breach claim, the injured party must
+prove its damages were reasonably foreseeable, substantially caused by the breach,
+and shown with reasonably certainty. Ind. Mich. Power Co. v. United States, 422 F.3d
+1369, 1373 (Fed. Cir. 2005). Konecranes’ damages were reasonably foreseeable.
+And, as noted above, Konecranes demonstrated the Navy substantially caused (indeed,
+solely caused) the delays resulting in damages.
+
+       The breach’s partial nature places limitations on what damages an injured party
+can show with reasonable certainty. Partial breach damages “compensate the injured
+party only for the loss it suffered as the result of the delay or other defect in
+performance that constituted the breach, not for the loss of the return of performance.”
+Yankee Atomic Elec. Co. v. United States, 536 F.3d 1268, 1280 (Fed. Cir. 2008)
+(quoting E. ALAN FARNSWORTH, FARNSWORTH ON CONTRACTS § 8.15 (2d ed. 2000)).
+The injured party may recover damages for nonperformance only until trial. Shell Oil
+Co. v. United States, 7 F.4th 1165, 1172 (Fed. Cir. 2021). “Because of its highly
+speculative nature, a claimant may not recover, at the time of the first suit for partial
+breach, prospective damages for anticipated future nonperformance resulting from the
+same partial breach.” Ind. Mich., 422 F.3d at 1376.
+
+        As noted above, Konecranes has presented its damages in three categories:
+(1) delay costs from July 2020 through January 2021, which actually includes costs
+through September 2021 (ex. A-6 at 2-5; tr. 4/45-46); (2) estimated future costs caused
+by delays, which includes some damages prior to the hearing (ex. A-6 at 6-12;
+tr. 4/46); and (3) a proposed new scope of work to alter the work site to deliver cranes
+51-52 before cranes 53-54 (ex. A-6 at 1; tr. 4/52-53, 57-59). Notably, Konecranes
+
+12
+     The Disputes clause only required Konecranes “to proceed diligently with
+         performance of the contract, pending final resolution of any dispute arising
+         under the contract” but not for a dispute “relating to” a contract such as a
+         breach (R4, tab 1 at 36 – 52.212-4(d)). “[A] material breach has the effect of
+         freeing the contractor of its obligations under the contract, including its
+         obligations under the disputes clause.” Alliant Techsys., Inc. v. United States,
+         178 F.3d 1260, 1276 (Fed. Cir. 1999). Nevertheless, Konecranes’ actions were
+         more conservative, because if a contractor mistakenly believes there is a breach
+         (rather than a remedy “arising under” the contract), then that would leave the
+         contractor subject to default termination if it does not diligently perform. Id.
+         at 1277 (concluding that a contractor failed to show a breach justifying refusal
+         to perform pending resolution of a claim brought under the Disputes clause).
+                                             39
+increased the amount of damages from $2,737,838 in its claim to $17,489,189.42 in its
+presentation at the hearing (Compare R4, tab 83, with Ex. A-6). A claimant may
+increase the amount of a claim during litigation before the Board. K- Con, 778 F.3d
+at 1006 (noting that the standard for determining a “claim” does not impose “so rigid a
+standard as to preclude all litigation adjustments in amounts ‘based upon matters
+developed in litigation’” (quoting Tecom, Inc. v. United States, 732 F.2d 935, 937-38
+(Fed. Cir. 1984)). “An increase (or reduction) on appeal in the amount claimed does
+not constitute a new claim under the CDA as long as the nature of the claim and basic
+operative facts are essentially the same.” Raytheon Co., ASBCA No. 57743 et al.,
+17-1 BCA ¶ 36,724 at 178,847, aff’d, 940 F.3d 1310 (Fed. Cir. 2019). Konecranes
+continues to seek delay damages for the Navy’s refusal to accept the compliant cranes
+and unnecessarily seeking to change the Contract’s specifications. The claim is the
+same, but the damages amount has increased as the delay has continued. We now look
+at which damages Konecranes may recover.
+
+       A.   Konecranes Has Proven its Delay Damages for July 2020 through
+            September 2021
+
+       Konecranes has proven its delay damages for July 2020 through September 2021,
+which includes damages for (1) transportation delay, (2) yard costs, (3) crane
+maintenance, and (4) long term storage preparation costs. We discuss each category
+briefly.
+
+        First, because the Navy refused to allow Konecranes to ship crane 53 in
+July 2020, Konecranes incurred transportation-related costs. Konecranes incurred a
+daily barge rental charge of $4,500 between July 2, 2020 (when crane 53 was ready for
+shipment) and October 2, 2020 (when the lease for the barge ended) (ex. A-6 at 2-3;
+tr. 4/64-65). Konecranes had contracted with a company (Berard) to load the cranes
+onto the barge and incurred standby costs in July, August, and September 2020 (ex. A-6
+at 2-3; tr. 4/66-67). Together with some project management and other related costs,
+Konecranes incurred costs of $824,999.98 (before general & administrative, overhead,
+and profit) (ex. A-6 at 1-3; tr. 4/67-68).
+
+       Second, because the Navy refused to allow Konecranes to ship any of the cranes
+and Konecranes remained contractually bound to continue building all four cranes,
+Konecranes incurred yard costs of $1,059,734.24 (before general & administrative,
+overhead, and profit) from August 2020 through August 2021, which included costs to
+relocate crane 53 to make space to build crane 52, build a runway extension to allow
+Konecranes to build crane 51, increased insurance for all four cranes, and increased
+rent for additional space at the site to hold all four cranes (ex. A-6 at 1, 3; tr. 4/68-78).
+
+      Third, because the Navy refused to allow Konecranes to ship the cranes,
+Konecranes incurred crane maintenance costs of $584,865.05 (before general &
+                                             40
+administrative, overhead, and profit) from July 2020 through August 2021, including
+labor and material costs of cleaning, lubricating, and running the completed cranes to
+assure they remained in working condition and ready for delivery (ex. A-6 at 1, 4;
+tr. 4/79-85).
+
+         Fourth, because the Navy had refused to allow delivery of any of the four
+completed cranes by August 2021, Konecranes took steps to mitigate its damages by
+preparing and placing the completed cranes in long-term storage pending resolution of
+this dispute, including coating every surface to prevent rust and corrosion (ex. A-6
+at 5; tr. 4/85-89). “Mitigation is appropriate where a reasonable person, in light of the
+known facts and circumstances, would have taken steps to avoid damage.” Ind. Mich.,
+422 F.3d at 1375; Fluor Intercontinental, Inc., ASBCA Nos. 62550, 62672, 22-1 BCA
+¶ 38,105 at 185,100. Konecranes incurred $385,973 in mitigation costs (ex. A-6 at 5;
+tr. 4/89).
+
+       All of these costs were incurred prior to the hearing, were foreseeable at the
+time of contracting, caused by the Navy, and are shown with reasonable certainty.
+Including Konecranes’ general & administrative costs, overhead costs, and profit, we
+award damages of $4,862,696.31 for the delay through September 2021.
+
+       B.   Konecranes Cannot Recover Its Estimated Future Costs & New Scope of
+            Work
+
+        Konecranes seeks costs from January 2022 through August 2023 and for an
+additional scope of work (ex. A-6 at 1). However, these costs were estimated future
+costs that Konecranes had not expected to incur before the hearing in these appeals in
+April 2022. Indeed, Konecranes’ president acknowledged that some of the figures for
+these future costs were “purely my guesstimation” or “guestimate[s]” (tr. 4/90, 103).
+As noted above, a claimant may not collect future costs beyond trial for a partial
+breach claim because such costs are speculative. Shell Oil, 7 F.4th at 1172; Ind. Mich.,
+422 F.3d at 1376.
+
+       For example, the future costs are all speculative and are based on assumptions
+that have not yet come to pass. First, the estimated yard costs include such costs as
+expected rent of the Alaska Marine Lines site from September 2022 through
+August 2023, costs of restoring the Alaska Marine Lines site to its original condition
+where a runway was extended to build all four cranes on site, and rental costs to
+remove the runway extension (ex. A-6 at 6; tr. 4/50, 89-94). As Konecranes’ president
+acknowledged, these constitute “future costs that we have yet to incur” (tr. 4/50).
+
+       Second, Konecranes provided estimated crane maintenance costs, assuming
+Konecranes began preparing to ship cranes in February 2022 and began to ship the
+cranes in October 2022 (ex. A-6 at 7; tr. 4/51, 94). Konecranes’ president
+                                           41
+  acknowledged that these “remain future costs until we can have agreement on when
+  we get [to] ship” (tr. 4/51).
+
+          Third, Konecranes provided estimated remobilization costs to prepare the
+  Alaska Marine Lines site (ex. A-6 at 9). Konecranes demobilized the site to mitigate
+  its damages (as noted above) (tr. 4/51). These estimated costs are to “remobilize the
+  site in order to get the cranes back to a ready state so that we can finish the project”
+  (tr. 4/51). When asked, Konecranes’ president acknowledged he did not “know with
+  certainty” that these costs were correct because it was an “estimate” (tr. 4/101).
+
+         Fourth, Konecranes provided estimated new transportation costs (ex. A-6
+  at 10). These are “all the new costs that would be incurred to deliver” the cranes to
+  Naval Base Kitsap (tr. 4/51). These costs had not yet been incurred by the hearing.
+
+          Fifth, Konecranes provided estimated costs to modify the yard at the Alaska
+  Marine Lines site to allow shipment of cranes 51 and 52 before crane 54 (ex. A-6
+  at 11-12; tr. 4/57-59). This was just a “projected proposal” that was discussed between
+  the Navy and Konecranes (tr. 4/105). The parties have not agreed to this proposal and
+  it is unclear if they will agree to it. These costs are speculative at this time.
+
+          Ultimately, while Konecranes cannot currently recover these estimated future
+  costs, it may submit new claims seeking the costs as actually incurred. “The partial
+  breach doctrine makes clear that damages that could not have been sought in a prior
+  action because they had not yet accrued may be sought in a subsequent action.” Shell
+  Oil, 7 F.4th at 1173.
+
+                                      CONCLUSION
+
+         We sustain Konecranes’ appeal of the contract interpretation issue (ASBCA
+  No. 62797). Konecranes’ appeal seeking delay damages is sustained in the amount of
+  $4,862,696.31 plus any CDA interest from the time it submitted its claim, October 5,
+  2020, until paid (ASBCA No. 62827). Konecranes is not precluded from submitting
+  additional claims to recover any delay damages not sought in its sustained claim.
+
+         Dated: May 7, 2024
+
+
+                                                   DANIEL S. HERZFELD
+                                                   Administrative Judge
+                                                   Armed Services Board
+                                                   of Contract Appeals
+(Signatures continued)
+
+                                             42
+ I concur                                         I concur
+
+
+ OWEN C. WILSON                                   J. REID PROUTY
+ Administrative Judge                             Administrative Judge
+ Acting Chairman                                  Vice Chairman
+ Armed Services Board                             Armed Services Board
+ of Contract Appeals                              of Contract Appeals
+
+
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA Nos. 62797, 62827, Appeals of
+Konecranes Nuclear Equipment & Services, LLC, rendered in conformance with the
+Board’s Charter.
+
+      Dated: May 7, 2024
+
+
+                                               PAULLA K. GATES-LEWIS
+                                               Recorder, Armed Services
+                                               Board of Contract Appeals
+
+
+                                          43

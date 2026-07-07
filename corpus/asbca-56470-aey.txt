@@ -1,0 +1,1715 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeals of --                                  )
+                                               )
+AEY, Inc.                                      )        ASBCA Nos. 56470, 56471, 56472
+                                               )                   56473, 56591
+UnderContractNos. W91GY0-07-M-0815             )
+                  W91GY0-07-M-0670             )
+                  W91GY0-08-M-0010             )·
+                  W91GY0-08-C-0005             )
+                  W91GY0-08-M-0040             )
+
+APPEARANCES FOR THE APPELLANT:                          Jeff H. Eckland, Esq.
+                                                        Jared M. Reams, Esq.
+                                                         Eckland & Blando LLP
+                                                         Minneapolis, MN
+
+APPEARANCES FOR THE GOVERNMENT:                         Raymond M. Saunders, Esq.
+                                                         Army Chief Trial Attorney
+                                                        MAJ Jason W. Allen, JA
+                                                         Trial Attorney
+
+                OPINION BY ADMINISTRATIVE JUDGE O'SULLIVAN
+
+       AEY, Inc. (AEY) appeals from contracting officers' final decisions terminating a
+total of five contracts for cause, either partially or in full. The contracts were awarded by
+the Joint Contracting Command-Iraq (JCCI) in 2007 for arms and accessories for the
+Multi-National Security Transition Command in Iraq (MNSTC-I), ultimately destined for
+the use of the Security Forces of Iraq. We have jurisdiction under the Contract Disputes
+Act of 1978 (CDA), 41 U.S.<;. §§ 7101-7109. In large part, we sustain the appeals.
+
+                                   FINDINGS OF FACT
+
+      1. In chronological order of award, the five contracts at issue are: (1) Contract
+No. W91GY0-07-M-0670 (M-0670), awarded 29 July 2007 for a total amount of
+$4,645,785.84 (R4, tab l); (2) Contract No. W91GY0-07-M-0815 (M-0815), awarded
+27 September 2007 for a total amount of $2,874,500.00 (R4, tab 3); (3) Contract
+No. W91GY0-08-M-0010 (M-0010), awarded 4 December 2007 for a total amount of
+$1,180,144.44 (R4, tab 24); (4) Contract No. W91GY0-08-C-0005 (C-0005), awarded
+8 December 2007 for a total amount of $12,331,700.00 (R4, tab 5); and (5) Contract
+No. W91GY0-08-M-0040 (M-0040), awarded 17 December 2007 for a total amount of
+$1,192,915.60 (R4, tab 8).
+        2. Delivery for each contract line item number (CLIN) under these contracts was due
+no later than a specified number of days (usually 45 or 60) following AEY's receipt of the
+end user certificate (EUC) 1 for the item from JCCI (R4, tab 3 at 7, tab 5 at 2, tab 8 at 7,
+tab 24 at 5). The contracts required AEY to request an EUC from JCCI for each line item
+within three days of "receipt of order," which AEY interpreted to mean its supplier's receipt
+of AEY's order for the item, since the submitted EUC request had to identify the supplier
+(tr. 1/70-71). 2 The intended end users were the Security Forces of Iraq, under the Ministry
+of the Interior, the Ministry of Foreign Affairs, or the Ministry of Defense. Officials from
+one of these organizations would typically sign the EUC before delivering it back to JCCI
+for delivery to AEY. (Tr. 1/62-63) Delivery dates for each contract could and did vary by
+CLIN, depending on when AEY received an acceptable EUC for each item.
+
+       3. Each of the five contracts contained the Federal Acquisition Regulation (FAR)
+52.232-4, CONTRACT TERMS AND CONDITIONS - COMMERCIAL ITEMS clause. Contracts
+M-0670, M-0815, M-0040, and M-0010 contained the FEB 2007 version of the clause.
+Contract C-0005 contained the FEB 2005 version of the clause. The following provisions
+of the clause are relevant to these appeals, and text appearing only in the FEB 2007
+version is bracketed:
+
+                     (a) Inspection/Acceptance. The Contractor shall only
+             tender for acceptance those items that conform to the
+             requirements of this contract. The Government reserves the
+             right to inspect or test any supplies or services that have been
+             tendered for acceptance. The Government may require repair
+             or replacement of nonconforming supplies ... at no increase in
+             contract price. [If repair/replacement. .. will not correct the
+             defects or is not possible, the Government may seek an
+             equitable price reduction or adequate consideration for
+             acceptance of nonconforming supplies or services.] The
+             Government must exercise its postacceptance [sic] rights
+             ( 1) within a reasonable time after the defect was discovered or
+             should have been discovered; and (2) before any substantial
+             change occurs in the condition of the item, unless the change
+             is due to the defect in the item.
+
+
+1
+  The EUC was essential to the process of obtaining an export license from the country in
+       which the supplier of the arms or ammunition was located (tr. 1/60-61, 64).
+       Because it was such an important document, AE Y's practice was to include a draft
+       of the EUC along with each submitted request to ensure the accmacy of the EUC
+       (tr. 1/61).
+2
+  The government does not dispute this interpretation.
+                                            2
+                      (t) Excusable delays. The Contractor shall be liable
+              for default unless nonperformance is caused by an occurrence
+              beyond the reasonable control of the Contractor and without
+              its fault or negligence such as, acts of God or the public
+              enemy, acts of the Government in either its sovereign or
+              contractual capacity, fires, floods, epidemics, quarantine
+              restrictions, strikes, unusually severe weather, and delays of
+              common carriers. The Contractor shall notify the Contracting
+              Officer in writing as soon as it is reasonably possible after the
+              commencement of any excusable delay, setting forth the full
+              particulars in connection therewith, shall remedy such
+              occurrence with all reasonable dispatch, and shall promptly
+              give written notice to the Contracting Officer of the cessation
+              of such occun-ence.
+
+
+                     (m) Termination for cause. The Government may
+             terminate this contract, or any part hereof, for cause in the
+             event of any default by the Contractor, or if the Contractor
+             fails to comply with any contract terms and conditions, or
+             fails to provide the Government, upon request, with adequate
+             assurances of future performance. In the event of termination
+             for cause, the Government shall not be liable to the
+             Contractor for any amount for supplies or services not
+             accepted, and the Contractor shall be liable to the
+             Government for any and all rights and remedies provided by
+             law. If it is determined that the Government improperly
+             terminated this contract for default, such termination shall be
+             deemed a termination for convenience.
+
+Contract Delivery Dates·
+
+        4. Contract M-0670 required delivery 45 days after receipt of EUC (R4, tab 1
+at 6). It contained the following line items with country, date of receipt of EUC, and
+original contract delivery date indicated:
+
+      CLIN 000 I-universal laser bore sight system (20), complete with 4 adaptors,
+      carrying pouch, batteries and instructions. EUC for U.S. received 6 September
+      2007 (R4, tab 27), making delivery due 22 October 2007.
+
+      CLIN 0002-Remington 870 Express 12 gauge shotgun (106), with three
+      magazines. EUC for U.S. received 6 September 2007, making delivery
+      due 22 October 2007.
+
+                                              3
+         ·CLIN 0003-Sniper Rifle, 7.62 x 5mm (48), to include 3 magazines, backup
+          (adjustable) sights, bayonet mount. EUC for U.S. received 6 September
+          2007, making delivery due 22 October 2007.
+
+         CLIN 0004AA-AK-47 w/fixed stock (50-50 fixed/folding stock acceptable)
+         (30,000), to include sling, 4 magazines, and cleaning kit. A corrected EUC for
+         Montenegro for 16,000 AK-47s was received 15 October 2007 (R4, tab 46;
+         tr. 1/161), making delivery due 29 November 2007. The EUC for the remainder
+         of the AK-47s (14,000), sourced from Croatia, had to be re-done due to a missing
+         import certificate, and the corrected EUC was not received until 3 April 2008 (R4,
+         tab 108), making delivery due 19 May 2008.
+
+         CLIN 0004AB-AK-47s (100)-later terminated for convenience.
+
+         CLIN 0005-Tool kit, small arms repair (1). The record does not clearly establish
+         when the U.S. EUC was issued.
+
+         CLIN 0006AA-DShK 12.7 x 107mm machine gun (287), to include 3 magazines
+         and tripod. EUC for the Czech Republic was received on 28 February 2008 (R4,
+         tab 99 at 2), making delivery due 14 April 2008.
+
+         CLIN 0006AB-DShK (2)-later terminated for convenience.
+
+         CLIN 0007AA-Machine gun light RPK 7.62 x 39mm (404), to include bipod
+         and 3 magazines. A corrected EUC for Montenegro was received 15 October
+         2007 (R4, tab 46), making delivery due 29 November 2007.
+
+         CLIN 0007 AB-Machine gun light RPK ( 114 ). EUC for Montenegro was
+         received 6 September 2007 (R4, tabs 30, 33), making delivery due 22 October
+         2007.
+
+         CLIN 0008AA-Shipping costs in the amount of $69,000.00.
+
+         CLIN 0008AB-Shipping costs in the amount of $656,985.00.(31
+
+(R4, tab 1 at 2-3)
+
+       5. Contract M-0815 had only one CLIN, for 25,000,000 rounds of 7.62 x 39mm
+ball ammunition (new surplus) for the AK-47s (R4, tab 3 at 2; tr. 1/54). Delivery was
+
+3
+    CLIN 0008AA appears to be for shipping costs for weapons intended for the use of the
+        Iraq MOI at Abu Ghraib, while CLIN 0008AB appears to be for shipping costs for
+        weapons intended for the use of the Iraq MOD (R4, tab 149, AEY invoice for the
+        29 January 2008 delivery).
+                                              4
+due 45 days after receipt of EUC (R4, tab 3 at 7). An EUC for the Czech Republic was
+requested by AEY on 2 October 2007, but a correct EUC was not received until
+11 November 2007, making delivery due 27 December 2007 (R4, tabs 4, 52).
+
+     6. Contract M-0010 had multiple CLINs with delivery due 60 days after receipt of
+EUC (R4, tab 24 at 2, 5):
+
+      CLIN 0001-60mm mortar base plate w/ tripod (48); EUC for Serbia received
+      7 February 2008 (R4, tab 86), making delivery due on 7 April 2008.
+
+      CLIN 0003-AK-47 w/fixed stock including sling, 4 magazines, cleaning kit, and
+      blank firing attachment (3932). EUC for Serbia received 7 Februaty 2008,
+      making delivery due 7 April 2008.
+
+      CLIN 0004-DShK machine gun M-38/46, cartridge 12.7 x 107mm, caliber 12.7,
+      rate of fire 600 rounds/min., feed system: belt 50 rounds (54). EUC for Czech
+      Republic received on 7 February 2008 (R4, tab 84), making delivery due 7 April
+      2008.
+
+      CLIN 0005-Plotting board, indirect fire, M 19 to include case (48). EUC for
+      Serbia received 7 February 2008, making delivery due 7 April 2008.
+
+      CLIN 0006-Sight unit M64 series (48). EUC for Serbia received 7 February
+      2008, making delivery due 7 April 2008.
+
+      CLIN 0007-Modernized small arms repair kit (224). EUC for the U.S. received
+      28 February 2008 (R4, tab 99), making delivery due 28 April 2008.
+
+      CLIN 0008-Sniper rifle to include scope, sight, and three magazines (60). EUC
+      for the U.S. received 28 February 2008, making delivery due 28 April
+      2008.
+
+      CLIN 0009-Spotter scope (60). EUC for the U.S. received 28 February 2008,
+      making delivery due 28 April 2008.
+
+      CLIN 0010-Machine gun light RPK 7.62 x 39mm (496). EUC for Serbia
+      received 7 February 2008, making delivery due 7 April 2008.
+
+      CLIN 0012-Shipping charges of$214,390.00.
+
+AEY received the EUCs for CLIN 0004 (Czech Republic) and CLINs 0001, 0003, 0005,
+0006, and 0010 (Serbia) on 7 February 2008 (R4, tabs 84, 153), making delivery of those
+items due on 7 April 2008. AEY received the EUC for CLINs 0007, 0008, and 0009
+(U.S.) on 28 February 2008 (R4, tab 99 at 2), making delivery due 28 April 2008.
+
+                                           5
+        7. Contract C-0005 had only one CLIN, for 39 million rounds of 5.56 x 45mm
+M855 full metal jacket ball ammunition, with delivery due 60 days after receipt of EUC
+(R4, tab 5 at 1-2). In November of 2007, before the contract was officially awarded but
+after AEY had been informed that it was the apparent successful bidder, AEY was
+approached by !vfr. Mark Morales of Allied Defense Group, a U.S. firm, about the
+possibility of sourcing the ammunition with Alliant Techsystems (ATK) (tr. 1/115-16).
+Prior to this, AEY had intended to source the ammunition with a supplier in Serbia but
+was also considering a supplier in the United Arab Emirates (UAE) (tr. 1/119-20).
+Efraim Diveroli, AEY's president, testified that these suppliers would have a lower price
+but the ammunition would be shipped by air, whereas the American ammunition, being
+of higher quality, might be more expensive and shipping by sea, while it would be less
+expensive than air, would be slower and would not meet the contract's requirement to
+deliver within 60 days of receipt of EUC. (Tr. 1/ 116-17) Mr. Diveroli spoke with the
+JCCI contracting officer (CO), TSgt David Goff, prior to award of the contract, to inform
+him of the opportunity to source from ATK vs. the other suppliers and the fact that it
+would mean an extended delivery schedule (tr. 1/117).
+
+       8. CO Goff gave the assent to source from ATK after checking with the customer,
+MNSTC-I/J4 (tr. 1/119). As a result, AEY entered into a subcontract with MECAR,
+USA, an affiliate of Allied Defense Group, for the ATK ammunition on 7 December
+2007, one day before Contract C-0005 was officially awarded (R4, tab 147). The
+subcontract contained estimated delivery dates: 3 million rounds on 28 February 2008,
+7 million rounds on 1 April 2008, 7 million rounds on 30 April 2008, 7 million rounds on
+31 May 2008, 7 million rounds on 30 June 2008, and 8 million rounds on 31 July 2008
+(id). AEY received the EUC for the U.S. on 7 February 2008 (R4, tab 154), making
+delivery due on 7 April 2008 per the contract. AEY had already applied for and received
+a U.S. export license for the ammunition on 1 February 2008 (tr. 1/123).
+
+       9. Contract M-0040 contained multiple CLINs and required delivery 60 days
+from receipt of EUC (R4, tab 8 at 2, 7):
+
+      CLIN 0002-AK-47 w/folding stock, 4 magazines, cleaning kit (43)
+
+      CLIN 0006-Launcher: Grenade M203Al (32)
+
+      CLIN 0007-Machine gun 5.56mm: M249 (39)
+
+      CLIN 0008-Machine gun caliber .50: Browning M2, HB flexible W/E (6)
+
+      CLIN 0009-Machine gun grenade 40mm MK 19 Mod III (4)
+
+      CLIN 0010-Machine gun 7.62mm M240B (19)
+
+      CLIN 0011-Machine gun 5.56mm MK46 Shorty Saw (4)
+
+                                            6
+         CLIN 0012-Machine gun 7.62mm MK48 Shorty (8)
+
+         CLIN 0013-Tripod mount machine gun .50 caliber (6)
+
+         CLIN 0014-Tripod mount machine gun M240B (16)
+
+         CLIN 0015-Tripod mount machine gun MK19 (4)
+
+         CLIN 0016-vehicle mount machine gun .50 caliber (6)
+
+         CLIN 0017-vehicle mount machine gun MK 19 (4)
+
+         CLIN 0020-Burris Spotting Sniper Scope 20-60 x 80mm Landmark Spotting
+         Scope (12)
+
+         CLIN 0021-Shotgun 12-gauge Remington 870 MCS (5)
+
+         CLIN 0022-Submachine gun 9mm MP5 (25)
+
+         CLIN 0026-Suppressor submachine gun MP5 (25)
+
+         CLIN 0027-Tactical light carbine 5.56mm M4Al (980)
+
+CLINs 0002, 0008, and 0013 were to be acquired from Serbia and AEY received that
+EUC on 7 February 2008 (R4, tabs 151-52), making delivery due 7 April 2008.
+CLIN 0022 was to be acquired from Pakistan and that EUC was received on 21 February
+2008 (R4, tab 182), making delivery due 21 April 2008. The remainder of the items were
+to be acquired from the U.S. and this EUC was received on 21 February 2008 (R4,
+tabs 92, 182; tr. 1/205-06), making delivery due 21 April 2008.
+
+AEY's Progress toward Delivery
+
+Contract M-0670 (ASBCA No. 56591)
+
+        10. For CLINs 0001, 0002, and 0003 (universal laser bore sight systems,
+12-gauge shotguns, and sniper rifles from the U.S.), the contract delivery date was
+22 October 2007 (finding 4). 4 However, the U.S. export license originally issued on
+30 October 2007 incorrectly identified the Iraq MOI as the end user, and a corrected
+export license identifying the end user as MNSTC-I was not issued until 27 March 2008
+(tr. 1/165; R4, tabs 355, 363, 428). All the U.S. items were delivered to Lufthansa on
+
+4
+    As noted in finding 4, the date of receipt of an EUC for CLIN 0005 (small arms repair
+         kit) is not apparent from the record. However, knowing this date is not necessary
+         to our decision since this item was delivered and accepted.
+                                              7
+15 April 2008 and arrived in Baghdad on 22 April 2008 (tr. 2/213-14). The government
+executed DD250s confirming delivery on 28 April 2008, and officially accepted the
+items on 2 June 2008 (R4, tabs 115, 278 at 1-2). With the exception of the universal
+laser bore sights, delivered quantities in full satisfaction of contract CLIN quantities were
+accepted. 5
+
+       11. On 29 January 2008, a partial AEY shipment arrived at Baghdad and was
+transported thereafter to the Abu Ghraib Warehouse (AGW). This shipment consisted of
+4,105 AK-47s 6 under CLIN 0004AA, 404 RPK light machine guns under CLIN 0007 AA,
+and 114 RPK light machine guns under CLIN 0007AB. (Tr. 1/185-86; R4, tabs 78, 89, 149)
+
+        12. By Repo1t of Discrepancy (ROD) issued to AEY on 16 February 2008, the
+government informed AEY that its 29 January 2008 shipment to AGW was missing
+accessories under CLIN 0004AA as follows: 1,089 cleaning kits, 107 blank firing
+adaptors, 174 pouches, and 160 slings (R4, tab 90). In addition, one rifle appeared to be
+damaged and several appeared to be used rather than new (id.). The ROD further noted
+that 13 of the RP Ks delivered under CLIN s 0007AA and 0007 AB had folding rather than
+fixed stocks and all RPKs had come with 30 round magazines, not the specified 40 round
+magazines (id.). Finally, it was noted that "most" of the crates "just look like a wooden
+box not wooden crate to store weapons and accessories" and that "[t]hese crates had no
+inside wooden partitions to separate the weapons from the accessories ... and to keep them
+in row[ s] so it will be easy to be counted" (id.).
+
+        13. AEY agreed to repackage the improperly packaged AK-47s and to supply the
+missing accessories (tr. 2/22-25; R4, tab 94 ). On 19 February 2008, CO Goff sent an
+email to quality assurance personnel at AGW summarizing the agreement reached with
+AEY to fix problems with the shipment (R4, tab 93). He asked the AGW personnel to
+sort the shipments into four categories: (1) weapons that arrived in good condition with
+acceptable packing and accessories-these should be accepted; (2) weapons with
+"questionable packing" should be sorted into two subcategories: weapons in good
+condition (should be accepted if it is just the bracing that is deficient); and weapons with
+significant cosmetic damage or that will require work to be functional (these should be
+
+
+5
+  It appears that only 19 of the 20 universal laser bore sights were accepted, but the
+        record is unclear as to the reason (R4, tab 278 at 2).
+6
+  The delivered quantity included 100 AK-4 7s originally ordered under CLIN 0004AB
+        that were applied to CLIN 0004AA after the government terminated CLIN
+        0004AB for convenience. The remainder of the AK-47 shipment was the amount
+        approved (4,005) under the Montenegro export license issued 25 December 2007.
+        (R4, tab 385) The record does not reflect when or if Montenegro ever issued an
+        export license for the remainder of the 16,000 AK-47s that were to be sourced
+        from that country.
+
+                                              8
+set aside); (3) crates that were shipped without any bracing at all should be set aside; 7 and
+(4) crates that have acceptable weapons but are missing accessories can be accepted if the
+missing items can be filled in from an otherwise unacceptable crate (id.). The record
+does not contain any indication of whether this sorting process was actually carried out or
+its results. However, AEY proceeded to order the accessories that had been reported to
+be missing and these were shipped to Baghdad from Montenegro on 9 April 2008 (R4,
+tab 113 at 3), delivered to AGW, and inspected and passed by quality assurance on
+5 May 2008 (R4, tab 93 at 4; tr. 2/202).
+
+       14. AEY reported to CO Goff on 30 March 2008 that it had arranged with another
+company, SkyLink Arabia (SkyLink), to pick up the crates that needed to be repacked
+and perform the repacking "within the next 14 days" (R4, tab 103 at 1). On 26 April
+2008, SkyLink reported to AEY that the crates they had been given were "all fixed up"
+and ready to be delivered back to AGW, specifically noting that they "were informed by
+Abu Ghraib that there were only 130 crates that needed attention" (R4, tab 113 at 1). Per
+an AGW "Data Collection Sheet," the 1,300 re-crated AK-47s (10 weapons per crate)
+were inspected and accepted on 5 May 2008 (R4, tab 93 at 4).
+
+        15. For the RPKs under CLINs 0007AA and 0007AB, the government ultimately
+(nearly six months after delivery) agreed to accept them despite the noted discrepancies
+in return for the consideration of a reduced price of $239.98 per weapon (R4, tabs 138,
+325 at 2; tr. 3/47).
+
+       16. The only CLINs on Contract M-0670 that were not ultimately delivered and
+accepted were the remainder of CLIN 0004AA (25,895 AK-47s) and CLIN 0006AA
+(287 DShK machine guns).
+
+Contract M-0815 (ASBCA No. 56470)
+
+        17. The only CLIN on Contract M-0515 was CLIN 0001 for 25 million rounds of
+ball ammunition for the AK-47s. Although the contract delivery date was 27 December 2007
+based on receipt of the EUC (finding 5), the Czech Republic did not issue an export license
+until 21 January 2008. In anticipation of receipt of the export license, AEY began
+arrangements to ship the ammunition in early January and requested pricing for air transport
+to Baghdad Airport (BGW) from Pardubice Airport (PED) in the Czech Republic (tr. 1/96;
+R4, tab 388). Following issuance of the export license, AEY entered into an aircraft charter
+contract for multiple routes, including PED-BGW, with Galaxy Air dated 26 January 2008
+(tr. 1/100-01; R4, tab 398 at 4th page, tab 404). AEY reported to CO Goff on 28 January 2008
+that they expected to begin shipments, thirteen flights in all, by the middle of February 2008
+(tr. 1/102; R4, tab 77).
+
+
+7
+    Whether the contract actually required the weapons and accessories to be shipped in
+        crates with interior partitions is not at all clear (R4, tab 1).
+                                              9
+        18. Shipping arms by air requires permission from each country over which the
+aircraft will fly (known as overflight permits), as well as landing permits from each
+airport at which the aircraft will land (tr. 1/103, 2/128). While obtaining the necessary
+permits was, in the first instance, the responsibility of the carrier, it was not unusual in
+AEY's business for the carrier to request assistance from AEY in facilitating the permits,
+as Galaxy Air did on 29 January 2008 with respect to permits for Turkey, Romania, and
+Hungary (R4, tabs 405, 408). Turkey was a particularly difficult country from which to
+obtain a permit (tr. 1/103). Preparations for the first shipments continued in early
+February, with AEY reporting to CO Goff on 10 February 2008 that the first shipment
+would arrive on 27 February 2008 and that there would be 13 consecutive flights, 1 per
+day (R4, tab 88 at 2). The flight plan called for operations to begin on 26 February with
+a positioning flight into PED and continue thereafter through 15 March 2008 (tr. 1/107;
+R4, tab 415 at 8th page).
+
+        19. Although all needed permits had been secured, Galaxy Air was not able to
+commence flights on 26 February 2008 as planned due to a fuel shortage in Baghdad,
+which AEY reported to CO Goff (tr. 1/109; R4, tab 97). The unavailability of fuel in
+Baghdad meant that an aircraft landing at BGW would not thereafter be able to refuel to
+take off. AEY further informed the CO that the goods were in a warehouse at PED and
+were ready to ship, and that it was seeking other carriers who might have devised a
+work-around for the fuel shortage (R4, tab 97). During the month of March, AEY
+contacted numerous carriers, including JLM Aviation, which offered AE Y estimated
+delivery dates in April of 2008 (R4, tab 430). As of the end of March, AEY was still
+searching for a solution to the fuel shortage, and kept CO Goff apprised of the situation
+(R4, tabs 102-03 ).
+
+Contract M-0010 {ASBCA No. 56471)
+
+        20. The Serbian export license for CLINs 0001 (48 60mm mortar base plate with
+tripod), 0003 (3,932 AK-47s), 0005 (48 plotting boards), 0006 (48 M64 series sight
+units), and 0010 ( 496 RPK machine guns), all of which were to be delivered by 7 April
+2008, was delayed (as were other Serbian export licenses during this period). AEY
+believed the delays were due to political tensions with the U.S. over the issue of
+independence for Kosovo (tr. 1/189). The shipment had been inspected by AEY to
+ensure it met standards and thereby avoid the problems experienced under Contract
+M-0670 with the AK-47s, and AEY reported to CO Goff on 9 February 2008 that there ,..,
+were no problems with the AK-47s in this shipment (R4, tab 155; tr. 1/191-94).
+
+       21. The Czech Republic export license for CLIN 0004 (54 DShK machine guns)
+was also delayed. In a status report dated 11 April 2008, AEY anticipated receipt of both
+the Czech and Serbian licenses "in the next 21 days'' or by 2 May 2008. (R4, tab 109)
+
+       22. For the U.S. items due 28 April 2008, CLINs 0007, 0008, and 0009 (224
+small arms repair kits, 60 sniper rifles, 60 spotter scopes), AEY had applied for an export
+
+                                             10
+license in advance of receipt of the EUC and received the export license for CLINs 0007
+and 0009 on 4 February 2008 and for CLIN 0008 on 24 February 2008 (R4, tab 333
+at 12th and 19th page). These goods were consolidated for shipment via air on 21 April
+2008 with U.S. items under Contract M-0040 (R4, tabs 103, 109).
+
+Contract C-0005 (ASBCA No. 56473)
+
+        23. On 21 December 2007 AEY, in its regular weekly status report to JCCI,
+communicated to CO Goff that it expected to have firm delivery dates soon for Contract
+C-0005 (R4, tab 67 at 2). In February 2008, MECAR informed AEY that the first
+delivery date would slip by roughly a month and proposed to consolidate the shipments
+into three, as follows:
+
+              13 million rounds, 25 March to 5 April 2008
+              13 million rounds, 25 May to 5 June 2008
+              13 million rounds, 25 July to 5 August 2008
+
+(R4, tab 187 at l; tr. 1/210) Later in February 2008, MECAR again pushed back the date
+of the first shipment to 14 April 2008 (R4, tab 190). On a regular basis, CO Goff was
+kept advised of the expected shipping dates for the ammunition (tr. 1/212; R4, tabs 194,
+218). On 30 March 2008, AEY notified CO Goff in its weekly progress report that the
+first 13 million rounds of ammunition had been manufactured and were being packaged
+and prepared to be loaded for ocean shipment and that the second 13 million rounds were
+in production (R4, tab 103; tr. 2/69-70).
+
+Contract No. M-0040 (ASBCA No. 564 72)
+
+        24. CLINs 0002 (43 AK-47s), 0008 (6 Browning machine guns), and 0013
+(6 tripod mounts), were due on 7 April 2008, but as of the end of March 2008 AEY and
+its supplier were still waiting for Serbia to issue an export license, which they believed
+was being intentionally delayed by the Serbian government due to political tensions with
+the U.S. over Kosovo. (Tr. 2/55) CLIN 0022 (25 9mm submachine guns) was due on
+21 April 2008, and the Pakistan export license was also delayed, purportedly due to a
+transition of the Pakistani government (tr. 2/56). At the end of March 2008, AEY
+believed it would be able to ship from both countries by mid-April 2008 (R4, tab 103).
+
+        25. The remainder of the CLINs were sourced in the U.S. and were due 21 April
+2008. AEY received the necessary U.S. export licenses on 31 January 2008 for the
+accessories and 7 February 2008 for the small arms (R4, tabs 356, 359). AEY decided to
+consolidate shipment of these items with the small arms being sourced from the U.S.
+under Contract M-0010 and informed the government in its 12 April 2008 status report
+that it would ship both on 21 April 2008 (R4, tab 109).
+
+
+                                            11
+AEY is Suspended from Future Government Contracts and CO Goff is Redeployed
+
+       26. On 25 March 2008 the Anny suspended AEY from future government
+contracts due to issues with ammunition supplied under a contract not involved in these
+appeals (tr. 2/58-62). The action received press attention in the form of a New York
+Times article, which caused problems with some of AEY's suppliers, and which in
+Mr. Diveroli's view caused a change in the government's attitude toward AEY (tr. 2/69,
+2/82-83).
+
+       27. On 31 March 2008, CO Goff was redeployed and his supervisor,
+LTC Jonathan McColumn, took over as CO on the five AEY contracts that are the
+subject of this appeal. 8 Mr. Erwin Fernandez, an acquisition analyst employed by CACI
+International, Inc., was assigned to assist LTC McColumn in administering the contracts.
+(Tr. 2/66)
+
+        28. On 29 March 2008, CO _Goff requested a status update on all five contracts for
+the benefit of his successor (R4, tab 233). AEY acknowledged the request and reminded
+CO Goff in an email dated 29 March 2008 that fuel unavailability in Baghdad was
+delaying several large shipments and requested any ideas he might have for dealing with
+the problem (R4, tab 234). On 30 March 2008, CO Goff sent an email stating that the
+ammunition under Contract M-0815 was urgently needed by the end users, that the
+contract was late, and that AEY needed to provide a delivery date. CO Goff further
+added that due to AEY' s "current situation," AEY needed to ensure that the ammunition
+was in "a usable condition." (R4, tab 235) AEY responded in its 30 March 2008 status
+update on the five contracts (on which Mr. Fernandez was copied) that the ammunition
+had been prepared for shipment and was stored in a warehouse at PED, that none of the
+carriers they had talked to could fly without fuel availability at Baghdad, but they had
+heard that the shortage might abate soon and would fly as soon as they could. AEY
+further assured CO Goff of the quality of the ammunition and reminded him that they had
+previously supplied it under an earlier contract with no issues. (R4, tab 236)
+
+        29. On 31 March 2008 Mr. Fernandez replied, thanking AEY for the prompt
+response and inquiring if there was any way that AEY could ship just a portion of the
+ammunition "NOW." AEY responded on 1 April 2008 confirming that the ammunition
+had been sitting in a PED warehouse since 26 February 2008 9 due to the unavailability of
+fuel in Baghdad and asking whether it would be possible to have its cargo aircraft land on
+the military side of the airport (BGW) because if AEY could obtain the necessary
+permissions the entire delivery could be completed within 30 days from the first flight
+(R4, tab 104). Mr. Fernandez responded that he would see what he could do about the
+
+8
+  At the time of the hearing in these appeals, LTC McColumn had attained the rank of
+       Brigadier General. This decision will refer to him as L TC McColumn.
+9
+  AEY had been paying for airport storage of this shipment since the beginning of the
+        Baghdad fuel shortage on 26 February 2008 (tr. 2/68).
+                                            12
+fuel issue since the ammunition was needed ASAP (R4, tab 239). However, AEY never
+received a response to its request (tr. 2/65).
+
+       30. On 2 April 2008 Mr. Diveroli of AEY sent an email to Mr. Fernandez and
+LTC McColumn requesting a call to discuss several contract matters, including the fuel
+shortage (R4, tab 253; tr. 2/66). The call was scheduled for the next day, 3 April 2008
+(R4, tab 254). During the call, in which Mr. Diveroli participated on behalf of AEY and
+LTC McColumn and Mr. Fernandez participated on behalf of the government,
+LTC McColumn emphasized the importance of AEY making progress sufficient to instill
+some confidence in him and his superiors that deliveries were imminent (tr. 2/96,
+Diveroli). The discussion covered all five contracts 10 and was memorialized by
+Mr. Fernandez in a memorandum to file dated 4 April 2008:
+
+             On 3 Apr 08, a conference call was conducted with AEY and
+             the following was discussed:
+
+             -Deliveries of all contracts
+             -Lt Col McColumn wants ktr to provide immediate plan to
+             show the government confidence that a delivery will be made
+             very soon. The plan will consist of the following information:
+             I. When he will deliver, 2. Ifktr cannot deliver by the mod
+             delivery schedule, when would be the next delivery date,
+             3. [sic]
+
+             -Ktr asked if contracts will be terminated if current delivery
+             schedule is not met-KO made no promises as to whether
+             contracts would be terminated or not if current delivery
+             schedule is not met.
+             -Made Ktr aware to show the government some sign of
+             delivery by 15 Apr 08. If no sign of delivery is made at this
+             point, KO will determine course of action whether to
+             terminate or not.
+             -Ktr asked if government accept possible novation to the
+             contracts-KO responded that it will be looked upon but if it
+             causes more delays to the deliveries, it might not be pursued.
+             Ktr tried to talk about the company's legal battle with the
+             government-KO responded that he would not discuss any
+             AEY's legal issues with government.
+
+
+°Contracts M-0670, M-0040, M-0815, M-0010, and C-0005. The memorandum
+1
+
+      mistakenly references Contract M-0861 (another AEY contract) instead of
+      Contract M-0040 (R4, tab 13).
+                                           13
+               -If ktr continue to make excuses and prolong delivery, KO
+               considered sending a show-cause notice.
+
+(R4, tab 13)
+
+       31. Mr. Diveroli testified that he was not sure where the 15 April 2008 date came
+from, but possibly from the fact that he had told LTC McColumn during the call that
+certain deliveries were imminent. He did not understand from the call that AEY would be
+terminated if it failed to "show some sign of delivery" by 15 April, and LTC McColumn
+had told him to expect a show cause notice. Mr. Diveroli explained to LTC McColumn
+the complicated process of delivering arms in a war zone, including the need for export
+licenses and overflight and landing permits to be issued, a process that was to a significant
+extent out of AEY's control. What he heard in response from L TC McColumn was that
+AEY needed to show him some kind of delivery, that something was happening, because
+he had people he reported to. (Tr. 2/99-101)
+
+       32. LTC McColumn agreed that in the 3 April 2008 meeting he requested "some
+sign of delivery by April 15th_" He termed it a ·'benevolence to say, give me some
+indicator, something needs to show up .. .I need to see a sign. The J4, which was the
+requiring activity, needed to see a sign that supplies were going to increase with
+consistency in delivery.'' (Tr. 4/4 7)
+
+AEY's Efforts to Make "Some Sign of Delivery" by 15 April 2008
+
+Contract M-0815
+
+        33. On 4 April 2008, AEY reported to Mr. Fernandez in its regular weekly status
+report that it had contracted with a carrier (JLM Aviation) ·'who claims to have solved
+the fuel issue" and it "should" be able to begin shipping on 11 April 2008. AEY added
+that all overflight and landing permits had been applied for and shipments would start
+once the approvals were in place. (R4, tab 261; tr. 2/114) On 8 April 2008, AEY's
+carrier reported to it that three of seven overflight permits had been received and the rest
+were expected that afternoon or the next day (R4, tab 441).
+
+       34. AEY contacted the Director of Operations at PED, Vit Malek, to enclose an
+air operations certificate for the aircraft and inquire whether they could begin operations
+on 14 April 2008. Mr. Malek replied on 8 April 2008 that operations could commence
+on 14 April, however, "Military close airport 21-25 APR 08 and 19-23 MAY 08.'' (R4,
+tab 442 at 1, 3) On 10 April 2008 AEY followed up with its carrier seeking the
+overflight permit application for Turkey and "request application" for the Regional Air
+Movement Coordination center in Iraq, emphasizing "WE NEED THIS NOW!!!!!!!!"
+(R4, tab 444). After receiving documents from JLM, Mr. Diveroli followed up on
+Friday, 11 April 2008, and sought assurances the carrier would be set to fly on Monday,
+
+
+                                             14
+14 April 2008 (R4, tab 444 at 4; tr. 2/121-22) He was assured that the aircraft would be
+at PED on Sunday, 13 April 2008 (R4, tab 444 at 5).
+
+        35. Early on the morning of Saturday, 12 April 2008, AEY received word that the
+Saudi Arabian overflight permit and the PED (LKPD) landing permit were still in
+process and that the duty officer at PED had advised the flight must be delayed tµitil
+Monday when the approving body resumed office (R4, tab 450 at 1, 3; tr. 2/127-28).
+Later on Saturday, the Saudi overflight permit was approved, leaving only the PED
+landing permit outstanding (R4, tab 454 at 3; tr. 2/129-30). On Sunday, 13 April 2008,
+Mr. Diveroli emailed the carrier asking if the airplane had taken off for PED yet, and on
+Monday, 14 April 2008, AEY wired $110,000 in payment for the first flight to Liberty
+Air, the broker for JLM Aviation (R4, tabs 457, 274). Also on Monday, Mr. Diveroli
+emailed the AEY team with the flight schedules from PED to BGW and instructed them
+to closely coordinate on the series of flights that week (R4, tab 458; tr. 2/134-35).
+
+        36. However, while AEY was waiting for the landing permit, the Turkey
+overflight permit expired (tr. 2/136-38; R4, tab 458). The record is less than clear about
+when the overflight permit expired and when AEY received the landing permit, although
+it appears that the overflight permit had expired by Monday, 14 April 2008 (R4, tab 458;
+tr. 2/157-60). It is also unclear if or when the Turkey overflight permit was renewed.
+However, as of 14 April 2008, AEY had reason to believe it would be able to commence
+flights on the 17th and 18th of April. (R4, tab 459; tr. 2/138-39)
+
+        37. Shortly thereafter, AEY learned that that PED would close on Friday,
+18 April 2008 for military operations, three days earlier than the dates originally given to
+AEY. Because the early closure did not allow AEY to schedule flights on the 17th and
+18th of April, AEY sought special permission from the PED Director of Operations to
+schedule flights over the weekend ( 19 and 20 April 2008). However, even with the offer
+of special fees, this request was refused. (Tr. 2/146-47; R4, tab 365) On 15 April 2008,
+AEY reported the situation to Mr. Fernandez (R4, tab 276). AEY attached
+correspondence from JLM Aviation to confirm that the only reason for further delay at
+this point was the airport closure, and also attached a copy of the wire transfer to show
+that the first flight had already been paid for (id., R4, tab 249). Both AEY and JLM
+assured the government that flights would resume on 28 April 2008 at a rate of one per
+business day, 12 flights in all (id.).
+
+Contract M-0010
+
+        38. As noted earlier, AEY was awaiting the issuance of delayed export licenses
+from both Serbia and the Czech Republic for CLINs 0001, 0003, 0004, 0005, 0006, and
+00 IO (findings 20, 21 ). Mr. Diveroli testified that AEY had "zero direct control" over the
+length of time it would take for an export license to issue, other than speaking to its
+suppliers and urging them to "push'' their government, which AEY frequently did
+(tr. 1/64). The remainder of the CLINs were U.S. items due on 28 April 2008 that had
+
+                                             15
+been consolidated with items for Contract M-0040 and were to ship from the U.S. on
+21 April 2008 per AEY's 30 March 2008 status report (R4, tab 103).
+
+Contract C-0005
+
+        39. AEY had notified the government in its status report dated 30 March 2008 that
+the first 13 million rounds of ammunition were palletized and being prepared for ocean
+shipment and the second 13 million rounds were in production (finding 19). On 1 April
+2008, Marc Morales of Allied Defense Group (AEY's supplier on this contract) emailed
+Mr. Fernandez directly, expressing concern about the effect of AEY's suspension and/or
+contract stop-work orders (see finding 26) on Allied (R4, tab 24 7). Mr. Morales inquired
+whether the Army would consider assigning the contract to Allied if AEY agreed (id.). In
+closing, he stated that Allied planned to deliver the rounds to AEY as follows: 13 million
+rounds by 14 April 2008, 13 million rounds by 3 1 May 2008, and 13 million rounds by
+31 July 2008 (id.).
+
+       40. On 4 April 2008, AEY wrote to Mr. Fernandez, informing him that the first
+13 million rounds of ammunition were ready for shipment and that AE Y planned either
+to novate the contract to Allied or to ship via air (rather than sea) in the next few days
+(R4, tab 261). Mr. Diveroli testified that the decision to change shipping method (with
+air being considerably faster but also significantly more expensive) was made after it
+became apparent to him that L TC McColumn did not intend to honor AEY's prior
+agreement with CO Goff trading the higher quality U.S.-made ammunition in return for
+an extended delivery schedule (tr. 2/170).
+
+       41. AEY' s corporate counsel, Marko Cerenko, followed up on the potential
+novation of AEY's contract to Allied in an email to LTC McColumn dated 8 April 2008
+(R4, tab 268). Mr. Cerenko informed LTC McColumn that Mr. Fernandez did not think
+a novation of Contract C-0005 was possible, and asked either for a contact in JCCI's
+legal office, or LTC McColumn's own views on the matter, reiterating that input from the
+government on whether it would allow novation was needed "fairly quickly." AEY's
+contract with MECAR and a sample novation agreement were attached. (Id.) Not having
+heard back from LTC McColumn, AEY's Mr. Cerenko sent him another email on
+10 April 2008, reiterating that both parties were ready to move forward with the novation
+but needed to hear from him in order to do so, and had not heard from him despite
+"numerous" attempts to contact him (R4, tab 271 at 1).
+
+        42. On 8 April 2008, ATK contacted MECAR to say that the Army's recent
+decision to suspend AEY from future contracting had caused ATK to reevaluate the
+terms of the agreement, and that A TK had concluded that advance payment prior to
+shipping was required to protect it from undue financial risk. An invoice for the first
+shipment of 13 million rounds was attached. (R4, tab 271 at 3) AEY sent payment to
+MECAR for this invoice in the amount of $3,845,800 on 18 April 2008 (R4, tab 466 at 2;
+tr. 2/184).
+
+                                             16
+       43. Concurrently, AEY arranged for air shipment for the initial 13 million rounds.
+By 11 April 2008 it had lined up a 747 to fly the first leg from the U.S. to Kuwait (R4,
+tabs 109, 448; tr. 2/172) and by 12 April 2008 had arranged for ferry flights from Kuwait
+to Baghdad (R4, tab 451; tr. 2/182-83). On Friday, 18 April 2008, AEY provided
+Mr. Fernandez with a notice of assignment of claims required by ATK before it would
+release the cargo for shipment and requested that it be promptly processed, so that AEY
+could start shipping the ammunition on Friday, 24 April 2008 (tr. 3/5; R4, tab 286). 11
+
+Contract M-0040
+
+       44. In early April 2008, AEY was still awaiting the Serbian and Pakistan export
+licenses needed to ship CLINs 0002, 0008, 0013 and 0022. AEY's supplier in Pakistan
+informed AEY on 5 April 2008 that it expected the export license for CLIN 0022 to issue
+in a week (R4, tab 438 at 2; tr. 1/207-08), an estimate later pushed back to 2 May 2008
+(R4, tab 284 at 4; tr. 3/102-04). AEY also expected its Serbian export license to issue by
+2 May 2008 (R4, tab 109; tr. 3/95). The U.S. goods (CLINs 0006, 0007, 0009-0012,
+0014-0021, 0026 and 0027) had been consolidated for shipment on 21 April 2008 with
+U.S. items under Contract M-0010, as reported in AEY's status report dated 12 April
+2008 (R4, tab 109; tr. 3/96).
+
+The First Four Contract Terminations
+
+        45. On Monday, 17 April 2008, LTC McColumn terminated Contracts M-0815,
+M-0010, M-0040, and C-0005 for cause (R4, tab 18). Contract M-0670 was not included
+in this action. The reason given for termination was AEY's failure to deliver the contract
+items by 15 April 2008 (id.). The 17 April 2008 notice was followed by a final decision
+dated 24 April 2008 setting forth the rationale for LTC McColumn's decision to
+terminate the contracts (R4, tab 20).
+
+       46. The final decision stated the following with respect to the four terminated
+contracts:
+
+Contract M-0815
+
+                The contractual period of performance for delivery was
+                27 December 2007. For months, AEY repeatedly failed to
+                meet its own promises to deliver. In an email to the
+                Government dated 30 March 2008, Mr. Diveroli claimed that
+                shipment was delayed because there was "no fuel in Baghdad
+
+11
+     Mr. Diveroli testified that with the assignment of claims, ATK would need only half
+         the payment up front in cash, but he was of the mind that the assignment would
+         not be processed quickly enough by the government, so he had decided to expedite
+         matters by providing full payment (tr. 3/7-8).
+                                              17
+now for cargo aircrafts." However, commercial cargo
+airlines know that fuel is generally not available in Baghdad
+for commercial flights and therefore arrange to load aircraft
+appropriately to be able to return to an airport that sells fuel.
+Aircraft either reduce capacity for each aircraft and increase
+aircraft total numbers, or schedule a stop at an intermediate
+refueling airport enroute. On 3 April 2008, the Government
+informed Mr. Diveroli in a telephone conversation that the
+Government would require at least partial delivery no later
+than 15 Apr 08. In his follow-up email dated April 5, 2008,
+Mr. Diveroli established a revised schedule that committed to
+"begin to ship this cargo next Friday 4/11/08." At some point
+after the 11th of April, Mr. Diveroli contacted Col Mark
+Morrison of the requiring activity directly and told him that
+the shipment would start on 15 April 2008. In an email to the
+Contracting Officer dated 16 Apr 2008, Mr. Diveroli stated
+that the fuel and traffic problems were solved, but that
+"suddenly and unexpectedly" an airport in the Czech
+Republic closed "the rest of this week and all of next week"
+and would prevent AEY from having your "first flights ready
+for departure: until the 28th of April. However, the unsigned
+letter from a Mr. Radek Klima, Pardubice Airport Handling
+Department, attached to Mr. Diveroli's email contradicted
+Mr. Diveroli's claims. Mr. Klima's letter stated that
+"according to military scheduled airport maintenance
+programme [sic],'' the airport would be closed from Monday,
+21 April 2008 until 25 April 2008, 1500 hours. Even if this
+unsigned letter is taken at face value, the closure did not
+begin until 21 April. The 21 April date is well after the
+11th of April promised by Mr. Diveroli. Further, these dates
+did not include the "'rest of this week (week of 16th) as
+Mr. Diveroli stated; and apparently the closure was part of a
+scheduled maintenance program, not a sudden and
+unexpected closure, indicating a negligent failure to plan.
+When shipment of cargo failed to occur according the revised
+schedule committed to by Mr. Diveroli, the undersigned
+terminated the contract for cause on 17 April 2008. The
+Contract [sic] Officer determined that AEY' s professed
+reasons for delay were not supported by the facts, lacked
+credibility, and did not constitute excusable delays.
+
+
+                               18
+Contract M-0010
+
+            The contractual Period of Performance for this contract was
+             10 April 2008. On 3 April 2008, the Government informed
+            Mr. Diveroli in a telephone conversation that the Government
+            would require at least partial delivery no later than 15 Apr 08.
+            In his follow-up email dated April 5, 2008, Mr. Diveroli
+            stated "MOO 10-Export license for DshK [sic] and mortar
+            items should be received in the next 25 days and charter from
+            Serbia flight will follow immediately. Balance of items shall
+            originate from CONUS and will be shipped by air cargo
+            along with the ;v10040 shipment.'' In emails dated 14 and
+            15 April 2008, Mr. Diveroli indicated that an unexpectedly
+            closed airport in the Czech republic and delays in export
+            licenses were delaying delivery. This contradicted
+            Mr. Diveroli's previous email that stated a "Serbia" flight
+            would execute delivery and that the "balance of items shall
+            originate from CONUS.'' When shipment of cargo failed to
+            occur according to the revised schedule of 15 April 2008, the
+            undersigned terminated the contract for cause on 17 April
+            2008. The Contract [sic] Officer determined that AEY's
+            professed reasons for delay were not supported by the facts,
+            lacked credibility, and did not constitute excusable delays.
+
+Contract M-0040
+
+            The contractual Period of Performance for this contract was
+            10 April 2008. On 3 April 2008, the Government informed
+            Mr. Diveroli in a telephone conversation that the Government
+            would require at least partial delivery no later than 15 Apr 08.
+            In his follow-up email dated April 5, 2008, Mr. Diveroli
+            stated, "M0040. All weapons and accessories are ready to
+            ship and export license has been received. We are in the
+            process of consolidating all cargo at a licensed warehouse in
+            Miami and we shall ship everything in one shipment by the
+            15th of April." When shipment of cargo failed to occur
+            according to the contractual period of performance and the
+            assurances of Mr. Diveroli, the undersigned terminated the
+            contract for cause on 17 April 2008.
+
+Contract C-0005
+
+            The contractual Period of Performance for this contract was
+            15 April 2008, and no extensions were authorized by the
+
+                                           19
+              Government. On 1 April 2008, Mr. Marc Morales of Allied
+              Defense Group (AEY's supplier of the 5.56mm rounds) sent
+              the contracting specialist (Erwin Fernandez) an unsolicited
+              email stating his concerns about AEY's financial stability.
+              Mr. Morales also stated, "Please be aware that the Allied
+              Defense Group is delivering as scheduled according to our
+              contract with AEY, Inc. We received a contract after the fact
+              and were not made aware of the delivery schedule promised
+              by AEY. As a matter of fact we have accelerated the original
+              delivery schedule promised to AEY as we were told that you
+              needed the ammunition sooner than originally anticipated.''
+              Further, "As a side note, per our contract with AEY. we are
+              planning to deliver to AEY (ex-works) the 39,000,000 rounds
+              per the schedule below: 13M by April 14th, 13M by
+              May 31 51-maybe earlier, 13 M by July 31 51-probably the
+              week before." This email from the vendor caused the
+              Government serious concern, as it contradicted the
+              information coming from AEY. In sum, AEY's after-the-fact
+              contract with its vendor never met the delivery requirements;
+              and AEY's assurances about the mode and status of delivery
+              were wrong at best, and very possibly intentionally
+              misleading. In his email sent April 5, 2008, to AEY s counsel,
+              Mr. l\tlarko Cerenko, and to :Mr. Diveroli, the contracting
+              specialist (Erwin Fernandez) informed AEY that "the
+              Government will require strict compliance with the
+              contractual delivery date." When shipment of cargo failed to
+              occur according to the contractual period of performance, the
+              undersigned terminated the contract for cause on 17 April
+              2008. The Contract [sic] Officer determined that AEY's
+              professed reasons for delay were not supported by the facts,
+              lacked credibility, and did not constitute excusable delays.
+
+(R4, tab 20 at 1-3) The final decision contains a number of factual errors which were
+brought out during LTC McColumn's testimony but we do not need to address them for
+purposes of this decision.
+
+        4 7. LTC McColumn' s final decision asserts that "commercial cargo airlines know
+that fuel is generally not available in Baghdad for commercial flights and therefore
+arrange to load aircraft appropriately to be able to return to an airport that sells fuel.''
+This assertion appears to have its basis in information that the government received from
+SkyLink via a series of emails in early April 2008. The emails began with AEY asking
+SkyLink on 2 April 2008 for assistance in acquiring fuel so as to be able to begin
+deliveries on Contract M-0815 (R4, tab 14 at 10). SkyLink responded, "at this time there
+is no fuel for cargo aircraft due to low fuel levels'' (id at 6). AEY forwarded this
+
+                                             20
+response to Mr. Fernandez and requested assistance in acquiring fuel from the military
+side of the airport, noting that AEY could deliver up to 1,977,000 rounds of ammunition
+with 20 metric tons of fuel (id). Mr. Fernandez forwarded this information on to
+LTJG Page of MNSTC-I, who forwarded it to COL Morrison (id at 4). COL Morrison
+then contacted a Mr. Jack Holly in what appears to be the government fuel contracting
+office, asking:
+
+             I am trying to get ground truth on a fuel issue at BIAP. AEY
+             is scheduled to deliver 25M rounds of 7.62x54 ammo-13
+             flights by A/C IL-76. AEY states that the reason they cannot
+             deliver is the lack of fuel available on the commercial side of
+             BIAP. Skylink (see email trail below) states there is a
+             shortage. Does this track with what you know and if so do
+             you have a timeline when they may get fuel so we can
+             coordinate this delivery of ammo?
+
+(R4, tab 14 at 4) Mr. Holly responded on 3 April 2008, in relevant part:
+
+             Skylink is the DFC subcontractor for fuels for DOD agencies
+             as a priority. Commercial refueling is not allowed by the
+             DFC contract. All commercial air cargo vendors has [sic]
+             known this and as such have had to load aircraft appropriately
+             to be able to return to an airport that holds fuel. Reduced
+             capacity for each aircraft and increased Aircraft total numbers
+             has been the ongoing method of compliance. I think that
+             AEY may be using this to save money or to delay by not
+             increasing aircraft numbers or having the Aircraft divert to an
+             intermediate refueling airport enroute.
+
+(Id at 3) The next day, SkyLink emailed Mr. Holly, stating:
+
+             Just to clarify on this we have been either at limited or no
+             issue fuel on cargo flights on and off for the past 3 months
+             and most operators are able to get around this with return fuel
+             loads and certainly there has never been an instance that we
+             are aware of an inability to deliver cargo.
+
+             We are receiving quantity fuel now and hope to start cargo
+             issues within the next 2 days and we are also working on a
+             longer term strategic plan utilizing fuel from Baji refinery
+             which I will brief you on fully on my return as this is close
+             hold at the minute.
+
+
+                                            21
+(R4, tab 14 at 2) Mr. Holly forwarded SkyLink's email on to COL Morrison (id.).
+COL Morrison forwarded this email on 5 April 2008 to the contracting office (JCCI) and
+LTC McColumn, stating:
+
+               FYI ... more info ref the fuel issue and AEY ... as far as I am
+               concerned I expect AEY to deliver as per the contract...was
+               told 15 April??? Can you confirm the date please? Also if
+               they don't deliver on time I want to CXL and then contract
+               with someone else ... there is way to [sic] much bad baggage
+               with AEY. I can not get strung along on promises of
+               deliveries, or excuse after excuse on why the[y] can not
+               deliver. This 25M rounds [of] 7.62 ammo is critical
+               especially with the ongoing Basrah operation... need your
+               assist to help us out.
+
+To this, LTC McColumn replied, "We are on the same sheet sir." (R4, tab 14 at 1-2)
+
+The Saga Continues: Contract M-0670
+
+        48. LTC McColumn did not terminate Contract M-0670 on 17 April 2008. At
+trial he testified he did not remember the reason, but speculated it may have been because
+the government had not decided what to do about the partial delivery of AK-47s under
+that contract (tr. 4/60). 12 All of the line items called for under Contract M-0670 were
+ultimately delivered by AEY and accepted by the government, with the exception of
+( 1) one universal laser bore sight out of the 20 called for by CLIN 0001; (2) the
+remaining AK-47s under CLIN 0004AA (1,300 repackaged rifles were accepted); and
+(3) the DShK machine guns under CLIN 0006AA. (Findings 10-16)
+
+       49. At some time prior to 6 May 2008, SSgt Margarita Matson succeeded
+LTC McColumn as CO for Contract M-0670. In an email dated 6 May 2008, she sought
+verification from the customer (MNSTC-I/J4) that the remaining AK-47s on contract
+M-0670 were no longer needed (R4, tab 367). First Lieutenant Kirsten Bethancourt replied:
+"Yes, you are correct-we do not need the remaining AK-4 7s on the 0670 contract" (id).
+On 12 May 2008, CO Matson directed AEY not to ship the remaining items on Contract
+M-0670, including the AK-4 7s, and to "cease all work immediately," adding that the
+government intended to terminate the remainder of the contract (R4, tab 119).
+
+       50. On 31 May 2008, LTC McColumn emailed COL Cain at AGW, authorizing
+him to accept the M-0670 shipments, "including the AK-4 7s" (R4, tab 278 at 5). In
+
+
+12
+     LTC McColumn drafted a memorandum for record on 24 April 2008 containing a
+        rationale for terminating all CLINs in Contract M-0670 except for CLIN 0004AA,
+        under which the partial delivery of AK-47s took place (R4, tab 111).
+                                              22
+response, Marsha Havemann at AGW asked whether "'the AK-47s that have NOT been
+reworked by AEY are to be included as Accepted" (id at 3). CO Matson responded:
+
+              You have been cleared to accept the shipment but the ball is
+              in your court to confirm the acceptability of the items. I
+              would suggest not accepting the AK-47s that have not been
+              reworked by Skylink. Once acceptance on these items has
+              occurred, the contractor is no longer held liable for those
+              items.
+
+(Id) Ms. Havemann responded that she agreed and that she would contact AEY "to
+determine when they want the rest to be reworked" (id at 2). On 2 June 2008 she
+emailed AEY to inform them that only 1,300 AK-47s had been accepted and that 2805
+still needed to be "reworked'' (id at 1-2).
+
+         51. AEY was surprised by this because COL Cain had told Mr. Diveroli that only
+1,300 rifles needed to be repackaged, and SkyLink had also been told by authorities at
+AGW that "there were only 130 crates that needed attention" (finding 14; tr. 3/27-28).
+Mr. Diveroli' s view was that the rifles met the contract specifications without needing to
+be repackaged (tr. 3/35). Nevertheless, AEY approached SkyLink to ascertain its
+availability to repackage the remaining 2,805 rifles and entered into another service
+agreement on 16 June 2008 that expired 30 June 2008 (R4, tab 320). On 18 June 2008,
+Mr. Diveroli contacted SkyLink inquiring about the schedule for picking up the remaining
+rifles from AGW and was informed that Sky Link was waiting to hear back from COL
+Cain at AGW on a date they could come and pick up the rifles (tr. 3/37; R4, tab 321).
+
+        52. At some point, AEY heard from COL Cain that the weapons could be made
+available by 5 July 2008, and AEY informed CO Matson of this (R4, tab 126 at 1).
+However, on 1 July 2008, SkyLink informed COL Cain that it could no longer support
+the project due to the press of other work (R4, tab 324). At this point, AEY contacted
+CO Matson to ascertain whether she would be willing to accept the rifles "as is" in return
+for a discount of $20 per rifle that would lower the price per rifle to $79.98 (tr. 3/4 7; R4,
+tab 131). CO Matson rejected this offer and proposed terminating the remainder of the
+contract, including the 2,805 delivered rifles, for convenience at no cost to the
+government (R4, tab 132).
+
+        53. Although Ms. Havemann, the government quality assurance specialist at
+AGW, ultimately elected not to accept the remaining 2,805 rifles, there is no evidence
+that there was anything wrong with them. Her inquiry as to whether they should be
+accepted did not indicate anything other than they had not been "reworked" as had the
+1,300 rifles repackaged by SkyLink (finding 50). CO Matson's response suggesting that
+they should not be accepted without being "reworked" by SkyLink, merely assumes that
+such "reworking," which consisted of repackaging, was needed (id.).
+
+
+                                              23
+        54. The original report of discrepancy issued after the shipment was delivered on
+29 January 2008 did not specify how many AK-47 crates were missing interior partitions,
+although it seemed to say that "most" of them did (finding 12). But when SkyLink went
+to AGW to pick up the crates that needed to be repackaged, it was told by AGW personnel
+that only 130 crates (1,300 rifles) needed attention (finding 14). CO Matson stated, in
+rejecting AEY's offer of a $20 discount per rifle, that the government could not accept
+"items that are not ready for use,'' but no factual basis for this characterization appears in
+the record. To the contrary, Mr. Diveroli testified, supported by photographs of the rifles,
+that the weapons were in good condition. (Tr. 2/23, 26; R4, tab 341) We find the record
+to be devoid of any evidence that the remaining 2,805 AK-4 7s were nonconforming or
+needed to be repackaged; indeed, the weight of the evidence is to the contrary.
+
+       55. AEY informed CO Matson on 7 July 2008 that it could not accept her
+proposal for a no-cost termination for convenience of Contract M-0670, because it would
+cause a significant financial loss for the company (R4, tab 325 at 2). Instead, it informed
+the CO that it had found another company able to complete the repackaging work within
+5-10 days of picking up the weapons (id). At this point, it was only two days after
+COL Cain had indicated the weapons would be made available. However, the next day
+CO Matson instructed AEY to stop all work on the AK-47s, stating that AEY was ·'given
+more than enough time to have [the rifles] reworked and we will not give you anymore
+time" (R4, tab 134). She also delivered an ultimatum:
+
+              You can either accept our proposal from 7 July 08 and take a
+              no cost termination for convenience or we can terminate the
+              remainder of the contract that has not been accepted to
+              include the RPKs for cause.
+
+(Id.)
+
+        56. Mr. Diveroli testified that this was, in his view, most unfair because he
+believed that there \Vas no reason that the weapons could not have been accepted once he
+supplied the missing accessories (tr. 3/54). He never saw a contract requirement to pack
+the weapons a certain way (id). He had delivered weapons in 2005 that were not
+necessarily packed 10 weapons to a crate with partitions, but had been accepted by the
+same office (tr. 3/48). The AK-47s were not a "high margin item" and he had already
+spent $35,000 with SkyLink for work on 1,300 rifles that in his view added nothing to the
+performance or operational value of the weapons, just to make the government happy
+(tr. 3/53-55). Moreover, AEY had already paid its supplier for the 25,895 AK-47s that
+were yet to be delivered but were awaiting export licenses, meaning losses in the millions
+of dollars (tr. 3/55).
+
+        57. The very next day, 9 July 2008, AEY asked that CO Matson reconsider her
+stated intention to terminate Contract M-0670 for cause, pointing out that the Army had
+failed to make the AK-47s available for pick-up until 5 July 2008 (R4, tab 135). On
+
+                                             24
+19 July 2008, CO Matson issued a final decision terminating the contract with respect to
+unacceptable and/or undelivered CLINs, excluding the RPKs and all other accepted items
+(R4, tab 329). CO Matson's final decision stated, in relevant part:
+
+                A Report of Discrepancy (ROD) was issued stating all of the
+                AK47s delivered were not properly stored and missing parts.
+                You were afforded the opportunity to correct the situation.
+                You made an agreement with SkyLink Arabia to rework 118
+                boxes (1,300) weapons on 19 March 08. Once reworked and
+                reinspected by government personnel, those weapons were
+                accepted. Another opportunity was afforded to correct the
+                remaining weapons with the understanding that your failure
+                to do so may result in a termination. You made an agreement
+                with SkyLink Arabia to rework the remaining 2,805 AK47s
+                on 16 June 08. SkyLink Arabia notified the U.S. Government
+                on 1 July 08 of agreement cancellation stating that they were
+                unable to support your efforts.
+
+                You were given ample opportunities to correct the
+                deficiencies stated in the ROD regarding the AK47s. The
+                plan of action provided by your company to remedy the
+                situation was unsuccessful and the weapons remain
+                unacceptable.
+
+                To date, CLINs 0001 (partial), 0004AA (partial), 0006AA,
+                0008AA (Shipping) and 0008AB (partial shipping) have not
+                been delivered. The above referenced CLIN[ s] to include the
+                unacceptable AK4 7s in CLIN 0004AA will be terminated for
+                cause for your failure to deliver in accordance with the terms
+                and conditions set forth in the contract and your inability to
+                provide reasonable assurance of delivery in the near future.
+
+(Id. ) 13 CO Matson never issued a cure notice calling for AEY to submit assurances of
+future performance.
+
+       58. On 15 July 2008, AEY timely appealed to the Board LTC McColumn's final
+decision terminating Contracts M-0815, M-0010, M-0040, and C-0005 for cause in full
+or in part. The appeals were docketed on 16 July 2008 as, respectively, ASBCA
+Nos. 56470, 56471, 56472, and 56473. On 15 October 2008, AEY timely appealed to the
+Board CO Matson's final decision partially terminating Contract M-0670 for cause.
+This appeal was docketed on 16 October 2008 as ASBCA No. 56591. The appeals were
+
+13
+     The termination of CLIN 0001 as to one laser bore sight that either was not delivered
+         or was found unacceptable is not contested by AEY.
+                                              25
+voluntarily dismissed without prejudice in 2008 and were reinstated in 2010. In 2012,
+the appeals were consolidated for hearing and decision. After a somewhat lengthy
+procedural history, a hearing was held, commencing 30 November 2015. The
+government elected to present its case on the written record under Board Rule 11 and
+only appellant called witnesses to testify at the hearing.
+
+                                      DISCUSSION
+
+       As a preliminary matter, AEY contends that the military grade arms and
+accessories being procured under the five contracts do not qualify as commercial items
+and that, as a result, the Contract Terms and Conditions-Commercial Items clause,
+FAR 52.212-4, was the wrong clause to be included in the contracts. Rather, AEY
+argues that FAR 52.249-8, DEFAULT (FIXED-PRICE SUPPLY AND SERVICE), must be
+incorporated into the contracts pursuant to the holding of G.L. Christian & Associates v.
+United States, 312 F.2d 418 (Ct. Cl. 1963). (App. br. at 41-47) The government
+vigorously disagrees (gov't reply at 3-5). We find it unnecessary to decide this issue in
+order to dispose of the appeals.
+
+       A termination for default is a drastic sanction that should be imposed only for good
+grounds and on solid evidence. JD. Hedin Comtntct;on Co. v. United States, 408 F.2d
+424, 431 (Ct. Cl. 1969). The government bears the burden of proving that the termination
+was justified. Lisbon Contractors, Inc. v. United States, 828 F.2d 759, 765 (Fed. Cir.
+1987). If the government establishes a prima facie case of the contractor's default, then the
+contractor bears the burden to show that its default was excusable or was caused by the
+government's material breach. Military Aircraft Parts, ASBCA No. 59978, 15-1 BCA
+136,101 atl 76,256. These principles apply equally in the case of a termination for cause
+under FAR 52.212-4(m). Genome-Communicatiom, ASBCA Nos. 57267, 57285,
+11-1 BCA 134,699 at 170,844.
+
+        Under FAR 52.212-4(m), the government may terminate a contract for cause "in the
+event of any default by the Contractor, or if the Contractor fails to comply with any
+contract terms and conditions, or fails to provide the Government, upon request, with
+adequate assurances of future performance." LTC McColumn terminated Contracts
+M-0815, M-0010, M-0040, and C-0005 based on AEY's failure to deliver by the contract
+due date (finding 46). CO Matson terminated CLINs 0001 (as to one of 20 laser bore
+sights), 0004AA (all but the 1,300 delivered and accepted AK-47s), 0006AA (287 DShKs),
+0008AA and 0008AB (shipping) of Contract M-0670 due to "failure to deliver within the
+terms and conditions of the contract and to provide adequate assurance of delivery" (R4,
+tab 138).
+
+Severability
+
+       In deciding the particulars of whether AEY failed to deliver by the contract due
+date, we must decide what the contract due dates were for each CLIN under each of the
+
+                                            26
+five contracts. In this respect we have determined, following the lead of our decision in
+Bulova Technologies Ordnance Systems LLC, ASBCA No. 57406, 14-1BCA135,521
+at 174,098-99, that the three contracts containing multiple deliverables were severable.
+Severability simply means that the entire contract cannot be terminated for default for
+failure to deliver one or more line items by the due date. Per Bulova, the factors to be
+considered in this analysis include whether the items are capable of being performed
+separately, and whether the parties' conduct suggests that the requirements are '·separate
+in character." Id at 174,099. As in Bulova, the contracts in these appeals procured
+weapons for distinct end users, the Iraq Ministry of Defense (military), the Iraq Ministry
+of Foreign Affairs, and the Iraq Ministry of Interior (police) (finding 2). The weapons to
+be procured were distinct, with no interdependence, and were manufactured or stockpiled
+by different entities in different countries (findings 4, 6, 9). Each item carried its own
+pricing and contract due date based on the receipt of an acceptable EUC directed to the
+country from which it was sourced (id; R4, tabs 1, 8, 24 ). The parties' conduct during
+performance was consistent with the contract structure.
+
+Contract Due Dates
+
+        Having found the contracts with multiple CLINs to be severable, our next task is
+to determine the contract due dates. The original contract due dates are set out in
+findings 4-9 above. One of the issues presented in these appeals is whether the original
+contract due dates were revised in the 3 April 2008 conference call with
+LTC McColumn. The record contains conflicting evidence on whether 15 April 2008
+was a revised delivery date for all or part of the items to be delivered under the five
+contracts, or merely a date by which AEY needed to show ''some sign of delivery.'' On
+the one hand, Mr. Fernandez's memorandum to file of the 3 April 2008 telephone call
+stated, "Made Ktr aware to show the government some sign of delivery by 15 Apr 08.''
+(Finding 30) This is consistent with Mr. Diveroli's recollection of the conversation. On
+the other hand, LTC McColumn's final decision states variously that 15 April 2008 was a
+date by which "'at least partial delivery" was required (for Contracts M-0815, M-0010.
+and M-0040) or was the revised contractual due date or "period of performance''
+(Contract C-0005) (finding 46). 14
+
+        In a memorandum to file dated 13 May 2008, in which LTC McColumn
+documents his rationale for terminating Contracts M-0815, M-0010, M-0040, and
+C-0005 for cause, he states that in the 3 April 2008 conference call he told AEY that at
+least partial delivery would be required by 15 April 2008 (R4, tab 21 ). LTC McColumn
+
+14
+     The final decision also states that AEY established a revised schedule under
+         Contract M-0815 through an email from Mr. Diveroli reporting that AEY
+         ''should be able to begin shipping" on 11 April 2008. The Board views the
+         cited document (R4, tab 261) as a hopeful status report and not a "revised
+         schedule (See also tr. 2/112-13)
+
+                                             27
+stated in a 5 April 2008 internal email to his superior, COL Mark Morrison,
+MNSTC-VJ4, his belief that he had set a revised deliveiy date of 15 April 2008, at least
+on Contract M-0815:
+
+               Roger sir, 15 April is the date. I am "intimately" engaged
+               with AEY to ensure they understand the need for on-time
+               deliveiy IAW the "renegotiated'' deliveiy schedule. I have
+               informed them of the actions I will have to take should they
+               fail to deliver.
+
+(R4, tab 14 at 1) However, there is nothing in the record indicating that this version of
+events was ever communicated to AEY, in the 3 April 2008 conference call or at any
+time prior to the terminations, much less that there was agreement on a "renegotiated"
+deliveiy date. 15 Indeed, LTC McColumn testified at the hearing in this case that in the
+3 April 2008 telephone conversation with AEY he did not set a revised deliveiy date for
+any of AEY's contracts but asked for "some sign of deliveiy'' by 15 April 2008 (tr. 4/47).
+Thus, while LTC McColumn may have believed at the time that his "benevolence" in
+requiring "some sign of deliveiy" by 15 April 2008 was equivalent to setting a revised
+deliveiy date of 15 April 2008 or requiring partial deliveries on the contract by that date,
+we find that the government did not establish a revised schedule or new deliveiy dates for
+any of the five contracts.
+
+Termination of CLINs that Were Not Yet Due
+
+       There is no dispute that LTC McColumn, on 17 April 2008, terminated CLINs
+that were not yet due under Contracts M-0010 and M-0040. Under Contract M-0010,
+CLINs 0007, 0008, and 0009 (small arms repair kit, 60 sniper rifles, and 60 spotter
+scopes from the U.S.) were due on 28 April 2008. Under Contract M-0040, various
+items under CLINs 0006-7, 0009-12, 0014-21, and 0026-27 (all from the U.S.) were due
+on 21 April 2008, and CLIN 0022 (submachine guns from Pakistan) was also due on
+21 April 2008.
+
+        AEY contends, and the government concedes, that in the absence of a cure notice
+for failure to make progress, the government's termination of CLINs that were not yet
+due under the contracts was improper (gov't br. at 25). The Board agrees. The
+termination for cause of the above-enumerated CLINs under Contracts M-0010 and
+M-0040 is hereby converted to a termination for convenience.
+
+
+15
+     LTC McColumn actually did not speak to AEY from the time of the 3 April conference
+        call until 17 April 2008 when he issued the terminations (tr. 3/159).
+                                            28
+Did the Government Waive Original Contract Due Dates for Any of the Deliverables?
+
+        The original contract due date on Contract C-0005 was 7 April 2008 (finding 8).
+AEY contends that CO Goff agreed to a "final delivery schedule" on Contract C-0005
+consisting of three installments of ammunition to be shipped from the U.S. on 14 April
+2008, 31 May 2008, and 31 July 2008 (app. br. at 51). In the alternative, AEY argues
+that CO Goff expressly waived the original contract delivery date by acquiescing in an
+installment schedule that extended far beyond the contractual due date of 7 April 2008,
+and by requesting the latest updated delivery schedule prior to his departure for the
+purpose of modifying the contract (app. br. at 68-69). The government denies that
+waiver occurred and asserts that, at most, CO Goff agreed to an installment contract and
+there is no evidence that he agreed to modify the first delivery date of 7 April 2008,
+which AEY missed (gov't br. at 21 ).
+
+       AEY also contends that the government waived the original delivery date of
+27 December 2007 on Contract M-0815 by allowing AEY to continue performance for
+several months to its detriment before terminating, without ever establishing a new
+delivery date (app. br. at 66, 69-70). The government concedes that the original delivery
+date was probably waived (gov't br. at 18), but argues that LTC McColumn
+re-established a delivery date of 15 April 2008 to which AEY acquiesced following the
+3 April conference call (gov't br. at 18-19).
+
+        AEY has the burden to prove the affirmative defense of waiver of the contract
+delivery schedule. To prove waiver, a contractor must show (1) failure to terminate
+within a reasonable time after default under circumstances indicating forbearance; and
+(2) reliance by the contractor on the failure to terminate and continued performance
+under the contract, with the government's knowledge and implied or express consent.
+DayDanyon Corporation, ASBCA No. 57681, 15-1BCA136,073 at 176,152 (citing
+De Vito v. United States, 413 F.2d 1147, 1153-54 (Ct. Cl. 1969)). In Tectron Corp.,
+ASBCA No. 12901 et al., 73-1BCA19786, we elaborated on these elements:
+
+                     After failure of delivery without excusable cause, the
+             Government must make an election of remedies; i.e., to
+             terminate the contract for default or to waive the delivery date
+             and require continued performance. The time within which
+             this election is made must be reasonable and often it is
+             difficult to determine whether the Government is forbearing a
+             termination for default to assess the situation or whether it is
+             forbearing to continue the contract. The determination
+             usually rests on whether the Government's acts are non-
+             affirmative in nature, indicating forbearance of termination,
+             or affirmative, indicating an election and waiver of the
+             delivery schedule ....
+
+
+                                           29
+                        As the Board has held in previous cases, waiver of the
+                delivery schedule by acts or conduct of Government
+                representatives ordinarily requires at least two basic elements,
+                ( 1) conduct on the part of the Government which is
+                reasonably believed by the delinquent contractor to constitute
+                encouragement to proceed with performance of the contract
+                after the delivery date has passed, and (2) incurrence of
+                performance costs by the delinquent contractor in reliance
+                thereon.
+
+/d.at45,719.
+
+        Bearing these principles in mind, we first examine Contract C-0005. Mr. Diveroli
+testified, without contradiction, that prior to contract award he was approached by
+Mark Morales of Allied Defense Group and asked if he would consider sourcing the
+ammunition with Allied's affiliate ATK. He then broached the possibility to CO Goff,
+explaining that ATK would have to manufacture the ammunition and that it would be
+shipped by sea from the U.S., and that therefore the entire 39 million rounds would take
+longer to deliver than ammunition already stockpiled in Europe that could be delivered
+by air. He further testified that CO Goff, after checking with the customer, gave him the
+green light to order the ammunition from the U.S. In reliance on CO Goffs assent, AEY
+placed the order with ME CAR on 7 December 2007, one day prior to award of Contract
+C-0005. The delivery dates 16 in the order to MECAR were: 3 million rounds on
+28 February 2008, 7 million rounds on 1 April 2008, 7 million rounds on 30 April 2008,
+7 million rounds on 31 May 2008, 7 million rounds on 30 June 2008, and 8 million
+rounds on 31 July 2008. (Findings 7-8)
+
+        Late in December 2007, AEY reported to CO Goff that it hoped to have firm
+delivery dates "soon" (finding 23 ). In February 2008, MECAR informed AEY that the
+contract dates would slip by roughly a month and proposed to deliver 13 million rounds
+during the period 25 March to 5 April 2008, 13 million rounds 25 May to 5 June 2008,
+and 13 million rounds 25 July to 5 August 2008. Later in February MECAR pushed back
+the expected first delivery date to 14 April 2008, a week past the contract delivery date of
+7 April 2008. (Id) AEY updated CO Goff on the expected shipping dates for the
+ammunition on a regular basis, and on 30 March 2008 notified CO Goff that the first
+13 million rounds were being packaged and prepared for ocean shipment (id). It is
+apparent that CO Goff was aware through this process that the delivery date of 7 April
+2008 contained in the express terms of the contract would not be met, not even for the
+frrst installment of 13 million rounds. Indeed, while CO Goff indicated he would try to
+modify the contract to reflect the new delivery dates before he was reassigned at the end
+
+16
+     The Board infers that these dates signified date of delivery to AEY in the U.S., not
+         delivery to the customer in Baghdad. The contemplated shipment by sea would
+         add additional time before final delivery to the customer.
+                                              30
+of March, he failed to do so and the record does not reflect that before his departure he
+ever received firm dates that the ammunition would be delivered in Baghdad. Thus, we
+do not find that there was agreement on a revised delivery schedule. We do find that the
+government, through CO Goff, affirmatively waived the original contract delivery date.
+
+         But what of the government's argument that the original waiver consisted, at most,
+of agreement to an installment contract with the first delivery due no later than the
+contract's express due date of 7 April 2008? As originally contemplated, the first
+installment would have been delivered to AEY for ocean shipment in February of 2008,
+so it is possible that CO Goff originally expected to receive the first shipment by 7 April
+2008. However, the expected delivery date for the first installment was pushed back by
+MECAR in February to the end of March/beginning of April, and then to 14 April 2008.
+CO Goff was kept informed of these changes by AEY, and the government took no
+action that would indicate that it thought it had a firm delivery date no later than 7 April
+2008. To the contrary, before his departure at the end of March 2008, CO Goff merely
+asked AEY to provide an update on the expected shipping schedule, and was at that time
+informed that the first 13 million rounds were being packaged for ocean shipment. Thus,
+we find that even if the government thought it was agreeing originally to an installment
+contract (and there is nothing in the record that affirmatively indicates such an
+understanding),. its knowledge and acquiescence in February and March 2008 to a first
+delivery after the 7 April 2008 due date in the contract sealed its waiver of that contract
+due date, even for the first installment.
+
+        Our conclusion that the contract delivery date was waived is not affected by the
+fact that the successor CO, LTC McColumn, did not recognize that a waiver had
+occurred. LTC McColumn was asked during his testimony if he agreed that the
+government is required to establish a new, reasonable delivery date if it waives the
+original contract delivery date. His answer was that "[t]he reasonable date was the date
+of delivery [in the contract]" and that "[a]nything after the performance period of the
+contract was truly benevolence." (Tr. 4/39-40) L TC McColumn also expressed the view
+that perhaps the CO had not terminated AEY's contracts when it should have based on
+the passing of contract delivery dates without deliveries, but that the contract delivery
+dates were unchanged (tr. 4/95). But once a waiver has occurred, it is not undone by a
+successor CO's failure to realize it has occurred. Rather, the government must establish a
+new, reasonable delivery date by written notice to the contractor. De Vito, 413 F.2d at
+1154. LTC McColumn did not establish new, reasonable delivery dates for any of the
+contracts.
+
+       The Board further finds that AEY relied on the government's waiver to its
+detriment. In reliance on the government's assent to the more expensive U.S.
+ammunition and slower shipment by sea, AEY lost the opportunity to buy less expensive
+ammunition that met the contract specifications--and most likely could have been
+delivered by air by the original due date-from European suppliers. (Finding 7)
+Moreover, as part of its effort to show LTC McColumn "some sign of delivery" by
+
+                                            31
+15 April 2008, AEY arranged for more expensive air shipment instead of shipment by
+sea, and paid MECAR the amount of $3,845,800 on 18 April 2008 to release the first
+shipment of 13 million rounds of ammunition from the United States. (Findings 42-43)
+
+      Because the original delivery date was waived, the government's 17 April 2008
+termination of Contract C-0005 for cause was improper, and it is hereby converted to a
+termination for convenience.
+
+       We now turn to Contract M-0815. Delivery of ammunition under this contract
+was due 27 December 2007 (finding 5). An export license from the Czech Republic was
+not issued until well after this date, on 21 January 2008. Following issuance of the
+license, AEY entered into an aircraft charter with Galaxy Air and reported to CO Goff
+that AEY planned to commence shipping by mid-February. (Finding 17) It took AEY
+some time to line up the necessary permits, and on 10 February 2008 AEY reported to
+CO Goff that operations would commence on 26 February and continue into mid-March
+(finding 18). The fuel shortage in Baghdad then prevented flights from commencing as
+scheduled. AE Y contacted numerous carriers but none had a solution to the problem
+until April at the earliest. CO Goff was kept apprised of AEY's efforts in the face of the
+fuel shortage. (Finding 19)
+
+       Notably, no effort was made by the government during this period to enforce the
+original contract due date, and it was apparently not until 30 March 2008 that the
+government communicated to AEY that the ammunition was urgently needed
+(finding 28). Despite the urgent need, and the government's awareness that the cargo
+was waiting in a warehouse at PED ready to be shipped if a solution to the fuel issue
+could be found, the government also failed to respond to AEY' s request for assistance
+with respect to the fuel issue, including its request for permission to land on the military
+side of the airport to refuel after deliveries. (Finding 29)
+
+       The email exchange recounted in finding 4 7 corroborates the fact of a fuel
+shortage in Baghdad, and also demonstrates that, by 5 April 2008, the government had
+reason to believe that AEY could have begun deliveries during the fuel shortage,
+although at greater expense due to the reduced cargo loads and/or the need to refuel at
+intermediate airports.
+
+       However, we need not decide if the fuel shortage excused AEY's delays in
+delivery despite the possible availability of a more expensive workaround because we
+find that the original contract due date of 27 December 2007 was waived by the
+government well prior to the end of March 2008, and the government did not establish a
+new date for delivery. AEY relied on the government's waiver. It had already paid for
+the ammunition and was paying rent each month on the airport warehouse at which the
+ammunition was stored, in addition to continuing to seek out carriers and assist them with
+overflight and landing permits, through the date of termination ( 17 April 2008).
+(Findings 33-35, 28, n.9) AEY also paid its carrier, JLM, $110,000 on 14 April 2008 for
+
+                                             32
+a series of deliveries that were to begin with a positioning flight into PED on 14 April
+2008 (finding 35).
+
+      The termination for cause of Contract M-0815 was therefore improper and is
+converted to a termination for convenience.
+
+       AEY further contends that delivety dates on the remaining three contracts were
+waived by the government. As for Contract M-0040, the contract due dates were 7 April
+2008 for CLINs 0002, 0008, and 0013 (AK-47s and machine guns to be acquired from
+Serbia); 21 April 2008 for CLIN 0022 (submachine guns to be acquired from Pakistan);
+and 21 April for all other CLINs (to be acquired from the United States). 17 AEY
+contends that the government waived the 7 April 2008 due date because on 7 April 2008
+AEY paid a supplier the balance due for spotter scopes sourced in the U.S. (App. br.
+at 67) However, the 7 April 2008 due date was for items from Serbia, and we have been
+pointed to no conduct on the part of the government that we consider to be sufficient to
+show a waiver of that due date. We conclude that AEY has not met its burden of proof to
+show that the government waived the 7 April 2008 due date on Contract M-0040 for
+CLIN s 0002, 0008, and 0013.
+
+       As for Contract M-0010, the contract delivety date was 7 April 2008 for CLINs
+0001, 0003, 0005, 0006, and 0010, to be acquired from Serbia, and for CLIN 0004, to be
+acquired from the Czech Republic. For all other CLINs under the contract, to be
+acquired from the U.S., the due date was 28 April 2008. 18 AEY's argument for waiver of
+the 7 April 2008 due date is again based on its payment for the U.S. spotter scopes
+(app. br. at 67). However, as with Contract M-0040, we find that AEY has not met its
+burden of proof to show waiver of the 7 April 2008 due date.
+
+        As for Contract M-0670, the government ultimately accepted all line items under
+this contract other than (1) the AK-47s, CLIN 0004AA, and (2) the DShK machine guns,
+CLIN 0006AA. The original contract delivety date for the 16,000 AK-47s coming from
+Montenegro was 29 November 2007 (finding 4 ). Of these, 4,105 were delivered to the
+government on 29 Januaiy 2008, following Montenegro's issuance of a partial export
+license on 25 December 2007 (finding 11). From the date of the partial shipment in
+Januaty through May of 2008, although LTC McColumn wanted "some sign of delivety"
+on at least one contract by 15 April, we see no evidence that the government expressed
+any concern regarding the AK-47s that had not yet shipped. The government's lack of
+concern may be due to the fact that as of 6 May 2008, and possibly before, the end user
+no longer had a need for the AK-47s. On 12 May 2008, the government directed AEY
+
+
+17
+   We have already found the 17 April 2008 termination for cause to be improper as to
+      the items due thereafter on 21 April 2008.
+18
+   We have previously found that the 17 April 2008 termination for cause was improper
+      as to the items due thereafter on 28 April 2008.
+                                            33
+not to ship the remaining AK-47s and to "cease all work immediately," adding that the
+government intended to terminate the remainder of the contract (finding 49). 19
+
+        We consider the fact that the government took no action to issue a show cause
+notice or to terminate with respect to the remaining 11,895 Montenegro AK-47s after
+AEY delivered 4,105 of them in January 2008 (two months after the contract due date).
+Indeed, on 5 May 2008 the government accepted an April shipment of missing parts and
+accessories for the AK-47s that were delivered in January 2008 (R4, tab 93 at 4, tab 315;
+tr. 2/202). Other shipments under M-0670 were also accepted in April 2008 (finding 10).
+We also consider LTC McColumn's decision not to terminate CLIN 0004AA or any
+other CLIN of Contract M-0670 in April 2008 and his 31 May 2008 authorization to
+AGW to accept the AK-47s and all the April deliveries under Contract M-0670 (R4,
+tab 278 at 5). We further think it relevant that CO Matson, on 12 May 2008, issued a
+stop-work order, directed that the remaining AK-47s not be delivered, and shortly
+thereafter proposed that the remaining quantities of AK-47s be terminated for
+convenience at no cost to the government. This affirmative conduct, and the period of
+time over which it occurred, are not consistent with forbearance for the purpose of
+assessing whether a termination for cause is justified. Rather, the government's conduct
+is consistent with an election to waive the contract delivery date. Therefore, we find that
+AEY has established the first element of waiver with respect to the remaining 11,895
+AK-4 7s from Montenegro due under CLIN 0004AA of Contract M-0670.
+
+        The second element of waiver that AEY must show by a preponderance of the
+evidence is detrimental reliance on the government's conduct. We think this element is
+established by the extra effort and expense that AEY expended to repackage the initial
+quantity of 1,300 rifles and AEY's attempts to arrange for the repackaging of the rest of
+the delivered rifles after the government's belated decision to require them to be
+repackaged. These latter efforts continued until CO Matson refused to permit AEY to do
+the rest of the re-packaging with a company other than SkyLink and issued a stop-work
+order on 8 July 2008 (fmding 55).
+
+       Thus, we fmd that the government waived the original contract delivery date for
+the remaining 11,895 AK-47s from Montenegro due under CLIN 0004AA of Contract
+M-0670. We note that even if it had not, AEY's failure to deliver might have been
+excusable, since it apparently was still awaiting a Montenegro export license for the
+remaining quantity at the time CO Matson issued a stop-work/do not ship order on
+12 May 2008 (findings 48, 11 n.5), and thereafter was prevented from performing by the
+government's stop-work order.
+
+
+19
+     The 14,000 AK-47s coming from Croatia were not due until 19 May 2008 (fmding 4),
+         a week after the direction not to ship and to stop work, so we do not consider
+         them here.
+
+
+                                            34
+        The 287 DShK machine guns sourced from the Czech Republic under
+CLIN 0006AA of Contract M-0670 were due on 14 April 2008 (finding 4). Given the
+relatively short period of time (less than a month) between the due date and CO Matson's
+stop-work order on 12 May 2008, the evidence is insufficient to support a finding of waiver.
+
+Has AEY Proven Excusable Delay for Any of the Contract CL!Ns?
+
+        On Contract M-0670, the express due date for CLIN 0006AA for 287 DShK
+machine guns from the Czech Republic was 14 April 2008. It is undisputed that the
+DShKs were not delivered by 14 April 2008. Therefore, the government has established
+a prima facie case of default with respect to CLIN 0006AA of Contract M-0670. \Ve
+consider whether AEY has met its burden of proving excusable delay. The record
+contains Mr. Diveroli's testimony that, as of 24 April 2008, AEY was still awaiting an
+export license from the Czech Republic for the DShKs (tr. 2/216). The government
+contends that a country's delay in issuing an export license cannot constitute excusable
+delay but is merely ·"prevailing conditions in the international arms business" as to which
+AEY assumed the risk under its contracts (gov't reply at 7). We do not agree. The FAR
+clause provides that a contractor is not liable for default if its nonperformance is ·"caused
+by an occurrence beyond the reasonable control of' and without the fault or negligence of
+the contractor (finding 3). The government does not argue that the issuance or
+non-issuance of an export license was within AEY's reasonable control, other than to
+posit that perhaps it should have chosen to do business with suppliers in a country with
+more predictable timelines. Tellingly, the government has pointed to no evidence that
+any of the delays in issuing export licenses in these appeals resulted from any fault or
+negligence of AEY or that the arms and ammunition in question were available from
+countries with "more· predictable timelines.'' Thus, on the record before us, we hold that
+AEY' s non-delivery on the subject contracts due to the lack of a necessary export license
+constitutes excusable delay for as long as the situation is shown to persist.
+
+       Nor do we agree with the government that the contracts placed the risk on AEY of
+a sovereign nation's delay in issuing an export license. The contract clause cited by the
+government to support this proposition states:
+
+                     Contractor shall process all necessary licenses,
+              approvals, and/or certificates required from the U.S. or
+              another Nation as it may be applicable to ensure world arms
+              sales ability and to perform the work/deliveries.
+
+The plain meaning of this clause, which appears in four of the contracts and not in
+Contract M-0815, is that the contractor shall be diligent in expediting those matters that
+are within its control. A clause placing the risk on the contractor of acts solely within the
+control of a foreign nation would clearly (or should clearly) say so. We doubt that the
+government would find many takers or reasonable prices if it clearly placed on the
+contractor the risk of an event completely beyond its control.
+
+                                             35
+      The government issued the stop-work/do not ship order under Contract M-0670
+on 12 May 2008 (finding 49). However, AEY has not pointed to any evidence that
+AEY was still awaiting the export license beyond 24 April 2008. The burden to prove
+excusable delays is on the appellant. In this instance, it has not been met. Thus, we
+uphold the government's termination for cause of CLIN 0006AA of Contract M-0670.
+
+       On Contract M-0010, the express due date for CLINs 0001, 0003, 0005, 0006, and
+0010 (various arms from Serbia) was 7 April 2008. The due date for CLIN 0004, DShK
+machine guns from the Czech Republic, was also 7 April 2008. AEY has not met its
+burden to demonstrate waiver of these due dates by the government. It is undisputed that
+the various items under these CLINs were not delivered by 7 April 2008. Therefore, the
+government has established a prima facie case of default with respect to the
+above-enumerated CLINs of Contract M-0010.
+
+       However, AEY has established that its non-delivery of these six CLINs was caused
+by the fact that it had not received export licenses from either Serbia or the
+Czech Republic for the items, and there is no evidence in the record that the delay was due
+to any fault or negligence of AEY. It reported to the government on 12 April 2008 that it
+was still awaiting both the Czech and Serbian licenses and anticipated receiving them by
+2 May 2008 (finding 21). Nevertheless, LTC McColumn terminated these six CLINs for
+cause on 17 April 2008 (finding 46). The termination for cause was improper because the
+delay was excusable. It is hereby converted into a termination for convenience.
+
+Remaining Contract M-0670 CLINs
+
+       CO Matson on 19 July 2008 also terminated 2,805 AK-47s delivered by AEY
+under CLIN 0004AA of Contract M-0670 and the undelivered 14,000 AK-47s from
+Croatia that were not due until 19 May 2008, seven days after CO Matson issued the
+stop-work/do not ship order.
+
+       As to the 2,805 delivered AK-47s, the government has not met its burden to prove
+a prima facie case of default. The record contains the following evidence, summarized
+here: the 4,105 AK-47s for which AEY had received a Montenegro export license were
+delivered to AGW on 29 January 2008 (finding 11). The discrepancy report issued on
+16 February 2008 noted that "most" of the crates "just look like a wooden box not
+wooden crate'' and the "crates had no inside wooden partitions to separate the weapons
+from the accessories" and keep them in rows to make it easy to count (finding 12).
+CO Goff specifically asked that the warehouse personnel undertake an inventory to
+assess whether ( 1) the weapons were in good condition with "deficient" bracing, in which
+case they should be accepted; or (2) weapons were damaged, or crates were shipped
+without any bracing at all, in which case they should be "set aside." No such inventory
+appears in the record. (Finding 13) AEY arranged with SkyLink to pick up from the
+warehouse the crates that required repackaging, and when SkyLink did so, it was
+
+
+                                           36
+informed by government personnel that only 130 crates needed attention (finding 14).
+These 130 crates were repackaged, delivered back to the warehouse, and accepted (id).
+
+        After LTC McColumn, on 31 May 2008, authorized COL Cain at AGW to accept
+the M-0670 shipments, "including the AK-47s,'' Ms. Havemann at AGW inquired
+whether the authorization included the AK-47s that had not been re-packaged.
+CO Matson suggested that AGW not accept the AK-47s that had not been "reworked,''
+because "[ o ]nee acceptance on these items has occurred, the contractor is no longer held
+liable.'' (Finding 50) Neither Ms. Havemann's inquiry nor CO Matson's response
+provided any evidence that the 2,805 rifles that had not been re-packaged were in any
+way nonconforming. Because only 130 crates of rifles were tendered to SkyLink as
+requiring work, and we have been presented with no evidence that the remaining 2,805
+AK-47s were not in acceptable condition, we find the government's rejection of those
+rifles and CO Matson' s subsequent termination for cause to be unsupported and
+improper. We hereby convert the termination for cause to a termination for convenience.
+
+        Finally, we hold that CO Matson's termination for cause of the 14,000 AK-47s to
+be sourced from Croatia under Contract M-0670 was improper. These items were not
+due under the contract until 19 May 2008. CO Matson issued a stop-work/do not ship
+order for the remaining items under this contract on 12 May 2008. Thus, AEY's delivery
+of the rifles from Croatia was prevented by an act of the government in its contractual
+capacity, making its failure to deliver excusable under FAR 52.212-4(£).
+
+       We have carefully considered all the arguments made by the parties. To the extent
+they are not mentioned herein, it is because they were not relevant to our disposition of
+the appeals or were not persuasive.
+
+                                     CONCLUSION
+
+       The termination for cause of CLIN 0006AA (287 DShK machine guns) and partial
+termination of CLIN 0001 (one laser bore sight) of Contract M-0670 are upheld. In all
+other respects, the appeals are sustained, and the terminations for cause are converted to
+terminations for convenience. The matter is returned to the parties to negotiate a
+termination settlement.
+
+       Dated: 22 June 2018
+
+
+                                                  L YNDT.O'SlJLLIVAN
+                                                  Administrative Judge
+                                                  Armed Services Board
+                                                  of Contract Appeals
+
+(Signatures continued)
+
+                                            37
+ I concur                                      I concur
+
+
+RICHARD SHACKLEFORD                            J. REID PROUTY
+Administrative Judge                           Administrative Judge
+Acting Chairman                                Vice Chairman
+Armed Services Board                           Armed Services Board
+of Contract Appeals                            of Contract Appeals
+
+
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA Nos. 56470, 56471, 56472,
+56473, 56591, Appeals of AEY, Inc., rendered in conformance with the Board's Charter.
+
+      Dated:
+
+
+                                               JEFFREY D. GARDIN
+                                               Recorder, Armed Services
+                                               Board of Contract Appeals
+
+
+                                         38

@@ -1,0 +1,3020 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+ Appeals of -                                 )
+                                              )
+ Amatea/Grimberg JV                           )    ASBCA Nos. 60426, 60427, 60428
+                                              )               60689, 60690, 60691
+                                              )               61252, 61402, 61715
+                                              )
+ Under Contract No. N40080-09-C-0171          )
+
+ APPEARANCES FOR THE APPELLANT:                    Stephen H. Swart, Esq.
+                                                   Arnie B. Mason, Esq.
+                                                   Melisa A. Roy, Esq.
+                                                    Williams Mullen
+                                                    Tysons Corner, VA
+
+ APPEARANCES FOR THE GOVERNMENT:                   Craig D. Jensen, Esq.
+                                                    Navy Chief Trial Attorney
+                                                   Joshua S. Kauke, Esq.
+                                                    Trial Attorney
+
+                 OPINION BY ADMINISTRATIVE JUDGE PROUTY
+
+        These nine appeals, brought pursuant to Board Rule 11, stem from disputes
+over the performance of a design/build construction contract (the contract) to erect a
+laboratory building for the Engineering Directorate of the Naval Surface Warfare
+Center located at Indian Head, Maryland. Many things went wrong during the
+pendency of the project, beginning with poor site conditions that required remediation,
+and including disputes over the partial re-design of the fire sprinkler system and who
+was responsible for the installation of an electronic security system. Appellant, the
+Amatea/Grimberg Joint Venture (AGJV or the joint venture) maintains that
+respondent, the United States Navy (the Navy), only made things worse by the
+contentious manner in which it administered the contract: unreasonably refusing to
+allow AGJV to work on nights and weekends and wrongfully refusing to extend the
+project completion date, therefore requiring AGJV to incur the additional expenses
+that followed from accelerating its work. The joint venture also argues that the
+Navy’s imposition of liquidated damages for the late completion of the project was
+unjust, given the Navy’s supposed responsibility for the delays and the Navy’s use of
+an unreasonable beneficial occupancy date.
+
+        As will be explained below, the Navy largely—but not completely—prevails
+here. The conditions at the site, though an absolute mess after AGJV began working
+on it, were not inconsistent with what could have been anticipated from the
+information provided by the Navy with the solicitation and were somewhat
+AGJV’s fault. Moreover, the contracting officer’s (CO’s) decision not to afford
+AGJV the opportunity for night and weekend work was not a breach of the duty of
+good faith and fair dealing as the Navy had sufficient reasons to deny the request to
+make its exercise of discretion reasonable. On the other hand, the Navy does owe
+AGJV additional money for the fire sprinkler system (not as much as AGJV claims)
+and for the electronic security system which was required by the contract but was not
+completely paid for by the Navy. Additionally, the Navy should have found the
+building ready for beneficial occupancy at an earlier date than it did, which leads to
+lower liquidated damages due the government. Finally, we find the acceleration
+claims to be unsupported.
+
+                                 FINDINGS OF FACT
+
+       I. The Contract
+
+        The contract to erect the laboratory building that is the subject of this dispute
+(the lab building) was a design/build contract that was awarded as a competitive small
+business set-aside. The procurement was done in two phases: in the first phase, the
+Navy basically selected a small number of contractors that (based on the solicitation
+criteria) were suited to perform the work. In the second phase, those contractors
+selected in the first phase responded to the solicitation for the project and were judged
+upon that response. (See generally, R4, tab 1) AGJV was one of the three teams that
+were selected by the first phase of the procurement and were invited to participate in
+the second phase by responding to the solicitation (R4, tab 3 at GOV 35). 1
+
+        On July 10, 2009, the government issued the request for proposals (RFP)
+(R4, tab 3 at GOV 32) 2. The RFP included various contract line items, and provided
+that the work to be performed under each line item was delineated in the
+
+
+1
+  The government has placed Bates numbers at the bottom of the pages of its Rule 4
+       file, beginning with the descriptor “GOV_ORIG_R4_” after which follows a
+       seven-digit number, beginning with zeroes. For greater ease of use, we replace
+       this with “GOV ___” in which the seven-digit number is replaced by only the
+       digits actually used. Thus, for example, we replace GOV ORIG-R4 0000005
+       with GOV 5. We similarly curtail appellant’s Bates numbers to “APP __”
+       followed by only the digits actually used.
+2
+  The solicitation is at tab 3 of the Rule 4 file, while the executed contract, which
+       incorporates some portions of the solicitation (as noted below), is at tab 24.
+       Throughout the remainder of this opinion, we generally cite the solicitation
+       document at tab 24, since that is associated with the executed contract.
+
+
+                                            2
+RFP’s technical specifications and drawings, which were organized into “parts” (id.
+at GOV 37-38; R4, tabs 4-9).
+
+        On September 30, 2009, AGJV was awarded the contract to build the lab
+building along with several related line items from the solicitation. The contract was
+in the amount of $10,574,419, with a contract completion date of March 31, 2011. (R4,
+tab 24 at GOV 1153) Of relevance here, the contract incorporated the RFP’s Price
+Schedule and the specifications and drawings (R4, tab 24 at GOV 1155). 3
+
+        The contract included the standard liquidated damages clause found in the
+Federal Acquisition Regulation (FAR) at section 52.211-12 Liquidated Damages –
+Construction (SEP 2000), which, modified to insert a specific dollar figure, provided
+in part that: “[i]f the Contractor fails to complete the work within the time specified
+by the contract, the Contractor shall pay liquidated damages to the government in the
+amount of $5,250 for each calendar day of delay until the work is completed or
+accepted” (R4, tab 24 at GOV 1190).
+
+       II. Early Contract Extensions
+
+       On May 3, 2010, the parties agreed to add a number of enhancements to the
+building to increase its energy efficiency. By bilateral 4 contract Modification
+No. A00001 (Mod 1), AGJV agreed to make the various energy efficiency
+enhancements to the building for an additional $1,040,783 (raising the contract price to
+$11,615,202) and a 90-day extension to the contract completion date, which would
+now be June 29, 2011. (R4, tab 26 at GOV 1218) This modification was followed
+within a few days by Modification No. A00003 (Mod 3). Mod 3 was another bilateral 5
+contract modification. This one, extending the time for performance by 224 days, until
+February 8, 2012, in recognition of delays in the FY09 Demolition and Footprint
+Reduction Program which would have affected the construction site. This was a
+
+
+3
+  Although these portions of the RFP were incorporated into the contract, the parties,
+       throughout performance and during this litigation, generally continued to refer
+       to them as RFP provisions, not contract provisions. For consistency, we adopt
+       the parties’ terminology.
+4
+  The copy of Mod 1 in the government-provided Rule 4 file is signed by the
+       government, but not by AGJV (see R4, tab 26). Since AGJV does not raise an
+       argument over this, we will presume that it was, in fact, a bilateral modification
+       and that the Navy was either sloppy in obtaining AGJV’s signature after
+       forwarding the modification to AGJV or in its records-keeping. This is an
+       all-too-common problem. See, e.g., Metro Machine d/b/a General Dynamics
+       NASSCO-Norfolk, ASBCA No. 62221, 22-1 BCA ¶ 38,096 at 185,002 n.5.
+5
+  Yet again, with only the government’s signature present (see R4, tab 28 at GOV 1225).
+
+                                           3
+no-cost modification, with the contract price remaining at $11,617,761. 6 (R4, tab 28
+at GOV 1225)
+
+       AGJV characterizes these as “significant delays” for which the Navy admitted
+responsibility (app. br. at 2-3). This is true to the extent that the extension of the
+contract completion date by more than 10 months was certainly significant and also a
+matter of the Navy’s responsibility. On the other hand, to the extent that it implies
+AGJV was not made whole by the extra time granted by the Navy in the two
+modifications, it is mistaken, since that was the point of the two negotiated
+modifications in question—both of which characterized themselves as acting as an
+“accord and satisfaction” for the extra time required (R4, tab 26 at GOV 1218, 28
+at GOV 1226).
+
+       III. A Differing Site Condition?
+
+        Appeal No. 61252 is about an alleged differing site condition: to use a
+descriptive, but far from technical, term, the site turned into a muddy mess during the
+rains that occurred after the site was cleared, and the soil was too weak to support the
+construction in some areas. Muddy fields may, to the casual observer, seem to be the
+kind of thing one would expect to follow heavy rains, but AGJV asserts that the soil
+was of a character that was far worse than should have been anticipated based on the
+government’s description of it, leading to far greater time and expense to remedy than
+should have been expected.
+
+       A. Relevant Contract Documents
+
+          1. Contract Provisions Governing the Site and its Investigation
+
+        As would be expected, the contract included the standard differing site
+conditions clause prescribed by the FAR 52.236-2, DIFFERING SITE CONDITIONS
+(APR 1984), which it incorporated by reference (see R4, tab 24 at GOV 1188). The
+solicitation also included the site visit requirement associated with the differing site
+conditions clause in both, FAR 52.236-27, SITE VISIT (CONSTRUCTION)
+(FEB 1995), which was included verbatim in the document (id. at GOV 1168), and a
+similar provision, FAR 52.236-3, SITE INVESTIGATION AND CONDITIONS
+AFFECTING THE WORK (APR 1984), acknowledging that the contractor had
+investigated the site and was satisfied that it understood the conditions that would
+affect the work, which was incorporated by reference (id. at GOV 1188). 7 The site
+visit provision specified that a site visit would be scheduled and included as an
+
+6
+  Contract Modification No. A00002 previously increased the contract price by $2,559
+       to pay for the removal of asbestos pipes (R4, tab 27 at GOV 1222).
+7
+  The two provisions are not contradictory and serve slightly different purposes.
+
+                                            4
+amendment to the solicitation (id. at GOV 1168), which, in fact, happened (R4, tab 10)
+and was attended by Larry Zimmerman on behalf of John Grimberg Company
+(Grimberg) (R4, tab 12 at GOV 1037). 8
+
+       Two parts of the RFP discussed the subsurface data (primarily in the guise of
+boring logs and what the respective party’s responsibilities were. It would be fair to
+say that, in general, the Navy sought to avoid making too many promises about what
+would be encountered. In Part 3 of the RFP, Section G10 on site preparation, the
+Navy wrote that:
+
+                A Geotechnical exploration has been performed at the site,
+                and the data obtained is presented in a Geotechnical Data
+                Report included in this RFP. The subsurface data and
+                information presented in the report are only for the
+                Contractor’s information and are not guaranteed to fully
+                represent all subsurface conditions. The Government
+                shall not be responsible for any interpretation or
+                conclusion by the Contractor drawn from the data or
+                information.
+
+                The Geotechnical Data Report included with this RFP is
+                provided only to better convey data (boring logs, testing,
+                etc) or to document observed site conditions.
+                Requirements stated in Part Three and Part Four of this
+                RFP take precedence over any content included in the
+                Geotechnical Data Report.
+
+                The Contractor is required to retain a geotechnical
+                engineer experienced and licensed in the geographic region
+                of the project to interpret the provided data as related to his
+                design concept and develop requirements for bidding.
+                Additional requirements for the geotechnical design of this
+                project are provided elsewhere in this RFP.
+
+                Minor variations between borings should be anticipated.
+                The Contractor shall bear all costs associated with the site
+                preparation and actual foundation except as allowed by the
+
+8
+    The government notes in its proposed findings of fact that neither the joint venture,
+         nor its subcontractors attended the site visit; rather, only Mr. Zimmerman came
+         on behalf of Grimberg (gov’t br. at 35). Since the joint venture is comprised of
+         employees of its constituent companies, this strikes us as an insignificant
+         quibble.
+
+                                              5
+             Contract Clause FAR 52.236-2, “Differing Site
+             Conditions”. The Contractor’s Geotechnical Engineer
+             shall perform additional subsurface investigation as
+             required to adequately determine all applicable
+             geotechnical factors including the type and capacity of the
+             project foundation(s). The Contractor’s Geotechnical
+             Engineer shall consider the provided information and any
+             additional information obtained and prepare a report as
+             described in other portions of this RFP.
+
+(R4, tab 5 at GOV 450)
+
+       In Part 4 of the RFP, Section A10, Foundations, the General section provides in
+relevant part:
+
+             Government Provided Subsurface Information
+
+             Subsurface data and information is only for the
+             Contractor’s information and is not guaranteed to fully
+             represent all subsurface conditions. The Government shall
+             not be responsible for any interpretation or conclusion by
+             the Contractor drawn from the data or information. See
+             Geotechnical Report located in Part Six.
+
+             The assumptions, analysis, and recommendations of the
+             accompanying “data geotechnical” report were developed
+             for preliminary planning purposes only and may not be
+             based upon present project requirements. Requirements
+             stated in Parts 3 and 4 of the RFP take precedence over any
+             content of any included “data geotechnical” report.
+
+             The Contractor shall commission the services of a
+             geotechnical engineer registered as a Professional Engineer
+             and experienced with the soils in the Geographic region of
+             the project.
+
+             The Design Build Contractor’s Geotechnical Engineer
+             shall perform subsurface investigations and laboratory
+             testing and submit a soils report of the soil present on the
+             project site.
+
+(R4, tab 6 at GOV 475)
+
+
+                                           6
+          2. The Government-Provided Boring Logs
+
+       As alluded to in the contract sections above, Part 6 of the RFP included boring
+logs created by Dewberry & Davis, LLC, a firm that the government contracted to
+perform the geotechnical investigation (R4, tab 8 at GOV 853-942). Interestingly
+enough, the laboratory testing associated with this work was performed by ECS
+Mid-Atlantic, LLC (see id. at GOV 913)—the same company that (we shall see in the
+next section) AGJV would later hire as its geotechnical engineer. There were
+12 boreholes in the planned location of the building and five in the planned location of
+the parking lot and access roadway areas (R4, tab 156 at GOV 28903-04, 29010).
+
+        We will spare the reader a borehole-by-borehole description of what was found,
+but we have reviewed them and find them consistent with the general description
+provided by the Navy’s geotechnical engineering expert, Mr. Karl Hren, P.E., which is
+that the near surface soils were clays and fine-grained silts (Hren decl., ¶¶ 7, 13-15).
+More specifically, the top four feet were all fine-grained, CL, ML, or CH soil types (id.
+¶ 15; R4, tab 8 at GOV 858). 9 The CL soils, which were the most common type of soil
+characterized in the boring logs (see R4, tab 8 at GOV 858), are known as “lean clays”
+(see R4, tab 8 at GOV 868)—a fact that will have some salience much later in this
+opinion.
+
+         According to Mr. Hren (and consistent with our review of the boring logs in the
+RFP (see R4, tab 8 at GOV 871-905)), in the upper two feet of the soil samples, the
+“blow count” was consistent with soil that was, for the most part, “soft” to “medium
+stiff” 10 (Hren decl. ¶¶ 12-13). No evidence has been presented by AGJV that
+contradicts the accuracy of this characterization. Moreover, no evidence has been
+presented that there was anything wrong or flawed about the Dewberry & Davis
+reports or the methodology that they used.
+
+       B. AGJV’s Geotechnical Reports
+
+      As required by the contract, AGJV retained its own geotechnical expert prior to
+beginning its excavation work: ECS Mid-Atlantic, LLC (ECS). ECS provided a
+
+9
+  Mr. Hren states that all were CL, ML, or CH in the first four feet, but we note that,
+       for borehole B-10, the sample between two-and-a-half feet and four feet depth
+       was MH (see R4, tab 8 at GOV 858). MH is a fine-grained silt that sits
+       between CL and CH on the “Uniform Soil Classification System” chart that
+       accompanied the boring log report in the RFP (see R4, tab 8 at GOV 868).
+       Thus, the slight misstatement is of trivial import.
+10
+   The consistency of silt and clay soil is described in a spectrum, with the grades
+       running from “very soft” to “soft” to “medium stiff (firm)” to “stiff” to “very
+       stiff” and then “hard” and, finally, “very hard” (see R4, tab 8 at GOV 870).
+
+                                           7
+preliminary report to AGJV on August 6, 2009 (Hren decl. attach.) and a more
+comprehensive one on March 12, 2010 as revised on August 20, 2010 (R4, tab 156).
+The later report relied on the government-provided boring logs from
+Dewberry & Davis for much of its conclusions, though ECS had considered its
+knowledge of the region and also run two seismic lines and conducted three shallow
+“hand auger” borings of its own upon which it performed laboratory work (R4, tab 156
+at GOV 28899, GOV 28903-07). A map of the boring locations included in the ECS
+report shows that ECS’s three hand-augered sites were generally in the area in which
+the parking lot would be built (id. at GOV 29010). In multiple locations, the report
+qualified that its conclusions were based, in part, upon the Dewberry & Davis boring
+data for which it did not vouch since it was not involved in collecting it (see, e.g., R4,
+tab 156 at GOV 28904 (“we cannot be responsible for the completeness and accuracy
+of [this] information”), GOV 28911, GOV 28921)).
+
+        In general, the report described the data as to be consistent with what would be
+expected in the site’s geographic location (R4, tab 156 at GOV 28909). The report
+also included numerous warnings about the potential for soft soil conditions 11 and
+pro-active steps that AGJV would need to take to ensure that the soils were not made
+unsuitable. The list of steps was long and included: the use of a smooth-drum roller at the
+end of every workday to seal the fill or subgrade material to prevent infiltration of
+moisture (id. at GOV 28912, 28921); keeping “[t]he surface of the site . . . properly graded
+in order to enhance drainage of the surface water away from the proposed construction
+areas during the earthwork phase” (id. at GOV 28920-21); after the final subgrade
+elevation was established during grading, “protect[ing the surface] with the required
+thickness of compacted graded aggregate to reduce erosion potential and loss of subgrade
+strength” (id. at GOV 28921); making it the “earthwork contractor’s responsibility to
+maintain the site soils within a workable moisture content range to obtain the required
+in-place density and maintain a stable subgrade . . . [including] [s]carifying and drying
+operations” as a matter of course and not an extra (id.); and, finally, “that construction
+equipment cannot be permitted to randomly run across the site, especially once the desired
+final grades have been established. Construction equipment should be limited to
+designated lanes and areas, especially during wet periods, to help minimize disturbance of
+the site subgrades.” (Id.)
+
+        In short, ECS identified many things that could go wrong to make the soils
+at the site unsuitable and recommended several actions to prevent this.
+
+
+11
+     As a matter of course, the report noted that the cleared and graded area should be
+         subject to a “proofrolling” and other “special efforts” to identify localized areas
+         of soft or unsuitable soils, which should be removed (R4, tab 156
+         at GOV 28911). This indicates to us that, given the conditions reflected in the
+         government’s data, such localized unsuitable areas were to be expected.
+
+                                               8
+       C. What Happened During Contract Performance?
+
+          1. At the Building Pad
+
+        “Clearing and grubbing” (removing vegetation) at the building site began on
+March 17, 2011 (Bricker rebuttal decl. ¶ 24; R4, tab 289 at GOV 29765). After that
+work was accomplished, AGJV’s earthworks contractor began preparing the area of
+the building pad for the foundation. In general terms, AGJV planned to strip off the
+first two feet of soil (the soil that had been characterized as soft to firm) and place an
+amount of “fill” on top of the remaining soil, which AGJV expected to be very firm, as
+reflected in the boring logs (Graham rebuttal decl. ¶ 14). To ensure that the soil was,
+in fact, firm enough to support the foundation, AGJV’s contractor performed a
+“proofing” or “proof rolling” test 12 on May 9, 2011 (Hurt rebuttal decl. ¶ 6). The soil
+failed that test (id.; app. supp. R4, tab 78 at APP 638). Photos and undisputed
+testimony provided by AGJV show that the earth was, in fact, a wet mess and anything
+but firm (see Hurt rebuttal decl. ¶ 11; app. supp. R4, tab 140). An ECS employee on
+site was able to insert a metal rod approximately 18 inches into the soil with ease (app.
+supp. R4, tab 141 at APP 2578). Mr. Robert Hurt (AGJV’s project superintendent on
+the site) reported in a contemporaneous email that about half the soil at the building
+pad location needed to be excavated an additional one or two feet and replaced with
+fill (app. supp. R4, tab 140 at APP 2566).
+
+        The government, through Mr. Karl Hren’s declaration, alleges that there was a
+reason for that: AGJV did little to protect the excavated area from the elements 13
+(see Hren decl. ¶ 20). In rebuttal, Mr. Craig Bricker, who was AGJV’s quality control
+manager for much of the project, alleges that, actually, AGJV’s subcontractor did
+perform grading of the site to promote proper drainage (see Bricker rebuttal decl.
+¶ 27). A problem, however, with Mr. Bricker’s observations is that he was assigned to
+a different project from March 22, 2011 to July 8, 2011 (see Bricker rebuttal decl. ¶ 3),
+which means that his discussions about matters at this time are not based on first-hand
+knowledge. Mr. Hurt testified in his declaration that, although he could not “recall all
+of the specific details of the construction of the Project on a daily basis,” he did recall
+
+12
+   A “proofing” or “proof rolling” test involves rolling a loaded piece of equipment
+       over the soil to identify unsuitable or unstable soils (see R4, tab 156
+       at GOV 28911).
+13
+   The government also provides the declaration of Mr. Joshua Wustner, the
+       Navy’s on-site engineering technician, who provided his first-hand observations
+       of drainage and other issues at the site (see Wustner decl. passim). But
+       Mr. Wustner, as AGJV points out, was not assigned to work on the project until
+       December 2011 (see id. ¶ 1), hence his observations would not be pertinent to
+       the spring and summer of 2011 when issues arose for the area of the building
+       pad.
+
+                                             9
+the standard operating procedure used by Grimberg when he was with the company
+and that would have included grading the site to drain and constructing a berm to
+divert water from the site as well as using a hose to pump out any water (Hurt rebuttal
+decl. ¶¶ 8-9). Indeed, the berm and hose may be seen in a photograph, dated
+March 23, 2011, attached to Mr. Hurt’s declaration (id. ¶ 10). 14 AGJV further states in
+its proposed findings of fact that its procedures also called for using a plastic tarp to
+cover the site at night or when it rained and that, in fact, it did so—pointing to a small
+white bundle in two of the accompanying photographs of the site that is supposedly the
+tarp (see app. br. at 76-77 (¶¶ 219-20)). This assertion of counsel is completely
+unsupported: the two declarations cited by AGJV (the Hurt Rebuttal Declaration and
+the Bricker Rebuttal Declaration, see app. br. at 76-77) make no reference to the tarp,
+much less its being a standard operating procedure; moreover, the white bundle in the
+photographs (see app. br. at 77; duplicating photos at app. supp. R4, tab 140
+at APP 2567, APP 2572), if it even is a tarp, appears relatively small and the photos
+are no evidence that it was ever used. We reviewed government quality control logs
+from March 2011 through July 2011 and, notwithstanding AGJV’s grading or other
+efforts, see multiple instances of the site being wet and unworkable after heavy rains
+(R4, tab 289 at GOV 29766-69) and no indication of tarps or other such implements
+being utilized (id.). AGJV’s daily reports likewise, generally show a number of
+instances of the site being too wet to work at and make no indication of the use of tarps
+(app. supp. R4, tab 78, passim).
+
+             2. The Parking lot and Roadway Areas
+
+       AGJV’s excavation contractor encountered similar problems with the
+excavation for the parking lot and roadways. As early as April 6, 2011, AGJV
+reported to the government that it was encountering unsuitable soils during its roadway
+excavation and needed to temporarily halt its excavation activities on the site (app.
+supp. R4, tab 137). By April 29, 2011, AGJV’s project manager, Mr. Joseph Duda,
+reported in an internal email that the company had decided that the problem with the
+access road could be temporarily remedied by use of geotextile and stone and that
+“[b]y summertime, these soils should dry out and be more suitable for use as
+contemplated in the soils report” (app. supp. R4, tab 139).
+
+       On June 23, 2011, Mr. Hurt sent an email to Ensign Seth Jones, the contracting
+officer’s technical representative (COTR), reporting that the soil in the roadway had
+too high a moisture content and that AGJV would need to bring in structural fill for
+use on the roadway (app. supp. R4, tab 145). On July 28, 2011, Mr. Duda sent an
+
+14
+     Although Mr. Hurt does not state as much, that same photograph, taken just a few
+         days after the clearing and grubbing operations began, shows a greatly
+         disturbed landscape (Hurt rebuttal decl. ¶ 10), as one might expect, given the
+         work recently done to remove the trees and shrubbery that had been present.
+
+                                             10
+email to Ensign Jones about the excavation in the parking lot area, reporting that
+AGJV had done its rough excavation over a month earlier and allowed the area to dry,
+but that it still had too high a moisture content, requiring further undercutting of the
+excavated area and bringing in more structural fill (app. supp. R4, tab 150
+at APP 2626). 15
+
+        The record does not indicate any further significant issues in the excavation
+until almost a year later, in May 2012, when AGJV’s subcontractor was working on
+the site entrance and connection to the nearest local road (Benson Road). According
+to an HCEA field report, on May 11, 2012, after the excavation subcontractor,
+Jimmy Richards, had cut the eastern half of the site entrance area to subgrade
+elevation, HCEA, performed a proof roll which revealed “unstable areas.” Just as ECS
+had used a probe near the building foundation in the prior year. HCEA used one
+at this location for the unstable areas and found it was able to penetrate 8 to 20 inches.
+(App. supp. R4, tab 283 at APP 3526) The HCEA notes don’t directly say so, but it
+appears that the worst of it was in the first 15 feet of the entrance road, which HCEA
+recommended be cut an additional two feet and filled with river gravel, while the
+remaining 115 feet of this portion of the road was recommended be cut only an
+additional one foot and filled with river gravel (id.).
+
+       The record does not reflect what efforts, if any, were used to dry the Benson
+Road entrance area between the time that Jimmy Richards cut it in the first instance
+and HCEA proof rolled it. A May 17, 2012 proof-rolling of the parking lot area
+performed by HCEA found “[a] few areas” that were unstable due to recent rainfall
+and due to ponding occurring in the area. HCEA recommended that Jimmy Richards
+drain the area, which it did, and it was able to pass the proof-rolling the next day. 16
+(App. supp. R4, tab 283 at APP 3527-28)
+
+15
+   At some point, about the time that differing site conditions issues first came to a head,
+       AGJV changed both its earthwork subcontractor and its supervisory geotechnical
+       subcontractor. Its original excavation subcontractor was “Division 2” (see, e.g.,
+       app. supp. R4, tab 78 at APP 529), but no reference of that company is made after
+       July 8, 2011 (see id. at APP 711). “Jimmy Richards”, which was involved from
+       the beginning of the project (see, e.g., id. at APP 546) is the excavation contractor
+       we see discussed moving forward (id. passim). Likewise, the geotechnical
+       subcontractor, ECS, which last appears in AGJV’s daily logs on June 24, 2011
+       (id. at APP 704), seems to have been replaced by Hillis-Carnes (also referred to
+       as HCEA) by June 27, 2011 (id. at APP 706). The record does not reflect why
+       these changes were made.
+16
+   There appears to be some disconnect on the date because there are two HCEA
+       reports dated May 17, 2012, but they appear to be discussing matters that
+       happened a day or two apart (see app. supp. R4, tab 283 at APP 3527-28). We
+       do not perceive this to be a significant issue.
+
+                                           11
+         On May 31, 2012, work on the western side of the road entrance is alleged to
+have encountered similar problems to those on the eastern side of the road entrance:
+after cutting the area two feet, Jimmy Richards was advised by HCEA to cut another
+foot to remove unsuitable material that remained (app. supp. R4, tab 283
+at APP 3663). 17 Oddly, AGJV’s own daily report for this date notes that the “2 foot
+cut was determined to reach solid ground” (id. at APP 3648), which suggests that the
+two-foot cut had reached suitable soils. Whatever the case, by email sent that day,
+Mr. Bricker notified Ensign Jones that AGJV had encountered a differing site
+condition at the west side of the entrance and that AGJV would proceed as directed by
+its geotechnical consultant unless directed otherwise (id. at APP 3640-41). In
+response, Ensign Jones stated that the Navy did not consider there to be a differing site
+condition but directed AGJV to remove any unsuitable soil and replace it with suitable
+fill as required by the contract (id. at APP 3640).
+
+      AGJV does not appear to have alleged any other differing site conditions
+beyond those discussed above.
+
+         D. Evidence About What AGJV may Have Done to the Condition of the Site
+
+        The Navy has submitted evidence, primarily through a declaration by Mr. Joshua
+Wustner, who was the Navy’s on-site engineering technician, that AGJV did a poor job
+controlling the wet conditions on the site (see generally Wustner decl. ¶¶ 6-11).
+Mr. Wustner who, it should be noted, did not become involved with the project until
+December 2011 (see id. ¶ 1), asserted that the site was lacking in ditches, mounds, and
+dikes that would have helped abate the watering issues (id. ¶ 9). Mr. Wustner also
+discussed the concurrence of geothermal well drilling on site (which used a drilling
+fluid that created a slurry) made for a “soupy mess everywhere” (id. ¶ 7). Other
+excavations on the site for utilities only added to the disturbed soil (id. ¶ 8). According
+to Mr. Wustner, he remembers returning to his office from the site often during the
+winter and spring of 2011-2012 and tracking in muck and mud (id. ¶ 7). Mr. Wustner
+also makes the point that the entry road had been used throughout construction by all
+the trucks and heavy equipment entering and leaving the site prior to the proof roll
+failures in December 2011 and May 2012 so the soil there had been significantly
+disturbed by AGJV (id. ¶ 5).
+
+       AGJV, needless to say, does not think very highly of Mr. Wustner’s testimony
+and offered multiple declarations in rebuttal to him. Mr. Hurt’s rebuttal declaration
+discusses the geothermal wells being dug in November and December of 2011,
+meaning that they could not have been at issue for the building pad (Hurt rebuttal decl.
+
+
+17
+     HCEA, in fact, noted saturated soils, with deep ruts from contractor trucks the
+        previous day (app. supp. R4, tab 283 at APP 3662).
+
+                                             12
+¶ 13). But Mr. Wustner does not allege that they were related to the building pad
+problems, which occurred well prior to his involvement in the project.
+
+        Mr. Bricker provided a far more extensive rebuttal declaration challenging
+Mr. Wustner’s testimony (see Bricker rebuttal decl. passim). Mr. Bricker first takes issue
+with Mr. Wustner’s statement that he observed a proof-roll failure at the main entrance in
+December 2011 (see id. ¶ 7 (citing Wustner decl. ¶ 6)). According to Mr. Bricker, there
+was no proof roll test at the main entrance until May 11, 2012 (id. ¶ 8). More
+significantly, Mr. Bricker states that Mr. Wustner was wrong to allege that the problems
+with the main entrance were caused by its use for construction traffic since the
+“outbound” side of the entrance, where the most problems were encountered, was not
+used by construction traffic, (id. ¶ 12) though, presumably, that meant that the “inbound”
+side of the entrance was. Mr. Bricker further states that the geothermal wells (drilled
+several months before the problems with the entrance were encountered) were far enough
+away from the entrance not to have caused an issue with it (id. ¶¶ 14-17). He also stated
+that the utility trenches, which Mr. Wustner had identified as a contributor to soil
+instability along with the geothermal well drilling (id. ¶ 21 (citing Wustner decl. ¶ 10)),
+were far from the site of the geothermal wells (id. ¶ 21) and only “to the right” of the
+outbound lane and “away from” the cut area for the entrance (id. ¶ 26). In general, the
+excavations identified by Mr. Wustner were, according to Mr. Bricker, performed several
+months before the cut on the main entrance (id. ¶ 25). Mr. Bricker also takes issue with
+Mr. Wustner’s statements that broken water lines had flooded the property on numerous
+occasions (id. ¶ 28 (citing Wustner decl. ¶ 26)). Mr. Bricker conceded that AGJV’s
+subcontractors had damaged government property two or three times, but did not recall a
+broken water line flooding the site (id. ¶ 28).
+
+        As a matter of fact finding, we find Mr. Bricker’s statements of fact generally
+credible, but their effect on the general issues raised by the Wustner testimony is
+limited. With respect to the divergence in dates for the proof roll failure at the
+entrance, we have reviewed AGJV’s and the government’s contemporary quality
+control reports for that time period and found that they reflect compaction testing by
+AGJV’s geotechnical contractor on December 22, 2011 and many other days
+throughout the late December/early January 2022 time period, but no proof rolling
+at the entrance in December 2011 (see, e.g., R4, tab 289 at GOV 29782; app. supp. R4,
+tab 78, APP 939, APP 941, APP 943, APP 949, APP 958, APP 960, APP 970). This is
+not a particularly significant issue and very little of the Wustner declaration rests upon
+it. We have looked at the location of the geothermal wells as denoted in the
+photographs accompanying Mr. Bricker’s rebuttal declaration (see Bricker rebuttal
+decl. ¶¶ 18-20) and compared them to the best general map of the construction site that
+we have found in the record (R4, tab 9 at GOV 1011) and agree that the geothermal
+drilling sites seem to be some distance from the entrance road. Does that mean that
+the slurry from the geothermal drilling would have had no effect on the entrance road?
+Perhaps not, but Mr. Wustner does not allege that it did; merely that it contributed to
+
+
+                                           13
+the general mess of the site. Of far greater importance is the status of the cut at the
+entrance road. We have also looked at the entrance and exit roads depicted in the map
+of the construction site and they are adjacent to each-other (see id.), and we have little
+faith that construction equipment traversing the entrance road to and from the building
+site would limit itself completely to the “inbound” side of the entrance, much less that
+it would leave this adjacent area undisturbed. Moreover, the utility trench adjacent to
+the outbound lane of the entrance ramp is another clear source of disruption for nearby
+soils. We have also reviewed the daily reports and find three or four incidents of
+AGJV or its subcontractors striking pipes that subsequently disgorged water into the
+site (see app. supp. R4, tab 78 at APP 608-09 (April 18, 2011 water main strike);
+tab 78 at APP 676 (June 6, 2011 water line strike); R4, tab 289 at GOV 29767 (same);
+R4, tab 289 GOV 29768 (June 24, 2011 broken fire hydrant); app. supp. R4, tab 78
+at APP 7510-51, 753 (August 8, 2011 sewer line broken, continued leaks the following
+day); R4, tab 289 at GOV 29772 (same)). Ensign Jones, the COTR, discusses all of
+these incidents in detail in the declaration he submitted for this appeal, and his
+narrative description leaves little doubt that these incidents significantly disturbed the
+soil (see Jones decl. ¶ 15). The evidence, then, is consistent with a finding that,
+regardless of the fine details, AGJV’s subcontractors did not do a particularly good job
+of keeping the ground dry and undisturbed, and the soils, in particular, at the entrance,
+took a beating.
+
+       E. What the Parties’ Respective Experts Have to say
+
+       The government has provided the expert testimony of Mr. Karl Hren
+(mentioned in section III. A. 2. above). Mr. Hren, a Professional Engineer (P.E.) is a
+NAVFAC employee whose job for the six years prior to executing his declaration for
+this appeal was to be an in-house geotechnical expert for the Navy (Hren decl. ¶¶ 1-2).
+He received a masters degree in geotechnical engineering from the University of
+Florida in 1994 and has been working in the field ever since (id. ¶¶ 1-3). AGJV has
+made no objection to his being considered an expert and we consider him to be an
+expert in the field of geotechnical engineering.
+
+      Mr. Hren’s bottom line is that, based upon the soils reflected in the borings,
+what happened at the site was AGJV’s fault and it should have known what to expect
+(Hren decl. ¶¶ 21-22). We will break this down somewhat.
+
+       First, Mr. Hren discussed the nature of the soils reflected in the boring logs. As
+discussed above, he characterized the top four feet of the site as fine-grained, CL, ML,
+or CH (Hren decl. ¶ 15). These soil types, Mr. Hren explained “are generally
+recognized in the construction industry as being more difficult types of soils in which
+to control moisture and allow recompaction once disturbed” (id.). Mr. Hren makes the
+further observation that AGJV has presented no evidence that the soils were anything
+but what the boreholes said they would be (id. ¶ 16). Though we, of course, are the
+
+
+                                           14
+ultimate arbiters of what AGJV proved and didn’t prove, we take this portion of
+Mr. Hren’s testimony to mean that the evidence presented by AGJV of the field
+conditions was not inconsistent with the borehole records being an accurate
+representation of the conditions of the site when they were taken.
+
+       Mr. Hren also testifies that his review of the daily reports showed that AGJV
+had “repeatedly disturbed the soil and allowed rain water and water from broken
+underground water lines at or near the site to saturate the soil” (Hren decl. ¶ 16). His
+view of the effect of the geothermal drilling fluid that was on the site near the wells
+was that it contributed to water retention and thus weakening of the soil (id.).
+
+        Mr. Hren addresses AGJV’s contention that, after it stripped the top layers of
+the soil, the remaining soil should have been strong enough to support the
+construction. He states that this would only be true if the soil were as stiff as AGJV
+stated it was (which Mr. Hren found to be an exaggeration of the boring reports) and if
+the soils had been immediately protected after clearing and grubbing and that existing
+soils had been protected from rainwater and other site activities that would have
+weakened them. (Hren decl. ¶¶ 19-20)
+
+       We recognize that, as a Navy employee, Mr. Hren has reason to be biased in
+favor of the Navy, and take that into account when weighing his testimony.
+Nevertheless, we find that his testimony is consistent with what we have observed in
+the record, the recommendations made by AGJV’s original geotechnical consultant,
+ECS, and our review of the boring records. We thus find him to be credible.
+
+        AGJV does not present any expert testimony, per se, but does present the
+testimony of its estimators and personnel on site to rebut the factual bases of
+Mr. Hren’s testimony. Mr. James Graham, a professional engineer licensed by the
+state of Maryland with more than 40 years of experience in construction and a
+principal of Grimberg was the estimator for the project (Graham rebuttal decl. ¶¶ 2-9).
+He testified that based upon the geotechnical data provided in the RFP, AGJV
+expected that it could remove the top two feet of soil on the site, which would leave
+soil suitable for proof rolling (id. ¶¶ 12-14). Mr. Graham further discussed the soils
+near the roadway entrance, explaining that the inbound lane passed the proof rolling
+testing but the outbound lane did not (id. ¶18). He then explained that, based on the
+single boring taken near the entrance, he had expected to need to excavate only
+two feet, down to the 106.8-foot subgrade, but, instead, was required to excavate down
+to the 105.12-foot subgrade. 18 (Id. ¶¶ 20-21) Although his declaration is characterized
+as a rebuttal of Mr. Hren’s (and others’) (see id. ¶ 1), Mr. Graham does not directly
+address any of Mr. Hren’s conclusions or statements of fact.
+
+
+18
+     This is approximately 1.7 feet deeper.
+
+                                              15
+       Mr. Hurt’s rebuttal declaration also purports to refute Mr. Hren’s testimony
+(see Hurt rebuttal decl. ¶ 1), but does not address his contentions directly. Instead, it
+makes the point that Mr. Hren was not at the site (id. ¶ 6) and remarks that the
+geothermal drilling occurred long after the problems were encountered at the building
+pad (see id. ¶ 13). As discussed above, Mr. Hurt also explained the general approach
+to dewatering and protecting excavations that he performed while working for
+Grimberg and that he believed were done on the site in question (id. ¶¶ 8-10).
+
+        Mr. Duda (previously identified as AGJV’s project manager) provided a
+rebuttal declaration that made the point that the geothermal wells were installed long
+after the building pad (see Duda rebuttal decl. ¶ 4), but made no other challenge to
+Mr. Hren’s testimony.
+
+       F. AGJV Submits and the CO Denies a Differing Sites Condition Claim
+
+        On February 15, 2013, AGJV submitted a request for equitable adjustment
+(REA) to the contracting officer (CO) seeking $294,305 in increased costs due to
+unsuitable soils. The REA explicitly provided that it did not seek delay damages,
+which would be sought in a separate REA. (R4, tab 533 at GOV 31768) The parties
+have not pointed to any government response to this REA and on December 15, 2016,
+AGJV submitted a certified claim to the CO seeking $185,096 in costs incurred due to
+differing site conditions related to the soil at the building pad and the west and east
+sides of the Benson Road connection to the building (R4, tab 575 at GOV 32892,
+32894-96). Like the REA, this claim reserved the right to seek delay damages at a
+later time (id. at GOV 32897). Nevertheless, there is no evidence of a further claim
+seeking delay damages based upon the alleged differing site conditions. On July 14,
+2017, the CO issued a summary decision denying the claim in its entirety (app. supp.
+R4, tab 285).
+
+      AGJV timely appealed this decision to the Board and we docketed it as Appeal
+No. 61252.
+
+       IV. AGJV Wants to Work Extra Hours, Including Weekends; the Navy Only
+           Gives it Some of What it Wants
+
+       Though it does not appear that site issues appreciably delayed the project
+(AGJV never having made a delay claim based upon differing site conditions), by late
+2011 / early 2012, it was clear to AGJV that it was running behind schedule and would
+have difficulty completing the project before its completion date. As we discuss in
+more detail below, AGJV sought the government’s permission to work beyond the
+usual hours set forth in the contract (something the contract permitted it to request and
+the CO to grant), but the Navy denied its blanket requests for weekend work even
+though the Navy did permit extra hours of work during the week and work on a
+
+
+                                           16
+handful of Saturdays. AGJV would ultimately claim this denial of blanket work hour
+extensions to be a breach of contract, pursued here in Appeal No. 61402.
+
+       A. Contract Provisions Governing Working Hours
+
+       There are two clauses governing the working hours in the contract.
+Specification 1.2.2., Working Hours, provides:
+
+              Regular working hours shall consist of an 8 ½ hour period
+              established by the Contracting Officer, between 7 a.m. and
+              3:30 p.m., Monday through Friday, excluding Government
+              holidays.
+
+(R4, tab 4 at GOV 104)
+
+      And the relevant portion of Specification 1.2.3, Work Outside Regular Hours,
+provides:
+            Work outside regular working hours requires Contracting
+            Officer approval. Make application 15 calendar days prior
+            to such work to allow arrangements to be made by the
+            Government. Based on the justification provided, the
+            Contracting Officer may approve work outside regular
+            hours. . . .
+
+(R4, tab 4 at GOV 104)
+
+       B. Evidence Presented by ACJV About its Experience With Similar Clauses in
+          Other Contracts (and Limitations on That Evidence)
+
+       Working hour provisions in a government contract are not unique.
+Mr. Grimberg explained in his declaration that similar provisions existed in other
+government contracts that his company had performed and he specifically cited to
+three of them involving the Navy during approximately the same time period
+(see Grimberg decl. ¶¶ 13-14). Mr. Grimberg has reproduced the working hours
+sections of these contracts and, in some ways, they are quite similar to the present
+provisions, but, in others, somewhat different (see id. ¶ 14).
+
+       The first contract cited by Mr. Grimberg, “the Explosives Contract” varied from
+the contract here because it had slightly different working hours, a shorter period for
+requesting authority to work outside the hours, and a comprehensive list of
+information required to be provided in the request (see Grimberg decl. ¶ 14 a.). We do
+not consider these differences to be material to the dispute here.
+
+
+                                           17
+       The second contract cited by Mr. Grimberg, “the Buildings 3 & 5 Contract”
+at the Naval Medical Center at Bethesda, MD, awarded in September 2010 and
+performed during the same time period as the contract here (see Grimberg decl.
+¶ 13 b.) differed more significantly, including not only the 8 1/2 -hour period for
+Mondays through Fridays, but also 7 a.m. through 11 p.m. on Saturdays. Hours
+outside of these times required a request 20 days beforehand. (See Grimberg decl.
+¶ 14 b.) The inclusion of two full shifts for Saturday is, to us, a material difference.
+
+        The final contract cited by Mr. Grimberg, “the Dahlgren contract,” provided
+that regular working hours would be for 8 1/2 hours Monday through Friday. The
+section dealing with hours outside of regular hours was similar to that in the present
+contract, but did not include the phrase stating that, “[b]ased on the justification
+provided, the Contracting Officer may approve work outside regular hours.”
+(See Grimberg decl. ¶ 14 c.)
+
+       Mr. Grimberg testified that, based on his many years of government contracting
+experience (and the Board agrees that his experience has been substantial (see
+Grimberg decl. ¶¶ 2, 4)), he expected that the Navy would exercise its discretion to
+allow work outside of regular hours “reasonably, as it had done previously” (id. ¶ 18).
+He further stated that, based upon this experience, AGJV bid upon the contract, with
+the expectation that the Navy would reasonably exercise its discretion to allow work
+outside of regular hours (id. ¶ 19).
+
+       Although it is certainly possible that its experience with other unspecified
+contracts informed AGJV’s bid with respect to the working hours issue, we find it
+unlikely that AGJV’s experience with the three contracts specified in Mr. Grimberg’s
+declaration did. That’s because of their dates. Recall that the contract was awarded on
+September 30, 2009. According to the exhibits attached to Mr. Grimberg’s
+declaration, the RFP for the Explosives Contract was issued on May 19, 2008
+(Grimberg decl., ex. 1 at 1). We do not know when the contract was awarded or work
+begun, but it was plainly some time after its RFP was issued. For the Buildings 3 & 5
+Contract, the exhibit attached to Mr. Grimberg’s declaration indicates that it was
+issued on June 21, 2010 (Grimberg decl., ex. 2 at 1), almost a year after contract award
+in our case. And for the Dahlgren contract, the exhibit attached to Mr. Grimberg’s
+declaration, the specifications are dated February 25, 2013 (Grimberg decl., ex. 3 at 2)
+and forwarded to John Grimberg, Inc. on April 1, 2013 (id. at, 1), several months after
+performance on the contract here was concluded and years after the submission of
+AGJV’s bid. Thus, with the possible exception of the Explosives Contract, it was a
+temporal impossibility for AGJV’s experience with the identified contracts to have
+informed its bid on this contract.
+
+       We also note that Mr. Grimberg has not identified in what way and with any
+specifics the manner in which the Navy “reasonably” exercised its discretion in prior
+
+
+                                            18
+contracts, leaving us with no indication of how those exercises in discretion would
+compare to the Navy’s actions in the case before us.
+
+       In addition to Mr. Grimberg’s declaration on this subject, AGJV presents the
+rebuttal declaration of Mr. Graham, whose role as an estimator we have already
+discussed above for the differing site conditions issue. Mr. Graham stated that, other
+than this project, he did not recall any other project performed at the same location for
+the Navy in which requests to work outside the regular working hours were routinely
+denied (Graham decl. ¶ 16). This declaration is of limited utility to us because we
+have no idea how often such requests may have been made or how their circumstances
+would have compared to those in this contract.
+
+       C. AGJV Makes a Standing Request to Work Outside Regular Hours; the CO
+          Largely Denies it, but Gives AGJV Partial Relief
+
+        The first mention of working outside regular hours in the record (at least as
+identified in AGJV’s brief, (see app. br. at 32)) is an email from AGJV to the Navy,
+dated July 20, 2011, seeking permission to work Saturday July 23, 2011 from 6 a.m. to
+4 p.m. (app. supp. R4, tab 147 at APP 2622-23). The Navy denied that request, stating
+that it was the Navy’s “understanding that the nature of the work to be performed is
+not unusual or extraordinary and can be completed during normal working hours,
+Monday thru Friday” (id. at APP 2622). The next time this issue arose in the facts
+brought in this appeal 19 was in a discussion held between the parties on October 5,
+2011 and reflected in meeting minutes kept by AGJV in which AGJV was reminded
+that the coming Monday was Columbus Day, a federal holiday, and if AGJV wished to
+work on site that day, it would have to request it to the CO and “demonstrate gov
+benefit” (app. supp. R4, tab 33 at APP 157). AGJV has pointed to no evidence, and
+we have seen none, about whether this was, in fact, requested and whether it was
+granted.
+
+       On January 4, 2012, AGJV informed the Navy that it intended to begin
+requesting work on Saturdays “after the holidays” 20 (app. supp. R4, tab 44
+
+
+19
+   As will be discussed below, AGJV’s certified claim on this matter gave greater
+       emphasis to events that occurred in the spring and summer of 2011 (R4, tab 88
+       at GOV 1595-96), but the earlier dates are not the focus of the facts presented
+       by AGJV today (see app. br. at 32-44).
+20
+   The meeting minutes prepared by AGJV for January 18, 2012 suggest that this
+       statement was made at the preceding meeting, December 28, 2011, and that
+       during the January 4, 2012 meeting AGJV stated it would submit a justification
+       for the request (app. supp. R4, tab 46 at APP 229). This is consistent with the
+       “after the holidays” statement in the January 4, 2012 minutes, but the minutes
+
+                                           19
+at APP 216). Reference to the issue was made in the January 18, 2012 meeting
+minutes (see app. supp. R4, tab 46 at APP 229). Later meeting minutes reflect that,
+at the January 18, 2012 meeting, AGJV, in fact, formally requested “to work every
+Saturday from here until the end of the job” (app. supp. R4, tab 47 at APP 236) and
+that the Navy rejected it on January 25, 2012, the following week, stating that “a
+cost/benefit analysis was performed on the cost of the Navy working overtime vs the
+need for the delivery dates of the building” (app. supp. R4, tab 48 at APP 244).
+
+       The same day as that rejection, AGJV submitted a revised completion schedule
+to the Navy and implored it to allow work on Saturdays and “extended hours” 21
+despite its earlier rejections (app. supp. R4, tab 86 at APP 1789-90).
+
+        More discussions followed the January 25, 2012 rejection. Meeting minutes
+reflect requests for “after hours” or “off hours” 22 work made by AGJV on February 1,
+February 15, February 22, and February 29. All were denied. On March 7, 2012,
+apparently reflecting the Navy’s explanation, the minutes stated “[n]ot available to
+anyone. Has to be approved by the Navy Yard.” According to the minutes, on
+March 28, 2012, the Navy conveyed that “there is going to be no change on this.”
+(App. supp. R4, tab 56 at APP 311)
+
+       The next significant discussion about after hours work is reflected in the June 6,
+2012 meeting minutes in which AGJV wrote: “We would still like to continue
+requesting Saturdays as we have been – it would be a big help. We would even be
+willing as we have previously stated, to pay for Navy personnel who need to be here”
+(app. supp. R4, tab 64 at APP 396). At this meeting, though refusing to permit
+Saturday work, the Navy agreed to extend the work period on Mondays through
+Fridays 6:30 a.m. to 6:30 p.m. (app. supp. R4, tab 65 at APP 402). This extension of
+workday hours actually appears to have been permitted much earlier—starting in
+January 2012. According to an internal Navy email relied upon by the
+government’s scheduling expert, Mr. David Reichard, AGJV averaged 10-11 hour
+
+
+       of the December 28, 2011 meeting make no mention of it (see app. supp. R4,
+       tab 43).
+21
+   “Extended hours” was not defined in the letter, but the proposed completion
+       schedule attached to this letter included approximately a month of “night shift”
+       work on drywall installation (see app. supp. R4, tab 86 at APP 1791)
+22
+   Exactly how much “after hours” or “off hours” work AGJV was requesting is not
+       immediately clear from the record (except for the drywall installation “night
+       shift” discussed above), especially compared to the Saturdays it was more
+       explicitly and concretely requesting.
+
+                                           20
+days in February through May of 2012, with the average dipping to 8-10 hours in the
+June-July time period (Reichard Report at 41). 23
+
+       On three occasions in 2012, moreover, the Navy did allow work on Saturdays,
+apparently because it involved utilities: February 4, February 11, and September 29
+(app. supp. R4, tab 293 at APP 4823-24, APP 4851-54, APP 5700-03).
+
+        Although, as noted above, AGJV did take advantage of some of the extra
+weekday hours offered by the Navy (see also Gannon decl. ¶ 5), it generally found this
+to be an unsatisfactory solution. According to AGJV, construction workers tend to be
+less efficient during 12-hour days due to fatigue, so the gains in hours are offset by the
+loss in productivity (Grimberg decl. ¶¶ 33-35; Duda decl. ¶¶ 43-45; Greenwell decl.
+¶¶ 41-42). In the meantime, according to AGJV, one of the advantages of working
+two full shifts in a day is that the worksite can be less crowded so that workers for one
+trade will not get in the way of workers for another (Grimberg decl. ¶ 36; Duda decl.
+¶¶ 46-47; Greenwell decl. ¶¶ 43-44).
+
+        The Navy does not challenge the evidence that workers are not as efficient in a
+12-hour shift as in an 8-hour shift, nor does it disagree that a less crowded construction
+site might be more efficient. Upon consideration of the evidence, then, we do find that
+workers in sustained 12-hour shifts are likely not as efficient as they are in shorter
+shifts. On the other hand, we do not believe the 12 hours of availability was a
+completely empty gesture by the Navy: AGJV took the opportunity to use at least
+some of the extra available time and presumably did so for a reason.
+
+        We also note that some of AGJV’s declarations included a demonstrative table
+purportedly showing that the Navy only permitted it to work five shifts a week, when,
+in fact, a week properly contained 14 potential shifts if only the Navy had permitted
+two shifts a day, seven days a week (see, e.g., Duda decl. ¶ 41; Greenwell decl. ¶ 38;
+see also Grimberg decl. ¶ 29 (making same point in text without the table)). We find
+this table to be misleading. AGJV never requested to work on Sundays, nor two shifts
+on Saturdays. Moreover, AGJV has not provided any evidence that it and
+its subcontractors had the wherewithal to staff an effective tripling of the number of
+hours worked by qualified employees on the project. Indeed, AGJV has provided
+no evidence of how many shifts it could or would have filled if the Navy had allowed
+it more access.
+
+
+23
+     Mr. Reichard’s report was submitted with the government’s declarations in
+         accordance with our scheduling order.
+
+                                           21
+      D. The CO’s Justification for not Granting AGJV all it Requested
+
+        The decision about whether to approve extra work hours was made by
+Ms. Linda Atchinson, the Navy Administrative Contracting Officer (ACO) (see
+Atchinson decl. ¶¶ 19-26). Ms. Atchinson made the decision to mostly disapprove the
+request based upon the advice of her engineering staff, but also based upon a personal
+visit she made to the site (id. ¶ 23). She described her decision-making to be based
+upon a balance of the benefit to the project compared to using the “limited resources
+we had for surveillance, especially after hours or on weekends” (id. ¶ 21).
+
+       According to Ms. Atchinson, her visit to the worksite led her to question
+whether AGJV would use any additional time in a productive way because there was
+no work going on at all when she arrived (Atchinson decl. ¶ 23). 24 She also saw
+no increase in productivity in the weekend days that she did permit or in the extra
+weekday hours granted (id. ¶ 24). Mr. Patrick Gannon, who supervised the
+Navy’s engineering team from the project (Gannon decl. ¶ 1), confirmed
+Ms. Atchinson’s impression, noting that on one Saturday that AGJV was permitted to
+work the company was unprepared for it (Gannon rebuttal decl. ¶ 6).
+
+        Against what she considered uncertain benefits to the Navy, Ms. Atchinson
+weighed the costs to the Navy. The Navy’s experience with AGJV’s subcontractors
+cutting utilities and doing other damage to the site convinced the Navy that it needed
+to have a construction manager or engineering technician on site during the extra hours
+(see Gannon decl. ¶ 5; Gannon rebuttal decl. ¶ 5; see also Jones rebuttal decl.
+¶ 5 (tying extra hours issue to concerns about need for supervision); Atchinson decl.
+¶ 26 (expressing Navy concern for “safety and security at the project site”)). With that
+in mind, Ms. Atchinson and Mr. Gannon considered the practical issues of getting
+personnel to work the added hours. In the first place, Mr. Gannon’s office was
+relatively short staffed at the time (Atchinson decl. ¶¶ 22; 25). Moreover, providing
+such a supervisor would require working overtime, which was controlled by
+“NAVFAC” 25 in Washington, DC and was “generally only approved for emergency
+situations to avoid mission impacts” (Gannon decl. ¶ 4). One example Mr. Gannon
+provided was for matters involving utility outages (id. ¶ 4). Although AGJV did offer
+
+24
+   Mr. Greenwell provides testimony that, at the time in question, the workers were on
+       a scheduled break (Greenwell rebuttal decl. ¶ 14). We suspect an experienced
+       ACO would recognize a short break for what it was and, though we doubt
+       Ms. Atchinson’s experience of finding nobody working on the site was the
+       norm, we also suspect that she truly did encounter a day of less than full
+       utilization of the potential workforce and understand why that would color her
+       perceptions of AGJV.
+25
+   We presume this is the same as “the Navy Yard” mentioned in the meeting minutes
+       discussed above.
+
+                                          22
+to pay for the overtime, fiscal law does not permit this, so it was not a viable option
+(id. ¶ 5).
+
+         Ms. Atchinson summed up her thinking:
+
+                In addition to the fact that I really did not have the staff to
+                be able to supervise AGJV on Saturdays, there was
+                no reason, based on their performance, to believe they
+                would be more productive if they were allowed to work
+                Saturdays.
+
+(Atchinson decl. ¶ 25)
+
+         E. AGJV Files a Claim on the Work Hours Issue
+
+       On August 2, 2017, 26 AGJV submitted to the CO a certified claim, dated
+July 31, 2017, seeking a decision that the Navy’s denial of AGJV’s requests to work
+outside of regular work hours was a breach of contract (R4, tab 88). The claim alleges
+the Navy’s refusal to allow work outside of regular hours began in the spring and
+summer of 2011 (id. at GOV 1595). In addition to seeking a return of the
+$199,500 that the Navy continued to hold in liquidated damages for the delayed
+completion of the project, AGJV also indicated that it would seek delay damages
+“under a separate cover” (id. at GOV 1605). No such follow-up claim appears to have
+been submitted.
+
+     The Navy did not decide this claim within 60 days, and on November 2, 2017,
+AGJV appealed this “deemed denial” to the Board. It has been docketed as Appeal
+Number 61402.
+
+         V. Redesign and Delays With the Fire Sprinkler System
+
+        Appeal Nos. 60428 and 60691 involve claims regarding the fire sprinkler
+system. AGJV alleges that it was forced to perform additional water flow tests; that
+the results of those tests necessitated re-design of the system and additional costs; and
+that the government imposed other unnecessary requirements upon it for the fire
+sprinkler system.
+
+
+26
+     The August 2, 2017 submittal date is not reflected in the record cited by AGJV, but
+         it is alleged in the paragraph 5 of AGJV’s complaint in this appeal and
+         conceded in the corresponding paragraph of the Navy’s answer.
+
+                                               23
+          A. The Contractual Requirements
+
+       The RFP includes Section D40, Fire Protection, which requires the installation
+of an integrated fire alarm and suppression system (R4, tab 5 at GOV 438). The
+section requires that all design documents and calculations for it be prepared by, or
+under the supervision of, AGJV’s Qualified Fire Protection Engineer, the Fire
+Protection Designer of Record (FPDOR) (id.).
+
+       Subsection D4020, Fire Suppression Water Supply and Equipment, includes
+water pressure and flow rate figures that the contractor was directed use in performing
+its hydraulic calculations (R4, tab 5 at GOV 439). Section D4040, Sprinkler Systems,
+requires that the contractor perform “a minimum of two fire flow tests in order to
+obtain data for hydraulic calculations” necessary for the sprinkler design, 27 with the
+CO to provide the location for these tests (id.).
+
+      The design-build specifications in the Performance Technical Specification
+(PTS) on this matter provide further detail (R4, tab 6 at GOV 663). PTS Section D 40,
+subsection 1.3, Design Submittals, specified that design submittals would be made in
+accordance with Section Z10 of the PTS, UFGS 28 section 01 33 10.05 20, Design
+Submittal Procedures, UFC 29 1-300- 09N, Design Procedures, and UFC 3-600-lON,
+Fire Protection Engineering (id. at GOV 666).
+
+      B. AGJV Hires a Fire Protection Designer of Record and Also a Subcontractor
+         to Install the Fire Sprinkler
+
+       On December 7, 2009, AGJV entered a contract with Alphatec, P.C.
+(Alphatec), to provide architect/engineering (A/E) services for the project, including
+designing the fire alarm and sprinkler systems (R4, tab 766-09 at GOV 34662, 34672),
+with Mr. Steve Bur of Alphatec to be its FPDOR (Bur decl. ¶ 7). Mr. Bur appears to
+us to possess all the necessary background required for that position (see id., ¶¶ 2-5)
+and the Navy has not challenged it. We consider him to be an expert witness.
+
+27
+   It may seem inconsistent for the RFP to provide numbers for “hydraulic
+        calculations” while it also requires new water flow tests for such calculations
+        after contract award. We suspect the seeming inconsistency can be harmonized
+        by recognizing the first figures as being provided to potential contractors for
+        bidding purposes, with the contractor-conducted tests performed after contract
+        award being required to inform the final design in this design-build contract.
+        To the extent the figures in the two sets of tests were different to the
+        disadvantage of the contractor, it could pursue an appropriate remedy.
+28
+   UFGS is short for Uniform Facility Guide Specification (see R4, tab 6 at GOV 749).
+29
+   UFC is short for “Unified Facilities Criteria” (see R4, tab 6 at GOV 746), a set of
+        rules applicable to the Department of Defense.
+
+                                          24
+        On December 4, 2009 (just a few days before AGJV formally entered its
+contract with Alphatec), Mr. Keith Cunningham of National Fire Protection (plainly
+on behalf of AGJV) 30 performed flow tests on three fire hydrants (see R4, Tab 766-10
+at GOV 34703-05). 31 Although the contract specified that the CO would select the
+hydrants to be tested, that does not appear to have happened here. Instead,
+Mr. Enrique Uribe, then a contract employee for the Navy, who was assigned to
+observe the water flow tests on behalf of the Navy, showed Mr. Cunningham where
+the river water mains were, and allowed him to choose the fire hydrants to test.
+In fact, according to Mr. Uribe (and undisputed by AGJV), Mr. Cunnigham tested on a
+different set of water mains than those that Mr. Uribe showed him. (Uribe decl. ¶ 4)
+As explained by the government’s expert witness, Mr. Douglas Fisher, 32 of the three
+different flow tests performed that day, one overperformed the test results contained in
+the RFP and the other two underperformed it— one, substantially (Fisher Rebuttal
+decl. ¶ 5; Fisher Report at 7-8).
+
+        On February 19, 2010, Alphatec provided a “Design Development”
+(35% progress) submittal to the Navy for review (Fisher Report at 8). The
+government made a number of comments on this document, including several relevant
+to the issues before us, including emphasizing the requirement that the plans provide
+the name and qualifications of the Design Build Fire Protection Engineer (DBFPE) 33
+and that the water supply analysis indicate that the fire flow test had been conducted
+
+30
+   The government’s expert report, dated July 20, 2022, by Mr. Douglas Fisher states
+       that these tests were performed under the direction of Alphatec (Fisher Report
+       at 7). Although Mr. Cunningham does not appear to be an Alphatec employee,
+       there is email traffic preceding the test and discussing it which included
+       Mr. Bur (see app. supp R4, tab 120 at APP 2340), which satisfies us that he and
+       Alphatec were, indeed, involved, even if the contract had not been formally
+       awarded yet.
+31
+   AGJV’s proposed findings of fact state that two were performed on December 2,
+       2009, while one was performed on December 4 (app. br. at 94-95 (¶ 273)). Our
+       review of the documents suggests the better reading is that a test was attempted
+       on December 2, 2009, but was considered unsatisfactory for various reasons
+       (see app. supp R4, tab 120 at APP 2339) and that there were, in fact three tests
+       performed on December 4, as reflected by the date affixed to all three test
+       results in the record (see R4, tab 766-10 at GOV 34703-05). In the end, though,
+       it does not matter if they were performed on one day in early December 2009 or
+       over two days in the same time period.
+32
+   Mr. Fisher is a Fire Protection Engineer, licensed by the State of Maryland, is a
+       Fellow in the Society of Fire Protection Engineers, and has 28 years of
+       experience in the field (Fisher Rebuttal decl. ¶¶ 1-2). We consider him to be an
+       expert in the field of fire protection engineering.
+33
+   We believe the DBFPE was merely the FPDOR by a different name.
+
+                                          25
+under the supervision of the DBFPE (R4, tab 134 at GOV 28785, 28787; Fisher Report
+at 8-9). Alphatec submitted subsequent designs and calculations to the government,
+including a Corrected Final Design package, dated July 8, 2011 (see Fisher Report at
+9).
+
+       Prior to award of the contract, AGJV requested preliminary price quotes from
+potential fire sprinkler subcontractors, based upon the RFP. Fire-Mak, Inc. (Fire-Mak)
+was the lowest bidder. In early 2011, AGJV provided three of the potential fire
+sprinkler subcontractors (including Fire-Mak) with drawings and analysis that it had
+submitted to the government on October 15, 2010 (plainly, prior to the final drawings
+Alphatec submitted in July 2011), and sought pricing from them. In early
+March 2011, Fire-Mak and the other potential subcontractors provided their proposed
+prices. After some negotiation, Fire-Mak and AGJV executed a contract on
+November 11, 2011. (Fisher Report at 10)
+
+       In return for payment to Fire-Mak of $75,000, the contract between the two
+required Fire-Mak to “Furnish and install [the fire sprinkler system as per the RFP (as
+amended) and the submissions made to the government by Alphatec] dated 15 October
+2010 and all other contract documents as the[y] apply.” This contract also required
+one hydrant flow test if required by the authority having jurisdiction. (Fisher Report
+at 10-11)
+
+         C. The Long Road to Design Approval for the Sprinkler System
+
+    The Corrected Final Design package (which appears to have embraced more than
+just the sprinkler system) was submitted to the government by Alphatec on July 8,
+2011. Of note, this design indicated 3-inch piping for the water sprinkler cross mains,
+4-inch piping for the sprinkler system’s floor control valve assembly, and 6-inch
+piping for the sprinkler riser (Fisher Report at 9-10). There is no indication in the
+briefing or the record (as far as we can see) 34 indicating that the government had any
+problem with the sprinkler aspect of this package.
+
+        On October 27, 2011, AGJV provided fire sprinkler material data to the Navy.
+A little more than a week later, on November 4, 2011, the Navy informed AGJV that it
+needed Fire-Mak’s shop drawings and calculations to complete its review. AGJV
+submitted these to the Navy on January 23, 2012. The Navy rejected the submittal on
+January 26, 2012. (Fisher Report, at 2)
+
+34
+     Needless to say, given the size of the record, just because we have not found an item
+         does not mean that it does not exist even though we have performed some
+         independent review of the Rule 4 file and its supplements. It is incumbent on
+         the parties to direct us to matters they wish us to consider, and if they do not
+         do so, they have no basis to complain.
+
+                                             26
+       The Navy’s rejection of the submittal included twelve comments, six of which
+would have been sufficient to justify the rejection (assuming they were proper).
+Relevant to the issues before us, comment d required “a hose connection at the roof as
+indicated on NFPA 14 Section 7.3.2. (5)” (Fisher Report at 13). Also relevant to us,
+comment k stated, “[p]lease update the flow test as it is more than 2 years old” (id.).
+
+       In its February 10, 2012 response to the Navy’s rejection, AGJV argued that the
+hose valve should not be required for the roof because the building had a stair
+enclosure with access to the roof and that the top landing of that stair enclosure had a
+hose valve. AGJV argued that the 2010 edition of NFPA 14 had clarified that only
+one standpipe was necessary to service the roof. (Fisher Report at 13) The relevant
+portion of the NFPA from 2007 (which the contract required AGJV to hew to)
+provides:
+               7.3.2 Class I Systems. Class I systems shall be provided
+               with 2 ½ in. (65 mm) hose connections in the following
+               locations:
+
+                -- -- --
+
+                (5) At the highest landing of stairways with stairway
+                access to a roof, and on roofs with a slope of less than 3 in
+                12 where stairways do not access the roof.
+
+(See Ex. D to Status Report, dated September 30, 2022) 35 The roof slope for the building
+was less than 3 in 12, but the stairways accessed the roof (Bur rebuttal decl. ¶ 9).
+
+      Meanwhile, the 2010 version of NFPA 14 is slightly changed, with
+subparagraph 5 of section 7.3.2 now stating:
+
+                (5) At the highest landing of stairways with stairway
+                access to a roof or on roofs with a slope of less than 4 in 12
+                where stairways do not access the roof.
+
+(See ex. E to Status Report, dated September 30, 2022)
+
+       The 2010 NFPA has an annex providing explanations of the intent of the code.
+The commentary for section 7.3.2 (contained in A.7.3.2) provides in relevant part:
+“Only one standpipe is necessary to serve the roof; it is not the intent to extend each
+standpipe to the roof level” (see Ex. E to Status Report, dated September 30, 2022).
+
+35
+     Because the NFPA standards did not appear to exist in the record, but were
+         necessary for our decision, we directed appellant to provide them, which it did
+         as attachments to this status report.
+
+                                             27
+The government’s expert, Mr. Fisher, opines that the Navy was correct and consistent
+with the 2007 NFPA Code to require the additional hose connection at the roof (Fisher
+Report at 13-14); AGJV’s expert, Mr. Bur, disagrees (Bur rebuttal decl. ¶¶ 7-10).
+
+        In the same response to the Navy in which it disputed the need for the hose
+connection on the rooftop, AGJV agreed to perform the additional flow test and stated
+that the “FPDOR will be available upon request to assist in the set up and to witness
+the new flow test” (Fisher Report at 13). The requirement for a “recent” flow test
+prior to design comes from UFC 3-600-01, para 4-2.3.5.1, which states that
+calculations for design were required to “be based on recent water flow test data”
+(id. at 14). NFPA 14 (which is the standard for the installation of standpipe and hose
+systems), Section 10.2 also states that “[t]ests for the purpose of system design
+shall not be conducted more than 1 year prior to system design” (id.; see also Ex. D 36
+to Status Report, dated September 30, 2022).
+
+        Fire-Mak performed two water flow tests on February 17, 2012. The water
+flow was less than the flow test reported in the RFP and less than two of the three tests
+performed on behalf of AGJV in December 2009, though it showed a higher flow than
+one of the three December 2009 tests (Fisher Report at 14-15; Bur decl. ¶¶ 22-23).
+The consequence of these new tests was that Fire-Mak needed to revise portions of the
+design reflected in the shop drawings it provided (increasing the diameter of some
+pipes, for the most part) to account for the lower flow rate (Bur decl. ¶ 26; Bur rebuttal
+decl. ¶ 11).
+
+        Regardless of whether Fire-Mak changed its shop drawings after the new flow
+tests (which he effectively concedes), Mr. Fisher argues that the flow tests did not alter
+what was required from Fire-Mak since the original design by Alphatec had pipes of a
+diameter that would have accommodated the lower flow rate (Fisher Report at 16-17).
+Mr. Bur of Alphatec counters that Alphatec’s final corrected drawings are irrelevant
+since AGJV had delegated the sprinkler design to Fire-Mak, and its original shop
+drawings (which would have been adequate under the December 2009 flow test
+results), included the smaller pipes (Bur rebuttal decl. ¶ 13). We will address this issue
+in more detail in the Decision section, below, but note that the Navy has provided
+no evidence that AGJV’s subcontract with Fire-Mak required it to provide the larger
+pipes that had been included in Alphatec’s final corrected drawings.
+
+
+36
+     Exhibit D to the September 30, 2022 status report is the 2007 version of NFPA 14.
+         This is particularly important because AGJV alleges that the one-year
+         requirement was not present in the 2007 NFPA 13, which governs fire
+         sprinklers (app. br. at 152). This is true, but NFPA 14 also applies to the
+         contract, as noted above.
+
+                                            28
+        Regardless of matters of responsibility, new drawings needed to be made and
+approved. Although the date is not clear from the record, Fire-Mak made a new
+submission to Alphatec for review sometime between the flow tests and March 5,
+2012. We know this because on March 5, 2012, Mr. Bur of Alphatec approved the
+submission “as noted,” identifying eight different problems with the submission that
+needed to be remedied prior to submission to the government (R4, tab 330
+at GOV 30104). In a document dated March 13, 2011 (it is obvious to us that it was
+written in 2012 and that “2011” was a typo), Fire-Mak forwarded a revised submission
+directly to AGJV, informing it that it had addressed Alphatec’s eight concerns (id.
+at GOV 30103). It was received by AGJV the next day, March 13, 2012 (id.
+at GOV 30102). On March 15, 2012, the documents were sent from AGJV to
+Alphatec and they were received by Alphatec on March 19, 2012 (id. at GOV
+30101). 37 On March 22, 2012, Mr. Bur approved the submittal “as noted,” having
+identified five different issues requiring Fire-Mak’s attention (id. at GOV 30100). The
+drawings and calculations were submitted to the Navy for approval on March 29, 2012
+by AGJV (R4, tabs 52, 334).
+
+        On April 12, 2012, Ensign Jones asked AGJV for Fire-Mak’s response to
+comments made by the Navy to Fire-Mak’s original submittal that it had rejected.
+AGJV responded on April 13, 2012, including an attachment that had apparently been
+provided earlier and indicated that the comments had been incorporated into the
+March 29, 2012 submittal to the Navy. (R4, tab 337) In response, on April 16, 2012,
+Ensign Jones explained that the document provided by the Navy included questions for
+some items, rather than a resolution of the issues. AGJV responded on April 17, 2012,
+that there was no new separate document from Fire-Mak since the response to the
+government’s prior comments was effectively embedded in the new drawings and
+calculations. (R4, tab 338) Ensign Jones returned to the issue again on April 19, 2012,
+and asked AGJV for a simple letter from Fire-Mak explaining how the new
+submission addressed the issues raised with the first one, stating that, without it, the
+NAVFAC fire protection engineer (Mr. Uribe) would likely reject the submission. On
+April 25, 2012, AGJV forwarded the requested letter to Ensign Jones. (R4, tab 341)
+On April 30, 2012, the Navy approved AGJV’s revised submittal with some comments
+that did not prevent Fire-Mak from beginning fabrication of the system (R4, tab 345).
+
+         D. The Fire Sprinkler Claim
+
+      On May 10, 2012, AGJV submitted a change order request styled as “Proposal
+No. 88” seeking $20,729 in compensation for additional fire sprinkler work (app. supp.
+
+37
+     It is not clear to us why the documents were sent to Alphatec by AGJV, but a likely
+           explanation is that Fire-Mak was expected by AGJV to route its submittals
+           through Alphatec before they were sent to AGJV for provision to the
+           government.
+
+                                            29
+R4, tab 122 at APP 2397). It sought compensation for performing the February 2012
+flow tests; for redesigning the stand pipe for the roof; and for redesigning the system
+to account for the lesser water flow (id.). In part, it based its entitlement to this
+compensation on the FAR’s Changes Clause, 52.243-4 (JUN 2007) (see id. at APP
+2356, n.3), which, in fact, is incorporated into the contract (R4, tab 24 at GOV 1189).
+It alleged that the fire sprinkler problems were responsible for 54 days of delay, but
+did not seek compensation for that because it was concurrent with other delays (app.
+supp. R4, tab 122 at APP 2398). The CO formally rejected this change order request
+by a letter dated October 23, 2012 (R4, tab 81).
+
+       On July 29, 2013, AGJV submitted a certified claim to the CO seeking
+$22,141 in costs associated with the sprinkler flow tests and redesign (R4, tab 85).
+This claim was only for money damages and provided that damages as a result of
+delays to the project would be “addressed in separate Requests for Equitable
+Adjustment” (id. at GOV 1571). In part, this claim advanced the theory that the costs
+had been affected by the differing site condition of the water pressure from the
+February 2012 flow tests being materially lower than the flow test results included in
+the RFP (id. at GOV 1575-77).
+
+       On December 17, 2015, the CO issued a decision denying the claim in whole
+(R4, tab 87). AGJV filed a timely notice of appeal with the Board on January 27,
+2016, which we docketed as ASBCA No. 60428.
+
+       On May 19, 2016, the CO issued a one paragraph revision to its December 17,
+2015 final decision, noting a different beneficial occupancy date for the project (R4,
+tab 87 at GOV 1589). AGJV filed with the Board what it characterizes as a protective
+notice of appeal to this decision on July 15, 2016, which we docketed as ASBCA
+No. 60691.
+
+       VI. The Electronic Security System
+
+       At about the same time that the fire sprinkler dispute was heating up, the parties
+also had a significant dispute about who was responsible for providing the Electronic
+Security System (ESS) under the contract. This dispute, reflected in Appeal
+Nos. 60426 and 60689, had consequences for the timing of its installation and thus is
+related to claims of delay.
+
+       A. Contractual Provisions
+
+       Section D5030 of the RFP, Communications and Security, is the earliest
+mention of the ESS in that document. In part, it states, “[t]he infrastructure (conduit
+and junction boxes) for a complete security and access control system will be provided
+under this contract.” (R4, tab 5 at GOV 442)
+
+
+                                           30
+        It later specified that:
+
+               The General Contractor shall provide/install all conduit
+               and junction boxes and the subcontractor shall procure and
+               install all electronic equipment (commercial off the shelf)
+               including computer, hardware, software, UPS, door strikes,
+               etc. The security subcontractor shall visit the site and
+               review security conduit at the rough-in stage.
+
+(Id.)
+
+       The most detailed provision of the RFP regarding the ESS requirements is
+Section D503005, Security Systems (R4 tab 5 at GOV 443-44). In part, it provides
+that:
+            The General Construction Contractor must sub out the
+            electronic security system installation to a contractor who
+            has direct experience in installing/integrating the new
+            system and must have performed Integrated Security
+            Management System (ISMS)/Electronic Security System
+            (ESS) projects for the Navy for the past 18 months. The
+            subcontractor must have a current certification as a Value
+            Added Reseller, as both a supplier of the base approved
+            (Security Department) Electronic Security System (ESS)
+            equipment, and installer of the base approved ESS. Any
+            licenses for system software upgrades must be included in
+            this installation. A complete design indicating all major
+            equipment in the security system shall be provided to the
+            Government for review. This drawing package shall be a
+            controlled document and shall be updated as needed.
+
+(R4, tab 5, at GOV 443) Later paragraphs in the same section set forth requirements
+for the ESS and require that the contractor “provide” numerous features in the ESS (id.
+at GOV 443-44). This later text also imposes requirements about how the ESS
+subcontractor and the general contractor should work together for installation:
+
+               The General Contractor must coordinate the construction
+               of the facility with the ESS subcontractor to allow him
+               enough time to inspect the conduit and junction boxes
+               before he starts closing walls to make certain that all
+               necessary conduit and junction boxes are in the proper
+               locations.
+
+(R4, tab 5 at GOV 443)
+
+
+                                           31
+        The RFP also states that “[t]he contractor shall submit the ESS design, as well
+as the testing and commissioning plan to the Government for review and approval”
+(id. at GOV 444).
+
+        Section G403007 of the RFP provides that the ESS discussed in Section
+D503005 (discussed immediately above) was for the interior of the project and then
+sets forth requirements for the provision of the exterior ESS. This included magnetic
+switches, card readers, and exit buttons, and required conduit and junction boxes be
+provided to all exterior doors. It also required, with Section G409001, “rough-ins” for
+exterior closed circuit television cameras. 38 (See R4, tab 5 at GOV 469)
+
+        Without getting ahead of the legal discussion to follow in the Decision section
+below, one basis for the dispute over whether the RFP requires installation of the ESS
+lies in its discussion of funding in Section D503005. In relevant part, the section
+provides:
+                Since the funding (OPN funds) for design, procurement,
+                and installation of the ESS will be provided separately, the
+                base contracting officer must contact Mr. Mike Viggiano,
+                at NFESC Port Hueneme, CA at [phone number
+                redacted] 39 to coordinate the transfer of funds. MCON
+                Construction Project funds can not be used for the
+                Electronic Security System.
+
+(R4, tab 5 at GOV 443) The parties have not directed us to any part of the record
+indicating how the ESS costs were to be bid, and our review of AGJV’s Phase II
+Proposal documents (see R4, tabs 18, 22) has not found anything immediately
+apparent as being material to the issue.
+
+       B. How The Parties Initially Treated the ESS Requirement
+
+       The initial design analysis prepared for the project by AGJV 40, dated
+November 25, 2009, which was quite skeletal, included a section on the Security
+System which, in toto, provided: “An empty conduit system shall be provided for the
+security, access and CCTV [closed circuit television] systems per the RFP” (R4,
+
+
+38
+   We take this to mean that exterior closed circuit television cameras were not
+        required to be installed by the contract, but that the contractor was expected to
+        create an infrastructure for them if they were later desired.
+39
+   We have deleted Mr. Viggiano’s phone number in this published decision.
+40
+   It was labeled as being done by Grimberg, rather than AGJV (see R4, tab 126
+        at GOV 28580), though, of course, it was submitted on behalf of the joint
+        venture.
+
+                                            32
+tab 103 at GOV 28360). Identical language may be found in the February 19, 2010
+Design Development Design Analysis (see R4, tab 126 at GOV 28610).
+
+        In a series of discussions about subsequent design submissions, Mr. Angelo
+Tjournas from the Navy initiated an inquiry on July 27, 2010 regarding the exterior
+CCTV system in which he stated that he did “not have a copy of the RFP but the
+security system is to be bid as a bid item.” On August 4, 2010, Mr. Caudle replied on
+behalf of AGJV stating that “the security system components” would be provided
+“under a separate contract” and that AGJV would provide the “infrastructure” for the
+exterior cameras. On August 19, Mr. Tjournas responded that, “[a]ll we need is
+infrastructure for the ESS contractor to add devices.” Mr. Caudle replied on
+August 30 that the conduit necessary for the cameras was shown in the drawings and
+the installation would be completed by the ESS contractor. On October 6, 2010,
+Mr. Tjournas closed the issue without further comment. (R4, tab 150 at GOV 1342)
+
+       In page E001 of the design drawings issued for construction on October 15,
+2010, under “SECURITY,” Alphatec 41 wrote: “THE SECURITY SYSTEM FINAL
+DESIGN AND COORDINATION AND CONSTRUCTION WILL BE PROVIDED
+UNDER A SEPARATE CONTRACT. THIS CONTRACT INCLUDES THE
+INFRASTRUCTURE ONLY. REFER TO THESE DRAWINGS AND DETAILS
+FOR MORE INFORMATION” (app. supp. R4, tab 132). The record does not indicate
+the government’s making any objection to this characterization.
+
+         C. The Parties Recognize a Disconnect
+
+        On January 4, 2012, AGJV asked the Navy to set up a meeting with the security
+subcontractor for the project (app. supp. R4, tab 87 at APP 1796). The parties had a
+meeting on February 13, 2012 to discuss the matter and Mr. Duda of AGJV stated that
+the Navy was responsible for getting the security contractor. Ms. Julie Jacko from
+Naval Facilities Command sent Mr. Duda an email valentine of sorts the next day,
+informing him that, no, under the RFP, AGJV was responsible for obtaining a
+subcontractor to design and install the security system. (Id. at APP 1797) Mr. Duda
+responded the same day, advancing the argument that the RFP made the subcontractor
+the responsibility of the Navy and arguing that the contract documents made the
+security system a separate contract and that Mr. Tjournas, who had been coordinating
+design with Alphatec on behalf of the Navy, held the same view (id. at APP 1796-97).
+More email was exchanged the same day, with Mr. Amanze from the Navy reiterating
+the position that the RFP required AGJV to obtain a subcontractor, while Mr. Duda
+reiterated the position that he had articulated to Ms. Jacko (app. supp. R4, tab 175
+at APP 2672).
+
+41
+     Alphatec performed these design services on behalf of AGJV as previously
+         discussed.
+
+                                           33
+         D. The Parties Attempt to Negotiate a Change Order to pay for the ESS
+
+       The parties have pointed to no further correspondence in the record regarding
+responsibility for the ESS. At some point, however, we can infer that the Navy
+decided to bite the bullet and pay AGJV an additional sum to have it designed, built,
+and installed. To that end, on March 6, 2012, the Navy issued an “RFP Modification”
+pursuant to the contract’s Changes Clause, directing AGJV to submit a proposal to
+design and build a security system for the project that would meet the requirements of
+the original RFP; provide acceptance tests and inspections of the security system as
+required by the original RFP; and to update all project drawings to incorporate the
+approved security system design (R4, tab 46 at GOV 1321-22). The RFP Modification
+made AGJV’s cost proposal due on March 20, 2012 and allowed for the possibility
+that AGJV might request more time to complete the contract, although it required
+AGJV to justify any such time extension (id. at GOV 1321).
+
+       On March 9, 2012, the Navy sent another letter to AGJV, authorizing it to incur
+$20,000 in costs on the ESS, but no more prior to acceptance of its proposal (R4,
+tab 47 at GOV 1324).
+
+       On March 20, 2012, AGJV submitted its proposal (R4, tab 49 at GOV 1329). It
+sought $176,382 in direct costs for the ESS subcontractor, Executive Technologies
+Corporation (ETC); $19,288 in its own direct costs ($17,638 of which was for
+Alphatec to incorporate an ESS into its pre-existing design (see id. at GOV 1331)),
+plus a markup; a 13-week time extension; extended overhead for that time extension,
+summing to $203,996; markups and a 6 % profit. The grand total was $445,679. (Id.
+at GOV 1330)
+
+        The government found the proposal excessive. The CO sent a letter to AGJV
+on March 22, 2012, detailing the Navy’s objections, including the Navy’s view that
+AGJV’s proposal was charging it for work that it had already acknowledged it was
+required to do (the conduit); design work that should have been unnecessary; and
+(what the government believed to be) an unsupported 13-week time extension. The
+letter directed AGJV to submit a new proposal. (R4, tab 50) A subsequent email to
+AGJV from Ms. Jacko on April 4, 2012, gave a condensed version of issues that
+needed to be addressed in a resubmittal (R4, tab 53). That was rejected by AGJV in an
+undated letter sent shortly thereafter (R4, tab 54).
+
+        The parties apparently had a meeting on April 16, 2012, that didn’t resolve
+matters, and on April 25, 42 2012, AGJV sent a letter to the Navy “stand[ing] behind”
+its earlier proposal and asking the Navy to simply issue a unilateral change order so
+
+42
+     The letter is dated March 25, rather than April 25, but, as it references events in
+         April (see R4, tab 51), we are persuaded that this is just another typo.
+
+                                              34
+that construction would be delayed no further. The letter promised that the design
+would be completed within three weeks of the receipt of the unilateral change order.
+(R4, tab 51)
+
+       The Navy refused to issue the requested unilateral change order. Instead, on
+April 30, 2012, the CO wrote to AGJV that it could not issue a change order until it
+considered AGJV’s final design of the ESS so that it would know what equipment it
+would be purchasing in the change order. It further directed that AGJV provide the
+final design by May 14, 2012. (R4, tab 61)
+
+       On May 14, 2012, AGJV submitted a new ESS proposal to the Navy. The
+bottom line was slightly higher than its earlier offer (now, $452,304 versus the
+$445,679 mentioned above) and it included a detailed estimate from its proposed
+subcontractor, ETC. (R4, tab 63) The Navy asked for revisions shortly after receiving
+the proposal and, on May 23, 2012, AGJV forwarded a revised version of its proposal,
+including an updated breakdown of costs from its subcontractor (R4, tab 65
+at GOV 1414). There was more back and forth, with a slightly revised proposal being
+submitted the next day, May 24 (R4, tab 66); government comments being provided
+on June 5 (see R4, tab 67 at GOV 1436 (referencing comments)); and a final revised
+version being submitted by AGJV on June 6 (R4, tab 67), which was approved by the
+government on or about June 9, 2012 (Duda decl. ¶ 26; Greenwell decl. ¶ 23).
+
+       The government did not agree to the 13-week time extension sought by AGJV.
+Instead, the CO sent a letter to AGJV stating that installation of the ESS was a
+requirement of the contract and that AGJV should have planned on it. (R4, tab 68
+at GOV 1447-48) On the other hand, “[i]n the interest of partnering,” the Navy
+decided to allow ESS work to be considered independent of substantial completion,
+meaning that the beneficial occupancy date (BOD) could be determined to have been
+met even if there were items remaining to be completed for the ESS. Put another way,
+there would be no liquidated damages assessed “solely for non-completion of the
+ESS.” (Id. at GOV 1448)
+
+       It is important to recognize that, though the parties had agreed to the scope of
+work and the government had apparently approved AGJV’s and ETC’s plans by
+June 9, 2012, no change order had issued. As will be seen below, that did not occur
+until November 2012.
+
+       E. The Work on Installing the ESS
+
+       Even before the Navy approved the ESS plans, AGJV and ETC performed
+some work related to the ESS. On March 14, 2012, AGJV sent a letter to the Navy
+inquiring whether it should delay closing the drywall at the building site because of the
+RFP’s requirement for the drywall to remain open until the ESS conduits and boxes
+
+
+                                           35
+could be inspected (R4, tab 48). We did not see a response to this request in the
+record, but presumably the Navy communicated that, consistent with the RFP, the
+drywall was to remain open until investigation. We can surmise as much because on
+April 26, 2012, AGJV sent a letter to Ms. Jacko informing her that ETC had inspected
+the conduit rough-ins and was satisfied with them and that AGJV would proceed to
+close the drywall (R4, tab 57).
+
+       More significant work installing the ESS began quickly after the Navy
+approved ETC’s design in early June. On June 18, 2012, AGJV reported to the Navy
+that ETC had begun work at the site on June 11, 2012 and expected to be finished by
+July 23, 2012 (R4, tab 69 at GOV 1451). By June 13 (just two days later), AGJV was
+reporting that the work was 65% complete in the field (app. supp. R4, tab 67
+at APP 410).
+
+        On about June 24, 2012, AGJV requested that the Navy provide it 10 IP
+addresses for use by the security equipment (Greenwell decl. ¶ 25; Duda decl. ¶ 28;
+app. supp. R4, tab 262 at APP 3237). There were delays in getting this information to
+AGJV (in part, because the particular IP addresses to be provided depended upon the
+equipment they were to be used for; in part because some of the responsible Navy
+individuals were on leave at the time the request was being processed) (see app. supp.
+R4, tab 262). Ultimately, the IP addresses were provided at the end of July 2012 and
+then revised on or about August 1, 2012 (Greenwell decl. ¶ 25; Duda decl. ¶ 28). On
+July 18, 2012, while awaiting the IP addresses, AGJV reported that ETC had “done all
+that they can do” until it received the IP addresses and that, after their receipt, it would
+take approximately two weeks to conclude the work, which appears to have mostly
+involved setting up for testing (see app. supp. R4, tab 70 at APP 437). Though the
+lack of IP addresses plainly prevented testing of the system, there is no evidence
+before us that it delayed the hardware installation.
+
+       After receipt of the IP addresses, the parties originally scheduled the ESS
+testing for August 9, 2012, but re-scheduled it for August 17, 2012. On August 22,
+2012, the ESS system testing was considered complete, and the system was accepted.
+(App. supp. R4, tab 294 at APP 5781)
+
+       F. The Change Order for the ESS is Issued
+
+        On November 21, 2012, the CO executed Modification No. P00002 (Mod P2),
+which purported to be effective on November 19 (R4, tab 82 at GOV 1551). Mod P2
+was a unilateral modification that provided authorization and funding for AGJV to
+design, install, and test the ESS. In particular, it stated that it was being issued
+“to allocate payment for the security system through Anti-Terrorism Force Protection
+AT/FP funding.” It provided $151,019 in additional funding to the contract to pay for
+it and added 91 days (13 weeks, it turns out) to the contract completion date, making it
+
+
+                                             36
+June 28, 2012. It did not, however, purport to pay AGJV overhead on those 91 days.
+The extra 91 days, nevertheless, affected the Navy’s calculation of liquidated damages
+for late contract completion (much more on that subject below), and caused the Navy
+to release $477,750 to AGJV. (Id. at GOV 1552-53)
+
+      Important to the arguments that AGJV would later make, Mod P2 refers to
+“new work.” The work detailed in that section was to:
+
+                (1) Design and build a security system for MILCON
+                P-166 IAW the requirements of the P-166 RFP Part 3
+                Section D503005 and G403007.
+
+                (2) Provide all acceptance tests and inspections of the
+                security system as required by P-166 RFP Part 3 Section
+                D503006.
+
+                (3) Update all applicable project drawings for MILCON
+                P-166 to incorporate the approved security system design.
+
+(Id. at 1552)
+
+       Mod P2 rejected $7,724.72 in costs associated with labor on the exterior
+systems and $1,668.52 in costs associated with exterior materials (id.). Markups
+acknowledged in Mod P2 included 5% prime contractor overhead on subcontractors;
+6% prime contractor profit; and 1% bonding (id.), thus, Mod P2’s disallowance of
+those costs would sum to $10,520.34 ($7,724 + $1,668 = $9,393.24, which is then
+multiplied by 112% to account for the markups).
+
+       G. AGJV’s ESS Claim
+
+        Needless to say, Mod P2 did not satisfy AGJV. On July 2, 2013, AGJV
+submitted a certified claim to the CO. This ESS claim sought an additional $30,513 in
+direct costs for the work associated with Mod P2. These were comprised of $16,513
+for the exterior ESS components; $11,999 for Alphatec’s additional design work; and
+$2,001 for the additional work required by AGJV’s scheduler. (R4, tab 84
+at GOV 1559-62, GOV 1569) It also sought an additional 55-day contract extension
+and a release of all liquidated damages on the contract (id. at GOV 1562). The theory
+for the extra 55-day extension was that the ESS was not accepted until August 22,
+2012, which was 55 days after June 28, 2012— the contract extension contained in
+Mod P2 (id.). The release of all liquidated damages (an amount greater than the
+
+
+                                            37
+55-day calendar day extension) 43 was premised upon notions that liquidated damages
+were inappropriate when the government extended the period of contract performance
+(id. at GOV 1566-68). AGJV recognized that this may be an unpersuasive argument
+(and, as discussed below, it is, indeed, unpersuasive) and made the fallback argument
+that the government should at least release the $288,750 in liquidated damages that
+were associated with the 55-day extension (id. at GOV 1568).
+
+       The CO’s decision on the claim, issued on December 18, 2015, was largely a
+victory for AGJV. The CO denied the extra costs and the request to set aside all
+liquidated damages but granted the 55-day contract extension (until August 22, 2012),
+thereby releasing the corresponding $288,750 in liquidated damages, along with
+$12,698.62 in interest. (R4, tab 86 at GOV 1584-85).
+
+      AGJV filed a notice of appeal of this decision on January 27, 2016, and the
+Board docketed it as Appeal No. 60426.
+
+       On May 19, 2016, the CO issued a revised final decision, leaving its previous
+decision intact, but also affirmatively seeking the remaining $199,500 in liquidated
+damages (R4, tab 86 at GOV 1582-83).
+
+       AGJV filed a protective notice of appeal of this final decision on July 15, 2016,
+and the Board docketed it as Appeal No. 60689.
+
+         VII. The Government’s Imposition of Liquidated Damages
+
+      Inasmuch as liquidated damages have come into play with the ESS issues, we
+now turn to issues of the contract completion date and the beneficial occupancy date,
+which are relevant to Appeal Nos. 60427 and 60690.
+
+         A. Contract Extensions Prior to Mod P2
+
+       In a contract modification effective July 7, 2011, but executed by the CO on
+August 19, 2011, the Navy extended the contract completion date (CCD) by
+eight calendar days: from February 8, 2012 to February 16, 2012 (see R4, tab 29
+at GOV 1232-33). This was a bilateral modification, as it was also signed by AGJV
+on August 12, 2011 (see id. at GOV 1234). The modification included the words:
+
+
+43
+     The Navy held $488,250 in liquidated damages at the time of this claim, which is
+         more than the 55 days multiplied by the $5,250 per day liquidated damages rate
+         of the contract (R4, tab 84 at GOV 1568).
+
+                                           38
+              CONTRACTOR’S RELEASE. Acceptance of this
+              modification by the contractor constitutes an accord and
+              satisfaction and represents payment in full for both time
+              and money and for any and all costs, impact effect, and for
+              delays and disruptions arising out of, or incidental to, the
+              work as herein revised.
+
+(Id. at GOV 1232; GOV 1234)
+
+       The next change to the CCD came through another contract modification,
+Modification No. A00006 (Mod 6), dated October 13, 2011 (see R4, tab 31). Mod 6
+purports to be a bilateral modification, and its text states that it was the result of
+negotiations held on October 11, 2011 (see id. at GOV 1246), but the record does not
+include the signature of an AGJV representative on it (see R4, tab 31 at GOV 1245).
+In any event, Mod 6 was a no-cost modification that extended the CCD by 42 days, to
+March 29, 2012, as a result of the “unusual weather experienced during Hurricane
+Irene and Tropical Storm Lee as well as due to an excess number of rain fall days
+experienced during Spring 2011” (id. at GOV 1246).
+
+       B. The Government Expresses Schedule Concerns and Imposes Liquidated
+          Damages
+
+       When the March 29, 2012 CCD date came and went without completion of the
+project, the Navy CO began imposing liquidated damages at the $5,250 daily rate
+provided by the contract by withholding funds from AGJV’s monthly invoices
+(see R4, tab 59 at GOV 1368). The parties had seen the delayed completion of the
+project coming for a long time. The Navy sent its first letter of concern about
+completion delays on July 7, 2011 (R4, tab 37), with a second one being issued on
+January 11, 2012 after AGJV’s construction schedule submitted by AGJV on
+January 9, 2012 indicated a CCD of June 13, 2012 (R4, tab 38). The January 11,
+2012 letter warned of liquidated damages (id.). Another letter of concern was sent on
+April 27, 2012 after liquidated damages had begun to be assessed, though the parties
+already had several in-person meetings in which scheduling concerns had been front
+and center by this time (R4, tab 59 at GOV 1368-69; Gannon decl. ¶ 6).
+
+       C. Completion of the Project
+
+          1. Problems That Affected the Completion
+
+        There were a lot of things going on that hindered the completion of the project
+that had nothing to do with the Navy, the ESS, or the sprinkler system. The
+installation of the roof and the windows were critical, not just for their own sake but
+also for permitting work to begin on the interior of the building once it could dry out
+
+
+                                           39
+from the elements (Reichard Report at 15-16). 44 A table in Mr. Reichard’s report
+comparing AGJV’s plans as of November 30, 2011 with the same plans three months
+later, on February 29, 2012, demonstrates how this work was delayed: the roof
+membrane was delayed from being completed on January 3, 2012 to March 7, 2012;
+and the windows, which were to be delivered on January 6, 2012, were not, in fact,
+delivered until March 5, 2012 (Reichard Report at 16). Structural metal spandrels,
+necessary for the sunshades (related to the windows) were also seriously delayed in
+their delivery (id. at 14; Wustner decl. ¶ 13). Though AGJV attempted to mitigate the
+problem of roofing delay by taking “temporary protective measures,” these measures
+were suboptimal and allowed water entry into the building (Reichard Report at 15).
+Indeed, these problems led to a requirement to remove and replace wet drywall
+(Wustner decl. ¶ 21; R4, tab 55 (April 23, 2012 email noting water infiltration in
+multiple areas requiring replacement of drywall)). The roof, apparently, was never
+quite right and ultimately needed replacing after the contract was completed (Wustner
+decl. ¶ 14; Gannon rebuttal decl. ¶ 7).
+
+        And it took substantial time for AGJV to get the installation of the windows and
+the window curtain wall 45 right. The windows were required to be tested before being
+installed (in the late spring / early summer of 2012), but AGJV’s installer failed to
+conduct the tests. The tests were then conducted, the windows failed, and then needed
+to be removed and reinstalled. (Wustner decl. ¶¶ 21-22). The problems with the
+windows led to further water infiltration, requiring the replacement of damaged carpet
+and yet more drywall (id. ¶ 23).
+
+       Additional problems abounded in the installation of the HVAC system and
+other mechanical aspects of the building. Mr. Barry Amrich, P.E., is a mechanical
+engineering subject matter expert who was brought in by NAVFAC in April/May 2012
+to inspect the mechanical equipment and system installation of the project (Amrich
+decl. ¶¶ 2, 5). Mr. Amrich’s first inspection, on April 27, 2012, turned up a host of
+problems with the HVAC and plumbing systems including: duct and piping insulation
+was often torn or compressed; pipes and ducts penetrated fire partitions without wall
+sleeves or other fire protection; poorly installed ducts; a water heater that was
+“‘pinned’ in” by pipes so that it could not be easily removed if necessary for
+replacement; space deficiencies where, essentially, too much equipment was crowded
+
+44
+   We cite here the report of David Reichard, P.E., dated July 20, 2020. Mr. Reichard,
+       whose curriculum vitae indicates 25 years of experience in the construction
+       industry and multiple instances of being recognized as a scheduling expert by
+       the Board, state courts, and United States District Courts (see Reichard Report,
+       attach. 1), is the government’s scheduling expert, and AGJV has made
+       no objection to our consideration of his testimony as an expert, which we do.
+45
+   The “window curtain wall” was essentially a wall that was a window from the slab
+       to the ceiling (see R4, tab 5 at GOV 415).
+
+                                          40
+into too small a space; and many other defects in workmanship including such things
+as problems with ductwork and a joint of two exterior walls that was so poor that he
+could see through it from the inside to the outside even as drywall and insulation were
+being installed which would be open to the elements (id. ¶ 6).
+
+       Mr. Amrich continued to see significant and extensive problems as he visited
+the building in May through July 2012 that we will summarize as shoddy
+workmanship throughout the HVAC space that was often below the industry and RFP
+standards (see Amrich decl. ¶¶ 7-28). Nevertheless, by late July, Mr. Amrich was
+writing his colleagues about the beneficial occupancy date (BOD) and what needed to
+be done to meet it (id. ¶ 29).
+
+          2. The Beneficial Occupancy Date
+
+       For all its problems, however, work on the project slowly advanced.
+
+        The BOD is, for lack of a more precise term, “squishy.” In the end, most of the
+issues that the Navy identified as affecting the BOD were complete by September 18,
+2012, although some were not and would remain problematic for some time. The
+Navy did not move into the building at that time, but (as will be seen) retroactively set
+the BOD for September 30, 2012, which appears to have been somewhat arbitrary.
+We discuss all this in more detail below.
+
+         First, we include the list of primary issues the Navy identified in the Summer of
+2012 as affecting the BOD. On July 2, 2012, AGJV sent the Navy a rather ambitious
+letter, seeking to have the building declared ready for beneficial occupancy,
+notwithstanding the significant punch list with un-resolved items that it attached to the
+letter (see app. supp. R4, tab 107). The Navy was unpersuaded, and in a letter dated
+July 7, 2012, rejected AGJV’s request, reminding AGJV that it had provided it a
+“Red Zone” checklist at a meeting on June 18, 2012 and that there were five large
+items that stood in the way of accepting the building: 1) certification of the roof;
+2) acceptance of the furniture, fixtures and equipment (FF & E); 3) acceptance of the
+fire protection system; 4) completion of the testing and balancing of the HVAC
+system; and 5) correction of operations and maintenance support information (OMSI)
+deficiencies. The letter also noted that the list of five items was “not a complete list”
+and referred AGJV to the Red Zone checklist. (R4, tab 75 at GOV 1506)
+
+        About a month later, on August 6, 2012, the Navy sent another letter to AGJV
+about beneficial occupancy. In this letter, the Navy stated that it wanted to “bring to
+your attention some additional concerns we feel may impact your progress.” It listed
+the five items called out in the July 9 letter and added a sixth: “Windows need to pass
+all required acceptance tests.” Like the July 9 letter, this one explained that these were
+
+
+                                           41
+the major points, but that there were others preventing acceptance of the building as
+well. (R4, tab 456 at GOV 30792)
+
+        In a five-page letter dated August 7, 2012, complaining about the assessment of
+liquidated damages, notwithstanding the Navy’s refusal to allow weekend work,
+AGJV inserted a line stating that it “believes it is now substantially complete with the
+project” (app. supp. R4, tab 109 at APP 1935). This letter did not address the concerns
+set forth in the Navy’s correspondence (id. at APP 1931-35). On August 10, 2012,
+AGJV sent another letter to the Navy purely on the subject of beneficial occupancy.
+This letter went into great detail about the six primary issues raised by the
+Navy’s August 6 letter, largely arguing that they were already completed, on the way
+to being completed, or not necessary for beneficial occupancy. (App. supp. R4,
+tab 110) A subsequent letter from AGJV to the CO, dated August 29, 2012, laid out
+AGJV’s plans for completing the final work necessary for occupancy (see app. supp.
+R4, tab 112).
+
+        In its brief, AGJV goes into detail about the six issues that the Navy had
+asserted were its primary concerns regarding beneficial occupancy (see app. br.
+at 51-55), but the Navy, for its own reasons, chose not to address these issues in any
+detail in its response. We have reviewed the evidence and conclude that:
+
+       First, the roof system was completely installed, inspected, and approved by the
+subcontractor and manufacturer by August 22, 2012. We base this finding on the
+unrefuted declaration of John Greenwell, who says so directly (see Greenwell decl. ¶ 59),
+though we make this finding with some trepidation because the documentary evidence
+referenced in AGJV’s brief for this proposition (see app. br. at 51-52 (citing R4, tab 481
+at GOV 31304, 31306; 492 at GOV 31371)) does not actually support this finding, and,
+instead, demonstrates a failure of the roof inspection on August 6, 2012 (R4, tab 481
+at GOV 31306). Nevertheless, Mr. Greenwell’s testimony is unrefuted and, based upon
+the evidence before us, we find it, more probably than not, true.
+
+       Second, as AGJV asserted in its August 10, 2012, letter (see app. supp. R4,
+tab 110 at APP 1936), the FF&E was apparently delivered and installed in the first
+two weeks of June 2012. We see evidence of this in the daily reports for this time
+period (see app. supp. R4, tab 78 at APP 1195-APP 1224). We see no rebuttal of this
+allegation from the government except its brief’s reference to the need to move some
+furniture in late September/early October 2012 to allow for carpet remediation caused
+by flooding from leaky windows (see gov’t br. at 134-35 (citing 46 app. supp. R4,
+
+
+46
+     Navy counsel cited to the entire 887-page tab containing all the contractor’s reports,
+        rather than including the pin cites that we have provided above. Needless to
+        say, that was inadequate.
+
+                                              42
+tab 78 at APP 1380-87)), but this does not prove that the FF&E had not been properly
+installed earlier.
+
+        Third, acceptance of the fire alarm and fire protection system was apparently
+completed by the end of August, 2012. First, the sprinkler system was actually
+completed prior to July 30, 2012 (see app. supp. R4, tab 112 at APP 1955). Despite
+the Navy’s identification of numerous defects in the fire alarm and fire protection
+systems in a July 30, 2012 report (see id. at APP 1955-56), Mr. Greenwell and
+Mr. Duda testified that all the issues that would affect beneficial occupancy were
+completed by August 29, 2012 (see Greenwell decl. ¶¶ 68-72; Duda decl. ¶¶ 71-75).
+The Navy has identified no contrary evidence except for a portion of Mr. Fisher’s
+expert report (about fire sprinklers) which concedes that the sprinklers were approved
+earlier, but that the fire alarm system was not approved until September 19, 2012
+(see gov’t br. at 104 (citing Fisher Report at 19-20)). Since the Fisher Report is not
+focused on the fire alarm system and cites no basis for its September 19 date that
+we may independently verify, 47 we will give greater weight to the testimony of
+AGJV’s two project managers.
+
+       Fourth, the HVAC system appears to have been ready for use by September 18,
+2012. Messrs. Greenwell and Duda testified on behalf of AGJV that the HVAC
+system was ready for use on August 10, 2012 (Greenwell decl. ¶ 61; Duda decl. ¶ 64),
+but the daily reports indicate otherwise. Namely, the September 18, 2012 daily report
+shows multiple workers onsite, including four specifically to handle HVAC issues,
+with the word, “commissioning,” contained in their work description (app. supp. R4,
+tab 78 at APP 1364). The next page of the daily report contains this paragraph:
+
+                 Punch list. Cutting pavers for placement on green roof.
+                 HVAC punch list/commissioning. Demonstrate smoke
+                 detector works in elevator shaft. Performed Dynamic
+                 testing of West elevation current wall. HVAC technician
+                 for troubleshooting AHU-2 and final commissioning.
+                 Function testing and verification of HVAC equipment with
+                 NAVFAC. Install grommets in counter tops at reception
+                 desk. Curtain wall installer onsite for testing. Verify FA
+                 alarm is operating as designed with AHJ. Onsite for final
+                 commissioning and verification of HVAC equipment
+                 operation with NAVFAC.
+
+(Id. at APP 1365)
+
+47
+     While it is possible that there is additional support for this date somewhere in the
+         vast record of this case, it is not readily apparent to us where it might be, and
+         we have already done more than enough of the Navy’s work for it.
+
+                                              43
+        AGJV characterized all the work being done on September 18, 2012 as mere
+“punch list” work (see app. br. at 52 n.3) and, indeed, its daily report uses that
+moniker, but at the end of the day, the HVAC system, by AGJV’s own
+characterization, was neither verified with NAVFAC, nor considered commissioned
+until this day. And AGJV has provided no basis for us to question the withholding of
+commissioning until this date as unreasonable. To us, that means that, despite having
+finished a large number of items on the road to completion, the HVAC system, a
+prerequisite for building occupancy, was not considered complete until this date.
+Indeed, Mr. Duda states that September 18, 2012 was the date at which the Navy
+“signed off” on completion of the HVAC system (Duda decl. ¶ 65). 48
+
+        The government argues that, even by the September 29, 2012 BOD that it (in its
+view) generously selected, the HVAC system was not complete. In support of this
+assertion, it cites Mr. Amrich’s declaration and the declaration of Mr. Matthew
+Konschak, who, among other things, notes that the building was extremely cold in
+October when he visited it before personnel moved in. (See gov’t br. at 135 (citing
+Amrich decl. ¶¶ 41-42); gov’t br. at 81, 136 (citing Konschak decl. ¶ 7)) But, as cited
+by the government, Mr. Amrich’s concerns regarding the BOD are too general in
+nature to override the apparent agreement of the Navy to commission the HVAC
+system on September 18, 2012; and Mr. Konschak’s evidence that the building was
+cold one day in October 2012 could be explained by a host of factors that are not
+deficiencies that would preclude beneficial occupancy. To be sure, there is evidence
+that the HVAC system had significant problems after the BOD, as Mr. Amrich
+discussed at length in his declaration, but the Navy accepted it on September 18, 2012,
+and many of those problems did not manifest themselves until after substantial
+completion and the move-in.
+
+       Fifth, there is no evidence that the OMSI deficiencies were a significant issue
+into August 2012: as AGJV has argued (see app. br. at 55), the Navy considered
+OMSI information to be necessary for final completion, but not to preclude a finding
+of substantial completion in this particular case (see Greenwell decl. ¶ 73; Duda decl.
+¶ 76). The Navy has produced no evidence to contradict these declarations.
+
+        Finally, there is the issue of the windows, which were a continuing headache
+for all involved. As discussed above, they were initially installed improperly and
+required a remediation plan. In fact, as AGJV admitted in its August 29, 2012 letter to
+the CO, proposing its way forward to conclude the project, although the curtain wall
+
+48
+     We note that there were still technicians working on the HVAC system the next
+        two days, according to the daily reports, but they seem to be much more limited
+        in scope (see app. supp. R4, tab 78 at APP 1366-69) and we conclude that
+        September 18, 2012 was, in fact, the day, that the Navy conceded the HVAC
+        system was substantially complete.
+
+                                           44
+appeared to have finally been fixed, after having failed a third party test (apparently
+sometime in August) (see app. supp. R4, tab 112 at APP 1949), AGJV still needed to
+repair the other windows, though it had a repair plan that was to be concluded by
+September 7, 2012 (see id. at APP 1950). As AGJV notes in its brief, the last of the
+remediation work reflected in its daily production reports occurred on September 4,
+2012 (see app. br. at 53 (citing app. supp. R4, tab 78 at APP 1334-45)). What AGJV
+does not note in its brief is that there was a requirement for third party testing of the
+window curtain (acknowledged in its August 29, 2012 letter to the CO (see app. supp.
+R4, tab 112 at APP 1949)), which was not fulfilled until September 18, 2012 (see app.
+supp. R4, tab 78 at APP 1364-65 (reflecting the testing by the curtain wall installer)).
+We also note that, according to AGJV, the reason the testing for the curtain wall was
+conducted on September 18, 2012 and not earlier was because of the availability of
+AGJV’s subcontractor, which AGJV had attempted to have come earlier (see app.
+supp. R4, tab 112 at APP 1949).
+
+       Considering the multiple and ongoing failures of the windows, we do not
+consider this testing to have been a mere formality, but a necessity before the Navy
+could consider the building ready for occupancy. 49
+
+         Because the Navy has not given us any other bases for challenging a BOD after
+the curtain wall and HVAC were accepted, we find the building was apparently ready
+for its intended use as of September 18, 2012.
+
+       D. The Navy’s Adjustment of Liquidated Damages and AGJV’s Claims on the
+          Same
+
+        On October 19, 2012, the Navy sent a letter to AGJV remarking upon an
+inspection of the building conducted on October 10, 2012 and listing the many things
+that needed to be completed on the building under the contract (see R4, tab 80). The
+letter also set the BOD at September 29, 50 2012, though it did not provide much of a
+rationale for that date (see id. at GOV 1522). The Navy now suggests that the
+September 29, 2012 date was more of an act of grace towards the contractor than a
+belief that the building was truly ready to use by that date since it was not really ready
+to use until sometime after that date, notwithstanding a November 1, 2012
+ribbon-cutting ceremony (see Konschak decl. ¶ 7).
+
+
+49
+   The windows (and roof) apparently leaked again in October 2012 (see Konschak
+       decl. ¶ 7), but this occurred after the windows passed inspection and after the
+       date that the government set as the BOD.
+50
+   At one point, the Navy’s brief says the 28th of September (gov’t br. at 133). This
+       was apparently a typo.
+
+                                            45
+       In any event, as discussed in the section on the ESS above, the CO ultimately
+adjusted the liquidated damages to match the (unilaterally decided) contract
+completion date of August 22, 2012. Thus, the liquidated damages currently held by
+the Navy are for the 38-day period of August 23, 2012 until September 29, 2012
+at $5,250 per day, which sums to $199,500. (R4, tab 86 at GOV 1582-83)
+
+      AGJV appealed the Navy’s initial imposition of liquidated damages in Appeal
+No. 60427 and then revisited the matter when it submitted Appeal No. 60690 after the
+Navy reduced its liquidated damages.
+
+       VIII. Acceleration
+
+        As the reader may recall from the discussion above, from October 13, 2011
+until the issuance of Mod P2 on November 21, 2012, the CCD was contractually set
+at March 29, 2012 and the Navy, beginning in April 2012, was withholding liquidated
+damages from AGJV. According to AGJV, though it took the position that it was not
+at fault, the Navy’s inflexibility on the CCD; its imposition of liquidated damages; and
+its refusal to allow weekend work caused AGJV to order accelerated and overtime
+work from its subcontractors at substantial additional cost (see Greenwell decl. ¶ 46;
+Duda decl. ¶ 49). This acceleration, according to AGJV, began in the week ending
+May 1, 2012, and concluded the week ending August 30, 2012 (see Greenwell decl.
+¶ 47 (acceleration ended on August 28, 2012)); Duda decl. ¶ 50 (same); see also app.
+br. at 45-46 (citing app. supp. R4, tab 210 at APP 2842; 215 at APP 2946; 221 at
+APP 3000; 224 at APP 3024; 230 at APP 3080; 238 at APP 3126; 243 at APP 3170-72;
+286 at APP 3827-36)).
+
+       According to AGJV, it assigned additional supervisors during the alleged
+acceleration period, increased the supervisory roles of others, and brought in additional
+equipment (Greenwell decl. ¶¶ 48-49; Duda decl. ¶¶ 51-52). For these particular
+allegedly added expenses, AGJV has not, in its statement of facts or declarations,
+explained how acceleration increased their costs. That is, there is no evidence that the
+costs of more supervisors for a shorter period of time (via acceleration) was greater
+than a smaller number of supervisors over a longer period of time would have been.
+The same goes for the extra equipment.
+
+        AGJV’s two relevant declarations (by Messrs. Duda and Greenwell), without
+documentary support and in word-for-word identical language, also assert that there
+were acceleration costs from its subcontractors, including a labor claim from its
+electrical subcontractor, LACO; an acceleration claim from its FF & E subcontractor;
+the cost of its flooring contractor providing a moisture barrier for a concrete pour
+performed before windows were installed; and the expediting of HVAC balance
+testing which required more work from the original contractor and the hiring of an
+additional subcontractor (Duda decl. ¶ 53; Greenwell decl. ¶ 50).
+
+
+                                           46
+        AGJV does provide some separate documentary evidence through some email
+correspondence that its subcontractors charged it more due to overtime allegedly
+incurred due to acceleration: on April 27, 2012, AGJV directed its electrical
+subcontractor, LACO Electric, to increase manpower to complete the job in
+“4-6 weeks” (app. supp. R4, tab 210 at APP 2842), and two weeks later LACO noted
+that it began working 10-hour days in response (but it had not availed itself of the
+10-hour days beforehand) (app. supp. R4, tab 221 at APP 3000); on May 25, 2012,
+AGJV met with its furniture installation subcontractor, Price Modern, and requested
+delivery and installation be completed by June 15, 2012, which led to a commitment to
+work 12-hour days, but also a demand for an $84,450 change order by Price Modern
+for “the accelerated schedule and storage fees incurred by Price Modern to date” 51
+(app. supp. R4, tab 230 at APP 3080); and on June 7, 2012, AGJV told an HVAC
+contractor, Baltimore Air Balance, that it would need to work whatever hours were
+necessary to complete its work and that it would then need to submit a request for
+extra compensation if that was work outside the contract (app. supp. R4, tab 238
+at APP 3127).
+
+       We do not find the evidence before us that there were acceleration costs to be
+overwhelming and, in many instances, the documentary evidence raises as many
+questions as it answers, but the unrefuted declarations of Messrs. Duda and Greenwell
+have enough evidentiary weight to persuade us that, after the end of April 2012, AGJV
+did direct at least some of its subcontractors to act with greater speed and this direction
+did increase the costs charged to AGJV.
+
+       On April 26, 2018, AGJV submitted a certified claim to the CO seeking
+$524,783 that it asserted was due as a result of acceleration (see app. supp. R4,
+tab 286). The CO has not decided this claim and, on July 23, 2018, AGJV appealed
+this deemed denial to the Board. We docketed it as Appeal Number 61715.
+
+             IX. A Final, but Significant, Evidentiary Note
+
+        AGJV has not cited a scheduling expert of its own anywhere in its opening or
+reply briefs and we have not found one within the Rule 4 File or AGJV’s supplement
+thereto. Thus, we have before us no assertion from AGJV of the number of days
+particular government actions may have delayed completion of the project along its
+critical path except, perhaps, in the requests for additional time that AGJV made to the
+government during contract performance. The government, on the other hand, has
+provided a report from its scheduling expert, Mr. Reichard, which we have discussed
+
+51
+     We are not certain how storage fees are related to the acceleration claim as they
+         appear to be more a reflection that, because the building was behind schedule,
+         Price Modern had been required to hold the furniture longer than originally
+         contracted for.
+
+                                            47
+earlier. Mr. Reichard’s conclusions include a finding that the ESS work did not delay
+AGJV’s completion of the project because, among other things, AGJV’s schedule was
+planned to be completed by June 15, 2012, while the ESS was not set to be installed
+until June 19, 2012 (Reichard Report at 29) and that, in general, “no excusable or
+compensable delay occurred after November 30, 2011,” a date when AGJV had
+contended to the Navy it had expected to complete the project by March 29, 2012
+(see id. at 46).
+                                      DECISION
+
+        As alluded to above, for the most part, the Navy has the better argument:
+AGJV has not proved that the representations of the site conditions in the contract
+were misleading and, to the extent that the soil encountered was weaker than reflected
+in the boring logs, there is ample evidence supporting a finding that this was caused by
+the weather conditions and AGJV’s work on the site. Moreover, no reasonable
+interpretation of the contract or extension of the duty of good faith and fair dealing
+would have entitled AGJV to impose upon the Navy a right to work more than double
+the number of shifts explicitly permitted in the contract and most of the delays to the
+contract completion date were plainly AGJV’s or its subcontractors’ responsibility.
+On the other hand, there were changes to the fire sprinkler system that are the
+responsibility of the Navy for which it owes compensation to AGJV. Some costs of
+the ESS too, remain owed by the Navy to AGJV despite the system’s being
+contractually required. Likewise, the contract was substantially completed at an
+earlier date than selected by the CO for purposes of liquidated damages assessments.
+We discuss this all in more detail below.
+
+       I. Consideration of Appeals Under Board Rule 11 and the Burden of Proof
+
+        This appeal is proceeding under Board Rule 11, which allows the parties to
+waive a hearing and instead have the Board issue a decision based on the record.
+Board Rule 11(a). “Unlike a motion for summary judgment, which must be
+adjudicated on the basis of a set of undisputed facts, pursuant to Board Rule 11, the
+Board ‘may make findings of fact on disputed facts.’” U.S. Coating Specialties &
+Supplies, LLC, ASBCA No. 58245, 20-1 BCA ¶ 37,702 at 183,031 (citation omitted).
+With one exception, as the proponent of its claims, AGJV bears the burden of proving
+liability and damages in this appeal. Stobil Enter., ASBCA Nos. 61688, 61689,
+19-1 BCA ¶ 37,400 at 181,809 (citing Wilner v. United States, 24 F.3d 1397, 1401-02
+(Fed. Cir. 1994)). The exception is liquidated damages, which are effectively a
+government claim to which it bears the burden of proof initially, but the burden lies
+with the contractor if it seeks to prove the delay was excusable. Sauer v. Danzig,
+224 F.3d 1340, 1345 (Fed. Cir. 2000); see also Metro Machine d/b/a General
+Dynamics NASSCO Norfolk, ASBCA No. 62221, 22-1 BCA ¶ 38,096 at 185,009.
+
+
+                                          48
+       II. AGJV Does Not Prevail in its Differing Site Condition Claim
+
+       A. The Requirements for a Type I Differing Site Conditions Claim
+
+        Differing site conditions are bread and butter claims in government contracting
+and the law is correspondingly well settled. See, e.g. Olympus Corp. v. United States,
+98 F.3d 1314, 1316-17 (Fed. Cir. 1996) (discussing the decades of well-established
+law governing differing site conditions). A Type I differing site condition, such as that
+alleged here, is premised upon the notion that the government has misrepresented
+conditions at the site and the contractor reasonably relied upon this representation to
+its detriment. As good a description as any of the elements of such a claim may be
+found in the Federal Circuit’s decision of Int’l Tech. Corp. v. Winter, 523 F.3d 1341
+(Fed. Cir. 2008):
+
+              In order to prevail on such a site conditions claim, a
+              contractor must establish four elements. First, the
+              contractor must prove that a reasonable contractor reading
+              the contract documents as a whole would interpret them as
+              making a representation as to the site conditions. See
+              Renda Marine, Inc. v. United States, 509 F.3d [1372, 1376
+              (Fed. Cir. 2007)] (“[A] contractor must first prove, as a
+              threshold matter, that the contract contained some
+              identification of the conditions to be encountered at the
+              site.”); H.B. Mac, Inc. v. United States, 153 F.3d 1338,
+              1345 (Fed. Cir. 1998) (explaining that the court “place[s]
+              itself into the shoes of a reasonable and prudent contractor
+              and decide[s] how such a contractor would act in
+              interpreting the contract documents”) . . . . Second, the
+              contractor must prove that the actual site conditions were
+              not reasonably foreseeable to the contractor, with the
+              information available to the particular contractor outside
+              the contract documents, i.e., that the contractor “reasonably
+              relied” on the representations. Renda Marine, 509 F.3d
+              at 1376 (“[T]he contractor must demonstrate that the
+              conditions encountered were not reasonably foreseeable in
+              light of all information available to the contractor when
+              bidding [and] that the contractor reasonably relied upon its
+              original interpretation of the contract.”) . . . . Third, the
+              contractor must prove that the particular contractor in fact
+              relied on the contract representation. See id. at 1376 . . . .
+              Fourth, the contractor must prove that the conditions
+              differed materially from those represented . . . . See id.
+
+
+                                           49
+Id. at 1348-49. See also CKY, Inc., ASBCA No. 60451, 20-1 BCA ¶ 37,575
+at 182,454.
+
+       One important factor to keep in mind for the dispute before us today is just
+what is considered to be represented by the contract documents. The contract
+documents are not a guarantee that the site will remain forever the way it was when the
+borings or other geotechnical survey data were taken. Rather, they are a representation
+of what the latent conditions were at the time of contract execution. Olympus Corp.,
+98 F.3d at 1316-18.
+
+       Thus, in the case of Southwest Engineering Co., ASBCA No. 13223, 69-1 BCA
+¶ 7,424, which bears some similarities to the facts here, we held that the government
+was not liable for a differing site condition when heavy rains, subsequent to contract
+award, turned the formerly dry soil at Whiteman Air Force Base into a “temporary
+quagmire.” 69-1 BCA at 34,492-93. To be sure, the analysis that we applied in
+Southwest Engineering involved a Type II differing site condition, but the temporal
+nature of the conditions subsequent to contract award would apply equally to a Type I
+condition. As we held in that case, explaining why the changed conditions were not
+the responsibility of the government, “the [condition] encountered by appellant
+was not a condition of the soil which antedated, or existed at, the time when the
+contract was entered into.” Id. (citing John McShain, Inc. v. United States, 179 Ct.Cl.
+632, 638, 375 F.2d 829, 833 (1967)). Aptly enough, Southwest Engineering involved
+“lean clays,” just like those presented here, and we noted that, “[t]he fact that lean
+clayey soil will become difficult to compact . . . when excessively moist from rains is a
+phenomenon of common knowledge in the construction industry . . . .” Id. at 34,493.
+
+       B. AGJV has not Proved That the Soils Were Different Than Represented in
+          the Contract Documents
+
+        Notably absent from the evidence presented by AGJV is any suggestion that the
+type of soil encountered was different than that represented in the boring logs. Yes,
+AGJV alleged that its firmness was different than anticipated—at least at some spots—
+but not that its composition was any different than represented. Nor is there any
+evidence that, at the time the borings were made, the “blow counts,” representing how
+firm the soil was, were in any way inaccurate or a misrepresentation of the soil’s status
+at the time. Though AGJV’s witnesses have testified that there was less-than-firm soil
+at the two-foot level at the time they sought to compact it, they have not provided
+evidence that this proves there was a misrepresentation in the documents. This is
+especially so since, as discussed in the Facts section, above, Part 3, Section G10 of the
+RFP cautioned that the geotechnical data that had been provided with the RFP was
+“not guaranteed to fully represent all subsurface conditions” and that bidders should
+expect “minor variations between the borings.”
+
+
+                                           50
+        The RFP’s expressed limitations are consistent with the Federal Circuit’s
+explanation of just what is represented by a boring log. In H.B. Mac, the agency had
+provided several boring logs of the property in question, but had not taken borings
+near the site of some of the work. When the company performed work at the site near
+where the borings had been taken, it found that the soil was consistent with what had
+been represented, but when it performed work away from the boreholes, it encountered
+soil different than reflected in the logs that had been provided. H.B. Mac, 153 F.3d
+1341-42. The court did not find that the boring logs necessarily represented what
+conditions would be throughout the entire project, but represented what the conditions
+were where the samples were taken and that it was a question of fact whether a
+reasonable contractor, armed with the knowledge such a contractor was expected to
+possess, would have relied upon them to extrapolate the subsurface conditions at some
+distance from where they were taken. Id. at 1347-48. Applying such reasoning here,
+we conclude that the borings provided in the RFP did not constitute a Navy guarantee
+that, throughout the entire location of the project, the subsurface conditions would be
+identical to that found in the 17 borings; rather, the borings provided a baseline of
+information and it was the responsibility of the contractor to make a reasonable
+determination of what it should expect to encounter based upon what the boring logs
+showed, where they were located, and other information available to a reasonable
+contractor. If a reasonable contractor would rely on a single boring at the site of the
+entrance road to plan exactly how deep the firm soil would be throughout the entirety
+of that area, then the government would be responsible for any deviation from such
+reasonable expectations. Conversely, if a reasonable contractor would make only
+limited presumptions based upon a single boring in a particular area, the government is
+not responsible for any unreasonable extrapolations.
+
+        For our purposes, we are helped by the fact that the RFP required AGJV to
+obtain a geotechnical expert to interpret the subsurface data. The report by ECS (with
+which neither party appears to take issue) warns of just the sorts of problems that
+AGJV encountered, prescribing pro-active steps to prevent soft soil conditions.
+Moreover, ECS anticipated, almost as a given, that AGJV would encounter some areas
+of soft or unsuitable soils that would need to be identified, removed, and replaced.
+Mr. Hren’s expert testimony on behalf of the government is consistent with the ECS
+report, and amplifies the evidence that the type of soil present at the site was liable to
+have moisture control problems once disturbed.
+
+        Although AGJV argues that it properly dewatered the site and took steps to
+ensure that the ECS recommendations were complied with, we find the direct evidence
+of this to be lacking. No individual for AGJV has testified that such actions were
+taken except that it was usually the way things were done on a Grimberg job.
+No reflection of such steps can be found in any of the daily reports as we would expect
+if they had been rigorously followed. Instead, the daily reports reflect ample rain and
+a relatively poorly controlled job site with slurry from the geothermal wells making
+
+
+                                           51
+some (but likely limited) negative impact to the soil, but also utility trenches, the
+moving of heavy construction equipment and multiple instances of local flooding
+caused by water main breaks that were the responsibility of AGJV all doing their part
+to disturb the soil.
+
+       In sum, given our findings of fact regarding the treatment of the work site, the
+soil conditions encountered were exactly those that ECS warned AGJV it could
+encounter and are consistent with Mr. Hren’s expert testimony. We find no differing
+site condition and deny this appeal.
+
+         III. AGJV had no Contractual Right to Work After Hours and the CO’s Refusal
+              to Grant it Carte Blanche to do so was no Violation of the Duty of Good
+              Faith and Fair Dealing
+
+         A. AGJV had no Contractual Right to Work After Hours
+
+        The contract specified the regular hours of work as being the 8 1/2-hour period
+between 7:00 a.m. and 3:30 p.m., Monday through Friday, excluding government
+holidays. This is straightforward enough. So, too, is the contractual right to
+exceptions: it requires approval of the CO and the contractual provision states that the
+CO “may approve” such a request “[b]ased on the justification provided.” The use of
+“may,” rather than “shall,” means that the CO has the discretion to say no. Cf.
+Andersen Consulting v. United States, 959 F.2d 929, 932 (Fed. Cir. 1992) (“may” in a
+statute connotes discretion).
+
+       Moreover, nothing about these contract provisions is in any way ambiguous,
+which means that extrinsic evidence of AGJV’s experience in other contracts has
+no bearing upon the way we should interpret this particular contract. United States v.
+Ford Motor Co., 463 F.3d 1267, 1278 (Fed. Cir. 2006); Barron Bancshares, Inc. v.
+United States, 366 F.3d 1360, 1375-76 (Fed. Cir. 2004). 52 Even if we were to consider
+the evidence of past practice that AGJV has provided, we would find it far less
+compelling than AGJV makes it out to be. As discussed in the Facts section, above,
+
+52
+     Citing TEG-Paradigm Envt’l, Inc. v, United States, 465 F.3d 1329, 1339 (Fed.
+          Cir. 2006) and other cases, AGJV argues that “[t]he plain language of the
+          contract must also be construed in accordance with the parties’ course of prior
+          dealings.” (See app. br. at 119). This was a surprising sentence for us to read
+          because TEG-Paradigm is commonly cited for the proposition that, once a
+          contract’s terms are found to be unambiguous, there is usually no need to
+          engage in the consideration of extrinsic evidence. See 465 F.3d at 1338. In any
+          event, the TEG-Paradigm court’s examination of prior dealings was limited to
+          confirming for itself that it read the plain language of the contract consistently
+          with the parties’ understanding and nothing more. Id. at 1339.
+
+                                              52
+most of the instances cited by AGJV were materially different than the circumstances
+presented here, involved contracts which post-dated this one, and the evidence was far
+from conclusive as to what obligations the Navy had taken upon itself to approve work
+outside of regular hours. No instances cited by AGJV involved the Navy’s granting
+the kind of wholesale, blanket extensions of work time requested here.
+
+       B. The Navy’s Denial of AGJV’s Requests for Saturday Work was not a
+          Violation of the Duty of Good Faith and Fair Dealing
+
+       AGJV argues that, to the extent that the work hours clause gave the CO the
+discretion to allow work outside regular hours, the CO was required to exercise that
+discretion reasonably and that the CO’s failure to do so here constituted a violation of
+the contractual duty of good faith and fair dealing (app. br. at 115-28).
+
+          1. The Duty of Good Faith and Fair Dealing Does Require the Reasonable
+             Exercise of the CO’s Discretion as Cabined by the Terms of the Contract
+
+       The doctrine of good faith and fair dealing is based upon the notion that every
+contract “imposes upon each party a duty of good faith and fair dealing in its
+performance and enforcement.” Metcalf Constr. Co. v. United States, 742 F.3d 984,
+990 (Fed. Cir. 2014) (quoting RESTATEMENT (SECOND) OF CONTRACTS § 205 (1981));
+see also Kelly-Ryan, Inc., ASBCA No. 57168, 18-1 BCA ¶ 36,944 at 180,030;
+Relyant, LLC, ASBCA No. 59809, 18-1 BCA ¶ 37,085 at 180,539. Pursuant to this
+implicit duty, each party’s obligations “include the duty not to interfere with the other
+party’s performance and not to act so as to destroy the reasonable expectations of the
+other party regarding the fruits of the contract.” Metcalf, 742 F.3d at 991 (quoting
+Centex Corp. v. United States, 395 F.3d 1283, 1304 (Fed. Cir. 2005)).
+
+      This duty is not free-floating but is tied to the explicit terms of the contract. As
+we explained in Relyant:
+
+              [T]his implicit duty “cannot expand a party’s contractual
+              duties beyond those in the express contract or create duties
+              inconsistent with the contract’s provisions.” Metcalf,
+              742 F.3d at 991 (quoting Precision Pine & Timber, Inc. v.
+              United States, 596 F.3d 817, 831 (Fed. Cir. 2010)). Thus,
+              the duty “is limited by the original bargain: it prevents a
+              party’s acts or omissions that, though not proscribed by the
+              contract expressly, are inconsistent with the contract’s
+              purpose and deprive the other party of the contemplated
+              value.” Metcalf, 742 F.3d at 991.
+
+              ---
+
+
+                                            53
+                [T]he doctrine imposes duties that fall within the broad
+                outlines set forth by the express terms of the contract,
+                approximating the parties’ intent, as divined by the express
+                terms of the contract, for addressing circumstances not
+                specifically set forth by the contract. This interpretation is
+                consistent with the Metcalf court’s reference to
+                “faithfulness to an agreed common purpose.” 742 F.3d
+                at 991 (quoting RESTATEMENT (SECOND) OF CONTRACTS
+                § 205 cmt. a). As we noted in a pre-Metcalf opinion, the
+                proper inquiry regarding the duty often boils down to
+                questions of “reasonableness” of the government’s actions,
+                see Free & Ben, Inc., ASBCA No. 56129, 09-1 BCA
+                ¶ 34,127 at 168,742, although we do not hold here that
+                every unreasonable government action necessarily
+                constitutes a breach of the duty.
+
+18-1 BCA ¶ 37,085 at 180,539. The Federal Circuit’s decision in Dobyns v. United
+States, 915 F.3d 733 (Fed. Cir. 2019), further made clear that “the duty must be ‘keyed
+to the obligations and opportunities established in the contract’ so as not to
+fundamentally alter the parties’ intended allocations of burdens and benefits associated
+with the contract.” 915 F.3d at 739 (quoting Lakeshore Eng’g Servs., Inc. v. United
+States, 748 F.3d 1341, 1349 (Fed. Cir. 2014)).
+
+         2. The Boundaries of Reasonable Discretion Here
+
+       The contract provisions at issue here direct a specified work schedule, but allow
+the CO to make exceptions “based upon the justifications provided” with 15 days
+advanced notice. Based upon the arguments before us, what this means in the context
+of the duty of good faith and fair dealing is that when extra hours are requested, the
+CO’s determinations should be subject to a review for abuse of discretion; that is, the
+CO should be expected to act reasonably. 53
+
+       Neither party has cited a case in which it was held that the duty of good faith
+and fair dealing had been breached by a CO’s failure to grant extra workdays in
+circumstances similar to those here. AGJV has cited cases in other tribunals, notably
+the 1975 decision by the Department of Agriculture Board of Contract Appeals in
+Greenwood Constr. Co., AGBCA No. 435, 75-2 BCA ¶ 11,624, which, AGJV asserts,
+
+53
+     We are hesitant to hold that in every instance in which a contract grants discretion to
+         the CO, that exercise of discretion is always subjected to a reasonableness
+         review due to the existence of the duty of good faith and fair dealing, even if
+         that may often be the case. Here, though, there is no convincing argument
+         advanced that this exercise of discretion should not be so reviewed.
+
+                                              54
+held that the government’s failure to approve weekend work when the contractor was
+behind schedule precluded the government from assessing liquidated damages (app.
+br. at 127-28). But Greenwood, which is not binding on us in any event, does not
+include any analysis about the application of the duty of good faith and fair dealing
+and involves a very different clause involving the hours of work—never setting
+expected days or the parameters of the CO’s review. See 75-2 BCA ¶ 11,624
+at 55,492. It is decidedly unhelpful here.
+
+       The other case cited by AGJV, Manuel Bros., Inc. v. United States, 55 Fed. Cl.
+8 (2002), (see app. br. at 122), which, too, is not binding upon us, appears to support
+the government’s position. In Manuel Bros., the CO refused a blanket request for
+12-hour days and work on Saturdays, but did grant 23 extra workdays. This, the Court
+of Federal Claims found, was no abuse of discretion. Manuel Bros., 55 Fed. Cl.
+at 40-41. Thus, though the number of workdays granted by the CO in Manuel Bros.
+was relatively high, they were individually decided and the refusal to grant a blanket
+extension was not an abuse of discretion.
+
+       3. The CO did not Abuse her Discretion
+
+        We find that the CO reasonably exercised her discretion in denying
+AGJV’s blanket requests for additional work hours. First, it is important to note that
+she granted three weekend days plus 12-hour weekdays. Given the fact that this
+12-hour shift availability was utilized from January 2012 until at least July of that
+year, the amount of time granted compares very favorably to the 23 days provided in
+the Manuel Bros. case discussed above and which AGJV cites to as support for its
+view that the duty of good faith and fair dealing applies to the granting of extra work
+hours. 54
+
+       Moreover, providing the time requested for every Saturday from January
+through July of 2012 would have imposed significant costs upon the government.
+With respect to financial costs, as Mr. Gannon testified, the work would have required
+the presence of a government representative who would have been paid overtime –
+overtime that was not regularly available due to Navy policies which were not
+particularly directed at AGJV. As Mr. Gannon testified, AGJV’s offer to pay for the
+overtime was a hollow promise because such augmentation of appropriated funds,
+without Congressional authorization, is contrary to fiscal law. 55
+
+54
+   Though AGJV has argued that the 12-hour days were no better than 8-hour shifts, as
+       discussed in our findings of fact, we find this to be exaggerated: AGJV would
+       not have availed itself of the opportunity if it had not been to its benefit.
+55
+   This unrebutted testimony is consistent with our long understanding of the operation
+       of fiscal law. Though not cited by either party, the Department of Defense
+       Financial Management Regulation (FMR), DoD 7000.14-R, ¶ 2.1.10 (June
+
+                                           55
+       There would also have been the cost to the personnel involved.
+Mr. Gannon’s office, from whom the site supervisors would have come, was short
+staffed at the time, and providing an individual every Saturday, in addition to covering
+the 12-hour days during the week would have presented real challenges. 56
+
+       Against these costs to the Navy and serious practicability challenges, the ACO
+weighed what would be advanced by agreeing to AGJV’s blanket requests. Her
+observations did not support a conclusion that a grant of blanket requests would be
+well-used, and we find this conclusion not unreasonable or unsupported.
+
+       Thus, considering all the facts and circumstances surrounding the
+ACO’s consideration of AGJV’s blanket requests to work on the weekends, including
+her granting AGJV the right to work 50% longer shifts during the week than were
+anticipated by the contract, we do not find her denial of these requests to constitute an
+abuse of her discretion. 57 This appeal is denied.
+
+       IV. AGJV is Entitled to Some Relief on its Fire Sprinkler Claims
+
+        AGJV’s fire sprinkler claims basically have two components: first, that AGJV
+encountered a differing site conditions claim because the water flow was less than
+reflected in the RFP; and, second, that the Navy forced it to do work beyond that
+required by the contract by performing a second water flow test and also by including
+an unnecessary extra standpipe on the roof. As will be seen, we agree with AGJV that
+the lower water pressure it encountered, and which required its subcontractor to
+redesign the system was a differing site condition. We also agree with AGJV that it
+should not have been required to provide the extra standpipe. Nevertheless,
+AGJV’s subcontractor should have performed the additional water flow test prior to
+
+       2020) characterizes the receipt of funds without Congressional authorization
+       and their deposit anywhere but the Miscellaneous Receipts account of the
+       United States Department of the Treasury as an augmentation of an
+       appropriation, in violation of the Antideficiency Act, 31 U.S.C. §§ 1341-1342
+       and 31 U.S.C. § 1517. Here, AGJV fails to identify any statutory authority that
+       would permit the Navy to accept non-appropriated funds from AGJV to cover
+       federal overtime pay.
+56
+   The incredible assertions in AGJV’s brief that the Navy should have supported two
+       8-hour shifts a day, seven days a week (an accommodation never requested)
+       would obviously have imposed even more significant costs on the Navy
+       personnel who would have needed to oversee the construction.
+57
+   Had AGJV made more directed requests, to work on particular weekends for
+       particular reasons, we might have come to a different conclusion (or we might
+       not have – after all, the ACO did grant the request on three other occasions), but
+       that is not what was presented here.
+
+                                           56
+creating its design, thus the government is not liable for the costs of conducting the
+flow test and the proper liability upon the government is not the cost of having to
+repeat the design of the system, but whatever additional costs would have been
+incurred in designing and building a system that could operate with the lower water
+flow and the unnecessary standpipe compared to designing and building a system that
+could handle the higher flowrate anticipated and without the flow rate.
+
+         A. Applicable Legal Principles – Differing Site Conditions and Constructive
+            Changes
+
+        We have discussed the differing site conditions clause at length earlier in this
+decision. We note that, though differing site conditions cases most often involve
+geologic or geotechnical data, we see no reason why the language in the differing site
+conditions clause (applying to “subsurface or latent physical conditions at the site,”
+see FAR 52.236-2(a)) should not apply to information about such things as the water
+flow rates at the pipes involved here (which is, after all, a physical condition at the
+site), and the Navy has not argued otherwise. 58
+
+        The alleged additional work required by the Navy, AGJV argues, is a
+constructive change to the contract (app. br. at 151-52). Constructive change
+allegations are also commonplace in government contract disputes and are
+straightforward: “To demonstrate a constructive change, a plaintiff must show (1) that
+it performed work beyond the contract’s requirements, and (2) that the additional work
+was ordered, expressly or impliedly, by the government.” BGT Holdings, LLC v.
+United States, 948 F.3d 1003, 1012 (Fed. Cir. 2020) (citing Bell/Heery v. United
+States, 739 F.3d 1324, 1335 (Fed. Cir. 2014)). Once a constructive change has been
+found, the government is obligated to compensate the contractor for its additional
+costs. Aydin Corp. v. Widnall, 61 F.3d 1571, 1577 (Fed. Cir. 1995) (citing J.B.
+Williams Co. v. United States, 450 F.2d 1379, 1394 (Ct. Cl. 1971)). Just like the
+circumstances in the Changes Clause, however, the contractor is generally obligated to
+inform the CO that it considers the work being ordered to be beyond the scope of the
+contract within 20 days of that direction. FAR 52.243-4(d); K-Con Bldg. Sys., Inc. v.
+United States, 778 F.3d 1000, 1009-10 (Fed. Cir. 2015). Indeed, in K-Con, the
+contractor’s compliance with the government’s directives and failure to object or assert
+
+58
+     Arguably, though no party asserted it, these claims might have been pursued as
+         defective specifications. See, e.g., Robins Maint. v. United States, 265 F.3d
+         1254, 1257 (Fed. Cir. 2001) (defective specifications found when contract
+         specifications are inaccurate and mislead the contractor); see also Comtrol, Inc.
+         v. United States, 294 F.3d 1357, 1362 (Fed. Cir. 2002) (differing site conditions
+         and defective specifications cases, though distinct in theory, may collapse into
+         the same cause of action under the appropriate facts). Perhaps. If they had
+         been, we have no reason to believe the results would have been any different.
+
+                                             57
+that it was a violation of contract terms until two years later supported a finding that
+the contractor was not entitled to compensation for the constructive change.
+K-Con, 778 F.3d 1009-11.
+
+         B. The Flow Rate was a Differing Site Condition
+
+        The evidence before us does not tell us why, but there is no factual dispute that
+the water flow rate which dictated the ultimate design of the fire sprinklers was
+different than that represented in the solicitation. Although it may be considered odd
+that the Navy provided flow rate information in the solicitation and then required the
+contract awardee to conduct its own tests, this is consistent with the industry standards
+noted above, requiring recent (within a year of design) flow tests—standards that
+would not be met if AGJV had relied only on the flow test information contained in
+the solicitation.
+
+        Does this difference make a differing site condition as AGJV contends? The
+Navy makes no effort, whatsoever, to argue that it does not, focusing instead on the
+damages and asserting that there were none (see gov’t br. at 146-48). In any event, we
+are satisfied that AGJV has met the criteria for a differing site condition claim that we
+cited earlier from International Technology Corp.: a reasonable contractor would have
+read the solicitation as making a representation of the site conditions (here, the water
+flow rate); there is no basis for AGJV to have foreseen that the conditions would
+change to the degree that they did; AGJV relied upon the flow rate in the solicitation
+since its firm fixed price subcontract with Fire-Mak was premised upon the flow rates
+included in the solicitation (which appear to have been substantially the same as in the
+2009 flow test conducted on AGJV’s behalf); 59 and, inasmuch as the lower flow rates
+experienced in 2011 required a re-design of the sprinkler system, they were plainly
+materially different. See 523 F.3d 1348-49.
+
+
+59
+     We imagine that the Navy might have advanced an argument that it was
+         AGJV’s own post-award flow tests that it relied upon when it made its contract
+         with Fire-Mak, and not the tests in the solicitation. That would have been an
+         interesting argument had the Navy bothered to make it. But at the end of the
+         day, we are persuaded that AGJV bid upon a contract that represented one
+         particular flow rate, but was required to build a fire sprinkler system that could
+         accommodate a lower flow rate. Given the absolute lack of argument to the
+         contrary in this particular case, we will not find that this constitutes anything
+         but a differing site condition.
+
+                                              58
+         C. Requiring a Recent Flow Test was not a Constructive Change to the
+            Contract
+
+       We find AGJV’s argument that it was not required by the contract to perform a
+flow test within one year of submitting its design to be unpersuasive. First, as
+discussed in the Facts section above, the UFC standards required that the design be
+based on “recent water flow test data.” Though “recent” is undefined there, NFPA
+standards in effect at the time of contract award (and which the parties relied upon)
+required a flow test within one year of the design of the hose and standpipe system,
+which is part of the system that AGJV was required to install. Requiring compliance
+with contractual requirements is no change.
+
+       This was no surprise to AGJV, which explicitly contracted with Fire-Mak to
+perform a flow test if required. 60 Moreover, AGJV appears to have acceded, without
+complaint, to the Navy’s direction to perform an additional flow test after it submitted
+Fire-Mak’s plans and calculations to the Navy for review. Though it complained
+about other aspects of the Navy’s rejection of its plans (notably, about the standpipe),
+AGJV’s acquiescence to the direction to perform a new flow test dooms that portion of
+its constructive change claim because it indicates that a current flow test was required
+by the contract and also because it was a failure to comply with the prerequisites of the
+Changes Clause.
+
+         D. Requiring the Standpipe on the Rooftop was a Change
+
+        Simply enough, as noted in the in the Facts section, NFPA 14 does not require a
+standpipe on the rooftop if there is access to the roof from the highest landing and
+there was a hose connection in that landing. Since there was such access, it was
+sufficient to have the hose connection in that landing as Fire-Mak and AGJV had
+initially proposed. Re-writing the plans to include the extra standpipe and the extra
+costs to install it constituted a contract change for which AGJV is entitled
+compensation.
+
+         E. The Navy’s Responsibility for AGJV’s Fire Sprinkler Costs
+
+       Though the appeal has been broken into “entitlement” and “quantum”
+components, at the entitlement stage it is still necessary to determine what costs the
+contractor will be entitled to. Here, it is not all that AGJV anticipates.
+
+
+60
+     This would be another basis for denying these “costs” to AGJV: it had a firm fixed
+         price contract with Fire-Mak that covered this contingency and would have
+         shielded it (AGJV) from incurring any additional costs for Fire-Mak’s running
+         the extra flow test.
+
+                                            59
+        Having found a differing site condition, we find that AGJV is entitled to the
+extra costs that flowed from it. That increased cost is whatever AGJV can prove was
+the difference in cost of a fire sprinkler system that meet the needs of the higher flow
+rates represented by the solicitation versus the needs of the lower flow rates it
+ultimately encountered. It appears, for example, that the new design required wider
+pipes. If, as we assume, larger diameter pipes are more expensive than the smaller
+pipes AGJV and Fire-Mak planned on, then it is entitled to the difference in price of
+the pipes and any other costs that increased as a consequence of the lower flow.
+
+       AGJV is also entitled to the material, labor, and design costs associated with the
+additional stand pipe, as they would not have been incurred except for the contract
+change.
+
+        AGJV is not entitled to redesign costs stemming from the larger re-design
+required when the additional flow tests demonstrated that the initial Fire-Mak design
+was inadequate. Those tests were contractually required and expected to be
+considered prior to the final design by AGJV and its subcontractor. Yes, those flow
+tests disclosed the differing site condition, but if they had been accomplished prior to
+Fire-Mak’s design, as required, Fire-Mak would not have had to re-accomplish said
+design. 61
+
+         V. The Mess That is the ESS, and why AGJV is Entitled to no Additional
+            Time, but Some Additional Costs for it
+
+        The parties have engaged in an argument over whether the contract required
+AGJV to install the ESS (albeit, through an approved subcontractor and paid for
+separately) (see gov’t br. at 148-49; app. reply br. at 52-60). We find that it did:
+Section D603005, Security Systems, which we quote more fully in the Facts section
+above, provides, in unambiguous terms, that the “[contractor] must sub out the
+electronic security system installation to a contractor with direct experience in
+installing/integrating the new system . . . .” The other sections cited in the Facts
+section also make clear the intention that the prime contractor hire an ESS
+subcontractor at government expense, but be responsible for building the infrastructure
+(such as conduit) for the ESS and coordinating with that subcontractor. Though the
+parties appear to have inexplicably forgotten what was in the RFP during the first two
+years of contract performance, this does not matter because, in general, absent
+ambiguity we do not go beyond the terms of the contract to interpret it, see, e.g.,
+
+61
+     Theoretically, we suppose, it could be more expensive to design a fire sprinkler
+         system that could handle a low flow rate than one for a high flow rate, though
+         that seems unlikely to us in these circumstances. If it is, in fact, the case,
+         however, AGJV is welcome to present evidence supporting this theory and it
+         would be entitled to the difference.
+
+                                            60
+TEG-Paradigm, 465 F.3d at 1339, and this includes prior performance in particular.
+See Watts Constructors, LLC, ASBCA No. 61493, 20-1 BCA ¶ 37,563 at 182,386.
+
+        Yet, this conclusion, which, at first blush, seems so central to the dispute,
+actually matters little (if at all) to the ultimate resolution of the appeal before us.
+This is primarily because of the effects of Mod P2, which gave AGJV most of what it
+was seeking as if the ESS work were not required by the contract, leaving only the
+questions of whether AGJV was entitled to more time on the contract than given by
+the modification and whether it was fully compensated for ESS work that it performed
+and was intended to be separately funded. As discussed below, we find that AGJV is
+entitled to no additional time for its work on the ESS, but is owed more money.
+
+       A. AGJV has not proved That the Government is Responsible for Delay
+          Caused by the ESS
+
+        Though we find that, under the contract, AGJV was responsible for obtaining
+an ESS subcontractor, to be paid by a separate Navy entity, that, by itself, does not
+quite let the Navy off the hook: it waited more than two years after contract award
+before taking steps to provide funding for that ESS subcontractor and it can be argued
+that it did not move with the speed it could or should have even then. To be sure, our
+finding that installation of the ESS was AGJV’s contractual obligation diminishes the
+strength of this argument, but, even so, in the right circumstances, we might need to
+consider how to apportion blame between the parties for the delays in beginning work
+on the ESS.
+
+       These are not those circumstances. Though the CO ultimately extended the
+contract completion date by 126 days to account for the ESS, in truth, there is
+no evidence that installation of the ESS played any role in the delay in completing the
+contract. Rather, as discussed at length in the Facts above, the real problems were to
+be found elsewhere, such as the roof, the curtain wall, the windows, and the HVAC
+system. Moreover, the CO informed AGJV that the ESS would play no role in
+determining the substantial completion date: had everything else been completed
+except for the ESS, that would have been fine.
+
+        The record provides little indication that the installation of the ESS appreciably
+impacted other work on the building. The only instance where it might have had any
+impact that we have noticed is the fact that AGJV held off on closing some drywall on
+March 14, 2012 to allow for inspection of ESS conduit and boxes and did not close
+that drywall until about April 26, 2012. But the record is bereft of any evidence that
+even this action had any effect on the critical path of project completion. On its face,
+this drywall matter does not appear to be significant; it was nothing that AGJV
+complained about at the time; and there is no evidence that it affected the critical path.
+For its own reasons, AGJV provided no scheduling expert on this (or any other
+
+
+                                            61
+matter), while the Navy provided Mr. Reichard, who provided evidence that the ESS
+installation caused no delay to the completion of the project. With the evidence as it
+stands, we would have no basis to award any delay days to AGJV for the Navy’s late
+direction to install an ESS system even if we were to find that all fault for this was
+with the Navy.
+
+       B. AGJV is Entitled to Some Other Costs Associated With its Claim
+
+        The other issue before us is the $30,513 in direct costs that AGJV asserts were
+not covered by Mod P2. The Navy argues that exterior work was plainly required by
+section G403007 of the contract, which was a section not subject to the requirement
+for a separate funding stream discussed in Section D503005 (gov’t br. at 148-49). But
+Section D503005 provides that “MCON Construction Project funds cannot be used”
+for the ESS, meaning that the funding must all come from a stream separate and apart
+from the general contract award. This section makes no distinction between the
+interior and exterior ESS. Hence, there is no basis to withhold the moneys requested
+for exterior ESS work. 62 The remaining money sought is for design work on the ESS
+and scheduling associated with it. The Navy makes no argument on this matter and
+the aspects of separate funding for the ESS in Section D503005 applies to its “design,
+procurement and installation” and is not limited to expenses incurred by the ESS
+subcontractor. To the extent that AGJV incurred these costs for design and installation
+of the ESS—a matter the Navy does not appear to seriously dispute, it is entitled to
+them. 63
+
+       VI. AGJV is Entitled to the Return of Some Liquidated Damages
+
+       The liquidated damages here are straightforward: they are the difference
+in time between the BOD and the CCD as extended by contract modifications. 64 The
+last contract extension (made long after the contract was actually complete) brought
+the CCD to August 22, 2012. The government had found the BOD to be
+September 29, 2012, and withheld liquidated damages based upon the difference
+between those two dates. Since, earlier in this opinion, we found that the building was
+ready for its intended use on September 18, 2012, there is a difference of 11 days of
+liquidated damages that the government will need to return to AGJV.
+
+62
+   To be clear, we are not speaking here of the infrastructure work to support the ESS,
+       which all agree was required by the contract here and not subject to a separate
+       funding stream, just the actual ESS components, themselves.
+63
+   As the parties chose to separate quantum from entitlement at this stage of the
+       proceedings, we do not decide here exactly how much these costs are.
+64
+   Of course, if the CCD should have been extended farther due to changes to the
+       contract, we would be required to take that into account, but that did not happen
+       here.
+
+                                          62
+        This is a relatively straightforward application of the (found) facts to a standard
+contract clause. AGJV also makes the argument that, because the government
+extended the work on the contract after the CCD, it cannot collect liquidated damages
+(see app. br. at 133-35). This is a misapplication of the cases that AGJV cites and the
+facts presented here. Those cases (e.g., Sun Shipbuilding & Dry Dock co. v.
+United States, 76 Ct. Cl. 154 (1932); Framlau Corp., ASBCA No. 14479, 71-2 BCA ¶
+9,082) stand for the simple proposition that, for purposes of liquidated damages, the
+government cannot add work to a contract after its completion date and expect it to be
+completed without extending the contract’s completion date. What they do not stand
+for is the notion that, if any work is added to a contract after the original CCD, the
+government is forever barred from asserting liquidated damages, even if the CCD has
+been properly adjusted to take into account the extra work. The extra work alleged
+here, having to do with the fire sprinkler and ESS, had no bearing, whatsoever, on the
+BOD. Though the government very generously extended the CCD in Mod P2 and in
+the CO’s decision on the ESS claim, ostensibly as a result of the ESS work, that
+does not mean that the government was actually at fault and that it was responsible for
+delays in the number of days it extended the CCD. See, e.g., England v. Sherman R.
+Smoot Corp., 388 F.3d 844, 856-57 (Fed. Cir. 2004). More to the point, there is no
+evidence that any of the work being performed after the final CCD had passed was a
+consequence of extra work having been imposed by the government. To the contrary,
+the fire sprinkler system was long completed before the CCD as was the ESS. And
+even if the ESS had not been completed as early as it was, it would have had
+no bearing on the BOD since the CO had already agreed not to consider it for BOD
+purposes.
+
+       Entitlement to liquidated damages from the CCD of August 22, 2012 until the
+BOD of September 18, 2012 at the contractual rate of $5,250 per day was proved by
+the government.
+
+         VII. AGJV is not Entitled to Acceleration Costs
+
+        The last claim we address is acceleration costs. AGJV argues that, because of the
+government’s demand that it perform additional work on the ESS and fire sprinkler
+system for which it did not initially extend the performance period and the government’s
+failure to permit additional night and weekend work, it was forced to incur overtime and
+otherwise accelerate its work to minimize the government’s imposition of liquidated
+damages. This, according to AGJV, makes out a constructive acceleration claim, long
+recognized by the Board. (See app. br. at 135-36 (citing Parsons Evergreen, LLC,
+ASBCA No. 58634, 18-1 BCA ¶ 37,137 at 180,811-12, 65 partially overturned on other
+
+
+65
+     AGJV’s brief referenced the Westlaw “star” cites, but we replace them here with
+        pinpoint citations from the Board’s reporter.
+
+                                            63
+grounds, Parsons Evergreen, LLC v. Sec’y of Air Force, 968 F.3d 1359 (Fed. Cir. 2020);
+IAP Worldwide Servs., Inc., ASBCA No. 59397 et al., 17-1 BCA ¶ 36,763 at 179,
+158-60))
+
+       We agree with AGJV’s general explication of constructive acceleration law,
+which was explained straightforwardly by the Federal Circuit in Zafer Taahhut Insaat
+ve Ticaret A.S. v. United States, 833 F.3d 1356 (Fed. Cir. 2016): “Constructive
+acceleration often occurs when the government demands compliance with an original
+contract deadline despite excusable delay by the contractor.” Id. at 1562 (quoted by
+IAP Worldwide Servs., 17-1 BCA ¶ 36,763 at 179,158). The five elements of
+constructive acceleration are: 1) the contractor encountered an excusable delay; 2) the
+contractor made a timely request for an extension of time to complete the contract;
+3) the government denied the request or did not act on it in a reasonable period of
+time; 4) the government insisted on completion of the contract in a lesser period of
+time than the excusable delay would have permitted; and 5) that the contractor
+incurred added expense to compensate for the lost time and remain on schedule. Zafer
+Taahhut, 833 F.3d at 1362 (citing Fraser Constr. Co. v. United States, 384 F.3d 1534,
+1360-61 (Fed. Cir. 2004)).
+
+       AGJV’s acceleration argument is facially reasonable: when the government
+started assessing liquidated damages against AGJV in April 2012, it had no choice but
+to accelerate its work and incur overtime costs because it had no way of knowing that
+the government would ever extend the completion date in the manner that it did with
+Mod P2 and the CO’s later extension after the ESS claim. We also credit
+AGJV’s evidence that it incurred acceleration costs through overtime for several of its
+subcontractors.
+
+       But this is not enough for AGJV to prevail. The most salient fact here is that
+there was no excusable delay for most of the work on the project (e.g., the roof, the
+HVAC system, and the windows), and that was the work that dragged completion of
+the project out to September 18, 2012. To underscore the essential: there has been
+zero evidence presented by AGJV that work on the ESS or the fire sprinklers caused a
+delay in the critical path to project completion and certainly nothing on the order of the
+amount of time that the Navy ultimately granted (put another way, the excusable delay
+was certainly not greater than the extensions granted by the Navy). Hence, as we
+discussed in the section on liquidated damages above, the sprinkler and the ESS were
+not the problems that held up contract completion and, even after the Navy’s generous
+extension of time for the ESS, AGJV was still almost four weeks late in completing
+the project. AGJV’s “acceleration” may well have been motivated by the initial
+March 29, 2012 completion date, but even if, in March, 2012, the Navy had extended
+the completion date until the August 22, 2012 date that it ultimately granted, AGJV
+would still have had to significantly pick up the pace on its work in May 2012 as it did
+because even the “acceleration” it undertook when it thought it had less time than was
+
+
+                                           64
+ultimately granted was insufficient for it to timely complete the project. 66 AGJV has
+not cited nor have we found a case where the contractor completes the work after the
+date for which the government should have granted an extension and is nevertheless
+able to recover on an acceleration claim.
+
+         AGJV’s appeal on constructive acceleration is thus denied.
+
+                                     CONCLUSION
+
+         For the reasons discussed above:
+
+         We deny Appeal No. 61252, the differing site conditions claim.
+
+         We deny Appeal No. 61402, the claim regarding working hours.
+
+       As detailed above, we grant, in part, Appeal No. 60428, the fire sprinkler claim.
+Appeal No. 60691, which was a protective appeal on the same matter is subsumed into
+our decision on Appeal No. 60428. Appeal No. 60428 is remanded to the parties to
+calculate damages in accordance with this decision.
+
+       As detailed above, we grant, in part, Appeal No. 60426, the ESS claim. Appeal
+No. 60689, which was another protective appeal on this subject is subsumed into our
+decision on Appeal No. 60426. Appeal No. 60426 is remanded to the parties to
+calculate damages in accordance with this decision.
+
+       The liquidated damages asserted by the Navy and appealed in Appeal
+Nos. 60427 and 60690 are partially sustained and partially denied. Because Appeal
+No. 60690 is the appeal of the most up to date government claim for liquidated
+damages, we consider Appeal No. 60427 to be subsumed to it. The quantum for
+liquidated damages needs no remand: the government holds the money, to our
+understanding, and we have held that 11 days of damages at $5,250 per day are due
+and owing to AGJV, which sums to $57,750.
+
+
+66
+     Could AGJV argue that it would have accelerated its work less had it known in
+         April 2012 that it had until August 22, 2012? Such a hypothetical argument
+         would be unconvincing because if it put in less work in May, it would have
+         presumably completed the project even later than it did and been subject to
+         greater liquidated damages. In any event, the evidence does not support such a
+         fine parsing of degrees of lateness by AGJV.
+
+                                            65
+     The parties have not briefed the subject of when interest should accrue on these
+damages, so this must be addressed on the remand to the parties.
+
+       Finally, Appeal No. 61715, for the acceleration claim, is denied.
+
+
+       Dated: May 30, 2023
+
+
+                                                    J. REID PROUTY
+                                                    Administrative Judge
+                                                    Vice Chairman
+                                                    Armed Services Board
+                                                    of Contract Appeals
+
+ I concur                                           I concur
+
+
+ RICHARD SHACKLEFORD                                ELIZABETH WITWER
+ Administrative Judge                               Administrative Judge
+ Acting Chairman                                    Armed Services Board
+ Armed Services Board                               of Contract Appeals
+ of Contract Appeals
+
+
+       I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA Nos. 60426, 60427, 60428,
+60689, 60690, 60691, 61252, 61402, 61715, Appeals of Amatea/Grimberg JV,
+rendered in conformance with the Board’s Charter.
+
+       Dated: May 30, 2023
+
+
+                                                PAULLA K. GATES-LEWIS
+                                                Recorder, Armed Services
+                                                Board of Contract Appeals
+
+
+                                           66

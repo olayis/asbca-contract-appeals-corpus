@@ -1,0 +1,1306 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+ Appeals of -                                  )
+                                               )
+ Al Ghanim Combined Group W.L.L.               )    ASBCA Nos. 62321, 62984
+                                               )
+ Under Contract No. W912ER-14-D-0005           )
+
+ APPEARANCE FOR THE APPELLANT:                      Sam Zalman Gdanski, Esq.
+                                                     Gdanski Law PC
+                                                     Teaneck, NJ
+
+ APPEARANCES FOR THE GOVERNMENT:                    Michael P. Goodman, Esq.
+                                                     Engineer Chief Trial Attorney
+                                                    Cara M. Mroczek, Esq.
+                                                    Ken T Kajihiro, Esq.
+                                                    Aimee L. Rippeon, Esq.
+                                                     Engineer Trial Attorneys
+                                                     U.S. Army Engineer District, Middle East
+
+                OPINION BY ADMINISTRATIVE JUDGE HERZFELD
+
+       Al Ghanim Combined Group W.L.L. (Al Ghanim) seeks its delay costs from
+the United States Army Corps of Engineers (Army Corps) for awaiting the arrival of
+security escorts before it could travel to do construction work at two buildings
+at Camp Ali Al Salem, Kuwait, in 2018. The parties submitted the appeals on the
+record under ASBCA Rule 11. For the reasons discussed below, we sustain
+Al Ghanim’s appeal in the amount of $34,320.11, plus applicable Contract Disputes
+Act (CDA) interest.
+
+                                 FINDINGS OF FACT
+
+
+I.     The Contract and the Security Escort Process
+
+        On November 7, 2013, the Army Corps awarded Al Ghanim an indefinite
+delivery/indefinite quantity job order contract (Contract) to perform “sustainment,
+restoration, and modernization . . . projects at installations in Kuwait” (62321 R4, tab 3
+at 3; 62984 R4, tab 5 at 3). On September 29, 2017, the Army Corps awarded two task
+orders to Al Ghanim to perform minor construction and repair work at Camp Ali Al
+Salem’s Joint Logistics Operations Center Facility A office (JLOC-A) and Joint
+Logistics Operations Center Facility B office (JLOC-B) (62321 R4, tab 12 at 2 (JLOC-
+A); 62984 R4, tab 7 at 3 (JLOC-B)). The task orders included a contract completion
+date of July 16, 2018 (62321 R4, tab 12 at 3; 62984 R4, tab 7 at 4).
+
+         To perform the task orders necessarily required Al Ghanim to work on-site
+at Camp Ali Al Salem in Kuwait. The base’s Air Force wing served “as the primary
+airlift hub and gateway for delivering combat power to joint and coalition forces in the
+U.S. Central Command Area of Responsibility” (supp. R4, tab 28 at 1; tab 29 at 1).
+The air base is located approximately 39 miles from the Iraqi border (supp. R4, tab 29
+at 1; tab 27).
+
+       Before the parties entered the contract, the Air Force’s Commander of the Ninth
+Air Force had issued an order requiring military escorts while on base: “All [local
+national/other country national] personnel under [United States Air Force] control and
+performing contracted services require escort unless the wing commander deems
+otherwise” (supp. R4, tab 24 at 3 (Air Force Central Instruction 32-1002); tab 36 –
+Lantz decl. ¶ 4). 1 This order – Air Force Central Instruction 32-1002 – applied to “all
+Air Force military, civilian, and contracted personnel” of the Ninth Air Force “while
+deployed to the” United States Central Command area of responsibility, which
+included Camp Ali Al Salem (supp. R4, tab 24 at 3 (Air Force Central Instruction 32-
+1002); tab 36 – Lantz decl. ¶ 4). The instruction’s “Commander’s Intent” section
+explained that “escorts are needed for [local national], [other country national] and
+contract employees in areas containing essential personnel, equipment, or information
+that must be protected from sabotage or disclosure to enemy forces” (supp. R4, tab 24
+at 3 (Air Force Central Instruction 32-1002)). However, later in the instruction under
+the “Personnel Requiring Escort” section, it clarified that it only applied to contracting
+personnel: “All [local national/other country national] personnel under USAF control
+and performing contracted services require escort unless the wing commander deems
+otherwise” (id.). The order also warned service members that “[f]ailure to comply is a
+potential violation” of the Uniform Code of Military Justice (id.).
+
+       Consistent with the order, the Contract warned that “[a]ll work under this
+contract is to be accomplished on secure sites,” which meant “[c]ontractor personnel
+and work crews shall be required to be in the presence of Government Escorts at all
+times they are on the installations” (62321 R4, tab 3 at 53-54; 62984 R4, tab 5 at 53-
+54). The Contract further explained, “Security requirements and restrictions are for
+the specific purpose of protecting the security and force protection interests of the
+government. Protecting these interests will at all times take precedence over the
+accomplishment of the work under this contract.” (62321 R4, tab 3 at 54; 62984 R4,
+
+1
+    The Army Corps provided a 2021 version of Air Force Instruction 32-1002, but
+         explained by declaration that this version is “substantively similar” to the
+         version in effect in 2018 at the time the Al Ghanim escorts at issue took place
+         (supp. R4, tab 36 – Lantz decl. ¶ 4). Al Ghanim has not disputed these facts.
+                                             2
+tab 5 at 54) The Contract also warned, “The capacity of the government to provide
+Escorts is limited, and subject to unavoidable shortages” (62321 R4, tab 3 at 54; 62984
+R4, tab 5 at 54). “Work and work schedule shall be required to be adjusted in
+accordance with the Government’s ability to provide Escorts” (62321 R4, tab 3 at 54;
+62984 R4, tab 5 at 54).
+
+        The Contract set up a process for Al Ghanim to obtain escorts (62321 R4, tab 3
+at 54; 62984 R4, tab 5 at 54). The Contract required Al Ghanim to “provide the
+Contracting Officer with a twice per week report (in writing) with projections of
+manpower to be working on a daily basis . . . . to obtain accurate estimates weekly in
+order that the number of Government Escorts can be planned and provided to meet
+Contractor work requirements” (62321 R4, tab 3 at 54; 62984 R4, tab 5 at 54). “No
+later than 1200 hours each day, Contractor shall provide the Contracting Officer with
+an accurate report as to numbers of personnel, crews and crew sizes to be working on
+the following work day, and shall confirm that the required escorts will be available”
+(62321 R4, tab 3 at 54; 62984 R4, tab 5 at 54).
+
+         The Contract indicated that site locations requiring escorts “[m]ost commonly .
+. . pertain to U.S. Air Force and they shall provide escorts” (62321 R4, tab 3 at 56;
+62984 R4, tab 5 at 56). As anticipated by the Contract, the Air Force conducted the
+escorts at Camp Ali Al Salem and required Al Ghanim to submit escort request forms
+(app. R11 br., ex. F; supp. R4, tab 30; tab 33 at 50 (Al Ghanim representative
+acknowledging Air Force provided escorts)). The escort forms stated: “An escort
+request does not guarantee availability” (app. R11 br., ex. F at 147; supp. R4, tab 30).
+
+        As part of the bidding process on the Contract, contractors (including
+Al Ghanim) had to submit a price based on a coefficient, which meant “a numerical
+factor that represents costs not considered to be included in ‘Unit Price Book’ unit
+prices” that were provided as an attachment to the Contract (62321 R4, tab 3 at 37, 39;
+62984 R4, tab 5 at 37, 39). “Coefficients shall consist of items such as: general and
+administrative and other overhead costs, insurance costs, bonding and alternative
+payment protection costs, protective clothing, equipment rental, sales tax and
+compliance with tax laws and also contractor’s profit, as applicable” (62321 R4, tab 3
+at 39; 62984 R4, tab 5 at 39). The Contract also stated, “In formulating his proposal
+for the coefficients, Contractor will consider and account for the cost implications
+inherent in accomplishment of work on secure installations” (62321 R4, tab 3 at 54;
+62984 R4, tab 5 at 54). The Contract specifically stated that it should include all costs
+of “complying with security measures including obtaining host nation gate passes,
+DBIDS [Defense Biometric Identification System] Registration . . . Local Employed
+Personnel (LEP) interviews, processing times through vehicle search area both in and
+out of base, and complying with escort policies” as part of the coefficients (62321 R4,
+tab 3 at 40; 62984 R4, tab 5 at 40). Al Ghanim’s coefficients factored in all these
+security requirements including delays of up to 30 minutes to account for the
+
+                                            3
+contractor’s completion of all required on-base processing at the facility and when
+government escorts would be available to shepherd the contractor around the base to
+conduct work (app. R11 br., Lakshmi aff. ¶¶ 9, 15; 62321 R4, tab 3 at 9-11; 62984 R4,
+tab 5 at 9-11).
+
+II.      Delays During Performance
+
+       Consistent with the Contract, Al Ghanim submitted escort request forms in
+advance of days the contractor planned to work (app. R11 br., ex. F). Al Ghanim
+usually identified the time it would arrive at the Visitor Control Center and the time
+30 minutes later when the Air Force would need to provide the security escort (id.). 2
+Air Force enlisted personnel with the force protection unit regularly coordinated with
+and approved Al Ghanim’s escort requests, usually stating that the force protection
+unit could “accommodate” the escort request (id.; supp. R4, tab 38 – Nichols decl. ¶ 6
+(officer noting that he was sometimes copied on escort requests, but he was not part of
+the force protection unit). Al Ghanim copied the Army Corps when it submitted its
+security escort requests and the Corps’ project manager “actively monitored” the force
+protection process in an attempt to avoid or mitigate delays (supp. R4, tab 35 –
+Heffern decl. ¶¶ 13-15).
+
+       Each day, Al Ghanim personnel and equipment had to present their base access
+badges and to pass through the vehicle and contractor security checkpoint at the
+Visitor Control Center before joining the security escorts (supp. R4, tab 40 – Yassin
+decl. ¶¶ 5-8; tab 35 – Heffern decl. ¶¶ 6-10). The Army Corps’ contracting officer’s
+representative agrees with Al Ghanim that this process normally took about 30 minutes
+(supp. R4, tab 40 – Yassin decl. ¶ 11). Thus, we find this 30-minute estimate to be
+reasonable.
+
+        During performance, Al Ghanim notified the contracting officer that it was
+encountering weather and government-caused delays for both the JLOC-A and JLOC-
+B task orders (supp. R4, tab 7 at 20, 22; 62321 R4, tabs 46, 47, 52; 62984 R4, tabs 40,
+51). As to government-caused delays, Al Ghanim explained: “Nearly every time[,]
+the escort arrives late at the [Visitor Control Center] to pick up our crew, consequently
+our crew reaches late to the site” (62321 R4, tab 49 at 1; 62984 R4, tab 47 at 1). The
+government had approved Al Ghanim’s escort requests for a particular time but
+frequently did not come at the specified time to escort Al Ghanim’s personnel to the
+site (supp. R4, tab 33 – Krishna tr. at 58; app R11 br., ex. F). On its daily quality
+
+2
+    The record is missing escort request forms for March 10-31, 2018, April 1-2, 4-15,
+         23-30, 2018, May 1-3, 5-8, 12-15, 2018, for the JLOC-A crew; and March 12-
+         31, 2018, April 1-2, 5-15, 23-30, 2018, and May 1-3, 5-8, 12-15, 2018, for the
+         JLOC-B crew (supp. R4, tab 39 – Witherington decl. ¶ 25(f)(v); tabs 39e, 39f
+         (orange highlighted); app. R11 br., ex. F).
+                                             4
+control reports, Al Ghanim noted when Al Ghanim’s personnel arrived at the Visitor
+Control Center, when the security escort arrived at the Visitor Control Center (for most
+days), and when Al Ghanim arrived at the work site that day (app. R11 br., exs. A.4,
+A.5). On some days, however, Al Ghanim’s personnel arrived at the Visitor Control
+Center later than the agreed-to time (supp. R4 tab 39 – Witherington decl. ¶ 12(k)(v);
+tabs 39e & 39f (gray highlighted days); app. R11 br., ex. F; ex. A.4 at 668, 776-78, ex.
+A.5 at 135, 460, 568-669).
+
+III.   Al Ghanim’s Requests for Equitable Adjustment and Claims Seeking Costs for
+       Security Escort Delays
+
+       On November 18, 2018, Al Ghanim submitted two documents styled as
+requests for equitable adjustment seeking time extensions and costs for security escort
+and weather delays from January through October 2018 (62321 R4, tab 57; 62984 R4,
+tab 3). For JLOC-A, Al Ghanim requested a 41-day time extension and costs of
+$206,621.96 (62321 R4, tab 57 at 1). For JLOC-B, Al Ghanim also requested a 41-
+day time extension and costs of $206,328.89 (62984 R4, tab 3 at 1). For each day on
+which Al Ghanim alleged a delay, Al Ghanim broke its delay costs into four items: (1)
+technical staff and manpower costs; (2) equipment costs; (3) indirect extended
+overhead costs; and (4) other indirect expenses (62321 R4, tab 57 at 9-368; 62984 R4,
+tab 3 at 10-364). Al Ghanim certified each request as required by the Requests for
+Equitable Adjustment clause, Defense Federal Acquisition Regulation Supplement
+(DFARS) 252.243-7002 (DEC 2012) (62321 R4, tab 57 at 2; 62984 R4, tab 3 at 2;
+62321 R4, tab 3 at 23 (Contract incorporating DFARS clause); 62984 R4, tab 5 at 23
+(same)).
+
+       For the first several months of 2019, representatives from Al Ghanim and the
+Army Corps met and attempted to negotiate a resolution to Al Ghanim’s requests for
+equitable adjustment (supp. R4, tabs 16, 17; tab 40 – Yassin decl. ¶¶ 13-18). By April
+2019, the parties had reached a stalemate. The Army Corps would not award any cost
+adjustment for any delays, but recognized escort delays of 12 days (and delays of 22
+days due to badging appointments and seven days due to severe weather) (supp. R4,
+tab 16 at 2-3; tab 17 at 2-3; tab 40 – Yassin decl. ¶¶ 18, 20-21).
+
+        On May 20, 2019 (after the unsuccessful negotiations and while waiting for a
+decision on its requests for equitable adjustment), Al Ghanim submitted a combined
+document styled as a request for equitable adjustment, reiterating its requests for a 41-
+day time extension and $412,950.85 for delays encountered at the Visitor Control
+Center while accessing the base between January and October 2018 (62984 R4, tab 56
+at 1; 62321 R4, tab 58 at 1). Of the total costs, Al Ghanim again reiterated that it
+sought $206,621.96 related to work on JLOC-A and $206,328.89 related to work on
+JLOC-B (62984 R4, tab 56 at 1-2, 16-21, 389-94; 62321 R4, tab 58 at 1-2, 16-21, 389-
+94). Al Ghanim attached a document labeled as a “draft” titled “Letter Request for
+
+                                            5
+Contracting Officer Final Decision (‘COFD’) under the Contract Disputes Act
+(‘CDA’)” which Al Ghanim “submitted so that the Government can immediately
+review the matter for a mutual and amicable finalization, and . . . . [i]f resolution
+cannot be achieved bilaterally, then consider this a ‘Claim’ under the Contract
+Disputes Act” (62984 R4, tab 56 at 2; 62321 R4, tab 58 at 2). Al Ghanim included no
+certification with this submission, neither as a claim under the CDA nor as a request
+for equitable adjustment (62984 R4, tab 56 at 2; 62321 R4, tab 58 at 2). Although
+seeking delay costs, Al Ghanim cited the Contract’s Changes clause, which states: “If
+any change under this clause causes an increase or decrease in the Contractor’s cost of,
+or the time required for, the performance of any part of the work under this contract,
+whether or not changed by any such order, the Contracting Officer shall make an
+equitable adjustment and modify the contract in writing.” Federal Acquisition
+Regulation (FAR) 52.243-4(d) (JUN 2007) (incorporated by reference in Contract,
+62321 R4, tab 3 at 22; 62984 R4, tab 5 at 22; 62984 R4, tab 56 at 2; 62321 R4, tab 59
+at 2). The Contract also includes a Suspension of Work clause that states:
+
+              If the performance of all or any part of the work is, for an
+              unreasonable period of time, suspended, delayed, or
+              interrupted (1) by an act of the Contracting Officer in the
+              administration of this contract, or (2) by the Contracting
+              Officer’s failure to act within the time specified in this
+              contract (or within a reasonable time if not specified), an
+              adjustment shall be made for any increase in the cost of
+              performance of this contract (excluding profit) necessarily
+              caused by the unreasonable suspension, delay, or
+              interruption, and the contract modified in writing
+              accordingly.
+
+FAR 52.242-14(b) (APR 1984) (incorporated by reference in Contract, 62321 R4,
+tab 3 at 22; 62984 R4, tab 5 at 22).
+
+        On June 16, 2019, the Army Corps responded to Al Ghanim’s November 2018
+requests for equitable adjustment for “entry-related delays to site access due to security
+forces being late in providing necessary escorts and delays due to severe weather
+conditions” from January through October 2018 (62321 R4, tab 59 at 1; 62984 R4,
+tab 57 at 1). The contracting officer recognized that Al Ghanim had shown six days of
+severe weather delays and 36 days related to security escort delays (62321 R4, tab 59
+at 2; 62984 R4, tab 57 at 2). The agency explained: “The Government’s daily Quality
+Control records support [Al Ghanim’s] assertions of escort delays on the days
+identified” (62321 R4, tab 59 at 2; 62984 R4, tab 57 at 2). The contracting officer
+granted Al Ghanim an “additional two days of time extension for escort delays”
+because the “overall impact” was likely greater than just the specific days directly
+impacted (62321 R4, tab 59 at 3; 62984 R4, tab 57 at 3).
+
+                                            6
+        While granting time extensions, the contracting officer refused to award any
+costs to Al Ghanim for the delays (62321 R4, tab 59 at 4; 62984 R4, tab 57 at 4). “The
+Government has made no change to the contract regarding its weather or escort
+requirements, and therefore no change has occurred” (62321 R4, tab 59 at 4; 62984
+R4, tab 57 at 4). The contracting officer believed that “both weather and escort delays
+are to be considered as excusable, non-compensable delays” under the Contract (62321
+R4, tab 59 at 4; 62984 R4, tab 57 at 4). The contracting officer relied on the excusable
+delays provision of the Contract’s Default clause, which states a contractor “shall not
+be terminated” where the “delay in completing the work arises from unforeseeable
+causes beyond the control and without the fault or negligence of the Contractor” such
+as “acts of the Government in either its sovereign or contractual capacity” and
+“unusually severe weather.” FAR 52.249-10(b)(1)(ii) & (x) (APR 1984) (incorporated
+by reference in the Contract, 62321 R4, tab 3 at 23; 62984 R4, tab 5 at 23). The
+contracting officer explained, “Default-related events do not entitle [Al Ghanim] to
+extended site overhead costs; only the time it was impacted by the events” (62321 R4,
+tab 59 at 4; 62984 R4, tab 57 at 4). Thus, the contracting officer denied Al Ghanim’s
+request for costs but agreed “to a time extension of 44 days due to excusable, non-
+compensable delay” (62321 R4, tab 59 at 4; 62984 R4, tab 57 at 4). While the
+contracting officer titled the final section of the letter as the “Final Decision,”
+throughout the letter (including in that section) the government was responding to Al
+Ghanim’s requests for equitable adjustment (62321 R4, tab 59 at 1, 4; 62984 R4, tab
+59 at 1, 4). The contracting officer’s responses to the requests for equitable adjustment
+did not include any notice of appeal rights as required by the CDA and FAR
+33.211(a)(4)(v).
+
+        After issuing the decisions on the requests for equitable adjustment, the Army
+Corps unilaterally modified each task order to grant Al Ghanim “a time extension of
+44 non compensable days” for weather and security escort delays (62321 R4, tab 16 at
+1, 4; 62984 R4, tab 12 at 1; supp. R4, tab 20 at 1; supp. R4, tab 21 at 1). The
+modification extended the contract completion date to November 7, 2018 (supp. R4,
+tab 20 at 1; tab 21 at 1).
+
+       On August 22, 2019, the parties exchanged correspondence indicating an
+understanding that the requests for equitable adjustment were still open to discussion
+(supp. R4, tab 22). The contracting officer’s representative stated, “We understand
+there are open REA for the JLOC projects . . . , but we need to confirm when are you
+submitting your final invoices” (supp. R4, tab 22 at 2). Al Ghanim responded to the
+contracting officer’s representative and the contracting officer: “[F]or JLOC’s REA,
+we will be submitting a reply to the KO’s letter next week. Upon receiving KO’s
+reply to our letters, we will notify you with our decision on the submission of the final
+payments” (id.). On September 10, 2019, the contracting officer’s representative
+requested an update, indicating that the contracting officer had not yet received Al
+Ghanim’s letter with the “JLOC closeout invoice” (id.). Later that day the contracting
+
+                                            7
+officer stated that “REA Response Letters for JLOC A & B” were “final” and “[t]his
+REA is considered closed and we need it close it” [sic] (supp. R4, tab 22 at 1).
+
+        The next day, on September 11, 2019, Al Ghanim requested that the contracting
+officer issue a final decision under the CDA regarding its JLOC-A claim for delay
+costs of $206,621.96 (62321 R4, tab 2 at 1; supp. R4, tab 23 at 2 (email attaching the
+letter)). On December 30, 2019, Al Ghanim requested a final decision under the CDA
+regarding its JLOC-B claim for delay costs of $206,328.89 (62984 R4, tab 4 at 1, 3).
+Responding to the contracting officer’s June 16, 2019 determination, Al Ghanim
+argued that there was no sovereign act that justified awarding only a time extension
+but not costs due to the delay (62321 R4, tab 2 at 1; 62984 R4, tab 4 at 3). Al Ghanim
+also noted its belief that the contracting officer’s response to the request for equitable
+adjustment “was apparently not issued as a ‘final decision’” and “[t]hus we do not
+believe any jurisdictional requirements had attached for Appeal purposes to the
+ASBCA and/or the United States Corps [sic] of Federal Claims” (62321 R4, tab 2 at 1;
+62984 R4, tab 4 at 3). Consistent with this understanding, Al Ghanim certified its
+claim per the CDA as delineated by the Contract’s Disputes clause (62321 R4, tab 2
+at 2; 62321 R4, tab 3 at 22 (Contract incorporating by reference, FAR 52.233-1 Alt. 1,
+DISPUTES (DEC 1991)); 62984 R4, tab 4 at 4; 62984 R4, tab 5 at 22).
+
+       On October 9, 2019, Al Ghanim sent an email to the Army Corps Area
+Engineer (copying the contracting officer) that it still was “waiting” for a response
+from the Army Corps regarding its September 11, 2019 certified claim (supp. R4,
+tab 23 at 1). In response on the same day (now more than 90 days after the June 2019
+request for equitable adjustment decisions), the Army Corps Area Engineer (copying
+the contracting officer) asserted that the June 2019 decision “WAS the final decision”
+and “[t]here is no other letter coming your way to respond” to the certified claim (id.).
+
+        On December 20, 2019, Al Ghanim noticed an appeal to this Board based on a
+deemed denial of its claim regarding costs relating to the JLOC-A task order, which
+we docketed as ASBCA No. 62321. On July 16, 2021, Al Ghanim noticed an appeal
+to this Board based on a deemed denial of its claim regarding costs relating to the
+JLOC-B task order, which we docketed as ASBCA No. 62984. We subsequently
+granted Al Ghanim’s request to consolidate the appeals. In its complaints, Al Ghanim
+stated that the “underlying dispute arises out of delay claims” and the “government
+failure to properly sustain its own employees where the government is responsible for
+the delay is a ‘constructive change’” (62321 compl. at 1-2; 62984 compl. ¶¶ 1, 7).
+
+IV.    The Costs Sought by Al Ghanim on Appeal
+
+      Al Ghanim has reduced the amount it seeks for the delay costs because (1) it
+determined that several days were the result of weather conditions (for which it seeks
+no compensation) rather than delays in arrival of the Air Force security escorts, and (2)
+
+                                            8
+it now seeks only its direct costs and no longer seeks any overhead costs (app. R11 br.,
+ex. A.1; Lakshmi aff. ¶ 15). Al Ghanim seeks $131,174.88 in delay costs related to its
+work at JLOC-A (app. R11 br., ex. A.2 at 6). Al Ghanim seeks $124,056.07 in delay
+costs related to its work at JLOC-B (app. R11 br., ex. A.3 at 101).
+
+        To support its appeal, Al Ghanim relies on its daily quality control reports, in
+which it noted contemporaneously when Al Ghanim’s personnel arrived at the Visitor
+Control Center, when the security escort arrived at the Visitor Control Center (for most
+days), and when Al Ghanim arrived at the work site that day (app. R11 br., exs. A.4,
+A.5). For each of the days of delay, Al Ghanim subtracts 30 minutes as priced into its
+daily costs for processing through the Visitor Control Center (app. R11 br., exs. A.2,
+A.3). Based on these daily records and subtracting 30 minutes of time each day, Al
+Ghanim claims delays of between 10 minutes and four hours on 73 days for JLOC-A
+and 71 days for JLOC-B (app. R11 br., exs. A.1-A.3). For each day, Al Ghanim
+calculated its total manpower daily rate by using the number and type of employees (as
+reflected in the contractor’s daily quality control reports and the government’s quality
+assurance reports), hours worked, and an average hourly rate from the labor rates for
+each day using the timecards of each employee that worked for Al Ghanim (app. R11
+br., ex. A.2 at 7-76; ex. A.3 at 130-73; exs. C & D; exs. A.4-A.5; 62321 R4, tab 69;
+62984 R4, tab 68). For each day, Al Ghanim calculated its equipment rate based on
+the equipment it used that day (as reflected on the contractor’s quality control reports
+and the government’s quality assurance reports) using the “actual values” for the
+hourly rates of the equipment identified by name and serial number (app. R11 br.,
+ex. A.2 at 77-97; A.3 at 107-24; Lakshmi aff. ¶ 17; app. R11 br., exs. A.4-A.5; 62321
+R4, tab 69; 62984 R4, tab 68). Al Ghanim stated that it owned all the equipment used
+(app. R11 br., ex. A.1 at 2).
+
+       The Army Corps presented evidence analyzing Al Ghanim’s alleged delays
+(supp. R4, tab 39). The agency’s cost analyst questioned the reliability and sufficiency
+of Al Ghanim’s documentation to support its labor rates because Al Ghanim “did not
+provide certified payroll information” in addition to the daily timecards (supp. R4,
+tab 39 – Witherington decl. ¶ 27(f)). Nevertheless, the cost analyst concluded that “the
+number and type of direct laborers claimed in the New Documentation was mostly
+supported by the Working Cards, but there were a small number of discrepancies
+where [Al Ghanim] either slightly overreported or underreported the number of
+laborers” (supp. R4, tab 39 – Witherington decl. ¶ 27(g)).
+
+        The agency’s cost analyst also questioned the equipment rates because
+Al Ghanim allegedly failed to include information regarding the “equipment’s year
+purchased, make, model, tire type, and engine type” that would allow confirmation of
+“industry standard active and standby rates” (supp. R4, tab 39 – Witherington decl.
+¶ 27(d)(iii)). The analyst asserted that the equipment should be billed at a standby or
+idle rate “because it is not actively being operated and used,” during the delay, which
+
+                                           9
+would result in a “lower hourly rate based on use and equipment depreciation,” but it
+“appear[ed]” that Al Ghanim used its “active rate for all equipment” (supp. R4, tab 39
+– Witherington decl. ¶¶ 27(d)(i) & (ii)).
+
+       Despite questioning the labor and equipment documentation, the cost analyst
+nevertheless used Al Ghanim’s cost information in assessing the delay costs (supp. R4,
+tab 39 – Witherington decl. ¶¶ 25(a)-(b)). The cost analyst reviewed Al Ghanim’s cost
+and supporting documentation and re-calculated Al Ghanim’s delay costs (id.). First,
+the cost analyst determined that Al Ghanim “provided no justification . . . as to why
+[Al Ghanim] included additional time past the escorts’ arrival” at the Visitor Control
+Center, so any travel time from the Visitor Control Center to the site was eliminated
+from his calculation of recoverable delay costs (id. ¶ 27(a); tabs 39g-39h). Second, the
+cost analyst removed any days where Al Ghanim provided no supporting
+documentation (such as quality control reports or approved security escort request
+forms) to prove when the security escorts arrived or were supposed to arrive at the site
+(supp. R4, tab 39 – Witherington decl. ¶¶ 25(f)(i)-(ii) & (v); tabs 39e & 39f (red and
+orange highlights)). Third, the cost analyst removed any days where adverse weather
+caused work stoppages or Al Ghanim encountered wet site conditions (supp. R4, tab
+39 – Witherington decl. ¶¶ 25(f)(iii) & (iv); tabs 39e & 39f (blue and yellow
+highlights)).
+
+       For the remaining days, the cost analyst calculated the delays from the time
+when Al Ghanim arrived at the Visitor Control Center (whether on-time or late)
+through when the security escorts arrived at the Visitor Control Center (subtracting out
+30 minutes for Al Ghanim’s processing through security at the center) (supp. R4,
+tab 39 – Witherington decl. ¶ 29, tabs 39e-39h). The cost analyst then multiplied the
+delay time for each day with Al Ghanim’s equipment and personnel costs for the day
+(supp. R4, tab 39 – Witherington decl. ¶ 29; tabs 39g & 39h). The cost analyst
+concluded that Al Ghanim should recover for 31.14 hours of delay and $17,940 for
+JLOC-A, and 26.7 hours of delay and $14,936 for JLOC-B (supp. R4, tab 39 –
+Witherington decl. ¶ 29; tabs 39g & 39h). In total, the cost analyst concluded that Al
+Ghanim would be entitled to $32,876 in compensable delays for both JLOC-A and
+JLOC-B (supp. R4, tab 39 – Witherington decl. ¶ 29; tabs 39g & 39h).
+
+       The government initially moved for summary judgment on its sovereign acts
+defense and the parties briefed the matter. The parties then requested that the entire
+appeal be submitted on the record under ASBCA Rule 11, including agreeing to treat
+the summary judgment briefing of the sovereign acts defense under the same standard
+of review as Rule 11 instead of the summary judgment standard of review.
+
+
+                                          10
+                                     DECISION
+
+I.    Standard of Review
+
+       Board Rule 11 allows the parties to waive a hearing and submit an appeal on
+the record. Board Rule 11(a); Consorzio Stabile GMG S.c.ar.l., ASBCA No. 62753,
+23-1 BCA ¶ 38,347 at 186,213. Under Board Rule 11, we conduct a “trial on the
+record;” we may weigh evidence, including resolving any disputed facts in making our
+findings of fact and rendering our decision. D-STAR Eng’g Corp., ASBCA
+Nos. 62075, 62780, 25-1 BCA ¶ 38,816 at 188,819, 188,826. We conduct a de novo
+review without deference to the contracting officer’s final decisions. Dep’t of Transp.
+v. Eagle Peak Rock & Paving, Inc., 69 F.4th 1367, 1374-76 (Fed. Cir. 2023);
+41 U.S.C. § 7103(e); ASBCA Rule 10(c), (d).
+
+        Al Ghanim, as the proponent of the claims, bears the burden of proof.
+FlightSafety Int’l, Inc., ASBCA No. 62659, 23-1 BCA ¶ 38,245 at 185,709, aff'd, 130
+F.4th 926 (Fed. Cir. 2025). The Army Corps bears the burden of proving its
+affirmative defense invoking the sovereign acts doctrine. Conner Bros. Constr. Co. v.
+Geren, 550 F.3d 1368, 1371 (Fed. Cir. 2008) (“The doctrine is an affirmative defense
+that is an inherent part of every government contract.”); Frazier Invs., Inc., ASBCA
+No. 63001, 23-1 BCA ¶ 38,313 at 186,042 (“As the proponent of any affirmative
+defense, the [government] bears the burden of proof.”).
+
+II.   Jurisdiction – Al Ghanim Timely Appealed
+
+        Neither party has challenged our jurisdiction to consider Al Ghanim’s appeals
+but based on our review of the record we are obligated to raise the issue of timeliness
+sua sponte to assure that the Board has jurisdiction. White Balad Co., ASBCA
+No. 62934, 22-1 BCA ¶ 38,056 at 184,786. We must assess whether the Army Corps’
+June 2019 determinations regarding Al Ghanim’s requests for equitable adjustment
+triggered the running of the 90-day statute of limitations for bringing appeals to the
+Board, which is jurisdictional and may not be waived. 41 U.S.C. § 7104(a) (“A
+contractor, within 90 days from the date of receipt of a contracting officer’s decision
+under section 7103 of this title, may appeal the decision to an agency board as
+provided in section 7105 of this title.”); Kellogg Brown & Root Servs., Inc., ASBCA
+No. 62681 et al., 22-1 BCA ¶ 37,974 at 184,426 (“The 90-day limitation is
+jurisdictional and, thus, may not be waived.”). We conclude that Al Ghanim’s appeals
+were timely because the agency did not treat the determinations as final and
+prejudicially failed to include the required appeal rights in its June 2019
+determinations.
+
+       Al Ghanim labeled its November 2018 submissions as requests for equitable
+adjustments (62321 R4, tab 57; 62984 R4, tab 3). However, the Federal Circuit has
+
+                                          11
+instructed that labels are not dispositive as to whether a submission is a request for
+equitable adjustment or a claim. Zafer Constr. Co. v. United States, 40 F.4th 1365,
+1367-68 (Fed. Cir. 2022); Hejran Hejrat Co. v. United States Army Corps of Eng’rs,
+930 F.3d 1354, 1357 (Fed. Cir. 2019). We look to three objective criteria to assess
+whether a submission is a claim rather than a request for equitable adjustment: (1) the
+submission must meet the definition of a “claim” as defined by the Disputes clause in
+a contract (and FAR); (2) the submission includes a CDA certification (or some type
+of sworn statement that can be perfected into a CDA certification); and (3) the
+contractor must request a final decision from the contracting officer. Mindseeker, Inc.,
+ASBCA No. 63197, 24-1 BCA ¶ 38,666 at 187,960 (citing Zafer Constr., 40 F.4th
+at 1367-68).
+
+       First, Al Ghanim’s November 2018 submissions met the definition of a
+monetary “claim” under the CDA – “a written demand or written assertion by one of
+the contracting parties seeking, as a matter of right, the payment of money in a sum
+certain . . . arising under or relating to this contract.” FAR 52.233-1(c) (incorporated
+by reference in the Contract, 62321 R4, tab 3 at 22; 62984 R4, tab 5 at 22); Zafer
+Constr., 40 F.4th at 1367 (recognizing that the FAR definition of a claim governs the
+use of the term under the CDA).
+
+        Second, the November 2018 submissions included a certification per the
+Contract’s Requests for Equitable Adjustment clause (not under the CDA) (62321 R4,
+tab 57 at 2; 62984 R4, tab 3 at 2). DFARS 252.243-7002 (incorporated by reference in
+Contract, 62321 R4, tab 3 at 23; 62984 R4, tab 5 at 23 (same)). That is some evidence
+that Al Ghanim meant the submissions to be requests for equitable adjustment, but it is
+not dispositive to whether the document constituted a certified claim because any
+defective certification can be perfected into a CDA certification by statute. BAE Sys.
+Ordnance Sys., Inc., ASBCA No. 62416, 21-1 BCA ¶ 37,800 at 183,578 (noting “that
+the use of the REA certification [does] not prevent a submission from being a valid
+claim since the REA certification, notwithstanding its limitations, could be considered
+a defective, but curable CDA certification”); 41 U.S.C. § 7103(b)(3) (“A defect in the
+certification of a claim does not deprive a court or an agency board of jurisdiction over
+the claim.”).
+
+       Third, Al Ghanim requested a final decision from the contracting officer.
+During the parties’ negotiations they treated the submission as a request for equitable
+adjustment (supp. R4, tabs 16, 17; tab 40 – Yassin decl. ¶¶ 13-18). However, after
+negotiations broke down, Al Ghanim’s May 2019 submission included a “draft”
+document titled “Letter Request for Contracting Officer Final Decision (‘COFD’)
+under the Contract Disputes Act (‘CDA’)” and requesting “that the Government can
+immediately review the matter for a mutual and amicable finalization, and . . . . [i]f
+resolution cannot be achieved bilaterally, then consider this a ‘Claim’ under the
+Contract Disputes Act” (62984 R4, tab 56 at 2; 62321 R4, tab 58 at 2). Thus, Al
+
+                                           12
+Ghanim’s May 2019 submission (although lacking any certification) met the third
+requirement for a claim: making a request for a final decision from the contracting
+officer and we hold that, at that point, the requests for equitable adjustment were
+definitively a CDA claim.
+
+       Given the circumstances above, the contracting officer’s June 2019
+determinations could be considered final decisions under the CDA, triggering the 90-
+day statute of limitations for filing an appeal before the Board. Here, nevertheless, Al
+Ghanim reasonably believed that there was no final decision on a claim for it to
+appeal, and in such circumstances, the appeal clock does not run. See Guardian
+Angels Medical Service Dogs, Inc. v. United States, 809 F.3d 1244, 1250-51 (Fed. Cir.
+2016). As discussed above, the June 16, 2019 responses from the contracting officer
+constituted final decisions on the requests for equitable adjustments that we have
+found to meet the definition of “claims.” But they were followed immediately by
+discussion between the Army Corps and Al Ghanim revisiting the issues in the
+requests for equitable adjustment and treating them as “open” (supp. R4, tab 22 at 2).
+Such discussions after the issuance of a final decision “serve to vacate the earlier
+decision along with the accompanying appeal period,” because they demonstrate that
+the decision is non-final. Guardian Angels, 809 F.3d at 1250 (quoting Royal Int’l
+Builders Co., ASBCA No. 42637, 92-1 BCA ¶ 24,684 at 123,135 (emphasis omitted));
+BR Grp., ASBCA No. 63507, 24-1 BCA ¶ 38,699 at 188,158 (finding an appeal timely
+where agency indicated reconsideration of the final decision “was at least a
+possibility”). Thus, the government’s participation in additional talks make the June
+16, 2019 decisions non-final (and the indicia of non-finality is strengthened by the
+contracting officer’s failure to include the statutorily-required notice of appeal rights in
+the June 16 decisions, as discussed below).
+
+       Moreover, the contracting officer’s email on September 10, 2019 – stating that
+the June decisions were “final,” and that “this REA is considered closed and we need
+to close it” – did not reset the final decision date back to June 16, 2019 (supp. R4,
+tab 22 at 1). The Army Corps’ “after-the-fact” characterizations do not change the
+effects of its prior actions, which kept the requests for equitable adjustment open.
+Guardian Angels, 809 F.3d at 1250.
+
+        Nor did the September 10, 2019 email reset the appellate clock. Even if we
+considered the September 10, 2019 email to nominally meet the criteria for a new final
+decision on a “claim,” the Army Corps’ failure to include the statutorily-required
+appeal rights prevented the appeal clock from running, because of actual prejudice to
+Al Ghanim. In particular, the CDA requires that the contracting officer “issue a
+decision in writing,” provide it by mail or otherwise to the contractor, 41 U.S.C. §
+7103(d), and “state the reasons for the decision reached and shall inform the contractor
+of the contractor’s rights as provided in this chapter.” 41 U.S.C. 7103(e); FAR
+33.211(a)(4)(v); Mindseeker, 24-1 BCA ¶ 38,666 at 187,963 (“The CDA requires that
+
+                                            13
+a contracting officer’s final decision must provide a contractor with notice of its right
+to appeal to a board or file suit at the U.S. Court of Federal Claims.”). The contracting
+officer’s email on September 10, though furnished to Al Ghanim, provided no
+explanation of its basis, whatsoever. Nevertheless, it referred to the June letters
+responding to the requests for equitable adjustment and arguably adopted the
+reasoning of the June letters. Thus, apart from its failure to include the appeal rights
+notice, we could find the email to meet the bare bones requirements of a contracting
+officer’s final decision.
+
+        With respect to the advisement of rights, the CDA established the appeal rights
+notice requirement for the “protection of the contractor,” but a contractor still must
+show detrimental reliance on the government’s failure to provide the notice of appeal
+right to excuse an untimely appeal. Decker & Co. v. West, 76 F.3d 1573, 1579 (Fed.
+Cir. 1996); see also Fla. Dep’t of Ins. v. United States, 81 F.3d 1093, 1098 (Fed. Cir.
+1996). Detrimental reliance is when the contracting officer’s “decision, by words of
+commission or omission, actually misled the contractor to its prejudice regarding its
+appellate rights.” Access Personnel Servs., Inc., ASBCA No. 59900, 16-1 BCA
+¶ 36,407 at 177,518. “[N]either Decker nor the CDA imposes an affirmative
+obligation on a contractor to ascertain its appeal rights. The CDA places the
+obligation of notification squarely on the shoulders of the government.” Id. “[W]here
+there is a failure to properly advise the contractor of its appeal rights that failing may
+prevent the ‘appeal clock’ from running.” JAAAT Tech. Servs., LLC, ASBCA
+No. 61792 et al., 21-1 BCA ¶ 37,878 at 183,951.
+
+        Here, Al Ghanim has demonstrated detrimental reliance based on the
+government’s failure to provide notification of the appeal rights. Critically, both
+parties treated the contracting officer’s June 16, 2019 letters as merely addressing what
+both parties saw as requests for equitable adjustments that had not ripened to claims.
+This is why, the day after being informed by the contracting officer that the requests
+for equitable adjustment were considered closed, Al Ghanim submitted a certified
+claim to the contracting officer. This would not have happened if either set of
+documents that could be read as final decisions (the June 16 letters and the September
+10 emails) had included the notice of appeal rights which had made clear that the time
+for negotiating with the Army Corps was over. Indeed, Al Ghanim’s October 9 email
+inquiry to the Army Corps’ Area Engineer (copying the contracting officer) about the
+status of the claim demonstrated that it was unaware that the decisions were final and
+that its last recourse was to appeal the decision. Accordingly, in the context presented
+here, we find it more likely than not that Al Ghanim would have perfected its appeal in
+a timely manner if the government had included the mandatory appellate rights
+notification in its June, September, or October communications. Al Ghanim was
+prejudiced by the government’s failure to provide the appeal rights in any final
+decisions. Thus, its appeals are timely.
+
+
+                                            14
+III.     The Government Has Not Proved the Sovereign Acts Defense
+
+       “The sovereign acts doctrine provides that ‘the United States when sued as a
+contractor cannot be held liable for an obstruction to the performance of the particular
+contract resulting from its public and general acts as a sovereign.’” Conner Bros., 550
+F.3d at 1371 (quoting Horowitz v. United States, 267 U.S. 458, 461 (1925)). When the
+government contracts with a private party, the sovereign acts doctrine balances the
+government’s “rights and duties” as governed by the “law applicable to contracts
+between private individuals” with the government’s “need for freedom to legislate” or
+regulate. United States v. Winstar Corp., 518 U.S. 839, 895-96 (1996) (quoting Lynch
+v. United States, 292 U.S. 571, 579 (1934)). 3
+
+         To invoke the sovereign acts doctrine as an affirmative defense, the government
+must prove two things: (1) a public and general government act; and (2) commercial
+impracticability or impossibility of performance by the government resulting from that
+act. Winstar, 518 U.S. at 891-910; Klamath Irrigation Dist. v. United States, 635 F.3d
+505, 520-22 (Fed. Cir. 2011) (quoting, inter alia, Yankee Atomic Elec. Co. v. United
+States, 112 F.3d 1569, 1574 (Fed. Cir. 1997) for the proposition that “the United States
+. . . as a contractor cannot be held liable for an obstruction of performance of the
+particular contract resulting from its public and general acts as a sovereign”); Stockton
+E. Water Dist. v. United States, 583 F.3d 1344, 1366 (Fed. Cir. 2009); Chugach Fed.
+Solutions, Inc., ASBCA No. 62712 et al., 24-1 BCA ¶ 38,681 at 188,046-47.
+
+        The Army Corps asserts that its security escort procedures constituted a
+sovereign act, which bars Al Ghanim from receiving monetary relief and limited Al
+Ghanim’s relief to the non-monetary time extensions that the agency already
+unilaterally provided to Al Ghanim (gov’t R11 br. at 15-19; gov’t SJ mot. at 1-2, 9-10;
+gov’t SJ reply at 1-2). Al Ghanim asserts that the Army Corps has failed to prove
+impossibility to establish the sovereign acts defense (app. R11 br. at 8-9; app. SJ opp’n
+at 12-13). The Army Corps counters that it need not prove impossibility because Al
+Ghanim asserts only delays and not a total material breach of the contract (gov’t SJ
+mot. at 9-10; gov’t SJ reply at 6-7; gov’t R11 br. at 16-17). The government’s motion
+does not clearly state whether the Air Force’s Security Instruction 32-1002 or the
+Air Force’s implementation of that escort requirement constitutes the public and
+general act entitled to the Sovereign Acts defense. Regardless of the interpretation, we
+reject the agency’s assertion and conclude that the sovereign acts defense does not
+apply.
+
+
+3
+    Although Justice Souter’s Winstar decision commanded only the support of a
+         plurality of justices, the Federal Circuit “has treated that opinion as setting forth
+         the core principles underlying the sovereign acts doctrine.” Conner Bros., 550
+         F.3d at 1374.
+                                               15
+       A.     The Requirement to Have Security Escorts was a Public & General
+              Government Act But Does Not Satisfy The Impossibility Requirement
+
+       The Army Corps asserts that the requirement to have security escorts
+constituted a public and general act (gov’t SJ mot. at 9-15; gov’t R11 br. at 15-17).
+The agency relies on an order from the Commander of the Ninth Air Force requiring
+security escorts as the public and general act (supp. R4, tab 24 at 3 (Air Force Central
+Instruction 32-1002); tab 36 – Lantz decl. ¶ 4). Al Ghanim does not dispute that this
+order applied during the term of this Contract when the government required
+Al Ghanim to request and receive approval for security escorts.
+
+              1.    The Order – Air Force Central Instruction 32-1002 – Was A
+                     Public And General Act
+
+       We must determine whether the act was a “genuinely public and general act
+that only incidentally falls upon the contract” or was “simply one designed to relieve
+the Government of its contract duties[.]” Klamath, 635 F.3d at 521 (quoting Stockton,
+583 F.3d at 1366); see also Winstar, 518 U.S. at 895-96 (assessing whether the act is
+“attributable to the Government as contractor” or sovereign). To assess the public and
+general nature of an act, we look at whether (1) the government’s act was specifically
+directed at nullifying contract rights or relieving the government of its contractual
+obligations, and (2) the impact on public contracts (whether direct or indirect) is
+incidental to a broader governmental objective. Winstar, 518 U.S. at 898; Conner
+Bros., 550 F.3d at 1374-75.
+
+       First, the Commander’s order requiring security escorts on bases in the Ninth
+Air Force area of responsibility was neither directed at nullifying contract rights nor
+aborting contractual performance. Conner Bros., 550 F.3d at 1374; see also Zafer
+Taahhut Insaat ve Ticaret A.S. v. United States, 833 F.3d 1356, 1364-65 (Fed. Cir.
+2016). The Commander’s order required escorts to prevent “sabotage or disclosure to
+enemy forces” (supp. R4, tab 24 at 3 (Air Force Central Instruction 32-1002)). This
+was a relevant national security concern, and the instruction was an order issued by a
+military commander, not a contracting official. Conner Bros., 550 F.3d at 1378-79
+(discussing Wilson v. United States, 11 Ct. Cl. 513 (1875)). The government gained
+no economic advantage vis-a-vis the contract by requiring the use of security escorts.
+See Conner Bros., 550 F.3d at 1375.
+
+        Second, the Commander’s order requiring escorts impacted Al Ghanim’s
+contract and other public contracts only incidentally to a broader governmental
+objective. Winstar, 518 U.S. at 898. On the one hand, the order stated its intent was to
+require escorts for all local national, other country national, and contract employees
+(supp. R4, tab 24 at 3 (Air Force Central Instruction 32-1002)). However, the order
+clarified that it applied to personnel “performing contracted services” that were local
+                                           16
+nationals or other country nationals (id.). Despite the order’s impact on Al Ghanim
+and all other service contractors at the installations it covered, it is still permissible “as
+long as the effect on the contractor’s contract rights is incidental to a broader
+government objective,” which it is. Conner Bros., 550 F.3d at 1376.
+
+               2.     The Order Did Not Render Performance Impossible or
+                      Commercially Impracticable
+
+        While the Army Corps has demonstrated the order requiring security escorts
+constituted a public and general act, the Army Corps must still prove impossibility or
+impracticability of performance. ANHAM FZCO, LLC, ASBCA No. 59283, 17-1
+BCA ¶ 36,817 at 179,442 (“The government is excused from performance under the
+sovereign acts defense only when the sovereign act renders the government’s
+performance impossible.”). The Army Corps asserts that it need not prove
+impossibility because this “is not a regulatory amendment sovereign act case” where
+there is a total material breach like Winstar (gov’t SJ mot. at 9-10; gov’t SJ reply at 6-
+7; gov’t R11 br. at 16-17). Not so. The government must still prove impossibility or
+commercial impracticability to rely on the sovereign acts defense to relieve it of
+monetary liability.
+
+         The Army Corps asserts that it need not prove impossibility pointing to two
+decisions where we did not discuss impossibility in our sovereign acts analysis: (1)
+Garco Constr., Inc., ASBCA Nos. 57796, 57888, 14-1 BCA ¶ 35,512 at 174,072-74;
+Garco Constr., Inc., ASBCA Nos. 57796, 57888, 15-1 BCA ¶ 36,135 at 176,378,
+aff’d, 856 F.3d 938 (Fed. Cir. 2017); and (2) Nassar Grp. Int’l N.G.I. S.A.L. (Offshore)
+R.C., ASBCA No. 58451 et al., 22-1 BCA ¶ 38,206 at 185,546-47. In Garco,
+however, the contractor “failed to argue that the government did not satisfy the
+‘impossibility’ requirement of the sovereign act defense,” and waived that argument.
+Garco, 856 F.3d at 942 n.2 (quoting Conner Bros., 550 F.3d at 1379). Here,
+Al Ghanim has raised impossibility. In Nassar, the contractor attempted to assert
+impossibility of performance as an affirmative claim, so the contractor had no reason
+to challenge the government on this point. See Nassar Grp. Int’l, ASBCA No. 58451
+et al., 19-1 BCA ¶ 37,405 at 181,831.
+
+        As we have recently reiterated, the caselaw “absolutely requires application of
+the impossibility test as a component of the sovereign acts defense.” Chugach, 24-1
+BCA ¶ 38,681 at 188,047. And, it would be reversible error if we failed to assess
+impossibility, once raised. Klamath, 635 F.3d at 522 (vacating trial decision for
+failing to assess impossibility in sovereign acts defense). We have regularly found that
+the government must prove impossibility or commercial impracticability when
+invoking the sovereign acts defense, even where the contractor seeks equitable
+adjustments based on delays, changes, or other remedy-granting clauses under a
+contract rather than alleging a total material breach. Chugach, 24-1 BCA ¶ 38,681
+                                              17
+at 188,045 (Changes clause and agency specific health and safety clause); GEMS Env’t
+Mgmt. Servs., ASBCA No. 61737 et al., 24-1 BCA ¶ 38,621 at 187,745-46 (delay
+claim where government demonstrated impossibility); McCarthy HITT – Next NGA
+West JV, ASBCA Nos. 63571, 24-1 BCA ¶ 38,483 at 187,041-42 (declining to dismiss
+constructive change, suspension of work, and implied covenant for good faith and fair
+dealing claims based on the sovereign acts doctrine, because it was not clear “that the
+government will be able to establish the second element, impossibility”); StructSure
+Projects, Inc., ASBCA No. 62927, 23-1 BCA ¶ 38,416 at 186,680 (Changes clause),
+aff’d, No. 2024-1251, 2025 WL 2860720 (Fed. Cir. Oct. 9, 2025); APTIM Fed. Servs.,
+LLC, ASBCA No. 62982, 22-1 BCA ¶ 38,127 at 185,219 (Changes clause). Thus,
+impossibility applies regardless of whether the contractor relies on a remedy granting
+clause under the contract or asserts a breach claim relating to the contract.
+
+       To establish impossibility, the government must prove (1) a supervening event
+that made performance impossible or commercially impracticable, (2) the contract
+assumed the non-occurrence of the supervening event, (3) the government as
+contractor, 4 was not at fault for the occurrence of the supervening event, and (4) the
+government did not assume the risk of the occurrence. Seaboard Lumber Co. v.
+United States, 308 F.3d 1283, 1294-95 (Fed. Cir. 2002); see also Winstar, 518 U.S.
+at 904-10; Chugach, 24-1 BCA ¶ 38,681 at 188,047. Although the Board sometimes
+decides impossibility based on a single, dispositive element, we review each element.
+
+       First – and the government has no defense for this – no supervening event made
+performance impossible or commercially impracticable. Seaboard, 308 F.3d at 1294-
+95. A supervening event occurs after the parties enter into a contract. Shubhada
+Indus., Inc., ASBCA No. 54016, 08-1 BCA ¶ 33,733 at 167,019 (noting a party “must
+show that a supervening event, after it entered into the contract, made performance
+impracticable”); RESTATEMENT (SECOND) OF CONTRACTS § 261 (1981) (supervening
+impracticability happens “after a contract is made”). Here, the requirement for
+security escorts existed before the parties entered the Contract and there was no
+supervening event.
+
+      Second, the Contract did not assume the non-occurrence of the requirement that
+Al Ghanim obtain security escorts. Seaboard, 308 F.3d at 1294-95; RESTATEMENT
+(SECOND) OF CONTRACTS § 261 cmt. b (1981). To the contrary, the Contract
+
+4
+    In applying this four-part impossibility test from Seaboard Lumber to the sovereign
+         acts defense, we have previously referenced “the government” in this element,
+         rather than “the government as contractor.” See, e.g., Chugach, 24-1 BCA
+         ¶ 38,681 at 188,047 (citing APTIM, 22-1 BCA ¶ 38,127 at 185,219).
+         Notwithstanding that slight omission in the past, in applying impossibility to the
+         sovereign acts defense requires such a differentiation, about which we have
+         been very clear. See APTIM, 22-1 BCA ¶ 38,127 at 185,219.
+                                             18
+incorporated the requirement that Al Ghanim obtain security escorts and the standard
+Suspension of Work clause (62321 R4, tab 3 at 22, 53-54; 62984 R4, tab 5 at 22, 53-
+54).
+
+        Third, the government as contractor is at fault for the delays caused by the
+required security escorts. Seaboard, 308 F.3d at 1294-95. Although not the only way
+to assess fault, we have sometimes analyzed this factor by looking at whether the
+government issued instructions or orders implementing the public and general act
+(which is how the Army Corps frames it). ANHAM FZCO, ASBCA No. 58999, 20-1
+BCA ¶ 37,745 at 183,189; Home Ent., Inc., ASBCA No. 50791, 99-2 BCA ¶ 30,550
+at 150,861. The Army Corps asserts that it was not responsible for any delays because
+the contracting officer did not issue instructions or orders implementing the security
+escorts requirement, but instead the Contract deferred to a different government
+agency – the Air Force – to schedule and conduct the security escorts, not the
+contracting officer (gov’t SJ reply at 11-14; gov’t R11 br. at 17-18). Indeed, the
+Contract states that the Air Force would provide security escorts and, during
+performance, Al Ghanim submitted request forms to the Air Force for approval of
+dates and times of escorts (62321 R4, tab 3 at 56; 62984 R4, tab 5 at 56; app. R11 br.,
+ex. F at 147; supp. R4, tab 30). Yet, “[w]hen the sovereign can implement its policy
+without violating the contractual rights of the parties, the Government is liable for the
+resulting damages.” Home Ent., 99-2 BCA ¶ 30,550 at 150,861; see also Borderland
+Spraying Serv., AGBCA No. 90-180-1, 93-3 BCA ¶ 26,214 at 130,463 (stating that
+“the Government may be liable for its sovereign acts if it does not implement them in
+the least restrictive or least costly manner”). Here, the government would not have
+been liable to Al Ghanim for rejecting the requests due to a lack of availability, but
+once Al Ghanim complied with all the procedures associated with the security escort
+policy and the Air Force approved a request (with specific date and time) the
+government bears liability for the resulting delays.
+
+        Fourth, we look at whether the government assumed the risk of the supervening
+occurrence of delay resulting from the security escort requirement. Seaboard, 308
+F.3d at 1294-95; see also Piszel v. United States, 833 F.3d 1366, 1380-81 (Fed. Cir.
+2016). We have sometimes (but not always) characterized this assumption of risk as
+whether “the government expressly or impliedly agrees to pay the contractor’s losses
+due to the sovereign acts” (which is the way that the Army Corps frames this issue).
+ANHAM, 20-1 BCA ¶ 37,745 at 183,189; see also Amino Bros. Co. v. United States,
+372 F.2d 485, 525 (Ct. Cl. 1967) (“The Government cannot make a binding contract
+that it will not exercise a sovereign power, but it can agree in a contract that if it does
+so, it will pay the other contracting party the amount by which its costs are increased
+by the Government’s sovereign act.”); Altanmia Com. Mktg., ASBCA No. 55393, 09-1
+BCA ¶ 34,095 at 168,582 (“[I]t is settled that the government may contractually agree
+to compensate contractors for losses due to its sovereign acts, either by an implied or
+an express agreement.”). Where the risk is “foreseeable there should have been a
+
+                                            19
+provision for it in the contract, and the absence of such a provision gives rise to the
+inference that the risk was assumed.” Seaboard, 308 F.3d at 1295 (quoting Winstar,
+518 U.S. at 905 (internal quotation omitted)).
+
+       Here, even assuming there was a supervening event, the Contract placed the
+risk on the government for delays in the arrival of approved security escorts. The
+Army Corps alleges five contractual provisions placed the risk of government delay on
+Al Ghanim, not the agency: (1) the security requirements would “take precedence
+over the accomplishment of the work under this contract” (62321 R4, tab 3 at 54;
+62984 R4, tab 5 at 54); (2) the government’s “capacity . . . to provide Escorts is
+limited, and subject to unavoidable shortages” (id.); (3) adjustments of work schedules
+would be subject to the “Government’s ability to provide Escorts” (id.); (4) the escort
+request forms stated that “an escort request does not guarantee availability” (supp. R4,
+tab 30); and (5) the requirement for Al Ghanim to price in the cost of “complying with
+escort policies” (62321 R4, tab 3 at 40, 54; 62984 R4, tab 5 at 40, 54; gov’t SJ reply
+at 14-16; gov’t R11 br. at 18-19, 22). While these provisions served to warn
+Al Ghanim that the government could not guarantee escorts based on submitting escort
+request forms and that Al Ghanim bore the costs of complying with the process of
+requesting security escorts, it says nothing about which party should bear the costs of
+unreasonable delay once the government approved an escort and represented to
+Al Ghanim that it would be provided. By approving the escort for a specific day and
+time, the government affirmatively determined its ability to provide escorts
+(notwithstanding shortages and that security would take precedence over completion
+of the work). Al Ghanim may seek recovery for delays once it received approval for
+escorts on a particular day and time based on the standard risk shifting provisions
+regarding delays in the Contract. Winstar, 518 U.S. at 908-09 (stating that government
+contract “provisions shifting financial responsibility to the Government for events
+which might occur in the future” that “may be triggered by sovereign government
+action does not render the relevant contractual provisions any less binding” (quoting
+Hughes Commc’ns Galaxy, Inc. v. United States, 998 F.2d 953, 958-59 (Fed. Cir.
+1993)).
+
+       B.     The Government’s Implementation Of The Security Escort Provisions
+              Were Not Public And General Acts
+
+       The Army Corps’ argument can also be read as alleging that the public and
+general acts were the Air Force’s implementation of the security escort requirement,
+which required Air Force approval of the day-to-day “escort actions” (gov’t SJ mot.
+at 10-11; gov’t R11 br. at 16). However, the day-to-day escort actions were required
+and implemented by the Contract, including requiring notification and other
+procedures to the Army Corps’ contracting officials; and the Air Force’s approval of
+each security escort necessarily related to an individual contractor – Al Ghanim
+(62321 R4, tab 3 at 54; 62984 R4, tab 5 at 54; app. R11 br., ex. F).
+                                           20
+       Specifically, the Contract required Al Ghanim to provide the contracting officer
+with twice-weekly reports of Al Ghanim’s expected manpower to give the contracting
+officer accurate estimates to plan how many security escorts would be necessary
+(62321 R4, tab 3 at 54; 62984 R4, tab 5 at 54). By noon each day, Al Ghanim had to
+provide the contracting officer with the next day’s personnel and crew size, and
+required Al Ghanim to “confirm that the required escorts will be available” (62321 R4,
+tab 3 at 54; 62984 R4, tab 5 at 54). The Army Corps’ project manager also “actively
+monitored” the force protection process to avoid or mitigate delays (supp. R4, tab 35 –
+Heffern decl. ¶¶ 13-15). Thus, the Army Corps’ contracting officer and personnel still
+managed some of the contractual requirements for security escorts.
+
+        Moreover, usually enlisted personnel at the installation security office approved
+the day-to-day escort actions, which seems a far cry from an individual “clothed with
+the kind of executive power and authority to impose genuinely public and general
+requirements for the government of a sovereign character.” HECO Pac. Mfg., Inc.,
+ASBCA No. 63217, 25-1 BCA ¶ 38,902 at 189,376; (app. R11 br., ex. F). We hold
+that the approval of the day-to-day security escort requests were not public and general
+acts. Because we do not find the implementation to be public and general acts, we do
+not reach the question of impossibility on this point. Other than Air Force Central
+Instruction 32-1002, the Army Corps has pointed to no other public and general act
+issued or performed by a comparable authority.
+
+IV.      Al Ghanim Has Proved Some Compensable Delays
+
+       Al Ghanim seeks its direct costs for the government’s security escort delays. 5
+The Army Corps challenges Al Ghanim’s proof of its damages. Al Ghanim sometimes
+frames its claim as seeking “delay costs” for a “constructive change” under the
+Contract per the Changes clause (62321 compl. at 1-2; 62984 compl. ¶¶ 1, 7; app. R11
+reply br. at 13). However, we typically will not resort to the Changes clause for delay
+claims unless the contract lacks a Suspension of Work clause. Coley Properties Corp.
+v. United States, 593 F.2d 380, 385-86 (Ct. Cl. 1979) (seeking delay costs under the
+
+5
+    Al Ghanim’s briefs occasionally state that it is still seeking “overhead,” but the costs
+        it submitted and defends as part of its Rule 11 briefing seek only direct costs,
+        not indirect costs (app. R11 br. at 2, 3, 6; app. R11 reply br. at 6). In any event,
+        Al Ghanim neither provided any arguments or evidence supporting recovery of
+        overhead costs nor, for example, applied the Eichleay formula for home office
+        overhead. See Melka Marine, Inc. v. United States, 187 F.3d 1370, 1374-75
+        (Fed. Cir. 1999) (“The Eichleay formula is the only means approved in our case
+        law for calculating recovery for unabsorbed home office overhead.” (discussing
+        Eichleay Corp., ASBCA No. 5183, 60-2 BCA ¶ 2688)). Nor did Al Ghanim
+        attempt to rebut the Army Corps’ overhead arguments in Al Ghanim’s reply
+        brief. Whether Al Ghanim still seeks these costs, it has failed to prove them.
+                                              21
+Changes clause in lease that did not have Suspension of Work clause); Webb Elec. Co.
+of Fl., Inc., ASBCA No. 54293, 07-2 BCA ¶ 33,717 at 166,939 (“[A]ny recovery by
+appellant is by way of an adjustment under the Suspension of Work clause, and not an
+equitable adjustment under the Changes clause.”), aff’d, 299 F. App’x 958 (Fed. Cir.
+2008); JOHN CIBINIC, JR. ET AL., ADMINISTRATION OF GOVERNMENT CONTRACTS 548
+(5th ed. 2016) (noting that recovery for delays under the Changes clause “has usually
+occurred in situations where the contract contains no Suspension of Work clause”).
+Here, the Contract includes a Suspension of Work clause. See FAR 52.242-14(b)
+(incorporated by reference in Contract, 62321 R4, tab 3 at 22; 62984 R4, tab 5 at 22).
+Thus, Al Ghanim more appropriately may seek to recover its delay costs as a
+constructive suspension under the Suspension of Work clause.
+
+       “Constructive suspension occurs when work is stopped absent an express order
+by the contracting officer and the government is found to be responsible for the work
+stoppage.” P.R. Burke Corp. v. United States, 277 F.3d 1346, 1359 (Fed. Cir. 2002).
+A contractor may recover for constructive suspensions if it establishes the government
+caused a “suspension, delay, or interruption [of performance]” for “an unreasonable
+period of time” that was not due to “any other cause, including the fault or negligence
+of the Contractor[,]” and resulted in “any increase in the cost of performance[.]”
+FAR 52.242-14(b); Triax-Pac., JV v. Stone, 958 F.2d 351, 353-54 (Fed. Cir. 1992).
+“What is a reasonable period of time for the government to do a particular act under
+the contract is entirely dependent upon the circumstances of the particular case.” Tri-
+Cor, Inc. v. United States, 458 F.2d 112, 131 (Ct. Cl. 1972). “An initial portion of the
+delay can be reasonable followed by an additional period that is unreasonable.” GSI
+Constr. Corp., ASBCA No. 63828, 25-1 BCA ¶ 38,851 at 189,050.
+
+        The Army Corps challenges Al Ghanim’s delay claims asserting: (1) none of
+Al Ghanim’s costs were reasonable because the Contract shifted all risk for security
+escort delays to the contractor; (2) even if Al Ghanim can recover, it has failed to
+provide sufficient cost documentation to support its direct costs; and (3) Al Ghanim
+has failed to prove that the government caused most of the claimed damages. We
+review the agency’s objections in turn.
+
+       A.     Al Ghanim Did Not Assume the Risk of Security Escort Delays
+
+        Refashioning what it argued regarding the sovereign acts defense, the Army
+Corps asserts that there could be no unreasonable delay because the Contract placed all
+the risk of delay on Al Ghanim and not the government (gov’t R11 br. at 21-23). The
+Army Corps again points to the Contract’s provisions that required Al Ghanim to price
+in the “cost implications inherent in [the] accomplishment of work on secure
+installations” and “complying with escort policies;” and the warnings that shortages
+did not guarantee that the Air Force would approve escort requests (62321 R4, tab 3
+at 40, 54; 62984 R4, tab 5 at 40, 54). The government again contends that this
+                                           22
+contractual language shifted the risk to Al Ghanim for all compensable delays, relying
+on Phylway Constr., LLC, ASBCA No. 62961, 22-1 BCA ¶ 38,218, and M.A.
+Santander Constr., Inc., ASBCA No. 15882, 76-1 BCA ¶ 11,798.
+
+       Notwithstanding the agency’s contention, the Contract included no provision
+triggering suspension of performance like in Phylway, 22-1 BCA ¶ 38,218 at 185,620-
+21 (contract provision required suspension of performance anytime flood waters rose
+above a certain level). Instead, the Contract just included a general warning that there
+may be escort shortages and, because of that, Al Ghanim needed to comply with the
+policies of notifying the contracting officer at noon prior to each workday regarding
+availability of escorts, and requesting and receiving approval for escorts on a particular
+day and time, which Al Ghanim did (62321 R4, tab 3 at 40, 54; 62984 R4, tab 5 at 40,
+54). In M.A. Santander, the contractor sought its costs for complying with a contract’s
+security requirements, but Al Ghanim does not seek its costs for complying with
+obtaining security escorts (or the Contract’s other security requirements) or for the
+days the government could not provide escorts, but for unreasonable delays by the
+government after Al Ghanim complied with the Contract’s security requirements.
+M.A. Santander, 76-1 BCA ¶ 11,798 at 56,324-25. Nor does Al Ghanim seek the costs
+of any delays caused by the Air Force’s denial of any of Al Ghanim’s security escort
+requests. Only approved security escort requests are at issue in these appeals. Thus,
+as we concluded above, Al Ghanim’s compliance with those policies shifted the risk of
+unreasonable delays to the government.
+
+       B.     Al Ghanim Provided Sufficient, Reliable Documentation to Evaluate its
+              Labor and Equipment Costs
+
+        The Army Corps challenges Al Ghanim’s cost documentation as insufficient
+(gov’t R11 br. at 28-29). The Contract includes the Pricing of Contract Modifications
+clause which states, “When costs are a factor in any price adjustment under this
+contract, the contract cost principles and procedures in FAR part 31 and DFARS part
+231, in effect on the date of this contract, apply.” DFARS 252.243-7001 (DEC 1991)
+(incorporated by reference in Contract, 62321 R4, tab 3 at 23; 62984 R4, tab 5 at 23);
+Superstaff, Inc., ASBCA No. 48062 et al., 97-1 BCA ¶ 28,845 at 143,887 (concluding
+that the Pricing of Contract Modifications clause made “standard cost principles”
+under FAR Part 31 applicable to assessing equitable adjustment costs (internal
+citations omitted)). Generally, under the FAR’s cost principles, a contractor must
+provide “supporting documentation, adequate to demonstrate that costs claimed have
+been incurred[.]” Int’l Dev. Solutions, LLC v. Sec’y of State, 105 F.4th 1375, 1380
+(Fed. Cir. 2024) (quoting FAR 31.201-2(d) (emphasis omitted)).
+
+       The agency asserts Al Ghanim’s manpower or labor cost documentation is
+insufficiently reliable because the contractor has not provided certified payroll records
+for manpower costs and there were discrepancies in Al Ghanim’s analysis and its
+                                           23
+timecards (gov’t R11 br. at 28-29). Al Ghanim relies on its daily timecards to show
+which personnel worked on a given day and the hourly rate for each worker that day to
+determine the daily manpower rate (app. R11 br., ex. A.2 at 7-76; ex. A.3 at 130-73;
+exs. C & D). Also, Al Ghanim listed the labor classification and hours worked on its
+quality control reports and the Army Corps’ daily quality assurance reports listed
+contractor personnel by labor classification (and sometimes by name) (app. R11 br.,
+exs. A.4-A.5; 62321 R4, tab 69; 62984 R4, tab 68). This documentation is sufficiently
+reliable to prove Al Ghanim incurred these direct labor delay costs. D-STAR, 25-1
+BCA ¶ 38,816 at 188,834; Derian, Inc., ASBCA No. 62957, 23-1 BCA ¶ 38,425
+at 186,753 (permitting recovery where the contractor could only provide monthly
+timecards without describing “the type of work performed or any proof of payment”).
+Indeed, the agency’s cost analyst concluded that Al Ghanim’s direct labor analysis
+“was mostly supported by the Working Cards, but there were a small number of
+discrepancies where [Al Ghanim] either slightly overreported or underreported the
+number of laborers” (supp. R4, tab 39 – Witherington decl. ¶ 27g). Thus, this data is
+sufficiently reliable to serve as a basis to assess Al Ghanim’s claimed delay costs. 6
+
+       The agency also asserts Al Ghanim (1) has failed to include cost documentation
+supporting its equipment rates and (2) has apparently used the active rates for the
+equipment rather than inactive or idle rates as allegedly required during a suspension
+of work (gov’t R11 br. at 28-29). First, Al Ghanim provided a serial number and
+description of each piece of equipment used for each day it claimed a delay, which it
+took from its daily quality control reports (app. R11 br., ex. A.2 at 77-97; A.3 at 107-
+24; exs. A.4-A.5 (daily quality control reports listing equipment on-site)). The Army
+Corps’ daily quality assurance reports also listed the equipment on-site each day
+(62321 R4, tab 69; 62984 R4, tab 68). We conclude that this documentation suffices
+to prove Al Ghanim’s equipment costs.
+
+        Second, the Army Corps’ cost analyst speculates that Al Ghanim is relying on
+its active rates and asserts that the equipment costs should be reduced for being idle
+during a suspension of work, citing J.D. Shotwell Co., ASBCA No. 8961, 65-2 BCA
+¶ 5243 at 24,689 (gov’t R11 br. at 29; supp. R4, tab 39 – Witherington decl.
+¶¶ 27(d)(i) &(ii)). However, J.D. Shotwell and its progeny have reduced recovery of
+equipment costs for idleness when the contractor was unable to provide actual costs of
+
+6
+    The Army Corps’ cost analyst speculates that Al Ghanim only had one crew on site,
+         not two separate crews working on JLOC-A and JLOC-B (supp. R4, tab 39 –
+         Witherington decl. ¶ 27(h)). However, the cost analyst does not provide an
+         analysis beyond one spot example and concedes that it was “impossible to
+         confirm” his speculation (id.). That is not enough. And, the Board has no
+         obligation to “scour the record” to prove a party’s speculative arguments.
+         Parsons Evergreene, LLC v. Sec’y of Air Force, 968 F.3d 1359, 1368 (Fed. Cir.
+         2020); Nassar, 22-1 BCA ¶ 38,206 at 185,551.
+                                           24
+the equipment and, instead, had to rely on predetermined rate schedules that were
+reduced to approximate actual cost rates that would be lower due to depreciation and
+wear and tear. J.D. Shotwell, 65-2 BCA ¶ 5243 at 24,689 (using predetermined rates);
+see also L.L. Hall Constr. Co. v. United States, 379 F.2d 559, 568 (Ct. Cl. 1966)
+(noting that “for contractor-owned equipment, lacking actual cost records for the delay
+period,” the court used “the acquisition cost of each piece of equipment involved
+applied to the formula set forth in the [Associated General Contractors of America,
+Inc.] ownership expense manual and reduced by 50 percent for idle time”). Those
+decisions follow the treatment of predetermined costs under the FAR (and the Armed
+Services Procurement Regulation (ASPR) in effect when those decisions were issued),
+but not actual rates. FAR 31.105(d)(2)(i)(C) (discussing in the context of
+predetermined use rates that “[i]n periods of suspension of work pursuant to a contract
+clause, the allowance for equipment ownership shall not exceed an amount for standby
+cost as determined by the schedule or contract provision”); ASPR 15-402.1(c) (1963)
+(similar predecessor provision, but specifically requiring recovery of no more than “50
+percent” of the predetermined rate).
+
+       Al Ghanim has provided its actual costs each day (app. R11 br., ex. A.1 at 2;
+ex. A.2 at 3-6; A.3 at 98-101). Actual rates are preferred when assessing equipment
+costs and there is no similar requirement for reducing actual rates while on standby.
+FAR 31.105(d)(2)(i)(A) (“Actual cost data shall be used when such data can be
+determined for both ownership and operating costs for each piece of equipment, or
+groups of similar serial or series equipment, from the contractor’s accounting
+records.”); U.A. Anderson Constr. Co., ASBCA No. 53452, 02-1 BCA ¶ 31,715
+at 156,702 (noting that the “FAR thus makes mandatory the use of actual cost data
+from a contractor’s accounting records”); see also Metric Constr. Co. v. United States,
+81 Fed. Cl. 804, 828 (2008) (“[T]he DFARS and FAR Part 31 call for a hierarchy of
+means of deriving ownership and operating costs for construction equipment, starting
+with actual-cost data and progressing to ‘predetermined schedules’ as agreed in
+particular instances.”); C. Mourer Constr., Inc. v. United States, 23 Cl. Ct. 533, 540
+(1991) (“The court rejects defendant’s contention that the Corps may limit recovery to
+actual costs and to the predetermined schedules. If a contractor possesses accounting
+records sufficient to document its actual costs, such records must form the basis for
+determining equipment costs.”). Thus, Al Ghanim’s actual equipment costs are
+appropriate for use here.
+
+       C.     Al Ghanim Has Proved the Army Corps Caused Some, But Not Most of
+              its Delay Costs
+
+       Al Ghanim asserts that it should receive the costs of delay from the time
+Al Ghanim’s personnel arrived at the Visitor Control Center until Al Ghanim and
+government security escorts arrived at the project sites, subtracting 30 minutes of time
+for Al Ghanim’s processing through the Visitor Control Center (app. R11 br., ex. A.2
+                                           25
+at 3-6, ex. A.3 at 98-101; app. R11 reply br. at 7). Above we found the 30-minute time
+period to be reasonable (supp. R4, tab 40 – Yassin decl. ¶ 11; app. R11 br., Lakshmi
+aff. ¶¶ 9, 15; 62321 R4, tab 3 at 9-11; 62984 R4, tab 5 at 9-11). The Army Corps
+challenges whether all the delays were caused by the government (gov’t R11 br. at 23-
+28).
+
+       “Delay causation is a question of fact.” JV Makyal Ins. Ve Tic. A.S. & Mehmet
+Erdal Kamisli Co. Ltd., ASBCA No. 56956, 12-1 BCA ¶ 34,913 at 171,662; see also
+Bluebonnet Sav. Bank, FSB v. United States, 266 F.3d 1348, 1356 (Fed. Cir. 2001)
+(“Causation is also a question of fact[.]”). “[T]he contractor has the burden of proving
+the extent of the delay, that the delay was proximately caused by government action,
+and that the delay harmed the contractor.” Wilner v. United States, 24 F.3d 1397, 1401
+(Fed. Cir. 1994) (en banc). “[A] contractor cannot recover ‘where the delays are
+‘concurrent or intertwined’ and the contractor has not met its burden of separating its
+delays from those chargeable to the Government.’” Essex Electro Eng’rs, Inc. v.
+Danzig, 224 F.3d 1283, 1292 (Fed. Cir. 2000) (quoting Blinderman Constr. Co. v.
+United States, 695 F.2d 552, 559 (Fed. Cir. 1982)). “Nevertheless, if ‘there is in the
+proof a clear apportionment of the delay and the expense attributable to each party,’
+then the government will be liable for its delays.” Id. (quoting Coath & Goss, Inc. v.
+United States, 101 Ct. Cl. 702, 714-15 (1944)).
+
+        Al Ghanim relies on its daily quality control reports, which contemporaneously
+documented delays Al Ghanim encountered on these projects (app. R11 br., exs. A.4,
+A.5). For the first several weeks of delays in January and February 2018, Al Ghanim’s
+quality control reports only documented the time when it arrived at the Visitor Control
+Center for processing and the time when Al Ghanim and the security escort arrived
+at the JLOC-A or JLOC-B building sites (app. R11 br., ex. A.4 at 174-205, ex. A.5
+at 1-28). From February 5 through October 31, 2018, however, Al Ghanim also
+provided an interim time – when the security escort arrived at the Visitor Control
+Center, which was between when Al Ghanim arrived at the Visitor Control Center and
+Al Ghanim and the security escorts arrived at the project sites (app. R11 br., ex. A.4
+at 206-951; ex. A.5
+at 29-741).
+
+        Al Ghanim seeks the costs for delay from when it arrived at the Visitor Control
+Center until it arrived at the project sites (app. R11 reply br. at 4). The Army Corps
+asserts that Al Ghanim overstates the delay and should only recover for any delay from
+the security escorts late arrival to the Visitor Control Center, not the additional travel
+time from the Visitor Control Center until the contractor and agency escorts arrived
+at the building sites (gov’t R11 br. at 26-28; supp. R4, tab 39 – Witherington decl.
+¶ 25(f)(ii); supp. R4, tabs 39e-h (red highlighted days)).
+
+
+                                           26
+       Al Ghanim counters that it should not be liable for the travel time delay (app.
+R11 reply br. at 2-5). Al Ghanim asserts that the agency’s June 2019 decisions and the
+subsequent unilateral contract modifications granting an extension of time based on
+excusable delays, proves the government’s liability for the contractor’s compensable
+delay claims, including the travel time to the sites (app. R11 reply br. at 3-8).
+However, an agency’s unilateral grant of a time extension based on an excusable delay
+does not create a presumption that the government caused any compensable delay.
+England v. Sherman R. Smoot Corp., 388 F.3d 844, 856-57 (Fed. Cir. 2004)
+(concluding that “mere grant by the government of a contract extension does not
+indicate that the government is at fault”); Amatea/Grimberg JV v. Sec’y of Navy,
+No. 2024-1006, 2025 WL 1752375 at *3 (Fed. Cir. June 25, 2025) (“We have clearly
+rejected a presumption that the government is at fault for delay when the contracting
+officer grants a time extension.”); see also Wright Bros., Bldg. Co., Eagle LLC,
+ASBCA No. 62285, 23-1 BCA ¶ 38,255 at 185,777 (“Notwithstanding appellant’s
+assertion to the contrary, an extension of time granted by the contracting officer does
+not equate to an administrative determination that the delay was not due to the fault or
+negligence of the appellant.”). We must assess the evidence de novo on appeal as
+presented by the parties and may not presume the government caused the delay.
+Sherman, 388 F.3d at 856-57.
+
+        We agree with the government that the travel time was a concurrent delay that
+Al Ghanim would have encountered even if the security escorts arrived on time to the
+Visitor Control Center. Essex, 224 F.3d at 1292. Al Ghanim has failed to show or
+explain how the government was the cause of this travel time delay, which it must do
+under the Suspension of Work clause. FAR 52.242-14(b); Triax-Pac., 958 F.2d
+at 353-54. Al Ghanim may not recover for the travel time from the Visitor Control
+Center to the work sites. From January 20 through February 4, 2018, Al Ghanim’s
+quality control reports fail to specify when the security escorts arrived at the Visitor
+Control Center to pick up Al Ghanim’s personnel for travel to the worksite (app. R11
+br., ex. A.4 at 174-205, ex. A.5 at 1-28). Because there is no indication how late the
+security escorts were for those days, Al Ghanim has failed to prove its delay costs for
+those days.
+
+       Similarly, Al Ghanim faces another evidentiary issue regarding when security
+escorts were required to be on-site to trigger the start of a delay for certain days in
+March, April, and May 2018. Typically, Al Ghanim identified the specific time when
+it would need security escorts on its security escort request forms (app. R11 br., ex. F).
+However, the record does not include security escort request forms for March 10-31,
+2018, April 1-2, 4-15, 23-30, 2018, May 1-3, 5-8, 12-15, 2018, for the JLOC-A crew;
+and March 12-31, 2018, April 1-2, 5-15, 23-30, 2018, May 1-3, 5-8, 12-15, 2018, for
+the JLOC-B crew (supp. R4, tab 39 – Witherington decl. ¶ 25(f)(v); tabs 39e, 39f
+(orange highlighted); app. R11 br., ex. F). Al Ghanim asserts that the agency is now
+using the security escort request forms as a “weapon to avoid acknowledgment of the
+
+                                           27
+delay” (app. R11 reply br. at 9). Yet, Al Ghanim bears the burden of producing
+evidence supporting its damages. Wilner, 24 F.3d at 1401. Without the security escort
+request forms for these days, Al Ghanim has no evidence to prove when the parties
+agreed that escorts would be available for these days; Al Ghanim has offered no other
+evidence on this point. Thus, Al Ghanim has failed to prove its delay costs for these
+days.
+
+         The Army Corps also asserts that Al Ghanim’s delay costs should account for
+days when Al Ghanim’s personnel arrived at the Visitor Control Center later than the
+agreed-to time (gov’t R11 br. at 24-25; supp. R4 tab 39 – Witherington decl.
+¶ 12(k)(v); tabs 39e & 39f (gray highlighted days); app. R11 br., ex. F; ex. A.4 at 668,
+776-877, ex. A.5 at 135, 460, 568-669). Al Ghanim concedes that it only seeks
+“delays from the time it arrived at the [Visitor Control Center]” (app. R11 reply br.
+at 10). 7
+
+       Finally, the Army Corps asserts that Al Ghanim should not recover for days
+when adverse weather conditions, including wet site conditions, impeded some work
+on the site or resulted in work stoppages at some point during the day (supp. R4,
+tab 39 – Witherington decl. ¶¶ 25(f)(iii)-(iv); supp. R4, tabs 39e-h (blue and yellow
+highlighted days)). As Al Ghanim counters, just because it encountered work
+stoppages later in the day does not mean Al Ghanim did not encounter compensable
+delays at the beginning of the day – February 18, 2018 (app. R11 reply br. at 8-9; app.
+R11 br., ex. A.4 at 232, ex. A.5 at 37). The government also asserts that wet site
+conditions prevented any work from completion on three days (February 27 –
+March 1, 2018), but the daily contractor and government reports only support that
+Al Ghanim was unable to do any “earthworks” due to the wet ground (app. R11 br.,
+ex. A.4 at 250-55, ex. A.5 at 49-54; 62321 R4, tab 69 at 23-25; 62984 R4, tab 68 at 16-
+17). Had the government’s security escorts arrived on time to the Visitor Control
+Center, then Al Ghanim would have arrived earlier to the site and may have
+accomplished more work those days (despite the work stoppages and impediments to
+some work due to wet conditions). Al Ghanim may recover for security escort delays
+on these days. By our calculation, 8 Al Ghanim incurred $1,444.11 in additional
+recoverable delay costs for these days.
+
+7
+  Notably, from September 3, 2018, through October 8, 2018, Al Ghanim requested
+       security escorts to arrive at “0430” but Al Ghanim did not arrive until “0500,”
+       effectively mitigating delay costs for most of this period by arriving late (supp.
+       R4, tabs 39e, 39f).
+8
+  On February 18, 2018, the security escorts arrived 10 minutes (.17 hours) late for
+       both crews, which we multiply by the hourly rate ($285.91) for delay costs of
+       $48.60 per crew and $97.20 for both crews (supp. R4, tabs 39e & 39f; app. R11
+       br., ex. A.2 at 3, ex. A.3 at 98). Consistent with Al Ghanim’s approach, we
+
+                                           28
+        Based on our conclusions above, we add the total calculated by the Army
+  Corps’ cost analyst ($32,876) to the additional delay costs ($1,444.11) for a total
+  recovery of $34,320.11.
+
+                                      CONCLUSION
+
+        For the foregoing reasons, Al Ghanim’s delay claims are sustained in the
+  amount of $34,320.11, plus CDA interest from when the Army Corps received
+  Al Ghanim’s certified claims.
+
+         Dated: May 18, 2026
+
+
+                                                  DANIEL S. HERZFELD
+                                                  Administrative Judge
+                                                  Armed Services Board
+                                                  of Contract Appeals
+
+(Signatures continued)
+
+
+         derived the hourly rate by taking the daily cost for the specific day and crew
+         (including manpower and equipment costs) and dividing it by eight hours (app.
+         R11 br., exs. A.2-A.3). On February 27, 2018, the security escorts arrived
+         within 30 minutes of Al Ghanim’s crews arrival at the Visitor Control Center,
+         so there is no compensable delay (supp. R4, tabs 39e, 39f). On February 28,
+         2018, the security escorts arrived one hour and 20 minutes late (1.33 hours) for
+         each crew, which we multiply by the hourly rate for the JLOC-A crew
+         ($280.99) and hourly rate for the JLOC-B crew ($297.08) for delay costs of
+         $373.72 for the JLOC-A crew and $395.12 for the JLOC-B crew and $768.84
+         total for both crews (supp. R4, tabs 39e & 39f; app. R11 br., ex. A.2 at 3, ex.
+         A.3 at 98). On March 1, 2018, the security escorts arrived one-hour late (1.0
+         hours) for each crew, which we multiply by the hourly rate for the JLOC-A
+         crew ($280.99) and hourly rate for the JLOC-B crew ($297.08) for $578.07
+         total for both crews (supp. R4, tabs 39e & 39f; app. R11 br., ex. A.2 at 3, ex.
+         A.3 at 98).
+                                             29
+I concur                                         I concur
+
+
+J. REID PROUTY                                   DAVID F. D’ALESSANDRIS
+Administrative Judge                             Administrative Judge
+Acting Chairman                                  Acting Vice Chairman
+Armed Services Board                             Armed Services Board
+of Contract Appeals                              of Contract Appeals
+
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA Nos. 62321, 62984, Appeals of
+Al Ghanim Combined Group W.L.L., rendered in conformance with the Board’s Charter.
+
+      Dated: May 18, 2026
+
+
+                                              PAULLA K. GATES-LEWIS
+                                              Recorder, Armed Services
+                                              Board of Contract Appeals
+
+
+                                         30

@@ -1,0 +1,1404 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeals of -                                )
+                                            )
+D-STAR Engineering Corp.                    )    ASBCA Nos. 62075, 62780
+                                            )
+Under Contract No. FA8650-12-C-7243         )
+
+APPEARANCE FOR THE APPELLANT:                    Mr. S. Paul Dev
+                                                  President
+
+APPEARANCES FOR THE GOVERNMENT:                  Samuel W. Morris, Esq.
+                                                  DCMA Chief Trial Attorney
+                                                 Adrianne L. Goins, Esq.
+                                                  Trial Attorney
+                                                  Defense Contract Management Agency
+
+               OPINION BY ADMINISTRATIVE JUDGE HERZFELD
+
+        The Defense Contract Management Agency (DCMA) terminated a contract
+with D-STAR Engineering, Inc. (D-STAR), for convenience. In auditing D-STAR’s
+termination settlement proposal, the government determined that it had overpaid
+D-STAR and issued a contracting officer’s final decision with a debt demand to
+D-STAR. D-STAR appeals the government’s debt demand claim. Also, D-STAR
+appeals a subsequent contracting officer’s final decision that denied recovery of
+additional costs D-STAR incurred separate from the termination settlement proposal.
+The parties submitted these appeals for decision without a hearing under Rule 11 – a
+trial on the record. For the reasons discussed below, we sustain DCMA’s debt demand
+claim, award the government $282,926 (plus any interest due), and deny D-STAR’s
+appeal of this government claim. We sustain D-STAR’s claim in ASBCA No. 62780
+in the amount of $16,272.16, plus Contract Disputes Act (CDA) interest. Otherwise,
+D-STAR’s claims are denied in these appeals.
+                                  FINDINGS OF FACT
+
+I.        The Partial Stop-Work Order, the Termination for Convenience, and
+          Termination Settlement Proposal
+
+       On July 16, 2012, the United States Air Force awarded D-STAR a cost-plus-
+fixed-fee research and development contract for $4,806,502 to build a fuel-to-power
+generation system for an unmanned vehicle (R4, tab 1 at 1-2, 42; see id. at 6, 13
+(incorporating by reference Federal Acquisition Regulation (FAR) 52.216-7,
+ALLOWABLE COST & PAYMENT (JUN 2011), and FAR 52.246-8, INSPECTION
+OF RESEARCH AND DEVELOPMENT – COST-REIMBURSEMENT (MAY
+2001)). 1 DCMA administered the contract (R4, tab 1 at 1).
+
+        On July 1, 2013, DCMA’s contracting officer issued a partial stop-work order,
+instructing D-STAR to stop all work except (1) “progress reports and an integrated
+final report for phase 1 effort” and (2) the “deliverables, schedules[,] and requirements
+of financial and technical data, plans[,] and reports required for this effort from the
+contractor . . . identified in the Contract Data Requirements List” (R4, tab 1 at 7
+(contract incorporating by reference Stop-Work Order clause, FAR 52.242-15 (AUG
+1989) – Alt. I (APR 1984)), tab 3). The partial stop-work order reminded D-STAR
+that it needed to “take all reasonable steps to minimize the incurrence of costs
+allocable to the work covered by the order during the period of work stoppage” (R4,
+tab 3).
+
+        On September 26, 2013, D-STAR submitted its “Draft Final Report” to DCMA
+consistent with the contract (R4, tab 1 at 7 (stating that the “draft final report” was due
+on September 26, 2013), tab 46; app. supp. R4, tab 22). On September 30, 2013,
+D-STAR reminded DCMA that the 90-day stop-work order had expired, requested an
+equitable adjustment, and planned to resume work (app. supp. R4, tab 23 at 1-2). For
+the next four weeks, DCMA attempted to convince D-STAR to execute a modification
+extending the stop-work order, but D-STAR attempted to negotiate continuing work to
+finalize the report (id. at 3-13). On October 29, 2013, DCMA’s contracting officer
+informed D-STAR that the agency decided not to extend the stop-work order but
+instead intended to terminate the contract for convenience (id. at 14). In response, D-
+STAR asserted that DCMA could not terminate the contract but had to continue to
+negotiate under the Stop-Work Order clause (id. at 15).
+
+      On November 1, 2013, DCMA’s contracting officer issued a contract
+modification terminating the contract for convenience (R4, tabs 4-5; see also R4, tab 1
+
+1
+     DCMA numbered the Rule 4 file as “G-00000[page number],” but in our citations we
+        have eliminated the pre-fix and zeroes and use only the page number for
+        brevity.
+                                             2
+at 14 (contract incorporating by reference the Termination (Cost-Reimbursement)
+clause, FAR 52.249-6 (MAY 2004))). D-STAR acknowledged receipt of the
+termination notice but rejected the “legality” of the agency’s termination, again
+asserting that the agency had to continue negotiating an extension to the stop-work
+order (app. supp. R4, tab 23 at 17). DCMA responded that the Termination (Cost-
+Reimbursement) clause allowed the agency to unilaterally terminate the contract for
+convenience (R4, tab 47 at 2339). Regardless, on November 5, 2013, DCMA’s
+contracting officer provided D-STAR with documents, including forms, instructions,
+and relevant Federal Acquisition Regulation (FAR) provisions, to assist D-STAR in
+preparing its termination settlement proposal (app. supp. R4, tab 24 at 1-3). DCMA
+also requested an estimate of “the total dollar amount of [D-STAR’s] proposal at your
+earliest opportunity” (id. at 3). On December 2, 2013, D-STAR estimated its
+termination costs as $912,858 (app. supp. R4, tab 3 at 2). In response, DCMA’s
+contracting officer encouraged D-STAR’s representative to “take a moment to read
+FAR Part 49 and Part 31.205-42 Termination costs” in preparing the termination
+settlement proposal (app. supp. R4, tab 24 at 15).
+
+        For the next several months, D-STAR queried DCMA regarding how to prepare
+its termination settlement proposal and DCMA’s termination contracting officer
+responded with some guidance (app. supp. R4, tabs 24, 26). On June 2, 2014,
+D-STAR submitted a “Draft” termination settlement proposal for $601,336 but noted it
+had “zero prior experience related to Termination of Contracts” and wanted to discuss
+the proposal with DCMA (R4, tab 6 at 56-57, 63). By the end of June, D-STAR
+representatives spoke with the DCMA’s contracting officer by teleconference to
+discuss the termination settlement proposal, resulting in the contracting officer again
+forwarding the FAR provision regarding termination costs (FAR 31.205-42) to
+D-STAR (app. supp. R4, tab 24 at 26-28). 2
+
+      On October 30, 2014, D-STAR submitted a signed termination settlement
+proposal (on Standard Form 1437), which requested a net payment of $674,819.64
+(which derived from subtracting DCMA’s net payments on the contract,
+$3,552,726.51, from the net costs incurred by D-STAR, $4,227,546.15).
+
+
+2
+    In August 2014, the Air Force Office of Special Investigations and Defense Criminal
+         Investigative Service began a criminal investigation of D-STAR (R4, tabs 47-
+         51, 55). In March 2015, the investigators subpoenaed D-STAR’s records from
+         the terminated contract (app. supp. R4, tab 8). In September 2017, the U.S.
+         Attorney’s office declined to prosecute and, in October 2017, the investigators
+         informed D-STAR and DCMA that the Air Force had closed the criminal
+         investigation, allowing negotiation of the termination settlement proposal (R4,
+         tabs 74-75).
+
+                                             3
+       On July 30, 2015, D-STAR submitted a revised termination settlement proposal
+(again on Standard Form 1437), which decreased its net payment request from
+$674,819.64, to $437,057.40 (R4, tab 8 at 75). In revising and re-calculating the
+termination settlement proposal, D-STAR reduced its net costs from $4.2 million to
+$4,033,783.92, and credited additional payments from DCMA by $44,000.01
+(recognizing that DCMA had paid D-STAR $3.596 million rather than $3.552 million)
+(R4, tab 8 at 75).
+
+
+II.     DCAA’s Audit
+
+       On August 21, 2015, the Defense Contract Audit Agency (DCAA) began
+auditing D-STAR’s July 2015 termination settlement proposal (R4, tabs 57-58). 3 On
+November 13, 2015, DCAA informed DCMA’s contracting officer that D-STAR’s
+July 2015 termination settlement proposal was “inadequate and noncompliant” with
+the FAR and “should be returned for corrective action prior to our proceeding with the
+requested audit” (R4, tab 9 at 78).
+
+        In response, D-STAR retabulated its costs “to meet DCAA needs” for an audit
+and submitted a revised termination settlement proposal on November 21, 2015 (R4,
+tab 10, tab 59 at 2418). The November 2015 proposal now sought a net payment of
+$442,783.01 (subtracting its net payments of $3.596 million from net costs of $4.039
+million) (R4, tab 10 at 80). DCAA now concurred that D-STAR had provided
+sufficient information to conduct the audit (R4, tab 62 at 2422). In May 2016, DCAA
+began communicating with D-STAR regarding its audit of the November 2015
+proposal (app. supp. R4, tab 37 at 4-6).
+
+       On September 23, 2016, DCAA provided D-STAR with draft audit findings,
+which questioned $928,133 of D-STAR’s costs and tentatively concluded that D-
+STAR owed the government $485,351 (app. supp. R4, tab 41 at 8-9). On September
+30, 2016, D-STAR responded, questioned DCAA’s preliminary findings, and
+attempted to explain why D-STAR had acted appropriately in calculating its costs
+(app. supp. R4, tab 13).
+
+       DCAA provided its final audit report to D-STAR on January 5, 2017 (app.
+supp. R4, tab 43 at 1; R4, tab 11). The final audit report questioned $925,624 of
+D-STAR’s net proposed settlement costs of $4.039 million, resulting in DCAA only
+crediting $3,113,886 in net settlement costs (R4, tab 11 at 90). After subtracting the
+prior payments of $3.596 million from DCAA’s assessment of net settlement costs
+(again, $3,113,886), DCAA concluded that D-STAR owed the government $482,841
+
+3
+    DCMA’s contracting officer had previously requested DCAA to audit D-STAR’s
+       October 2014 termination settlement proposal (R4, tab 52 at 2361-62).
+                                           4
+(id. at 86-87, 90). DCAA questioned five types of costs on the contract: (1) direct
+labor costs; (2) indirect factory expenses; (3) general and administrative (G&A)
+expenses; (4) fee; and (5) settlement expenses (id. at 86-87).
+
+        First, DCAA questioned $86,922 of D-STAR’s proposed direct labor costs of
+$504,793 associated with its termination based on allowability under FAR 31.201-
+2(a), and under the Stop-Work Order clause (R4, tab 11 at 86, 93). DCAA evaluated
+D-STAR’s accounting records and found that D-STAR’s proposal allocated $71,942 in
+labor costs as incurred prior to the stop work order, but these costs were actually
+incurred after the stop-work order (id. at 93). Also, DCAA asked DCMA to evaluate
+the reasonableness of D-STAR’s proposed $21,444 in direct labor costs from the
+stop-work order to the termination for convenience and DCMA concluded that
+“$6,464.17 and 117.2 hours is fair an[d] allocable” for these costs (id. at 93, 105).
+DCMA reviewed each time entry for each employee between the partial stop-work
+order through termination, denying hours as (1) excessive, (2) unauthorized design
+work after the partial stop-work order, (3) failing to include work descriptions,
+(4) work on unchanged monthly reports, and (5) allegedly preparing an incomplete
+draft report (R4, tab 26 at 1453-57, tab 45).
+
+        Second, DCAA questioned $131,383 of D-STAR’s proposed $623,183 in
+indirect factory expenses from the termination settlement proposal (R4, tab 11 at 94).
+D-STAR based its termination costs on its indirect cost proposal for calendar year
+2013, which claimed an engineering overhead rate of 124.18% (from a pool of
+$691,817 and base of $557,095) (R4, tab 23 at 1404). DCAA disallowed $38,366 in
+D-STAR’s engineering overhead pool per FAR 31.205-26(d), Material Costs, and
+FAR 45.402 (Title of Contractor-Acquired Property) (R4, tab 11 at 86). DCAA
+reviewed invoices from D-STAR to the government for these materials, D-STAR’s
+accounting records that showed the government had paid for these materials, and
+concluded that the government had already paid D-STAR “in full for this inventory,
+therefore it is Government property and the contractor had no right to transfer this cost
+from the Inventory (asset) account to the Supply (Overhead Pool) account” (R4, tab 11
+at 86, tab 18 at 1064 (D-STAR accounting records regarding materials), tab 29
+at 1525, 1530 (D-STAR vouchers/invoices)). DCAA also asserted travel costs should
+have been removed from this same overhead pool (R4, tab 11 at 86, 96-97). Based on
+the adjustments to the overhead pool (and using D-STAR’s proposed base), DCAA
+concluded that the engineering overhead rate should have been lowered by 9.2% from
+124.18% to 114.98% and, when applied to the direct labor costs, resulted in DCMA
+questioning $131,383 (id. at 97).
+
+      Third, DCAA questioned $133,485 of D-STAR’s proposed $795,538 in G&A
+expenses in its termination settlement proposal (id. at 90). D-STAR again based its
+termination costs on its indirect cost proposal for calendar year 2013, which claimed a
+
+                                            5
+G&A rate of 36.94% (R4, tab 23 at 1404). DCAA questioned $36,237 in D-STAR’s
+amortized long-range planning costs for attending exhibitions and trade shows in 2011
+regarding two projects because (1) the contractor’s journalized costs, timesheets, and
+travel reports did not support $4,944 of the costs, and (2) D-STAR improperly added
+$31,293 burden costs (overhead and G&A) “on top of [long-range planning] G&A
+expenses” (R4, tab 11 at 94-97, tabs 15-17, tab 22 at 1401-03). DCAA also
+questioned $9,600 in independent research and development (IR&D) and bid and
+proposal (B&P) costs because D-STAR applied the incorrect engineering overhead
+rate (as discussed above) to these costs (R4, tab 11 at 95-97, tab 23 at 1406, 1412).
+DCAA again questioned travel costs as applied in the G&A context (R4, tab 11 at 86,
+96). DCAA questioned 3.72% of the proposed expense rate, lowered the rate to
+33.21%, and applied it to the direct material, direct labor, indirect factory expense, and
+other costs to arrive at the questioned costs of $133,485 (R4, tab 11 at 86, 97; gov’t br.
+at 47).
+
+        Fourth, DCAA questioned $65,985 of D-STAR’s proposed $319,392 in fee
+(R4, tab 11 at 86, 98-99). D-STAR’s termination settlement proposal based its fee
+calculation on an accelerated double-declining balance method, 4 justifying it by
+asserting that “work done early during the R&D contract is technically more
+challenging than work later during the contract, and is hence deserving of a greater
+rate of fee” (R4, tab 10 at 81, tab 11 at 98, tab 25 at 1426, 1450-51). D-STAR’s
+proposed fee equated the amount it would normally have received after a 78.5%
+completion of the contract (although D-STAR also noted that the straight-line method
+would result in 70.3% based on its proposed costs as a percentage of the estimated cost
+of the contract) (see R4, tab 12 at 150). DCMA provided DCAA with its technical
+assessment that D-STAR had only completed 59% of the contract based on reviewing
+D-STAR’s “documents, files, time sheets and vouchers” to assess the amount of
+incurred costs (R4, tab 11 at 104). DCMA calculated its percentage of completion
+based on the ratio of incurred costs to the total estimated cost in the contract (id.).
+DCAA asserted that it could not use the double-declining balance method because “the
+contract stipulates a flat 9.25 percent fee rate based on the costs incurred” (R4, tab 1
+at 3 (“As determined by the contracting officer, [the fee] shall be paid as it accrues, in
+regular installments based upon the percentage of completion of work”), tab 10 at 81,
+tab 11 at 98-99). Using the straight-line method, DCAA concluded that the allowable
+fee should only be $253,407 (9.25% x $2,739,536 in unquestioned total costs)
+
+
+4
+    “Under this method, the cost or other basis of the property is deducted at a higher
+        depreciation amount in the earlier periods and a lower amount in the later
+        periods.” DCAA, SELECTED AREA OF COST GUIDEBOOK: FAR 31.205 COST
+        PRINCIPLES ¶ 19-2.2 at 19-4. The Generally Accepted Accounting Principles
+        permit the use of the declining balance method (including a double-declining
+        balance method). See FEDERAL ACCOUNTING STANDARDS BOARD, Standard
+        360-10-35-7.
+                                             6
+resulting in receiving 62.3% of the original fee (R4, tab 11 at 99). By keeping the
+straight-line method, DCAA’s calculation of a 62.3% completion rate effectively
+relied only on the ratio of costs incurred to the total estimated cost to determine the
+percentage of completion for the fee ($2,739,536/4,399,544 = 62.3%).
+
+        Fifth, DCAA questioned $507,849 of D-STAR’s proposed settlement costs of
+$627,654 (R4, tab 11 at 86, 99). DCAA requested that DCMA assess the
+reasonableness of D-STAR’s proposed 2,810.7 direct labor hours amounting to
+$182,408.85 5 in settlement costs (R4, tab 11 at 100, 105-06, tab 25 at 1444, tab 35
+at 1642). DCMA reviewed D-STAR’s timesheets and vouchers and recommended
+(1) finding only 317.95 hours reasonable, of D-STAR’s proposed 1,187.7 hours for
+entering 129 inventory items into DCMA’s Plant Clearance Automated Reutilization
+Screening System, (2) disallowing other time entries without descriptions, and
+(3) disallowing repetitive costs as excessive and unreasonable (R4, tab 11 at 105-06,
+tab 35 at 1643-50). DCMA concluded that only “$44,276.31 [representing] 681.35
+labor hours is fair and allocable . . . for settlement expenses” (R4, tab 11 at 106).
+DCAA accepted DCMA’s analysis of the direct labor (id. at 99-100). DCAA accepted
+D-STAR’s proposal of $28,830 in other direct costs (id. at 100). Then, DCAA
+assessed and lowered D-STAR’s proposed burden (both engineering overhead and
+G&A) to be added to the direct costs, limiting the rates to payroll taxes, fringe
+benefits, occupancy costs, and immediate supervision costs per Termination cost
+principle – FAR 31.205-42(g)(1)(iii) (R4, tab 11 at 100, tab 23 at 1410, tab 33 at 1621-
+23, 1633-35). DCAA recommended allowing only $119,805 in settlement expenses
+(R4, tab 11 at 100).
+
+III.     D-STAR’s Response to the Audit
+
+       On February 13, 2017, D-STAR responded to the DCAA audit report (R4,
+tab 12).
+
+       First, as to the direct labor costs that DCAA questioned as unallowable,
+D-STAR requested that DCAA identify “which hours of which person during which
+week are being ‘questioned’” and give D-STAR the opportunity to provide additional
+information to justify the hours as allowable (id. at 119, 156). Generally, D-STAR
+asserted its costs were justified during this period to (1) research the FAR regarding
+the partial stop-work order, (2) support a visit from the government technical team
+regarding scheduling issues, (3) discuss and email with government officials regarding
+the project and potential new scope, (4) support discussions to move the project to the
+Defense Advanced Research Projects Agency, (5) support a technical interchange
+meeting by teleconference, (6) consolidate and collate all technical data, (7) respond to
+a request for proposal to revise the scope of work of the project, (8) provide interim
+
+5
+    D-STAR calculated these costs to be $181,524.72, but DCMA’s calculation found
+        $182,408.85 in proposed labor costs (R4, tab 11 at 105).
+                                             7
+monthly reports to the government, and (9) prepare the report required by the scope of
+work not halted by the stop-work order (id. at 157).
+
+        Second, as to the questioned costs regarding indirect factory expenses, D-STAR
+disagreed (id. at 118, 134-35). As to the disallowance of $38,366 in material included
+in the engineering overhead account, D-STAR stated it appropriately included the
+materials in the company’s inventory as overhead because D-STAR had given the
+government a credit for these materials to offset a cost overrun on another contract that
+D-STAR “waived” (id. at 134-37). D-STAR acknowledged that it “did not ‘dot all the
+i’s” by obtaining approval from the government’s contracting officer on that other
+contract but asserted that a “check was not needed . . . because the government owed a
+net amount to” D-STAR (id. at 134-35). As to the travel expenses, D-STAR stated
+these were proper because they related to the company’s president travelling between
+his home office in Virginia and the company’s office in Connecticut (id. at 138).
+D-STAR also noted that the government had approved and paid similar travel
+expenses in prior years (id. at 138-48).
+
+       Third, as to the questioned G&A costs, D-STAR reiterated that its travel costs
+were valid (id. at 138-48). As to the long-range planning costs regarding two projects
+that were amortized over three years, D-STAR acknowledged that they could have
+been “fully expensed in the year they were incurred” but D-STAR determined that
+these long-range planning costs should be treated as “long term” costs amortized over
+three years (id. at 149). “Accordingly, rather than being expensed immediately, these
+costs were treated as prepaid expenses with benefits expected to accrue over a three-
+year period” and “expensed over a three-year period” (id.). D-STAR pointed to
+“standard accounting practices” (without citation) that allegedly justified adding
+overhead and G&A burden to costs that were already burdened with G&A expenses
+(id.). Additionally, D-STAR requested additional details so it could “find supporting
+documentation” for its costs (id.).
+
+       Fourth, as to the questioned use of its fee, D-STAR asserted that its double-
+declining balance method of computing the fee was fair and reasonable (id. at 150-51).
+D-STAR justified the use of the accelerated fee recovery because (1) D-STAR
+incurred costs by making “significant financial investments for the project, such as
+hiring personnel, upgrading facilities” that it never fully realized because of an
+inadequate “period of amortization and recovery of costs and fees,” (2) the termination
+reduced direct costs to the company, thereby increasing overhead and G&A rates
+across other contracts, (3) the termination resulted in the company laying off
+employees and effectively shutting down, (4) D-STAR had to incur wind down
+expenses, and (5) the accelerated fee would cost less than D-STAR’s time value of
+money, which it believed it should recover based on the government’s delay in
+resolving the termination settlement proposal (id. at 151).
+
+
+                                           8
+       Fifth, as to the questioned settlement costs, D-STAR requested that DCMA
+“provide more details” regarding the basis for disallowing the settlement costs (id.
+at 120, 169). D-STAR asserted that its direct labor settlement costs were justified
+because this time was used to (1) understand the FAR’s termination procedures, (2)
+communicate with the termination contracting officer seeking guidance,
+(3) unsuccessfully search for suitable attorneys and consultants, (4) prepare and revise
+D-STAR’s settlement estimate and four iterations of D-STAR’s termination settlement
+proposal, (5) work with the government to secure International Traffic in Arms
+regulated data and project-related hardware, (6) dispose of government hardware, and
+(7) respond to the government’s audit of the proposal (id. at 170-73).
+
+IV.    The Parties’ Claims and DCMA’s Contracting Officer Decisions
+
+       On February 12, 2018, DCMA issued a debt determination and demand letter to
+D-STAR, reiterating the conclusion of DCAA’s audit report that D-STAR owed the
+government a debt of $482,481 (R4, tab 13 at 175 (citing the provisions of FAR
+Part 32.6 regarding debt collection)).
+
+        On February 27, 2018, D-STAR sent DCMA’s contracting officer three
+communications: (1) a letter disputing the debt determination (app. supp. R4, tab 20);
+(2) a request to defer collection of the debt (app. supp. R4, tab 19); and (3) a certified
+claim requesting a final decision from the contracting officer (R4, tab 14).
+
+        D-STAR’s certified claim sought (1) $442,783 from the November 2015
+termination settlement proposal, (2) $70,367 for D-STAR’s costs incurred responding
+to government audits and providing information supporting its termination settlement
+proposal, which it supported with time records that included the time worked, hourly
+rate, and descriptions of the work performed, (3) interest running from December
+2015, and (4) $175,000 “in recognition of the harm done” to D-STAR by
+“inappropriate actions and inaction by the government” (id. at 177-82).
+
+      After receiving no final decision, D-STAR filed a notice of appeal with this
+Board on January 21, 2019 (ASBCA No. 61947).
+
+       On March 18, 2019, DCMA’s termination contracting officer issued a final
+decision, denying D-STAR’s claim for $442,783 in termination settlement proposal
+costs and concluding that D-STAR was “indebted to the Government in the amount of
+$326,583” – reducing the amount of the government’s original debt demand of
+$482,841 (R4, tab 37 at 1667, 1669). DCMA stated that the “notification rescinds and
+replaces the previous demand for payment” (R4, tab 37 at 1669). Like the DCAA
+audit report, DCMA’s contracting officer catalogued the difference between the costs
+detailed in D-STAR’s termination settlement proposal and the government’s position
+on those costs:
+
+                                            9
+          Cost Element              D-STAR Proposal       Difference    Government
+                                                                         Position
+ Direct Material                              $193,135            $0       $193,135
+ Direct Labor                                  504,793        62,437        442,356
+ Indirect Factor Expense                       623,183       104,344        518,839
+ Other Costs                                   974,677             0        974,677
+   Subtotal                                 $2,295,788      $166,781     $2,129,007
+ G&A Expense                                   795,538        64,863        730,675
+   Total Costs                              $3,091,326      $231,644     $2,859,682
+ Fee                                           319,392        54,779        264,520
+ Settlement Expenses                           627,654       482,849        144,805
+ Settlement with Subcontractors                  1,350             0          1,350
+   Gross Proposed Settlement                $4,029,722      $769,272     $3,270,144
+ Disposal & Other Credits                        (213)             0           (213)
+   Net Proposed Settlement                  $4,039,510      $769,272     $3,270,144
+ Prior Payments to Contractor                3,596,727             0      3,596,727
+   Net Payment Requested                      $442,783      $769,272     ($326,583)
+
+(R4, tab 37 at 1667) Notably, the contracting officer had reduced the questioned costs
+from $925,624 in the DCAA report to $769,272 in the final decision, reducing the
+amount of questioned costs in each of the categories (compare R4, tab 11 at 90, with
+tab 37 at 1667).
+
+        As to direct labor costs, the contracting officer allowed $30,949.17 for labor
+after the stop-work order (increased from the $6,464.17 in the DCAA report and
+original debt demand), adding “$24,485, half of the proposed labor associated with the
+report to reimburse the contractor for efforts performed to compile the data for the
+incomplete report” (R4, tab 37 at 1668). However, as noted in the chart above,
+DCMA still only allowed $442,356 in direct labor costs, which was still $62,437 lower
+than what D-STAR had proposed (id.).
+
+        As to indirect factory expenses, the contracting officer decreased the indirect
+rate for the engineering overhead pool from 124.18% in D-STAR’s indirect cost
+proposal to 117.29%, but not as low as the 114.98% suggested by DCAA’s audit
+(compare R4, tab 11 at 95 (DCAA report including 114.98%), with tab 23 at 1404
+(124.18% in indirect cost proposal), and tab 37 at 1668 (final decision including
+117.29% rate)). Based on the allowed overhead rate, the contracting officer appears to
+have agreed with D-STAR’s position that its travel expenses were properly part of the
+indirect cost pool (and those costs are no longer at issue on appeal). However, the
+
+                                          10
+contracting officer agreed with DCAA that D-STAR had improperly included $38,366
+in materials the government had already paid for as part of the engineering overhead
+pool (and that cost is still at issue on appeal), resulting in disallowing $104,344 of
+indirect factory expenses (R4, tab 37 at 1667). 6 The voucher from another contract
+that allegedly credited $38,366 back to the government did not have any amounts
+owed by the government to D-STAR and, thus, nothing to permit D-STAR’s alleged
+credit (R4, tab 77 at 2910-13). Notably, D-STAR attempted to offset the $38,366 in
+materials against D-STAR’s allegedly incurred costs “in Excess of Ceiling” for that
+other contract (id. at 2910). Yet, that contract included a Limitation of Cost provision
+that did not obligate the government “to reimburse the Contractor for costs incurred in
+excess of . . . the estimated cost specified in the schedule” (FAR 52.232-20(d)(1)
+(incorporated by reference in referenced contract at R4, tab 40 at 1833).
+
+        As to G&A expenses, the contracting officer decreased D-STAR’s proposed
+rate of 36.94% in its indirect cost proposal to 34.32% (which is higher than DCAA’s
+proposed rate of 33.21%) (compare R4, tab 11 at 97 (DCAA report), with tab 23
+at 1404 (D-STAR indirect cost proposal), and with tab 37 at 1668 (final decision)).
+The contracting officer only cited the long-range planning costs and IR&D and B&P
+costs as the basis for reducing the base but, again, included the travel costs in the cost
+base (R4, tab 37 at 1688, tab 39 at 1814). Removing these costs from the G&A pool,
+resulted in a 34.32% G&A rate (R4, tab 37 at 1688, tab 39 at 1814). The contracting
+officer applied the 34.32% G&A rate to the allowable contract costs from the
+termination settlement proposal (direct costs, direct labor, indirect factory expense,
+and other costs of $2,129,007) and resulted in allowing $730,675 and questioning
+$64,863 in G&A costs (R4, tab 37 at 1667-68, tab 39 at 1814).
+
+       As to the fee, the contracting officer agreed with DCAA that D-STAR could not
+use the double-declining balance method of computing the fee (R4, tab 37 at 1668;
+tab 39 at 1814). Instead, the contracting officer applied the straight-line method of
+computing the 9.5% fee, resulting in allowing $264,520 of the $319,392 D-STAR
+sought for the fee (which allowance was higher than what DCAA had calculated,
+because the contracting officer had allowed other costs, as noted above) (R4, tab 37
+at 1668, tab 39 at 1814). Using the straight-line method again resulted in determining
+
+
+6
+    By subtracting the $38,366 from the engineering overhead pool, the new engineering
+         overhead pool was $653,451, which the contracting officer divided by the
+         engineering base ($557,095) to arrive at the new indirect rate of 117.29% (R4,
+         tab 11 at 95 (discussing the calculation method and the $557,095 engineering
+         base), tab 37 at 1668). The contracting officer then multiplied the 117.29%
+         indirect rate with the direct labor costs it found allowable ($442,356) to arrive
+         at allowable indirect factory expenses of $518,839 (R4, tab 37 at 1668). The
+         contracting officer subtracted the amount D-STAR proposed ($623,183) from
+         what she found allowable ($518,839) to arrive at the disallowance of $104,344.
+                                             11
+the percentage of completion for fee purposes by solely looking at the ratio of incurred
+costs to total estimated costs ($264,520/406,958 = 65% = $2,859,682/4,399,544) (R4,
+tab 1 at 3 (figures for fixed fee and total estimated cost in contract), tab 37 at 1667-68
+(figures for incurred costs and resulting fee allowed).
+
+       As to the settlement expenses, the contracting officer disallowed $482,849 of
+the proposed settlement expenses and allowed $144,805 (R4, tab 37 at 1669, tab 39
+at 1814). In particular, DCMA agreed with DCAA, concluding that (1) “$44,276.31
+representing 681.35 labor hours is fair and allocable for settlement labor,” (2) DCAA’s
+calculations regarding G&A and engineering overhead were proper, and (3) D-STAR
+should be allowed its other direct costs as proposed (R4, tab 37 at 1669, tab 39
+at 1814). Departing from DCAA, the contracting officer “allowed $25,000 to capture
+any additional costs incurred from audit issuance date to present,” which accounted for
+the increased allowance of $144,805 in her decision (from the $119,805 recommended
+by DCAA) (R4, tab 11 at 100, tab 37 at 1669, tab 39 at 1814).
+
+       On May 16, 2019, D-STAR timely appealed the contracting officer’s March
+2019 final decision to this Board (ASBCA No. 62075). In addition to the four costs D-
+STAR sought in its February 2018 claim that the contracting officer denied,
+D-STAR’s complaint also sought $10,000 in clean-up costs, gave a credit for $4,800 in
+B&P costs, and sought an additional “penalty” of $94,645 related to government’s
+February 2018 debt demand (June 2019 compl. at 49-51). The Board consolidated the
+new appeal with ASBCA No. 61947. DCMA moved to dismiss ASBCA No. 61947
+and, during a status conference, highlighted the claimed costs in ASBCA No. 62075
+that were not previously submitted to the contracting officer. After the Board
+conferred with the parties, the Board permitted D-STAR to submit a new claim to the
+contracting officer seeking the costs raised for the first time on appeal.
+
+        On August 17, 2020, D-STAR submitted its new certified claim for $917,360,
+incorporating its prior claimed costs with the new ones it had not previously submitted
+to the contracting officer for decision (R4, tab 38). In particular, D-STAR sought
+(1) $437,057 for costs and fee accrued till the July 2015 termination settlement
+proposal, (2) $5,726 for costs incurred to support the first audit that was included in
+the termination settlement proposal, (3) $70,567 for D-STAR’s costs incurred
+responding to government audits and providing information supporting its termination
+settlement proposal from submission of the proposal through its February 2018
+certified claim, (4) $13,090 in clean-up costs, including $10,000 promised by “verbal
+contract” after a former employee had cleaned up “the mess created by the disposition
+of inventory of the terminated contract, such as by disassembly, shipping, etc.,” and
+G&A for these costs, (5) a $6,283 credit to the government for B&P costs,
+(6) $119,828 in “Estimated costs incurred” by D-STAR after it filed its February 2018
+certified claim, (7) $83,342 in interest for the above claims from the time it submitted
+its July 2015 draft termination settlement proposal through August 2020, and (8) a
+
+                                           12
+$194,033 “[p]enalty at the standard of 6% per annum, for the Government’s
+unreasonable delays and inappropriate actions that have caused considerable harm”
+(id. at 1672, 1685). As to the clean-up costs, D-STAR presented no supporting proof
+of its incurred costs but stated that its president estimated that these services were
+worth $10,000 (id. at 1685). The former employee neither recorded the time it took to
+complete the clean-up services nor submitted a bill for these services after completing
+them (id.).
+
+        On November 16, 2020, DCMA denied D-STAR’s August 2020 certified claim
+and again concluded that D-STAR “is indebted to the government in the amount of
+$326,583” (R4, tab 39 at 1812). DCMA’s contracting officer repeated verbatim her
+assessment of D-STAR’s termination settlement proposal from her March 2019 final
+decision (id. at 1813-14). The contracting officer also addressed the costs not relating
+to the termination settlement proposal. First, the contracting officer denied D-STAR’s
+request for additional settlement costs because she concluded that she already
+reviewed and rejected these costs in her March 2019 final decision (id. at 1814).
+Second, the contracting officer denied D-STAR’s request for clean-up costs because it
+was based on a “verbal agreement” with a former D-STAR employee and there was
+not adequate support for the claimed costs (id.). Third, the contracting officer rejected
+D-STAR’s proposed credit for $6,283 and stood by her assessment of G&A costs from
+her March 2019 final decision (id. at 1815). Fourth, the contracting officer denied
+D-STAR’s request for $119,828 in estimated costs incurred between submitting its
+February 2018 certified claim and its August 2019 claim, because these costs were
+permitted by neither the contract’s termination provision nor the cost principle that
+disallows costs for prosecution of claims against the Federal government (id. at 1815
+(citing FAR 52.249-6 and FAR 31.205-47(f)(1))). Fifth, the contracting officer denied
+D-STAR’s request for CDA interest on its claim because any “amount due [was] yet to
+be determined” and that should be left to the Board (R4, tab 39 at 1815). Sixth, the
+contracting officer denied D-STAR’s $194,033 request for penalty costs because “they
+are unsupported and not provided for under FAR Part 49 or FAR 52.249-6” (R4,
+tab 39 at 1815). Thus, the contracting officer again concluded that D-STAR owed the
+government $326,583 (id.).
+
+       On December 18, 2020, D-STAR moved to withdraw its appeal in ASBCA
+No. 61947, which we dismissed with prejudice on January 13, 2021. D-STAR Eng’g
+Corp., ASBCA No. 61947, 2021 WL 753666 (Jan. 13, 2021).
+
+       On January 10, 2021, D-STAR timely appealed the November 2020 contracting
+officer’s final decision to this Board, which we docketed as ASBCA No. 62780 and
+consolidated with ASBCA No. 62075. On February 16, 2021, D-STAR filed its
+complaint in this new appeal – ASBCA No. 62780 – seeking the same costs from its
+August 2020 certified claim totaling $917,360 (Feb. 2021 compl. at 12).
+
+
+                                           13
+       In April 2021, DCMA moved to partially dismiss D-STAR’s complaint
+regarding its claim seeking a $194,033 penalty for the government’s alleged
+“unreasonable delays and inappropriate actions that . . . caused considerable harm” to
+D-STAR. D-STAR Eng’g Corp., ASBCA Nos. 62075, 62780, 21-1 BCA ¶ 37,943
+at 184,290. We granted the motion in October 2021, since the “penalty” effectively
+sought punitive damages, and dismissed the portion of D-STAR’s complaint regarding
+those costs. Id. at 184,291. 7 D-STAR’s remaining costs and the government debt
+demand remain to be determined in this decision.
+
+                                       DECISION
+
+I.        Standard of Review
+
+       Board Rule 11 allows the parties to waive a hearing and submit their appeal on
+the record. Board Rule 11(a); Consorzio Stabile GMG S.C.A.R.L., ASBCA
+No. 62753, 23-1 BCA ¶ 38,347 at 186,213. Under Board Rule 11, we may weigh the
+evidence, including resolving any disputed facts in making our findings of fact and
+rendering a decision. Consorzio, 23-1 BCA ¶ 38,347 at 186,213. We conduct a de
+novo review without deference to the contracting officer’s final decisions. Dep’t of
+Transp. v. Eagle Peak Rock & Paving, Inc., 69 F.4th 1367, 1374-76 (Fed. Cir. 2023);
+41 U.S.C. § 7103(e); ASBCA Rule 10(c), (d).
+
+        DCMA’s debt demand for repayment from D-STAR constitutes a government
+claim. Eyak Servs., LLC, ASBCA No. 58556, 14-1 BCA ¶ 35,570 at 174,327 (noting
+that a debt claim “to recover amounts paid to a contractor that the contractor was not
+entitled to receive” constitutes a government claim per FAR Part 32.6); see also
+Creative Mgmt. Servs., LLC v. United States, 989 F.3d 955, 962-63 (Fed. Cir. 2021)
+(stating that debt demand offsetting termination settlement proposal costs constituted a
+government claim), overruled, in part, on other grounds, ECC Int’l Constructors, LLC
+v. Sec’y of Army, 79 F.4th 1364, 1372-73 (Fed. Cir. 2023). Generally, as the
+proponent of the claim, DCMA bears the burden of proof by a preponderance of the
+evidence. Consorzio, 23-1 BCA ¶ 38,347 at 186,213. However, as to the question of
+determining cost reasonableness under the FAR’s cost principles, the contractor retains
+the burden of proof even for a government claim. Northrop Grumman Corp., ASBCA
+No. 62165, 23-1 BCA ¶ 38,394 at 186,557 (contractor challenging government claim
+still had burden of proof regarding cost reasonableness); FAR 31.201-3(a) (“No
+presumption of reasonableness shall be attached to the incurrence of costs by a
+
+7
+     The government’s motion also sought to dismiss other requests for compensation on
+          the basis that they had not been submitted to the contracting officer. We
+          deferred deciding this portion of the motion until we considered the merits.
+          D-STAR, 21-1 BCA ¶ 37,943 at 184,291. Due to the posture of this case and
+          our decision below, we need not return to the deferred portion of the motion
+          today.
+                                            14
+contractor. If an initial review of the facts results in a challenge of a specific cost by
+the contracting officer or the contracting officer’s representative, the burden of proof
+shall be upon the contractor to establish that such cost is reasonable.”).
+
+       D-STAR is the proponent of the claim for additional costs sought in the
+August 17, 2020 certified claim and, thus, bears the burden of proof for those costs.
+FlightSafety Int’l, Inc., ASBCA No. 62659, 23-1 BCA ¶ 38,245 at 185,709, aff’d, 130
+F.4th 926 (Fed. Cir. 2025).
+
+II.    DCMA’s Debt Demand for Payment
+
+        DCMA demands D-STAR pay a debt of $337,463, asserting that the
+government overpaid D-STAR for the following five types of costs on the contract:
+(1) direct labor costs; (2) indirect factory expenses; (3) G&A expenses; (4) fee; and
+(5) settlement expenses (gov’t br. at 5-7). The contract includes the Allowable Costs
+and Payment clause and the Termination (Cost-Reimbursement) clause, each of which
+subjects recovery of costs to the cost principles in FAR Part 31.2. FAR 52.216-7(a)(1)
+(incorporated by reference at R4, tab 1 at 13); see also FAR 52.249-6(i) (incorporated
+by reference at R4, tab 1 at 14). FAR Part 31.2’s cost principles permit recovery of
+“allowable” costs that comply “with all of the following requirements:
+(1) Reasonableness. (2) Allocability. (3) [Cost Accounting Standards or generally
+accepted accounting principles]. (4) Terms of the contract. (5) Any limitations set forth
+in this subpart.” Geren v. Tecom, Inc., 566 F.3d 1037, 1040 (Fed. Cir. 2009) (quoting
+FAR 31.201-2(a)); Fluor Intercontinental, Inc., ASBCA Nos. 62550, 62672, 22-1
+BCA ¶ 38,105 at 185,097.
+
+       Given the context of a termination for convenience, a termination settlement
+“must balance strict application of the cost principles with assuring fairness to the
+contractor terminated for convenience.” Fluor, 22-1 BCA ¶ 38,105 at 185,098; see
+also Nicon, Inc. v. United States, 331 F.3d 878, 885 (Fed. Cir. 2003) (noting that cost
+principles are “subject to general principles of section 49.201(a)”). “Cost and
+accounting data may provide guides, but are not rigid measures, for ascertaining fair
+compensation.” FAR 49.201(c); see also Fluor, 22-1 BCA ¶ 38,105 at 185,098. “The
+use of business judgment, as distinguished from strict accounting principles, is the
+heart of a settlement.” FAR 49.201(a); see also Codex Corp. v. United States, 226 Ct.
+Cl. 693, 698 (1981) (reconciling “the strict standard of allowable costs … and the
+fairness concept … is a matter primarily within the discretion of the Board of Contract
+Appeals”).
+
+       A. DCMA Properly Disallowed Some of D-STAR’s Direct Labor Costs
+
+       DCMA’s contracting officer properly disallowed $62,437 in direct labor costs
+and only allowed $30,949 for work after the partial stop-work order (R4, tab 37
+at 1668, tab 39 at 1813). DCMA asserts that the disallowed costs were unreasonable
+                                            15
+(gov’t br. at 21-25). D-STAR disagrees (app. br. at 2.23-.24; app. reply br. at 4; R4,
+tab 38 at 1745-46). We agree with DCMA.
+
+         “Cost reasonableness is a ‘question of fact.’” Kellogg Brown & Root Servs.,
+Inc. v. United States, 728 F.3d 1348, 1360 (Fed. Cir. 2013) (quoting Gen. Dynamics
+Corp. v. United States, 410 F.2d 404, 409 (Ct. Cl. 1969)). D-STAR complains that it
+is unclear what standard DCAA and DCMA used to assess the reasonableness of costs
+(app. br. at 2.23). But, DCAA used the definition in the FAR: “A cost is reasonable
+if, in its nature and amount, it does not exceed that which would be incurred by a
+prudent person in the conduct of competitive business.” FAR 31.201-3(a). The FAR
+includes a non-exclusive list of “considerations and circumstances” in assessing
+reasonableness:
+
+              (1) Whether it is the type of cost generally recognized as
+              ordinary and necessary for the conduct of the contractor's
+              business or the contract performance;
+              (2) Generally accepted sound business practices, arm’s
+              length bargaining, and Federal and State laws and
+              regulations;
+              (3) The contractor’s responsibilities to the Government,
+              other customers, the owners of the business, employees, and
+              the public at large; and
+              (4) Any significant deviations from the contractor’s
+              established practices.
+
+FAR 31.201-3(b); Kellogg, 728 F.3d at 1359 (recognizing that the language is
+nonexclusive).
+
+        Here, DCMA specifically identified the challenged costs by reviewing
+timesheets and providing a brief explanation why it found each time entry
+unreasonable because they were (1) excessive, (2) unauthorized design work after the
+partial stop-work order, (3) entries without work descriptions, (4) work on unchanged
+monthly reports, or (5) allegedly resulted in an incomplete draft report (R4, tab 26
+at 1453-57, tab 45). DCAA found reasonable only $6,464.17 of these $93,386 in costs
+(R4, tab 11 at 86, 93). DCMA’s contracting officer added an additional $24,485 for
+half of the labor associated with D-STAR’s submission of the draft final report (R4,
+tab 37 at 1668, tab 39 at 1813). Thus, DCMA found only $30,949 of the costs
+reasonable (R4, tab 37 at 1668, tab 39 at 1813).
+
+       D-STAR has not offered proof to support why the challenged costs are
+reasonable. As noted above, despite this being a government claim, contracts subject
+to FAR Part 31.2 place the burden of proof regarding cost reasonableness on the
+contractor once the contracting officer has “challenged specific costs.” Northrop, 23-1
+
+                                           16
+BCA ¶ 38,394 at 186,557; FAR 31.201-3(a). After D-STAR reviewed DCAA’s audit
+report, it requested a copy of the “detailed spreadsheet referred to in the DCMA
+Report to DCAA” because it would allow D-STAR to justify those costs and rebut the
+government’s determinations (R4, tab 12 at 119, 156). DCMA provided that detailed
+spreadsheet as part of the records in this appeal (R4, tab 26), despite D-STAR’s
+assertion in its brief that the agency had not “provided any evidence” regarding the
+disallowed costs (app. br. at 2.24). Notwithstanding having the government’s files
+explaining the challenged costs, D-STAR has repeated the same generalized
+justifications for why the costs were reasonable without addressing any of the issues
+the government raised in the spreadsheets such as missing work descriptions for time
+entries or why certain costs were not excessive (R4, tab 12 at 157, tab 38 at 1745; app.
+br. at 2.23-24; app. reply br. at 4). D-STAR has failed to respond to the specific
+challenges by time entry.
+
+      Ultimately, D-STAR has not proved that its disallowed direct labor costs were
+reasonable. Thus, we conclude that the evidence supports DCMA’s disallowance of
+$62,437 of D-STAR’s proposed $504,739 in direct labor costs, resulting in $442,356
+allowable direct labor costs from the termination settlement proposal.
+
+       B.     DCMA Has Proved that Some of D-STAR’s Indirect Factory Expenses
+              Were Unallowable
+
+        DCMA has proved that $104,344 in indirect factory expenses from D-STAR’s
+termination settlement proposal were unallowable (R4, tab 37 at 1667, tab 39
+at 1813-14). DCMA found that D-STAR improperly included materials in its
+engineering overhead pool (R4, tab 11 at 86). D-STAR contends that it should be paid
+the full amount sought in its termination settlement proposal because it properly
+included the materials in its overhead pool (app. br. at 2.25). We disagree.
+
+       As we found above, DCMA and DCAA traced $38,366 of materials that the
+government paid D-STAR on a prior contract (a direct cost), but that D-STAR
+included in its engineering overhead pool in calculating its termination settlement
+proposal for this contract (R4, tab 11 at 86, tab 18 at 1064 (D-STAR accounting
+records regarding materials), tab 29 at 1525, 1530 (D-STAR vouchers/invoices)).
+D-STAR could not include these directly purchased materials as part of its unused
+inventory and, thus, in its overhead pool: “When materials are purchased specifically
+for and are identifiable solely with performance under a contract, the actual purchase
+cost of those materials should be charged to the contract.” FAR 31.205-26(d). And,
+“the Government acquires title to all property to which the contractor is entitled to
+reimbursement” on a cost type contract. FAR 45.402(b). D-STAR received
+reimbursement, so these materials constituted government acquired property (R4, tab
+18 at 1064 (D-STAR accounting records regarding materials), tab 29 at 1525, 1530
+(D-STAR vouchers/invoices)).
+
+                                           17
+        D-STAR contends that it purchased back these materials, so it could properly
+treat these materials as inventory and part of the engineering overhead pool (app. reply
+br. at 5-6; R4, tab 12 at 134-37). D-STAR argues that it gave the government a credit
+for these materials to offset a cost overrun that it incurred performing that prior
+contract (R4, tab 12 at 134-37). D-STAR points to a voucher that purported to offset
+the $38,366 in materials against costs incurred “in Excess of Ceiling” of that prior
+contract (R4, tab 77 at 2910, tab 12 at 136-37). Instead of seeking recovery of the cost
+overrun, D-STAR asserts it “waived” those allegedly incurred costs exceeding the
+ceiling (R4, tab 12 at 134). D-STAR admits it never issued a check or other type of
+payment to the government for these materials (id.).
+
+       D-STAR could not properly offset the $38,366 in materials against the costs the
+contractor incurred in excess of the ceiling price. As found above, that prior contract
+included a Limitation of Cost provision that did not obligate the government “to
+reimburse the Contractor for costs incurred in excess of . . . the estimated cost
+specified in the schedule[.]” FAR 52.232-20(d)(1) (incorporated by reference in prior
+contract at R4, tab 40 at 1833). “The limitation of the government’s liability to the
+estimated cost stated in the contract (unless additional costs are authorized) protects
+the government from having to pay more than it had anticipated and set aside for the
+contract if the contractor’s costs of performance exceed the estimate.” Advanced
+Materials, Inc. v. Perry, 108 F.3d 307, 310 (Fed. Cir. 1997). Because D-STAR was
+not owed the cost overrun based on the Limitation of Cost clause, there was no money
+the government owed D-STAR to offset its alleged credit for $38,366 in material costs
+(R4, tab 77 at 2910-13). D-STAR has failed to rebut the government’s evidence
+showing no credit ever occurred. Thus, DCMA properly removed the materials
+amount from the engineering overhead pool. 8
+
+      As found above, once $38,366 is removed from the overhead pool, the proper
+overhead cost rate is 117.29% (R4, tab 11 at 95, tab 37 at 1668, tab 39 at 1813-14). 9
+
+
+8
+  D-STAR neither contends nor has pointed to any evidence that it should have been
+      excused from application of the Limitation of Cost provision and we have not
+      found any basis in the record. See Int’l Sci. & Tech. Institute, Inc. v. United
+      States, 53 Fed. Cl. 798, 806 (2002) (discussing circumstances that may excuse a
+      contractor from compliance with and application of a Limitation of Cost
+      provision), aff’d, 95 F. App’x 358 (Fed. Cir. 2004); see also Parsons-UXB J.V.,
+      ASBCA No. 56481, 13 BCA ¶ 35,378 at 173,595 (same).
+9
+  D-STAR notes that its indirect cost proposals were accepted for calendar years 2011
+      and 2012 as a defense of its calculations for calendar year 2013 (app. supp. R4,
+      tab 35; app. reply at A.4). However, DCAA had questioned the overhead pool
+      and rate for calendar year 2013 as part of its audit, and the record includes no
+      indication the government ever accepted D-STAR’s 2013 indirect cost proposal
+                                           18
+As we found above, DCMA properly applied that rate to the allowed direct labor costs
+($442,356), resulting in disallowance of $104,344 in indirect factory expenses of the
+$623,183 D-STAR proposed in its termination settlement proposal (R4, tab 37
+at 1667). Thus, DCMA has proved that these costs were properly found unallowable
+and that $518,839 were allowable indirect factory expenses from D-STAR’s
+termination settlement proposal.
+
+       C.     DCMA Has Proved that D-STAR’s G&A Expenses that it Challenged
+              were Unallowable
+
+       DCMA asserts that it acted properly by finding $61,243 in G&A expenses from
+D-STAR’s termination settlement proposal unallowable (gov’t br. at 31-35). D-STAR
+asserts that DCMA’s conclusions are “not substantiated by any facts,” triple-count
+subtracted costs, and that these G&A expenses should have been allowed (app. br.
+at 2.25; app. reply br. at 7-8). DCMA has proved that these costs should be
+disallowed.
+
+       DCMA has shown that D-STAR improperly included $36,237 in long-range
+planning costs in its G&A expenses to calculate its G&A rate for calendar year 2013
+because the costs were (1) unsupported or (2) included burden on G&A expenses (R4,
+tab 11 at 86, 96-97). DCMA has also shown that D-STAR improperly included
+$7,194 in its IR&D and B&P costs (gov’t br. at 34).
+
+        First, a contractor must show its “costs were allowable by ‘accounting for costs
+appropriately and . . . maintaining records, including supporting documentation.”
+Strategic Tech. Institute, Inc. v. Sec’y of Defense, 91 F.4th 1140, 1142 (Fed. Cir. 2024)
+(quoting FAR 31.201-2(d)). “The contracting officer may disallow all or part of a
+claimed cost that is inadequately supported.” FAR 31.201-2(d); see also Int’l Dev.
+Solutions, LLC v. Sec’y of State, 105 F.4th 1375, 1377 (Fed. Cir. 2024). DCAA
+reviewed D-STAR’s records, questioned the allowability of $4,944 in long-range
+planning costs because the agency could find no supporting documentation for the
+costs, and DCMA’s contracting officer disallowed the costs based on DCAA’s
+recommendation (R4, tab 11 at 94-97, tabs 15-17, tab 37 at 1688, tab 39 at 1814).
+D-STAR has provided no records supporting that it incurred these costs and, thus,
+DCMA has proved that these costs were properly disallowed.
+
+        Second, a contractor may not add burden (overhead and G&A) to costs it has
+already characterized as indirect G&A expenses. “G&A costs are indirect expenses
+that are not identifiable with any particular cost objective but that are necessary to the
+
+
+       (R4, tab 11 at 94). Moreover, DCAA’s failure to challenge a claimed cost one
+       year, without more, does not preclude it from challenging it in later years.
+       Tech. Sys., Inc., ASBCA No. 59577, 17-1 BCA ¶ 36,631 at 178,387-88.
+                                            19
+overall operation of the business.” Advanced Materials, Inc. v. United States, 54 Fed.
+Cl. 207, 212 (2002); FAR 2.101 (defining a G&A expense as “any management,
+financial, and other expense which is incurred by or allocated to a business unit and
+which is for the general management and administration of the business unit as a
+whole”). Here, D-STAR incurred indirect overhead and G&A expenses on its long-
+range planning costs (R4, tab 22 at 1402-03). D-STAR then inappropriately added
+burden to these indirect costs (R4, tab 11 at 97, tab 30 at 1589). D-STAR could not
+add burden to these indirect costs as if they were direct costs. Cf. FAR 31.202(a);
+FAR 31.203(b). While D-STAR complains that the government has failed to explain
+its calculations, DCMA relies on record evidence to explain and support the
+disallowance (R4, tab 11 at 97, tab 30 at 1589). DCAA properly recalculated the
+proper amounts and DCMA disallowed that amount of double-counted burden:
+$31,293 (R4, tab 11 at 97, tab 30 at 1589, tab 37 at 1668, tab 39 at 1814).
+
+        Third, DCMA has shown that it properly recalculated the IR&D and B&P costs
+based on applying the corrected engineering overhead rate, as discussed above (gov’t
+br. at 34-35). D-STAR applied its proposed 124.18% engineering overhead rate to its
+IR&D and B&P direct labor costs in its 2013 indirect cost proposal (R4, tab 23
+at 1406, 1412). As found above, however, the engineering overhead rate for calendar
+year 2013 should have been 117.29% (R4, tab 37 at 1668, tab 39 at 1813-14, tab 11
+at 95). Applying the proper engineering overhead rate of 117.29% to the IR&D and
+B&P costs (R4, tab 23 at 1406), D-STAR overstated its IR&D and B&P costs by
+$7,194 (gov’t br. at 34). 10
+
+        DCMA has also shown that it properly removed the disallowed long-range
+planning and IR&D and B&P costs from the D-STAR’s proposed G&A pool
+($693,173 – 43,431 = $649,742), divided it by the total cost input base as modified by
+these changes to D-STAR’s proposed total cost input base ($1,883,653), which results
+in a 34.49% G&A rate (gov’t br. at 34-35; R4, tab 23 at 1404 (specifying D-STAR’s
+proposed G&A pool and base). DCMA has also shown that applying this 34.49%
+G&A rate to the allowable contract costs from the termination settlement proposal
+(direct costs, direct labor, indirect factory expense, and other costs totaling
+$2,129,007), results in allowing $734,295, and disallowing $61,243, in G&A costs
+(R4, tab 37 at 1667 (listing allowable costs; gov’t br. at 35). Thus, DCMA has proved
+that it properly disallowed $61,243 in D-STAR’s proposed $795,538 in G&A costs
+and, thus, we find allowable $734,295 in G&A costs.
+
+
+10
+     DCMA’s contracting officer disallowed $9,600 in her final decisions (R4, tab 37
+        at 1668, tab 39 at 1814). However, the contracting officer accidentally included
+        travel costs that she had allowed as part of her calculation (gov’t br. at 34).
+        When the travel costs are removed, the correct calculation is $7,194 (id.).
+                                            20
+       D.     DCMA Should not Have Disallowed $54,779 for the Fee
+
+       DCMA asserts that it properly applied a straight-line method for calculating the
+percentage of contract completion using the ratio of incurred costs to the total
+estimated costs, resulting in disallowing $54,779 of D-STAR’s fee (gov’t br. at 36-37).
+D-STAR asserts that the contracting officer should have allowed the company to use a
+double-declining method for calculating the fee, resulting in accelerated recovery
+because of the unrecovered start-up costs of performing this research and development
+contract (app. br. at 2.26; app. reply at 9; R4, tab 38 at 1758-59). The law supports
+D-STAR’s position, not DCMA’s.
+
+       Generally, the termination contracting officer “shall determine the adjusted fee
+to be paid, if any, in the manner provided by the contract.” FAR 49.305-1(a).
+“Contract interpretation begins with the language of the written agreement.” NOAA
+Md., LLC v. Adm’r of Gen. Servs. Admin., 997 F.3d 1159, 1165 (Fed. Cir. 2021)
+(quoting NVT Techs., Inc. v. United States, 370 F.3d 1153, 1159 (Fed. Cir. 2004));
+Konecranes Nuclear Equip. & Servs., LLC, ASBCA Nos. 62797, 62827, 24-1 BCA
+¶ 38,586 at 187,555. If unambiguous, the plain meaning of a contract controls.
+Boeing Co. v. Sec’y of Air Force, 983 F.3d 1321, 1326 (Fed. Cir. 2020); Hercules, Inc.
+v. United States, 292 F.3d 1378, 1380-81 (Fed. Cir. 2002) (“In contract interpretation,
+the plain and unambiguous meaning of a written agreement controls.” (internal citation
+omitted)).
+
+       Here, the contract states: “As determined by the contracting officer, [the fee]
+shall be paid as it accrues, in regular installments based upon the percentage of
+completion of work” (R4, tab 1 at 3). The contract also states: “If the contract is
+terminated for the convenience of the Government, the settlement shall include a
+percentage of the fee equal to the percentage of completion of work contemplated
+under the contract . . . less previous payments for fee.” FAR 52.249-6(h)(4)(i)
+(incorporated by reference in contract, R4, tab 1 at 14). From the government’s
+perspective, accelerating payment of the fee as D-STAR proposed, would contradict
+the contract’s requirement that fee payment “be paid as it accrues,” which suggests a
+straight-line requirement and using a 9.25% fee throughout contract performance
+(gov’t br. at 36-37). However, the government’s reliance on only a straight-line
+method results in concluding that the “percentage of completion of work” should be
+calculated as the ratio of costs incurred to the estimated costs of performing the
+contract. Indeed, every time that DCAA or DCMA calculated the percentage of
+completion it relied on this ratio (R4, tab 11 at 98-99, 104 (DCAA audit report and
+DCMA technical analysis), tab 37 at 1667-68 (contracting officer’s final decision)).
+
+       The government’s narrow reading of the term “percentage of completion of
+work” contradicts the FAR, which states: “The ratio of costs incurred to the total
+estimated cost of performing the contract or the terminated portion is only one factor
+
+                                           21
+in computing the percentage of completion.” FAR 49.305-1(b); see also Sys. Dev.
+Corp., ASBCA No. 16947, 73-1 BCA ¶ 9788 at 45,738 (“The fixed fee relates to the
+degree of completion of the work not to the incurred costs.”). Here, as found above,
+the government used this ratio as the only factor in computing the percentage
+completion of work in assessing the termination settlement proposal.
+
+        The FAR requires a broader measure in assessing the “percentage of
+completion of work,” particularly given the FAR’s requirement that a termination for
+convenience should ensure “fair compensation” and not just rigidly rely on cost and
+accounting data. FAR 49.201(c); see also Fluor, 22-1 BCA ¶ 38,105 at 185,098. In
+computing the “percentage completion of work” in a terminated contract, the FAR
+states:
+
+                [F]actors such as the extent and difficulty of the work
+                performed by the contractor (e.g., planning, scheduling,
+                technical study, engineering work production and
+                supervision, placing and supervising subcontracts, and
+                work performed by the contractor in (1) stopping
+                performance, (2) settling terminated subcontracts, and (3)
+                disposing of inventory) shall be compared with the total
+                work required by the contract or by the terminated portion.
+
+FAR 49.305-1(a); (app. br. at 2.26; R4, tab 38 at 1758-59). The government
+discounted this broader standard and, thus, misconstrued the term “percentage of
+completion of work.” Cf. Lockheed Martin Corp. v. England, 424 F.3d 1199, 1205
+(Fed. Cir. 2005) (discussing another part of FAR 49.305-1 and concluding that “we are
+not persuaded that the provision should be interpreted in a way that contradicts its
+plain meaning”). D-STAR has shown that the early termination prevented the
+contractor from fully recovering the financial investments it anticipated recovering
+over the full contract (R4, tab 12 at 150-51). These unrecovered costs should have
+been factored into calculation of the “percentage of completion of work” in calculating
+the fee.
+
+       Ultimately, the government has failed to prove that the fee it awarded
+constituted fair compensation as part of the termination settlement 11 and, because the
+
+
+11
+     We have applied a de novo standard of review to the fee determination, because the
+        contracting officer’s determination of the percentage of completed work for a
+        fixed fee is different than an award deciding official’s determination of an
+        award fee or award term, which is reviewed for abuse of discretion. Burnside-
+        Ott Aviation Training Ctr v. Dalton, 107 F.3d 854, 859-60 (Fed. Cir. 1997);
+        CI2, Inc., ASBCA No. 56257, 11-2 BCA ¶ 34,823 at 171,354. However, even
+                                            22
+burden of proof in this appeal falls on the government, we rule for D-STAR on the fee
+issue. See Eyak Servs., LLC, 14-1 BCA ¶ 35,570 at 174,328 (“Because these appeals
+are from government claims, the government bears the burden of proof.”); see also
+Emerson Elec. Co., ASBCA No. 15591, 72-1 BCA ¶ 9440 at 43,836 (denying the
+government’s reduction of a fee in a termination for convenience case because the
+government had failed to meet its burden of proof).
+
+       E.    DCMA Properly Disallowed Some of D-STAR’s Settlement Costs
+
+        DCMA asserts that it appropriately disallowed $482,849 in settlement expenses
+and found only $144,805 as reasonable and allowable (gov’t br. at 37-48). D-STAR
+asserts that it provided sufficient information to justify its costs and that the
+government “has not provided any reasons, or even supporting calculations, to arrive”
+at its disallowance of these costs (app. br. at 2.26-2.32; app. reply br. at 9-14). DCMA
+properly disallowed these costs.
+
+       The contract’s Termination (Cost-Reimbursement) clause and the incorporated
+cost principles – particularly, the termination cost principle – permit recovery of
+settlement expenses. FAR 52.249-6(h) (incorporated by reference in the contract, R4,
+tab 1 at 14); FAR 31.205-42(g). Again, because DCMA has challenged the specific
+settlement costs as unreasonable, FAR Part 31.2 places the burden of proof regarding
+cost reasonableness on the contractor once the contracting officer has identified the
+challenged costs. Northrop, 23-1 BCA ¶ 38,394 at 186,557; FAR 31.201-3(a).
+DCMA challenged the direct labor included as part of the settlement costs and lowered
+the burden rate applied to those costs based on the FAR’s termination cost principle
+(R4, tab 11 at 99-100, 106, tab 37 at 1669, tab 39 at 1814).
+
+       First, DCMA concluded that only $44,276.31, representing 681.35 direct labor
+hours, was fair and reasonable for the settlement costs (R4, tab 11 at 106, tab 37
+at 1669, tab 39 at 1814). D-STAR complains that DCMA has made “only generic
+assertions about ‘excessive’ and ‘unreasonable’ [costs], and has not challenged any
+specific labor hours” (app. reply at 10 (emphasis in original)). To the contrary,
+DCMA has provided detailed records of its review of D-STAR’s time sheets and
+records, going line-by-line explaining why the specific time entries it challenged were
+unreasonable (R4, tab 35 at 1643-50). For example, D-STAR sought to recover costs
+of spending 1,187.7 hours for entering 129 inventory items into DCMA’s Plant
+Clearance Automated Reutilization Screening System, which amounts to
+approximately 9.2 hours for every entry into the database (R4, tab 11 at 105-06, tab 37
+at 1669, tab 39 at 1814). Yet, the record supports DCMA’s position that D-STAR
+needed significantly less time to complete this post-termination activity and DCMA
+
+
+       if we applied that more deferential abuse of discretion standard, we would still
+       hold that the government failed to meet its burden of proof.
+                                           23
+correctly lowered the number of allowable hours to 317.95 hours (app. supp. R4,
+tab 31 at 14; R4, tab 35 at 1647).
+
+        Notwithstanding DCMA providing the underlying documentation supporting its
+reasonableness determination in the Rule 4 file in this appeal, D-STAR still has not
+rebutted the government’s position (R4, tab 38 at 1746-49). Even as D-STAR
+incorrectly complains that DCMA has not been specific enough, D-STAR only relies
+on general statements of why it should receive these costs without connecting those
+statements to why each disallowed hour should be found reasonable (R4, tab 12
+at 170-73; app. reply br. at 11). For example, in response to DCMA’s
+unreasonableness determination regarding D-STAR’s entry of inventory items into the
+government’s database, D-STAR asserts that some of these hours could be justified by
+other activities, such as (1) understanding the FAR’s termination procedures,
+(2) communicating with the termination contracting officer seeking guidance,
+(3) unsuccessfully searching for suitable attorneys and consultants, (4) preparing and
+revising D-STAR’s settlement estimate and four iterations of D-STAR’s termination
+settlement proposal, (5) working with the government to secure International Traffic in
+Arms regulated data and project-related hardware, (6) disposing of government
+hardware, and (7) responding to the government’s audit of the proposal (app. br.
+at 2.28-2.30; R4, tab 12 at 170-73). However, as DCMA points out, D-STAR included
+separate time entries for these other activities, DCMA separately evaluated these costs
+for reasonableness and allowability, and found 363.4 hours reasonable for these
+activities (gov’t br. at 42; R4, tab 35 at 1644-46, tab 37 at 1669). In any event, D-
+STAR has failed to rebut DCMA’s reasonableness determinations.
+
+       Second, the government assessed and lowered D-STAR’s proposed burden
+(both engineering overhead and G&A), resulting in only allowing $32,364 in overhead
+costs and $14,835 in G&A costs (R4, tab 37 at 1669, tab 39 at 1814). On appeal,
+DCMA argues that it erred in allowing any of the $14,835 in G&A costs (gov’t br.
+at 47). D-STAR proposed including its full burden for its settlement costs (R4, tab 11
+at 100). However, while the FAR allows recovery of “[i]ndirect costs related to salary
+and wages incurred as settlement expenses . . .; normally, such indirect costs shall be
+limited to payroll taxes, fringe benefits, occupancy costs, and immediate supervision
+costs.” FAR 31.205-42(g)(1)(iii); Alfair Dev. Co., ASBCA Nos. 53119, 53120, 05-2
+BCA ¶ 32,990 at 163,516. The government recognized this limitation in applying
+engineering overhead to the settlement direct labor costs but argues it mistakenly
+applied the full G&A rates (without similarly limiting it) to the settlement costs (R4,
+tab 11 at 100, tab 23 at 1410, tab 33 at 1621-23, 1633-35).
+
+        D-STAR asserts that the government bears the responsibility for D-STAR’s
+failure to segregate these costs because the termination contracting officer did not
+provide the “detailed briefing” allegedly required by FAR 49.105 (app. br. at 1.3, 2.2-
+2.4; app. reply br. at 14). The FAR advises that the termination contracting officer
+
+                                          24
+“should promptly hold a conference with the contractor” and discuss a list of topics
+relevant to the termination but does not require a “detailed briefing.” FAR 49.105(c).
+Here, DCMA’s termination contracting officer discharged this duty to D-STAR,
+providing guidance and the specific regulations regarding how to prepare the
+termination settlement proposal, answering questions from D-STAR about specific
+termination settlement issues, and discussing the draft termination settlement proposal
+with D-STAR by telephone (app. supp. R4, tabs 24, 26). Indeed, DCMA specifically
+provided the full provision of FAR 31.205-42, including the section limiting G&A, to
+D-STAR and directed the contractor to review it in preparing the termination
+settlement proposal (app. supp. R4, tab 24 at 1-2, 6-7). D-STAR cannot shift
+responsibility to DCMA for failing to follow the guidance provided. 12
+
+        D-STAR also asserts that it should have been able to charge its fully burdened
+rates to the settlement costs because the termination cost principle only “normally”
+applies and that implies the FAR “allows alternate methods of accumulating costs if . .
+. fair and reasonable” (app. reply br. at 9). However, we have disallowed contractor
+recovery of G&A settlement costs where the contractor “did not segregate non-
+allowable G&A costs from those allowable under” FAR 31.205-42(g)(1)(iii). Alfair
+Dev., 05-2 BCA ¶ 32,990 at 163,516; see also Info. Sys. & Networks Corps., ASBCA
+No. 42659, 00-1 BCA ¶ 30,665 at 151,425 (“[W]e are unable to sustain their
+allowance because of the limitations of FAR 31.205-42(g)[(1)](iii).”). Here, D-STAR
+did not segregate non-allowable indirect costs in applying G&A to its settlement costs.
+D-STAR has offered no rationale for departing from the normal limitations on
+recovering G&A for settlement costs. Thus, we deny recovery for the G&A costs and
+limit engineering overhead to the rate that follows the limitations of FAR 31.205-
+42(g)(1)(iii). In total, the allowable settlement costs are $129,970.
+
+
+12
+     D-STAR also asserts more generally that the government did not act swiftly to
+        consummate a settlement when presented with the termination settlement
+        proposal (app. br. at 2.11). The FAR mandates that the termination contracting
+        officer “shall [p]romptly negotiate settlement with the contractor and enter into
+        a settlement agreement[.]” FAR 49.105(a)(3). However, “[i]f the [termination
+        contracting officer] suspects fraud or other criminal conduct related to the
+        settlement of a terminated contract, the [termination contracting officer] shall
+        discontinue negotiations and report the facts under agency procedures.”
+        FAR 49.106. Here, the government delayed negotiation of a settlement with D-
+        STAR because it was investigating some of the costs at issue for fraud (R4, tabs
+        47-50-51, 55, see supra note 2). “[T]he same body of law which directs a
+        [contracting officer] to settle a [termination settlement proposal] also prohibits
+        negotiation under circumstances involving fraud.” Medina Constr., Ltd. v.
+        United States, 43 Fed. Cl. 537, 549 (1999).
+                                             25
+       Based on the assessment of the various costs on appeal, we arrive at the final
+calculation of damages based on the allowable costs from D-STAR’s termination
+settlement proposal (including the undisputed and disputed costs):
+
+                             Cost Element                 Board
+                                                         Decision
+                   Direct Material                         $193,135
+                   Direct Labor                             442,356
+                   Indirect Factor Expense                  518,839
+                   Other Costs                              974,677
+                     Subtotal                            $2,129,007
+                   G&A Expense                              734,295
+                     Total Costs                         $2,863,302
+                   Fee                                      319,392
+                   Settlement Expenses                      129,970
+                   Settlement with Subcontractors             1,350
+                     Gross Proposed Settlement           $3,314,014
+                   Disposal & Other Credits                   (213)
+                     Net Proposed Settlement             $3,313,801
+                   Prior Payments to Contractor           3,596,727
+                     Net Payment Requested               ($282,926)
+
+        Taken together, we sustain the DCMA’s debt demand claim in the amount of
+$282,926, plus any interest due under the Interest clause, FAR 52.232-17 (OCT 2010)
+(incorporated in the contract by reference at R4, tab 1 at 14). See Fru-Con Constr.
+Corp., ASBCA No. 55197, 07-2 BCA ¶ 33,697 at 166,820. DCMA shall also provide
+an equitable interest credit because the amount due has been reduced on appeal.
+FAR 32.608-2(a)(1) (“An equitable interest credit shall be applied under the following
+circumstances: When the amount of debt initially determined is subsequently reduced;
+e.g., through a successful appeal.”); FAR 52.232-17(g) (“The interest charge made
+under this clause may be reduced under the procedures prescribed in 32.608-2 of the
+Federal Acquisition Regulation in effect on the date of this contract.”). Correlatively,
+we deny D-STAR’s claim relating to its termination settlement proposal. Thus, we
+partially deny D-STAR’s appeal in ASBCA No. 62075 (and ASBCA No. 62780, to the
+extent D-STAR seeks these same costs in that appeal and challenge the debt demand),
+and partially grant D-STAR’s appeal to the extent we have reduced DCMA’s debt
+demand from $337,463 to $282,926.
+
+III.   D-STAR’s Claim for Additional Costs
+
+      D-STAR seeks additional costs beyond those from its termination settlement
+proposal, including (1) $70,567 for D-STAR’s costs incurred responding to
+government audits and providing information supporting its termination settlement
+
+                                          26
+proposal from submission of the proposal through its February 2018 certified claim,
+(2) $13,090 in clean-up costs, (3) $119,828 in “Estimated costs incurred” by D-STAR
+after it filed its February 2018 certified claim, (4) $83,342 in interest for the above
+claims from the time it submitted its July 2015 draft termination settlement proposal
+through August 2020, and (5) the $194,033 “[p]enalty, at the standard of 6% per
+annum, for [the] Government’s unreasonable delays and inappropriate actions that
+have caused considerable harm” (R4, tab 38 at 1672). As noted above, we previously
+dismissed D-STAR’s request for a penalty, so that portion of the claim is no longer at
+issue in these appeals. D-STAR Eng’g, 21-1 BCA ¶ 37,943 at 184,291. We now turn
+to D-STAR’s other costs. 13 As noted above, D-STAR bears the burden of proof as the
+proponent of this claim. FlightSafety, 23-1 BCA ¶ 38,245 at 185,709.
+
+         A.    Settlement Costs Incurred from Termination Settlement Proposal
+               Certified Claim
+
+       As noted above, a contractor can recover its settlement costs in negotiating the
+termination settlement proposal per the Termination (Cost-Reimbursement) clause of
+the contract. FAR 52.249-6(h)(3)(i) (incorporated by reference in the contract, R4,
+tab 1 at 14) (allowing the “reasonable costs of settlement of the work terminated,
+including . . . [a]ccounting, legal, clerical, and other expenses reasonably necessary for
+the preparation of termination settlement proposals and supporting data”); FAR
+31.205-42(g)(1)(i) (same).
+
+        D-STAR seeks $70,567 for its costs incurred between submitting its
+termination settlement proposal and submitting its February 2018 certified claim (app.
+br. at 2.15; R4, tab 38 at 1681-84). D-STAR included time entries with descriptions of
+daily labor hours worked, rate for each hour, and an added G&A cost to those direct
+labor costs (R4, tab 14 at 184-86, tab 38 at 1682-84). DCMA asserts that these
+additional settlement expenses are not recoverable because (1) D-STAR’s time records
+do not substantiate the requested costs, (2) even if recoverable, some of the costs relate
+to unrecoverable costs for preparing D-STAR’s certified claim, (3) the contracting
+officer already allowed $25,000 of additional settlement expenses that should cover
+these costs, and (4) the G&A costs added to the direct labor are limited by the
+termination cost principle, FAR 31.205-42(g)(1)(iii) (gov’t br. at 49-54).
+
+     First, DCMA asserts that D-STAR has not substantiated these costs because
+D-STAR’s records insufficiently demonstrate it incurred these costs (gov’t br.
+
+13
+     The contracting officer’s final decision rejected D-STAR’s offered credit of $6,283,
+         standing by its own calculation of G&A costs (R4, tab 39 at 1815). On appeal,
+         DCMA has not sought to use this credit to prove its claim or reduce D-STAR’s
+         claim. Thus, DCMA has abandoned this issue. Mindseeker, Inc., ASBCA
+         No. 63197, 24-1 BCA ¶ 38,666 at 187,964.
+                                             27
+at 50-51). DCMA points to the FAR’s requirement that a contractor provide
+“supporting documentation, adequate to demonstrate that costs claimed have been
+incurred.” FAR 31.201-2(d); see also Strategic Tech., 91 F.4th at 1142; Int’l Dev.
+Solutions, 105 F.4th at 1377. DCMA asserts that D-STAR’s time entries are not
+sufficient, pointing to Bannum, Inc. v. United States, 151 Fed. Cl. 755, 765-66 (2021).
+There, the court found a spreadsheet with the estimated number of hours by task taken
+from the firm’s general ledger was insufficient to support termination costs. Id. Here,
+however, D-STAR has provided time entries, accompanied by descriptions of what
+tasks were performed, the date a task was performed, and the hourly-rate for D-
+STAR’s president and former employees acting as consultants as part of its certified
+claim (R4, tab 14 at 184-86, tab 38 at 1682-84). Moreover, DCAA assessed these
+same employees and consultants in its audit of records regarding the settlement costs
+in its termination settlement proposal (discussed above) (R4, tab 35 at 1651-62). We
+have approved similar detail of direct labor as sufficient to meet a contractor’s burden
+of proof that it incurred direct labor costs. Optical E.T.C., Inc., ASBCA No. 53350,
+04-1 BCA ¶ 32,608 at 161,380-81, 161,385 (“find[ing] that the claimed costs are
+supported” based on date of performance, description of services, and amount,
+resulting in awarding costs to the extent they related to settlement expenses and not
+claim preparation); see also Mediax Interactive Tech., Inc., ASBCA No. 43961, 99-1
+BCA ¶ 30,318 at 149,925, 149,930-31 (allowing direct labor costs based on similar
+types of records). Indeed, sometimes less detail. Derian, Inc., ASBCA No. 62957,
+23-1 BCA ¶ 38,425 at 186,753 (permitting recovery where the contractor could only
+provide monthly timecards without describing “the type of work performed or any
+proof of payment”). Thus, D-STAR has provided sufficient documentation to prove it
+incurred these costs.
+
+         Second, even if D-STAR incurred these costs, DCMA still asserts that D-STAR
+may not recover costs relating to its time preparing its certified claim, which it argues
+are not related to the negotiation of its termination settlement proposal (gov’t br. at 52-
+53). The FAR makes unallowable any costs incurred for “the prosecution of claims or
+appeals against the Federal Government.” FAR 31.205-47(f)(1). To determine
+whether a cost is an allowable administrative cost of pursuing settlement or an
+unallowable cost of pursuing a claim we objectively look at costs to see “if a
+contractor’s underlying purpose for incurring a cost is to promote the prosecution of a
+CDA claim against the Government[.]” Tip Top Constr., Inc. v. Donahoe, 695 F.3d
+1276, 1283-84 (Fed. Cir. 2012) (quoting Bill Strong Enters., Inc. v. Shannon, 49 F.3d
+1541, 1549-50 (Fed. Cir. 1995), overruled, in part, on other grounds, Reflectone, Inc.
+v. Dalton, 60 F.3d 1572 (Fed. Cir. 1995) (en banc)); see also Derian, 23-1 BCA
+¶ 38,425 at 186,754. Here, DCMA challenges D-STAR’s incurred costs for time
+between receiving the agency’s debt demand letter (February 12, 2018) and submitting
+its first certified claim (February 27, 2018). D-STAR’s time entries for these hours
+state: “Research FARS, history of actions;” or prepare D-STAR’s “position” in
+response to the debt demand that resulted in its first certified claim (R4, tab 14 at 186;
+
+                                            28
+tab 38 at 1684). These actions directly relate to D-STAR’s preparation of its certified
+claim and we deem these costs unallowable ($12,637.02) from February 13, 2018,
+through February 27, 2018. Alfair Dev., 05-2 BCA ¶ 32,990 at 163,517 (disallowing
+costs “for the purpose of developing claims”).
+
+       Third, DCMA asserts that any award of these additional settlement costs should
+be reduced by $25,000 because the contracting officer already credited that amount to
+D-STAR in calculating the debt demand in the final decisions (gov’t br. at 53-54). In
+her decisions, the contracting officer “allowed $25,000 to capture any additional costs
+incurred from audit issuance [December 19, 2016] date to present [March 18, 2019]”
+(R4, tab 37 at 1669, tab 39 at 1814). That period overlaps, in part, with the period for
+which D-STAR seeks these additional settlement costs – November 2015 through
+February 2018 (R4, tab 14 at 184-86, tab 38 at 1682-84). Thus, we agree that D-
+STAR’s recovery for these additional settlement costs should be reduced by $25,000. 14
+
+       Fourth, DCMA asserts that D-STAR may not recover the G&A ($16,657.82)
+for these additional settlement costs because the FAR cost principles limit the types of
+indirect costs that can be recovered as part of termination settlement costs and D-
+STAR again failed to segregate those costs in its claim (gov’t br. at 54). For the same
+reasons discussed above, D-STAR may not recover these costs because it failed to
+remove the unallowable costs from its calculation. FAR 31.205-42(g)(1)(iii); Alfair
+Dev., 05-2 BCA ¶ 32,990 at 163,516; see also Info. Sys. & Networks, 00-1 BCA
+¶ 30,665 at 151,425.
+
+       Ultimately, we determine that D-STAR may recover $16,272.16 in additional
+settlement costs. We derived this amount by subtracting $25,000 already credited by
+the government in its debt demand claim, $16,657.82 of unallowable G&A, and
+$12,637.02 of unallowable costs in preparing the certified claim, from the $70,567 that
+D-STAR’s claim seeks in additional settlement costs.
+
+         B.     Clean-up Costs
+
+        D-STAR seeks $13,090 in clean-up costs based on an alleged “verbal contract”
+for $10,000 promised to a former employee for cleaning up “the mess created by the
+disposition of inventory of the terminated contract, such as by disassembly, shipping,
+etc.,” and G&A for these costs (R4, tab 38 at 1685; app. br. at 2.32-.33). DCMA
+asserts that D-STAR has failed to provide evidence of the existence of a contract for
+
+
+14
+     DCMA asserts that the $25,000 allowed by the contracting officer was “generous”
+        (gov’t br. at 53-54). As noted above, far from being generous, D-STAR’s
+        records prove it incurred more settlement costs than what the contracting officer
+        allowed.
+                                            29
+these services and, even if there was a contract, has failed to provide evidence and
+proof of damages (gov’t br. at 58-59). We agree with DCMA.
+
+        D-STAR has alleged, but has not provided any evidence that it had a “verbal
+contract” to perform these services. This subcontract either is an oral express
+subcontract or implied-in-fact subcontract. Regardless, “[t]he elements of an implied-
+in-fact contract are the same as those of an oral express contract.” Night Vision Corp.
+v. United States, 469 F.3d 1369, 1375 (Fed. Cir. 2006). An implied-in-fact or oral
+express subcontract between two private parties requires proof of (1) unambiguous
+offer and acceptance, (2) mutuality of intent to contract, and (3) consideration.
+Fairholme Funds, Inc. v. United States, 26 F.4th 1274, 1293-94 (Fed. Cir. 2022);
+Balimoy Mfg. Co. of Venice, Inc., ASBCA No. 48899, 97-1 BCA ¶ 28,803 at 143,671.
+D-STAR bears the burden of proving that it entered a subcontract for these clean-up
+services. Balimoy Mfg., 97-1 BCA ¶ 28,803 at 143,671.
+
+       There was no consideration for D-STAR’s promise and, thus, no binding
+contractual agreement was formed between the parties. D-STAR’s president promised
+the former employee that he would pay him after the former employee performed
+these clean-up activities (R4, tab 38 at 1685; app. br. at 2.32-.33). The former
+employee’s clean-up work constituted past consideration and could not serve as the
+basis for a new contractual obligation based on the promise to pay $10,000 after-the-
+fact. “[P]ast consideration is no consideration.” Bogley’s Estate v. United States, 514
+F.2d 1027, 1033 (Ct. Cl. 1975); Gen. Bronze Corp. v. United States, 338 F.2d 117, 185
+(Ct. Cl. 1964) (“[S]omething which has been given before the promise was made and,
+therefore, without reference to it, cannot, properly speaking, be legal consideration.”
+(quoting 1 WILLISTON ON CONTRACTS § 142 (3d ed. 1957)); Sager v. Basham, 401
+S.E.2d 676, 677 (Va. 1991) (“When . . . a service has been rendered before a promise
+was made, the prior service is not a sufficient consideration to support the promise.”).
+
+        Moreover, even if a subcontract was formed, D-STAR has failed to prove its
+damages. D-STAR’s president estimated that these services were worth $10,000, but
+the former employee neither recorded the time it took to complete the clean-up
+services nor submitted a bill for these services after completing them (R4, tab 38
+at 1685; app. br. at 2.32-.33). D-STAR’s brief states that it provided the government
+with the former employee’s email and phone number so DCMA could verify the
+promised amount (app. reply br. at 20). Yet, that is not proof or evidence. D-STAR
+has failed to meet its burden of proof that it incurred these costs.
+
+       C.    D-STAR May Not Recover its Costs Incurred Related to ASBCA Appeals
+
+      D-STAR seeks $119,828 in costs incurred between submitting its February
+2018 claim and submitting its revised August 2020 claim (R4, tab 38 at 1687-97; app.
+
+
+                                           30
+br. at 2.33; app. reply br. at 19-20). DCMA asserts that these costs were all incurred in
+pursuing appeals to the Board or otherwise pursuing its August 2020 revised certified
+claim (R4, tab 39 at 1815; gov’t br. at 55-57).
+
+        As noted above, the FAR’s cost principles disallow recovery of costs incurred
+to litigate claims against the government. FAR 31.205-47(f)(1). A contractor may not
+recover “if a contractor’s underlying purpose for incurring a cost is to promote the
+prosecution of a CDA claim against the Government[.]” Tip Top Constr., 695 F.3d
+at 1283-84 (Fed. Cir. 2012) (quoting Bill Strong, 49 F.3d at 1549-50); see also Derian,
+23-1 BCA ¶ 38,425 at 186,754. Here, D-STAR’s costs relate to emails sent to the
+“TCO / Government / ASBCA” (R4, tab 38 at 1687). D-STAR provides the screen
+shots of subject-matter lines of the emails and a list of the attached documents to those
+emails (R4, tab 38 at 1688-95). Virtually all the email subject-matter lines and the
+titles of the attached documents explicitly reference ASBCA Nos. 61947 and 62075
+(id.).
+
+       Contrary to D-STAR’s assertions, these costs are unrecoverable litigation costs,
+not recoverable settlement costs related to settling the claims under FAR 31.205-
+42(g)(1) (app. reply br. at 19). D-STAR incurred these costs after it filed two appeals
+with the Board and there is no indication these costs related to settlement. “Once
+appellant filed its appeal before us, appellant was involved in an administrative
+adjudicative proceeding” and any costs pursuing the appeals were unallowable under
+FAR 31.205-47(f). Qualex Int’l, ASBCA No. 41962, 93-1 BCA 25,517 at 127,090.
+Thus, we deny D-STAR’s request for these costs.
+
+
+                                           31
+                                   CONCLUSION
+
+        For the reasons discussed above, we largely sustain DCMA’s debt demand
+ claim in ASBCA No. 62075 and award the government $282,926, plus any interest
+ due under FAR 52.232-17 and FAR 32.608-2(a)(1). We also partially sustain
+ D-STAR’s claim in ASBCA No. 62780 and award appellant $16,272.16, plus CDA
+ interest running from when DCMA received D-STAR’s February 27, 2018 certified
+ claim when it first sought these costs. D-STAR’s claims are otherwise denied in
+ ASBCA Nos. 62075 and 62780.
+
+           Dated: April 28, 2025
+
+
+                                             DANIEL S. HERZFELD
+                                             Administrative Judge
+                                             Armed Services Board
+                                             of Contract Appeals
+
+I concur                                       I concur
+
+
+OWEN C. WILSON                                 J. REID PROUTY
+Administrative Judge                           Administrative Judge
+Acting Chairman                                Vice Chairman
+Armed Services Board                           Armed Services Board
+of Contract Appeals                            of Contract Appeals
+
+
+                                        32
+     I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA Nos. 62075, 62780, Appeals of
+D-STAR Engineering Corp., rendered in conformance with the Board’s Charter.
+
+      Dated: April 28, 2025
+
+
+                                              PAULLA K. GATES-LEWIS
+                                              Recorder, Armed Services
+                                              Board of Contract Appeals
+
+
+                                         33

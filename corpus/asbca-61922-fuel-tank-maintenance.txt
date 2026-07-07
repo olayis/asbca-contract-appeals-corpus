@@ -1,0 +1,1447 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+    Appeals of -                                )
+                                                )
+    Fuel Tank Maintenance Company, LLC          )    ASBCA Nos. 61922, 62509
+                                                )
+    Under Contract No. W912DQ-15-C-1000         )
+
+    APPEARANCES FOR THE APPELLANT:                   William A. Lascara, Esq.
+                                                      Pender & Coward, P.C.
+                                                      Virginia Beach, VA
+
+                                                     Jesse B. Gordon, Esq.
+                                                      Reaves GovCon Group
+                                                      Chesapeake, VA
+
+    APPEARANCES FOR THE GOVERNMENT:                  Michael P. Goodman, Esq.
+                                                      Engineer Chief Trial Attorney
+                                                     Joseph A. Rosa, Esq.
+                                                     Virginia Murray, Esq.
+                                                      Engineer Trial Attorneys
+                                                      U.S. Army Engineer District, Kansas City
+
+         MAJORITY OPINION BY ADMINISTRATIVE JUDGE THRASHER 1
+
+        Fuel Tank Maintenance Co., LLC, (FTM or appellant) appeals the U.S. Army
+Corps of Engineers, Kansas City District’s (USACE’s, COE’s or the government’s)
+denial of its certified claim for $695,312 and a time extension of an additional
+343 days, representing the total sum of eight different issues related to the installation
+of relief wells, a collector pipe system, and various structural, electrical, and
+mechanical modifications to a Kansas City Board of Public Utilities pump station and
+remission of liquidated damages assessed (ASBCA No. 61922). Appellant also
+appeals the government’s claim for the return of $55,000 due to allegedly deficient
+work on as-built drawings FTM submitted under the contract (ASBCA No. 62509).
+We address entitlement only. For the reasons stated below, we sustain in part and
+deny in part both appeals.
+
+1
+     Judge McNulty concurs with the entirety of this decision except for § 7, regarding
+         the method to be used for the calculation of field office overhead, with which
+         he dissents. Because of that disagreement, in accordance with the Board’s
+         internal operating procedures, Judges Page and Smith were added to the panel
+         considering these appeals. Judges Page and Smith join the majority decision in
+         all respects and it is considered precedential.
+                                  FINDINGS OF FACT
+
+        Basic Requirements of the Contract
+
+        1. The COE awarded Contract No. W912DQ-15-C-1000 to FTM on
+October 21, 2014 (R4, tab 9 at 2) 2. The contract was for installation of “relief wells,
+the relief well collector pipe system . . . and minor structural, mechanical, and
+electrical modifications to an existing pump station and discharge system adjacent
+to the Kansas City, Kansas, Board of Public Utilities power generation and water
+treatment facility” (R4, tab 8 at 2). Though this was a COE contract, it was for the
+benefit of the Kansas City Board of Public Utilities within the Fairfax Drainage
+District, which had a cost sharing agreement with the COE for this project (id.;
+tr. 3/177-78). The contract incorporated Federal Acquisition Regulation (FAR)
+52.233-1 DISPUTES (MAY 2014), FAR 52.246-12 INSPECTION OF
+CONSTRUCTION (AUG 1996), and DFARS 252.201-7000 CONTRACTING
+OFFICER’S REPRESENTATIVE (DEC 1991) (R4, tab 8 at 9, 28-29, 33-34).
+
+        2. The contract required the contractor to obtain several government approvals
+prior to performance of the work. These approvals were obtained by submittals to the
+government for permission to proceed with aspects of the work. The government
+employed a code system for granting approval of the submittals. In the
+government’s coding for approval of submittals, an ‘A’ code signified government
+approval of the document as submitted. A ‘B’ code meant the submittal was approved
+with accompanying comments, resubmittal not required. A ‘C’ code meant approval
+on the condition of addressing the government’s comments upon resubmittal. An ‘E’
+code meant rejection. An ‘F’ code acknowledged receipt. (R4, tab 125 at 41) For
+purposes of this decision, we will address the government’s responses as follows: ‘A’
+code – approved; ‘B’ code – approved; ‘C’ code – approved; ‘; ‘E’ code – rejected,
+and ‘F’ code – acknowledged receipt.
+
+       3. A central aspect of this contract was the manufacture and installation of
+two large pumps and associated pump motors in the relief wells, with mechanical
+drawings specifying each should be 125 horsepower (hp) (R4, tab 4 at 42, 50). Under
+the contract specifications, if the “motor size provided differs from size indicated or
+specified, [the contractor must] make adjustments to wiring, disconnect devices, and
+branch circuit protectors to accommodate equipment actually provided” (R4, tab 3
+at 426 ¶ 2.15.3). The specification also stipulated that:
+
+               [p]erformance of the pump to be furnished will be accepted
+               on the basis of the factory test. [The contractor must
+               c]onduct this test using either a scale model of pump or
+
+2
+    Rule 4 citations are to the .pdf page number of the electronic documents.
+
+                                             2
+              first pump produced for this contract. Cavitation testing
+              shall be performed . . . if no published NPSHR [Net
+              Positive Suction Head Required] curves are available.
+
+(R4, tab 3 at 382 ¶ 2.6.3.1) Moving Waters Incorporated (MWI), appellant’s motor
+manufacturing subcontractor (tr. 1/47), would “publish” a curve by putting it on its
+website, or in the case of “a slightly different design” of motor, “it’s something that we
+would prepare based off of model testing and [send] to the customer” (tr. 3/120).
+Under the contract, the required wet test for each single pump and motor unit had to be
+conducted:
+
+              under load, at or near normal operating conditions, for at
+              least 2 hours or as directed by the Contracting Officer . . . .
+              . Provide all supplies and equipment required to conduct
+              the test. . . . . The Contracting Officer may waive or
+              postpone the test if sufficient water is not available.
+
+(R4, tab 3 at 389 ¶ 3.2.2) However, the contract stated that “[t]he Government will
+make all reasonably required utilities available to the Contractor from existing outlets
+and supplies” (R4, tab 3 at 179 ¶ 3.2.1). The contract also empowered the Contracting
+Officer (CO) to “waive or postpone the test if sufficient water is not available.
+Appropriate changes will then be made to the contract” (R4, tab 3 at 389 ¶ 3.2.2). The
+work further included installing a discharge pipe which was to be subjected to a visual
+leak inspection (R4, tab 3 at 649 ¶ 3.7.1). “[O]n each definable feature of work,” a
+preparatory phase had to be “performed prior to beginning work . . . after all required
+plans/documents/materials are approved/accepted, and after copies are at the work
+site” (R4, tab 3 at 158 ¶ 3.6.1). According to the contract, “[c]ontractor activities will
+be driven by calendars that reflect Saturdays, Sundays and all Federal Holidays as
+non-workdays” (R4, tab 3 at 97 ¶ 1.6.1.1.d). Additionally, the contract specifically
+states hours for the project are not limited, except on weekends and federal holidays
+(R4, tab 3 at 86 ¶ 1.9).
+
+       4. The contract also required FTM to furnish a schedule and provide
+“as-built corrections to Contract Drawings, Reference Drawings, as well as the
+approved shop drawings” after completion of the project (R4, tab 3 at 80). The
+government would “withhold the amount of $35,000 . . . until the final as-built
+drawing submittal ha[d] been approved by the Government” (R4, tab 3 at 90 ¶ 1.19.1).
+
+       ASBCA No. 61922: CLAIMS I – VII
+
+       5. On June 5, 2018, appellant submitted a certified claim for $695,312 and
+343 days for delays related to eight issues: the motor upsize, electrical impact study,
+cavitation testing, monorail adjustment, the November 2016 stop work order,
+
+
+                                             3
+excavation and backfilling of the discharge pipe at the pump house, various other “end
+of job” delays, and recovery of field office overhead (FOOH) on a per diem rate basis
+and remission of liquidated damages assessed (R4, tab 59). The government issued a
+contracting officer’s final decision (COFD) on September 29, 2018, denying the claim
+in its entirety (R4, tab 2 at 2, 19). FTM appealed this decision on December 23, 2018,
+and the Board docketed this appeal as ASBCA No. 61922.
+
+I. MOTOR UPSIZE CLAIM
+
+        6. FTM was required to procure and install two vertical axial flow pumps and
+two motors to drive the pumps (R4, tab 3 at 365-66). The pumps and motors were
+obtained from MWI, which manufactured the pumps and procured the motors from a
+subcontractor, NIDEC (tr. 1/47). The government approved two of FTM’s shop
+drawing submittals for the 125hp pump motors -- one March 24, 2015, and the other
+on June 15, 2015 (app. supp. R4 tabs 22 at 2-3; 23 at 3, 6; 71). On July 4, 2015, two
+125hp motors were placed into production at the NIDEC facility (compl. at 7 ¶ 35;
+tr. 1/30).
+
+       7. Unfortunately, despite the government’s approval, on August 5, 2015, a
+representative of the Fairfax Drainage District informed the government that the 125hp
+pump motors were insufficient, saying “the motor needs to be rated at least 141.0 hp”
+(app. supp. R4, tab 260 at 2). Shortly thereafter, on August 14, 2015, the government
+rejected FTM’s motor submittals (R4, tab 202 at 3). FTM’s revised pump motor
+submittal was approved on December 23, 2015 (app. supp. R4, tabs 1, 3). Appellant
+then placed the order for the approved pump motor with its manufacturer on January 4,
+2016 (app. supp. R4, tab 249).
+
+       8. On October 26, 2016, the government issued unilateral Modification No.
+(Mod.) 8 to incorporate the upsize of the pump motors from 125hp to 150hp. This
+modification increased the contract value by $48,024.23 and provided a
+138 non-compensable day time extension “because the Government and the contractor
+reached an impasse in regard[ ] to the time delays.” (R4, tab 44) The government
+arrived at this number of delay days in part because appellant had not sent it a
+quantified schedule impact up to that date (R4, tab 39).
+
+II. MONORAIL MODIFICATION CLAIM
+
+       9. On October 11, 2016, FTM submitted a plan to install the pumps, which
+envisioned using the existing monorail (app. supp. R4, tab 127 at 1, 5, 7). The
+government approved this plan but made no mention of use of the monorail system in
+the approval (app. supp. R4, tab 128). During installation of the rail system on
+October 17, 2016, the parties noticed the trolley “would not pass over the bolts and the
+rail was wi[t]hin 9 inches of the MCC panel,” resulting in a government decision
+
+
+                                           4
+“to shorten the rail by 22 inches and to weld the rail connections” (R4, tab 82 at 677;
+see also tab 83 at 1342 (noting the same issue on FTM’s daily Quality Control
+reports)). MWI, which was already enroute to the site to perform pump installation,
+upon arriving at the site discovered the rail installation problem existed and then
+demobilized until the problem could be fixed (tr. 2/8-10). This work was
+accomplished by October 20, though the government identified six deficiencies, which
+were fixed by October 24, and third-party testing was completed the following day
+(R4, tab 83 at 1348, 1356-58). MWI did not return to the site until it was able to
+remobilize on November 7, 2016 (R4, tab 82 at 698; tab 83 at 1384).
+
+        10. In response to a government RFP for the monorail work submitted
+to appellant on October 20, 2016, appellant submitted a cost proposal on November 4,
+2016, with supporting documentation for this work that included overhead of 17%
+of the subtotal (R4, tabs 43, 79).
+
+III. ELECTRICAL IMPACT STUDY CLAIM
+
+        11. FTM emailed the Contracting Officer’s Representative (COR) on
+August 31, 2015, stating it was still unsure about the time impact of the motor upsize,
+and stated “[w]e are relying on the USACE to evaluate the impact to the electrical and
+mechanical scope/design, if any, and direct us on how to proceed if changes are
+needed.” The COR responded the same day, “[i]n regards to the impact to the
+electrical system, the USACE electrical designer will review your motor submittal to
+confirm that the electrical service system is not impacted. It will be Fuel Tank
+Maintenance’s responsibility to ensure that all electrical product data submitted meets
+the larger motor requirement.” (R4, tab 20 at 10-11)
+
+        12. On October 14, 2015, Mr. Schoen, the Administrative Contracting Officer
+(ACO), sent an email only to Mr. Kevin Mack, the owner of FTM, stating the ACO
+read the relevant specifications to say, “it is the responsibility of the contractor to
+verify the electrical systems and connections for the motors, including if the motor size
+is different than stated on the drawings” (app. supp. R4, tab 24 at 2-3). This email, as
+it appears in the record, does not allow us to determine the exact email address to
+which it was sent. In testimony, Mr. Mack stated he had created a new email address
+shortly before this because “my e-mail got busted up and I was no longer checking
+emails on [the other] one” (tr. 1/207-08). He only saw the ACO’s email roughly six
+weeks later, on December 1, 2015, the same day that the government answered
+Request for Information (RFI) 44, stating “it is the responsibility of the contractor to
+correctly size the supporting electrical components to ensure fully operational pumps,
+motors, and motor control centers” (R4, tab 110 at 2; tr. 1/208; see also R4, tab 20 at 2
+(stating FTM received this email on December 1, 2015)). Thereafter, on January 4,
+2016, FTM placed the order for the approved pump motor with its manufacturer (app.
+
+
+                                           5
+supp. R4, tab 249). The same day, it directed its electrical subcontractor to perform
+the electrical impact study (compl. at 9 ¶ 56).
+
+IV. CAVITATION TESTING CLAIM
+
+        13. On May 3, 2016, the government sent FTM a letter asking for cavitation
+testing and witness testing of the motors (R4, tab 25). FTM responded on May 19,
+2016, acknowledging that the government still needed witness testing done, but
+disagreeing it bore responsibility for cavitation testing, as “FTM provided a published
+NPSHR curve from MWI in the approved pump submittal” (R4, tab 26 at 2-3). The
+ACO sent another letter on May 26, 2016, acknowledging a curve had been provided
+but citing a part of the contract requiring changes if a pump’s witness test reveals it
+does not perform in accordance with the requirements of the specification. In the
+ACO’s view, “[t]he witness test results submitted . . . show a total dynamic head curve
+that deviates from the published curve.” (R4, tab 27) By June 8, 2016, the
+government decided to mandate cavitation testing saying that it felt “there is a
+possibility of cavitation” and that “if the witness test curve had less of a deviation from
+the published curve, that the possibility for cavitation would not be of concern.” As a
+result, the government invoked FAR 52.246-12(h) (previously noted to be
+incorporated into the contract) in ordering FTM to perform the cavitation test. (R4,
+tab 30 at 2) This clause allows the government to order inspections or tests of already
+completed work:
+
+              If the work is found to be defective or nonconforming in
+              any material respect due to the fault of the Contractor . . .
+              [it] shall defray the expenses of the examination and of
+              satisfactory reconstruction. However, if the work is found
+              to meet contract requirements, the Contracting Officer
+              shall make an equitable adjustment for the additional
+              services involved in the examination and reconstruction,
+              including, if completion of the work was thereby delayed,
+              an extension of time.
+
+FAR 52.246-12(h), INSPECTION OF CONSTRUCTION (AUG 1996).
+
+       14. Later, on June 29, 2016, the government also forwarded a serial letter
+to appellant regarding pump testing stating that, “cavitation testing shall be performed
+in accordance with HI 2.6 if no published NPSHR curves are available” (R4, tab 31).
+Appellant responded with a July 7, 2016, letter from MWI that the published curve
+would be valid for the pump even with the increased horsepower, a position with
+which ultimately the government’s expert agreed (R4, tab 96 at 5 ¶ iii; app. supp. R4,
+tab 25 at 3).
+
+
+                                            6
+        15. FTM sent the government two options for performance of cavitation testing
+in a July 12, 2016, letter, with the government on July 27, 2016 choosing the option
+that had a 10 to 12-week lead-time (R4, tabs 32, 34). In this letter, the government
+pointed to three paragraphs of the contract and stated “[s]ince the witnessed factory
+curve varied from your design curve you are required to test for cavitation” (R4, tab
+34). During this lead time, appellant scheduled witness testing, which required less set
+up time than cavitation testing, for September 12 and 13, 2016 (tr. 1/72, 2/136, 5/34).
+Cavitation testing was ultimately held slightly later, between September 20 and 23,
+2016 (R4, tab 82 at 650-53; tr. 1/73). The results of the cavitation testing were better
+than those predicted by the published curve (tr. 3/146-47). The two pump motors
+arrived on site October 17 and 19, 2016 (R4, tab 83 at 1342, 1346).
+
+V. SUSPENSION/LACK OF WATER/WET TEST VARIANCE CLAIM
+
+        16. The contract required a two-hour wet test, due no later than 60 days after
+Notice to Proceed (NTP), February 16, 2015 (R4, tab 3 at 388-89). Appellant
+submitted the proposed two-hour test to the government on October 11, 2016, which
+the COE approved (app. supp. R4, tabs 234 at 60; 235). However, FTM discovered
+that the flow rate of the water source provided by the government, a fire hydrant, was
+insufficient to accomplish the test described (tr. 1/218). Appellant submitted a
+different version of the test for approval on November 3, 2016, which it felt could
+produce all the same readings within 14-20 minutes per pump motor, plus fill time for
+frac tanks 3 which were used to achieve a higher flow rate (ex. A-1 at 3 e). The
+government rejected this proposal on November 8, 2016 (gov’t br. ex. 3 at 1).
+Appellant resubmitted the wet test submittal on November 11, 2016, which stated,
+“Proposed Variance on Wet Test- FTM/MWI would like to request and propose a
+variance for the 2-hour Wet testing requirement due to insufficient water” and in the
+“variance” column on the submittal cover sheet FTM placed an “N” to signify that it
+was not a variance (R4, tab 130 at 1-2; ex. A-1 at 1, 3). This document was also
+marked “GA” signifying that it required government approval. The government
+received this submittal three days later. (App. supp. R4, tabs 66 at 14; 130) The frac
+tanks were delivered for pump testing on the following day, November 15, 2016 (R4,
+tab 82 at 706).
+
+        17. On the same day, November 15, 2016, the government alerted FTM to one
+of its subcontractors performing work without the required preparatory meeting, and
+FTM stopped it (R4, tab 83 at 1400). The following day, November 16, 2016,
+representatives from both parties held a meeting that became contentious and involved
+the government representative leaving the meeting and requesting one of appellant’s
+project managers be removed from the project (tr. 2/88-91; 4/85-87, 91). The
+government representative insisted, among other things, that the proposed wet test
+
+3
+    A large piece of mobile equipment used to store bulk liquids.
+
+                                            7
+needed to be submitted as a variance, which appellant’s president refused to do
+(tr. 1/223). The government sent appellant a letter asking FTM why certain work
+items were allowed to proceed prior to holding a preparatory meeting, including “field
+test setup” (tr. 2/11; R4, tab 114 at 3). The following day, the government rejected the
+proposed shortened wet test, telling appellant to submit it as a variance (R4, tab 114
+at 22-23; app. supp. R4, tab 66 at 14). The government further shut down work on the
+site until appellant submitted a schedule and six other submittals, claiming all seven of
+these items needed government approval before appellant could return to the work site
+(R4, tab 114 at 11-12). Some, but not all, of these missing submittals were labeled
+“For Information Only” (FIO) in the submittal register, meaning these forms did not
+require the government’s approval, but merely receipt (app. supp. R4, tab 66 at 14,
+18-19).
+
+        18. Appellant responded to the government on November 21, 2016, insisting
+that the proposed wet test was not a variance (app. supp. R4, tab 16), though it planned
+to submit all the documents cited in the stop work order by December 2, 2016
+(app. supp. R4, tab 18 at 2-3). After several letters back and forth (see generally R4,
+tab 114), appellant requested a variance to the wet test requirement on December 2,
+2016, now proposing only a 7-10 minute test followed by a 10-15 minute test on each
+pump/motor and marked the test as a variance on the cover sheet (app. supp. R4, tab
+100). The government allowed FTM to resume work on the site on December 8, 2016
+(R4, tab 49). FTM completed wet testing on January 3 and 4, 2017 (R4, tab 82 at 755,
+757).
+
+VI. FLOWABLE FILL/LEAK TEST/ END OF PROJECT CLAIM
+
+        19. The contract required visual leak testing on the discharge pump (tr. 1/178,
+1/242, 2/142). Appellant excavated an area for the pump discharge pipe and began
+installation on October 19, 2015, with the installation work taking three days (R4,
+tab 83 at 614-21). However, the government could not perform the required visual
+leak test on this pipe until FTM had completed installation of the pumps and motors
+(tr. 1/178-79). Additionally, the excavated area could not be left open for significant
+periods of time (tr. 1/100). By January 18, 2016, FTM sent RFI 50 to request approval
+to re-cover the discharge pipe with diggable flow fill rather than fill dirt, so that it was
+easier to excavate when the visual leak test could be performed. The government
+approved the RFI the following day. (R4, tab 22)
+
+       20. On November 16, 2016, appellant’s subcontractor began re-excavating the
+discharge pipe on site for visual leak testing (R4 tab 83 at 1402). Appellant conducted
+a successful leak test on January 13, 2017, and re-covered the pipe (R4, tab 83
+at 1518). The final work, sump pump testing, was completed on the site on
+January 23, 2017 (R4, tab 82 at 776). The CO accepted the project with deficiencies
+on January 27, 2017 (R4, tab 82 at 780).
+
+
+                                             8
+VII. FIELD OFFICE OVERHEAD (FOOH) CLAIM
+
+       21. The Invitation for Bid (IFB) contained a provision that required the bidders
+to declare the method they would use to compute FOOH if awarded the contract,
+stating:
+
+              NOTICE TO BIDDERS: For your bid to be responsive,
+              you must declare below the single accounting practice that
+              you apply to contracts to calculate field office overhead
+              for all change orders, modifications and requests for
+              equitable adjustment. Pursuant to Federal Acquisition
+              Regulations (FAR) Parts 31.105(d)(3) and 31.203(d)(1),
+              an accounting practice that varies from modification to
+              modification is not allowable.
+
+(R4, tab 3 at 11) (emphasis in original) Each bidder was required to check one of three
+methods of calculate FOOH: (1) “time distribution base for a per diem rate” (per
+diem), (2) “direct cost distribution base for a percentage markup” (percentage
+markup), or (3) a different accounting practice that is acceptable and uses a single
+distribution base (R4, tab 3 at 11).
+
+       22. The bidder’s selected choice is incorporated into the contract and must
+remain consistent throughout the life of the contract. If the contractor’s selection was
+per diem, and, for example, a modification occurs during contract performance, the
+government only pays the contractor the agreed-upon per diem amount for
+government-caused delays that extended the Contract Completion Date (CCD).
+Conversely, if the contractor selected percentage markup, the government pays the
+contractor the agreed-upon percentage markup regardless of whether the CCD is
+extended. (R4, tab 3 at 62-63) 4
+
+        23. FTM selected the percentage markup option via one of its employees,
+Ms. Jacqueline Dobbs (FTM’s assistant project manager), who had been authorized to
+fill out the form on behalf of the company, signing FTM’s President and CEO’s name,
+Mr. Kevin Mack (R4, tab 8 at 6-7; tr. 1/16, 18, 135, 205, 2/169-70). Additionally,
+Ms. Dobbs later submitted a bid verification on behalf of the company on October 10,
+2014, again signing Mr. Mack’s name (R4, tab 65 at 2; tr. 1/254-56; see also tr. 1/149-
+52 (describing that it was within Ms. Dobbs’s job duties to prepare and sign bid
+
+
+4
+    See these clauses incorporated by full text, SCR_CT_001 FIELD OFFICE
+         OVERHEAD (JUL 2002), SCR_CT_003 FIELD OFFICE OVERHEAD
+         PERCENTAGE MARKUP (JUN 2001), SCR_CT_004 FIELD OFFICE
+         OVERHEAD PER DIEM RATE (R4, tab 3 at 11, 62-63).
+
+
+                                            9
+paperwork)). Ms. Dobbs also testified that she is a longtime FTM employee who has
+submitted hundreds of bids for the company, and she always follows the rules and
+knows when and where before submitting bids (tr. 2/186-87, 191). However,
+surprisingly, Ms. Dobbs also testified that she did not know what accounting practices
+FTM used for computing FOOH and did not seek guidance from her direct supervisor
+or anyone else (tr. 2/169). Ms. Dobbs’s direct supervisor, Ms. Amanda Brantley,
+testified that FTM has never used a percentage method for FOOH during her 21 years
+with the company (tr. 1/135-36). She also testified that FTM sent financial statements
+to the government COR, Mr. Chris Teel, and informed him of FTM’s accounting
+practices including FOOH on a per diem basis during pre-negotiations on
+modifications early during the project around late summer / early fall 2015 (tr. 1/136-
+40). Although directly asked the question, there is no evidence in the record that Ms.
+Brantley discussed this issue, i.e., a mistake, with anyone else at the company or the
+government 5 (tr. 1/158-59).
+
+        24. The CO, Matthew J. Wilson, testified by affidavit in support of a
+previously filed partial motion for summary judgement on this issue (R4 tab 90 ex. 1
+(Affidavit of CO Matthew J. Wilson)). FTM objected to this affidavit in its rebuttal
+brief, stating “ .” (app. rebuttal br. at 19 n.4). We overrule FTM’s objection. 6
+
+5
+  Ms. Bentley was asked several times during her testimony if she notified anyone
+      other than the COR about FTM’s usual application of per diem for FOOH
+      and/or that a mistake occurred (tr. 1/158-59).
+6
+  The government filed a partial motion for summary judgement on the FOOH issue
+      on February 28, 2020. The government entered the entire motion, including the
+      affidavit, in the Rule 4 file at tab 90. Our rules, at Rule 4(d), Status of
+      Documents in Appeal File, states:
+
+             Documents contained in the appeal file are considered,
+             without further action by the parties, as part of the record
+             upon which the Board will render its decision. However, a
+             party may object, for reasons stated, to the admissibility of
+             a particular document reasonably in advance of hearing or,
+             if there is no hearing, of settling the record, or in any case
+             as ordered by the Board. If such objection is made, the
+             Board will constructively remove the document from the
+             appeal file and permit the party offering the document to
+             move its admission as evidence in accordance with Rules
+             10, 11, and 13.
+
+FTM’s objection is untimely. On March 5, 2020, Judge McNulty issued an order
+deferring consideration of the motion and directing “the government’s argument
+
+
+                                          10
+Mr. Wilson testified that he was responsible for reviewing the method of FOOH
+designated in the bids that were submitted for the project and that failure to designate
+one of the three choices would have disqualified the bidder from award. (R4, tab 90
+ex. 1 ¶¶ 3, 4, 14) Mr. Wilson had no prior experience working specifically with
+appellant prior to this project and his experience with other bidders on other projects
+was that bidders choose either the per diem method or the percentage markup method
+for computing FOOH depending on the unique projects (id. ¶¶ 10, 11). Additionally,
+he testified appellant did not raise any questions about the markup issue prior to
+contract award, and that he had no reason to question what to him was a clear and
+unambiguous choice by appellant for computing FOOH (id. ¶¶ 10, 12).
+
+       25. Mr. Wilson also testified that “It wasn’t until April 12, 2017 when they
+submitted their Request for Equitable Adjustment (“REA”), three months after
+they left the work site, over thirty one months since the initial selection of
+option 2 by their President, and after we had processed ten contract modifications,
+did I become aware of FTM’s desire to change over to Option 1, per diem rate, for
+computing field overhead” (R4, tab 90 ex. 1 ¶ 16). Appellant also states in its
+rebuttal brief the company was not aware there had been a mistake in checking the
+options throughout the performance of the contract until the filing of the REA,
+explaining:
+
+              Clearly, throughout the existence of performance under
+              the Contract, FTM was unaware of the mistaken
+              checking of a box in the unfamiliar Special Clause and
+              went about its performance of the contract and issuance
+              of its change order proposals using a per diem, direct
+
+shall be briefed as part of the parties’ post-hearing briefing.” At that time, the hearing
+was scheduled for July 20-24, 2020. Mr. Wilson’s affidavit was included as part of the
+government’s 2nd supplemental Rule 4 filing at tab 90, submitted on July 6, 2020.
+The hearing was later postponed and held on October 22-22, 26-28, 2020. The
+government submitted a pre-hearing witness list on October 9, 2020, that stated it
+“may” call Mr. Wilson as a witness. Mr. Wilson was not called to testify during the
+hearing. Judge McNulty, at the conclusion of the hearing, specifically verified the
+record with the parties, including the Rule 4 filings, and no objections were raised by
+appellant. However, Judge McNulty issued a post-hearing order on October 29, 2020,
+stating “the record remains open to receive evidence that may be submitted in support
+of the issues discussed with the parties relating to the field office overhead claim, I
+wish to receive briefing on. Otherwise the record is closed.” We conclude FTM had
+ample time to object to Mr. Wilson’s affidavit before the hearing after it was entered
+into the Rule 4 File, during the hearing and even up to the conclusion of briefing per
+Judge McNulty’s order.
+
+
+                                           11
+             cost basis of accounting for recovering FOOH. It was
+             not until it submitted its REA that FTM realized there
+             was any mistake in the selection of its method of
+             accounting for FOOH and that is why it was not raised
+             with the Respondent until submission of its REA in
+             April 2017.
+
+(App. rebuttal br. at 23-24)
+
+VIII. REMISSION OF LIQUIDATED DAMAGES CLAIM
+
+        26. The CCD, as modified by unilateral and bilateral contract modifications,
+was May 8, 2016 (R4, tab 51 at 3 ¶ D). Substantial completion occurred on January
+27, 2017 (R4, tab 82 at 780.). The awarded contract provided for liquidated damages
+in the amount of $1,050 per day (R4, tab 8 at 10). The government retained $277,200
+in liquidated damages based upon 264 days of delay from CCD to substantial
+completion (gov’t br. at 3).
+
+IX. AS BUILT DRAWINGS CLAIM (ASBCA No. 62509)
+
+        27. On February 7, 2020, the government sent appellant a claim for $55,000 for
+failure to provide completed as-built drawings, with a COFD following on April 17,
+2020 (R4, tabs 84, 87). FTM appealed this decision to the Board on May 7, 2020, and
+the Board docketed this appeal as ASBCA No. 62509.
+
+        28. The contract required as-built drawings per Section 01 78 00, as well as a
+requirement of the project partnership agreement between the government and the
+non-federal sponsor (R4, tabs 3 at 210-11; 140 at 7 ¶ C). The original schedule for the
+as-built drawing submittals was 61 days (beginning Sept. 21, 2015), with completion
+concurrent with the final tasks of the contract performance (app. supp. R4, tab 2 at 1;
+tr. 4/165). FTM’s first submittal of the as-built drawings was on February 6, 2017,
+which the government rejected on February 15, 2017, listing many comments (app.
+supp. R4, tab 224 at 8-9, 12-13). Thereafter, appellant contacted the government with
+new drawings on July 26, 2017, providing a link to a third-party file sharing program.
+The government responded requesting a disc of the documents on August 2, 2017,
+which FTM sent the same day. (App. supp. R4, tab 224 at 22-25, 28) The drawings
+contained notes with questions on them, and government noted issues with the
+represented construction condition at the time, so the government returned the
+drawings with comments on September 12, 2017 (id. at 31-35; tr. 4/154-55).
+
+      29. Appellant informed the government that it addressed all the
+government’s comments in the drawings and sent a new disc with new drawings on
+March 20, 2018 (app. supp. R4, tab 224 at 38, 47-50). On May 1, 2018, an internal
+
+
+                                          12
+email between the government and its project partner, the water district, provided an
+update stating it had “traded comments with FTM several times on the as-built
+submittal. Given the issues, we’ve decided to digitize the red lines in house. We
+began that process last month.” (R4, tab 99 at 33) This email exchange seems
+to indicate the government had decided to complete the drawings by April. However,
+there is some evidence the government’s decision was even earlier.
+Ms. Jennifer Sciarra, the lead engineer on the design team, testified that by
+mid-January 2018 the government had decided to take over the project in-house
+(tr. 4/170; 157). There is no evidence that FTM was informed of this decision. In fact,
+on May 11, 2018, FTM inquired about the status of the drawings, and the government
+returned additional comments for revision, with one government witness calling the
+drawings “unusable” (app. supp. R4, tab 224 at 59, 61; tr. 4/160). FTM returned these
+updated versions on May 31, 2018, taking over 400 days to submit its final version
+(app. supp. R4, tab 225 at 64; tr. 4/164). 7 Appellant then requested payment for
+$42,036.72, as well as $35,000 retainage held for these drawings, on August 6, 2018,
+incorrectly stating “[f]inal as[-]builts were submitted in April 2018” (app. supp. R4,
+tab 155). The government paid FTM $41,536.72 in “earnings” on August 20, 2018,
+and $20,950.74 in “Other Refunds” which the government later claimed was for the
+as-built drawings (R4, tab 84 at 3; app. supp. R4, tab 193).
+
+Submission of Delay Scheduling Reports
+
+        30. Appellant submitted a report by its scheduling expert, Mr. Wayne DeFlaminis,
+[HKA] written February 3, 2020 (R4, tab 125). In this report, Mr. DeFlaminis found the
+critical path was delayed 409 days before arriving at substantial completion. He assigned
+154 days of this impact to the motor upsize issue, 111 days to the electrical impact study,
+63 to the requirement to perform the cavitation test, 18 8 days to the “Pump & Motor
+Install, Final Test & Close-out Delay,” and 24 days to the government’s suspension of
+work, all of which he attributed to the fault of the government. (Id. at 34, figure 9)
+However, in relation to the motor upsize claim, he states, under “Contemporaneous
+Delays during the Window” that during the time “[Activity 34, p]ump & motor
+manufacture was critical . . . this activity made less than expected progress and resulted in
+21 calendar days of delay to the Project during Window 11” (R4, tab 125 at 119 ¶ 99). In
+the section of his report detailing the as-built schedule, he observes that the “pump &
+motor manufacture” activity had an original duration of 90 days, and an actual duration
+of 72 days (R4, tab 125 at 147, Activity ID 034).
+
+
+7
+    Substantial completion was January 27, 2017.
+8
+    This figure was originally 22 days, but Mr. DeFlaminis altered his results by
+         four days based on what he heard at the hearing (tr. 5/121-22).
+
+                                            13
+        31. In analyzing this report, the government’s scheduling expert, Ms. Ashley Luo,
+agreed with the methodology and the final schedule impact figures, 9 but questioned the
+responsibility of the government in several places (R4, tab 92 at 3-8). Specifically,
+Ms. Luo does not agree with the 154 calendar days attributed to the pump upsize claim ,
+and disagrees with Mr. DeFlaminis’s assessment that the total resubmittal process was
+the attributable to the government, citing various amounts of time she ascribes to poor
+submittals related to this study, which together eliminate all 111 days FTM claims (id. at
+4-5). However, she did state:
+
+                It is outside of my expertise to assess whether the motor
+                resubmittals met the requirements of the contract and
+                whether the approval/disapproval was reasonable;
+                however, this should certainly be considered when
+                determining whether the delay due to the submittal process
+                should be allocated to one party or the other. HKA
+                [Mr. DeFlaminis] does not provide any justification for
+                why it allocates all delay to the Government for rejected
+                submittals that took 2.5 months to resolve
+                (October-December 2015).
+
+(Id. at 4) Ms. Luo determined the awarded 138 days for the motor upsize granted in
+Mod. 8 was sufficient and alleges FTM could have begun the electrical impact study
+35 days earlier. For the cavitation issue, she ascribed 63 days for the “Cavitation
+Testing & Pump Motor Testing” but later in her discussion she asserts, “[w]hile HKA
+attributes this 63 day delay for testing solely to the government, it does not consider
+the 70 days it took FTM to actually plan for cavitation testing.” and noted that motor
+testing was a concurrent delay mitigating the delay Mr. DeFlaminis ascribed to
+cavitation testing. (R4, tab 92 at 6-7)
+
+                                        DECISION
+
+       As the government rightly observes in its post-hearing brief, appellant “has the
+burden of proving the fundamental facts of liability and damages de novo” for the
+claims it advances (gov’t br. at 9 (citing Wilner v. United States, 24 F.3d 1397, 1401
+(Fed. Cir. 1994))). “This means that when the claim being asserted by the contractor
+is based upon alleged government-caused delay, the contractor has the burden of
+proving the extent of the delay, that the delay was proximately caused by government
+action, and that the delay harmed the contractor.” Wilner, 24 F.3d at 1401. Appellant
+“must show that the government’s actions affected activities on the critical path of the
+
+9
+    While Ms. Luo agrees with the length of delays ascribed to each activity, she
+        suggests the delays were measured from the wrong CCD and determines
+        408 days of total delay to the contract, rather than 409 (R4, tab 92 at 3).
+
+                                             14
+contractor’s performance of the contract.” Kinetic Builder’s Inc. v. Peters, 226 F.3d
+1307, 1317 (Fed. Cir. 2000) (citing Essex Electro Eng’rs, Inc. v. Danzig, 224 F.3d
+1283, 1295 (Fed. Cir. 2000); Sauer Inc. v. Danzig, 224 F.3d 1340, 1345-46 (Fed. Cir.
+2000)). Similarly, as the government has advanced a claim in ASBCA No. 62509, it
+bears the burden of proof in that appeal. Lisbon Contractors, Inc. v. United States,
+828 F.2d 759, 764 (Fed. Cir. 1987), (dispute whether contractor’s termination for
+default was justified). Appellant advanced eight bases for compensation, and the
+government advanced one.
+
+1. MOTOR UPSIZE CLAIM
+
+        At issue in this portion of the appeal is not whether the government is
+responsible for the motor upsize change, but the amount of compensation appellant is
+due for the change, if any, beyond that granted in Mod. 8. Mod. 8 granted appellant
+138 non-compensable days and $48,024.23 in costs (finding 8). Excusable but non-
+compensable delays are generally given to a contractor when both parties were
+responsible for concurrent delays. Beckman Constr. Co., ASBCA No. 24725,
+83- 1 BCA ¶ 16,326 at 81,159. In this case, the cause of the delay was the
+government’s modification of the contract to require 150hp motors in place of 125hp,
+requiring appellant’s re-manufacturing of the motors. The government, in its briefing,
+does not appear to argue that the 138 days should not be compensable, merely that
+138 days is enough time. Instead, the government focuses on a 21-day manufacturing
+delay it asserts is identified in appellant’s scheduling expert’s report and discussed in
+more detail in its own scheduling expert’s report. (Gov’t br. at 9-10; gov’t reply br.
+at 1-3)
+
+        Mr. DeFlaminis, appellant’s scheduling expert, stated in his report under the
+section “Contemporaneous Delays during the Window” that during the time Activity
+34 “[p]ump & motor manufacture was critical . . . this activity made less than expected
+progress and resulted in 21 calendar days of delay to the Project during Window 11”
+(finding 30). Ms. Luo, the government’s scheduling expert, questioned why this was
+attributed to the government (finding 31). However, FTM highlights a line in
+Mr. DeFlaminis’s as-built schedule reconstruction: “Activity 34’s original scheduled
+duration was 90 days, and its actual duration was 72 days, from January 4 to
+March 16, 2016 [18 days]” (app. br. at 4 ¶ 27; 25-26). Although FTM claims “[t]here
+[i]s no evidence offered to support a delay in manufacturing,” (app. br. at 25), it relies
+on the evidence of its scheduling expert’s report which states there is a concurrent
+delay of 21 days in manufacturing. Such concurrent delays are excusable, but
+uncompensated. Sauer, 224 F.3d at 1348. FTM’s ability to mitigate the delay, while
+commendable, does not entitle it to additional compensation.
+
+
+                                           15
+        Extended Holiday
+
+        One other concurrent delay that must be addressed is the extended holiday
+appellant took at the end of the 2015. There is no dispute that appellant demobilized
+between the Christmas and New Year’s Day holidays, creating a nine-calendar day
+delay. This time period explains the length of time between the government’s
+December 23, 2015, ‘approval’ offer and FTM ordering the upsized motors from MWI
+on January 4, 2016. The question is which party is responsible for the delay. Such a
+holiday schedule is not contemplated in the contract (finding 3). Additionally, there is
+no evidence that appellant requested permission to take this time off. 10 Appellant’s
+brief asserts this period is not chargeable to FTM since the contract was supposed to
+be finished by that time (app br. at 18 ¶ 134). Appellant’s expert, Mr. DeFlaminis,
+testified that the government’s stop-work order shifted the work into the new year over
+the holiday period (tr. 3/93). He also maintains the 10-day delay period should be
+attributed to the government. We are not persuaded by Mr. DeFlaminis’s testimony.
+While there are two federal holidays during that time period, we cannot excuse the
+extra nine calendar days which are not federal holidays.
+
+       As both experts agree there was a 154-day delay to the project due to the motor
+upsize modification (findings 30-31), we find that appellant should be granted
+145 days of delay, 124 of which are compensable. This reflects the 21-day concurrent
+manufacturing delay and the nine unexcused calendar days FTM and its subcontractor
+went on holiday. Appellant should also be granted whatever costs it incurred (and
+proves in the quantum portion of this appeal) beyond the $48,024.23 it has already
+received.
+
+2. Electrical Impact Study
+
+        FTM states “[t]he electrical study required FTM to revise an electrical drawing
+and specify changes in electrical components” (app br. at 28). It argues that it was
+proactive about pursuing any concerns related to possible impacts to the electrical
+system due to the motor upsize, but it kept being told by government officials that the
+government would be responsible for this study until RFI 44 on December 1, 2015.
+FTM says it was only responsible for the study if it provided a motor different from
+that specified in the contract which, given Mod. 8, it did not do. (App. br. at 26-28)
+When focusing on this issue in the hearing, FTM spent a great deal of time discussing
+the COR’s August 31, 2015, email in which the COR stated “the USACE electrical
+designer will review your motor submittal to confirm that the electrical service system
+is not impacted” by the motor upsize (finding 11).
+
+
+10
+     There was a government representative on site during each of the dates in question
+        (R4 tab 82, at 375-386).
+
+                                            16
+       In contrast, the government argues “the study was a Day One contract
+requirement” (gov’t br. at 20). It points to a section of the contract requiring appellant
+to provide electrical information for the parts it intends to supply, and that “it would
+only evaluate the electric service going into the Pump House” (gov’t br. at 15-16, 20).
+The government further tries to explain away the COR’s August 31, 2015 email
+ascribing the “electrical service system” language to appellant by arguing that “electric
+service” and “electric service extensions” are terms of art in the industry, although it
+was admitted by appellant’s expert and government counsel during the hearing that the
+term “electrical service system” is not (id. at 20; tr. 2/128-29; tr. 3/41-42).
+
+       The COR’s August 31, 2015, email is irrelevant in this appeal. Only the CO
+is empowered to bind the government to work not assigned to the contractor in the
+contract or alter the contractual language. If the contract required appellant to conduct
+an electrical impact study, or it did not, the COR is unable to alter that duty. 48 C.F.R.
+252.201-7000(b). The government does not point to any contractual language which
+would require appellant’s attention to anything outside the electrical capacity or
+workings of the equipment it is providing, such as how the equipment affects the
+system. Paragraph 2.15.3 of Section 26 20 00, which would require such attention,
+is conditioned on “[w]hen motor size provided differs from size indicated or specified”
+(R4 tab, 110 at 2) which was not applicable, as the contract was modified under
+Mod. 8 to require appellant to provide the motor that it did.
+
+        As neither party contends that the October 14, 2015 email was a valid order
+from the CO to FTM to conduct the study, we find that the December 1, 2015, RFI
+directed appellant to perform the study, and was the first document to conclusively do
+so (finding 12). We also find reasonable appellant’s choice to order the study from its
+electrical subcontractor on the same day it put the motors into production. Both
+experts appear to agree that the critical path impact of the electrical impact study was
+111 days. (Findings 30-31)
+
+        It is important to note, as we stated above, we cannot find an excusable reason
+for the nine-calendar day delay over the holidays that took place between December
+23, 2015, when the motor was approved for production, thus allowing the study to be
+performed as well, and January 4, 2016, when FTM ordered the electrical impact study
+to be conducted (finding 12). We attribute this delay to appellant; thus, appellant is
+only entitled to 111 compensable days.
+
+
+                                           17
+        As the electrical impact study was not a contractual requirement prior to the
+government’s directive via RFI 44, we grant appellant 111 compensable days plus
+costs to perform the electrical impact study. 11
+
+3. Cavitation Testing Requirement
+
+       Appellant claims that cavitation testing was not required under the contract as a
+published NPSHR curve was available for the motors, even after the motor upsize
+(app. br. at 28-32). The government argues primarily that “the deviation between the
+published curve and the witness curve required cavitation testing under the awarded
+Contract” with reference to Section 22 10 00.00 10 ¶¶ 2.6.3.5-7 (gov’t br. at 23 (citing
+R4, tab 34 at 2)). Additionally, the government claims that “[m]otor witness testing
+was concurrent with cavitation testing because the pumps and motors fitted together
+and function as a unit” (gov’t br. at 26).
+
+        The contract provisions to which the government points do not allow it to order
+cavitation testing due to a deviation in the published and witness test curves. The cited
+provisions only require cavitation testing “if no published NPSHR curves are
+available.” (Finding 3) 12 This makes the actual deviation of the curves irrelevant
+to this issue. Instead, the CO invoked paragraph (h) of the Inspection of Construction
+clause on June 8, 2016, ordering FTM to perform cavitation testing (finding 14). The
+Inspection of Construction clause allows the CO to order testing of pre-built
+equipment, and if the equipment functions as intended, the government bears the cost
+of the testing. Nothing the government points to shifts the responsibility to FTM. The
+allegation that the published curve only applied to the 125hp motor was addressed by
+appellant, when the publisher of the curve reaffirmed the validity of the submitted
+curve despite the motor upsize (finding 13). The only contract provision that
+determines when cavitation testing is necessary is that which appellant addresses,
+namely, when no published curve is available (finding 3).
+
+
+11
+   Even if we read the test requirement as coming from the original contract language
+      referenced by the government, rather than coming solely from RFI 44, the result
+      would be the same: the reason that the motor differed from the original size
+      indicated by the contract was because the government unilaterally changed the
+      size, thereby imposing the cost upon FTM.
+12
+   These contractual provisions referenced concern circumstances where the
+      contractor was required to “make changes” to the equipment because “the
+      results of the witness test reveal that the tested pump does not perform in
+      accordance with the requirements of the specification and the guaranteed
+      values.” In those circumstances, a second test, performed upon the changed
+      equipment, was required. (See R4, tab 3, at COE 000428 (Section 22 10 00.00
+      10 ¶¶ 2.6.3.7 Witness Test))
+
+                                           18
+       Ms. Luo’s report suggests FTM waited 70 days beyond the first request for
+cavitation testing on May 3, 2016, until providing the government methodology for
+testing on July 12, 2016 (findings 13, 15, 30). However, the record shows May 3
+through June 7 was a period of discussion between the parties concerning
+responsibilities, and the effective, unequivocal order did not come from the CO until
+June 8, 2016 (finding 14). Given the amount of time it would then take appellant to
+assemble a quote and present options to the government, we find FTM’s actions during
+this period reasonable and do not constitute a delay.
+
+        While Ms. Luo testified witness (motor) testing was on the critical path at the
+same time as cavitation testing, she states that it could have been performed at any
+time during the 10 to 12 weeks while the cavitation testing was being set up. In fact,
+the witness testing was completed during the cavitation testing setup, prior to the
+cavitation testing. She also testified that, in her opinion, the two tests ran concurrently.
+(tr. 5/34-35, 40). These tests, like other activities, were being performed concurrently,
+but were not causing additional delays merely because they were behind the original
+schedule (finding 15). If rescheduling an activity does not affect the critical path, it is
+not on the critical path. We cannot call the motor testing a concurrent delay.
+
+       The CO’s invocation of the Inspection of Construction clause mandated that if
+the pumps functioned as contractually required, the government would cover the cost
+of and delay due to the test (finding 14). Since the pumps functioned as contractually
+required, the government must cover the costs of the test and bear responsibility for
+the resultant critical path delay, which both experts agree was 63 compensable days
+(findings 15, 30, 31).
+
+4. Monorail Modification
+
+        Appellant argues that it should receive 10 days rather than the three which the
+government granted in Mod. 10, as “three days was directly associated with [the
+modified work], but it doesn’t reflect collateral damage” (tr. 2/82). This extended
+amount of time is due to the inability of its subcontractor to remobilize after the
+discovery of the clearance issue on the monorail that required the shortening of the rail
+(app. br. at 12-13, 33-34). Appellant also mentions several times that it chose to use a
+gantry crane to install the pumps, which it claims the government approved, but the
+government later directed it to use the monorail, delaying installation (id. at 12-13, 33;
+tr. 1/215-16).
+
+        The government points to other allegedly faulty work both before and after the
+monorail clearance issue was discovered (gov’t br. at 11-12 ¶¶ 7-8, 12-13). It also
+explains reasons for not compensating appellant for October 21 - 31, 2016, and says
+that “electrical testing . . . wasn’t even complete until October 26, 2016, so no power
+to operate the pump motors was available until after that date. As a result, the MWI
+
+
+                                            19
+field representatives would have had to return regardless . . . because the pumps could
+not have been run until the power was on.” (Gov’t br. at 14-15)
+
+        The government has not shown appellant’s allegedly defective work prior to
+and after the monorail shortening order to have contributed to either the monorail
+shortening order being issued or further delays related to it. Moreover, it has not
+shown that appellant is claiming any of those days. On the other hand, appellant
+has not shown how the government was “dictating the means and methods of FTM’s”
+pump installation, as its submittals prior to installation indicate the pumps were to be
+installed by the monorail and does not mention use of a gantry crane (app. rebuttal br.
+at 4). But these issues do not weigh on our decision.
+
+        The record indicates, and the parties agree, that the initial monorail
+modification work took three days (finding 9; gov’t br. at 14; app. br. at 33). The
+record also indicates, and the parties agree, or at least do not dispute, that MWI was en
+route to the site when the issue preventing installation was discovered, and that it was
+unclear on that date how long the modification would take (finding 9; gov’t br. at 12 ¶
+11; app. br. at 33; gov. reply br. at 4 ¶ 2). While MWI may have had to return later to
+run the pumps once the power was connected even without this issue, it is the
+installation that was on the critical path during this time. It is also unproven by the
+government that MWI would not have stayed on site until the power was connected to
+test the motors, or FTM and its subcontractors would not have re-prioritized the
+connection of the power had MWI remained, accomplishing it earlier. The
+government agrees that November 1 through 7, 2016, were days spent essentially
+waiting for MWI to remobilize and install the pumps. This period is sufficient to grant
+appellant the additional seven compensable days it claims, as well as costs properly
+attributable to this modification and remobilization.
+
+5. Wet Test Variance and Shut Down
+
+        Appellant argues the government was contractually required yet unable to
+supply the necessary water for the two-hour wet test, thus FTM proposed a shorter wet
+test to which various government officials agreed (app. br. at 13-14). The government
+required the submission of the test as a variance with government approval despite
+being an informational submittal, so the argument goes, and relieving the government
+of its contractual responsibility (id. at 15-17). In appellant’s view, the contract
+empowered the CO to change the test requirements however they liked but chose
+not to do so (tr. 1/241). For FTM, this variance submission requirement “was their
+way to jab us in the eye” (tr. 1/224), because the government “didn’t have flood waters
+and [the COE], for some reason, w[as]n’t wanting to shorten the test. And you had
+reason why probably, at this point. But you didn’t have a solution.” (Tr. 1/240)
+“[W]hy we took exception to labeling it a variance is, number one, it requir[ed] a 30-
+day review. . . . [I]f I haven’t created the situation that’s causing this enormous delay --
+
+
+                                            20
+I just didn’t see how -- why we needed to mark it as a variance . . . .” (Tr. 2/90-91)
+Further, the COE “[wasn’t] going to own this one. And I believe that’s why [the
+project] shut down.” (Tr. 1/232)
+
+        The government argues a variance requires government approval pursuant to
+the Changes Clause (gov’t br. at 28 ¶¶ 3-4), and that other documents it referenced in
+its shut down order also required government approval. It also spends time arguing its
+other bases for suspension were reasonable, but as discussed below, these do not
+weigh on our decision (gov’t br. at 30-32).
+
+       Appellant’s assertion that the wet test variance submittal was FIO is not
+supported by the evidence, nor is its assertion that the other six required submittals
+were FIO, as their own supplement to the Rule 4 file confirms several of these required
+government approval (findings 16-17). Regardless, FTM was required to hold a
+preparatory meeting, a precursor to starting the work, and could do so only “after all
+required plans/documents/materials are approved/accepted” by the government
+(findings 3, 17). FTM has not asserted anywhere that it had submitted these
+documents and received the required approval which formed the government’s basis of
+concern prior to the shutdown.
+
+        The assertion that the contract empowered the CO to alter the test at their
+pleasure is equally unsupported by the evidence. The CO was able to “waive or
+postpone the test . . . . [and a]ppropriate changes will then be made to the contract”
+(finding 3). Neither of these options involves modification of the test, which is
+handled in the contract by the contractor’s submission of a variance request. Even if
+this clause did so empower the CO, the CO deciding not to exercise one of their
+optional powers for the convenience of the contractor is not a basis for the contractor
+to recover from the government. This wet test variance required a submittal by FTM
+and approval by the CO (finding 16). FTM’s refusal to submit this test as a variance,
+despite naming it a variance in the submittal itself, stemmed from its schedule
+concerns and animosity towards the COE, rather than its understanding of its
+contractual obligations (tr. 1/224, 2/91; findings 16-17). Appellant’s inventiveness in
+designing a variant test, while solving a large contractual challenge, does not make the
+designed test less of a variance from that required by the contract.
+
+        Appellant’s argument that it called the test a variance in the submittal because
+the COE failed to supply the water also falls flat, as FTM’s variant test involved COE
+providing the water, which it also did end up doing. Nothing in the contract states that
+it needed to be supplied at the rate FTM would prefer. On the contrary, the contract
+required the contractor to “[p]rovide all supplies and equipment required to conduct
+the test” (finding 3). While the flowrate directly from the hydrant was insufficient to
+conduct the wet test, this was appellant’s responsibility to manage, and does not
+
+
+                                           21
+represent a change of the work site conditions from the time of its bid, or a failure by
+the COE to meet a contractual requirement.
+
+        The other submittals the government required in its stop work order are
+irrelevant, as appellant submitted them before or at the same time as the wet test
+variance, and thus they did not contribute to the length of the stop work order
+(finding 18). Appellant admits that it submitted the wet test as a variance on
+December 2, 2016, and the work shutdown was lifted six days later (app. br. at 17
+¶¶ 127-28). In accordance with the Suspension of Work clause, paragraph (b), this
+does not constitute an unreasonable time for suspension of work. The government was
+justified in shutting down work on the site until the wet test variance was submitted as
+a variance, and it stayed shut down until FTM complied with its contractual
+requirements. Thus, we deny the portion of appellant’s appeal related to this issue.
+
+6. Extra Excavation of Discharge Pipe and End of Job Delays
+
+        Appellant’s arguments focus on excavating the pipe twice, once to install and
+another time to conduct the visual leak test, having to refill the excavation with
+different fill due to the moisture level, and the government refusing to allow a different
+testing method (app. br. at 18 ¶ 138, 38). A separate part of the claim appears to focus
+on the government’s not declaring substantial completion until January 27, 2017, even
+though performance was finished several days before that time (findings 20, 26).
+Appellant claims that the government required it to perform the initial excavation and
+installation when it did but does not point to evidence of this (app. br. at 37-38).
+Additional days of delay appear to come from the dry test failure of pump 2, which
+appellant claims was “only a 2-to-3-day issue” (app. br. at 18 ¶ 141).
+
+       The government points out that visual leak testing was a contractual
+requirement. It further observes that the dry test failure occurred on December 13,
+2016, with the pump being altered and passing on December 21, 2016. (Gov’t br.
+at 33-34) It also notes appellant was working on the site until January 23, 2017, when
+sump pump testing was completed (gov’t br. at 36; finding 20).
+
+        The parties agree the discharge pipe could not be tested until the pump motors
+were installed and functioning. Appellant’s excavation and installation of the discharge
+pipe on October 19, 2015, came after appellant was already aware that the 125hp
+motors would be insufficient and would need to be altered to 150hp (findings 7, 19).
+This date is also before the approval of the 150hp motors on December 23, 2015
+(finding 7). Various witnesses testified as to why the excavation could not be left open,
+leading to appellant seeking the COE’s approval to use flowable fill on January 18,
+2016 (finding 19). Knowing that motor manufacture was planned to take 90 days and
+had not yet begun, and that the excavation would need to be closed within a few months
+of it opening, we do not see why appellant performed the initial excavation and
+
+
+                                           22
+installation when it did. Appellant’s bare claim that the government required it
+to install the discharge pipe at that time is without support. Further, as above, the
+government’s refusal to abrogate a contractual requirement to relieve FTM of the visual
+leak testing is neither unreasonable nor compensable. Thus, we see no need to
+compensate FTM in time or costs for the second excavation, nor for the use of unique
+fill to cover the initial excavation.
+
+       The reasoning behind the other days of delay is unclear in the briefs and
+Mr. DeFlaminis’s report, except the disparity between the completion of site work on
+January 23, 2017, and the government’s declaration of substantial completion on
+January 27, 2017. While we don’t find this to be an unreasonable amount of time for
+the government to inspect the site and make its declaration, the declaration was outside
+of FTM’s control once it had completed site work, and it should be excused for that
+time. We find it appropriate to grant FTM a 4-day, non-compensable time extension
+for these days.
+
+7. Field Office Overhead 13
+
+        The central question of this claim is whether appellant may now switch between
+the percentage method that it committed to in its response to the solicitation and which
+became part of the contract, to a per diem method to recover FOOH costs. 14 The
+invitation for bid, incorporated into the awarded contract, included a special clause that
+required bidders to affirmatively designate whether they would apply a time-based
+distribution base (per diem rate), a direct cost distribution base (percentage markup),
+or some other method for allocating their field office overhead (finding 21). Rather
+than using the per diem method, as appellant argues was its custom on other contracts,
+an authorized employee chose the percentage method (finding 23).
+
+13
+   The government filed a partial motion for summary judgment on February 28,
+       2020, concerning the issue of calculation of field FOOH on a per diem basis
+       rather than a percentage rate (R4, tab 90). However, subsequent briefing did
+       not take place due to the impending hearing and Judge McNulty ordered the
+       parties to address the motion in their post-hearing briefs. At this point, we
+       decide this claim on the merits.
+14
+   Field office overhead is often interchangeably referred to as FOOH or jobsite
+       overhead on construction sites. The use of the term is, in most cases, a
+       misnomer because field office overhead costs are direct costs, not overhead
+       costs, unless the contractor is performing two or more contracts at the same site.
+       2 KAREN L. MANOS, GOVERNMENT CONTRACT COST & PRICING § 87:24
+       (2023). Additionally, field office overhead should not be confused with home
+       office overhead or HOOH. Home office overhead usually is an indirect cost,
+       unless the contractor only has one contract, and is expressed as an indirect rate
+       or G&A. (Id.)
+
+                                           23
+        There is no dispute that appellant chose to apply a percentage markup in its
+response to the solicitation, but FTM advances several arguments why it should now
+be allowed to apply a per diem rate to various modifications that applied a percentage
+markup during performance. First, appellant argues its selection of a percentage basis
+of compensation for FOOH was a mistake by one of its employees (app. br. at 40; tr.
+2/169-70). Second, appellant argues that requiring the selection mandated by this
+clause was contrary to law and policy and is an illegal deviation from
+FAR 31.105(d)(3) and FAR 31.203, as well as the DFARS and COE policy, thus, we
+assume, necessitating reading the clause out of the contract (app br. at 40-46). Third,
+because appellant alleges the clause in question is an unauthorized deviation of the
+FAR and the percentage designation by its employee was a mistake, the contract
+should be reformed due to the mutual mistake of the parties (app. br. at 51-55).
+Finally, appellant argues the government was told and understood appellant
+“repeatedly proposed Contract modifications which included entitlement to field office
+overhead calculated on a per diem basis” (app. rebuttal br. at 20; see also id. at 22-23
+(listing proposals which allegedly contain per diem markup)). Appellant argues that it
+informed the COR of FTM’s accounting practices related to FOOH, i.e., always
+accounting for FOOH by applying per diem.
+
+        In response, the government argues this special clause is not a deviation,
+appellant’s percentage selection was validly made, points out that appellant never
+raised this alleged mistake until after several modifications in which appellant was
+paid on the percentage basis, and finally, even if the clause did not exist our precedent
+would prevent appellant from switching between the percentage and per diem markup
+for overhead during this contract (gov’t br. at 42-44).
+
+      We largely agree with the government’s arguments and reject appellant’s
+arguments and those of the dissent by Judge McNulty.
+
+       Status of the Special Clause
+
+        We first address the issue of whether the special clause requiring FTM to select
+its FOOH method prior to contract award is permissible or, as FTM and Judge
+McNulty argue, is contrary to the FAR and must be read out of the contract. By
+definition, a deviation is a change to an existing policy. These special clauses do not
+change the current policy but instead implement it.
+
+       First, we must articulate what the policy set forth by the FAR is. As explained
+below, the policy is that the contractor essentially chooses a method for calculation of
+FOOH - -whether that method be to treat it as a direct cost (the per diem method) or as
+an indirect cost (the percentage method) -- and is required to stick with it.
+FAR 31.105(d)(3) provides that:
+
+
+                                           24
+                Costs incurred at the job site incident to performing the
+                work, such as the cost of superintendence, timekeeping and
+                clerical work, engineering, utility costs, supplies, material
+                handling, restoration and cleanup, etc., are allowable as
+                direct or indirect costs, provided the accounting practice
+                used is in accordance with the contractor’s established and
+                consistently followed cost accounting practices for all
+                work.
+
+        Hence, FOOH (for these are the costs being discussed here) is recoverable if it
+is calculated in accordance with the contractor’s “established and consistently
+followed cost accounting practices for all work.” Id. The meaning of this FAR
+provision, particularly in combination with FAR 31.203, which governs indirect costs,
+has been the subject of some decisions by the Board, notably our Senior Deciding
+Group 15 decision in M.A. Mortenson Co., ASBCA No. 40750 et al., 98-1 BCA
+¶ 29,658. In Mortenson, the contractor had sought FOOH for those change orders that
+entailed delay under the per diem method, while seeking a percentage mark-up when
+there was no delay, arguing that this was the means by which it always conducted
+business. Id. at 146,945-46. The Senior Deciding Group rejected that method, finding
+that considering FOOH an indirect cost in some cases, but a direct cost in others was
+inconsistent with the means of calculating indirect costs set forth in FAR 31.203(b),
+and was thus disallowable. The decision also stated in a footnote that FAR 31.105(d),
+at a minimum, required consistency on the use of either direct (per diem) or indirect
+(percentage) charging for FOOH. Id. at 146,948 n.7. The Mortenson decision has
+been consistently followed in a series of later decisions, including Pave-Tech, Inc.,
+ASBCA No. 61879, 22-1 BCA ¶ 38,095, and Caddell Const. Co., ASBCA No. 49333,
+00-1 BCA ¶ 30,702, aff’d, ASBCA No. 49333, 00-1 BCA ¶ 30,859.
+
+       The remaining questions, then, are whether the government is within its rights
+to inquire from the contractor, before performance begins, about which method it
+wishes to use to calculate FOOH and then, by incorporating the answer into the
+contract, to require the contractor to stick with it. The answers to both are “yes.”
+
+       To be sure, the terms of FAR 31.105(d)(3) refer to the contractor’s “established
+and consistently followed accounting practices for all work,” rather than specifically
+requiring the contractor to divulge what those accounting practices are. That said, why
+shouldn’t the government determine what those accounting practices are by the
+simplest and most direct expedient of asking the contractor prior to the beginning of
+
+15
+     Paragraph 3 of the Board’s Charter permits the Chairman to create the Senior
+         Deciding Group for consideration, among other things, of appeals of
+         “significant precedential importance.” Not to put too fine a point on it, but
+         Senior Deciding Group decisions are relatively rare and are a “big deal.”
+
+                                             25
+contract performance? After all, to comply with FAR 31.105(d)(3), the government
+has to find out the contractor’s FOOH computation practice somehow, and a
+straightforward inquiry before contract award is no hardship to the contractor and is
+far less invasive than, say, auditing the contractor’s books after the fact. It, in fact, can
+be said that this is how the contractor’s practice is “established.” This method also has
+the salutary advantage of being accomplished before any disputes arise which would
+incentivize the contractor to select that method which maximizes its compensation. 16
+
+       As to whether FTM should be held to its response to the pre-bid inquiry, the
+answer is an easy one: that selection is part of the contract and is binding on both
+parties. If the COE were to attempt to pay FTM under a more advantageous
+computation method to the COE than the one set forth in this part of the contract, FTM
+would have every reason to seek relief; the same applies to FTM. It is certainly not
+“bad faith” as alleged by FTM (see app. Second br. on Subject of FOOH at 4,10).
+
+        Unilateral Mistake
+
+        Since the government did not deviate from the FAR, either intentionally or by
+mistake, and did not misapprehend FTM’s election of the percentage method,
+appellant’s alleged mistake is a unilateral mistake. FTM cannot support reformation
+of the contract based upon such a mistake.
+
+       To prove a prima facie case of reformation based upon a unilateral mistake,
+appellant must show the following by clear and convincing evidence:
+
+               (1) a mistake in fact occurred prior to award; (2) the
+               mistake was a clear-cut clerical or mathematical error or a
+               misreading of the specification and not a judgmental error;
+               (3) prior to award the Government knew or should have
+               known that a mistake had been made; (4) the
+               Government’s request for bid verification was inadequate;
+               and (5) proof of the intended proposal was established.
+
+EFG Assocs., Inc., ASBCA No. 49356, 00-1 BCA ¶ 30,638 at 151,274 (quoting
+Transco Contracting Co., ASBCA No. 47289, 96-1 BCA ¶ 28,090 at 140,222).
+
+
+16
+     Indeed, the government routinely engages in a somewhat analogous practice when
+         it requires contractors subject to Cost Accounting Standards (CAS) to disclose
+         beforehand their overhead calculation methods. See CAS 402-50(b) (48 C.F.R.
+         § 9904.402-50). The analogy, of course, is imperfect, but it underscores that
+         the COE’s approach here is a reasonable way of doing business, consistent with
+         the approach taken elsewhere in government contracting.
+
+                                             26
+      Appellant fails to prove by clear and convincing evidence that the alleged
+mistake meets the legal criteria to support reformation based upon a unilateral mistake.
+
+        The Mistake Was a Judgmental Error
+
+        Ms. Dobbs, the FTM employee who made the selection in the solicitation,
+testified she did not know what accounting practices FTM used for computing FOOH
+and did not seek guidance from her direct supervisor (who testified she was very aware
+of the company’s practices) or anyone else in the company. Yet Ms. Dobbs checked
+the percentage box, then following the government’s request for verification later
+verified the bid. (Finding 23). Ms. Dobbs verified the bid but did not note a mistake
+in the box she checked. Ms. Dobbs may have made a mistake, but if that is the case,
+the evidence clearly shows any mistake was a mistake in judgement in filling out the
+clause without seeking guidance from someone in the company with knowledge of the
+company’s practices. 17 In any event, it cannot be characterized as a “clear-cut clerical
+or mathematical error or a misreading of the specification.” See EFG Assocs., Inc.,
+00-1 BCA ¶ 30,638 at 151,274.
+
+        The Government Did Not Know nor Should Have Known of any Mistake Prior
+        to the Contract Award
+
+        Additionally, the evidence fails to prove the government knew or should have
+known of the mistake prior to the contract award. Ms. Bentley (Ms. Dobbs’s
+supervisor) testified that FTM, during her 21 years of experience, has always
+accounted for FOOH on a per diem not a percentage basis and, submitted cost sheets
+to the government on such a per diem basis and discussed this issue with the COR
+during this contract (finding 23). But without more, this fact is irrelevant to the
+question of the government’s knowledge of what FTM intended to do in this particular
+contract. There is no dispute that an authorized individual chose a percentage rather
+per diem method on behalf of the company (finding 23). Additionally, other than
+Ms. Bentley’s testimony related to the COR, the evidence does not indicate anyone in
+the government was aware of any mistake until the end of the contract (findings 23-
+25). Regarding Ms. Bentley’s testimony related to the COR, Mr. Teel, there is no
+testimony from Mr. Teel but, in any event, he would not have authority to unilaterally
+change FTM’s selection based upon a mistake. Additionally, there is no evidence in
+the record that he communicated any such information to the CO or that the CO was
+aware of these facts. In fact, Ms. Bentley’s testimony seems to confirm she never
+
+17
+     See EFG Assocs., 00-1 BCA ¶ 30,638 at 151,274 (contractor chose price formula
+         without adequate analysis or checking with subcontractor); also RQ Constr.,
+         Inc., ASBCA No. 52376, 01-2 BCA ¶ 31,627 at 156,249 (neither contractor nor
+         subcontractor tried to determine cost of underpriced work).
+
+
+                                           27
+communicated there was a mistake directly to the CO or anyone higher in the company
+(finding 23). This conclusion seems to be confirmed by the fact the CO testified the
+first time he was aware this might be a mistake was in appellant’s REA after
+completion of the contract. Appellant, as well, also admitted in its rebuttal brief that
+no one at FTM was aware of the mistake during performance, and it only became
+aware of the mistake in submitting the REA after completion of the contract.
+(Findings 24-25) Obviously, this seems to be a contradiction with Ms. Bentley’s
+testimony, that, if true, begs the question why Ms. Bentley apparently did not raise this
+directly to the CO or to someone in the company with authority to do so. Thus,
+appellant falls far short of establishing the existence of a unilateral mistake by “clear
+and convincing” evidence or that anyone in the government knew or had reason to
+know of any mistake prior to appellant’s submittal of its REA.
+
+         The Government’s Request for Bid Verification Was Not Inadequate
+
+       There is no evidence that the government’s request for bid verification was
+inadequate. According to Ms. Dobb’s testimony it was her responsibility to verify the
+bid and, per her testimony, she did not know what FTM’s usual practice was
+(finding 23).
+
+       For these reasons, the portion of appellant’s appeal related to this issue is
+denied, and any costs awarded concerning FOOH elsewhere in this opinion should be
+paid applying percentage rates.
+
+8. As-Built Drawings (ASBCA No. 62509)
+
+        The government, as the proponent of the claim at issue in ASBCA No. 62509,
+argues the contractual requirement for FTM to supply as-built drawings was not
+fulfilled with satisfactory drawings, and “[b]ecause Appellant never resubmitted
+redlines [after February 15, 2017] it was forced to send out a survey team to field
+verify missing site information” related to parts of the drawings it viewed as
+incomplete (gov’t br. at 45). The government used its in-house resources to complete
+the required drawings (gov’t br. at 46). Further, the government asserts FTM
+apportioned 61 days in the schedule to complete these drawings but took over
+400 days to submit its final version (which was still not satisfactory), did not assign
+sufficient resources to the project, and effectively abandoned the drawings (gov’t br.
+at 48).
+
+        In contrast, appellant correctly points out that the government never told FTM
+that it would be preparing the drawings until it received the government claim, and
+thus was not given an opportunity to correct the deficiencies (app. rebuttal br. at 26).
+
+
+                                           28
+        Appellant’s argument that it did not have a chance to cure its alleged
+deficiencies is surprising, considering the four different versions of the drawings it
+submitted throughout 2017 and 2018, which the government returned along with
+comments to address (finding 28). The reasonable amount of time appellant projected
+for itself to complete this work alongside other tasks was 61 days, yet FTM was still
+returning versions of the drawings more than 400 days after it completed on-site work
+(findings 28-29). The evidence in the record shows that the government only partially
+released the retainage, as the rest of the money released in that payment can be
+explained by appellant’s corresponding bill to the government for other items
+(finding 29). The COE’s partial payment for the drawings on August 20, 2018,
+indicated that it would not give appellant another chance to correct the deficiencies
+that it had identified in previous drawings. Despite appellant’s counterarguments,
+this is quite like the facts in Toombs & Co. v. United States, 4 Cl. Ct. 535, 544-45
+(1984), aff’d, 770 F.2d. 183 (Fed. Cir. 1985)), where the government successfully
+withheld a portion of the retainage it held because of unsatisfactory as-built drawings
+submitted by the contractor. Aside from scant testimony, appellant has submitted
+virtually no evidence to explain why it took such an extraordinarily long amount of
+time to submit these drawings. Thus, we sustain this government appeal for failure
+to perform satisfactorily, either within a reasonable time or at all.
+
+       However, after the COE decided to complete the work itself sometime in
+April 2018, it did not tell FTM, but instead returned FTM’s drawings with comments
+to address (finding 29). Given this, it is unsurprising that appellant would continue
+incurring ultimately unnecessary costs to attempt to fix the deficient work. Thus,
+we sustain the appeal in support of the government’s claim for $55,000, less the costs
+for work appellant can prove it incurred in pursuit of this task between when the
+government decided to correct the work itself and appellant’s final drawing
+submission on May 31, 2018.
+
+9. Remission of Liquidated Damages Claim
+
+        Appellant requests remission of $263,550 in liquidated damages (compl.
+at 26 ¶ 132). The modified CCD was May 8, 2016, and substantial completion
+occurred on January 27, 2017. The awarded contract provided for liquidated damages
+in the amount of $1,050 per day. The government assessed $277,200 based upon 264
+days of delay. (Finding 26) We find appellant is entitled to 305 compensable delay
+days, and 25 non-compensable excused delay days. 18 We remand this issue to the
+parties to determine quantum and remission of liquidated damages.
+
+18
+     We calculate the number of days of delay as follows: (1) 124 compensable days and
+         21 non-compensable days for appellant’ motor upsizing claim; (2) 111
+         compensable days delay for appellant’s electrical impact claim; (3) 63
+
+
+                                           29
+        In summation, we grant appellant the costs incurred for the motor upsize,
+electrical impact study, cavitation testing, and monorail modification, as well as
+305 compensable days of delay, and 25 excused, non-compensable days of delay. We
+deny the portions of ASBCA No. 61922 related to the stop work order, discharge pipe
+excavation and refilling and most of the assorted “end of work delays,” as well as the
+per diem FOOH calculation. We also sustain in part and deny in part ASBCA
+No. 62509 for the as-built drawings, less appellant’s costs incurred after the
+government took up the work.
+
+                                   CONCLUSION
+
+      For the reasons discussed above, the appeals are each sustained in part and
+denied in part. These appeals are remanded to the parties to determine quantum.
+
+      Dated: February 24, 2025
+
+
+                                                JOHN J. THRASHER
+                                                Administrative Judge
+                                                Chairman
+                                                Armed Services Board
+                                                of Contract Appeals
+
+ I concur                                         I concur
+
+
+ J. REID PROUTY                                   BRIAN S. SMITH
+ Administrative Judge                             Administrative Judge
+ Vice Chairman                                    Armed Services Board
+ Armed Services Board                             of Contract Appeals
+ of Contract Appeals
+
+
+(Signatures continued)
+
+
+      compensable days delay for appellant’s cavitation testing claim; (4) four non-
+      compensable days delay for appellant’s wet testing claim; and (5) seven
+      compensable days delay for appellant’s monorail claim.
+
+                                          30
+I concur                    I concur, except with Section 7 of the
+                            opinion, regarding field office overhead,
+                            with which I dissent, as explained in my
+                            partial dissent below.
+
+
+REBA PAGE                   CHRISTOPHER M. MCNULTY
+Administrative Judge        Administrative Judge
+Acting Chairman             Armed Services Board
+Armed Services Board        of Contract Appeals
+of Contract Appeals
+
+
+                       31
+       DISSENTING OPINION BY ADMINISTRATIVE JUDGE MCNULTY
+
+        I agree with the majority with respect to most of the opinion, but part company
+with them regarding the field office overhead component of the claim. Instead of
+ruling the contractor is not entitled to recover Field Office Overhead (FOOH) on a
+per diem basis I would reform the contract to comply with FAR 31.105(d)(3), which
+requires a contractor to consistently use either the per diem method or the percentage
+method to calculate the field office overhead component of a claim for an equitable
+adjustment, depending on what its usual practice is.
+
+        The Federal Circuit in American President Lines, Ltd. v. United States, 821 F.2d
+1571, 1582 (Fed.Cir. 1987) citing the Supreme Court in Manufacturer’s Fin. Co. v.
+McKey, 294 U.S. 442, 449, 55 S.Ct. 444, 447, 79 L.Ed. 982 (1935); Hedges v. Dixon
+County, 150 U.S. 182, 192, 14 S.Ct. 71, 74, 37 L.Ed. 1044 (1893), stated that a court
+cannot change the terms of a contract in the absence of mistake, fraud, accident, or
+illegality. I would rule that an illegality would occur, the violation of FAR 31.105(d)(3),
+unless the per diem method was used by FTM for all adjustments to the field office
+overhead because the record includes unrebutted evidence that FTM’s regular practice is
+to use the per diem method. (finding 23). Accordingly, despite the special clause
+providing the contractor with a choice between the two methods, I disagree with the
+majority that the fact that FTM throughout its history may have applied a per diem
+method for accounting for FOOH on other contracts is irrelevant because of
+FAR 31.105(d)(3). This of course means FTM would have to credit the government for
+amounts received previously for field office overhead calculated using the percentage
+method.
+
+        The Contract Disputes Act, 41 U.S.C. §§7101-7109, provides authority for the
+ASBCA to reform contracts in circumstances similar to those presented here, LaBarge
+Products, Inc. v. West, 46 F. 3d 1547, 1552-1553 (Fed. Cir. 1995). The Federal
+Circuit in LaBarge, citing CRF–A Joint Venture, Etc. v. United States, 624 F.2d 1054,
+1061–62, 224 Ct. Cl. 312, 324–26 (1980); Applied Devices Corp. v. United
+States, 591 F.2d 635, 640–41, 219 Ct.Cl. 109, 119–20 (1979); Beta Sys., Inc. v. United
+States, 838 F.2d 1179, 1185 (Fed.Cir.1988) found that contracts that have been written
+by the government in violation of a law or regulation enacted for the benefit of
+contractors could be reformed by rewriting the contract to remove the illegality. (Id.
+at 1552). Although the three cases cited in Labarge involve the government violating
+a provision enacted for the benefit of the contractor, I see no reason why the principal
+should not be applied when the contractor acted improperly to obviate a provision
+intended for the government’s benefit as was done with respect to its FOOH claim.
+FAR 31.105(d)(3) is clearly intended to protect the government by requiring the
+contractor to act consistently through all contracts with respect to how field office
+overhead is calculated by limiting its calculation methodology to that which it
+customarily uses. FTM’s choice to select the percentage method, when it’s customary
+
+
+                                           32
+method is to use the per diem method violates this provision of the FAR. It is
+appropriate to reform the contract by selecting the per diem method FTM customarily
+uses in its business. Having found in favor of appellant on this basis it is unnecessary
+to address the argument that the USACE Kansas City District inserted the special
+clause into the contract without appropriate authority, an argument advanced by
+appellant. (App. br. at 41-45).
+
+       Dated: February 24, 2025
+
+
+                                                   CHRISTOPHER M. MCNULTY
+                                                   Administrative Judge
+                                                   Armed Services Board
+                                                   of Contract Appeals
+
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA Nos. 61922, 62509, Appeals of
+Fuel Tank Maintenance Company, LLC, rendered in conformance with the
+Board’s Charter.
+
+       Dated: February 26, 2025
+
+
+                                                PAULLA K. GATES-LEWIS
+                                                Recorder, Armed Services
+                                                Board of Contract Appeals
+
+
+                                           33

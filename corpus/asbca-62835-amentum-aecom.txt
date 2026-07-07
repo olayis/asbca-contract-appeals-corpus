@@ -1,0 +1,1112 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+    Appeals of -                                )
+                                                )
+    Amentum Services, Inc., f/k/a AECOM         )    ASBCA Nos. 62835, 62836, 62837
+     Management Services, Inc.                  )               62838, 62839, 62840
+                                                )
+    Under Contract No. NNK15OL50B               )
+
+    APPEARANCE FOR THE APPELLANT:                    Thomas M. Brownell, Esq.
+                                                      Holland & Knight LLP
+                                                      Tysons, VA
+
+    APPEARANCES FOR THE GOVERNMENT:                  Scott W. Barber, Esq.
+                                                      NASA Chief Trial Attorney
+                                                     Samantha R. Cochran, Esq.
+                                                     Marshall D. McKellar, Esq.
+                                                      Trial Attorneys
+                                                      Kennedy Space Center, FL
+
+             OPINION BY ADMINISTRATIVE JUDGE D’ALESSANDRIS
+
+       In 2015, the National Aeronautics and Space Administration (NASA) Kennedy
+Space Center (KSC) awarded a contract for launch services to appellant, Amentum
+Services, Inc. (Amentum), formerly known as AECOM Management Services, Inc.,
+which was, in turn, known as URS Federal Services at the time of award. 1 Amentum
+was the incumbent contractor at KSC; however, the contract awarded in 2015 was a
+firm-fixed-price contract, while the prior contract was a cost-type contract. This
+change in contract type was at least partially responsible for several of the issues
+currently before the Board.
+
+       Amentum appeals from a contracting officer’s final decision denying various
+claims related to the contract. Amentum’s first claim (ASBCA No. 62835) asserts that
+the government failed to satisfy the contract’s minimum ordering requirement. The
+parties disagree as to when certain negotiated task orders should be recognized on the
+contract. We hold that the amount of the task order was properly applied to the
+contract’s minimum ordering requirement in the year of award, but that the descoped
+amount must also be deducted from the minimum order amount for the year that it was
+awarded. Accordingly, we find that the government failed to satisfy the minimum
+ordering amount.
+
+
+1
+    For simplicity we refer to appellant as Amentum throughout this opinion.
+       Amentum’s second claim (ASBCA No. 62836) asserts that the government
+improperly required Amentum to create a new contract line item, rather than pricing
+the work under a “downmode maintenance” provision of an existing line item.
+Regardless of the merits of Amentum’s argument, we hold that Amentum agreed to the
+pricing in a bilateral modification, and has waived whatever claim it might have had.
+Amentum’s third claim (ASBCA No. 62837) pertaining to the pricing of new tasks
+allegedly without the proper allocation of indirect costs, was similarly waived by a
+bilateral contract modification.
+
+        Amentum’s fourth claim (ASBCA No. 62838) asserts that NASA wrote a task
+out of the contract by developing a new source for jet fuel at KSC. The contract at
+issue is an Indefinite Delivery/Indefinite Quantity (IDIQ) contract with a minimum
+ordering requirement, not a requirements contract. We hold that Amentum has not
+established a violation of the contract and has not demonstrated bad faith on the part of
+the government.
+
+       Amentum’s fifth claim (ASBCA No. 62839) seeks compensation for hurricane
+shutdowns at KSC. We hold that the firm-fixed-price contact does not entitle
+Amentum to compensation. Amentum’s sixth claim (ASBCA No. 62840) concerns an
+allegedly ambiguous contract term or mistake in bidding. We hold that Amentum has
+not established that the contract was ambiguous or that it is entitled to recover pursuant
+to a mistaken bid.
+
+              FINDINGS OF FACT APPLICABLE TO ALL APPEALS
+
+      Appellant AECOM Management Services, Inc. (AECOM) is a Delaware
+corporation. Effective February 1, 2020, AECOM changed its name to Amentum
+Services, Inc. and is now known by that name. (Stipulations of the Parties, filed
+Apr. 15, 2022 (jt. stip.) ¶ 1) AECOM Management Services, in turn, was known as
+URS Federal Services at the time of award (id. ¶ 3). The John F. Kennedy Space
+Center (KSC) is a NASA field center located in Florida. (Id. ¶ 2)
+
+        NASA Contract No. NNK15OL50B (also known as the Kennedy Space Center
+Propellants and Life Support Services Contract, KPLSS, KPLSS I, or the contract) was
+a contract for the performance of launch-related operations and maintenance services
+at KSC. Its main customers were KSC and the Cape Canaveral Air Force Station
+(CCAFS). NASA awarded the contract to URS Federal Services (now Amentum)
+with a period of performance of October 1, 2015 – September 30, 2020. (R4, tab 1
+at 2-3; jt. stip. ¶ 3) The KPLSS contract was a successor to NASA’s Institutional
+Services Contract (ISC) (tr. 1/26-28). The ISC contract was a cost-plus contract
+(tr. 2/134). Amentum was the incumbent contractor on the ISC and had performed the
+work included in the KPLSS contract under ISC for a number of years (tr. 1/26–28).
+
+
+                                            2
+         The new KPLSS IDIQ contract consisted of firm-fixed-price unit rates called
+Task Item Numbers (TINs). These TINs were identified and described in the KPLSS
+Catalog of Services, Attachment J-02. (R4, tab 2 at 101-39) The government could
+also order services using Negotiated Task Orders (NETOs). NETOs are for ordering
+services within the scope of KPLSS, but otherwise not in the main catalog of TINs.
+(Jt. stip. ¶ 5) In addition, the contract provided for Contractor Third-Party Work
+(C3PW). The contract, in attachment J-21, provides that the C3PW provisions are
+applicable to any work “performed by the Contractor on KSC and paid for via any
+agreement other than this contract, another NASA prime contract, or a NASA
+subcontract (at any tier)” 2 (gov’t hrg., ex. 2 at 1).
+
+       On April 18, 2019, Amentum submitted a request for equitable adjustment
+(REA) concerning NASA’s failure to satisfy the minimum contract value, the
+downmode maintenance provision, the inability to charge overhead costs on new TINs
+and the jet fuel TIN (R4, tab 4 at 159-60). NASA denied the REA on November 19,
+2019 (id. at 160). Amentum submitted a claim asserting the four issues contained in
+its REA, plus claims pertaining to government hurricane shutdowns and the pricing
+issue pertaining to launch support services, as well as a claim pertaining to the
+2018-19 government shutdown due to a budget impasse that was not appealed to the
+Board (id.). The contracting officer denied Amentum’s claim in a final decision dated
+February 16, 2021 (R4, tab 5 at 181-85). Amentum timely appealed to the Board.
+
+       On February 4, 2022, the government filed a motion for summary judgment.
+Unfortunately, the motion was filed during an e-mail outage and the Board was
+unaware of the motion until receiving Amentum’s opposition on March 7, 2022. On
+April 13, 2022, the government moved to stay the hearing pending resolution of its
+motion for summary judgment filed over two months earlier. By order dated April 21,
+2023, we elected to defer consideration of the motion for summary judgment until the
+hearing, which was at that point less than a month away. 3
+
+
+2
+  In other words, work performed by Amentum for third-parties on KSC count against
+        the contract minimum because the work benefits from the use of KSC resources
+        and facilities and may involve the use of government property (gov’t hrg., ex. 2
+        at 1).
+3
+  Our decision is based upon the hearing record and is not a decision on the motion for
+        summary judgment.
+                                           3
+        Findings of Fact Pertaining to Claim 1 ASBCA No. 62835: Minimum
+        Contract Value
+
+       The KPLSS contract included a minimum contract value of $8 million per year:
+
+              B.2 Contract Minimum
+              The minimum contract value for each contract year, which
+              includes all TOs issued, is $8,000,000, as shown in Table
+              B.2.1.
+
+              Any monies received by the Contractor for the same or
+              similar ser vices offered under this contract, regardless of
+              the customer requesting such service (s) and the
+              contractual mechanism used to perform the work, shall be
+              applied toward the minimum contract value.
+
+(R4, tab 1 at 28) The contract defines “TO” as “task order” in multiple places (e.g.,
+R4, tab 1 at 7, 73, tab 3 at 157) and provides that services will be ordered by task order
+(R4, tab 1 at 73 ( FAR 52.216-18)). The $8 million minimum contract value was
+based upon an estimate of the amount of propellants and life support work that NASA
+and the Air Force had purchased in FY 2013 and 2014 and that they were thus willing
+to guarantee (see tr. 2/144-45). Amentum’s bid price for the KPLSS I Contract, based
+upon the NASA-provided Best Estimated Quantities (BEQs), was approximately $7.4
+million (tr. 1/29-30). Based upon prior years’ experience, NASA expected the
+winning bid to be in the range of $10-13 million (tr. 3/14). During proposal
+discussions, NASA requested additional information from Amentum regarding its
+overall pricing methodology because the total evaluated price was below the minimum
+contract value (R4, tab 21 at 293; jt. stip. ¶ 39). Amentum did not change its bid price
+when NASA questioned it in discussions with Amentum prior to award of the contract
+(tr. 1/38-39). Amentum’s representative, Mr. Larry Ostarly, testified that Amentum
+was able to reduce its price to NASA by using corporate resources to provide human
+resources, contracts, and procurement services, which otherwise would have been
+charged direct to the contract (tr. 1/42-43).
+
+
+                                            4
+      During FY 2016, which ended on September 30, 2016, NASA and the Air
+Force ordered TIN and Negotiated Task Order (NETO) work under the KPLSS
+Contract as follows (R4, tab 7 at 208):
+
+                                       TINs             NETOs                   Total
+
+ NASA                          $5,200,991.95       $638,581.59         $5,839,573.54
+
+ Air Force                     $2,309,395.64       $134,045.69         $2,443,441.33
+
+ Total                         $7,510,387.59       $772,627.28         $8,283,014.87
+
+
+        As early as April or May 2016, the government issued a request for proposal to
+Amentum for a NETO for relief valve testing that was not covered under the existing
+KPLSS TINs (tr. 2/153-54). Amentum responded to the RFP in August 2016
+(tr. 2/155). On September 14, 2016, 16 days before the end of the fiscal year, after
+evaluating Amentum’s proposal, NASA issued Task Order NNK16OM20T (20T), in
+the amount of $444,951.06, for installation of a relief valve test kit (app. supp. R4,
+tab 30 at 2).
+
+        After award of task order 20T, Amentum received a bid from a second vendor,
+at a price approximately $300,000 less than the first vendor (tr. 1/180-81). The
+equipment from the second vendor met the specifications set forth in NASA’s RFP for
+task order 20T and Amentum could have simply delivered the new equipment and kept
+the $300,000 in savings (tr. 2/42). Instead, Amentum proposed a reduction in the price
+of task order 20T and NASA agreed, resulting Modification No. 1, dated May 19,
+2017, which descoped task order 20T by $334,050.76, to a total of $110,900.30 (app.
+supp. R4, tab 30 at 4). The task order modification to descope task order 20T includes
+the following release language:
+
+             [Amentum] hereby releases the Government from any and
+             all liability or claims under this contract for any further
+             equitable adjustments attributable to such facts or
+             circumstances giving rise to proposal dated April 7, 2017,
+             and all revisions thereto.
+
+(App. supp. R4, tab 30 at 5)
+
+       On September 28, 2016, 2 days before the end of FY 2016, the Air Force issued
+task order FA2521-16-F-0194, in the amount of $134,045.69, for the relocation of
+
+
+                                               5
+3 mobile storage units from Cape Canaveral Air Force Station (CCAFS) 4 to Patrick
+Air Force Base (PAFB) 5 (app. supp. R4, tab 31 at 1-6). The two task orders issued in
+September 2016 could not have been performed during FY 2016 (tr. 1/178-80, 184).
+
+       Task orders issued for TINs were funded incrementally, in advance, by NASA
+and the Air Force. Any remaining funds at the end of the contract year were
+deobligated by NASA and the Air Force. (Tr. 1/50-52, 2/158-59) For TIN-based
+orders, NASA subtracted the deobligated funds from the contract minimum value for
+the year in which the task order was initially issued (id.; tr. 2/159-60).
+
+         DECISION Claim 1 ASBCA No. 62835: Minimum Contract Value
+
+        As noted in the facts above, the contract had a minimum ordering requirement
+of $8 million in FY2015. The total contract value for issued task orders was
+$8,283,014.87 (jt. stip. ¶ 7). Amentum contends that the ordered amount is overstated
+due to two negotiated task orders that were issued in the final days of the performance
+period and that were not capable of being performed during the fiscal year.
+Additionally, the task order for the test kit was descoped during FY2017, reducing the
+task order amount by $334,050.76. With these deductions, Amentum contends that the
+actual ordered amount is $7,704,017.12 (app. br. at 16). The government contends
+that the task orders were properly recorded in the fiscal year issued and contends that
+the deobligated amount should be credited against the orders in the year the task order
+was modified (gov’t resp. at 26-33).
+
+       Claim 1 requires that we interpret contract paragraph B.2 to determine whether
+the government failed to satisfy the minimum ordering requirement. The contract
+provides that:
+
+               B.2 Contract Minimum
+               The minimum contract value for each contract year, which
+               includes all TOs issued, is $8,000,000, as shown in
+               Table B.2.1.
+
+               Any monies received by the Contractor for the same or
+               similar services offered under this contract, regardless of
+               the customer requesting such service (s) and the
+               contractual mechanism used to perform the work, shall be
+               applied toward the minimum contract value.
+
+
+4
+    Now known as Cape Canaveral Space Force Station (CCSFS)
+5
+    Now known as Patrick Space Force Base (PSFB)
+                                            6
+(R4, tab 1 at 28) 6 The contract defines “TO” as “task order” in multiple places (e.g.,
+R4, tab 1 at 7, 73, tab 3 at 157) and provides that services will be ordered by task order
+(R4, tab 1 at 73 (FAR 52.216-18)). Applying the plain meaning of paragraph B.2, we
+conclude that “TO” includes all task orders, including both task item number (TIN)
+task orders and negotiated task orders (NETOs). Thus, the first paragraph of
+section B.2 is clear that the government was required to “issue” task orders in the
+minimum amount of $8,000,000. We accord the term “issued” its ordinary meaning
+and conclude that the government issued over $8 million in task orders in FY 2016.
+
+         However, we must also interpret the second paragraph of clause B.2 in
+connection with paragraph B.1. The parties submitted a joint stipulation of fact that
+the reference to “the same or similar services” in clause B.2 was a reference to NETOs
+(jt. stip. ¶ 5). However, at the hearing, NASA asserted a new theory, that the reference
+to “the same or similar services” in clause B.2 was a reference to Contractor Third-
+Party Work (C3PW). The contract, in attachment J-21, provides that it is applicable to
+any work “performed by the Contractor on KSC and paid for via any agreement other
+than this contract, another NASA prime contract, or a NASA subcontract (at any tier)”
+(gov’t hrg., ex. 2 at 1). Testimony at the hearing provided that the clause was intended
+to prevent the contractor from performing work for third parties, such as SpaceX, and
+bypassing NASA. No C3PW work was performed during the relevant period.
+Amentum’s deputy program manager, Mr. Korte, acknowledged at the hearing that
+CP3W work would have counted against the contract minimum if received during the
+applicable period (tr. 2/26).
+
+       As an initial matter, contract interpretation is a question of law, so we are not
+bound to accept the parties’ joint stipulation as to the meaning of clause B.2. The
+second paragraph refers to “the same or similar services . . . regardless of the customer
+requesting such service (s) and the contractual mechanism used to perform the work.”
+We interpret this clause to apply to work, such as C3PW work, being performed for
+parties other than NASA or the Air Force and not performed pursuant to government
+task orders (either TIN or NETO). Thus, read in conjunction with attachment J-21, we
+hold that the “monies received” language in paragraph 2 does not apply to task order
+work, and that the government satisfied the minimum contract value (subject to the
+deobligation issue discussed below) by ordering $8 million in task orders. This is
+consistent with our holding in WSP USA Solutions, Inc., ASBCA No. 62674, 22-1
+BCA ¶ 38,219 at 185,628, that pricing for a task order is set when the task order is
+
+6
+    This language was modified in the follow-on KPLSS II contract to provide that
+          subsequent modifications to task order values would be applied to the year in
+          which the modification is issued (app. supp. R4, tab 27 at 3, ¶ B.2). We do not
+          use the language of a subsequent contract to interpret the meaning of the
+          original contract. See, e.g., Capital Servs., Inc., ASBCA Nos. 40510, 40511,
+          91-1 BCA ¶ 23,310 at 116,907.
+                                             7
+placed. In WSP, the contractor argued that the tasks ordered in one contract year,
+should be billed at the rate applicable to the contract year in which the task was
+actually performed. The language of paragraph B.2 does not specify when in the fiscal
+year the government will place the orders, so we reject Amentum’s argument that
+orders placed late in the fiscal year that could not be performed during the fiscal year
+do not count toward the minimum order value.
+
+        This does not end our analysis, because NASA deobligated a portion of task
+order 20T. As set out in the facts, NETO 20T was awarded for a test kit. After the TO
+was awarded in the amount of $444,951.06, Amentum received another response to its
+solicitation, offering a test kit that satisfied the specifications, and Amentum revised its
+proposal to $110,900.30. Amentum, to its credit, informed NASA about the late
+response and agreed to a bilateral modification on May 19, 2017, decreasing TO 20T
+by $334.050.76. This raises the novel question of whether a reduction in the value of
+the task order, occurring in a subsequent fiscal year, should be deducted from the
+contract award amount in the year the TO was awarded, or the year of the
+modification, or at all. Surprisingly, this appears to be a question of first impression.
+The parties did not cite to any case law on the question, and we were unable to locate
+any authority on the subject.
+
+        The government argues, based upon the GAO Red Book of fiscal law, that the
+task order was an unmatured obligation, subject to cancellation, but that the agency
+obligation was fixed at the time of award (gov’t resp. at 32). Thus, the government
+argues that the obligation was valid when issued, so it should count against the
+contract minimum order value and a descope should apply to the year of the
+modification because the contractor controls performance (id.). However, fiscal law
+provisions relate to agency budgeting, not contractual rights. Hearing testimony
+demonstrated that for the TIN-based task orders, work ordered but not performed or
+ultimately not needed by the government would be descoped and that the government
+would deobligate the funds for the year in which the task order was issued (tr. 2/158-
+60). The government argues that “there is no evidence in the record to show that
+negotiated task orders . . . would be descoped or deobligated in the same way” (gov’t
+resp. at 31). However, it is equally true that there is no evidence in the record, that the
+NETOs should be treated different from other task orders. Further, the government
+asserts that the descope or deobligation of a NETO is a “rare occurrence” and that the
+“often lengthy performance periods” require that the deobligated amount apply against
+the contract minimum for the year in which the modification occurs (id.). However,
+the government cites no authority for this position.
+
+       Based on the record before us, and with the contract being silent on the
+treatment of deobligated funds, we hold that the deobligated task order amount,
+$334,050.76, should be deducted from the ordering amount for the year the task order
+was issued, consistent with NASA’s treatment of TIN-based task orders. Accordingly,
+
+                                             8
+the government ordered $7,948,964.11 during the FY2015 ordering period—
+$51,035.89 less than the minimum order amount. 7 The government’s failure to order
+the minimum quantity is a breach of contract.
+
+       The government additionally argues that Amentum waived its claim for failure
+to order the minimum quantity by agreement to the bilateral contract modification that
+descoped the task order (gov’t resp. at 33). The modification contained the following
+release language:
+
+                The parties hereto agree that this supplemental agreement
+                represents a complete and equitable adjustment. URS
+                hereby releases the Government from any and all liability
+                or claims under this contract for any further equitable
+                adjustments attributable to such facts or circumstances
+                giving rise to proposal dated April 7, 2017, and all
+                revisions thereto.
+
+(App. supp. R4, tab 30 at 5) The government fails to explain how its failure to meet
+the minimum ordering requirement is within the scope of the release which, by its
+terms, applies to “further equitable adjustments attributable to such facts and
+circumstances giving rise to [the] proposal dated April 7, 2017.” The amount of
+services ordered by the government was not a “fact or circumstance giving rise to the
+proposal,” hence, we hold that Amentum did not waive its claims by signing the
+bilateral modification and that the Air Force breached the contract by failing to order
+the contractual minimum amount.
+
+         Findings of Fact Pertaining to Claim 2 ASBCA No. 62836: SSPF Reduced
+         Maintenance
+
+       The KPLSS contract included TIN 510 for “Fixed Systems Maintenance –
+SSPF Systems” that provided routine maintenance for different types of systems
+across two buildings within the Space Station Processing Facility (SSPF):
+
+                Fixed System Maintenance – Space Station Processing
+                Facility (SSPF) shall include all tasks and resources
+                necessary to maintain the assigned pneumatic, cryogenic
+                and vent systems at the following facilities:
+                M7-0360 Space Station Processing Facility GO2
+                LN2/GN2Ghe Bair
+
+7
+    Amentum asserts that TO NNK160M17T was partially descoped on January 8, 2018,
+       and that it will address the specific shortfall in the quantum phase (app. br. at 16
+       n.3).
+                                              9
+              M7-0361A Ammonia Vapor Containment Building GN2
+
+(R4, tab 2 at 122) After KPLSS was awarded, the International Space Station
+department (which occupied the facilities covered by TIN 510) determined that for the
+foreseeable future it no longer needed a subset of systems in these facilities (app. supp.
+R4, tab 32 at 2). The department wanted to deactivate the unneeded subset and stop all
+routine maintenance on that subset of systems, while continuing the routine
+maintenance of the remaining active subset of systems (R4, tab 8 at 212-13; tab 1
+at 243–45). The unneeded subset of systems was deactivated under task order
+NNK15539043R, dated August 1, 2016 (R4, tab 13 at 242–45).
+
+       The parties subsequently disagreed regarding the proper way to modify the
+contract to provide the reduced level of service. The contract contained attachment
+J-02 which described “Maintenance Services” in § 00500 as follows:
+
+              Maintenance Services are for fixed systems at a customer
+              location or facility, or customer dedicated or owned mobile
+              and portable equipment. Customer dedicated equipment
+              and fixed systems may be for a specific customer or a
+              specific subset of customers that is not shared by multiple
+              customers. Active Maintenance requires all the
+              maintenance as stated within the appliable OMI or job
+              plan.
+
+(R4, tab 2 at 120) The same section of Attachment J-02 § 00500 describes
+“downmode maintenance” as follows:
+
+              For the fixed system maintenance, downmode maintenance
+              will be the active maintenance with (1) no filter change-out
+              required and (2) relief valve operational check within three
+              years of previous operational check. Any non-routine
+              maintenance on the 00500 services TINS shall be
+              negotiated on an as-needed basis and executed through
+              issuance of a TO utilizing TIN XXX702 Technician
+              Hourly Rate and the cost of replacement parts.
+
+(Id.) The Contract contains the following definition for “Downmode:”
+
+              Downmoded: Systems or Equipment that has no current
+              requirement but may in the future. The system or
+              equipment will be stored and little or no maintenance will
+              occur as based on the OMI or JP requirements. If the
+              equipment is needed, it can be returned to active status.
+
+                                           10
+(R4, tab 3 at 143) The Contract contains the following language in section B.1:
+
+              Downmode Maintenance: If a customer requires the
+              downmode maintenance, as described in Attachment J-02,
+              Catalog of Services to be Provided, Series 00500
+              Maintenance Services for Fixed Systems, the Contractor
+              will be notified 30 days in advance of the applicable
+              Government Fiscal Year (GFY). The maintenance will be
+              performed at a downmode level for the entirety of the
+              GFY. The percent reduction will be applied to the
+              applicable TINs for which downmode maintenance will be
+              performed. The percentage for any applicable downmode
+              TIN is decreased by 3.0%.
+
+(R4, tab 1 at 7)
+
+       The government never considered using the downmode maintenance provision
+of the contract to address the reduction in maintenance at the SSPF, and instead
+created a new TIN 528 (tr. 2/165). In estimating the cost of new TIN 528, NASA
+estimated that the remaining active systems would require significantly fewer labor
+hours than the hours required under TIN 510; resulting in an estimated 56.6%
+reduction in required labor hours for the contractor (R4, tab 64 at 1; jt. Stip. ¶ 20).
+More specifically, NASA estimated that the reduced maintenance required by TIN 528
+would result in labor savings of approximately 348.48 labor hours in the first year (R4,
+tab 64 at 1).
+
+        On January 6, 2016, NASA sent Amentum a request for proposal to price the
+new TIN, named 528 SSPF Reduced Maintenance, to perform regular maintenance on
+the remaining active subset of SSPF systems (R4, tab 8 at 212-13; jt. Stip. ¶ 21). In
+proposing its price for the new TIN 528, Amentum estimated the labor and other costs
+that it would save in no longer maintaining the deactivated equipment (R4, tab 9
+at 218). It estimated labor hour savings of approximately 416 hours per year (roughly
+a 20% greater reduction than the government’s own estimate) in the first contract year
+and submitted a price of $1,851.20 per month less than its TIN 510 price, for a
+proposed TIN 528 price of $12,064.39 per month (jt. Stip. ¶ 22). Amentum stated in
+its proposal:
+
+              To price this new TIN, [Amentum] used negotiated TIN
+              510 as a basis and then descoped hours for the work that is
+              not needed under the reduced maintenance. [Amentum]
+              priced: -416 hours for GFY2016, -500 hours for GFY2017,
+              GFY2018, and GFY2020, and -420 hours for GFY2019
+
+                                          11
+             based on the removal of the following equipment from the
+             SSPF Fixed Maintenance Systems (TIN 510).
+
+(R4, tab 9 at 218; jt. Stip. ¶ 23) Amentum stated in its proposal that it used TIN 701
+(Labor Services for Engineers) and TIN 702 (Labor Services for Technicians) as a
+basis for its proposed labor rates in TIN 528 and clarified that TINs 701 and 702 were
+“fully burdened through G&A [General and Administration] and profit. This rate also
+includes a factor that represents materials/ODCs [Other Direct Costs] per hour” and
+because “the TIN rate is fully burdened through G&A, and no additional materials and
+ODCs are being proposed, no additional G&A is being priced” (R4, tab 9 at 219; jt.
+Stip. ¶ 24). The contract required offerors to propose fully burdened rates (R4, tab 1
+at 7).
+
+        In response, NASA requested that Amentum submit a new proposal, from the
+“bottom [] up” (tr. 2/74-75). NASA also requested that Amentum use TINs 701 and
+702 to price labor in the new TIN 528 (tr. 2/74-76). Testimony at the hearing
+demonstrated that when Amentum bid on KPLSS, it did not fully burden the labor
+rates in TINs 701 and 702: “They were burdened through G&A and profit, but they
+had no allocation for any of the cost pools. . . . [W]e assumed we would be using
+[those TINs] infrequently” (tr. 2 /110–11). “[W]e only captured labor, fringe, G&A
+and fee on those. We did not spread any of the cost pools because we didn’t feel that
+those would be executed as much as some of the other work” (tr. 2/55–56). NASA
+agreed to Amentum’s revised TIN 528 proposal, except for its proposed 6.5% profit
+percentage. NASA counteroffered for 4% profit because a 4% profit applied across
+the rest of the contract; the proposed work was within KPLSS’s original scope; and the
+proposed work carried risk and technological innovation levels commensurate to the
+rest of the KPLSS contract. (R4, tab 10 at 222-24) Amentum, through its contract
+administrator, Lisa Shirah, accepted NASA’s counteroffer (R4, tab 11 at 226).
+Amentum’s program manager, Mr. Ostarly, testified that Amentum entered into the
+bilateral modification “just because we got wore out” and that they “rolled and
+accepted the TINs” (tr. 1/88). NASA and Amentum executed bilateral modifications 9
+and 10, which added TIN 528 to KPLSS. Both modifications include release language
+providing that: “This supplemental agreement is entered into pursuant to authority of
+Mutual Agreement of the Parties” (R4, tab 12 at 228, 235).
+
+      NASA subsequently agreed that Amentum could add indirect cost pools in
+proposing pricing, but it did not permit Amentum to apply the indirect cost pools to
+TIN 528 (tr. 2/76-78). NASA incorporated the change into the Solicitation for
+KPLSS II which states:
+
+             (3) The Government recognizes that original TIN prices
+             may include a variety of costs not directly related to
+             performance of each TIN . . . . Therefore, when
+
+                                          12
+              negotiating new or existing TINs during contract
+              performance, the Contractor may propose an amount that
+              represents such apportionment of cost pools applicable to
+              the new TIN price being negotiated.
+
+(App. supp. R4, tab 27 at 4)
+
+        DECISION Claim 2 ASBCA No. 62836: Downmode Maintenance
+
+        Amentum alleges two errors on the part of NASA: first, that TIN 510
+contained a “downmode” maintenance provision that should have been used to price
+the services rather than creating a new TIN 528; and second that Amentum should
+have been allowed to price TIN 528 by subtracting the labor saved from the TIN 510
+price, rather than calculating a “bottom-up” price using labor rates that were not fully-
+burdened in Amentum’s proposal (app. br. at 22). Although not fully developed in the
+briefing, the distinction between top down and bottom up pricing is because Amentum
+failed to fully burden the TIN 701 and 702 labor rates with cost pool allocations
+(tr. 2/55-56, 110-11), despite solicitation instructions to propose fully burdened pricing
+(R4, tab 1 at 7). Thus, a “top down” calculation deducting the labor savings from TIN
+510 would include overhead charges for cost pools (and, in fact could overcompensate
+Amentum to the extent that the labor hour deductions calculated using TINs 701 and
+702 would not reduce the cost pool allocation) but a “bottom up” calculation would
+exclude cost pools in the labor burden for all the labor hours in the TIN.
+
+       However, we need not venture deep into the weeds to determine Amentum’s
+cost pool overhead burden because Amentum agreed to TIN 528 in a bilateral contract
+modification. That is, Amentum and NASA agreed that Amentum would perform the
+work specified in TIN 528 in exchange for the payments specified in TIN 528. A
+bilateral modification constitutes an accord and satisfaction where the parties agree to
+a substituted performance, here a new TIN, in satisfaction of a claim. See, e.g., Moore
+Overseas Constr. Co., ENGBCA No. PCC-125, 98-1 BCA ¶ 29,682 at 147,029. The
+parties’ contractual obligations have been discharged by performance, and there is
+nothing for the Board to review, because Amentum has not alleged facts sufficient to
+cause us to review the contract modification. For example, the Board may decline to
+enforce a bilateral modification where the government possessed superior knowledge,
+breached the duty of good faith and fair dealing, where there was a differing site
+condition, or government caused delay. However, Amentum simply alleges that the
+parties should have agreed to a different dollar amount. Amentum does not allege that
+it was coerced into signing the modification. In fact, Mr. Ostarly testified that he just
+was worn down and gave up (tr. 1/88).
+
+       Amentum argues that the release language in the modification does not prevent
+it from seeking to reopen the modification (app. reply at 11). Amentum cites
+
+                                           13
+Advanced Bus. Concepts, Inc., ASBCA No. 55002, 06-1 BCA ¶ 33,271 at 164,893 for
+the proposition that a bilateral modification does not bar a later claim on the
+modification. However Advanced Bus. Concepts is easily distinguished. That
+decision was on a motion for summary judgment and was not a decision on the merits.
+In addition, in Advanced Business Concepts there was evidence that the parties had
+continued negotiating the terms of the modification after the date of the bilateral
+modification. Id. Amentum asserts that “the parties continued to revisit the issue of
+the proper pricing of new TINs through the remainder of KPLSS I until NASA finally
+agreed with Amentum’s position” (app. reply at 10 (citing tr. 2/76-78)). However, the
+testimony cited by Amentum was that NASA agreed to wage rates including additional
+overhead costs in negotiating new additional TINs after TIN 528 (and the TINs in
+dispute in claim 3 below). There was no testimony of continued negotiations
+regarding TIN 528 (or the claim 3 TINs).
+
+        Amentum also cites (with regard to claim 3 below, but equally applicable here)
+to Mass. Bay Transp. Auth. V. United States, 129 F.3d 1226, 1235-36 (Fed. Cir. 1997)
+(MBTA) for the proposition that we must take into account the circumstances
+surrounding a mutual contract modification to determine if it is an integrated
+settlement (app. br. at 27 n.8). Once again, the authority is easily distinguished. In
+MBTA the Federal Circuit was reviewing a grant of summary judgment when it held
+that it was appropriate to consider the circumstances surrounding a cost that had been
+disputed for three years before the parties signed a change order, in determining
+whether the change order was intended to be a fully integrated settlement of a disputed
+issue. MBTA, 129 F.3d at 1235-36. Here, NASA accepted Amentum’s proposal. At
+the hearing there was conflicting testimony as to whether NASA directed to Amentum
+to calculate its proposal using a “bottom-up” method (tr. 2/74-75, 108-09). NASA did
+question the profit rate on Amentum’s proposal, and Amentum accepted the change
+from 6.5 percent to 4 percent (R4, tab 10 at 222). The bilateral contract modification
+contains no reservations of rights, and states that the “supplemental agreement is
+entered into pursuant to authority of Mutual Agreement of the Parties” (R4, tab 12
+at 228, 235). For the reasons stated above, we deny appeal No. 62836.
+
+        Findings of Fact Pertaining to Claim 3 ASBCA No. 62837: TINs 224-27
+
+        During March and April 2016, the parties negotiated the addition of four new
+task item numbers (TINs 224-27) to the contract, to include the provision of cylinders
+of specialty gases (R4, tab 15 at 248-60, tab 16 at 261-63). Amentum’s proposal used
+negotiated TIN 701A (Engineering Hourly Rate) and TIN 702A (Technician Hourly
+Rate) from Table B.1.1 of the KPLSS contract. These rates were “fully burdened
+through G&A and profit.” (R4, tab 15 at 253, 258) Amentum additionally provided
+that: “While G&A is normally applied to labor and non-labor, since we are utilizing
+negotiated fully burdened labor TINs, we are only applying G&A to non-labor in this
+
+
+                                          14
+proposal” (id. at 253-54, 259). As with TIN 528 in claim 2 above, Amentum initially
+proposed a 6.5% profit to the non-labor aspect of TINs 224–227 (id. at 253-54, 259).
+
+        NASA accepted Amentum’s proposal, except for the proposed 6.5% profit, and,
+for the same reasons as in TIN 528, NASA countered with a 4% profit (R4, tab 10
+at 222, tab 16 at 262–63). Amentum accepted this counteroffer (R4, tab 16 at 262). In
+April 2016, the parties entered into bilateral Modification 8 with the statement that
+“This supplemental agreement is entered into pursuant to authority of Mutual
+Agreement of the Parties” (R4, tab 17 at 265).
+
+               DECISION Claim 3 ASBCA No. 62837: TINs 224-27
+
+        The resolution of claim 3 is similar to that of claim 2. Once again, Amentum
+asserts that it should have been able to propose new labor rates for new TINs (app. br.
+26). Left unsaid is that Amentum wanted to propose new labor rates because of its
+failure to burden the labor hours for TINs 701 and 702 with indirect cost pool
+allocations despite the solicitation’s requirement that bidders propose fully burdened
+labor rates in the TINs (R4, tab 1 at 7). Once again, Amentum entered into a bilateral
+modification with NASA to add the new TINs. As with claim 2, we find that the
+bilateral modification constitutes an accord and satisfaction where the parties agree to
+a substituted performance, here a new TIN, in satisfaction of a claim. See, e.g., Moore
+Overseas Constr. Co., 98-1 BCA at 147,029. The parties’ obligations were discharged
+through performance. Amentum’s argument that we must consider the circumstances
+surrounding the modification is rejected for the same reasons as in count 2. For the
+reasons stated above, appeal No. 62837 is denied.
+
+       Findings of Fact Pertaining to Claim 4 ASBCA No. 62838: Jet Fuel TIN
+
+       The total evaluated contract price for KPLSS consisted of the sum of all the
+offeror’s proposed unit prices multiplied by the government-provided “Best Estimated
+Quantity” (BEQs) for each TIN for all years, plus the proposed price for phase-in (see
+R4, tab 20 at 288-89). The RFP for KPLSS sates, “[n]otwithstanding the BEQs, there
+will be no stated minimum or maximum quantities, per TIN, in the resulting contract.
+BEQs are for evaluation purposes only and do not represent an obligation commitment
+by the Government” (R4, tab 18 at 278).
+
+       Contract TIN 220A – Bulk Kerosene required Amentum to provide jet fuel to
+the customer’s location using a tanker or refueler (R4, tab 2 at 113). Amentum’s fully
+loaded price for jet fuel was $6.99 per gallon for FY 2016, and slightly more in
+subsequent years (see R4, tab 1 at 9). The fully-loaded price for TIN 220A included
+the cost of maintenance of fuel-pumping facilities (app. supp. R4, tab 44 at 3). The
+TIN price was deemed to be too expensive by some users, and NASA subsidized the
+cost of fuel for those customers (tr. 1/55-57, 168-69).
+
+                                          15
+       In early 2018, NASA customer Space Florida, which leased from NASA the
+former Shuttle Landing Facility (SLF), developed its own jet fuel fueling capability
+and discontinued use of KPLSS for that purpose. In addition, NASA and the Air
+Force stopped using the KPLSS contract facilities and purchased jet fuel from Space
+Florida (tr. 1/57). This change greatly reduced use of the KPLSS jet fuel equipment
+(app. supp. R4, tab 47 at 3). By notice dated June 15, 2018, NASA directed Amentum
+to deplete the existing commodity inventory and excess all equipment supporting jet
+fuel support operations (id. at 3, 6). NASA did not issue a contract modification or
+change order deleting TIN 220A, which remained part of the contract (see tr. 1/57).
+Billings under TIN 220A declined from 47,332 gallons in FY 2016 to 6,857 gallons in
+FY 2018, to 0 gallons in FY 2019 and FY 2020 (R4, tab 4 at 170).
+
+              DECISION Claim 4 ASBCA No. 62838: Jet Fuel TIN
+
+        As detailed above, the KPLSS contract had a guaranteed total contract value,
+but did not have guaranteed minimum values for individual TINs. A single award
+IDIQ contract does not provide exclusivity to the contractor. Travel Ctr. V. Barram,
+236 F.3d 1316, 1319 (Fed. Cir. 2001). The proposals were evaluated based on BEQs
+but the BEQ amounts were not contract minimums. Amentum asserts that it is entitled
+to compensation because it had an expectation that it would be able to sell jet fuel
+under the contract (app. br. at 28). Amentum’s theory of recovery is not clear in its
+briefing. Amentum asserts that the minimum quantity requirement of an IDIQ
+contract “does not constitute the outer limit of all of the Government’s legal
+obligations” (id. (quoting Cmty. Consulting Int’l, ASBCA No. 53489, 02-2 BCA
+¶ 31,940 at 157,789)). Amentum also appears to allege a breach of the duty of good
+faith and fair dealing, asserting that NASA “cooperated with Space Florida . . . in its
+efforts to develop an independent jet fueling facility” (app. br. at 27).
+
+        Amentum’s first argument, citing Cmty. Consulting Int’l, asserts that there are
+additional legal obligations on the government beyond the minimum quantity
+requirement in an IDIQ contract. In Cmty. Consulting the Board denied a motion to
+dismiss (treated as a motion for summary judgment) where the contractor asserted that
+the government had denied it the opportunity to compete for additional awards in a
+multiple award IDIQ contract. Cmty. Consulting, 02-2 BCA ¶ 31,940 at 157,789. The
+Board rejected the government’s argument that Community Consulting had received
+the guaranteed minimum award amount, and so was without a remedy. Id. Unlike in
+Cmty. Consulting, where the contract provided appellant with the right to compete for
+additional awards, here Amentum does not cite to contact provisions entitling it to
+relief such as a provision requiring NASA to purchase its jet fuel from Amentum or a
+contractual requirement to purchase a minimum amount of jet fuel.
+
+
+                                          16
+        Turning to Amentum’s second argument, that NASA violated the duty of good
+faith and fair dealing, there is, of course, an implied duty of good faith and fair dealing
+in every government contract. See, e.g., Scott Timber Co. v. United States, 692 F.3d
+1365, 1372 (Fed. Cir. 2012). However, Amentum cites no support in the record of
+government actions breaching that duty, other than the contract modification, which
+simply notes that the shuttle landing facility “changed its supply source” due to Space
+Florida’s installation of a jet fuel tank (app. supp. R4, tab 47 at 3). Amentum put no
+evidence of the alleged cooperation between NASA and Space Florida on the hearing
+record. Instead, Amentum alleges, without citation to the record, that the contract
+provided Amentum with “what amounts to a franchise for pumping all or most of the
+jet fuel used at the Kennedy Space Center” (app. reply at 13). The government
+presented the unrebutted testimony of the Contracting Officer’s Representative for the
+KPLSS contract, Mr. Jonathan Partridge, that to his knowledge nobody from NASA
+asked or encouraged Space Florida to develop its jet fuel facility (tr. 2/189-90). On the
+record before us, we hold that Amentum has not demonstrated a government violation
+of a contract provision and has not demonstrated a breach of the duty of good faith and
+fair dealing. Appeal No. 62838 is denied.
+
+         Findings of Fact Pertaining to Claim 5 ASBCA No. 62839: Hurricane
+         Shutdowns
+
+       The contract, as modified, incorporated NASA clause 1852.242-72 – DENIED
+ACCESS TO NASA FACILITIES (OCT 2015), which provides that NASA may deny
+contractor access to NASA facilities for various reasons including adverse weather
+such as hurricanes. In the event of a facility closure, the contract clause provides that:
+
+                (d) For the period that NASA facilities were not accessible
+                to contractor employees, the contracting officer may –
+                (1) Adjust the contract performance or delivery schedule
+                for a period equivalent to the period the NASA facility was
+                not accessible;
+                (2) Forego the work;
+                (3) Reschedule the work by mutual agreement of the
+                parties; or
+                (4) Consider properly documented requests for equitable
+                adjustment, claim, or any other remedy pursuant to the
+                terms and conditions of the contract.
+
+(Gov’t hrg., ex. 1 at 5) 8
+
+
+8
+    The applicable contract modification was not included in the Rule 4 file; however,
+         the parties had previously stipulated to the language of the contract clause.
+                                            17
+       NASA directed the shutdown of KSC for Hurricanes Matthew (October 5-11,
+2016—five days); Irma (September 8-15, 2017—seven days); and Dorian
+September 3-5, 2019—three days) for a total of fifteen days of base closure (jt. stip.
+¶ 33). Amentum paid its employees during the first two hurricane shutdowns, not
+requiring them to take unpaid leave or personal time off (tr. 2/78). However,
+Amentum did not pay its employees during the shutdown for Hurricane Dorian.
+Employees had the option of taking unpaid leave or personal time off (vacation pay).
+As a result, the union representing Amentum’s hourly workers filed a grievance.
+(Tr. 2/81-82; app. supp. R4, tab 59 at 2)
+
+       Apart from the “ride out” services performed for the Air Force during the
+hurricane shutdowns, Amentum did not perform any work on TINs or other work
+during the hurricane shutdowns. Because the Kennedy Space Center was closed no
+governmental or commercial KPLSS customers ordered nor did Amentum perform
+any TIN work during the shutdowns. (Tr. 2/42-43, 82–83)
+
+        Under the predecessor contract, ISC, a cost-plus contract, Amentum allowed
+employees to charge personal leave time or go unpaid during hurricane closures, and
+the government would pay for Amentum’s costs so Amentum could “pay the labor
+out” (tr. 2/14-15). Amentum discussed with NASA the possibility of submitting an
+REA to recover its extra costs incurred during Hurricanes Matthew and Irma, but
+NASA told Amentum that it would not pay such an REA (tr. 2/44-45, 82-83).
+Amentum consequently chose not to submit an REA to NASA for Hurricanes Matthew
+and Irma at the time (see tr. 2/83). Amentum did submit an REA to the Air Force for
+“ride-out” services performed for the Air Force during the hurricane shutdowns
+(tr. 2/82-83). During each of the hurricane closures under KPLSS, the work that
+would have regularly been performed during that time was either canceled or
+rescheduled (tr. 2/19–21, 194–97). During the hurricane closures, Amentum did not
+reassign its staff to any other non-KPLSS work (tr. 2/22). NASA paid Amentum for
+all of the KPLSS work completed under the contract during the hurricane base
+closures, as well as the work that was rescheduled or adjusted after the shutdowns
+(tr. 2/198).
+
+       During the hearing in these appeals, there was conflicting testimony regarding
+the documentation supporting Amentum’s hurricane shutdown claims. The conflicting
+testimony mostly concerns the sequence of events, such as whether a request occurred
+before or after Amentum’s certified claim. At NASA’s request, Amentum reported to
+NASA the labor hours it had lost during the hurricanes (tr. 2/44-45, 114-18).
+Amentum filed a certified claim for costs incurred during the three hurricane
+shutdowns on June 19, 2020 (R4, tab 4 at 159-60). The Contracting Officer,
+Michael Ahearn, contacted Amentum three times about the certified claim: (1) in
+August 2020, to request additional time to respond to the claim; (2) in October 2020,
+to request additional time to respond to the claim; and (3) in January 2021, to inquire
+
+                                          18
+whether Amentum had previously filed an REA concerning the hurricane shutdowns
+(app. supp. R4, tab 52 at 2-3; tr. 4/9-10). Apart from the information concerning prior
+REAs requested in the January 21, 2021, email, Mr. Ahearn did not request any
+substantive information concerning the hurricane shutdown claim (app. supp. R4,
+tab 52 at 2; tr. 4/10). Amentum’s Susan Germano searched for the information
+Mr. Ahearn requested but was unable to find either a previous REA or emails from
+Ms. Lisa Shirah. The Shirah emails were inaccessible because they were on NASA
+servers to which Amentum no longer had access after Ms. Shirah left the company.
+(Tr. 4/11-12). By email dated January 25, 2021, Ms. Germano advised Mr. Ahearn
+that she was unable to find the information he had requested (app. supp. R4, tab 52
+at 2). The contracting officer requested no other information from Amentum and
+denied the claim 22 days later, on February 16, 2021 (tr. 3/145; R4, tab 5 at 184-85).
+In either its REA or its certified claim, Amentum never provided the government with
+any payroll data or pay stubs to verify it had paid its employees anything during the
+hurricane closures (tr. 2/114–17, 4/13, 16).
+
+          DECISION Claim 5 ASBCA No. 62839: Hurricane Shutdowns
+
+        Amentum seeks compensation pursuant to contract clause 1852.242-72 –
+DENIED ACCESS TO NASA FACILITIES (OCT 2015) (app. br. at 29-33).
+According to Amentum, the “‘[d]enied access to facilities’ is analogous to government
+delay of work in construction and other fixed-price contracts where the government is
+required to compensate the contractor for costs incurred due to changes in the scope of
+work and government-caused delays” (app. br. at 30). However, Amentum ignores the
+distinction between “government-caused” delays and an act of God, such as a
+hurricane. The contract provision provides that in the event of denied access to a
+NASA facility, the contracting officer has four options: adjusting the performance or
+delivery schedule; foregoing the work; rescheduling the work; or considering requests
+for equitable adjustment (gov’t hrg., ex. 1 at 5). From this provision stating that a
+contracting officer “may” consider an equitable adjustment, Amentum asks us to find
+that the contracting officer was required to grant it an equitable adjustment.
+
+       Amentum’s argument ignores the fact that the KPLSS contract was a
+firm-fixed-price contract, so the risk of increased performance costs, absent a contract
+provision providing otherwise, falls on the contractor. See, e.g., Chevron U.S.A., Inc.,
+ASBCA No. 32323, 90-1 BCA ¶ 22,602 at 113,426. NASA clause 1852.242-72 –
+DENIED ACCESS TO NASA FACILITIES, provides that the contacting officer
+“may” take several actions in response to a denial of access to the base, including
+rescheduling the work, forgoing the work, or adjusting the delivery schedule, in
+addition to considering an equitable adjustment. The evidence of record demonstrates
+that NASA paid Amentum for all of the KPLSS work completed under the contract
+during the hurricane base closures, as well as the work that was rescheduled or
+adjusted after the shutdowns (tr. 2/198). To the extent Amentum is relying upon the
+
+                                           19
+clause provision that the contracting officer “may” consider an equitable adjustment,
+such consideration would be reviewed pursuant to an abuse of discretion standard.
+See, e.g., Amatea/Grimberg JV, ASBCA No. 60426 et al., 23-1 BCA ¶ 38,366
+at 186,329-30. Amentum has not established an abuse of discretion on the part of the
+contracting officer. The parties’ dispute regarding the sufficiency of the payroll
+information is not relevant given that the contracting officer was not required to grant
+an equitable adjustment even if the payroll information were proven. Appeal
+No. 62839 is denied.
+
+    Findings of Fact Pertaining to Claim 6 ASBCA No. 62840: Gaseous Nitrogen
+    Support
+
+       The KPLSS contract contained fixed price tasks for launch support and gaseous
+nitrogen contingency support. Launch support (TIN 212) typically involved a single
+technician, but one launch customer required a second technician (tr. 2/202-03).
+Gaseous nitrogen contingency support (TIN 223) involved setting-up equipment to
+provide liquid nitrogen in the event of an outage of the liquid nitrogen plant operated
+by Air Liquide, S.A. during a critical period for launch preparation (tr. 2/35-36).
+Unlike launch support, gaseous nitrogen support required between two and six
+technicians, depending on the customer and type of launch (tr. 3/42). For any given
+launch for which TIN 223 was ordered, Amentum decided how many technicians or
+engineers were required to staff the TIN (tr. 2/211). Information on how many
+technicians or engineers were required to staff the TINs was contained in the GSPN
+handbook, provided to offerors as part of the solicitation documents (tr. 2/209–11).
+Amentum developed the GSPN handbook under the ISC, KPLSS’s predecessor
+contract, and knew how many technicians or engineers were typically required to staff
+each TIN (tr. 2/210–11).
+
+       TIN 212, Launch Support, was defined as follows:
+
+              Launch Support shall include all tasks and resources
+              necessary to provide Ground Support Pneumatics (GSPN)
+              console support at the CCF during a launch countdown or
+              major test and required planning support. This service
+              includes personnel support required to fulfill customer
+              requirements as well as the support DRD 1-15, Launch
+              Readiness Statements; DRD 1-16, System Level Readiness
+              Reviews; DRD 2-7, Launch Readiness Plans; and GSPN
+              post-launch debriefings as described by PWS 3.1.D.i.
+
+(R4, tab 2 at 111)
+
+
+                                           20
+        The contract defined TIN 223, GN2 [Gaseous Nitrogen] Contingency Support,
+as follows:
+
+              GN2 Contingency Support shall include all tasks and
+              resources necessary to provide a contingency GN2 source
+              at the CCF to continue a launch countdown or major test in
+              the event of a failure at the GN2 plant. This service
+              includes [Systems & Equipment] preparation and
+              personnel support required to fulfill customer
+              requirements.
+
+(R4, tab 2 at 114)
+
+        Also relevant to the appeal are TINs 701 (Engineer Hourly Rate) and 702
+(Technician Hourly Rate) (R4, tab 2 at 127). Both TINs provide that the rate is to
+establish “the price for an engineer during normal shift for work that is not
+specifically described above” and “the price for either a propellant or life support
+technician during normal shift for work that is not specifically described above” (id.).
+Ms. Deborah Gorman, Amentum’s Business Operations Manager, testified that
+Amentum bid TIN’s 212 and 223 assuming that the TIN represented the hourly rate
+for a single worker (tr. 2/57). This was because the number of workers could vary,
+and the TINs referenced TINs 701 and 702 which were bid on an hourly basis
+(tr. 2/57-58). Ms. Gorman also testified that a lack of historical information on
+staffing for the TIN was an added source of confusion as to whether TIN 223 was
+being bid on a per worker basis (see tr. 2/58-59, 3/46).
+
+      Amentum’s bid prices for TINs 212, 223, 701 and 702 for FY 2016, beginning
+October 1, 2015, were:
+
+ TIN                 Description                                                  Price
+ 212A                Launch Support                                             $159.06
+ 212B                Launch Support (off shift)                                 $154.94
+ 223A                GN2 Contingency Support                                    $143.48
+ 223B                GN2 Contingency Support (off shift)                        $365.26
+ 701A                Engineer Hourly Rate                                        $61.45
+ 701B                Engineer Hourly Rate (off shift)                            $61.45
+ 702A                Technician Hourly Rate                                      $53.40
+ 702B                Technician Hourly Rate (off shift)                          $77.72
+
+(R4, tab 1 at 9, 11) Thus, TIN 212A, which typically required a single worker was
+billed at $159.06, while TIN 223A, which typically required 4 to 6 workers, was billed
+at $143.48. However, for the off-shift work, TIN 223B was priced more than double
+the rate for TIN 212B ($365.26 vs. $154.94).
+                                           21
+       In accordance with the KPLSS RFP, the government performed a FAR 15.404-
+1(b), Price Analysis, evaluating proposals on the basis of the total evaluated price
+which consisted of the sum of all the offeror’s proposed unit prices multiplied by the
+government-provided BEQs for each TIN for all years, plus the proposed price for
+phase-in (R4, tab 20 at 288–89). During proposal discussions, NASA requested
+additional information from Amentum regarding its overall pricing methodology
+because the total evaluated price was below the minimum contract value (R4, tab 21
+at 293). Amentum’s response to this inquiry included the following statement:
+
+             Business Case was developed by grouping specific TINs
+             anticipated to be used regularly and ensuring allocations
+             were spread among these TINs; purposely identifying TINs
+             where work was more likely to occur (i.e. 300 series – Life
+             Support, 500 – Fixed Systems Maintenance); allocations
+             were not spread evenly among TINs.
+
+(R4, tab 21 at 293)
+
+        Also, during proposal discussions, NASA requested information from
+Amentum concerning its prices for the 300 Series “ELSA” TINs. NASA pointed out
+pricing mistakes to Amentum with respect to those TINs (tr. 3/12–13). The KPLSS
+source evaluation board understood that Amentum’s ELSA pricing was a mistake
+because the price for each ELSA TIN decreased when more units were ordered—that
+is, as originally proposed, the government could order five ELSA units at a price
+significantly lower than the price of ordering a single ELSA unit (tr. 3/12–13).
+Amentum changed its pricing on the ELSAs following proposal discussions (tr. 3/13–
+14). NASA also made note of discrepancies in the prices for TIN 223, but did not
+bring any alleged errors to the attention of Amentum (tr. 3/8-11). The KPLSS source
+evaluation board believed that nuances in pricing of services could be built into
+Amentum’s business case; the source evaluation board did not request a full
+breakdown or specific elements of cost for each service, because it could not evaluate
+that information (tr. 3/15–16). In bidding TIN 223, Amentum priced all tasks and
+resources necessary to provide one technician for one hour to perform GN2
+contingency services. Amentum’s Jerry Korte testified on cross-examination that he
+was aware that TIN 223 would require more than one person, and that he told this to
+the employees drafting the proposal (tr. 1/189-90). He further testified that he was
+aware that the proposal did not propose a price high enough to cover four staff and that
+he questioned the pricing model (tr. 1/190). He accepted the pricing as being a
+business decision to provide a more competitive bid (tr. 1/190-91). He also testified to
+his understanding of Amentum’s pricing strategy of not spreading the price allocation
+evenly among TINs and pricing differently TINs that Amentum thought were more
+likely to be ordered (tr. 1/195-96) Mr. Korte discovered an apparent bid error with
+
+                                          22
+respect to TIN 223 shortly after award (tr. 1/150-51). Korte brought the bid error to
+the attention of NASA’s Ken Madyda, who told him that nothing could be done about
+the error (tr. 1/158-59). NASA’s then-Lead Contracting Officer, Marco Pochy, told
+Amentum, “[L]ook, you bid these prices. We can order these TINs at these prices for
+the life of the contract. And there’s really no recourse” (tr. 1/161).
+
+       DECISION Claim 6 ASBCA No. 62840: Gaseous Nitrogen Support
+
+        Amentum makes two arguments regarding the gaseous nitrogen claim. First,
+Amentum alleges that TIN 223 was ambiguous as to whether it was an hourly price
+per engineer or an hourly price for all necessary labor. Amentum argues that the
+provision should be construed against the drafter (NASA) and be interpreted as an
+hourly rate per engineer. Second, if TIN 223 was not ambiguous, Amentum asserts
+that there was a bidding error that entitles it to relief.
+
+      A. TIN 223 Is Not Ambiguous, And Even If It Were Ambiguous, The
+         Ambiguity Would Be Patent
+
+       According to Amentum, the description for TIN 223 is ambiguous because
+there are only four TINs in the KPLSS contract that are hourly rates, and each of the
+other hourly TINs were for single employees (app. br. at 34). The other hourly TINs
+were 212, console support, and 701 and 702 Labor Services for Engineers and
+Technicians. However, a comparison of the TINs does not support Amentum’s
+argument. TINs 701 and 702 each provide that the rate is to establish “the price for an
+engineer during normal shift for work that is not specifically described above” and
+“the price for either a propellant or life support technician during normal shift for
+work that is not specifically described above” (R4, tab 2 at 127) (emphasis added).
+The language in TINs 701 and 702 are clear that the TIN applies to a single worker,
+“an engineer” or “a propellant or life support technician” (id.). Conversely, TIN 223
+provides that it “shall include all tasks and resources necessary” for gaseous nitrogen
+contingency support “includ[ing] [Systems & Equipment] preparation and personnel
+support required to fulfill customer requirements” (id. at 114).
+
+        Both Amentum and the government claim that TIN 212 supports their
+interpretation of TIN 223. Amentum asserts that TIN 212 was the hourly rate for a
+single worker, and thus the language that the launch support TIN “shall include all
+tasks and resources necessary to provide Ground Support Pneumatics (GSPN) console
+support at the CCF during a launch countdown or major test and required planning
+support” “include[ing] personnel support required to fulfill customer requirements”
+(id. at 111) was similar to the language in TIN 223 for multiple workers, making the
+language ambiguous. The government, conversely, points to the fact that TIN 212
+could require two workers for some launch customers (see tr. 2/202-03), and thus
+arguing that the language in TINs 212 and 223 was not ambiguous.
+
+                                          23
+       We find that the language in TIN 223 was unambiguous in requiring “all tasks
+and resources necessary” and that it was not an hourly rate per worker. To the extent
+Amentum thought that it must be a cost per worker because of the variable staffing
+requirements of the TIN, it would be a patent ambiguity, requiring Amentum to
+inquire, rather than bidding on what it guessed the language to mean. See, e.g.,
+Lebolo-Watts Constructors 01 JV, LLC, ASBCA No. 59740 et al., 21-1 BCA ¶ 37,789
+at 183,432-33, aff’d, Lebolo-Watts Constructors 01 JV, LLC v. Army, 2022 WL
+499850 (Fed. Cir. Feb. 18, 2022) (nonprecedential).
+
+      B. Amentum Has Not Established a Bidding Error
+
+      Amentum’s final argument is that there was a bidding error. To recover for a
+bidding mistake, Amentum must establish that:
+
+             (1) a mistake in fact occurred prior to contract award; (2)
+             the mistake was a clear-cut, clerical or mathematical error
+             or a misreading of the specifications and not a judgmental
+             error; (3) prior to award the Government knew, or should
+             have known, that a mistake had been made and, therefore,
+             should have requested bid verification; (4) the Government
+             did not request bid verification or its request for bid
+             verification was inadequate; and (5) proof of the intended
+             bid is established.
+
+McClure Elec. Constructors, Inc. v. Dalton, 132 F.3d 709, 711 (Fed. Cir. 1997).
+
+        Amentum contends that its bid error was clerical or due to a misreading of the
+specifications, because Amentum obviously bid the cost of a single technician (app. br.
+at 35). Ms. Gorman’s testimony supports this point (tr. 2/57). However, Mr. Korte’s
+testimony on cross-examination calls into question whether this was actually a
+judgmental error. Mr. Korte admitted that he told the employees drafting the proposal
+that TIN 223 would require more than one worker, and that he was aware that the
+proposal did not propose a price high enough to cover four staff and that he questioned
+the pricing model, but accepted the pricing as being a business decision to provide a
+more competitive bid (tr. 1/189-91). Even assuming that Amentum has established
+that its bid was a misreading of the specifications, we find that Amentum has not
+established by preponderated evidence that NASA knew or should have known that
+Amentum made a mistake in its bid. The list of hourly TIN prices shows that
+Amentum bid $159.06 per hour for launch support (TIN 212A) which was typically
+performed by one technician, but sometimes two, and $143.48 for gaseous nitrogen
+contingency support (TIN 223A), which was typically performed by two to six
+technicians. The government asserts that it was unaware of a bidding error because it
+
+                                          24
+ performed a FAR 15.404-1(b), Price Analysis, evaluating proposals on the basis of the
+ total evaluated price which consisted of the sum of all the offeror’s proposed unit
+ prices multiplied by the government-provided BEQs for each TIN for all years, plus
+ the proposed price for phase-in (R4, tab 20 at 288-89). Moreover, the government
+ points to the fact that Amentum had used a bidding strategy that did not allocate costs
+ evenly among TINs but “group[ed] specific TINs anticipated to be used regularly and
+ ensuring allocations were spread among these TINs; purposely identifying TINs where
+ work was more likely to occur” (R4, tab 21 at 293; see also tr. 1/195-96).
+ Amentum’s proposal used a business strategy that sought to make its proposal more
+ competitive by not allocating costs evenly among TINs. This strategy resulted in TIN
+ rates that were questioned by Amentum’s own employees (see, e.g., tr. 1/190). Given
+ Amentum’s pricing for certain TINs, such as TIN 212 being cheaper off-shift than
+ regular shift while the off-shift rate for TIN 223 was more than double the regular shift
+ rate, we conclude that the government did not know and should not have known of a
+ pricing error regarding the TIN 212 and TIN 223 rather than it being a business
+ decision.
+
+                                     CONCLUSION
+
+         For the reasons stated above, we grant appeal ASBCA No. 62835 and return it
+ to the parties to negotiate quantum. Appeals ASBCA Nos. 62836, 62837, 62838,
+ 62839, and 62840 are denied.
+
+           Dated: October 25, 2023
+
+
+                                                 DAVID D’ALESSANDRIS
+                                                 Administrative Judge
+                                                 Armed Services Board
+                                                 of Contract Appeals
+
+I concur                                           I concur
+
+
+RICHARD SHACKLEFORD                                J. REID PROUTY
+Administrative Judge                               Administrative Judge
+Acting Chairman                                    Vice Chairman
+Armed Services Board                               Armed Services Board
+of Contract Appeals                                of Contract Appeals
+
+
+                                            25
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA Nos. 62835, 62836, 62837,
+62838, 62839, 62840, Appeals of Amentum Services, Inc., f/k/a AECOM Management
+Services, Inc., rendered in conformance with the Board’s Charter.
+
+      Dated: October 26, 2023
+
+
+                                               PAULLA K. GATES-LEWIS
+                                               Recorder, Armed Services
+                                               Board of Contract Appeals
+
+
+                                          26

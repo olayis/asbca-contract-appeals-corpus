@@ -1,0 +1,1038 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeal of --                                )
+                                            )
+KBJ, Inc.                                   )      ASBCA No. 58512
+                                            )
+Under Contract No. NNC11CA18C               )
+
+APPEARANCE FOR THE APPELLANT:                      Joseph R. Spoonster, Esq.
+                                                    Harpst Ross Ltd.
+                                                    Uniontown, OH
+
+APPEARANCES FOR THE GOVERNMENT:                    Scott W. Barber, Esq.
+                                                    NASA Chief Trial Attorney
+                                                   Laura A. Henry, Esq.
+                                                   Tamika S. Laldee, Esq.
+                                                   MacAllister A. West, Esq.
+                                                    Trial Attorneys
+                                                    NASA Glenn Research Center, OH
+
+                  OPINION BY ADMINISTRATIVE JUDGE SCOTT
+
+       Appellant, KBJ, Inc. (KBJ), appealed pursuant to the Contract Disputes Act
+(CDA), 41 U.S.C. §§ 7101-7109, from the contracting officer's (CO's) final decision
+denying its $558,791.33 suspension and delay claim under the captioned contract to
+replace two boilers at the National Aeronautics and Space Administration's (NASA's)
+Glenn Research Center (GRC). The Board conducted a two-day hearing in Cleveland,
+Ohio. We decide entitlement and quantum. For the reasons set forth below, we sustain
+the appeal in part and otherwise deny it.
+
+                                 FINDINGS OF FACT
+
+        1. On 16 March 2011 NASA awarded the subject contract, a section 8(a)
+set-aside, to KBJ in the firm-fixed-price of $3,621,900 (R4, tab 3 at 42, tab 5 at 59-60;
+tr. 2/18). Under the contract, KBJ was to remove and replace Boilers 3 and 4 at GRC's
+steam plant, based upon a design provided by NASA (R4, tab 5, attach. A at 122-102;
+tr. 2/18). The boilers, which were about 18 feet wide, 30 feet long, and 28 feet tall,
+operated 365 days of the year to provide heat and humidification to GRC's approximately
+350-acre campus. They were critical to GRC's operations, including daily support of
+significant research projects and experiments. The steam plant was very old and the
+boilers needed to be upgraded to make the plant more cost-effective and functional.
+(Tr. 1/23, 127-29, 174, 2/18-19)
+        2. To facilitate installation of the replacement boilers, KBJ was required to demolish
+a portion of the existing masonry wall on one face of the steam plant building and, after
+installation of the new boilers, reconstruct the wall with new energy efficient light panels
+and an insulated overhead door. KBJ was also required to provide a new combustion air
+system for the steam plant; replace two low pressure steam condensate collection and return
+pumps with non-electric pressure-powered units with steam pressure equalization tanks;
+install new conduit and wire for new boiler fans and blowers; install compatible starters for
+the boiler in the motor control center; and replace low voltage electrical distribution panels
+and associated feeders. (R4, tab 5, attach. A at 122-007 to -008)
+
+       3. On 11 February 2011, prior to contract award, NASA issued solicitation
+Amendment No. 2, answering prospective bidders' questions (R4, tab 1 at 7-16).
+Question 18 asked whether NASA would consider a schedule extension "due to the boiler
+lead time," noting that the replacement boilers would be "delivered at just about the time
+NASA wants them to be activated." NASA had responded that its "intention is for the
+work to be complete per the solicitation." (Id. at 11)
+
+        4. The contract anticipated the presence of asbestos-containing materials during
+work performance and required KBJ to remove them. It provided that the asbestos work
+included the removal of 1,000 square feet of boiler insulation material. (R4, tab 5, attach.
+A at 122-008, -102) Pre-bid Question No. 14 had asked NASA to confirm that the 1,000
+square feet of boiler asbestos abatement included the ductwork extending from the
+boilers. NASA responded that the "1000 sf should include abatement of all asbestos
+necessary to remove boilers 3 and 4 safely." (R4, tab 1 at 10; tr. 2/89) Kevin Stiles was
+NASA's project manager. At the time, he was employed by a private contractor that
+worked for NASA. According to Mr. Stiles, NASA had allotted for 1,000 square feet of
+asbestos for the project and, if additional asbestos were discovered, NASA planned to
+modify the contract to add abatement of that asbestos. (Tr. 2/5-6, 58-59) We find that
+the contract required KBJ to abate only 1,000 square feet of asbestos-containing boiler
+insulation material.
+
+        5. Contract clause H.12 provided that "[t]he Superintendent is considered
+essential to the work being performed under this contract" and it required that KBJ
+identify a superintendent who "shall be dedicated solely to this contract and shall be on
+site full time whenever work is being performed under this contract" (R4, tab 5 at 87).
+
+       6. The contract incorporated numerous Federal Acquisition Regulation (FAR)
+clauses, including FAR 52.233-1, DISPUTES (JUL 2002); FAR 52.242-14, SUSPENSION OF
+WORK (APR 1984); and FAR 52.243-4, CHANGES (JUN 2007) (R4, tab 5 at 67, 103). The
+Suspension of Work clause provided in pertinent part:
+
+                    (a) The [CO] may order the Contractor, in writing, to
+              suspend, delay, or interrupt all or any part of the work of this
+
+
+                                              2
+                                                                                                 Il
+              contract for the period of time that the [CO] determines
+              appropriate for the convenience of the Government.
+
+                      (b) If the performance of all or any part of the work is,
+              for an unreasonable period of time, suspended, delayed, or
+              interrupted (1) by an act of the [CO] in the administration of
+              this contract, or (2) by the [CO's] failure to act within the
+              time specified in this contract (or within a reasonable time if
+              not specified), an adjustment shall be made for any increase
+              in the cost of performance of this contract (excluding profit)
+              necessarily caused by the unreasonable suspension, delay, or
+              interruption, and the contract modified in writing accordingly.
+              However, no adjustment shall be made under this clause for
+              any suspension, delay, or interruption to the extent that
+              performance would have been so suspended, delayed, or
+              interrupted by any other cause, including the fault or
+              negligence of the Contractor, or for which an equitable
+              adjustment is provided for or excluded under any other term
+              or condition of this contract.
+
+       7. NASA issued a notice to proceed to KBJ on 12 April 2011, which it received that
+day (R4, tab 25; compl. ii 12). KBJ was to complete performance within 180 calendar days
+from the issuance of the notice to proceed, i.e., by 9 October 2011 (R4, tab 5 at 67; tr. 1/76).
+From the point NASA approved the contractor's submittals for the new boilers, the lead
+time for boiler manufacture was typically four to six months (tr. 2/29).
+
+        8. KBJ submitted its initial construction schedule on 22 April 2011, which NASA
+did not approve, in part because it was difficult to determine the critical path (R4, tab 26;
+tr. 2/23-24). On 12 May 2011 KBJ resubmitted its schedule, which NASA approved on
+13 May 2011 (ex. G-1; tr. 2/24). Under the approved schedule KBJ planned to begin
+boiler asbestos abatement on 19 May 2011 and complete boiler demolition by 18 July
+2011. Foundation construction for the replacement boilers was to be complete by 28 July
+2011. KBJ planned to begin boiler assembly on 13 June 2011 and to have replacement
+Boilers 4 and 3 on site on 12 and 26 August 2011, respectively. It planned to begin
+replacement boiler installation on 15 August 2011 and to complete work on them by
+14 October 2011. The contract performance period, as planned, was to end on
+4 November 2011. (Ex. G-1; compl. ii 14; gov't hr. at 2; app. hr. at 2, ii 9).
+
+       9. On 26 May 2011 Mr. Stiles gave what he described as a direction to KBJ:
+
+              Regarding the Repair Steam Plant Project, I have been
+              instructed that we are to proceed as follows:
+                                                                                                   I
+                                              3
+              We are free to mobilize at the Steam Plant to perform work
+              that can be started within a reasonable time frame after
+              installing the barricades and to perform work that does not
+              render any of the boilers non-functional at this point. We
+              cannot make boilers 3 or 4 non-functional until we have the
+              new boilers onsite (this includes removing the front wall).
+
+              We will be allowed to take boilers out for short periods (as
+              long as the Steam Plant still remains operational) to replace
+              panels, run new lines, etc[.], and we can do other work in the
+              plant such as replace window[ s], panels, etc. But we cannot
+              take boilers 3 and 4 out of service completely unless we have
+              the new boilers in the Cleveland area.
+
+              As your schedule stands now, this direction will require some
+              changes.
+
+(R4, tab 28) The direction (hereafter sometimes the "suspension directive") had not been
+part of the contract (R4, tab 5; tr. 1/65). It suspended boiler work for an indefinite period.
+According to Mr. Stiles, the reason for the suspension directive was:
+
+              [O]nce we approved the schedule, the NASA facilities
+              management team took a step back and looked at the schedule
+              again and said, well, do we really want to do this, especially
+              given the age of the steam plant.. ..
+
+(Tr. 2/28) NASA reevaluated KBJ's construction schedule after NASA had approved it
+because NASA was concerned that potential delays due to unforeseen conditions and in
+the replacement boilers' fabrication would push the project into the winter. NASA then
+would not have enough steam to fulfill its operational needs. (Tr. 2/28-29) The "thought
+behind suspending the work on the two boilers until the new ones arrived on site[] was
+essentially to minimize risk to NASA" (tr. 2/28).
+
+        10. On 8 June 2011 KBS submitted a schedule to Mr. Stiles based upon NASA's
+direction to delay demolition of the existing boilers until the new boilers arrived in
+Cleveland. KBJ advised that materials storage must be arranged and inquired whether
+NASA would do so or whether KBJ should, subject to a change order. KBJ asked
+whether boiler demolition could begin once the new boilers were in fabrication, which
+would reduce the delay. It also stated that it would "proceed with the window
+replacement, electrical panel replacement, fire protection installation and water line
+installation later this summer in order not to extend our supervision duration and increase
+our costs." (R4, tab 29 at 427)
+
+
+                                              4
+        11. On 9 June 2011 KBJ resubmitted its schedule, under which boiler demolition
+would begin on 5 September 2011, replacement boiler installation would begin
+12 October 2011 and testing of the boilers would be completed by 11 January 2012, with
+full project completion by 1 February 2012. KBJ stated that it would communicate with
+Mr. Stiles later regarding revising the schedule based upon starting demolition when the
+boilers were released for fabrication. (R4, tab 30)
+
+        12. On 13 June 2011 KBJ sent an alternate schedule to Mr. Stiles, based upon
+starting boiler demolition upon release of the replacement boilers, under which KBJ
+would begin demolition on 25 July 2011 and replacement boiler installation on
+15 September 2011; complete boiler testing by 30 November 2011; and achieve full
+project completion by 21December2011. (R4, tab 31)
+
+        13. On 16 June 2011 Mr. Stiles responded that KBJ's 13 June 2011 schedule was
+unacceptable (R4, tab 32 at 440). NASA did not want to risk entering the winter months
+without functional boilers (tr. 2/36-37). Mr. Stiles directed KBJ to provide a schedule
+"detailing any work that [KBJ] would like to still accomplish this summer within the
+steam plant" without rendering Boilers 3 and 4 completely inoperable (R4, tab 32 at 440).
+
+       14. KBJ responded to Mr. Stiles on 20 June 2011 that:
+
+             The activities that we would like to complete this year are as
+             follows:
+             1) install combustion air platform
+             2) install combustion air units, ductwork and piping
+             3) install new water line
+             4) install fire protection system
+             5) window removal and kalwall/louver installation
+             6) option 3, 4 and 5 electrical panel replacement
+             7) relocation of Siemens panels on east wall per drawing
+             ED-101, note 20
+             8) reroute mechanical and electrical systems on east wall for
+             wall opening
+             9) remove radiant heaters and gas piping on east and south
+             walls per drawing MD-102, note 28 & 29
+
+              Please review the above list. If it is acceptable [KBJ] will
+                                                                                            I
+              finalize a work schedule.
+
+(R4, tab 32 at 440)
+
+       15. Bilateral contract Modification (Mod.) No. 1, effective 27 June 2011, added
+steam header replacement to the contract work for an additional $769,344 (R4, tab 6 at
+
+
+                                             5
+144-45; tr. 2/40). Although, at the time, the contract performance period was to end on
+4 November 2011, the modification stated that the period "remains at: August 31, 2012,"
+apparently intended as an extension of the period (R4, tab 6 at 145). The modification
+did not address NASA's 26 May 2011 suspension of boiler work. It concluded:
+
+              The Parties hereto acknowledge and agree that any and all
+              claims for equitable adjustment of the contract price and time
+              pursuant to the provisions of the clause(s) 52.243-04 entitled
+              "CHANGES", and Mutual Agreement are hereby fully
+              satisfied and discharged with respect to this Supplemental
+              Agreement Number One (01).
+
+(R4, tab 6 at 145)
+
+         16. On 22 August 2011, NASA advised that KBJ was to have "100% dedicated
+supervision" on the project (R4, tab 34 at 443-44 ). At this time, only part of one of the
+activities listed by KBJ on 20 June 2011 had been completed (tr. 2/42). On 24 August
+2011, Mr. Stiles inquired whether KBJ was "still planning to do any work inside the
+Steam Plant before Spring, i.e. electrical panels" (R4, tab 34 at 443). KBJ responded on
+25 August 2011 that, based upon the overall project schedule, it would cease work on the
+electrical panel relocation shortly and would still install the waterline in September, with
+a full-time superintendent in place. It would resume work in early 2012 "after NASA
+provides a start date for demolition of boilers 3 and 4." (R4, tab 34 at 443) KBJ did not,
+however, install the waterline until 2012 (tr. 2/43).
+
+       17. On 12 September 2011 Mr. Stiles notified KBJ:
+
+              For construction of the Steam Plant and Steam Header, the
+              dates below are the official guidance from [Facilities
+              Division]:
+
+              March 1, 2012: Boiler 3 demolition can begin
+              April 16, 2012: Begin South Header Replacement
+              June 1, 2012 (or upon completion of S. Header
+              Replacement): Begin North Header and boiler 4 demo
+              Oct 1, 2012: Boiler 4 complete, tested, running, etc.
+              (Assuming boiler 4 install will be first based on Physical
+              location in the Steam Plant)
+              Oct 15, 2012: Boiler 3 complete, tested, running, etc.
+              Oct 15, 2012: Front wall must be reconstructed
+
+
+                                              6
+(R4, tab 35 at 445-46) Mr. Stiles reiterated NASA's requirement that the new boilers be
+in the Cleveland area prior to demolition of the existing boilers. He asked that KBJ
+submit an updated schedule based upon the dates provided. (Id. at 446)
+
+        18. Bilateral contract Mod. No. 3, effective 25 January 2012, for $35,731, added
+work related to the steam header replacement and extended the contract completion date
+to 31December2012. It stated that "claims for equitable adjustment of the contract price
+and time pursuant to the [Changes clause] and Mutual Agreement are hereby fully
+satisfied and discharged with respect to this Supplemental Agreement." (R4, tab 10)
+
+       19. KBJ submitted a revised schedule to Mr. Stiles on 22 February 2012 under
+which it planned to conduct boiler asbestos abatement from 19 March 2012 to 28 March
+2012, replace the south steam header from 16 April 2012 to 11 May 2012, replace the
+north steam header from 14 May 2012 to 8 June 2012, demolish Boilers 3 and 4 between
+4 June 2012 and 6 July 2012, and begin installation of Boilers 4 and 3 on 19 July and
+2 August 2012 respectively. KBJ anticipated completing boiler testing by 3 October
+2012, with a project completion date of 24 October 2012. (R4, tab 36)
+
+       20. On 24 February 2012, Mr. Stiles posed several questions and concerns to KBJ
+regarding its 22 February 2012 schedule. Among other issues, Mr. Stiles asked ifKBJ
+could start the project sooner, subject to proper superintendence. In its 5 March 2012
+response, KBJ advised that it had been told that Boiler 3 demolition could start
+immediately. It sought clarification, in view of Mr. Stiles' prior instruction that no
+demolition could take place until the replacement boilers were in the Cleveland area.
+(R4, tab 37; tr. 2/51-52)
+
+       21. Mr. Stiles replied on 6 March 2012 that KBJ could begin Boiler 3 demolition
+as soon as possible, without the replacement boilers in the Cleveland area. He also
+advised that KBJ should replace the north steam header prior to replacing the south steam
+header, due to NASA's desire to leave Boilers 1 and 2 operational during unpredictable
+April weather, and he asked for an updated schedule. (R4, tab 38 at 451)
+
+      22. Joseph Williams became KBJ's project superintendent between 13 and
+20 March 2012 (see R4, tab 39 at 453, tabs 40-41; tr. 1114, 2/55-56).
+
+       23. KBJ sent an updated schedule to Mr. Stiles on 23 March 2012 with changes
+they had discussed. As with the 22 February 2012 schedule, KBJ projected a project
+completion date of 24 October 2012. (R4, tab 42)
+
+      24. KBJ planned to mobilize its asbestos abatement subcontractor, Neumeyer
+Environmental Services (Neumeyer), during the week of 26 March 2012 (R4, tab 41 at
+457). By mid-April 2012, KBJ had begun demolition of the existing boilers (tr. 2/60).
+
+
+                                            7
+       25. On 17 April 2012 KBJ submitted to Mr. Stiles Request for Information No. 25
+indicating additional asbestos at Boiler 3, attaching a report analyzing a sample, and
+recommending that a more comprehensive survey be undertaken (R4, tab 43 at 462-69).
+A 5 May 2011 report shows that NASA's original survey of Boiler 3 did not detect any
+asbestos (id. at 471-74). Ultimately NASA confirmed that there was additional asbestos
+at Boiler 3 (tr. 2/60).
+
+      26. The replacement boilers were delivered to the Cleveland area on or about
+8 May 2012 (R4, tab 44; tr. 2/60-61).
+
+        27. KBJ submitted a 23 May 2012 proposal to abate the additional
+asbestos-containing insulation discovered at Boiler 3 for $74,250. KBJ's proposal
+included $67 ,500 in subcontractor costs plus five percent markups each for overhead and
+profit. (R4, tab 47)
+
+       28. In response to Mr. Stiles' 24 May 2012 request for.a more detailed cost
+breakdown, KBJ provided a 4 June 2012 proposal with more cost breakdown, at an
+increased price of $74,568 (R4, tab 48 at 485, 488-92).
+
+       29. As the project progressed, KBJ continued to discover additional
+asbestos-containing material in the boilers (tr. 2/63-64). By 5 June 2012, the project was
+behind schedule due to the unforeseen asbestos (R4, tab 50).
+
+       30. On 11 June 2012, KBJ submitted three proposals for additional asbestos
+abatement at Boilers 3 and 4. KBJ would abate the asbestos and demolish each boiler in
+nine weeks, using five eight-hour shifts per week, for $826,885; or it would do so in
+seven weeks, using five ten-hour shifts and one eight-hour shift per week, for $1,000,950;
+or it would do so in five and a half weeks, using ten ten-hour shifts per week, for
+$1,128,138. (R4, tab 52 at 500-14).
+
+       31. KBJ submitted two 21 June 2012 proposals to abate additional asbestos found
+at Boilers 3 and 4 for $25,870 and $136,256, respectively (R4, tab 59). On 12 July 2012,
+KBJ also submitted a $21,450 proposal to abate additional asbestos found at Boiler 3 (R4,
+tab 60 at 541-44 ).
+
+        32. Commencing on 27 July 2012, NASA asked KBJ for a proposal to abate even
+more asbestos (see R4, tab 61at545, tab 64 at 553, 555). The minutes of a 31July2012
+construction progress meeting note a concern, which we infer KBJ raised, that "[a]ll the
+'start/stop' is impacting the job, slowing down progress'" (R4, tab 62 at 549).
+
+      33. Bilateral contract Mod. No. 5, effective 2 August 2012, in the amount of
+$258,937, covered additional work, including the abatement work in KBJ's 23 May,
+21 June and 12 July 2012 proposals. The modification stated that it was entered into
+
+
+                                             8
+under the Changes clause and mutual agreement and that it was a "Supplemental
+Agreement for work within scope" (R4, tab 14 at 280). The contract completion date
+remained 31December2012. Mod. No. 5 did not refer to the suspension directive or
+cover any delays relating thereto. It stated that the parties "acknowledge and agree that
+any and all claims for equitable adjustment of the contract price and time pursuant to the
+[Changes clause] and Mutual Agreement are hereby fully satisfied and discharged with
+respect to this Supplemental Agreement" (id. at 281 ).
+
+       34. On 3 August 2012 KBJ submitted a proposal for $639,898 to fully contain
+Boilers 3 and 4 and completely abate the asbestos in the boilers (R4, tab 64 ).
+
+    35. Mr. Stiles warned KBJ on 6 August 2012 that proposed work done prior to
+NASA's proposal acceptance would be at KBJ's risk (R4, tab 65). KBJ replied that day:
+
+              I think at this point we need to stop Neumeyer then .... we were
+              trying to keep the project going [i]n good faith. We have lost
+              time and money on all of this unforeseen asbestos. We have
+              paid for overtime to help get the project back on schedule. I
+              cannot absorb anymore additional cost. Neumeyer will be on
+              site tomorrow to finish a few things and clean up. I will not
+              bring him back on site until we reach an agreement on the
+              additional asbestos. At this point, we cannot go any further.
+
+(R4, tab 66 at 561)
+
+      36. By letter to Mr. Stiles of 10 August 2012, KBJ stated that, at a 31 July 2012
+meeting to discuss removal of additional asbestos, KBJ was "given a verbal to continue
+working, to keep the project/schedule moving forward" and was asked to submit its
+proposal by 3 August 2012; KBJ complied but on 6 August 2012 NASA advised that
+KBJ would proceed at its own risk (R4, tab 68 at 565). KBJ stated:
+
+             As oftoday ... we still have not received direction from NASA
+             expressing their intentions on how to remedy [the asbestos]
+             issue. All this additional, unforeseen asbestos has caused
+             schedule delays, which in turn has pushed the completion
+             date beyond October 31, 2012. We need to receive a
+             response from NASA today. We will need to discuss the
+             schedule extension and additional costs associated with the
+             schedule extension.
+
+(Id.)
+
+
+                                             9
+        37. NASA ultimately determined that KBJ's 3 August 2012 proposal was too high
+(tr. 2/71). NASA developed an 8 August 2012 internal estimate that the remaining
+asbestos work should cost $326,364 (R4, tab 73; tr. 2/71-73). NASA also obtained a
+13 August 2012 proposal from a different company to do the work for $183,750 (R4,
+tab 72 at 575-77; tr. 2/72-73). NASA provided both figures to KBJ and advised that
+NASA was willing to agree to its own estimated price for the asbestos work (tr. 2/72).
+
+       38. By letter to Mr. Stiles of 17 August 2012, KBJ stated:
+
+                     We have agreed to accept NASA's offer of
+             $326,364.00 plus KBJ's mark up to fully contain boiler 3 and
+             4, and remove the remainder of the asbestos previously
+             identified. The price to complete the subject work is
+             $368, 788.... [O]nce we remobilize, we cannot encounter any
+             additional work stoppages.
+
+(R4, tab 70 at 568) KBJ's markup included bond at 2%, overhead and profit at 5% each,
+and project superintendent costs of $3,250 (id. at 569).
+
+      39. On 20 August 2012, KBJ agreed to accept NASA's $326,364.00 offer,
+without the markup KBJ had originally added (R4, tab 71 ).
+
+        40. Bilateral contract Mod. No. 6, effective 29 August 2012, in the amount of
+$326,364, added the remaining asbestos work, including full containment of the boilers.
+It stated that it was entered into under the Changes clause and mutual agreement and that
+it was a "Supplemental Agreement for work within scope" (R4, tab 16 at 315). The
+contract completion date remained 31 December 2012. The modification did not refer to
+the suspension directive or related delays. It stated that the parties "acknowledge and
+agree that any and all claims for equitable adjustment of the contract price and time
+pursuant to the [Changes clause] and Mutual Agreement are hereby fully satisfied and
+discharged with respect to this Supplemental Agreement" (R4, tab 16 at 316). KBJ has
+not alleged that there was any additional asbestos work beyond that covered by Mod.
+No. 5 (finding 33) and Mod. No. 6.
+
+      41. By letter to CO Erick N. Lupson dated 19 September 2012, KBJ stated:
+
+             As a recap to our recent discussions over [Mod. No. 6], the
+             Project schedule, and time extension impacts to KBJ - this
+             letter confirms that NASA acknowledges that KBJ is not in
+             agreement with the new December 31, 2012 completion date
+             set forth in [Mod. No. 6]. In fact, KBJ has notified NASA
+             (via the revised schedule which was provided before [Mod.
+             No. 6] was issued and in our recent meetings) that in light of
+
+
+                                            10
+               the additional asbestos abatement and associated critical path
+               delays, the Project cannot be completed until February 28,
+               2013.
+
+               KBJ reserves all rights associated with seeking an equitable
+               adjustment in both its contract price and contract time due to
+               the asbestos-abatement delays that were outside of KBJ' s
+               scope of work and control. KBJ is preparing and will be
+               submitting shortly a request for equitable adjustment for its
+               indirect time extension/delay costs that exceed the direct costs
+               of $326,360 [sic] contained in [Mod. No. 6]. KBJ is asserting
+               its right to further adjustment pursuant to [the Changes
+               clause].
+
+(Ex. A-60)
+
+        42. By letter to the CO dated 4 October 2012, a Thursday, KBJ submitted a
+certified claim for $558,791.33 and a time extension to 28 February 2013, stating that the
+claim was comprised of a schedule analysis and damages calculated by its consultant,
+"Timothy T. Calvey, PE, PSP, CPE" (R4, tab 20 at 388). The manner by which KBJ sent
+the claim letter and the date the CO received it are not of record. We infer that, even if sent
+by regular mail, he would have received it by Monday, 8 October 2012. The claim cited
+the Changes clause but referred to NASA's work suspensions. KBJ stated that the claim
+was based upon asbestos-abatement delays that were outside its scope of work and control,
+and upon NASA's early project suspension in 2011. KBJ sought, inter alia, to recover its
+general and administrative (G&A) costs associated with the "unanticipated NASA-caused
+suspension of the work" (id. at 390). KBJ reiterated its contention that NASA had
+acknowledged that KBJ did not agree with Mod. No. 6's 31December2012 completion
+date. KBJ sought $53,833.33 in additional subcontractor and materials costs for the period
+it was suspended, measured from 24 October 2012, which included its overhead and profit
+at 5% each and bond at 2%. It also claimed $371,909 in home office overhead, calculated
+at a daily rate of$1,047.63, multiplied by 355 days of alleged delay resulting from
+NASA's project suspension due to "operability concerns with Boiler Nos. 3 and 4 during
+the winter of 2011" (id. at 3 89). KBJ used the Eichleay 1 formula in calculating its
+suspension and delay claim (id.; tr. 1143). Using the same $1,047.63 daily rate, KBJ also
+sought $133,049 in home office overhead for 127 days of alleged asbestos-related delays
+from "the post-suspension agreed upon completion date of October 24, 2012 through
+[KBJ's projected] completion date of February 28, 2013" (R4, tab 20 at 393). KBJ
+included a comparison of its initial schedule, the schedule following the suspension, and a
+schedule reflecting the alleged additional asbestos impacts (id. at 392).
+
+
+1   See Eichleay Corp., ASBCA No. 5183, 60-2 BCA ~ 2688 at 13,568, ajf'd on recon., 61-1
+         BCA ~ 2894, discussed below.
+
+                                              11
+       43. The CO denied KBJ's claim on 30 November 2012, based principally upon
+alleged releases in the contract modifications although, unlike in the modifications, the
+release language he quoted referred to the Disputes clause as well as the Changes clause
+(R4, tab 22 at 397). 2 On 18 January 2013 KBJ appealed to the Board, which docketed the
+appeal as ASBCA No. 58512. On 16 October 2014 NASA terminated the contract for
+default and asserted a monetary claim against KBJ (R4, tab 95). KBJ's appeal from that
+decision, docketed as ASBCA No. 59785, is subject to separate proceedings.
+
+        44. KBJ proffered Mr. Calvey, vice president of Calvey Consulting, LLC,
+identified in its claim, as an expert witness. He has a Bachelor of Science degree in
+engineering, a Master's degree in business administration and, among other credentials, is
+a registered professional engineer, certified professional estimator, and certified planning
+and scheduling professional. He has over 30 years of pertinent professional experience.
+He has lectured and published articles on construction claims, schedule analysis and
+delays and has previously testified as an expert witness. As his expert report, he relied
+upon his claim analysis and a Microsoft PowerPoint presentation that referred to exhibits.
+He submitted his curriculum vitae, his agreement with KBJ, and his invoices. Over
+NASA's objection, the presiding judge admitted Mr. Calvey as an expert in schedule and
+damage analysis. (Tr. 1141-52, 97, exs. A-61, -62; Bd. corr., app. witness list) NASA did
+not proffer an expert and did not engage in any discovery or ask to do so (see tr. 21121).
+
+       45. Mr. Calvey opined that the project's critical path consisted of demolishing the
+existing boilers, new piping installation, new boilers installation, connecting piping to the
+boilers, boilers insulation, and starting the boilers, and that delaying removal of the
+existing boilers would impact the project's completion date. (Tr. 1/72-74) KBJ's
+superintendent, Mr. Williams, and NASA's Mr. Stiles, similarly testified that the
+project's critical path consisted of demolition of the existing boilers and installation of
+the replacements (tr. 1114-15, 2/89). We find that the project's critical path consisted of
+the demolition, followed by the replacement, of Boilers 3 and 4.
+
+        46. Mr. Calvey testified that KBJ originally planned to demolish Boilers 3 and 4
+prior to the delivery of the new boilers and that NASA's suspension directive that
+Boilers 3 and 4 must remain functional until the replacement boilers were in the
+Cleveland area resulted in a project delay (tr. 1165, 67; finding 9). He stated that KBJ did
+not know when it could start work again until NASA's 12 September 2011 notification
+that it could begin demolition of Boiler 3 on 1 March 2012 (tr. 1/79; finding 17).
+Mr. Calvey stated that the new boilers had been assembled and payment for the assembly
+had occurred in August 2011, so the boilers could have been installed per KBJ' s original
+
+
+2
+    The CO stated that KBJ had reduced its claim from $558,791.53 to $508,000.00 but
+        KBJ characterized the latter figure as a counter settlement offer in response to an
+        informal offer from NASA (R4, tab 21).
+
+                                              12
+schedule but for the NASA-imposed delay in boiler demolition (tr. 1/69, 81-82). Relying
+upon KBJ' s contemporaneous schedules, Mr. Calvey opined that the delay in Boilers 3
+and 4 demolition pushed the project completion date from 4 November 2011 to
+24 October 2012 (tr. 1/82-83), a total of355 days.
+
+       47. Concerning the alleged delay stemming from NASA's suspension directive,
+CO Lupson testified that, from his understanding, there had been other work that had to
+be performed prior to the boilers' demolition (tr. 11158). However, he mentioned only
+window work and other work that "wasn't really related to the boilers," stating that he
+could not be specific because he lacked the technical expertise (tr. 11165).
+
+        48. Mr. Stiles noted that KBJ had identified nine activities other than boiler work
+that it could perform during 2011 (tr. 2/36; finding 14). He acknowledged that some of
+that work could have been impacted by the boiler work, but testified that the majority of
+it could have been completed in 2011 (tr. 2/90).
+
+       49. KBJ' s superintendent Williams countered that the nine activities could not
+have been accomplished in 2011. Although he arrived in March 2012, he testified that he
+was aware of the 2011 site conditions and, because the boiler room work had not been
+performed, conditions were the same in March 2012 as they would have been in
+September 2011 (when NASA notified KBJ of the date it could begin boiler demolition).
+(Tr. 21110-15; finding 17)
+
+        50. We find that NASA's suspension directive to KBJ to refrain from demolishing
+Boilers 3 and 4 until the replacement boilers were on site delayed the project's critical
+path work by 109 days as set forth below. We do not accept Mr. Calvey's reliance upon
+KBJ' s contemporaneous schedules to determine the length of the delay. The record
+supports a different calculation. NASA informed KBJ that it could begin demolition of
+Boiler 3 on 1March2012 (finding 17). KBJ's contemporaneous schedules projected a
+completion date of 24 October 2012 (findings 19, 23 ). The difference between the
+1 March 2012 and 24 October 2012 dates is 23 7 days, longer that the original 180-day
+contract performance period. Mr. Calvey did not explain how all of those extra days
+were attributable to NASA's suspension of boiler activities. We attribute the delay
+between NASA's 26 May 2011 directive to KBJ not to demolish the existing boilers and
+its 1 March 2012 demolition commencement date, a total of 280 days, to the government.
+That delay was indefinite for 109 days, from 26 May 2011 until NASA's 12 September
+2011 notice to KBJ that it could begin Boiler 3 demolition on 1 March 2012. It was for a
+definite period thereafter. We attribute the delays between 1 March 2012 and the start of
+Boiler 3 demolition to KBJ. KBJ's 5 March 2012 inquiry to NASA about the
+requirement that replacement boilers be in the Cleveland area before demolition of
+Boilers 3 and 4 could begin suggests that the replacement boilers were not yet on site
+(finding 20). However, Mr. Calvey testified that the new boilers had been assembled in
+                                                                                              Ir
+August 2011 (finding 46). KBJ gave no explanation why they could not have been
+
+
+                                             13
+brought to the Cleveland area upon, or at a reasonable time after, NASA's 12 September
+2011 notice that KBJ could begin demolition on 1March2012. KBJ has not explained
+the delay in delivery of the replacement boilers until May 2012. It was only able to start
+demolition work sooner because NASA revoked its instruction that the replacement
+boilers first be in the Cleveland area (finding 21 ).
+
+       51. We find KBJ responsible for the delay in the non-boiler work KBJ identified
+to NASA on 20 June 2011 as work that could be performed while the boiler work was
+suspended (finding 14). Although Mr. Williams testified that the work could not have
+been performed in 2011 (finding 49), he was not KBJ' s superintendent until March 2012
+(finding 22), and we credit KBJ's contemporaneous statement about the work that could
+be performed in 2011. KBJ has presented no evidence that the delay in completing that
+work was caused by NASA. The record is insufficient for us to calculate that delay.
+Regardless, the project's critical path was driven by the boiler work (see finding 45). We
+find that this non-boiler work was not on the critical path and was insubstantial in
+comparison to the contract work as a whole.
+
+        52. Mr. Calvey opined that NASA delayed the project by its "lack of decision on
+the asbestos and the added scope of asbestos that was not included in the original contract
+scope" (tr. 1/96), and that this delayed the critical path work and extended the project's
+completion date from 24 October 2012 to 28 February 2013 (tr. 1189, 95-96), a total of
+127 days. He did not apportion this delay between the delay in issuing the contract
+modifications to add the asbestos work and the time necessary to perform that additional
+work. The contract required KBJ to abate 1,000 square feet of asbestos-containing boiler
+insulation material (finding 4 ). Because KBJ could not complete boiler demolition, a
+critical path item, without abating the asbestos, we attribute the delays caused by the
+additional asbestos encountered to NASA. We accept Mr. Calvey's unrebutted testimony
+that NASA's delay in deciding how to address the additional asbestos and the added
+abatement together delayed the project by 127 days.
+
+        53. NASA contends that KBJ could obtain replacement work during the delay
+period because, on 7 June 2012 it selected KBJ for an $86,125 project (R4, tab 75 at 584;
+tr. 2176-77); on 3 August 2012 KBJ bid $525,805.52 on a GRC project, although its bid
+was unsuccessful (R4, tab 76; gov't br. at 19); and on 19 September 2012, NASA
+selected KBJ for a $171,574 project (R4, tab 77 at 606). The total $783,504.52 value of
+these projects, including the largest one for $525,805.52 that KBJ was not awarded, was
+$783,504.52. This is less than half the $3,621,900 value of the subject steam plant
+contract as originally awarded (finding 1).
+
+
+                                            14
+                                         Quantum
+
+        54. KBJ submitted proposals from its subcontractors seeking additional
+compensation for being delayed until 2012 (ex. A-56). Mr. Calvey added the
+subcontractors' requested amounts to arrive at the $53,833.33 subcontractor and materials
+costs sought by KBJ in its claim (tr. 1/102; finding 42). We find the subcontractor'
+proposals insufficient to show either that their labor and material costs actually increased
+or the extent of any such increase. Because KBJ offered no other evidence on these
+points, it has failed to prove any subcontractor cost escalation.
+
+        55. KBJ seeks to recover unabsorbed overhead costs pursuant to the Eichleay
+formula. Mr. Calvey computed a $1,047.63 daily overhead rate (R4, tab 20 at 390;
+tr. 1/99). NASA does not challenge this calculation or offer an alternate one. We adopt
+the unchallenged $1,047.63 daily overhead rate and, as we discuss below, conclude that
+KBJ is entitled to recover 109 days of unabsorbed overhead costs resulting from NASA's
+suspension of demolition of Boilers 3 and 4.
+
+                                      DISCUSSION
+
+                              Preliminary Evidentiary Issues
+
+        I. NASA's Objection to Admission of Mr. Williams' Disputed Testimony
+
+        At the hearing, NASA objected to testimony by Mr. Williams regarding whether
+work KBJ identified to NASA on 20 June 2011 could have been accomplished in 2011.
+Because Mr. Williams was hired in March 2012, NASA argued that he lacked requisite
+personal knowledge to give such testimony. The presiding judge overruled NASA's
+objection. (Tr. 2/109-12) In its brief, NASA renews its objection to Mr. Williams'
+testimony regarding events prior to March 2012 as outside his personal knowledge,
+citing, inter alia, FED. R. Evm. 70l(a) (gov't br. at 62-63).
+
+       FED. R. Evm. 701(a) provides that lay opinion testimony must be "rationally based
+on the witness's perception." Under FED. R. Evm. 602, a "witness may testify to a matter
+only if evidence is introduced sufficient to support a finding that the witness has personal
+knowledge of the matter," but "[e]vidence to prove personal knowledge may consist of
+the witness's own testimony." Although we may look to them for guidance, the Federal
+Rules of Evidence are not binding upon the Board. Board Rule 10(c ); Laguna Constr.
+Co., ASBCA No. 58324, 14-1BCAi!35,748 at 174,947-48. In keeping with Board Rule
+lO(c), in addition to appropriate evidence admissible under the Federal Rules, the Board
+will consider evidence admissible in the sound discretion of the presiding judge.
+
+
+                                             15
+      In any event, NASA has not demonstrated any prejudice to it resulting from the
+Board's admission of the disputed testimony. The Board was not persuaded by it and
+gave weight instead to KBJ's contemporaneous evaluation of the work it could do in
+2011(findings14, 51). We deny NASA's objection.
+
+       II. NASA's Objection to Board's Admission of Mr. Calvey as an Expert
+
+        The Board's pre-hearing order provided that if a party offered expert testimony, it
+was to provide a statement setting forth the expert's area of expertise; the subject matter
+of the expert's testimony; and a summary of the expert's opinion and the basis therefor in
+the form of an expert's report. The order referred the parties "generally" to FED. R. C1v.
+P. 26 and FED. R. EVID. 702-705. KBJ, then proceedingpro se, timely submitted its
+witness list one month before the hearing, stating that: Mr. Calvey would "provide expert
+testimony on schedule analysis and damage calculations;" the claim contained a summary
+of his opinions; and they were "based on the project schedules, daily logs, project
+correspondence and company financial records." KBJ provided a summary of
+Mr. Calvey's credentials and included a copy of his curriculum vitae. KBJ also
+submitted a copy of its hearing exhibits. Exhibit A-61, "Calvey Consulting Charts," was
+a printout of his PowerPoint presentation. (See finding 44)
+
+        Prior to the hearing NASA objected to the designation of Mr. Calvey as KBJ's
+expert witness on the ground that the information in its witness list did not satisfy FED. R.
+CIV. P. 26's expert report requirements. KBJ then submitted a list of Mr. Calvey's
+publications, cases in which he had testified as an expert, and information regarding his
+compensation related to this appeal (see finding 44 ). NASA renewed its objection at the
+hearing (tr. 1/44, 46, 49-51 ). The presiding judge overruled it, allowing Mr. Calvey to
+adopt the schedule analysis and damages calculation in KBJ's claim and exhibit A-61 as
+his expert report under the circumstances of this appeal (tr. 1/47-49, 51 ). NASA renewed
+its objection in its post-hearing brief (gov't br. at 63-67).
+
+        Like the Federal Rules of Evidence, although we may look to them for guidance,
+particularly in areas our rules do not specifically address, the Federal Rules of Civil
+Procedure do not apply to the Board. Circle, LLC, ASBCA No. 58575, 15-1 BCA
+ii 36,025 at 175,965. As noted, under Board Rule lO(a), evidence may be admitted in the
+presiding judge's discretion. While Mr. Calvey did not provide a signed expert report
+so-designated, we conclude that the materials he submitted satisfied the Board's
+pre-hearing order and that the presiding judge had ample basis for admitting him as an
+expert witness. NASA did not engage in discovery or ask to do so regarding Mr. Calvey,
+who was identified in KBJ's claim. (Finding 44)
+
+
+                                             16
+      We deny NASA's objection to the presiding judge's admission of Mr. Calvey as
+an expert witness. 3
+
+                       KBJ's Entitlement to an Equitable Adjustment
+
+        KBJ seeks subcontract escalation costs and unabsorbed overhead for the delay
+resulting from NASA's suspension directive that Boilers 3 and 4 could not be demolished
+until replacement boilers were in the Cleveland area, which was not a contract
+requirement (finding 9). It also seeks unabsorbed overhead for the delay due to the
+several occurrences of additional asbestos beyond the 1,000 square feet covered by the
+contract (finding 4).
+
+       NASA alleges that: KBJ has failed to establish that NASA's suspension directive
+unreasonably delayed project completion; KBJ caused concurrent delays; NASA fully
+compensated KBJ under the clear and unambiguous Mod. Nos. 5 and 6 for
+asbestos-related impact and delay costs and those claims are barred by the doctrine of
+accord and satisfaction; KBJ is not entitled to increased subcontractor costs; and KBJ has
+not established entitlement to Eichleay damages.
+
+       KBJ disputes NASA's contentions and asserts that its asbestos-related delay
+claims were not addressed or resolved by the contract modifications. It contends that the
+modifications did not put it on notice that NASA intended them to encompass matters
+other than direct costs of the subject changed work.
+
+      KBJ has not proved that its subcontractor costs increased (finding 54) and that
+unsupported aspect of its claim fails. Accordingly, we address only KBJ' s unabsorbed
+overhead claims. Mod. Nos. 5 and 6, and the release language they contain, do not refer
+
+
+3
+    NASA also makes procedural objections. It objects to the duplication in KBJ's
+      exhibits of documents already contained in NASA's Rule 4 file (gov't hr. at
+      67-68). KBJ bore the extra duplication costs and, when there has been
+      duplication, we have relied upon the Rule 4 file. NASA also objects to having
+      been required to file its post-hearing brief first, which it agreed to do at the close
+      of the hearing at the presiding judge's request. Because KBJ, a small business,
+      was then appearing prose, the judge determined that having NASA file the first
+      brief would be most helpful to the Board and serve as briefing guidance to KBJ.
+      KBJ later retained counsel but the Board declined NASA's request that it alter its
+      briefing order. NASA argues that this placed it "in an inequitable position
+      regarding the ultimate burden of proof' (gov't hr. at 69). The order of briefing
+      does not alter KBJ's burden of proof. Moreover, NASA was not prejudiced. It
+      had ample opportunity in its reply brief to respond to KBJ's arguments. NASA's
+      procedural objections are denied.
+
+                                              17
+to the suspension directive or cover alleged delays relating thereto (see findings 33, 40)
+and NASA does not so claim. We address those delays first.
+
+       In addition to direct costs of contract performance, "a government contractor
+incurs indirect costs which are not attributable to one contract in particular but arise
+because of its general operations." West v. All State Boiler, Inc., 146 F .3d 1368, 13 72
+(Fed. Cir. 1998). Home office overhead costs are:
+
+              [T]hose that are expended for the benefit of the whole
+              business, which by their nature cannot be attributed or
+              charged to any particular contract. In contracting with the
+              government, a company necessarily includes a portion of
+              home office overhead expenses, which it calculates based on
+              the contract's duration, in its estimate of costs to perform the
+              contract.
+
+Altmayer v. Johnson, 79 F.3d 1129, 1132 (Fed. Cir. 1996) (citations omitted). A
+contractor recovers these costs by allocating them on a proportionate basis among all its
+contracts. All State Boiler, 146 F.3d at 1372; B. V. Construction, Inc., ASBCA No. 47766
+et al., 04-1 BCA ii 32,604 at 161,358. Suspension or delay of contract performance
+results in an interruption in payment for direct costs, which in tum causes an interruption
+in payment for overhead; however, overhead costs continue to accrue regardless of direct
+contract activity. This interruption in the stream of payments causes a portion of home
+office overhead costs to be unabsorbed. Nicon, Inc. v. United States, 331F.3d878, 882
+(Fed. Cir. 2003); Wickham Contracting Co. v. Fischer, 12 F.3d 1574, 1577 (Fed. Cir.
+1994 ). The Eichleay formula estimates "proportionate home office overhead that may be
+unabsorbed due to suspension." B. V. Construction, 04-1 BCA ii 32,604 at 161,358. It
+approximates unabsorbed home office overhead costs "by calculating a daily overhead
+dollar amount for the contract in question and multiplying that figure by the number of
+days of delay." Altmayer, 79 F.3d at 1132-33.
+
+       Recovery of unabsorbed overhead under Eichleay, however, is an extraordinary
+remedy. Charles G. Williams Constr., Inc. v. White, 271 F.3d 1055, 1058 (Fed. Cir.
+2001 ). The contractor must meet three prerequisites. It must show that ( 1) there was a
+government-caused delay to contract performance of uncertain duration that was not
+concurrent with a delay caused by the contractor or some other reason; (2) the delay
+extended the performance time, or the contractor completed the work on time but
+incurred additional costs because it had planned to finish earlier; and (3) the contractor
+was required to be on standby during the delay.
+
+        Concerning concurrent delay, "[t]he contractor generally cannot recover for
+concurrent delays for the simple reason that no causal link can be shown: A government
+act that delays part of the contract performance does not delay the general progress of the
+
+
+                                             18
+work when the prosecution of the work as a whole would have been delayed regardless of
+the government's act." Essex Electro Eng'rs, Inc. v. Danzig, 224 F.3d 1283, 1295 (Fed.
+Cir. 2000) (citation and internal quotation marks omitted). Moreover, only work on the
+critical path can delay contract completion. Webb Electric Co. ofFlorida, Inc., ASBCA
+No. 54293, 07-2 BCA ~ 33,717 at 166,940, ajf'd, Webb Electric Co. ofFlorida v. Griffin,
+299 F. App'x 958 (Fed. Cir. 2008). In evaluating a contractor's entitlement to recover for
+government-caused delays, the contractor is not charged for its concurrent delays that do
+not affect work on the critical path. Fischbach & Moore International Corp., ASBCA
+No. 18146, 77-1BCA~12,300 at 59,224, ajf'd, Fischbach & Moore International Corp.
+v. United States, 617 F .2d 223 (Ct. Cl. 1980).
+
+        As to standby, "[t]he proper standby test focuses on the delay or suspension of
+contract performance for an uncertain duration, during which a contractor is required to
+remain ready to perform." Interstate General Government Contractors, Inc. v. West,
+12 F.3d 1053, 1058 (Fed. Cir. 1993). When the period of delay is uncertain "and the
+contractor is required by the government to remain ready to resume performance on short
+notice, the contractor is effectively prohibited from mitigating such overhead costs by
+making reductions in home office staff or facilities." Id. at 1057-58. A contractor meets
+the standby requirement when the CO "has issued a written order that suspends all the
+work on the contract for an uncertain duration and requires the contractor to remain ready
+to resume work immediately or on short notice." P.J. Dick, 324 F.3d at 1371.
+Alternatively, a contractor can establish standby by indirect evidence, which requires a
+showing that: (1) the government-caused delay was substantial and of indefinite
+duration; (2) during the delay, the contractor had to be ready to resume work on the
+contract immediately, at full speed; and (3) there was an effective suspension of much, if
+not all, of the contract work. Id.
+
+       When a contractor has established the prerequisites to applying Eichleay, it has
+made a prima facie case of entitlement. The burden of production then shifts to the
+government to show that it was not impracticable for the contractor to take on
+replacement work and mitigate its damages. The contractor, however, retains the
+ultimate burden of persuasion that it was impracticable for it to obtain replacement work.
+Nicon, 331 F.3d at 883; P.J Dick Inc. v. Principi, 324 F.3d 1364, 1370 (Fed. Cir. 2003);
+Melka Marine, Inc. v. United States, 187 F.3d 1370, 1376 (Fed. Cir. 1999). We address
+whether KBJ is entitled to unabsorbed overhead for the alleged NASA-caused delays.
+
+                           I. Suspension of Boiler Demolition
+
+       The project's critical path began with the demolition of Boilers 3 and 4 (finding
+45). Under KBJ's original approved schedule, it planned to complete demolition of those
+boilers prior to the delivery of the replacement boilers (finding 8). On 26 May 2011, less
+than two weeks after NASA approved KBJ' s schedule, it instructed KBJ not to demolish
+the boilers until the replacement boilers were in the Cleveland area. The directive
+
+
+                                            19
+suspended the boiler work for an indefinite period. (Finding 9) NASA did not allow KBJ
+to begin demolition of Boiler 3 until 1 March 2012 (finding 17). This extended the
+contract's performance period past the original 4 November 2011 project completion date.
+NASA's directive delayed contract performance substantially, by 280 days (finding 50),
+100 days longer than the 180-day period in which KBJ was initially required to complete
+the contract work (finding 7).
+
+       NASA concedes that its directive was an exercise of its authority under the
+Suspension of Work clause (gov't br. at 22; gov't reply br. at 3), but it argues that it did
+not suspend all work and KBJ's failure to perform other available work in 2011
+(findingl4) concurrently delayed the project. We found KBJ responsible for the delay in
+completing the non-boiler work it had identified as possible to perform in 2011, but that
+this work was not on the critical path (finding 51). Because the non-boiler work was not
+on the critical path, KBJ' s delay in performing that work did not concurrently delay the
+prosecution of the project as a whole.
+
+       Accordingly, KBJ has met the first two prerequisites for recovery under Eichleay:
+there was a government-caused delay of uncertain duration, not concurrent with a
+relevant contractor-caused delay, that extended the contract's performance time. Because
+there was no written suspension order by the CO, KBJ must establish the third
+prerequisite, standby, through indirect evidence.
+
+       Regarding the first standby factor, as we have stated, NASA's suspension
+directive delayed contract performance substantially, for an indefinite period. However,
+on 12 September 2011 NASA provided a date certain for the resumption of boiler work
+(finding 17), such that the delay was only indefinite for the 109 days preceding NASA's
+notice (finding 50). After the notice, KBJ could not be on standby because the delay then
+was for a definite duration. P.J Dick, 324 F.3d at 1371 ("where the government
+suspends all work on the contract, but tells the contractor work will begin again on a date
+certain, the contractor cannot be on standby").
+
+        As to the second standby element, NASA's suspension directive anticipated that
+KBJ would remain on site, performing other tasks, until the boilers arrived (finding 9).
+NASA acknowledges that "NASA's Project Manager expressly directed Appellant to
+proceed with all other work that could be performed" (gov't reply br. at 34 ). Thus, in
+effect, KBJ had to keep workers on site during the delay and be ready to resume boiler
+work immediately. As we found, the delay originating with NASA's 26 May 2011
+directive delayed the project's critical path work by 109 days (finding 50).
+
+       Regarding the third standby element, NASA alleges that KBJ was not on standby
+because it could perform other work, referring to the work identified by KBJ on 20 June
+2011 (finding 14 ), which we found could have been performed during the delay in boiler
+work (finding 51). However, a contractor's work force need not be completely idle to be
+
+
+                                             20
+on standby. Altmayer, 79 F.3d at 1134; see also P.J. Dick, 324 F.3d at 1371. A contractor
+can be on standby when it was only able to continue performance of insubstantial work on
+the contract. Id. at 1372-73. We found that the non-boiler work KBJ could have
+performed was insubstantial in comparison to the contract as a whole (finding 51 ). The
+contract was for the replacement of Boilers 3 and 4 (finding 1), and that work could not
+commence during the suspension of boiler demolition. KBJ has thus met the third standby
+element.
+
+        The burden therefore shifts to NASA "to show that it was not impractical for the
+contractor to take on replacement work." P.J. Dick, 324 F.3d at 1370. NASA points to
+three projects, two of which KBJ was awarded and one on which KBJ bid unsuccessfully
+(see finding 53). It is insufficient merely to show that a contractor could take on some
+other work during the delay period. See Melka, 187 F.3d at 1377 (court improperly
+focused upon contractor's "ability to take on any other work during the delay period").
+The critical factor is not whether a contractor can obtain additional work, but rather a
+contractor's "ability to obtain a replacement contract to absorb the indirect costs that
+would otherwise be unabsorbed solely as a result of a government suspension on one
+contract." All State Boiler, 146 F.3d at 1377. We conclude that the projects NASA
+identified do not amount to replacement work. The two projects awarded to KBJ were
+for $86,125 and $171,574, far less that the $3.6 million value of the subject steam plant
+contract as awarded. Even including KBJ's $525,805.52 bid for the project it was not
+awarded, the three projects' value totaled $783,504.52, less than half the value of the
+steam plant contract. (Finding 53)
+
+      NASA has not met its burden. Accordingly, we find KBJ entitled to recover for
+109 days of unabsorbed overhead under Eichleay.
+
+                                 IL Additional Asbestos
+
+       We found that issues surrounding the additional asbestos encountered in the
+boilers delayed the project for 127 days (finding 52). However, we must first address
+NASA's dispositive contention that KBJ's claim, with regard to those delays, is barred by
+the doctrine of accord and satisfaction.
+
+       Modification Nos. 5 and 6, which added the additional asbestos work to the
+contract, each concluded with the same acknowledgment that "claims for equitable
+adjustment of the contract price and time pursuant to the [Changes clause] and Mutual
+Agreement are hereby fully satisfied and discharged with respect to this Supplemental
+Agreement" (findings 33, 40). NASA urges that this language unambiguously
+discharged any KBJ claim for asbestos delay costs. KBJ has not alleged that there was
+any additional asbestos work beyond that covered by Mod. No. 5 and Mod. No. 6
+(finding 40).
+
+
+                                           21
+       As we have stated:
+
+                            Release and accord and satisfaction are separate
+                     affirmative defenses. ..A release is a contract whereby a
+                     party abandons a claim or relinquishes a right that could
+                     be asserted against another.'' An accord and satisfaction
+                     occurs when "a claim is discharged because some
+                     perfonnance other than that \vhich was claimed to be
+                     due is accepted as full satisfaction of the claim."
+                     Although the defenses are distinct. "an agreement may
+                     constitute both a release and an accord and satisfaction.
+                     either of which may bar future claims."
+
+Optex Systems, Inc., ASBCA No. 58220, 14-1BCAii35,801 at 175,097 (citations omitted).
+
+        In this case, we conclude that the term "release" is the more apt. A release "is
+interpreted in the same manner as any other contract term or provision," Bell BC! Co. v.
+United States, 570 F.3d 1337, 1341 (Fed. Cir. 2009), which is to say that it is interpreted
+as a whole, to harmonize and give a reasonable meaning to all of its parts. See NVT
+Technologies, Inc. v. United States, 370 F.3d 1153. 1159 (Fed. Cir. 2004 ). If a release's
+terms are clear and unambiguous, we are to give them their plain and ordinary meaning,
+without resort to extrinsic evidence. Bell BC!, 570 F .3d at 1341. If a "release is
+ambiguous as to its scope of coverage, we construe its language to effect the parties'
+intent at the time they executed the release." Dureiko v. United States, 209 F.3d 1345,
+1356 (Fed. Cir. 2000); see also Optex Systems, 14-1BCAii35,801at175,097 ("[I]fthe
+words defining the scope of the release are ambiguous in their application to a
+contractor's claim, courts and boards will ascertain the parties' intent by examining the
+parties' conduct leading up to the modification.").
+
+        Here, Mod. Nos. 5 and 6 each added additional asbestos abatement to the contract
+work. Prior to its execution of Mod. No. 5, apparently in connection with asbestos
+abatement, KBJ had expressed a concern to NASA about "start/stop" impacting the job
+and slowing progress (finding 32), but if it was not satisfied that Mod. No. 5 had
+compensated it adequately for delays, it did not add any exception to the modification's
+release language. Both Mod. Nos. 5 and 6 clearly provide, without exception, that the
+parties "acknowledge and agree that any and all claims for equitable adjustment of the
+contract price and time pursuant to the [Changes clause] and Mutual Agreement are
+hereby fully satisfied and discharged with respect to this Supplemental Agreement."
+(Findings 33, 40) IfKBJ had intended to except asbestos-related delays and to contest
+the modifications' 31December2012 contract completion date, as indicated in its
+19 September 2012 letter to the CO (finding 41), it did not do so.
+
+
+                                             22
+       Accordingly, KBJ's claim for compensation and time due to delays occasioned by
+additional asbestos encountered in the boilers is barred by release.
+
+                                         Quantum
+
+        KBJ is entitled to recover 109 days of unabsorbed overhead costs resulting from
+NASA's 26 May 2011 directive suspending demolition of Boilers 3 and 4. We have
+accepted KBJ's unchallenged calculation of a $1,047.63 daily overhead rate under the
+first two steps of the Eichleay formula (finding 55). Multiplying that rate by the 109 days
+of entitlement, the third step of the Eichleay formula, we find KBJ entitled to an equitable
+adjustment of $114,191.67
+
+                                        DECISION
+
+       The appeal is sustained in part and denied in part. We award KBJ $114,191.67
+plus interest pursuant to the CDA, 41 U.S.C. § 7109, running from 8 October 2012, the
+date we infer the CO received KBJ's claim (finding 42), until paid.
+
+      Dated: 3 March 2016
+
+
+                                                    dministrative Judge
+                                                   Armed Services Board
+                                                   of Contract Appeals
+
+
+ I concur
+
+
+ ff~:'1ff4--~-----'--------=-----
+MARK N. STEMPLER                                   RICHARD SHACKLEFORD
+Administrative Judge                               Administrative Judge
+Acting Chairman                                    Vice Chairman
+Armed Services Board                               Armed Services Board
+of Contract Appeals                                of Contract Appeals
+
+
+                                            23
+       I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA No. 58512, Appeal of KBJ, Inc.,
+rendered in conformance with the Board's Charter.
+
+      Dated:
+
+
+                                               JEFFREY D. GARDIN
+                                               Recorder, Armed Services
+                                               Board of Contract Appeals
+
+
+                                          24

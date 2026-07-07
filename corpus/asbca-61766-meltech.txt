@@ -1,0 +1,2292 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+    Appeals of -                              )
+                                              )
+    Meltech Corporation, Inc.                 )   ASBCA Nos. 61766, 61767, 61872
+                                              )
+    Under Contract No. W912DR-14-D-0021       )
+
+    APPEARANCES FOR THE APPELLANT:                Leonard A. Sacks, Esq.
+                                                   Leonard A. Sacks & Associates, P.C.
+                                                   Rockville, MD
+
+                                                  Fred A. Mendicino, Esq.
+                                                   Faughnan Mendicino PLLC
+                                                   Dulles, VA
+    APPEARANCES FOR THE GOVERNMENT:               Michael P. Goodman, Esq.
+                                                   Engineer Chief Trial Attorney
+                                                  Adam J. Kwiatkowski, Esq.
+                                                   Engineer Trial Attorney
+                                                   U.S. Army Engineer District, Baltimore
+
+             OPINION BY ADMINISTRATIVE JUDGE CATES-HARMAN
+
+       These appeals are consolidated with fifteen (15) other appeals. 1 A previous
+decision was issued on summary judgment and cross-motions for summary judgment
+denying entitlement in ASBCA Nos. 61706 and 61768 (see Meltech Corp., ASBCA
+Nos. 61706, 61768, 22-1 BCA ¶ 38,117, aff’d 2023 WL 4503517 (Fed. Cir.)). This
+decision addresses entitlement in ASBCA Nos. 61766, 61767 and 61872. The
+disputes involve a United States Army Corps of Engineers (USACE) Multiple Award
+Task Order contract that included both Design-Build and Design-Bid-Build
+construction projects within the Baltimore District Area of Responsibility, including
+the renovation of Building 8609 at Fort Meade, MD. The Board has jurisdiction to
+hear these appeals pursuant to the Contract Disputes Act of 1978, 41 U.S.C. § 7105.
+We will address each of the three appeals separately. For the reasons stated below, we
+deny ASBCA No. 61766 (emergency lighting) and find for the appellant in ASBCA
+No. 61872 (day room shelf) and ASBCA No. 61767 (heat trace).
+
+                                FINDINGS OF FACT
+
+1
+    ASBCA Nos. 61766, 61767, and 61872 are consolidated with ASBCA Nos. 61694,
+       61706, 61762, 61763, 61764, 61765, 61768, 61869, 61870, 61871, 62091,
+       62987. The lead appeal is ASBCA No. 61694. (A decision on summary
+       judgment resolved ASBCA Nos. 61706 and 61768).
+Contract and Task Order
+
+       1. On June 10, 2014, USACE issued a Request for Proposals (RFP) for a
+Multiple Award Task Order Contract (MATOC) that included design-build and
+design-bid-build construction projects within the Baltimore District area of
+Responsibility. This was Phase 1 of a two-phase construction procurement. (Joint
+Stipulations of Fact (JSOF) ¶ 1 at 1; R4, tab 2)
+
+      2. The MATOC included renovating several similar dormitory buildings at
+Fort Meade, including Building 8609 (JSOF ¶ 3 at 1).
+
+       3. Building 8609 is an approximately 39,000 square foot barracks facility built
+in 1954 “that is in need of major repairs and code compliance of major systems” as the
+building and systems were beyond serviceable life (app supp. R4, tab 351 at 4).
+
+       4. Previously, on May 15, 2014, USACE had contracted with Black and
+Veatch (B-V) (Contract No. W912DR 10 D 0018), to prepare “a partial criteria
+Design-Build Request for Proposal” package for the renovation of Building 8609,
+including barracks room renovation, bathroom renovation, hallway renovation, and
+sprinkler system (app supp. R4, tab 351 at 1, 4-5). The scope of B-V’s work was to
+“[d]evelop performance criteria for all design disciplines for the Request for Proposal
+[] Design-Build Package. Use tables, text, sketches, drawings and others to illustrate
+the performance criteria” and to “[i]dentify any work to be done by others for such
+items as furniture, equipment, utility connections (water, sanitary sewer, gas, electric,
+and telephone). . .” (App supp. R4, tab 351 at 6)
+
+        5. B-V’s contract with USACE required it to perform a field investigation of
+Building 8609, provide a structural analysis, and “provide all necessary services
+required for the preparation of a complete and biddable RFP Design-Build Package”
+(app supp. R4, tab 351 at 5, 7). B-V’s contract described the field investigation as,
+“The A-E shall . . . [v]isit the project site to determine existing and planned future
+conditions affecting the RFP. A-E will immediately advise the DM if any . . .
+situations are observed during the field investigations.” (App supp. R4, tab 351 at 11)
+B-V was to review drawings, “[d]etermine visible relevant exiting conditions not
+available on existing as-built drawings” and to “[i]ndicate presumed existing hidden
+conditions and include verification in the design-build RFP” (app supp. R4, tab 351
+at 12). With respect to the final design-build RFP submittal by B-V, the contract
+provided that “[t]he level of detail shall reflect both prescriptive and performance
+requirements for the project” and include “as-built drawings showing existing
+conditions including any drawings for demolition . . . and necessary drawings, results
+of the field investigation . . . and the structural analysis” (app supp. R4, tab 351 at 12).
+
+
+                                             2
+       6. USACE’s Design Criteria for the MATOC RFP, , describe the renovation of
+Building 8609 as:
+
+               Building 8609 is a 38,490 SF three story, permanent
+               barracks with a hammerhead shaped one story portion
+               housing the main entry and administrative/community
+               functions. The building was constructed circa 1955. The
+               building was last renovated in 1975 when individual rooms
+               and air conditioning were added. In 1982, the windows
+               were replaced but do not meet current Anti-Terrorism
+               Force Protection (AT/FP) requirements. Only limited
+               maintenance and repair work has occurred since. The
+               mechanical, plumbing and electrical systems are to be
+               replaced. The roofs are to be replaced with a sloped,
+               gabled roof assembly. Exterior walls are to be retrofitted
+               or replaced with a complete brick veneer façade and
+               masonry veneer base. New windows are to be installed
+               throughout. The building envelope must prohibit water
+               infiltration and mold must be remediated.
+
+(R4, tab 2 at 1, tab 3 at 7)
+
+      7. Section 00100 of the Proposal Submission Requirements states that “The
+Contractor will provide all design, management, supervision, labor, materials, tools,
+and equipment necessary for the performance of the work. Task orders may be either
+Design-Build or Design-Bid-Build.” (R4, tab 2 at 5)
+
+      8. On August 14, 2014, USACE issued Amendment 0003 to RFP W912DR-
+14-R-0003 for two seed projects under the MATOC to provide Design Criteria for the
+Design-Build renovation of Building 8609 at Fort Meade and Building 4501 at
+Aberdeen Proving Ground. Each task order was to be awarded separately. (JSOF ¶ 7
+at 2)
+
+       9. USACE scheduled a pre-bid site visit for bidders to walk through
+Building 8609 on August 14, 2014 (R4, tab 355 at 1, 3).
+
+        10. On September 15, 2014, Meltech submitted its technical and cost proposals
+for the renovation of Building 8609. Meltech’s proposal included a preliminary
+schedule. According to this schedule, the design period would begin on November 18,
+2014, and end on June 4, 2015. The construction period would begin on May 29,
+2015, and end on April 26, 2016. (JSOF ¶¶ 11-12 at 2)
+
+
+                                           3
+       11. On September 29, 2014, USACE awarded Meltech Base Contract
+No. W912DR-14-D-0021. On September 30, 2014, USACE awarded Task Order
+Contract No. 0002 to Meltech for the renovation of Building 8609. CLIN 0002
+included the renovation of Building 8609 and “[a]ll costs in connection with
+construction of the [Building] 8609 . . . complete as specified in this Request for
+Proposal [], and in accordance with approved design documents prepared by the
+Contractor” (R4, tab 7 at 1-2). The Task Order Contract provided Meltech with a
+540-calendar day performance period beginning from the Notice to Proceed date. The
+Notice to Proceed was issued on November 17, 2014, and the original completion date
+was May 10, 2016. (JSOF ¶¶ 13-16 at 2-3)
+
+Relevant Contract Clauses and Design Criteria Specifications
+
+        12. The contract incorporated by reference FAR 52.236-21,
+SPECIFICATIONS AND DRAWINGS FOR CONSTRUCTION (FEB 1997), which
+stated that the contractor shall coordinate the drawings and review them for accuracy
+and compliance with contract requirements (R4, tab 2 at 42, tab 6 at 7). In addition, it
+stated that approval of the drawings by the CO does not relieve the contractor of any
+errors or responsibility for complying with the contract’s requirements. In pertinent
+part:
+
+              e) If this contract requires shop drawings, the Contractor
+              shall coordinate all such drawings, and review them for
+              accuracy, completeness, and compliance with contract
+              requirements and shall indicate its approval thereon as
+              evidence of such coordination and review. . . . Approval by
+              the Contracting Officer shall not relieve the Contractor
+              from responsibility for any errors or omissions in such
+              drawings, nor from responsibility for complying with the
+              requirements of this contract . . . .
+
+FAR 52.236-21(e).
+
+        13. The contract incorporated by reference FAR 52.236-23,
+RESPONSIBILITY OF THE ARCHITECT-ENGINEER CONTRACTOR
+(APR 1984), which stated that the contractor is responsible for the accuracy of the
+drawings and the government’s approval of the drawings does not operate as a waiver
+to the contract’s requirements (R4, tab 2 at 42, tab 6 at 7). In pertinent part:
+
+              (a) The Contractor shall be responsible for the
+              professional quality, technical accuracy, and the
+              coordination of all designs, drawings, specifications, and
+
+
+                                           4
+            other services furnished by the Contractor under this
+            contract. . . .
+
+            (b) Neither the Government’s review, approval or
+            acceptance of, nor payment for, the services required under
+            this contract shall be construed to operate as a waiver of
+            any rights under this contract or of any cause of action
+            arising out of the performance of this contract, and the
+            Contractor shall be and remain liable to the Government in
+            accordance with applicable law for all damages to the
+            Government caused by the Contractor’s negligent
+            performance of any of the services furnished under this
+            contract.
+
+FAR 52.236-23.
+
+    14. The contract incorporated by reference FAR 52.236-2, DIFFERING SITE
+CONDITIONS (APR 1984), which states:
+
+            (a) The Contractor shall promptly, and before the
+            conditions are disturbed, give a written notice to the
+            Contracting Officer of[-]
+
+            (1) [S]ubsurface or latent physical conditions at the site
+            which differ materially from those indicated in this
+            contract[;] or
+
+            (2) [U]nknown physical conditions at the site, of an
+            unusual nature, which differ materially from those
+            ordinarily encountered and generally recognized as
+            inhering in work of the character provided for in the
+            contract.
+
+            (b) The Contracting Officer shall investigate the site
+            conditions promptly after receiving the notice. If the
+            conditions do materially so differ and cause an increase or
+            decrease in the Contractor’s cost of, or the time required
+            for, performing any part of the work under this contract,
+            whether or not changed as a result of the conditions, an
+            equitable adjustment shall be made under this clause and
+            the contract modified in writing accordingly.
+
+
+                                          5
+             (c) No request by the Contractor for an equitable
+             adjustment to the contract under this clause shall be
+             allowed, unless the Contractor has given the written notice
+             required; provided, that the time prescribed in paragraph
+             (a) above for giving written notice may be extended by the
+             Contracting Officer.
+
+             (d) No request by the Contractor for an equitable
+             adjustment to the contract for differing site conditions shall
+             be allowed if made after final payment under this contract.
+
+(R4, tab 2 at 41, tab 6 at 6; FAR 52.236-2)
+
+      15. The contract listed FAR 52.211-13, TIME EXTENSIONS (SEP 2000),
+which states:
+
+             Time extensions for contract changes will depend upon the
+             extent, if any, by which the changes cause delay in the
+             completion of the various elements of construction. The
+             change order granting the time extension may provide that
+             the contract completion date will be extended only for
+             those specific elements related to the changed work and
+             that the remaining contract completion dates for all other
+             portions of the work will not be altered. The change order
+             also may provide an equitable readjustment of liquidated
+             damages under the new completion schedule.
+
+(R4, tab 6 at 14; FAR 52.211-13)
+
+      16. The contract incorporated by reference FAR 52.236-3, SITE
+INVESTIGATION AND CONDITIONS AFFECTING THE WORK (APR 1984),
+which states:
+
+             (a) The Contractor acknowledges that it has taken steps
+             reasonably necessary to ascertain the nature and location of
+             the work, and that it has investigated and satisfied itself as
+             to the general and local conditions which can affect the
+             work or its cost, including but not limited to (1) conditions
+             bearing upon transportation, disposal, handling, and
+             storage of materials; (2) the availability of labor, water,
+             electric power, and roads; (3) uncertainties of weather,
+             river stages, tides, or similar physical conditions at the site;
+             (4) the conformation and conditions of the ground; and
+
+
+                                              6
+              (5) the character of equipment and facilities needed
+              preliminary to and during work performance. The
+              Contractor also acknowledges that it has satisfied itself as
+              to the character, quality, and quantity of surface and
+              subsurface materials or obstacles to be encountered insofar
+              as this information is reasonably ascertainable from an
+              inspection of the site, including all exploratory work done
+              by the Government, as well as from the drawings and
+              specifications made a part of this contract. Any failure of
+              the Contractor to take the actions described and
+              acknowledged in this paragraph will not relieve the
+              Contractor from responsibility for estimating properly the
+              difficulty and cost of successfully performing the work, or
+              for proceeding to successfully perform the work without
+              additional expense to the Government.
+
+              (b) The Government assumes no responsibility for any
+              conclusions or interpretations made by the Contractor
+              based on the information made available by the
+              Government. Nor does the Government assume
+              responsibility for any understanding reached or
+              representation made concerning conditions which can
+              affect the work by any of its officers or agents before the
+              execution of this contract, unless that understanding or
+              representation is expressly stated in this contract.
+
+(R4, tab 6 at 6; FAR 52.236-3)
+
+      17. The Design Criteria required four distinct design submittals: 30% (Concept
+Submittal), 50% (Preliminary Design Review Submittal), 95% (Final), and 100%
+(Design Complete) (R4, tab 3 at 99, 109-10, 116-17).
+
+       18. The design submittals are to ensure “that the design criteria are being
+correctly interpreted” (R4, tab 3 at 99, 109). The 95% Final Design Submittal
+provides that construction plans require “the level of detail needed for bidding the
+project, including a complete list of . . . materials to be used” (R4, tab 3 at 110). The
+100% Design Complete Submittal states that “[a]fter the Final Design Review, the
+Contractor shall revise the Contract Documents by incorporating any comments
+generated during the Final Design Review and shall prepare final hard copy Contract
+Specifications” (R4, tab 3 at 116-17).
+
+      19. The Design Criteria Design After Award Section 01 12 00, Design
+Submittals, describes that the contractor may proceed with building after submitting
+
+
+                                             7
+and receiving approval by the contracting officer of the (100%) design submission
+package:
+
+              1.2 SEQUENCE OF DESIGN-CONSTRUCTION
+
+              Fast track construction start is permitted by this contract.
+              The Contractor may proceed with the construction work
+              included in a separate design package after the
+              Government has reviewed the final (100%) design
+              submission for that package, review comments have been
+              addressed and resolved to the Government’s satisfaction
+              and the Contracting Officer (or the Administrative
+              Contracting Officer) has agreed in writing that the design
+              package may be released for construction.
+
+(R4, tab 3 at 92)
+
+       20. Design Criteria, Section 01 33 00, paragraph 1.4, “Government Reviewed
+or Approved Submittals,” describes that USACE’s review and approvals of the
+contractor’s submittals shall not be construed as a complete check but indicate the
+materials “appear to meet the Solicitation and Accepted Proposal”:
+
+              1.4 GOVERNMENT REVIEWED OR APPROVED
+              SUBMITTALS
+
+              The Contracting Officer’s Representative conformance
+              reivew [sic] or approval of submittals shall not be
+              construed as a complete check, but will indicate only that
+              design, general method of construction, materials, detailing
+              and other information appear to meet the Solicitation and
+              Accepted Proposal. Approval will not relieve the
+              Contractor of the responsibility for any error which may
+              exist, as the Contractor under the Contractor Quality
+              Control (CQC) requirements of this contract is responsible
+              for design, dimensions, all design extensions, such as the
+              design of adequate connections and details, etc., and the
+              satisfactory construction of all work. After submittals have
+              been approved by the Contracting Officer, no resubmittal
+
+
+                                            8
+             for the purpose of substituting materials or equipment will
+             be considered unless accompanied by an explanation of
+             why a substitution is necessary.
+
+(R4, tab 3 at 135) (emphasis added)
+
+      21. Design Criteria, Section 01 33 00, paragraph 1.11.1 discusses the Submittal
+Procedures in which the accuracy of the contractor’s submittals is its responsibility:
+
+             1.11.1 Procedures
+
+             In the signature block provided on ENG Form 4025 the
+             Contractor certifies that each item has been reviewed in
+             detail and is correct and is in strict conformance with the
+             contract drawings and specifications unless noted
+             otherwise. The accuracy and completeness of submittals is
+             the responsibility of the Contractor. . . . Each variation
+             from the contract specifications and drawings shall be
+             noted on the form; and, attached to the form, the
+             Contractor shall set forth, in writing, the reason for and
+             description of such variations. If these requirements are
+             not met, the submittal may be returned for corrective
+             action.
+
+(R4, tab 3 at 136-37) (emphasis added)
+
+EMERGENCY LIGHTING – ASBCA No. 61766
+
+Design Criteria Specifications and National Fire Protection Association Requirements
+
+        22. The National Fire Protection Association (NFPA) has regulations for
+“multiple degrees of life safety, fire department responses” (tr. 3/140). In particular,
+NFPA 101, “Life Safety Code,” contains the minimum requirements for life safety for
+buildings under construction, during construction, and after construction (tr. 3/140).
+Emergency lighting must provide minimum illumination for occupants to exit the
+building safely (tr. 3/141). Annex A, Explanatory Material of NFPA 101, describes
+the “Life Safety Code” as “Life safety in buildings includes more than safety from fire.
+Although fire safety has been the long-standing focus of NFPA 101, its widely known
+title, Life Safety Code, and its technical requirements respond to a wider range of
+concerns, including, for example, crowd safety.” (NFPA 101, Annex A, § A.1.1.5,
+2012 ed.)
+
+
+                                           9
+       23. The Design Criteria specifications for the renovation of Building 8609
+Section 3.9.3 Life Safety and Fire Protection required “compl[iance] with NFPA 101
+for building related egress and safety to life. Occupancy definitions in NFPA 101
+shall be used to determine means of egress requirements.” Section 3.9.3 states that
+Building 8609 dead-end corridors must comply with NFPA 101. (R4, tab 3 at 25-26)
+
+        24. The illumination strength of light fixtures is assessed in foot candles
+(tr. 1/199, 12-15). A light meter is necessary to measure illumination (tr. 1/199).
+
+       25. Design Criteria specification for Interior Electrical, Emergency Egress
+Lighting, Section 01 10 00, paragraph 6.10.7b, stated that emergency egress lighting
+will comply with NFPA 101 and provide a minimum of 10 Lux, 1 foot-candle, with an
+emergency power backup of 90 minutes:
+
+              EMERGENCY EGRESS LIGHTING
+
+              Emergency egress lighting will provide a minimum of
+              10 Lux (1 foot-candle) for all means of egress as required
+              by NFPA 101. Power to all emergency egress life safety
+              lighting will be supplied by local battery back-up, integral
+              to fixture, with a 90 minute operation length of time.
+              Illumination will be provided by selected fixtures and
+              wired ahead of any local switching. Additional emergency
+              egress lighting will be provided for exterior egress. The
+              fluorescent fixture over the doorway of each vestibule will
+              be unswitched[.] Exit signage will be LED. LED exit
+              signs will be wired to flash during fire alarm. Exit signage
+              will be located at all exits, paths of egress as required by
+              NFPA 101. Design will include electronic IES file
+              calculations in all critical areas.
+
+(R4, tab 3 at 67)
+
+     26. Relevant performance requirements for emergency lighting from
+NFPA 101, Chapter 7, Section 7.9 include:
+
+              7.9.2 Performance of System.
+
+              7.9.2.1 Emergency illumination shall be provided for a
+              minimum of 1½ hours in the event of failure of normal
+              lighting.
+
+
+                                           10
+             7.9.2.1.1 Emergency lighting facilities shall be arranged to
+             provide initial illumination that is not less than an average
+             of 1 ft-candle (10.8 lux) and, at any point, not less than
+             0.1 ft-candle (1.1 lux), measured along the path of egress at
+             floor level.
+
+             7.9.2.1.2 Illumination levels shall be permitted to decline
+             to not less than an average of 0.6 ft-candle (6.5 lux) and, at
+             any point, not less than 0.06 ft-candle (0.65 lux) at the end
+             of 1½ hours.
+
+             7.9.2.1.3 The maximum-to-minimum illumination shall not
+             exceed a ratio of 40 to 1.
+
+(NFPA 101, Chapter 7, 7.9.2.1, 2015 ed.; R4, tab 269)
+
+    27. The contract incorporated FAR 52.246-12, INSPECTION OF
+CONSTRUCTION (AUG 1996) (R4, tab 2 at 55), which states in relevant part:
+
+             (b) The Contractor shall maintain an adequate inspection
+             system and perform such inspections as will ensure that the
+             work performed under the contract conforms to contract
+             requirements. . . . All work shall be conducted under the
+             general direction of the Contracting Officer and is subject
+             to Government inspection and test at all places and at all
+             reasonable times before acceptance to ensure strict
+             compliance with the terms of the contract.
+
+             ....
+
+             (d) The presence or absence of a Government inspector
+             does not relieve the Contractor from any contract
+             requirement, nor is the inspector authorized to change any
+             term or condition of the specification without the
+             Contracting Officer’s written authorization.
+
+             (e) The Contractor shall promptly furnish, at no increase
+             in contract price, all facilities, labor, and material
+             reasonably needed for performing such safe and
+             convenient inspections and tests as may be required by the
+             Contracting Officer. The Government may charge to the
+             Contractor any additional cost of inspection or test when
+             work is not ready at the time specified by the Contractor
+
+
+                                           11
+             for inspection or test, or when prior rejection makes
+             reinspection or retest necessary. The Government shall
+             perform all inspections and tests in a manner that will not
+             unnecessarily delay the work. Special, full size, and
+             performance tests shall be performed as described in the
+             contract.
+
+             (f) The Contractor shall, without charge, replace or correct
+             work found by the Government not to conform to contract
+             requirements, unless in the public interest the Government
+             consents to accept the work with an appropriate adjustment
+             in contract price.
+
+             ....
+
+             (i) Unless otherwise specified in the contract, the
+             Government shall accept, as promptly as practicable after
+             completion and inspection, all work required by the
+             contract or that portion of the work the Contracting Officer
+             determines can be accepted separately. Acceptance shall
+             be final and conclusive except for latent defects, fraud,
+             gross mistakes amounting to fraud, or the Government’s
+             rights under any warranty or guarantee.
+
+FAR 52.246-12.
+
+Emergency Lighting Design Submittal and Approval
+
+        28. Meltech’s Project Manager Robin Roberts submitted Meltech’s plan for
+interior drawings of emergency lighting, which were reviewed and approved by the
+Registered Fire Protection Department Manager and Engineer, Shane Hatmaker. By
+letter dated March 23, 2016, Mr. Hatmaker concluded, “To the best of my knowledge
+the design for the fire protection and life safety systems meet all requirements from
+applicable NFPA documents, UFC, Fort Meade Standards and U.S. Army Corp [sic]
+of Engineers requirements.” (App. supp. R4, tab 550)
+
+       29. Based on Mr. Hatmaker’s approval, the interior emergency lighting
+drawings were prepared and issued for construction for the first, second, and third
+floors of Building 8609. “PLAN – LIGHTING”, sheet numbers E-101, E-102, and
+E-103, show Building 8609’s layout for each floor, specifically designating the
+lighting location with a box and the type of lighting with the terms “C”, or “CE”. (R4,
+tab 308 at 113-15)
+
+
+                                          12
+Inspection of the Emergency Lights
+
+       30. On December 6, 2017, Edward Lindsay, the Fire Inspector at Fort Meade,
+inspected the emergency lighting fixtures Meltech had installed in Building 8609
+(JSOF ¶ 1 at 28). So that no sunlight would be available to illuminate the building
+through any window, Fire Inspector Lindsay conducted the test at 6:00 a.m.,
+62 minutes before sunrise at Fort Meade. Electricity to the building was turned off,
+and a light meter was used to measure light at one foot above the floor in various
+locations. (Tr. 3/143)
+
+        31. The lighting test consisted of (i) checking the observed installed emergency
+lights against the lighting drawings, (ii) letting the emergency lights run for ninety
+minutes on battery power, and (iii) measuring the illumination under emergency
+lighting (JSOF ¶ 2 at 28).
+
+        32. Fire Inspector Lindsay performed over 300 emergency lighting tests, while
+in his capacity at Fort Meade. In each instance Fire Inspector Lindsay used a light
+meter supplied by the contractor. (Tr. 3/154-55)
+
+      33. A “light meter” was provided to Fire Inspector Lindsay for the inspection
+by Meltech’s subcontractor (tr. 3/142; app. br. ¶ 6 at 42).
+
+       34. During the lighting test, the Fire Inspector noted deficiencies with the
+design of the emergency lighting system. The noted design deficiencies were: (i) Due
+to insufficient lighting, a standard fixture needed to be switched out for an emergency
+fixture in the back corner of the computer room (room 141); (ii) A standard fixture
+was installed in the first-floor corridor near room 126 instead of an emergency fixture
+as shown on the plans. (JSOF ¶ 3 at 28-29; app. supp. R4, tabs 845, 847; R4, tab 308
+at 113)
+
+        35. Due to insufficient lighting at the east end of the 1st, 2nd, and 3rd-floor
+corridors of the barracks portion of the building near rooms 123, 223, and 323,
+respectively, the standard light fixtures (“C”) at those three locations needed to be
+changed to emergency fixtures (“CE”) (JSOF ¶ 3 at 28-29). The insufficient lighting
+noted by Fire Inspector Lindsay near rooms 123, 223, and 323 (collectively referred to
+as rooms x23) was caused by a hallway door that was immediately adjacent to rooms
+x23, which partially blocked the emergency light (“CE”) on the other side of the door
+(tr. 3/162, 164, 187). See the below figure (this figure highlights the third-floor
+hallway of Building 8609. The hallways of Floors 1 and 2 are similarly designed (see
+tr. 3/147: 23-25)):
+
+
+                                          13
+       36. The interior design drawings (drawing number F-721-11-26) dated
+December 4, 2015, noted that residential wings would be separated from business
+areas with a 1-hour fire barrier in accordance with NFPA 101, Table 6.1.14.4.1 (R4,
+tab 308 at 1, 3 (occupancy separation)).
+
+       37. The standard lighting fixtures (“C”) installed by Meltech in the corridors
+near rooms 123, 223, and 323 and in the computer room, required replacement to
+emergency lights (“CE”). CE lights were shown on the approved 100% interior
+drawings 2 (JSOF ¶ 4 at 29; R4, tab 308 at 113-15).
+
+        38. During the lighting test, the Fire Inspector noted deficiencies with the
+functioning of the emergency lighting system. The noted deficiencies were: (i) The
+emergency light fixture at the top of Stair #1 on the third floor did not work; (ii) The
+emergency light fixture at the landing between the second and third floors of Stair #1
+did not work; (iii) The emergency light fixture at the landing between the second and
+third floors of Stair #2 did not work; (iv) After the 90-minute battery test, the
+emergency lights in the basement main electrical room, second-floor laundry, and
+third-floor laundry were too dim, due either to a battery or bulb problem. (JSOF ¶ 5
+at 29; app. supp. R4, tab 845)
+
+      39. Immediately following the test, Fire Inspector Lindsay verbally informed
+Meltech that the building failed the lighting test and provided relevant NFPA sections
+
+2
+    We note the approved interior design drawings (drawing number F-721-11-26) dated
+        December 4, 2015, by URS Group, Incorporated (URS), utilizes the 2012
+        edition of “NFPA 101 – Life Safety Code” to be applied as the Applicable
+        Code, while the parties commonly refer to the more recent 2015 edition. The
+        parties do not raise this as an issue and the Board’s review of NFPA 101
+        section 7.9 of the 2012 and 2015 editions concludes that they do not appear to
+        differ in relevant language (R4, tab 308 at 1, 3 (applicable codes)).
+
+                                           14
+for egress lighting (tr. 3/149, 151). At this time, Fire Inspector Lindsay did not
+provide specific lighting measurements in the failed areas (tr. 1/201).
+
+     40. The same day, Fire Inspector Lindsay filed a memo to file describing the
+December 6, 2017, emergency lighting test for Building 8609, which states:
+
+                The emergency light test was started on building 8609.
+                When we started the test with rep from Meltech and his
+                subcontractor that supplied the light meter. During the test
+                there was several lights in the stairwells that did not work.
+                There was several lights that did not last the 90 minutes.
+                There are several area’s in the corridors that the reading on
+                zero on the meter when we started the test. On the drawing
+                there was an emergency light near the door in the computer
+                room which was not installed. I explained to Barry [Barry
+                Boyd, Meltech Senior Project Manager] that the
+                emergency light test would not pass because of the issues
+                with the emergency lights. Barry started [sic] the
+                computer room was there [sic] fault. I stated to Barry what
+                the code was for emergency lighting under NFPA 101
+                chapter 7 section 7.9.2. Barry stated that they will have to
+                take care of the issue since the design does not meet code.
+
+(R4, tab 266)
+
+        41. In an email dated December 6, 2017, to Meltech’s subcontractor,
+Mr. Anton Van Peppen, Director of Quality Control and Safety, highlighted the failed
+emergency lighting test and noted “design issues” and subcontractor light installation
+issues that needed to be addressed, “After the 90 minute battery test the emergency
+lights . . . were too dim. Either a battery or a bulb problem.” Mr. Van Peppen
+requested that the subcontractor fix the deficiencies and let Meltech know when the
+building will be ready for a retest. (R4, tab 264) The new emergency lights could not
+be installed immediately but had to be ordered, with an approximately six-week wait
+time (R4, tab 268; app. supp. R4, tab 846 at 1).
+
+        42. The next day, Meltech’s Senior Project Manager sent an email to USACE
+Project Engineer Melvin Damoudt and other USACE representatives stating that
+Meltech was correcting “the errors made in the installation of certain emergency
+lights.” He also noted that the approved drawings for emergency lights did not contain
+emergency lights in those failed areas. (App. supp. R4, tab 846 at 1)
+
+      43. By email dated January 9, 2018, from Mitchell Burns, Corps of Engineers
+Baltimore District Fire Protection, to USACE Project Engineer Melvin Damoudt, and
+
+
+                                             15
+Fire Inspector Lindsay, Mr. Burns stated, “In my opinion it is clear that this is a design
+issue: the Contractor should not demand a mod from the Government for a failure of
+this system to perform to code requirements” (R4, tab 269).
+
+      44. Meltech corrected the deficiencies noted by the Fire Inspector on
+January 30, 2018 (JSOF ¶ 6 at 29; app. supp. R4, tab 846; R4, tab 273 at 1).
+
+        45. Meltech’s Director of Quality Control and Safety, Anton Van Peppen,
+testified that Meltech did not challenge Fire Inspector Lindsay’s December 6 test as
+they were afraid to “further delay the occupancy” of Building 8609. In addition,
+Mr. Van Peppen testified that Meltech did not have enough information at the time and
+did not take the time to investigate whether Fire Inspector Lindsay had performed the
+lighting test correctly. (Tr. 1/306-07)
+
+        46. There is no evidence that Meltech conducted its own emergency light test
+prior to the December 6 emergency lighting test, or thereafter, when Meltech installed
+the new replacement lights (tr. 1/218; R4, tab 268 at 1).
+
+        47. We find that Meltech did not challenge the December 6 emergency lighting
+test results during performance of the contract, nor did it request a retest.
+
+REA, Claim, and Notice of Appeal
+
+       48. On January 9, 2018, Meltech requested an equitable adjustment reflecting a
+delay of ninety days due largely to the lead time of ninety days for delivery of the
+specified lights, and an additional cost of $4,850 (JSOF ¶ 7 at 29; R4, tab 268).
+Meltech’s letter did not challenge Fire Inspector Lindsay’s process and use of the light
+meter provided by Meltech’s subcontractor (R4, tab 268).
+
+       49. On June 11, 2018, Meltech converted its REA to a claim (JSOF ¶ 8 at 29;
+R4, tab 241).
+
+       50. Meltech filed a timely Notice of Appeal from a deemed denial.
+
+HEAT TRACE – ASBCA No. 61767
+
+The RFP Required Replacing Communal Gang Bathrooms and Constructing
+Private Bathrooms In Each Dormitory Room
+
+       51. Building 8609 is comprised of a three-story concrete frame and concrete
+masonry unit (CMU) infill, double-loaded corridor residential wing, with its[] long
+axis running east-west, and a single story “hammerhead” barracks facility on the
+western end of the residential wing, with its[] long axis running north-south.
+
+
+                                           16
+Building 8609 consisted of three floors that ran the full length of the barracks portion.
+The barracks portion had a heated basement in the eastern portion. The western
+portion of the area below the first floor was an unheated crawl space. (R4, tab 3 at 9;
+JSOF ¶ 14 at 17) Each floor of the barracks portion of Building 8609 contained a long
+corridor down its center, with dorm rooms on either side. The existing barracks also
+contained two gang bathrooms, located at the same South-West location on each floor.
+(R4, tab 3 at 384) The existing layout contained two communal bathrooms on the first
+floor of the dormitory. The RFP required the elimination of the communal bathrooms,
+gang bathrooms, located at the same location on each floor (tr. 1/162). A private
+bathroom was to be constructed in each two-occupant dormitory room. In the existing
+building, domestic water pipes only needed to reach as far down the corridor as the
+westmost communal bathroom. In the renovated building, domestic water pipes
+needed to reach far enough down the corridor to reach the westmost dorm rooms. (R4,
+tab 3 at 364, 384)
+
+       52. The contract contemplated design after award (R4, tab 7).
+
+The Architect-Engineer, B-V, Provided The Structural Analysis For The RFP And
+Believed The New Plumbing Lines Could Be Installed In The First-Floor Ceiling
+
+        53. In developing its structural analysis for Building 8609 for USACE, B-V’s
+Design Manager, Randall Gowler, stated that its team did a structural analysis and
+field investigation of Building 8609 to “make a judgment on what would be necessary
+in terms of the renovation.” In assessing Building 8609, B-V took measurements
+above the ceiling, where accessible and without destruction of any of the building, to
+determine whether there was sufficient space for the new plumbing. B-V’s Design
+Manager stated the measurements taken of Building 8609 “were important to be able
+to describe what the demotion might be, and what [the] new work would be, and how
+it would all fit within the building.” B-V believed that the new plumbing lines to be
+installed would fit above the ceilings, “where we measured, I understood that our
+plumbing would fit. . . . [W]e did believe that all of the plumbing would fit.” (App.
+supp. R4, tab 722 at 20-22, Randall Gowler depo. transcript; JSOF ¶ 4 at 16) In
+providing the structural analysis of Building 8609 for the RFP, B-V took the above the
+ceiling measurements of Building 8609 and reviewed drawings of “similar TBUP
+[Training Barracks Upgrade Program] buildings.” However, B-V personnel “were not
+checking dimensions as we would with an as-built” and did not measure the entire
+building (app. supp. R4, tab 722 at 20-21, 23, Randall Gowler depo. transcript). B-V
+noted measurements were not taken in places where the ceiling was solid, which
+required removal of material or was blocked by overhead components. B-V included
+drawings of a different building in the RFP, Building 8545 “because we were more
+familiar with that building than the others.” (App. supp. R4, tab 722 at 20-23, Randall
+Gowler depo. transcript)
+
+
+                                           17
+Site Visit
+
+        54. Prior to renovation, Building 8609 contained a drop ceiling concealing the
+lights, mechanical piping, sprinkler piping, electrical conduit, fire alarm cable, HVAC
+ducts, and other building support components (tr. 1/170). Even removing the ceiling
+tiles provided low visibility of the underlying support components of the building as
+each building support component could obscure view of other components and the
+building structure (tr. 1/170). Meltech’s personnel were unable to observe the
+underlying structural components of the building prior to demolition, and prospective
+offerors were not provided access to inspect the space above the ceilings during the
+site visit given any view of the space (tr. 1/169-70; app. supp. R4, tab 676 at 1-2,
+Travis Claggett decl.).
+
+        55. Meltech’s Senior Project Manager, Travis Claggett, provided a declaration
+concerning the pre-bid site visit. Mr. Claggett declared that the site visit was a guided
+tour by USACE that lasted about an hour. Mr. Claggett stated that contractors were
+not provided ladders to inspect the ceilings, were not instructed to bring their own, and
+were not invited to inspect the space above the ceiling in the first-floor corridors. He
+stated that no other contractor had brought their own equipment or ladder for the site
+inspection. The contractors spent only a few minutes to walk the first-floor corridor.
+(App. supp. R4, tab 676 at 1-2, Travis Claggett decl.)
+
+       56. Melvin Damoudt, USACE’s Project Engineer, provided a declaration
+stating that he conducted the site visit for the contractors interested in submitting
+proposals for the renovation of Building 8609, and “contractors were free to look
+above the ceilings.” He took a photograph of at least one contractor inspecting a lower
+height ceiling in the common area by pushing up the tile with his hands. (ASBCA
+No. 61767 gov’t cross mot., ex. G-4, Melvin Damoudt decl.; G-3, photograph)
+
+Design Criteria Drawings Do Not Show That A Concrete Girder Ran Across The
+First-Floor Corridor And Varying Concrete Girder Conditions Including Four
+Girders Extending 6-8 Inches Below Other Girders
+
+        57. USACE’s Design Criteria, Functional and Area Requirements section 3.4
+states that “Drawings of Building 8609 will be provided to the bidders as part of the
+solicitation by USACE” (R4, tab 3 at 10). Section 3.4.3, Space Layout, states that
+floor plan drawings are in Appendix G:
+
+              The Design Build Contractor will develop and implement
+              the space layout design. Rough diagram plans are included
+              in this document to provide a guide for potential
+              adjacencies and relationships, but not to specify
+
+
+                                           18
+              restrictions or preferences. The Floor Plan diagrams are
+              located in Appendix G: DRAWINGS.
+
+(R4, tab 3 at 10)
+
+      58. Appendix G contained several drawings of existing and new conditions
+(JSOF ¶ 2 at 16; R4, tab 3 at 359-85).
+
+       59. Appendix G Drawing A-5 depicted the planned new layout with gang
+bathrooms replaced with individual bathrooms within each dorm room (R4, tab 3
+at 364).
+
+       60. The Design Criteria, Appendix G, section 01 10 00, Project Specific
+Requirements, paragraph 6.8 addresses plumbing. Paragraph 6.8.1 states that the
+drawings indicate existing conditions, but caution that it does not indicate restrictions,
+“Refer to Appendix G for existing Plumbing Drawings. The drawings are included in
+this document for reference to indicate existing conditions and are not intended to
+indicate restrictions or preferences.” (R4, tab 3 at 58)
+
+       61. Appendix G Drawing AE4 is a cross-section of the three-story barracks
+portion, “Typical Building Section.” Drawing AE4 further indicates the presence of a
+concrete girder running across the ceiling on either side of the first-floor corridor but
+does not show the girder continuing through the corridor (single arrow and oval in the
+below figure). (R4, tab 3 at 369) Drawing AE4 does not indicate any variance in the
+dimensions of existing concrete girders in the crawl space and on each floor
+throughout the barracks. As highlighted in the below figure: double arrows
+highlighting first-floor girders in the below figure; oval highlighting girder running
+across the ceiling does not traverse the center corridor (R4, tab 3 at 369).
+
+
+                                            19
+       62. Appendix G Drawing M-3 is titled, “First Floor Plan Mechanical
+ Demolition” and depicts 1.5 and 3-inch diameter hot and cold-water piping running
+ uninterrupted in the first-floor ceiling. This piping is part of a two-pipe HVAC
+ system that brings hot and cold water to fan coil units to heat and cool interior spaces
+ (R4, tab 3 at 372; tr. 1/171-72). Drawing M-3 also depicts the 12 column lines (F, G,
+ H, J, L, M, N, O, Q, R, S, T), but does not show these columns crossing any beams
+ across the hallway corridor.
+
+
+(R4, tab 3 at 372)
+
+       63. Appendix G Drawing M-13 is titled, “Fan Coil Piping Detail Typical” and
+depicts the dual temperature water piping system running above the corridor ceiling
+with no structural obstructions or interferences (R4, tab 3 at 382).
+
+        64. Appendix G Drawing M-8 is titled, “First Floor Plan – Mechanical New
+Work – Building 8609,” and shows the building plan in detail and depicts the proposed
+new system for heating and cooling the renovated dorm rooms with the fan coil system
+with dual temperature piping ranging in size up to 3 inches in diameter running down
+the first-floor corridor (R4, tab 3 at 377; tr. 1/172-73). Drawing M-8 also depicts the
+12 column lines (F, G, H, J, L, M, N, O, Q, R, S, T), but does not show these columns
+crossing of any beams across the hallway corridor. See the below blow-out of
+Drawing M-8 ovals highlighting column lines J, L, O, and Q.
+
+
+                                          20
+(R4, tab 3 at 377)
+
+       65. The Design Criteria also contains Appendix L, titled “Preliminary
+Structural Design Analysis” which includes as-built structural drawings for another
+building, 8548 (R4, tab 3 at 485; tr. 1/310-11). Building 8609 was originally
+constructed in the 1950s and went through several renovations by the Department of
+Public Works for Fort Meade; however, as-built drawings capturing changes made to
+Building 8609 were not available (findings 3, 6; tr. 3/11).
+
+        66. Appendix L contains a drawing, titled “Typical Bay Reinforcement Detail”
+(R4, tab 3 at 488). The following description is derived from the parties’ trial
+testimony. This figure (reproduced below) depicts the building as if above the
+building, looking down onto it. The two black squares in the middle represent interior
+columns that are running from the bottom of the building to the top of building. The
+horizontal dashed lines represent tie reinforcement. The blank rectangles on the top
+and bottom of the figure are the exterior columns on the outside of the building that are
+running from the bottom of the building to the top of building. Between each exterior
+column (rectangle) and each interior column (square), along the vertical, the transverse
+direction, a column line is a beam (unshaded white running in the vertical that is
+interrupted by shaded grey) that extends all the way from the outside column to the
+interior column along the vertical without interruption. (Tr. 5/222-24) Regardless, we
+find that this figure, as it is labelled for a design from a different building,
+Building 8548, was not clear that the girders traversed across Building 8609,
+uninterrupted in the first-floor ceiling.
+
+
+                                           21
+(R4, tab 3 at 488)
+
+        67. USACE’s Project Engineer Melvin Damoudt’s duties were to review
+drawings and submittals, evaluate changes, attend design review meetings, and
+perform on-site inspections (tr. 3/7, 9). Mr. Damoudt testified that Appendix G
+Drawing AE4 could contain a drawing error as it fails to show a concrete beam or
+girder extending through the wall into the center of the hallway corridor (tr. 3/63-64,
+82). Mr. Damoudt testified that these types of drawings typically “may show either a
+dotted line or a continued line. But it’s supposed to show something” when a drawing
+is to depict a structure passing through a wall, column, or beam. (Tr. 3/63-64)
+
+
+                                          22
+       68. Mr. Damoudt testified that if these types of details were too small to be
+captured in the drawings, the designer of record, B-V, typically would provide an
+enlarged “blow-out” to show any variances in the dimensions of the existing concrete
+girders or any structural obstructions (tr. 3/64-65). Mr. Damoudt stated as the RFP did
+not contain this blow-out drawing, it was “human error,” and it should have been
+provided (tr. 3/66).
+
+Meltech’s Proposal
+
+       69. On September 4, 2014, B-V provided responses to USACE concerning
+offerors’ questions with respect to the RFP (app. supp. R4, tab 359). Relevant pre-bid
+questions and B-V’s responses are listed, including B-V’s clarification that Appendix L
+drawings are from another building and should only be used for pricing, not for
+construction purposes:
+
+             Question 34: The existing drawings provided in this RFP
+             are lacking information useful in providing a good design
+             solution (i.e. dimensions existing structure to remain, such
+             as columns, beams, etc.). Please provide more detailed
+             information on the existing facility so we can give a
+             feasible working solution.
+
+             [Response] The Government has agreed to provide these
+             drawings as noted below per Section 01 10 00 DESIGN
+             CRITERIA, page 8, 3.4 FUNCTIONAL SPACES
+             “Drawings of Building 8609 will be provided to the
+             bidders as part of the solicitation by USACE.”
+
+             ....
+
+             Question 45: 6.4.lc [Site Engineering, Existing
+             Conditions] says to refer to Appendix G for existing Site
+             Drawings. There are no Site Drawings in Appendix G,
+             please provide (TBUP)
+
+             [Response] The only site drawing is the drawing included
+             in the Utility Information in Appendix B. It is intended
+             that a new site drawing will be developed as part of the
+             field survey completed by the designers. The reference to
+             Appendix G in paragraph 6.4.1 should be deleted.
+
+             ....
+
+
+                                          23
+Question 75: The RFP mentions the existence of partial
+existing structural drawings, please provide for review.
+
+[no response]
+
+....
+
+Question 129: Please provide a complete set of structural
+drawings including foundation drawings, bearing capacity,
+floor and roof plans and building design loading, sections
+and details for this facility.
+
+[no response]
+
+....
+
+Question 142: Please provide a complete structural set of
+drawings including but not limited to: Concrete design
+strength, reinforcing steel strength, design codes used for
+design, design loading used for design, foundation bearing
+capacity, girder/beam/joist size and reinforcing pattern and
+details for floor and roof structural members, column size
+reinforcing pattern and details, dimensioned
+girder/beam/joist plans for floors and roof, dimensioned
+column grid, slab thickness and reinforcement for each
+floor and roof, slab on grade thickness and reinforcement,
+masonry infill details including masonry size type and
+compressive strength, complete foundation drawings
+including foundation types and sizes, reinforcing steel
+requirements for each element and details of reinforcement
+and finally comprehensive sections and details? (TBUP)
+
+[Response] The Government has agreed to provide these
+drawings as noted below per Section 01 10 00 DESIGN
+CRITERIA, page 8, 3.4 FUNCTIONAL SPACES
+“Drawings of Building 8609 will be provided to the
+bidders as part of the solicitation by USACE.”
+
+....
+
+Question 149: Appendix L Preliminary Structural Design
+Analysis From Building 8548:
+
+
+                            24
+              a. Has the design concept shown on the drawings in
+              Appendix L been reviewed, vetted and approved by
+              USACE PDC?
+
+              b. Have the attached drawings been used in construction?
+
+              c. Are buildings 8609 and 8548 similar enough to assume
+              methodology shown on the drawings in Appendix L are
+              adequate for pricing Building 8609? (TBUP)
+
+              [Response]
+
+              a. We assume it has been vetted by PDC, but it is only
+              applicable for pricing and not for construction per updated
+              UFC.
+
+              b. It is our understanding that these were used for
+              building 8548.
+
+              c. These two buildings are similar enough to assume
+              methodology for pricing for Building 8609 but not for
+              construction per update UFC.
+
+(App. supp. R4, tab 359 at 6, 8, 10, 16, 18-19)
+
+       70. On September 5, 2014, USACE issued Amendment 6 to RFP W912DR-14-
+R-0003 which included responses to offerors’ questions with respect to the RFP (app
+supp. R4, tab 360).
+
+        71. Replacing the existing gang bathrooms with individual dormitory
+bathrooms required Meltech to make significant revisions to the plumbing system in
+order to provide necessary service to each dorm room. Meltech planned on running
+water supply pipes above the ceiling of the first-floor corridor of the barracks portion
+of Building 8609 in order to serve each dorm room. In reviewing the Design Criteria
+specification, drawings, and site visit, Mr. Van Peppen, Meltech’s Director of Quality
+Control and Safety, testified that “it was apparent [there] was a free and open space
+above the first-floor corridor to run that piping” as “[t]here were no obstructions” from
+the building (tr. 1/173-74). He further stated, “Meltech planned on starting in the
+hammerhead with large pipes and moving down through the first-floor corridor, teeing
+off at each unit to serve each unit as the pipe went by, and the pipe could gradually
+decrease in size as it went down the corridor” (tr. 1/164). To service the plumbing
+requirements for the second and third floor dormitories, since these rooms would be
+stacked, Meltech planned to have the “pipes tee off into the unit, go down to the
+
+
+                                           25
+fixtures, and up to the fixtures above and then again up to the fixtures on the third
+floor” (tr. 1/165).
+
+       72. On September 15, 2014, Meltech submitted its technical and cost proposals
+for Building 8609’s renovation (R4, tab 5; JSOF ¶ 11 at 2). Section 1.15.6, Plumbing
+System, states that the “Plumbing system will be designed based on the requirements
+of the RFP and in accordance with applicable portions of the UFCs. In general,
+existing building distribution plumbing system will be modified to accommodate new
+floor plan and plumbing layout.” (R4, tab 5 at 25) Meltech’s technical proposal
+addressed domestic cold and hot water lines “will be modified to accommodate new
+plumbing layout” and “branch piping will connect to the new fixtures where required”
+(R4, tab 5 at 25-26).
+
+      73. USACE’s resident engineer and contracting officer’s representative,
+Cedric Bazemore, testified that bidder’s proposals are not typically reviewed by the
+USACE’s construction office to determine if it is compliant with the RFP (tr. 2/73-74).
+
+USACE Never Supplied As-built Drawings for Building 8609
+
+        74. Following contract award, Meltech continued to request copies of the as-
+built drawings. Although, initially, USACE stated it was still looking for them,
+USACE later concluded that while it agreed to provide whatever as-built drawings it
+had, that promise was limited to the solicitation phase. (App. supp. R4, tab 245
+at 9500, tab 251 at 9555-56, tab 306 at 13655, 13674-75, tab 668 at 1) Accordingly, it
+is undisputed that the government did not provide the as-builts drawings of Building
+8609 to Meltech (tr. 1/310-11, 3/10-11) (see SOF ¶ 10 of Meltech Corp., Inc., ASBCA
+No. 63556, 25-1 BCA ¶ 38,720 at 188,260).
+
+Following Demolition, Meltech Discovered Concrete Girder Variances On The First
+Floor Ceiling
+
+       75. The first drawings to identify variances in the height of some beams
+(Q, O, L, J) were lower than other beams (S, R, N, M, H, G) was Meltech’s 30%
+Concept Design, dated May 22, 2015. Drawing A-301 depicts first-floor domestic
+water lines crossing column lines Q, O, L, & J. (App. supp. R4, tab 758 at 30) Note
+
+
+                                            26
+that columns lines Q, O, L and J are noted are lower and below columns N, M, and H
+(app. supp. R4, tab 758 at 30).
+
+
+~~~~~
+
+
+      76. Demolition of the first floor took place between August 2015 and was
+completed in December 2015 (tr. 1/233).
+
+       77. Following demolition, Meltech discovered that each concrete girder was
+continuous through the concrete masonry unit (CMU) walls and spanned across the
+corridors. Four concrete girders located directly below the original gang bathrooms at
+column lines J, L, O, and Q extended considerably lower than the others, and the floor
+had been recessed 6 to 8 inches lower than the rest of the building in order to facilitate
+setting the tile beds and the drainage for the original gang bathroom showers. In
+addition, those lower girders were also thicker to compensate for the load bearing
+weight requirements of the recessed concrete girders. (Tr. 1/178, 183-89, 3/9-14)
+These concrete girder variances appear to be from the original bathroom installation
+and contain features not captured in the RFP structural drawings (tr. 1/187; R4, tab 3
+at 359-85, Appendix G).
+
+        78. Mr. Van Peppen testified that he was shocked to find the concrete girders
+extend through the first-floor corridor, but “[w]e expected to make it work. And then
+we came across the other four beams that were at a different elevation.” (Tr. 1/231)
+The girder was important since it’s a structural member that holds up the slab above
+the ceiling. Based on his 30 years of experience of renovating hundreds of buildings,
+Meltech expected the concrete beam not to extend across the first-floor corridor as
+shown in Drawing AE4 because an interrupted beam in this situation is sufficient to
+hold up the slab, “That’s a very short span across that corridor. The slab could have
+spanned that easily. . . . And it would be bearing on a [concrete masonry unit, CMU]
+wall . . . . There was a [CMU] wall running down both sides of the corridor that could
+have carried -- that, that beam could have framed into.” (Tr. 1/231-32)
+Mr. Van Peppen testified that it was not uncommon for buildings to have structural
+concrete girders stop at a corridor, as depicted in Appendix G drawings, including a
+barracks at Camp Lejeune that he worked on (tr. 1/232).
+
+
+                                            27
+        79. The presence of the four lowered concrete girders at column lines J, L, O,
+and Q spanning the first-floor corridor, their increased thickness, and their bottoms
+were only 8 feet above the finished floor, hampered Meltech from installing the new
+water pipes in the space above the ceiling (R4, tab 239; tr. 1/177-79, 309-10). The
+remaining beams located on the first floor did not prohibit plumbing line installation
+(tr. 1/183).
+
+        80. Meltech’s 100% Interior Drawings dated December 4, 2015, P-111 depicts
+all planned plumbing lines running down the ceiling of the first-floor ceiling. The
+pipes enter at the junction of the barracks and hammerhead portion and continue
+almost to the “S” column line. (R4, tab 308 at 62) Drawings P-411, P-412, and P-413
+depict risers carrying water vertically from the first-floor units to stacked second and
+third-floor units (R4, tab 308 at 62, 69-71; tr. 1/167-69).
+
+
+        81. Meltech submitted RFI 2602-052 to its Designer on April 12, 2016.
+RFI 2602-052 requested Meltech’s designer, URS, “change the routing of the domestic
+water lines and the water lines to the laundry room from the first-floor hallway ceiling
+to the crawl space from H line to T line.” The RFI stated that the existing beams (J, L,
+O, and Q) did not allow enough room, 8 feet above finished floor, for the domestic
+water lines. (R4, tab 239 at 9)
+
+       82. URS replied to RFI 2602-052 on April 14, 2016, and provided a revised
+sketch of drawing P-110 relocating the domestic water lines in the crawl space (R4,
+tab 239 at 10). URS stated that “piping will be required to be heat traced 3 since it is
+located in the unheated crawl space” (R4, tab 239 at 9).
+
+Meltech’s REA And Claim
+
+       83. On January 9, 2018, Meltech submitted an REA to USACE “because the
+domestic water piping that was supposed to be run above the first floor corridor
+ceilings would not fit above the ceiling because the existing building structure had
+
+3
+    Heat trace cable is an electric heating cable used to protect outside pipes from
+         freezing. Contractors use such cables inside for unheated areas of a building
+         (tr. 1/179).
+
+                                            28
+beams at . . . column lines J, L, O, and Q. The solution was to run the plumbing lines
+in the unheated crawl space below the first floor slabs.” Meltech notes that there was
+not any additional cost from the plumber to run the water piping in the crawl space;
+however, additional heat tracing and a more robust heat trace system including control
+panel, required “five times as much heat trace cabling and associated fittings,
+additional electric power feeds, and a 150 amp breaker installed in the main switch
+gear.” Meltech requested $130,134, and an additional 59 days to extend the
+completion date of the project to December 29, 2017. (R4, tab 239 at 1)
+
+       84. Meltech requested a contracting officer’s final decision and certified its
+claim on June 11, 2018 (R4, tab 241).
+
+        85. The Contracting Officer did not issue a final decision (JSOF ¶ 26 at 19;
+tr. 1/188).
+
+       86. On August 23, 2018, Meltech filed a notice of appeal to the Board.
+
+Interrogatories Responses
+
+        87. Interrogatory No. 1 asked the government, “Please state the means by
+which Meltech could have ascertained prior to bidding the project that the area above
+the first floor ceiling contained large concrete beams.” The government responded,
+“Appellant could have seen the concrete beams during the pre-proposal site inspection,
+or in photographs and drawings attached to the Design Criteria.” (App. supp. R4,
+tab 675 at 43)
+
+        88. Interrogatory No. 5 asked the government, “Please state whether you agree
+that the existence of the concrete beams above the first floor corridor ceiling prevented
+Meltech from installing the piping in the ceiling space.” The government responded,
+“Admitted that as a practical matter, the concrete beams prevented Appellant from
+placing the pipes above the 1st floor ceiling.” (R4, tab 675 at 45)
+
+DAY ROOM SHELVING CREDIT– ASBCA No. 61872
+
+Day Room RFP Requirements
+
+       89. The “Day Room” is a common space portion of Building 8609’s
+hammerhead section. A shelving unit, like a large home entertainment center, was to
+be designed and constructed in the day room. (JSOF ¶ 1 at 14)
+
+       90. Design Criteria Section 01 10 00, paragraph 1.0 Project Objectives,
+describes that the “building will have a 25-year useful design life before a possible
+re-use/re-purpose or renovation requirement” and that the “[m]aterials and methods
+
+
+                                           29
+will reflect this by choosing the lowest Type of Construction allowed by code for this
+occupancy/project” (R4, tab 3 at 6).
+
+        91. The Functional and Area Requirements of the Design Criteria section 3.1
+General stated that the “construction types, design layouts, materials, finishes and
+utility systems outlined in this document are meant to convey design requirements and
+allowable systems, but are not to be taken as preferences by the Client or User” (R4,
+tab 3 at 9).
+
+        92. For shelving in the day room, the RFP contained no specific requirement as
+to the type of material to be used, but Section 3.9.2, Architectural Design, of the
+Design Criteria, described the “Material and Product Selection Criteria” as “Materials
+will meet the requirements of the criteria. The criteria establish a minimum quality
+level.” (JSOF ¶ 2 at 14; R4, tab 3 at 24-25) For the cabinets, the Design Criteria
+stated: “[f]inish material to be plastic laminate” (R4, tab 3 at 24).
+
+        93. The Black & Veatch package for the renovation of building 8609 included
+a detailed Cost Report dated July 17, 2014.identifying “plastic laminate on particle
+board” for the day room shelving custom cabinet (app. supp. R4, tab 354 at 22-23).
+
+Meltech’s Proposal and Design Submissions
+
+       94. Meltech’s proposal was divided into tabs, including a Technical Approach.
+Meltech’s proposal did not specifically address the day room cabinet and shelving
+materials; rather, the proposal outlined that the interior finishes will be “modern” and
+“upgraded interior employing durable finishes”:
+
+              In compliance with the RFP scope of work, all the existing
+              building finishes will be replaced with new, durable, high
+              quality finishes to offer a modern and upgraded interior
+              employing durable finishes and materials conducive to
+              group living. Color boards will be submitted with the
+              Work Plan submittal, including samples of colors and
+              finishes of interior surfaces.
+
+              ....
+
+              Contractor furnished and installed items as described in
+              detail in the RFP will be provided.
+
+(R4, tab 5 at 7-8)
+
+
+                                           30
+Meltech’s 100% Design Submittal Included White Oak Veneer for the Day Room
+Cabinet
+
+       95. Meltech submitted “Design Complete (100%) Submission – Building”
+specifications dated December 4, 2015 (R4, tab 309 at 1). Under Section 06 20 00,
+subsection 2.9.1 Wood Millwork – Dayroom Media Storage Unit described that the
+finishing material as “[v]eneer shall be minimum 1/28” thick (quarter slice white oak)”
+(R4, tab 309 at 155).
+
+        96. On March 9, 2016, the administrative contracting officer issued a letter
+accepting the 100% interior submittal package in accordance with section 01 12 00
+paragraph 1.2 and stated that “Meltech is hereby released for construction of the
+design features included in the 100% Interior Submittal Package” (R4, tab 20). The
+letter continues stating that the government’s “acceptance of this design package does
+not relieve Meltech Corp., Inc. from the responsibility of any design errors or
+omissions. Any revisions to the 100% Interior Submittal Package drawings and
+specifications shall be reviewed and approved by the Designer of Record and
+submitted to the Government for concurrence.” (R4, tab 20)
+
+Later, Meltech Seeks to Clarify the Material and Asks to Substitute with Plastic
+Laminate
+
+       97. On September 20, 2016, Meltech submitted RFI 2602-121 to clarify the
+material type indicated on drawing A-405 detail 8, “[w]hat species is WD-1?” The
+following week, on September 26, 2016, the designer of record responded that the
+material type is “quarter slice white oak . . . as specified in section 06 20 00 para. 2.9”
+of the approved Design Complete 100% Submittal. (R4, tab 274 at 3) We note that
+the designer of record’s response does not refer to the Design Criteria specification;
+instead, the response highlights the section and paragraph of the approved Design
+Complete 100% Submittal, Wood Millwork – Dayroom Media Storage Unit that the
+veneer is “quarter slice white oak” (see R4, tab 309 at 155).
+
+       98. Meltech’s original agreement, prior to the submission of the 100% Design
+Specifications, with its subcontractor, Cavanaugh Cabinets, was to supply Meltech
+with plastic laminate material for the day room shelving unit (JSOF ¶ 7 at 15).
+
+       99. On October 4, 2016, in response to Meltech’s cost inquiries, Cavanaugh
+Cabinets quoted Change Request #01, the costs of the architectural millwork to use
+“Grade AA White Oak veneer” for the day room cabinets, shelving, and countertop
+finish was $13,250 more expensive than plastic laminate (R4, tab 274 at 1).
+
+      100. After approval of the 100% Design Specifications, on November 8, 2016,
+Meltech submitted RFI-0108, to the designer of record requesting that it allow Meltech
+
+
+                                            31
+to substitute plastic laminate for the white oak for the shelving unit, “[Design
+Complete (100%) Submission] Specification section 06 20 00 paragraph 2.9 requires
+quarter slice white oak veneer for the Dayroom Media Storage Unit. Due to the
+excessive expense of using white oak veneer, we prefer to substitute plastic laminate
+per spec section 06 41 16.00 10.” (R4, tab 275)
+
+        101. On February 10, 2017, following the submission of revised detailed
+drawings showing the material change from white oak veneer to plastic laminate,
+USACE agreed to “the proposed change finishing material from white-oak veneer to
+plastic laminate” (R4, tab 279).
+
+        102. The administrative contracting officer testified that the substitution of the
+plastic laminate for the oak veneer did not change or deviate from the requirements of
+the Design Criteria (tr. 2/90-91).
+
+      103. In a follow-up email to Meltech on March 21, 2017, USACE’s Project
+Engineer, Melvin Damoudt, stated that USACE had approved the change, “but we told
+Meltech that a credit will be ask[ed] by the Government.” Mr. Damoudt noted that as
+Meltech is the fabricator of the pieces, it wanted the fabrication costs so that USACE
+may negotiate a credit for this change in material (R4, tab 280).
+
+       104. After several follow-up emails from Mr. Damoudt to Meltech for the cost
+differential between white-oak veneer to plastic laminate, Meltech sent a copy of
+Cavanaugh Cabinets’ October 4, 2016, quote for $13,250 (R4, tab 281 at 2-6). On
+April 11, 2017, Mr. Damoudt emailed Meltech stating that now USACE has the
+decrease in the fabrication cost, his office can negotiate a credit with Meltech (R4,
+tab 281 at 1).
+
+      105. Within minutes, Meltech’s Senior Project Manager, Barry Boyd,
+responded to Mr. Damoudt stating:
+
+              With all due respect, no credit will be forthcoming. The
+              plastic laminate cabinets and shelving in the day room
+              meet the requirements of the RFP and therefore satisfy
+              Meltech’s contractual responsibility in this regard. Should
+              the COE or customer have required the oak cabinets and
+              shelving, Meltech would have required a modification of
+              the contract in order to proceed.
+
+(R4, tab 282 at 1)
+
+      106. The administrative contracting officer responded to Meltech the same
+morning stating that USACE intended to pursue a credit for the decreased costs
+
+
+                                            32
+surrounding the change in material per section 01 12 00 paragraph 1.3 as this was a
+deviation from the accepted design, including oak finished cabinets. The contracting
+officer stated that the final design included every finish that is included in the total
+contract price. The contracting officer declined to issue a contract modification to
+change the material of the day room cabinet, shelving, and countertop from white-oak
+veneer to plastic laminate, as USACE has the right to pursue a credit for this material
+substitution. (R4, tab 282 at 1)
+
+       107. On May 18, 2017, Meltech completed the installation of the day room
+shelving unit with plastic laminate (R4, tab 29 at 1768, 1790, 1795).
+
+       108. On June 14, 2017, USACE officially responded to RFI-0108, agreed to
+the material change from white oak veneer to plastic laminate, and stated that “[it]
+reserves the right to pursue a credit for the proposed change” (R4, tab 276).
+
+Day Room Credit Calculation and Meltech’s Claim
+
+       109. To determine a credit for the change in materials, USACE took the price
+differential quoted by Cavanaugh Cabinets ($13,250), added bonding costs, overhead,
+and profit to arrive at a total credit of $16,447 (JSOF ¶ 10 at 15; R4, tab 284 at 1).
+
+        110. On September 1, 2017, Meltech responded to USACE’s proposed credit
+modification, stating that it “received no cost savings resulting from the use of the
+plastic laminate cabinets and shelving in lieu of white oak material.” Meltech stated
+that it had “budgeted for plastic laminate cabinets and shelving” but “during the design
+phase, a note was added to the drawings to make these white oak primarily to match
+the oak picture rails on the adjacent walls. The plastic laminate ultimately used was
+chosen by the designer of record to match the picture rails.” (R4, tab 283)
+
+       111. USACE took a credit of $16,447 in unilateral Modification No. R00007
+dated April 13, 2018 (R4, tab 286).
+
+       112. On January 23, 2018, Meltech submitted a certified claim seeking a
+resolution of the controversy regarding the day room shelf credit in the amount of
+$16,447 (R4, tab 285).
+
+       113. USACE did not issue a COFD, and the claim was deemed denied (JSOF
+¶ 14 at 16).
+
+       114. On November 6, 2018, Meltech filed a notice of appeal.
+
+
+                                           33
+                                      DECISION
+
+EMERGENCY LIGHTING – ASBCA No. 61766
+
+The Parties’ Contentions
+
+       Appellant contends it is entitled to a constructive change for its work to meet
+the Fire Inspector’s directive to replace standard light fixtures (app br. at 84).
+Appellant argues that its 100% interior drawings, which included the emergency
+lighting system, were reviewed and approved by the engineer of record, the
+government, and Fire Inspector Lindsay before appellant installed the light fixtures
+(app. br. at 84; app. resp. br. at 36). Appellant argues that “[t]he government has
+presented no evidence Meltech’s installation failed to comply with the approved
+design documents” and questions the Fire Inspector’s testing and results. Specifically,
+it argues that Fire Inspector “Lindsay did not use a calibrated, stand-alone light meter
+while conducting his inspection, instead relying on a phone application that had been
+provided by an employee of the electrical subcontractor,” and Meltech was never
+provided with a copy of the results of the failed inspection. (App. br. at 84-85; app.
+resp. br. at 34-35) As the government cannot produce a test report of the failed
+lighting inspection, the accuracy of the Fire Inspector’s conclusions and alleged
+findings are not supported, and the Board should not consider Fire Inspector Lindsay’s
+testimony “at his word” (app. reply br. at 29).
+
+       The government argues that the Fire Inspector conducted the emergency
+lighting test of Building 8609 in accordance with NFPA 101, which was incorporated
+into the contract. The government contends that certain test areas failed to provide the
+minimum amount of illumination along the path of egress consistent with the
+requirements set forth in NFPA, Chapter 7, sections 7.8 and 7.9 (gov’t br. at 56). The
+government argues further that Meltech did not object to the building’s failure of the
+December 6, 2017, emergency light test and instead began to immediately direct its
+subcontractor to order the appropriate light fixtures and install them (gov’t br. at 58).
+The government notes that appellant never tested the emergency lighting system and
+never requested a government retest of the failed December 6, 2017, test (gov’t br.
+at 60). The government challenges appellant’s version of the events surrounding the
+December 6, 2017, lighting test (gov’t br. at 61). The government argues that
+Meltech’s behavior following the failed emergency lighting test, directing its
+subcontractor to fix the deficiencies, and Meltech’s failure to inspect and test the
+emergency lighting to ensure it met the contract’s requirements to conform to NFPA
+101 as directed under FAR 52.246-12(b), demonstrates appellant is in no position
+many years later to challenge Fire Inspector Lindsay’s December 6, 2017, test results
+(gov’t br. at 59-60). Finally, the government argues that approval of appellant’s
+drawings does not act as a waiver and does not shift the risk that those drawings will
+meet the contractual requirements, citing FAR 52.236-23, Responsibility of the
+
+
+                                           34
+Architect-Engineer Contractor and Thomas J. Davis, Inc., ASBCA No. 62634, 21-1
+BCA ¶ 37,886 at 183,993 (gov’t reply br. at 47-48).
+
+Emergency Lighting Discussion
+
+       It is well-settled that the Government has the right to obtain precisely what is
+specified in the contract. Astro Dynamics, Inc., ASBCA No. 28381, 88-3 BCA
+¶ 20,832 at 105,361; Norwood Precision Prod., Textron, Inc., ASBCA Nos. 38095,
+38196, 90-3 BCA ¶ 23,200 at 116,429; Am. Mech., Inc., ASBCA No. 52033, 03-1
+BCA ¶ 32,134 at 158,892; Pyrotechnic Specialties, Inc., ASBCA No. 57890 et al., 17-
+1 BCA ¶ 36,696 at 178,693. Here, it necessitated strict compliance with NFPA 101,
+Life Safety Code, which governs the amount of minimal light for safe egress when the
+emergency lighting system is activated (finding 22).
+
+       The contract incorporated NFPA 101 and required emergency egress lighting to
+provide a minimum of 10 Lux, 1 foot-candle, with a 90-minute operation length of
+time (findings 23, 25). During the testing, Fire Inspector Lindsay noted several
+deficiencies in the emergency lighting in Building 8609. Those deficiencies included
+a hallway door installed on each of the first, second, and third floors proximate to
+rooms x23, which blocked the emergency light, “CE,” from sufficiently illuminating to
+the requirements of NFPA 101. (Findings 34-35, 38) In addition, insufficient lighting
+was noted in the computer room and near room 126 (finding 34). NFPA requirements
+were clearly set forth in the contract, leaving little question of what was required to
+make the emergency lighting safe for building egress (findings 23, 25). While
+“Meltech concedes the fire marshal rejected its work as not meeting code requirements
+due to allegedly insufficient light readings in certain locations,” it challenges both the
+accuracy of the underlying failures and the truthfulness of his testimony (app. reply br.
+at 28). Contrary to these challenges, the evidence presents a different picture.
+
+        Appellant’s contemporaneous behavior immediately after being informed of the
+failed emergency test demonstrated an acquiescence to the December 6, 2017, results.
+Meltech did not challenge the test results; instead, it instructed its subcontractor to fix
+the deficiencies, immediately ordering the appropriate emergency light fixtures and
+providing updates to the government project engineer on how it would address the
+failures identified by the Fire Inspector on December 6, 2017 (findings 41-42, 44-45).
+Meltech’s behavior following the failed emergency lighting test is consistent with its
+communication, where it identified that several emergency light fixtures were not
+working, and that a standard fixture was installed in place of an emergency fixture, as
+shown in the room 126 plans. Similarly, Meltech acknowledged a “battery or a bulb
+problem” after the 90-minute battery test (finding 41). Testimony from Meltech’s
+Director of Quality Control and Safety stated that Meltech did not want to challenge
+the December 6 results. More importantly, Meltech chose not to conduct its own
+investigation after the December 6th test. (Findings 45-46) Meltech’s testimony is
+
+
+                                            35
+consistent with its behavior in that it accepted the failures identified by the Fire
+Inspector, and have failed to make any showing that the testing conducted by the Fire
+Inspector was flawed.
+
+       Furthermore, appellant was required by FAR clause 52.246-12(b) to “maintain
+an adequate inspection system and perform such inspections as will ensure that the
+work performed under the contract conforms to contract requirements” (finding 27).
+Appellant failed to present any evidence of a pre-inspection of the emergency light
+fixtures (finding 46). We can only conclude from this that Meltech did not test the
+system beforehand to ensure it worked, that it conformed to the contract’s and
+NFPA 101’s illumination requirements, and that it was ready for government testing
+(finding 46).
+
+        We are unconvinced by appellant’s allegations raised years after the inspection.
+The picture appellant now paints of the events surrounding the December 6, 2017, test
+is in stark contrast to the record. Meltech’s questions about the accuracy of the test
+include complaints over Fire Inspector Lindsay’s use of a “borrowed” cell phone with
+a downloaded application to perform the light measurement (finding 33; app. br. at 42,
+84; app. resp. br. at 34-35). We note that the contract incorporated FAR clause
+52.246-12(e), requiring the contractor to furnish the equipment necessary for the
+government to perform inspections and tests (finding 27). Appellant has presented no
+evidence to support that the December 6, 2017, test was unreasonable or defective.
+Instead, the record shows that Meltech accepted the December 6, 2017, test results
+without challenge (findings 41-42, 44-47). In order for the Board to find that the
+government assumed the costs associated with replacing the light fixtures and resulting
+delays, we need much more than what has been presented here. See generally Alonso
+& Carus Iron Works, Inc., ASBCA Nos. 38312, 40334, 90-3 BCA ¶ 23,148
+at 116,203. If Meltech had concerns about the conduct or method of inspection, it
+should have raised them with the contracting officer at the time. Meltech could have
+challenged the test results with test results consistent with FAR clause 52.246-12(b) or
+requested a retest. See (finding 47). Instead, neither was done. We conclude that
+Meltech’s compliance with the government’s test results was the direct result of a
+failure to meet the contract requirements.
+
+       Similarly, appellant’s argument that the 100% interior drawings, which
+included the emergency lighting system, were reviewed and accepted by the engineer
+of record, should shift responsibility from Meltech to the government is equally
+without merit (app. br. at 84; app. resp. br. at 36-37). The contract incorporated
+Architect-Engineer clause, FAR 52.236-23, which states that the contractor is
+responsible for the accuracy and quality of the drawings and “[n]either the
+Government’s review, approval or acceptance of . . . the services required under this
+contract shall be construed to operate as a waiver of any rights under this contract”
+(finding 13). Appellant is contractually obligated under the Architect-Engineer clause
+
+
+                                          36
+to exercise its architectural skill, ability, and judgment with reasonable care and
+without negligence. E.g., Ralph M. Parsons Co., ASBCA No. 24347, 85-1 BCA
+¶ 17,787 at 88,877; William Tao & Assocs., Inc., ASBCA No. 32986, 89-2 BCA
+¶ 21,588 at 108,711 (“[Contractor] failed to perform its obligation to design the
+roofing system of the [building] as a reasonably prudent architect-engineer should
+have to prevent the extensive condensation which occurred after construction of the
+facility and which necessitated redesign and corrective roofing work.”); Brunson
+Assocs., Inc., ASBCA No. 41201, 94-2 BCA ¶ 26,936 at 134,152-53 (The Board
+rejected the doctrine of comparative fault of the government when it reviewed and
+approved construction design, but later, due to the contractor’s faulty design, the
+building collapsed. The Board applied the Architect-Engineer clause, FAR 52.236-23,
+holding that appellant did not satisfy its contractual duty when it “did not adequately
+consider the combined stresses and forces resulting from both axial forces and local
+bending moments at the kink points on the arch. It also did not undertake the required
+analysis of unbalanced snow load.”). Thus, the contractor bears the design risk of
+complying with the requirements of the specification in a firm fixed-price, design-
+build contract. John C. Grimberg Co., ASBCA No. 58791 et al., 18-1 BCA ¶ 37,191
+at 181,052-53, rev’d on other grounds, United States Army Corps of Eng’rs v. United
+States, 817 F. App’x. 960 (Fed. Cir. 2020); Conquistador Dorado Joint Venture,
+ASBCA No. 60042 et al., 20-1 BCA ¶ 37,628 at 182,679 (“the design risk is
+transferred to appellant”); Meltech Corp., Inc., ASBCA Nos. 61706, 61768, 22-1 BCA
+¶ 38,117 at 185,157-58. In order to provide secure egress from Building 8609,
+Meltech was required to provide sufficient emergency lighting when the system was
+activated, which was required to meet code requirements, including the Life Safety
+Code, NFPA 101. Sufficient illumination for emergency egress was a requirement of
+this firm fixed-price, design-build contract, and the costs to meet that requirement
+cannot be shifted to the government as appellant suggests. See (findings 22- 23,
+25-26); see also Lakeshore Eng’g Servs., Inc. v. United States, 748 F.3d 1341, 1347
+(Fed. Cir. 2014) (“The essence of a firm fixed-price contract is that the contractor, not
+the government, assumes the risk of unexpected costs.”); Edinburgh Int’l, ASBCA
+No. 58864, 16-1 BCA ¶ 36,227 at 176,744 (“Everything points to appellant bearing the
+risk of these increased performance costs unless some other language in the contract
+shifted the risk . . . to the government.”). We have long held that the government’s
+approval of the contractor’s drawings does not operate as a waiver of the contract’s
+requirements. Brunson Assocs., Inc., ASBCA No. 41201, 92-1 BCA ¶ 24,571
+at 122,580. Furthermore, the contract incorporated the Inspection of Construction
+clause, FAR 52.246-12, which places the responsibility on the contractor for replacing
+or correcting work not conforming to contract requirements and provides that a
+government inspection does not relieve the contractor from any contract requirement
+(finding 27).
+
+        Finally, as we indicated above, Meltech’s failure to inspect and test its
+installation of the emergency lighting system contributed to the failed December 6,
+
+
+                                           37
+2017, test and any subsequent delays associated with the ordering and replacement of
+the light fixtures. See Conquistador Dorado Joint Venture, ASBCA No. 60042 et al.,
+24-1 BCA ¶ 38,486 at 187,067 (“[contractor] failed to comply with [] clause
+[FAR 52.236-23] because it failed to manage and coordinate the work of the designers,
+and its team in general. At a minimum, compliance with the clause would have meant
+ensuring that both the design professionals and the workers in the field understood
+what the contract required”.)
+
+      Having failed to show that the emergency lighting system installed in Building
+8609 met the contract’s requirements, appellant’s appeal is denied.
+
+HEAT TRACE – ASBCA No. 61767
+
+The Parties’ Contentions
+
+        Appellant argues it can recover for a Type I differing site condition “for the
+added heat tracing it installed for relocated [water] piping due to unanticipated
+overhead obstructions in the first-floor corridor ceiling of Building 8609” (app. resp.
+br. at 26; app. reply br. at 6). Citing Nova Grp./Tutor-Saliba v. United States, 159 Fed.
+Cl. 1, 35 (2022), appellant argues that it relied on the RFP drawings in Appendix G
+showing the existing conditions above the drop ceiling in the first-floor corridor in
+preparing its design to place plumbing piping in the first-floor corridor ceiling (app. br.
+at 67; app. resp. br. at 28). In particular, appellant argues that Appendix G
+drawing AE4, which is a cross-section of the three-story barracks, shows a concrete
+girder running across either side of the ceiling of the rooms in the first-floor corridor
+but “does not show the girder continuing across the width of the corridor” (app. br.
+at 67-68). “The drawing does not depict any variance in that space or the possibility of
+any conditions that would impede access to that space above the drop ceiling” (app.
+resp. br. at 28). Appellant interpreted the Appendix G drawings to indicate that “the
+area above the first-floor corridor ceiling to be free and clear of any structural beam
+obstructions that would impact planned plumbing installations” (app. br. at 68).
+Appellant contends that the drawings depicted in Appendix L are not applicable and
+are for another building, Building 8545 (app. resp. br. at 29). However, following
+demolition, appellant discovered that each concrete girder ran across the first-floor
+corridor, four of which (J, L, O, and Q) extended approximately 6-8 inches lower than
+the other girders, which “prevented Meltech from installing the new water pipes in the
+space above the ceiling” (app. br. at 25, 68). Instead, appellant argues that varying
+beam conditions are not typical in buildings like Building 8609, and it was forced to
+run the pipe through the unheated crawlspace beneath the building (app. br. at 25).
+Appellant contends its claim is supported by a Type I differing site condition as it
+experienced additional, unexpected costs to the heat trace piping in the unheated
+crawlspace to prevent pipe freezing (app. br. at 25, 67). Appellant argues it was not
+
+
+                                            38
+foreseeable that concrete girders of varying dimensions existed above the first-floor
+corridor ceiling (app. br. at 68).
+
+        The government contends that appellant inferred too much from Appendix G’s
+drawings. The government argues that the drawings accurately represented that
+certain pipes were in the ceiling of the first-floor corridor, but the drawings did not
+represent the volume of space above the ceiling or represent that there was room for
+additional pipes or other features (gov’t resp. br. at 5). The government concedes that
+appellant may have shown that it “could not have reasonably anticipated that the
+elevations of the beams would not be uniform,” but argues that “varying beam
+conditions had nothing to do with the conflict with water lines” (gov’t resp. br. at 7-8).
+Instead, the government argues, appellant’s issue with installing water piping above
+the first-floor corridor concerns whether there was sufficient space for this utility, not
+varying concrete girder height (gov’t resp. br. at 7-8). The government argues that
+Appellant cannot prevail on a different site condition theory as Meltech has not
+provided evidence “that the presence of beams at eight feet was unusual” (gov’t resp.
+br. at 9).
+
+        In addition, the government disputed when Meltech learned that the first-floor
+beams at column lines Q, O, L, and J were lower than the other beams, observing that,
+two months before demolition, the 30% Design Submittal, dated May 22, 2015, sheet
+A-301, showed that beams Q and O were lower than the beam at N (gov’t resp. br.
+at 5-6).
+
+Was Meltech Untimely in Reporting the Differing Site Conditions?
+
+        The government challenges the timeliness of the differing site condition claim
+stating that Meltech did not report the issue with the concrete girder traversing across
+the ceiling and the varying column line heights until much later in the contract (gov’t
+br. at 49). “Meltech waited twenty-one months to inform USACE of the conflict
+between domestic water pipes and the first-floor beams. Meltech understood that the
+eight-foot beams caused a conflict by no later than April 12, 2016, when Meltech
+asked URS to relocate the pipes to the crawl space” but only informed USACE of the
+conflict in its request for equitable adjustment on January 9, 2018 (gov’t br. at 49-50).
+
+       In order to prevail in a case in which notice of a differing site condition has not
+been provided on a timely basis by the contractor, the government has the burden of
+proving that the untimeliness caused prejudice to its case. See Big Chief Drilling Co.
+v. United States, 15 Cl. Ct. 295, 303 (1988) (citing H.H.O. Co. v. United States, 12 Cl.
+Ct. 147, 164 (1987)) and Gulf & W. Indus. v. United States, 6 Cl. Ct. 742, 755 (1984).
+The government has failed to show how the timing of Meltech’s notice prejudiced it.
+Indeed, the government has admitted that “the concrete beams prevented [Meltech]
+from placing the pipes above the 1st floor ceiling” and the necessity to reroute the
+
+
+                                            39
+piping into the crawl space (finding 88). The government has failed to allege any
+prejudice whatsoever and thus has failed to carry its burden. See George Sollitt
+Constr. Co. v. United States, 64 Fed. Cl. 229, 291 (2005) (The Navy had shown that
+the lack of timely notice prejudiced it because the contractor’s solution for the missing
+dowels may have been entirely unnecessary, or a lower cost solution might have been
+preferred.); Schnip Bldg. Co. v. United States, 227 Ct. Cl. 148, 163-64, 645 F.2d 950,
+959 (1981) (approving and quoting a board of contract appeals’ decision that rejected a
+contractor’s claim because “‘[t]he lack of a timely notice was prejudicial to the
+Government because it effectively prevented any verification of [the contractor’s claim
+of a differing site condition] and also the employment of alternate remedial
+procedures’”). Moreover, even when such prejudice is proven, it does not bar
+recovery, but rather increases the contractor’s burden of persuasion of the constructive
+change claim. Hunt Bldg. Corp., ASBCA No. 31775, 89-1 BCA ¶ 21,196
+at 106,969-70; SUFI Network Servs., Inc., ASBCA No. 55306, 06-2 BCA ¶ 33,444
+at 165,778-779. Without more, the government’s challenges to the timeliness of the
+claim fails.
+
+Heat Trace Discussion
+
+       Type I Differing Site Condition
+
+       A Type I differing site condition, such as that alleged here, is premised upon the
+notion that the government has misrepresented conditions at the site and the contractor
+reasonably relied upon this representation to its detriment.
+
+        The elements of a Type I differing site condition, which FAR 52.236-2(a)(l)
+defines as “subsurface or latent physical conditions at the site which differ materially
+from those indicated in this contract,” are: “(1) the condition indicated in the contract
+differs materially from those actually encountered during performance; (2) the
+conditions actually encountered were reasonably unforeseeable based on all
+information available to the contractor at the time of bidding; (3) the contractor
+reasonably relied upon its interpretation of the contract and contract-related
+documents; and (4) the contractor was damaged as a result of the material variation
+between expected and encountered conditions.” Optimum Servs., Inc., ASBCA
+No. 58755, 15-1 BCA ¶ 35,939 at 175,653-54 (citing Stuyvesant Dredging Co. v.
+United States, 834 F.2d 1576, 1581 (Fed. Cir. 1987); Comtrol, Inc. v. United States,
+294 F.3d 1357, 1362 (Fed. Cir. 2002)).
+
+       To be eligible for an equitable adjustment for a Type I differing site condition,
+factors (1) and (3) above require that the contract indicate what the conditions
+encountered would be. See Comtrol, Inc., 294 F.3d at 1363 (citing P.J. Maffei Bldg.
+Wrecking Corp. v. United States, 732 F.2d 913, 916 (Fed. Cir. 1984)); see also United
+Contractors v. United States, 177 Ct. Cl. 151, 161-62, 368 F.2d 585, 595 (1966)
+
+
+                                           40
+(interpreting the Changed Condition clause (which was a predecessor to the Differing
+Site Condition clause) and stating that where a contract is silent about alleged
+unforeseen conditions there “can be nothing ‘shown on the drawings or indicated in
+the specifications’ from which the actual . . . conditions can ‘materially’ differ”)
+(quoting Ragonese v. United States, 128 Ct. Cl. 156, 159, 120 F. Supp. 768, 769
+(1954)).
+
+Element 1: The Design Criteria Drawings Indicated the Column Heights Were Not
+Variable, and a Concrete Girder Did Not Extend Above the First-Floor Ceiling
+
+       In determining whether a contract indicates a condition exists, the “language of
+a contract must be given that meaning that would be derived from the contract by a
+reasonably intelligent person acquainted with the contemporaneous circumstances.”
+CDM Constructors, Inc., ASBCA No. 60454 et al., 18-1 BCA ¶ 37,190 at 181,012
+(quoting Hol-Gar Mfg. Corp. v. United States, 351 F.2d 972, 975 (Ct. Cl. 1965)).
+Thus:
+
+             We must seek to put ourselves in the position of appellant
+             at the time he bid on the contract, i.e., we must seek the
+             meaning that would be attached to the language by a
+             reasonably intelligent bidder in the position of appellant,
+             who would be expected to have the technical and trade
+             knowledge of his industry and to know how to read and
+             interpret technical engineering specifications and perform
+             construction work in accordance with such specifications.
+
+CDM, 18-1 BCA ¶ 37,190 at 181,012 (quoting Adrian L. Roberson, d/b/a Roberson
+Constr. Co., ASBCA No. 6248, 61-1 BCA ¶ 2,857 at 14,915).
+
+       The government’s argument that the Design Criteria and drawings do not make a
+“positive representation of the conditions” is misplaced (gov’t br. at 42). Indeed, the
+Design Criteria provided detailed drawings of Building 8609 that show the locations of
+the concrete girder and column lines (findings 61-64). First, Appendix G drawings of
+Building 8609 show that the first-floor girder is interrupted in the ceiling and does not
+traverse the ceiling above the first-floor hallway (finding 61). This feature of the
+concrete girder not extending through the ceiling above the first-floor hallway is
+repeated in many figures (findings 61-64). Second, the Appendix G drawings show the
+column lines, the location for each, and the bottom height of each as being the same.
+Thus, the drawings show the column lines in detail but do not show the observed
+variances in their height from the floor and do not show the observed concrete columns
+crossing any of the beams across the first-floor hallway (findings 61-64). In addition,
+Appendix G drawings did not contain an exploded view to explain any hidden or latent
+features. These drawings do not include “call-outs,” marks, or lines to put the bidder on
+
+
+                                          41
+notice that these features were not being shown or to put the bidder on notice to inquire
+(findings 67-68). For example, in David Boland, Inc., ASBCA No. 61923 et al., 21-1
+BCA ¶ 37,822 at 183,656-57, the Board found that although the specification drawings
+did not explicitly show the buried telecommunications line was concrete encased, a
+reasonable contractor would have concluded it was concrete encased as the
+specification figures distinguished between exposed wiring for existing lines and
+encased ductlines. David Boland, Inc., 21-1 BCA ¶ 37,822 at 183,654, 183,656-57.
+Here, the Design Criteria do not highlight height variances in the concrete column lines
+or obstructions in the ceiling above the first-floor hallway. In fact, USACE’s Project
+Engineer testified that these features should have been shown in the drawings, and it
+was “human error” not to include a blow-out or exploded view highlighting variances in
+the concrete girder height or showing any structural obstructions (findings 67- 68). Of
+course, express statements are not required before a differing site conditions claim can
+be entertained. The indications as to site conditions “need not be explicit or specific,
+but only enough to impress or lull a reasonable bidder.” See Foster Constr. C.A. &
+Williams Bros. Co. v. United States, 193 Ct. Cl. 587 (1970); Stock & Grove, Inc. v.
+United States, 204 Ct. Cl. 103, 133-34 (1974); Fairbanks Builders, Inc., ASBCA
+No. 18288, 74-2 BCA ¶ 10,971 at 52,218-221.
+
+       The government argues unconvincingly that Appendix L showed that transverse
+beams were continuous and did not stop at the corridors. First, Appendix L is a
+“Preliminary Structural Design Analysis” containing as-built structural drawings for a
+different building, Building 8548, instead of Building 8609 (findings 65-66, 69).
+As-built drawings of Building 8609 were never provided to the bidders to show what
+the actual conditions were (findings 5, 69, 74).
+
+       Nor is the government’s reliance on Appendix L supported by the government’s
+responses to offerors’ questions. In its response to a question about whether
+“buildings 8609 and 8548 [are] similar enough to assume methodology shown on the
+drawings in Appendix L are adequate for pricing Building 8609,” AECOM cautioned
+bidders on relying on Appendix L drawings for construction purposes (finding 69).
+
+       Accordingly, the government’s reliance on Appendix L drawings is not
+persuasive as Appendix L (1) contains as-built drawings from a different building
+(8548) and is labeled “Design From Building 8548,” (2) the lack of detail in
+Appendix L drawings do not show varying column line heights, (3) USACE cautioned
+the use of Appendix L drawings for construction purposes in response to pre-bid
+questions, and (4) the information contained in Appendix G drawings for
+Building 8609 provided sufficient information about the beams to bidders that it
+should not anticipate any issues associated with the beams’ height from the floor or
+whether the beams fully transversed the first-floor corridor. USACE is correct that a
+drawing error, “human error,” in the Appendix G Drawings for Building 8609
+
+
+                                          42
+provided in the solicitation to bidders likely contributed to misunderstandings of the
+columns, which Meltech reasonably relied on (findings 67-68).
+
+       Determining what the contract indicated requires interpretation by stepping into
+“the shoes of a reasonable and prudent contractor and decide how such a contractor
+would act in interpreting the contract documents.” Randa/Madison Joint Venture III v.
+Dahlberg, 239 F.3d 1264, 1274 (Fed. Cir. 2001) (quotations and citation omitted).
+Here, Meltech has identified Appendix G drawings from the Design Criteria that
+indicated the location, orientation, and features of the column lines and concrete
+girders in the first-floor ceiling. Meltech has presented sufficient evidence upon which
+a reasonable fact finder could find that the Design Criteria drawings indicated what the
+conditions, location, and orientation of the column lines and concrete girders would
+be. In addition, Meltech has presented sufficient evidence that the Design Criteria
+drawings indicated that column lines would not contain varying heights from the floor
+and that the first-floor girder would be interrupted and would not traverse continuously
+above the hallway. Such indications “‘need not be explicit or specific’ so long as they
+provide sufficient grounds by which the contractor can justify his ‘expectation of latent
+conditions materially different from those encountered.’” Neal & Co. v. United States,
+36 Fed. Cl. 600, 617 (1996) (citing P.J. Maffei Bldg. Wrecking Corp. v. United States,
+732 F.2d 913, 916 (Fed. Cir. 1984)).
+
+Elements 2 and 3: The Conditions Encountered Were Reasonably Unforeseeable
+Based on All Information Available to the Contractor at the Time of Bidding; Meltech
+Reasonably Relied Upon Its Interpretation of the Design Criteria Documents
+
+       As there is sufficient overlap in elements 2 and 3 of Type I differing site
+conditions, we will discuss them together.
+
+        The government argues that firsthand knowledge is required to show reliance
+on representations in government-furnished documents regarding the presence or
+absence of concrete beams or their dimensions; and without firsthand knowledge,
+Meltech cannot meet a Type I claim (gov’t br. at 41; gov’t resp. br. at 4). While
+firsthand knowledge can be helpful evidence, it is a type of weighted evidence and is
+not a requirement to satisfy the burden of proof for a Type I differing site condition.
+See generally the Board’s discussion on weighing firsthand knowledge testimony:
+Hurst Excavating, Inc., ASBCA No. 37351, 93-3 BCA ¶ 25,935 at 128,991 (The
+Board reaffirming its earlier decision on weighing the evidence, which included a
+contractor’s principal witness who had little to no firsthand knowledge, but finding
+substantial evidence in the cited record that the contractor satisfied its burden of
+proof.); Emerald Maint., Inc., ASBCA No. 43929, 98-2 BCA ¶ 29,903 at 148,053-55
+(The Board gave little weight to the contractor’s project manager’s testimony who
+demonstrated a lack of familiarity with the project, in which most of his project
+management activities were 150 miles offsite, were conducted in writing, he lacked
+
+
+                                           43
+sufficient knowledge of performance activities, his lack of project awareness was
+demonstrated that he could not even locate the contractor’s project field office on a site
+plan, and he was not familiar with the names of contractor’s employees who signed its
+proposed schedules.). Rather, a contractor must prove a Type I differing site condition
+elements by a preponderance of the evidence. Stuyvesant Dredging Co., 834 F.2d
+at 1581 (A contractor must prove, by a preponderance of the evidence, that certain
+conditions were indicated in the contract, that the contractor relied on those
+indications, and that the conditions actually encountered differed materially from those
+indicated in the contract.); Optimum Servs., Inc., ASBCA No. 58755, 15-1 BCA
+¶ 35,939 at 175,653; Tetra Tech Facilities Constr., LLC, ASBCA Nos. 58568, 58845,
+16-1 BCA ¶ 36,562 at 178,087.
+
+       The second element requires that Meltech show that, based on the information
+reasonably available at the time of its proposal, the actual conditions it encountered
+were “reasonably unforeseeable based on all the information available to the
+contractor at the time of bidding.” Stuyvesant Dredging Co., 834 F.2d at 1581.
+
+       The government argues that Meltech knew two months prior to the start of
+demolition that the first-floor beams at column lines Q, O, L, and J were lower than
+the other beams in the dormitory, citing the Concept (30%) Design Submittal dated
+May 22, 2015, Sheet A-301. Thus, “Meltech’s assumption that the beams height
+would be uniform was not reasonable” or that “the Government disclosed enough
+information to allow an adept [bidder] to conclude that the beam heights varied,”
+which would exclude a Type I differing site condition. (Gov’t reply br. at 5-7)
+However, the issue is whether the conditions encountered differed materially from
+those indicated in the contract and upon which the contractor based its bid, not from
+conditions discovered after the contract award. See Tetra Tech Facilities Constr., 16-1
+BCA ¶ 36,562 at 178,087-88.
+
+       Here, prospective bidders were allowed to do a site investigation of the
+building, which included a USACE-guided walk-through that lasted about an hour
+(findings 9, 54-56, 71). For a Type I claim, the contractor is held to what a site
+viewing would reveal. The prospective bidder is entitled to rely on the accuracy of
+information included in the solicitation. The contractor is not obligated to conduct its
+own surveys or go beyond what a simple sight viewing might reveal. See United
+States v. Atl. Dredging Co., 253 U.S. 1, 11 (1920) (holding “where it is stated that the
+direction to contractors to visit the site and inform themselves of the actual conditions
+of a proposed undertaking will not relieve from defects in the plans and
+specifications”); Dan G. Trawick, III Contractors, ASBCA No. 47779, 98-2 BCA
+¶ 29,781 at 147,571 (“It is well settled that contractors are charged only with the
+knowledge of any defects that a reasonable site investigation would have revealed. . . .
+Here, the Government has not introduced any evidence of what a reasonable site
+investigation would have shown. It has not told us what the appellant should have
+
+
+                                           44
+looked for and what it would have discovered had a site visit been conducted.”)
+(internal citations omitted). That is, Meltech may not recover if it could have
+discovered the varying column line heights and non-interrupted concrete girder
+spanning above the first-floor hallway during a reasonable site investigation before it
+submitted its proposal. See generally Operational Serv. Corp., ASBCA No. 37059
+et al., 93-3 BCA ¶ 26,190 at 130,379 (Bidder had a right to rely on government-
+supplied documents and information as reasonably accurate, “[a] bidder could not be
+expected to eyeball the variations in the sizes of 100 different areas, many of which
+had irregular boundaries,” and “[e]ven if there was sufficient time, it also would be
+unreasonable to expect a bidder to undertake the expense of having all the areas
+surveyed.”); Urban Gen. Contractors, Inc., ASBCA No. 49653, 96-2 BCA ¶ 28,516
+at 142,401.
+
+        Meltech attended the site visit on August 14, 2014, and performed a visual
+inspection throughout the space. The site visit was constrained as the building was
+occupied, limited to one hour, and guided by USACE (findings 9, 54-55). Inspection
+above the ceiling was restricted as much of that space was filled with building support
+components that blocked the view of column lines and concrete girder
+(findings 53-54). Only part of the building had a drop-down ceiling; other parts
+contained sheetrock (findings 53-54). Prospective bidders were not allowed to remove
+or destroy the ceiling to take measurements (finding 55). Similarly, in preparation for
+the Design Criteria documents for the RFP, USACE’s architect-engineer, B-V’s, site
+investigation was also constrained for the same reasons (finding 53). B-V
+acknowledges that it was limited by the accessibility of the ceiling and could not
+determine whether interferences existed in the first-floor ceiling. While B-V stated it
+believed the piping would fit in the ceiling, it could only speak to the measurements it
+took. (Finding 53) The results B-V obtained from its investigation were included in
+the Design Criteria and drawings. Consistent with B-V’s internal conclusions,
+Meltech’s Director of Quality Control and Safety testified that because there were no
+obstructions identified in the drawings, and with the information obtained during the
+site investigation, there appeared to be sufficient space to install the piping above the
+first-floor ceiling (finding 7). Meltech submitted its proposal and priced it based on
+assumptions made from the Design Criteria documents. The proposal provided the
+new plumbing layout that was to be installed in the first-floor ceiling (finding 72).
+However, the loss of the above-the-ceiling space, which included column lines J, L, O,
+and Q extending 6-8 inches lower than the rest of the column lines, concrete girders
+extending through the first-floor corridor, and the bottoms of some column lines being
+only 8 feet above the finished floor, prevented some of the new plumbing being
+installed in the first-floor ceiling (findings 77-79, 81-83, 88).
+
+       The Design Criteria and drawings did not identify any of the conditions
+encountered by Meltech. At least four drawings in Appendix G represented the
+location and configurations of first-floor ceiling beams, which depicted them as not
+continuous (findings 61-64, 78). The government has not cited to any evidence in the
+
+                                           45
+record that Meltech’s site visit was inadequate, nor would a reasonable site visit have
+identified the varying height differences of the column lines or the concrete girder
+extending above the hallway in the first-floor ceiling. It is unreasonable to conclude
+that a contractor having access only to a portion of the first-floor ceiling would
+identify varying column line height differences and concrete girders through a
+spiderweb of lights, mechanical piping, sprinkler piping, electrical conduit, fire alarm
+cable, HVAC ducts, and other building support components. Cf. ECI Const., Inc.,
+ASBCA No. 43843, 92-3 BCA ¶ 25,197 at 125,552 (“We are convinced, had appellant
+made a site visit, it would have observed the condition complained of.”). A reasonable
+site visit does not include an exhaustive search or possible destruction of building
+components to see what is behind them. Kinetic Builders, Inc., ASBCA No. 32627,
+88-2 BCA ¶ 20,657 at 104,399 (Board rejecting the government’s argument that the
+site investigation was inadequate because the contractor could have discovered the
+problem condition if it had performed destructive testing such as boring and augering,
+when the contractor was not obligated to conduct such an investigation). The Design
+Criteria Drawings misrepresented both the column lines’ heights and the concrete
+girder fully extending through the ceiling across the first-floor hallway. The architect-
+engineer services provided by B-V were to “provide all necessary services required for
+the preparation of a complete and biddable RFP Design-Build Package” (findings 4-5).
+B-V was unsuccessful in this attempt. The USACE must assume responsibility for the
+representations of Building 8609’s structural components in the Appendix G drawings
+of the Design Criteria provided to bidders before award. These drawings
+misrepresented the column lines’ heights and the concrete girder fully extending
+through the ceiling across the first-floor hallway. More importantly, the government
+admits in its responses to interrogatories “. . . that as a practical matter, the concrete
+beams prevented Appellant from placing the pipes above the 1st floor ceiling”
+(finding 88).
+
+        We are convinced that a reasonable pre-bid site investigation would not have
+revealed the conditions encountered by appellant. AAAA Enters., Inc., ASBCA
+No. 28172, 86-1 BCA ¶ 18,628 at 93,604 (“The materials in question were covered by
+blown sand and even assuming that a differing site condition occurred, the petroleum
+substances were not easily distinguishable from the existing asphalt coatings.”). We
+held in Fortec Constructors, ASBCA No. 26453, 82-2 BCA ¶ 15,845, that a contractor
+could recover on its claim where it could have found the differing site condition only
+by searching for it. Accordingly, we determine that Meltech’s site investigation as it
+relates to this claim was reasonable, and it would not have identified varying height
+differences in the column lines and the concrete girder extending above the hallway in
+the first-floor ceiling. See S.T.G. Constr. Co., Inc. v. United States, 157 Ct. Cl. 409,
+415 (1962) (Whether the site investigation was reasonable “is dependent upon the facts
+and circumstances of the particular case.”); Zinger Constr. Co., Inc., ASBCA
+No. 26331, 82-2 BCA ¶ 15,988, aff’d, 807 F.2d 979 (Fed. Cir. 1986) (the contractor
+
+
+                                           46
+assumes the risk of drawing deficiencies that were or should have been discovered by
+a pre-bid site visit).
+
+        It was reasonably unforeseeable for Meltech to identify through either the site
+visit or the Design Criteria documents the existence of varying heights of the column
+lines, concrete girders extending through the first-floor corridor, and the bottoms of
+some column lines being only 8 feet above the finished floor. Based upon the cited
+evidence, it was reasonable for Meltech to conclude that it could install the water
+piping in the first-floor ceiling. We determine that the Design Criteria documents and
+drawings misled bidders on Building 8609’s structural layout and design.
+
+Element 4: Meltech was Damaged as a Result of the Material Variation Between the
+Expected and Encountered Conditions
+
+        The government argues that even if it had provided complete location and
+dimension information about the first-floor beams, Meltech would not have changed
+its proposal and thus did not include the cost of the heat trace system (gov’t br. at 53).
+“For at least seven months (the end of demolition in September of 2015 to the request
+to URS change the piping in April of 2016), Meltech had all the information it could
+possibly have about first-floor beam dimensions, but still planned to run pipes in the
+first-floor ceiling” (gov’t br. at 54). Thus, the government argues that since Meltech
+did not immediately request to change the piping after notice of the different beam
+dimensions, Meltech would have still proposed the piping in the first-floor ceiling
+even if it had known of the issues surrounding the first-floor column lines and girder
+(gov’t br. at 54).
+
+        It is inappropriate for the Board to speculate on imagined outcomes that were
+not briefed or part of the record. The fourth element requires that Meltech prove that it
+was damaged due to the material variation between expected and encountered
+conditions. The government is correct in noting that “Meltech did not include the cost
+of a heat-trace system in its pricing proposal because it did not anticipate needing to
+install such a system” (gov’t br. at 53). After reviewing the Design Criteria drawings
+and from their site investigation, Meltech planned to install the plumbing pipe in the
+first-floor ceiling (findings 71-72, 78). Meltech’s several-month delay from building
+demolition to submitting its request to URS to reroute the pipe is reasonable. Meltech
+testified that after identifying the concrete girders extended through the first-floor
+corridor, it planned to make it work until another issue popped up. Beams J, L, O, and
+Q had lower heights, and the column bottoms were only 8 feet above the finished
+floor. The combination of these unanticipated conditions caused Meltech to devise an
+alternative plumbing layout. See (findings 77-81).
+
+      Meltech submitted its request on April 12, 2016, to “change the routing of the
+domestic water lines and the water lines to the laundry room from the first-floor
+
+
+                                            47
+hallway ceiling to the crawl space from H line to T line,” as there are four beams
+whose lower height do not allow a minimum of 8 feet above the finished floor
+(finding 81). URS approved Meltech’s request and stated that “piping will be required
+to be heat traced since it is located in the unheated crawl space” (finding 82).
+
+        Although there was no additional cost to run the piping in the crawl space
+versus the first-floor ceiling, Meltech was required to install a more robust heat trace
+system, which it had already contemplated in its pricing proposal for the sprinkler lines
+in the hammerhead crawl space (finding 83). The modified heat trace system included
+a more extensive control panel, additional heat trace cable and fittings, additional
+electric power feeds, and a 150-amp breaker to be installed in the main switch gear at a
+cost of $130,134. Meltech completed the additional work associated with the heat
+trace system on December 29, 2017. Meltech’s claim also requests an additional
+59 days 4 to extend the completion of the project from October 31, 2017, the previously
+requested date for the end of the performance period, to December 29, 2017.
+(Findings 83-84)
+
+        The purpose of the Differing Site Conditions clause is to induce bidders to rely
+on information concerning subsurface conditions given by the government in the
+solicitation and not to include contingencies in prices for those conditions. With the
+promise of equitable adjustment should a differing condition be, indeed, encountered:
+
+                Bidders . . . need not consider how large a contingency
+                should be added to the bid to cover the risk. They will
+                have no windfalls and no disasters. The Government
+                benefits from more accurate bidding, without inflation for
+                risks which may not eventuate.
+
+Foster Constr. C.A. & Williams Bros. Co. v. United States, 193 Ct. Cl. 587, 614
+(1970).
+
+        There is sufficient evidence in the record that the rerouting of the plumbing
+pipe into the first-floor crawl space with the addition of the heat trace system increased
+Meltech’s costs. We determine that Meltech has proved by a preponderance of the
+evidence that it was injured by the differing site condition. Accordingly, Meltech is
+entitled to recover its additional performance costs caused by the Type I differing site
+conditions.
+
+
+4
+    Five of the 13 consolidated appeals had a delay component of the claim. For
+         efficiency, the parties agreed to a portion of the hearing dedicated to delay for
+         ASBCA Nos. 61765 (base access), 61767 (heat trace), 61869 (initial delay),
+         61870 (100% IFC delay), and 62091 (liquidated damages). Accordingly, the
+         Board will issue a separate opinion on the delay concerning these appeals.
+
+                                              48
+DAY ROOM SHELVING – ASBCA No. 61872
+
+The Parties’ Contentions
+
+        Meltech appeals a credit taken by the government for material associated with
+the Day Room Shelving. Meltech argues that the Design Criteria set forth in the
+specification identify plastic laminate as the finish material for the Day Room
+Shelving. Meltech’s proposal did not indicate white oak veneer in the day room
+shelving, but later, after the contract award during the design phase, Meltech
+mistakenly listed white oak veneer as the material, which was approved in the 100%
+Interior Specifications. (App. br. at 92; app. resp. br. at 44) Meltech argues that the
+plastic laminate material fully meets the performance requirements of the RFP, and
+therefore, the government credit is not appropriate (app. reply br. at 43).
+
+        The government argues that while the solicitation identified plastic laminate for
+the Day Room Shelving, the 100% Interior Specification prepared by Meltech
+included a white oak finish for the shelving unit. The 100% Interior Specification is a
+contract document that Meltech is obligated to follow, yet it installed plastic laminate.
+(Gov’t br. at 78) The government maintains that it is entitled to receive “precisely
+what is specified in the contract,” which was white oak veneer (gov’t br. at 78; gov’t
+resp. br. at 49-51). The government asserts that Meltech breached the contract when it
+performed work that did not conform to the 100% drawings without a change order
+issued by the Contracting Officer (gov’t br. at 75; gov’t resp. br. at 49). The
+government alleges it incurred damages in its time to review requests that “depart from
+the approved design.” These damages include the time it takes to go through multiple
+layers of review, including engineers and the contracting officer, who do not work for
+free. (Gov’t resp. br. at 52) The government argues it was appropriate for the
+administrative contracting officer to reduce “the contract price by $16,447 to account
+for the installation of cheaper plastic laminate in place of white oak” as contractors
+should not “be given unlimited ability to impose costs on the Government at any time,
+while pocketing all the savings” (gov’t br. at 78; gov’t resp. br. at 51-52).
+
+Day Room Shelving Discussion
+
+        Design-build contracts are common for construction, renovations, and repair
+projects, where the government provides the contractor with its requirements, but the
+contractor is free to exercise its ingenuity in achieving that objective or standard of
+performance and selecting the means to do so. See generally ECC Int’l, LLC, ASBCA
+No. 58875, 20-1 BCA ¶ 37,683 at 182,961. It is not uncommon for issues to arise in
+design-build contracts. One of the more common issues is when the contract describes
+a certain requirement, but later during the design process, the contractor will submit in
+the 35% or 100% design submittal with a lower requirement. The government will
+
+
+                                           49
+unknowingly approve that design, not realizing the contractor may have “slipped in”
+or made an error on one of the requirements; thus, the approved 100% design has a
+lower requirement as compared to the contract. In these situations, we have found that
+the government is justified in demanding the contractor provide the requirements
+specified in the RFP and resulting contract. See Sauer, Inc., ASBCA No. 61847, 21-1
+BCA ¶ 37,939 at 184,269-272 (a contract for Design Build/Design Bid Build
+construction for new construction, renovations, alterations, and repair projects for
+multi-story barracks. In its final design, the contractor mistakenly switched the above-
+ground sanitary waste piping systems type from cast iron to PVC pipes, which was a
+deviation from the contract’s terms and conditions.); Swinerton Builders Nw., ASBCA
+No. 57329, 17-1 BCA ¶ 36,738 at 179,012-018 (The Board determined that the Army
+was justified in assuming the contractor’s mechanical/HVAC proposal met the RFP
+requirements for a boiler/chiller system, the contractor’s failure to specifically advise
+the government that its HVAC/mechanical proposal included a deviation from the RFP
+requirements, and the Army did not waive the RFP required HVAC/mechanical
+system requirements).
+
+        Thus, our long-held rule has been that the government cannot properly be
+blamed for approving the design when the contractor failed to inform the government
+that its design deviated from Task Order minimum requirements. See Watts
+Constructors, LLC, ASBCA No. 61493, 20-1 BCA ¶ 37,563 at 182,387 (no evidence
+that quality assurance representatives who observed non-compliant contractor work
+knowingly waived the contractual terms); Rivera Constr. Co., Inc., ASBCA
+Nos. 29391, 30207, 88-2 BCA ¶ 20,750 at 104,853 (the prime contractor was ignorant
+of its nonconforming change to the minimum requirements, and coordination and
+supervision of subcontractor work is responsibility of prime contractor); Fortec
+Constructors, 83-1 BCA ¶ 16,374 at 81,407 (“unwitting Government approval of a
+noncomplying submittal does not change the contract or estop the Government from
+demanding strict conformance to the contract.”).
+
+        The present appeal is unique and unlike any of the other cited appeals dealing
+with a mistake in the approved 100% specification. Those previously described cases
+have the commonality that the RFP/contract had a higher requirement than the
+resulting approved 100% design document. Thus, the government was getting a lower
+quality, lower requirement than what was originally contracted for. In contrast,
+Meltech made a mistake during the design phase and provided a much higher
+quality/requirement than the RFP. This may be a case of first impression before the
+Board in which the government contracts for a requirement, the contractor makes a
+mistake during the design phase and submits a higher requirement, and now the
+government demands that the contractor is bound to its mistake since the government
+had approved the 100% design submittal.
+
+
+                                           50
+       The government bears the burden of establishing that the contract required the
+work upon which it seeks a credit and that it is “entitled to an equitable adjustment for
+a deductive change to reflect the cost savings to the contractor.” C.H. Hyperbarics,
+Inc., ASBCA No. 49375 et al., 04-1 BCA ¶ 32,568 at 161,150; Nager Elec. Co. v.
+United States, 442 F.2d 936 (Ct. Cl. 1971); Fru-Con Constr. Corp., ASBCA
+Nos. 53544, 53794, 05-1 BCA ¶ 32,936 at 163,165.
+
+        The government cites Pyrotechnic Specialties, Inc., ASBCA No. 57890 et al.,
+17-1 BCA ¶ 36,696 at 178,692-93, and Trade W. Constr., Inc., ASBCA No. 61068,
+20-1 BCA ¶ 37,713 (Trade West I), for the propositions that the government is
+“entitled to receive ‘precisely what is specified in the contract,’” and the “government
+is entitled to insist on strict compliance with its contract specifications, and has no
+obligation to accept substitutes” (gov’t br. at 78-79). Yet, none of the government’s
+cited cases address a contract, which is a contractor design, government-approved
+100% design specification, and contractor build.
+
+        For example, Pyrotechnic Specialties dealt with whether government-provided
+specifications were defective for the production of distress smoke flares following the
+Army’s rejection of two production lots for their failure to pass multiple acceptance
+tests. The contract in Pyrotechnic Specialties included government-furnished tables,
+drawings, and text for the smoke flare’s appropriate production, testing, and functional
+requirements. The Board determined that the contractor offered little evidence to
+support its assertion that it substantially complied with the specifications and showed
+that the government’s specifications were defective. See Pyrotechnic Specialties, 17-1
+BCA ¶ 36,696 at 178,694-695.
+
+        Trade W. Constr. dealt with jetty repairs in which the contractor was to place
+stones weighing 14 to 22 tons onto an existing jetty, ensuring that the stones formed a
+compact mass and interlocked with each other and the existing stone. The contract’s
+specifications contained government-furnished descriptions and drawings for the stone
+size, stone source, and the placement of the stone, which described how the stone was
+to be positioned and the requirements for interlocking. Trade West I, 20-1 BCA
+¶ 37,713 at 183,067, 183,075-76; Trade W. Constr., Inc., ASBCA No. 61068, 22-1
+BCA ¶ 38,214 at 185,572-74, 185,597-04. Yet, the contractor failed to show that it
+met the requirements of the contract’s specifications and figures that the installed
+stones were angular, of varying sizes and shapes, and interlocked and formed a
+compact mass. Trade W. Constr., Inc., 22-1 BCA ¶ 38,214 at 185,600-04.
+Accordingly, the government’s cited cases are distinguishable from the present appeal
+as they involve a different contract type in which the government provides the
+contractor direction on how to perform the contract.
+
+      Most typically, in the case of a deductive contract change, any downward price
+adjustment is based upon the cost savings to the contractor, that is, the costs “the
+
+
+                                           51
+contractor would have incurred had the work not been reduced or deleted.” Celesco
+Indus., Inc., ASBCA No. 22251, 79-1 BCA ¶ 13,604 at 66,681, 66,683. Yet,
+Meltech’s request to change the oak veneer to plastic laminate did not result in any
+cost savings for either party. The Design Criteria described that the materials shall be
+of the “lowest [t]ype of [c]onstruction,” which includes “plastic laminate” as a cabinet
+finish material (findings 90, 92-93). Although Meltech intended to install plastic
+laminate cabinets and shelving in the day room, Meltech’s 100% Design submittal
+mistakenly described the day room shelving and media storage unit as having “quarter
+slice white oak” (findings 94-95, 98). The administrative contracting officer testified
+that the substitution of the plastic laminate for the oak veneer did not change or deviate
+from the requirements of the Design Criteria (finding 102).
+
+        “Proof of the parties’ intentionality is relevant to our deciding how the
+deductive change should be priced.” Osborne Constr. Co., ASBCA No. 55030, 09-1
+BCA ¶ 34,083 at 168,513 (citing CTA Inc., ASBCA No. 47062, 00-2 BCA ¶ 30,947
+at 152,763). It is important to note that Meltech did not inform the government that it
+purposely provided materials that exceeded the RFP’s quality standards. There is no
+evidence that appellant submitted a deliberately low bid on the day room shelving. In
+addition, there is no evidence that Meltech purposely submitted in its 100% Design
+submittal with finishing materials that exceeded the RFP’s minimal standards to gain
+favor for future bidding opportunities. As we have held that the government does not
+waive RFP requirements when it unwittingly approves a lesser quality design, a
+contractor’s reasonable mistake should not require it to provide materials above and
+beyond the contracts requirements. This is an example of a contractor’s mistake
+during the design-build phase, in which the contractor ultimately provided a finished
+material at the quality specified in the RFP/Design Criteria. There was no savings by
+Meltech nor a loss to the government. The equitable adjustment should not increase or
+decrease the contractors’ loss at the government’s expense. Nager Elec. Co. v. United
+States, 442 F.2d 936, 946 (Ct. Cl. 1971); NASH AND CIBINIC, FEDERAL PROCUREMENT
+LAW (2d ed. 1969) at 564. Moreover, the government presented no evidence to the
+Board that it incurred any costs of significance associated with its review of Meltech’s
+submittals on these issues.
+
+        Accordingly, the government has failed to carry its burden of establishing that it
+is due a deductive credit for receiving day room shelving and cabinetry composed of
+plastic laminate while the RFP/Design Criteria call for the same materials and quality. 5
+
+
+5
+    This is a perfect example of a dispute that should have been resolved at the lowest
+          possible level. Ultimately, the USACE obtained exactly what it contracted
+          for: materials which include “plastic laminate.” Instead, in the government’s
+          pursuit of litigating a credit in the unsubstantiated amount of $16,447, it spent
+          significantly more money and resources than the requested credit. The parties
+          engaged in nine days of trial, which the Day Room Shelving appeal was part of,
+
+                                             52
+States Roofing Corp., ASBCA No. 55507, 09-1 BCA ¶ 34,094 at 168,573, citing
+Nager Elec. Co. v. United States, 194 Ct. Cl. at 853; see also Valley Asphalt Corp.,
+ASBCA No. 17595, 74-2 BCA ¶ 10,680 at 50,770 (although the runway was built to
+the wrong elevation, only nominal price reduction allowed because no loss in value to
+the government). “The requirement that a contractor claimant must shoulder the
+burden of establishing the fundamental facts of liability, causation and resultant injury
+relating to a claim for which it sees recovery applies with equal efficacy to claims
+brought by the government.” Fru-Con Const. Corp., ASBCA Nos. 53544, 53794,
+05-1 BCA ¶ 32,936 at 163,165 (citing Roberts v. United States, 357 F.2d 938, 949 (Ct.
+Cl. 1966)).
+
+                                    CONCLUSION
+
+      The appeal docketed as ASBCA No. 61766 (emergency lighting) is denied.
+The appeals docketed as ASBCA No. 61767 (heat trace) and ASBCA No. 61872 (day
+room shelving) are sustained and are returned to the parties for a determination of
+quantum.
+
+       Dated: July 16, 2025
+
+
+                                                 STEPHANIE CATES-HARMAN
+                                                 Administrative Judge
+                                                 Armed Services Board
+                                                 of Contract Appeals
+
+ I concur                                        I concur
+
+
+ OWEN C. WILSON                                  MICHAEL N. O’CONNELL
+ Administrative Judge                            Administrative Judge
+ Acting Chairman                                 Vice Chairman
+ Armed Services Board                            Armed Services Board
+ of Contract Appeals                             of Contract Appeals
+
+
+       nearly ten pages in the post-hearing briefs and other supporting documents were
+       filed. Cooler heads should have prevailed, as this issue could have been better
+       resolved during the give and take that typically occurs by experienced
+       contracting officers and contractors.
+
+
+                                           53
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA Nos. 61766, 61767, 61872,
+Appeals of Meltech Corporation, Inc., rendered in conformance with the Board’s
+Charter.
+
+       Dated: July 16, 2025
+
+
+                                               PAULLA K. GATES-LEWIS
+                                               Recorder, Armed Services
+                                               Board of Contract Appeals
+
+
+                                          54

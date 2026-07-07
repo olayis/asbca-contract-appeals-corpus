@@ -1,0 +1,793 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+
+Appeals of--                                 )
+                                             )
+All Star Technical Services, Inc.            )      ASBCA Nos. 58668, 58772
+                                             )
+Under Contract No. W9124A-11-C-0002          )
+
+APPEARANCE FOR THE APPELLANT:                       Mr. Kevin Ingley
+                                                     Senior Vice President
+
+APPEARANCES FOR THE GOVERNMENT:                     Raymond M. Saunders, Esq.
+                                                     Army Chief Trial Attorney
+                                                    Brian E. Bentley, Esq.
+                                                    CPT Ahsan Nasar, JA
+                                                     Trial Attorneys
+
+                 OPINION BY ADMINISTRATIVE JUDGE THRASHER
+                            PURSUANT TO RULE 12.3
+
+       This appeal arises out of a contract between the Army and All Star Technical
+Services, Inc. (All Star) to provide base maintenance support services at Fort Huachuca,
+Arizona. All Star appeals four claims against the Army and two government claims
+asserted against it by the Army. 1 All Star elected the Board Rule 12.3 accelerated
+procedure on 15 July 2013. This decision only addresses entitlement. We have
+jurisdiction under the Contract Disputes Act (CDA) of 1978,41 U.S.C. §§ 7101-7109.
+
+                                    FINDINGS OF FACT
+
+                                      I. Background
+
+         1. All Star provided base maintenance support services at Fort Huachuca for
+several years under Contract No. W912A-06-C-0004 (contract 0004). By 2011, contract
+0004 was set to end but the government did not have time to compete a follow-on
+contract without a break in service. As a result, the government decided not to compete
+the follow-on contract at that time but instead entered into sole source negotiations with
+All Star to provide bridge services until a new contract could be competed. The
+
+1
+    ASBCA No. 58668 addresses the four contractor claims appealed from the contracting
+       officer's final decision dated 31 May 2013 and ASBCA No. 58772 addresses the
+       two government claims asserted by the government pursuant to the contracting
+       officer's final decision dated 3 June 2013 (R4, tabs 32, 33).
+negotiations are documented, in part, by an email string between All Star's project
+manager, Mr. Paul Lebeau, the contracting officer's representative, Mr. Nick Lebano, and
+the contracting officer (CO), Ms. Lynn Warner, between 24 March and 28 June 2011
+(app. supp. R4, tab 2). On 24 March 2011 the government asked All Star if it could
+prepare a proposal for what it would anticipate charging per month for a maximum
+12-month bridge contract (id. at 7). All Star questioned whether the bridge contract
+would be a continuation of contract 0004, i.e., continue the hours already on contract, or a
+new contract, i.e., start with new hours. The government responded that it would be a
+new contract, "Even though the same type of work will carryover, everything will start
+over new" (id. at 5). All Star responded, "We will need a Schedule B of what we are to
+bid and a new Section C.5.23 so I know what areas and what hours you want us to price.
+I can't make the assumption that everything remains the same" (id. ). The government
+responded that the CLIN structure would stay the same "as seen on the six month
+extension and the work will be the same as existing" (id. at 4). After All Star again
+expressed concern about ensuring it had the correct Performance Work Statement (PWS)
+to prepare its bid, the government responded "DPW would like for All Star to base their
+proposal for the bridge contract on the existing O&M PWS which I think was last
+updated by modification in December of2010; essentially status quo" (id. at 3).
+
+        2. On 27 May 2011, the US Army Contracting Command issued Contract
+No. W9124A-11-C-0002 (bridge contract) to All-Star for facility maintenance at Fort
+Huachuca, Arizona (R4, tab 1). The bridge contract was awarded with an initial base
+period of seven months ( 1 June - 31 December 2011) and five one-month option
+periods. The total period of performance ofthe contract was not to exceed one-year,
+ending on 31 May 2012. (R4, tab 1 at KFLD000209) The contract was ultimately
+                                              2
+extended until30 November 2012 (R4, tab 22).
+
+      3. The bridge contract PWS required the contractor to perform all work
+designated in five work categories: Service Orders ("SOs"), Preventive Maintenance
+("PM"), nonrecurring Individual Job Work Orders("IJOs"), recurring maintenance Work
+
+
+2
+    The contract included FAR 52-217-8, OPTION TO EXTEND SERVICES (R4, tab 1 at
+         KFLD000209). On 24 May 2012, the government exercised two months ofthe
+         FAR 52-217-8 option period via Modification No. (Mod. No.) P00015, which
+         extended the period of performance to 31 July 2012 (R4, tab 16). The period of
+         performance was extended another four times, each for a period of one month:
+         Mod. No. P00016 extended the period of performance by another month to 31
+         August 2012 (R4, tab 17); Mod. No. P00017 extended the period of performance
+         by another month to 30 September 2012 (R4, tab 18); Mod. No. P00019 extended
+         the period of performance by another month to 31 October 2012 (R4, tab 20); and
+         Mod. No. P00021 extended the period of performance by another month to 30
+         November 2012 (R4, tab 22).
+
+                                             2
+Orders ("RM"), and Standing Operations Orders ("SOOs"). 3 The Directorate of Public
+Works (DPW) at Fort Huachuca was responsible for planning, directing, supervising and
+coordinating all facilities engineering activities, including all services required under the
+bridge contract (R4, tab 1 at KFLD000027). Specific responsibility for project
+management of the bridge contract, including the issuance of SOs and IJOs, resided in the
+Chief of the Business Operations and Integration Division ofDPW, Ms. Mary Beth Saenz
+(tr. 62). She worked with the contract administrator, Mr. Lebano, and the CO,
+Ms. Virginia Jo Miller, to administer the bridge contract (tr. 62, 143).
+
+        4. SOs were used to authorize and manage minor maintenance, repair and minor
+construction jobs that would not exceed $2,000 in total costs or 40 hours in duration
+(R4, tab 1 at KFLD000030). An IJO was a category of work request used for all
+maintenance, repair, minor construction, and new work which exceeded the scope of a
+SO and other similar services, but not covered by a SOO (R4, tab 1 at KFLD000028).
+
+        5. The payment and allocation of cost risk between the parties differed between
+SOs and IJOs. The SO contract price is set at time of award by the contractor's bid based
+upon the workload estimates provided in the solicitation. The price in the bridge contract
+(CLIN 003) was negotiated based upon the workload estimates under the previous
+contract at a fixed price of$669,943.50 per year, paid monthly in payments of
+$133,988.70. This price was limited up to a maximum number of 17,000 SOs per year
+(R4, tab 1 at KFLD000003). Therefore, the contractor assumed the risk that the cost of
+the work ordered within any given month would exceed the negoiated price up to an
+annual order ceiling of 17,000 SOs. In the event the government required SOs beyond
+the 17,000 annual ceiling, CLIN 0004 provided additional SOs could be ordered in units
+of 100 SOs for a fixed unit price of$9,954.00 (id.). IJOs on the other hand, were paid on
+a fixed-price basis but based upon an estimate and negotiation at the time the requirement
+arose (id. at KFLD000064 § C.5.1.7.10.1).
+
+                         II. Contractor Claims (ASBCA No. 58668)
+
+Relocation of the 40th Motor Pool
+
+        6. As early as 6 June 2012, a requirement arose for hauling and crane services
+requiring "1-Crane and Tractor/Flatbed trailer, support from DPW/All Star" for an
+estimated 3 days, 25/26/27 June 2012, to move the motor pool (app. supp. R4, tab 3 at 1).
+Both crane support and hauling services are contemplated areas of service in the bridge
+contract's PWS (R4, tab 1 at KFLD000070 §§ C.5.2.7, C.5.2.8).
+
+3
+    For purposes of this appeal, appellant's allegations concern the propriety of issuing
+         SOs instead of IJOs and RM for work under the contract. Because All Star
+         does not address PM or SOOs in its appeal, the Board will limit this decision to
+         the issue of SOs, RM, and IJOs.
+
+                                             3
+         7. The request to relocate the 40th Motor Pool was originally submitted on 6 June
+2012 as IJO # BEA3-33142 with a performance date scheduled for 25, 26, 27 June 2012
+(app. supp. R4, tab 3 at 3). The government cancelled that IJO request on 26 June 2012
+(id.). In its place, the government issued four individual SOs on 26 June 2012, breaking
+the work into component tasks of crane support separate from flatbed truck support on
+two separate SOs to be performed on 27 June 2012, and followed up with two more
+separate SOs to be performed on 28 June 2012 (app. supp. R4, tabs 3-6).
+
+        8. Contract section C.5.1.6.1 identifies the requirements and limitations for SOs
+and the process for requesting the conversion of a SO to an IJO when it exceeds the SO
+limitations. Specifically, "Any service order exceeding labor and material and limits will
+be converted to an IJO," and, "Work that is originally assigned as a service order but
+exceeds the 40-hour limitation on repair work or the $2,000 limitation on new work, will
+be converted to an IJO. The contractor will be responsible for monitoring service order
+hours and initiating the IJO request." (R4, tab 1, at KFLD000061 § C.5.1.6.1)
+
+      9. The bridge contract grants the government discretion in determining which
+work will be ordered as a SO or an IJO (R4, tab 1 at KFLD000064 § C.5.7.10.1).
+However, such discretion is not unlimited. Section C.5.1.6.1 states in relevant part:
+
+             Occasionally there will be a service order requiring more than
+             one trade such as, electrical, plumbing, etc., all tasks will be
+             performed on one service order.... The contractor shall begin
+             work on all service orders within 5 days after materials are
+             received in supply .... Routine maintenance service orders
+             will not exceed 40 hours labor. Prior to reaching 40 hours
+             limitation on routine service orders, the contractor shall be
+             responsible for submitting request for conversion from
+             service order to IJO to the COR for approval. Work that is
+             originally assigned as a service order but exceeds the 40 hour
+             limitation on repair work or the $2,000 limitation on new
+             work, will be converted to an IJO. The COR will have
+             approval authority over all service orders which the
+             contractor proposes for conversion to an IJO.
+
+(R4, tab 1 at KFLD000061)
+
+       10. All Star complained immediately to the government, Ms. Kim Taylor, on
+26 June 2012 when it learned that the IJO had been cancelled and broken into 4 SOs.
+Ms. Taylor immediately elevated it to Ms. Miller, the CO, that same day stating:
+
+
+                                            4
+              All Star came into my office and initiated a complaint that
+              DPW was breaking our own rule, (incremental work) by
+              breaking up IJO BEA3-33142-.. .into 6 service orders .... The
+              PM stated that each day's work would total around 32 hours.
+              And the entire job should be on one IJO according to the
+              regulations. DPW management contends we were doing All
+              Star a favor by giving them so many service orders to
+              complete the job. Also stated that there was no way an IJO
+              could be completed before the work needed to be done. All
+              Star requested I take this to the KO for resolution.
+
+(App. supp. R4, tab 3 at 3-4) Ms. Saenz, DPW, testified on direct examination that the
+government required this task to be performed expeditiously and converting the IJO to
+multiple SOs avoided the time required for All Star to obtain and submit quotes from its
+subcontractors (tr. 72-73). Then, on cross-examination, she stated the ordering vehicle was
+changed to break up the man-hours under each SO to benefit the contractor (tr. 104-05).
+
+        11. All Star performed the work under the four SOs on 27 and 28 June 2012,
+requiring 83.5 man-hours, in excess of the man-hours allowed for SOs (R4, tab 24 at
+KFLD000977; tab 32 at KFLD001017, ~ 4). All Star submitted an REA on 25 September
+2012 that included claimed costs for relocation of the motor pool in the amount of
+$2,542.28 (R4, tab 24 at KFLD000977). All Star requested a contracting officer's final
+decision (COFD) on 02 May 2013 (ex. A-1.) The government issued a COFD denying
+All Star's claim on 13 May 2013 on the basis that, "Since the contractor never submitted
+an IJO request to convert the service order to an IJO to the COR, request for equitable
+adjustment is denied" (R4, tab 32 at KFLD001017, ~ 4). All Star appealed the COFD to
+the Board on 17 May 2013 (Bd. corr. ltr. dtd. 17 May 2013).
+
+                                         DECISION
+
+       Appellant argues because relocating the 40th Motor Pool involved both crane and
+flatbed services, and the tasks are inseparable in the performance of the work, the tasks
+were required by contract to be combined into a single order. In addition, because the
+combined hours exceeded the 40-hour service order limit, the order, in accordance with
+contract requirements, should have been converted to an IJO. (App. hr. at 5)
+
+        The government, in its post-hearing brief, counters by arguing that the contract
+vested the government with discretion to determine whether work should be issued as an
+IJO. In addition, nothing in the contract precludes the government from canceling an IJO
+and reissuing the work as a SO as long as the work meets the requirements of a SO and,
+in fact, the government often does so on a daily basis. Finally, the government notes that
+the PWS contemplates crane services and hauling services as distinct activities. (Gov't
+
+
+                                            5
+br. at 13) Additionally, in its response to appellant's post-hearing brief, the government
+raises an additional argument for the first time that, "The inaccuracy and length of time to
+get the estimate back from All Star motivated the conversion of the 110 to SOs, to
+'expeditiously accomplish work that we had to do to support our mission' (tr. 102, 135)"
+(gov't reply br. at 8-9).
+
+        The government is correct that the bridge contract grants the government
+discretion to determine whether work requirements will be ordered as SOs or 110s and
+also to change the ordering vehicle (finding 9). However, such discretion is not
+unfettered. The contract provides direction for determining which mechanism will be
+used based upon the nature of the work required (findings 8, 9). Here, the requirement
+was initially ordered as an 110 on 6 June 2012 for work to be performed at the end of the
+month on 25, 26, 27 June 2012 (finding 7). Oddly, the government does not argue, nor
+did it present any evidence, that the change was determined by the nature of the work.
+Instead, it argues the government possessed the discretion to make the change and had to
+make the change because of insufficient time to process an 110 (gov't br. at 13; finding
+10). Ms. Saenz's direct testimony stated the reason the 110 was converted was because
+the government did not have time to process the 110. On cross-examination she stated
+the change was ordered to break up the man-hours under each SO in order to benefit the
+contractor. Neither stated reason had anything to do with the nature of the work meeting
+the criteria of a SO under the contract. Perhaps more telling is the email from Ms. Taylor
+to the contracting office in response to All Star's complaint about the change which stated
+that DPW management stated the reason for the change was because an 110 could not be
+processed before the work needed to be done. (Finding 10) The work was ordered as an
+110 on 6 June and not cancelled until26 June, one day before the work was required.
+No evidence was presented why an 110 could not be processed within this time frame or
+that appellant caused the delay. Whatever the reason for the delay, we conclude that the
+government changed the work order because it realized at that point it was too late to
+issue the work order as an 110. This was contrary to the provisions of the contract and
+was an attempt to shift the burden for the government's management of the process to
+appellant. We therefore sustain ASBCA No. 58668 on this claim.
+
+New Buildings Added To Bridge Contract
+
+       12. The bridge contract identified the facilities and equipment to be serviced
+under the contract and included them in Technical Exhibits (TEs) T.5.19.1 and T.5.20.1.
+Mod. No. P00013, effective 21 March 2012, unilaterally added boiler and HVAC work
+on 124 pieces of equipment in 8 new buildings toTEs T.5.19.1 and 7 toTEs T.5.20.1 that
+were not listed at time of award or in contract 0004. (R4, tab 14 at KFLD000821-23)
+Ms. Saenz testified that the buildings added were new construction that did not exist at
+time of award and are in excellent condition (tr. 78). She also testified that the addition
+ofthe new buildings just changed the location of the work and the nature ofthe work was
+no different than that already on contract (tr. 127). Ms. Miller's testimony echoed
+
+                                             6
+Ms. Saenz's, testifying that addition ofthe new buildings did not add work but just
+changed the location of the work (tr. 154).
+
+        13. All Star submitted a request for equitable adjustment on 25 September 2012
+claiming costs incurred as a result of the addition of work under Mod. No. P00013 in the
+amount of$13,338.51 (R4, tab 24 at KFLD000969). All Star requested a COFD on
+02 May 2013 (ex. A-1.) The CO issued a COFD dated 13 May 13 denying All Star's
+request for equitable adjustment based on her determination that the services fall within
+the firm fixed-price service order limitations and that All Star did not properly notify the
+COR when one of the service orders exceeded the service order limitation (R4, tab 32 at
+KFLD001017, ~ 5). All Star appealed the COFD to the Board on 17 May 2013
+(Bd. corr. ltr. dtd. 17 May 2013).
+
+                                      DECISION
+
+       Appellant's position is that it was only contractually required to perform services
+on facilities and equipment specifically listed in the TEs of the bridge contract. The
+government added equipment in 8 buildings to the bridge contract after award by
+unilateral Mod. No. P00013. 4 Services for these buildings were not anticipated in the
+contract requirements or appellant's pricing and many service orders were ordered for
+these buildings under the firm fixed-price that required hundreds of man-hours to perform
+startup and repair services, resulting in additional costs to the appellant. (App. hr. at 21)
+
+        The government responds that the contract PWS clearly provided that HVAC and
+boiler services would be performed under the bridge contract and that Mod. No. P00013
+was issued to identify the buildings in Areas 1 and 8 that required HVAC and boiler
+services. Moreover, the additional work did not increase the total number of SOs above
+the contract limit of 17,000 and none of the work performed in Areas 1 and 8 was
+different in nature, duration or difficulty than the work performed under other SOs. The
+crux of the government's position is that the additional HVAC and boiler services
+resulting from the addition of new buildings was within the scope of the contract and the
+resulting additional SOs were within the 17,000 limit. As a result, All Star is not entitled
+to additional compensation for this work. (Gov't br. at 14)
+
+       We are not persuaded by the government's position. The buildings added to the
+bridge contract were not anticipated within the contract requirements or appellant's
+pricing at time of award. The government does not dispute the buildings added by
+P00013 were not listed in the bridge contract or contract 0004. In fact, the government's
+own witness testified all the buildings added were new construction after award of the
+bridge contract (finding 12). We understand the government's position to be that the
+
+4
+    Appellant initially indicated there were 15 buildings added but later corrected this
+        assertion in its reply brief (app. reply hr. at 2).
+
+                                                7
+addition of the new buildings was a no-cost change because the HV AC and boiler
+services on the added buildings did not differ from similar work ordered by SOs on other
+buildings, the buildings were new in good condition and would not exceed the SO ceiling
+of 17,000 per year.
+
+         What the government's position ignores, is the fact SOs are fixed-priced and the
+price is established at time of award. Appellant is only obligated to perform SOs on
+facilities designated within the contract and accordingly prices its bid for SO work on an
+estimate of the number ofSOs it will perform (finding 5). The buildings in question
+could not have been part of that equation. Therefore, appellant is entitled to
+compensation for work performed by SOs added by this change. Accordingly, we sustain
+ASBCA No. 58668 on this claim.
+
+Pop-Up Barriers
+
+        14. All Star installed pop-up security barriers at two of the gates to the installation
+in 2007 under contract 0004 (tr. 1135-37, 80). These barriers are metal barriers embedded
+in the ground and are designed to stop unauthorized vehicles from entering the
+installation by popping up out of the ground when triggered and require recurring
+maintenance to ensure they are functional. Mr. Ingley testified that contract 0004 and the
+bridge contract contained specific lists of facilities and equipment in the TEs that were to
+be serviced under the contract but was not modified to reference pop-up barriers.
+Additionally, neither the pricing on the contract 0004 nor All Star's proposal on the
+bridge contract was adjusted to reflect the addition of the pop-up barriers. Instead, the
+government ordered maintenance for the pop-up barrier work by IJOs under the previous
+contract 0004 but after award of the bridge contract began ordering the work under SOs.
+(Tr. 35-37) The government did not present any evidence to directly rebut this testimony
+but instead called two witnesses who asserted that, in their opinions, such maintenance
+was covered under general provisions of the bridge contract.
+
+        15. Ms. Saenz's testified she believes the pop-up barriers are part of the street and
+therefore included under the bridge contract within C.5.2.5 Traffic Services (tr. 81-82).
+Section C.5.2.5 which provides in pertinent part that the contractor shall reroute traffic
+lAW Subsection C.5.2.5.2 Barricades and Lighting Devices, which requires in pertinent
+part that, "The contractor shall install, replace, remove, and inspect permanent and mobile
+barricades (types I, II, III) cones, drums, vertical panels, and lighting devices, which warn
+drivers of hazards created by construction, maintenance, and storm damage in or near
+traveled way, and which guide and direct drivers safely past the hazards." (R4, tab 1 at
+KFLD000069) Types I, II, and III barriers are mobile barriers which do not include the
+pop-up barriers (tr. 110-11). We find that the pop-up barriers are not addressed within
+the coverage of section C.5.2.5 or C.2.5.2.
+
+
+                                              8
+        16. In addition, Ms. Saenz considered the pop-up barriers to be surfaced areas
+under the contract because they are safety barriers that are physically embedded into the
+road and are treated as part of the road. Consequently, maintenance on the pop-up
+barriers would fall within the contract definition of maintenance which applies to surface
+areas, including roads. Contract section C. 2 DEFINITIONS/ACRONYMS, defines
+maintenance as:
+
+                Maintenance (applies to surfaced areas): Maintenance of
+                roads, airfields, and other surfaced areas primarily
+                encompasses day-to-day routine work. It includes such
+                functions as blading or dragging stabilized surfaces (see
+                definition below); cleaning ditches; patching; sealing
+                existing paved surfaces; sealing joints and cracks;
+                slabjacking; snow removal; snow fence erection and
+                removal; vegetation control near pavements; erosion
+                control; maintenance of bridges, trestles, retaining walls,
+                culverts, inlets, and manholes; and replacing or repainting
+                pavement markings and traffic control signs and signals.
+                Examples of other applicable work are: 1) application a dust
+                palliative (i.e., a chemical, dilute asphalt emulsion, or single
+                surface treatment) both to the trafficway and the road
+                shoulder, provided only minimal surface preparation is
+                needed; 2) application of a sealer coat or surface treatment
+                on existing asphaltic concrete surface; and 3) scarifying a
+                stabilized area, adding new material, reshaping, and
+                compacting.
+
+(Tr. 84-85; R4, tab 1 at KFLD000040) We find the pop-up barriers are not addressed
+within definition of maintenance under section C.2.
+
+       17. Ms. Miller, the CO, testified she considered the pop-up barriers to be a
+security device as well as a traffic device under section C.5.2.5.2, explaining it could
+possibly be used to redirect traffic. In addition, she also considered them to be included
+under the provisions of Department of Army Pamphlet 420-11, Project Definition and
+Work Classification, section which defines surface areas to include safety barriers 5 .
+(Tr. 170-7 5; ex. G-3 at 6) We find that the provisions of Army Pamphlet 420-11 do not
+apply to the pop-up barriers.
+
+       18. The contract, at section C.5.16.8.2, provided that All Star "shall repair,
+maintain, install, and test the systems and all components listed [in section]
+
+5
+    Army Pamphlet 420-11 indicates "safety barriers" are included in the definition of
+        "Surfaced areas." (Ex. G-3 at 6, § (k)(3))
+
+                                               9
+C.5.16.8.2.1." This section lists the components included within its coverage which are
+all electrical related components. (R4, tab 1 at KFLDOOO 14 8) Contract section
+C.5.16.8.2.1 Miscellaneous Control Systems Equipment identifies traffic control systems
+as a category of equipment, indicating eight (8) pieces of this equipment are installed on
+the installation (id.). We find that the pop-up barriers are not a system or component
+under sections C.5.16.8.2 or C.5.16.8.2.1.
+
+       19. All Star submitted a REA on 25 September 2012 in the amount of$41,812.43
+and requested a COFD on 2 May 2013 (R4, tab 24; ex. A-1). The CO issued a COFD
+dated 13 May 2013 denying the REA on the stated basis that the services fall within the
+firm fixed-price SO limitations and that All Star did not properly notify the COR when
+one ofthe service orders exceeded the service order limitation (R4, tab 32 at
+KFLD001016, ~ 1). All Star appealed the COFD to the Board on 17 May 2013
+(Bd. corr. ltr. dtd. 17 May 2013).
+
+                                      DECISION
+
+         Appellant argues the pop-up barriers were never added to the contract 0004 or
+the bridge contract technical exhibits. Appellant performed work on the barriers and
+was reimbursed by IJOs under the contract 0004. When asked to submit a proposal for
+performing the bridge contract, appellant was told to base its price on the then existing
+PWS and that it should assume the status quo. As a result, appellant did not adjust the
+pricing for the fixed priced SOs in the bridge contract because it relied upon the
+government's representations, assuming barrier maintenance would be accomplished
+using IJOs. Thus, we understand appellant's position to be that the government's action
+in using SOs to order this work constituted a constructive change to the contract,
+entitling appellant to an equitable adjustment. (App. br. at 32)
+
+        The government counters by arguing appellant is not entitled to an equitable
+adjustment because the pop-up barriers are addressed within the PWS under traffic
+services and maintenance of surfaced areas, appellant was aware of the this requirement
+under the bridge contract because it performed the work under contract 0004 and the
+work under the bridge contract was properly ordered as SOs (gov't br. at 16-18).
+
+        We reject the government's position; our findings establish the barriers were not
+contemplated by contract 0004 provisions or the bridge contract. Likewise, barrier
+maintenance was not added to a contract 0004 technical exhibit as equipment to be
+maintained when the barriers were installed. (Finding 14-18) In fact, there is no
+evidence the barriers were ever formally added to the contract during performance of the
+bridge contract. It is undisputed both parties were aware of the barriers and the use of
+IJOs to reimburse this recurring maintenance under the previous contract. The
+government, during negotiation of the bridge contract in response to questions from
+appellant, represented that appellant's proposal should rely upon the existing PWS and
+
+
+                                            10
+assume the "status quo" (finding 1). Appellant relied upon this representation and priced
+its proposal assuming this work would be accomplished using IJOs not fixed priced SOs
+(finding 14 ). Therefore, we conclude the government's change to the use of SOs for this
+work is a constructive change to the contract. As a result, we sustain ASBCA No. 58668
+on this claim.
+
+Landscaping and Herbicide Recurring Maintenance
+
+        20. Both contract 0004 and the bridge contract required All Star to conduct
+various ground maintenance to include, but not limited to, weed control and landscaping
+(R4, tab 2 at KFLD000403 §§ C.5.3.). Additionally, both contracts provided guidance on
+applying pesticides and herbicides (R4, tab 1 at KFLD000092, § C.5.6.3.6.1). This work
+was accomplished as recurring maintenance (RM) under the previous contract but Mod.
+No. P00067 of that contract, dated 4 February 2010, substantially reduced funding and
+hours for landscape, herbicide, and pesticide RM work. 6 In addition, Mod. No. P00067
+stated "The Government retains the right to obtain these services under a service order
+and/or by issuance of an individual job order" (app. supp. R4, tab 7 at 2). Thereafter, the
+government ordered this work using IJOs (tr. 37).
+
+        21. All Star's Project Manager. Mr. Lebeau, specifically asked about section
+C.5.23 (workload data including landscape and herbicide work) during negotiation of the
+bridge contract, "so [Appellant would] know what areas and what hours you want us to
+price. I can't make the assumption that everything remains the same" to which the
+government replied, "the bridge (contract) will maintain the same CLIN structure as seen
+on the six month extension (contract 0004) and the work will be the same as the
+existing." (App. supp. R4, tab 2 at 4-5) After the government responded only
+confirming the CLIN structure would be the same, Mr. Lebeau followed up stating,
+"I understand the no change in the CLIN structure. I just want to be sure that we are both
+working off the same section C.5.23 hours .... Just want to be sure we are all on the same
+page" (id. at 4). The government replied that All Star was "to base their proposal for the
+bridge contract on the existing O&M PWS (Operations and Maintenance contract 0004,
+Performance Work Statement) ... essentially status quo." (!d. at 3)
+
+        22. The bridge contract was awarded with higher RM hours for herbicide (697.7)
+and landscape (1,820) than those in contract 0004 PWS used for All Star's proposal
+(R4, tab 1 at KFLD000194-95, § C.5.23.3). After reviewing the awarded bridge contract,
+Mr. Lebeau noticed the hours include in section C.5.23 included hours that were not
+considered in All Star's proposal, including hours for landscaping maintenance and
+herbicide (app. supp. R4, tab 2 at 2). Mr. Lebeau notified the CO about this and she
+
+6
+    Mod. No. P00067 reduced landscaping hours by 4,621 hours to a new total of 1116 and
+        herbicide and pesticide hours by 2,774.3 hours to a new total of345.7
+        (app. supp. R4, tab 7 at 2).
+
+                                            11
+replied, "we will have to review the PWS and make sure we didn't use the wrong one:(
+Rushing to get something done always creates unexpected issues ... we will fix as soon as
+possible" (id.). On 28 June 2011, Mr. Lebano emailed Mr. Lebeau that he would correct
+the C.5.23 hours in accordance with the PWS upon which All Star based its proposal and
+the figures acknowledged in the previous email which would be reflected in an upcoming
+modification to the bridge contract. (!d.) However, on 10 August 2011,
+Mod. No. POOOOl removed all RM hours for herbicide and landscape work from the
+bridge contract rather than just lowering them to the previous levels under contract 0004
+(R4, tab 2 at KFLD000515-16). Although Mod. No. POOOOl removed all hours for RM,
+it retained non-recurring work stating that the contractor could expect on average per
+calendar month approximately 45 SOs for landscaping (C.5.3.) at 5.67 man-hours each
+and approximately 114 SOs at .72 man-hours each for herbicide (C.5.6) (R4, tab 2 at
+KFLD000514, § C.5.23.1).
+
+         23. Mr. Ingley testified that the government removed all landscaping and
+herbicide RM from contract 0004 and then used IJOs to address landscaping and
+herbicide work but then, after All Star submitted its proposal based upon contract 0004,
+changed to the use of SOs under the bridge contract (tr. 37-38). On cross-examination,
+Mr. Ingley conceded that he had only been to the worksite at Fort Huachuca about once a
+year over a four-year period (tr. 39-40). The government's evidence primarily consisted
+of the testimony of Ms. Saenz. Ms. Saenz testified that the government used IJOs to
+order routine maintenance under contract 0004 when funds were available but after award
+of the bridge contract eliminated routine maintenance because of a lack of funds and then
+only issued SOs to address safety and special events (tr. 85-86).
+
+        24. All Star submitted a REA on 25 September 2012 for landscaping and herbicide
+work in the amount of$29,211.40. Attachment 1 of the REA was a list oflandscaping and
+herbicide orders between August 2011 and July 2012. (R4, tab 24) All Star requested a
+COFD on 2 May 2013 (ex. A-1.) The CO issued a COFD, dated 13 May 2013, denying the
+request for an equitable adjustment stating that issuance of SOs for this work was authorized
+under the contract and each SO issued met the requirements for a SO (R4, tab 32 at
+KFLD001016-17, ~~ 2, 3). All Star appealed the COFD to the Board on 17 May 2013
+(Bd. corr. ltr. dtd. 17 May 2013).
+
+                                       DECISION
+
+        Appellant argues the government terminated the recurring maintenance program
+for herbicide or landscaping under contract 0004, with a commensurate reduction in
+price, and thereafter ordered any needed herbicide and landscaping work on an "as
+needed" basis by IJOs. During negotiation of the bridge contract, the government
+instructed appellant to base its proposal on contract 0004 PWS. Relying upon the
+government's representations, appellant did not add (price) additional SO herbicide or
+
+
+                                            12
+landscaping hours, believing such work would be performed by IJOs as done under
+contract 0004. However, shortly after award of the bridge contract, the government
+eliminated all recurring maintenance for herbicide and landscaping work on the post
+causing ground conditions to deteriorate to the point where overgrowth created a safety
+hazard requiring issuance of work orders to address the safety issues. However, unlike
+under contract 0004, the government ordered this work as fixed-price SOs rather than
+IJOs. This, appellant argues, shifted the cost of addressing the consequences of the
+government's decision to stop recurring maintenance from the government to appellant,
+entitling appellant to an equitable adjustment. (App. hr. at 32-34)
+
+       The government counters that it eliminated all RM for landscaping under the
+bridge contract, due to a lack of funding, and the only orders placed under the bridge
+contract for herbicide and landscaping were to address non-recurring safety problems or
+special events. Also, the government argues that the use of SOs to accomplish such work
+was appropriate because the bridge contract contains SO hours for this type of work as
+under contract 0004, putting appellant on notice such work might be ordered and should
+be priced. (Gov't br. at 18-19; gov't reply br. at 13-14)
+
+       Our findings establish the previous contract substantially reduced, but did not
+eliminate, landscaping and herbicide RM and the work that remained was ordered as an
+IJO. Appellant based its proposal on the contract 0004 PWS and the existing PWS
+carried over to the bridge contract. After award of the bridge contract, the government
+eliminated recurring landscape and herbicide maintenance under the contract by
+eliminating the hours for such work. (Finding 22) However, the government continued
+to require non-recurring landscaping and herbicide work for special events and safety
+purposes, which the government chose to order as SOs (finding 23).
+
+       We understand appellant's argument to be that the government, as a practical
+matter, continued to require landscaping and herbicide RM even though technically it
+was removed from the contract. As a result, because the government ordered such work
+by SOs, it shifted the cost for this work from the government to appellant and changed
+the parties' understanding under the contract resulting from the representations made by
+the government during negotiations. We reject appellant's argument for lack of a factual
+basis. Appellant failed to prove the government was in fact ordering RM landscaping
+and herbicide work. Mr. Ingley's testimony characterized the ordered work as RM
+landscaping and herbicide work. However, the record reflects Mr. Ingely lacked personal
+knowledge to support his testimony since he was not at the work site on a regular basis
+(finding 23). The government presented proof, through testimony, that the landscaping
+
+
+                                           13
+and herbicide work ordered was only to address non-recurring safety issues 7 and special
+events, not routine maintenance (id. ). Our review of attachment 1 of appellant's REA
+does not, on its face, affirmatively support appellant's argument or contradict the
+government's position. Consequently, we find the government's proof on this issue more
+persuasive and therefore, deny ASBCA No. 58668 on this claim.
+
+                        III. Government Claims (ASBCA No. 58772)
+
+Damage to Bucket Truck
+
+         25. On 13 July 2012, All Star employee Mr. George Jones, a Heavy Equipment
+Operator, struck a high voltage line with the boom of a government-furnished bucket
+truck after setting the bucket truck on a dirt berm beside an electrical pole. After
+attempting to reach the pole, Mr. Jones raised the boom and contacted the high voltage.
+wire. The incident created an hour-long power outage and rendered the vehicle
+inoperable. (Gov't. supp. R4, tab 1)
+
+      26. On 27 July 2012, All Star's Project Manager, Paul Lebeau, forwarded a
+memorandum to the CO with All Star's safety report of this incident attached. The
+memorandum mirrored the findings of the report, in pertinent part stating:
+
+                [A]fter a thorough investigation, we have determined that the
+                operator failed to follow appropriate safety regulations and
+                showed lack of sound judgment when he set up the bucket
+                truck under energized power lines. As serious as this accident
+                was, we do not feel the operator was negligent in that he was
+                trying to find a work-around area to set up the bucket truck in
+                order to complete his assigned task. He also did not show
+                deliberate inattention to the fact that the energized power
+                lines were present in the area. He felt that he could safely set
+                up the bucket truck and accomplish the task without putting
+                himself or others in harm's way or causing damage to the
+                truck or the installations electrical lines and/or systems ....
+
+(!d.)
+
+
+7
+    Ms. Saenz provided an example of a safety issue that required this work on a
+         non-recurring basis. She explained that All Star personnel are required to provide
+         services at various locations on the facility and rattlesnakes, which are big
+         problem on the facility, pose a safety issue for any personnel working in areas
+         with knee high grass (tr. 1281129).
+
+                                              14
+          27. The contract distinguishes between two types of government-furnished
+equipment (GFE), each with differing allocation of risks between the parties in the event
+the contractor damages the GFE. Section C.3.4.1, General Service Administration (GSA)
+Vehicles, states in relevant part: "The Government will furnish GSA vehicles such as
+utility trucks, dump trucks, pickup trucks, four wheel drive vehicles, etc. for use on the
+contract. A core listing of vehicle types and numbers which the Government will furnish
+is shown at TE 3.2." The section continues with "Any damage deemed to be caused by
+contractor negligence will be repaired by the contractor .... " (R4, tab 1 at
+KFLD000051-52) In contrast, section C.3.4.2, Engineer Type Vehicles, states in relevant
+part, "The Government will furnish limited quantities of engineer-type equipment such as
+dozers, cranes, sanitary trucks, road sweepers, etc. listed in TE 3.3 .... " The section
+continues, "The Contractor shall follow repair procedures identified at paragraph
+C.3.4.3." Section C.3.4.3 states in relevant part:
+
+                The contractor shall prepare a DA 3161 and provide to the
+                COR requesting approval for any needed repairs of GFE. The
+                DA 3161 shall include the cost of repair along with the
+                replacement cost to allow the COR to make a determination
+                as to whether or not it is cost effective for the Government to
+                repair the equipment. Maintenance and repair of GFE will be
+                at no cost to the contractor ....
+
+(R4, tab 1 at KFLD000052)
+
+       28. The bucket truck at issue is listed under TE 3.3 as a 1996 Navistar
+International Truck, NSN #2320-0 1-T08-8450 with an administrative number of E-111
+(gov't supp. R4, tab 8 at T-3-3-5) 8 As a result, we find that the provisions of Section
+C.3.4.2 and the risk allocation provisions ofC.3.4.3 apply to this dispute.
+
+      29. The contract also incorporates by reference FAR 52.245-1, Government
+Property (Aug 2010). Paragraph (h)(l) of that clause states in relevant part:
+
+                       (h) Contractor Liability for Government Property.
+
+
+8
+    All Star's safety investigation report and cover memorandum identify the bucket truck
+         as E-111 (gov't supp. R4, tab 1). Government internal documents and email to the
+         government regarding an inspection of the truck by a third party, American
+         Inspection and Test, Inc. identify it as E-110 (id. at 7-10). The COFD (demand for
+         payment) identifies the truck as E-111 (R4, tab 33). This apparent discrepancy has
+         no bearing on this dispute because both E-ll 0 and E-111 are found on the TE 3.3
+         GFE list and identified as 1996 Navistar International Trucks (gov't supp. R4,
+         tab 8 at T-3-3-5).
+
+                                              15
+                        ( 1) Unless otherwise provided for in the contract, the
+                 Contractor shall not be liable for loss, theft, damage or
+                 destruction to the Government property furnished or acquired
+                 under this contract, except when any one of the following
+                 applies ....
+
+
+                          (ii) The theft, damage or destruction is the result of
+                 will full misconduct or lack of good faith on the part of the
+                 Contractor's managerial personnel.
+
+(R4, tab 1 at KFLD000229)
+
+           30. The contract also included H-16, 52.200-4045 I-SAFETY (Fort Huachuca
+   Special Provision) which provided in relevant part, "The Contractor shall be responsible
+   for all damages to persons and/or property that occur as a result of contractor negligence
+   in connection with work requirements contained in contracts" (R4, tab 1 at
+   KFLD000224 ).
+
+          31. On 3 June 2013 the government issued a demand for payment to All Star for
+  the cost to repair the damage to the bucket truck in the amount of $71,021.29 stating,
+  "The contract section C.3.4.1 states that any damage deemed to be caused by contractor
+  negligence will be repaired by the contractor at no cost to the Government..." (R4, tab
+  33). Ms. Miller testified that her decision to make the demand for payment for the
+  damage to the bucket truck was based upon her conclusion from her review of the safety
+  report, from which she concluded, "proper procedures were not followed by All Star
+  personnel, and they were responsible for the damage to the truck" (tr. 156-57). Although
+  not referenced in her demand letter, she also testified that All Star's liability for the
+  damage was based upon the contract clause H-16 and on cross-examination that her
+  determination that proper procedures were not followed was based upon the fact there
+  was no ground spotter at the site (tr.157, 178). All Star appealed the COFD to the Board
+  on 15 July 2013 (Bd. corr. ltr. dtd. 15 July 2013).
+
+
+                                           DECISION
+
+         The government property clause, FAR 52.245-1, states in part "Unless otherwise
+  provided for in the contract, the Contractor shall not be liable for loss, theft, damage or
+  destruction to the Government property furnished or acquired under this contract"
+  (finding 29). However, the parties identify two other contract clauses that allegedly
+  control under these facts and would be consistent with the government property clause.
+
+
+                                                 16
+       The government argues appellant is liable to the government for damages to
+bucket truck because of the negligence of its employee, specifically for failing to follow
+safety procedures by not having a ground spotter on the job, pursuant to the provisions of
+Fort Huachuca Special Provision H-16, 52.200-4045 I and appellant's own report of the
+accident evidences such negligence (gov't hr. at 20). Fort Huachuca Special Provision
+H-16, 52.200-4045 I states in pertinent part, "the Contractor shall be responsible for all
+damages to person and/or property that occur as a result of contractor negligence in
+connection with work requirements contained in contracts" (finding 30).
+
+       Appellant argues that its employee was not negligent because there was a spotter
+on the job and the provisions of contract section C.3.4.3 determine any liability for
+damage to the truck rather than special provision 52.200-4045 I (app. hr. at 50-51). Our
+findings establish that the damage to the truck is controlled by the risk allocation
+provisions of section C.3.4.3 which state that, "[M]aintenance and repair of GFE will be
+at no cost to the contractor ... " (finding 28).
+        Our task is one of contract interpretation to identify which contract provision
+controls. Special provision 52.200-4045 I is a general safety clause covering damage to
+any person or property under the contract while section C.3.4.3 is directed specifically to
+the property in question. Where, as here, there are general and specific provisions which
+are in any respect inconsistent or conflicting, the provision directed to a particular matter
+controls over the provision which is general in its terms. Hal-Gar Manufacturing Corp.
+v. United States, 169 Ct. Cl. 384,396,351 F.2d 972 (1965). Since the bucket truck
+involved was listed in TE 3.3, and section C.3.4.2. specifically instructs the contractor to
+follow the repair procedures at C.3.4.3., we conclude the provisions ofC.3.4.3 apply to
+this dispute and appellant is not liable for the damage to the bucket truck, even if
+negligence were proven. As a result, appellant's appeal in ASBCA No. 58772 is
+sustained as to this government claim.
+
+
+Missing Inventory
+
+         32. On 3 June 2013 the government issued a demand for payment to All Star.
+That letter stated, "A final inventory inspection was conducted on Government Furnished
+Property and Equipment (GFE) and 33 items are missing (Attachment A, Inventory of
+Missing GFE). The items were valued at a cost of$5,380.27." (R4, tab 33 at
+KFLD001023, ,-r 3) All Star appealed the COFD to the Board on 15 July 2013 (Bd. corr.
+ltr. dtd. 15 July 2013). Based upon the evidence and testimony elicited at the hearing, the
+government withdrew its opposition to this appeal (gov't hr. at 2, nl). Accordingly,
+appellant's appeal on this claim in ASBCA No. 58772 is sustained.
+
+
+                                             17
+                                          CONCLUSION
+
+            These appeals are sustained in part and denied in part as reflected above. The
+     sustained appeals are remanded to the parties for determination of quantum.
+
+           Dated: 7 January 2014
+
+
+     I concur
+
+.,
+
+                                           •
+     Administrative Judge
+     Acting Vice Chairman
+     Armed Services Board
+     of Contract Appeals
+
+
+            I certify that the foregoing is a true copy of the Opinion and Decision of the
+     Armed Services Board of Contract Appeals in ASBCA No. 58668, 58772, Appeals of All
+     Star Technical Services, Inc., rendered in conformance with the Board's Charter.
+
+           Dated:
+
+
+                                                     JEFFREY D. GARDIN
+                                                     Recorder, Armed Services
+                                                     Board of Contract Appeals
+
+
+                                                18

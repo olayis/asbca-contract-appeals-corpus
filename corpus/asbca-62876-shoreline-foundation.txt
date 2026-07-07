@@ -1,0 +1,1701 @@
+DOCUMENT FOR PUBLIC RELEASE
+        The decision issued on the date below is subject to an ASBCA Protective Order.
+                       This version has been approved for public release.
+
+                   ARMED SERVICES BOARD OF CONTRACT APPEALS
+Appeals of -                                   )
+                                               )
+Shoreline Foundation, Inc.                     )    ASBCA Nos. 62876, 63616
+                                               )
+Under Contract No. W912EP-16-C-0027            )
+
+APPEARANCES FOR THE APPELLANT:                      Robert G. Barbour, Esq.
+                                                    Matthew D. Baker, Esq.
+                                                     Watt, Tieder, Hoffar & Fitzgerald, L.L.P.
+                                                     McLean, VA
+
+APPEARANCES FOR THE GOVERNMENT:                     Michael P. Goodman, Esq.
+                                                     Engineer Chief Trial Attorney
+                                                    Amber R. Jackson, Esq.
+                                                    Kristin M. Bigham, Esq.
+                                                    Logan Grutchfield, Esq.
+                                                    Mischael Sachmorov, Esq.
+                                                     Engineer Trial Attorneys
+                                                     U.S. Army Engineer District, Jacksonville
+
+                   OPINION BY ADMINISTRATIVE JUDGE O’CONNELL
+
+             These appeals arise from a contract for the construction of artificial reefs off the
+     coast of Brevard County, Florida. In ASBCA No. 62876, appellant, Shoreline
+     Foundation, Inc. (SFI), seeks $2,663,902, contending that the government wrongfully
+     failed to disclose superior knowledge of the weather and sea conditions at the site and
+     forced SFI to accelerate. SFI also contends that the government breached the duty of
+     good faith and fair dealing.
+
+             Previously, the Board dismissed for lack of jurisdiction SFI’s claim that it was
+     delayed by a bid protest because SFI never submitted that claim to the contracting
+     officer (CO). Shoreline Found., Inc., ASBCA Nos. 62876, 63616, 23-1 BCA ¶ 38,468
+     (SFI I). Then, in Shoreline Found., Inc., ASBCA Nos. 62876, 63616, 24-1 BCA
+     ¶ 38,607 (SFI II) recon. denied 24-1 BCA ¶ 38,678, the Board granted the government
+     partial summary judgment with respect to SFI’s contention that the specifications were
+     either defective or contained a misrepresentation as to when the weather and sea
+     conditions would be suitable for performing work.
+
+            In ASBCA No. 63616, SFI is challenging the government’s assessment of
+     liquidated damages in the amount of $249,690 (R4, tab 58).
+                          DOCUMENT FOR PUBLIC RELEASE
+      The decision issued on the date below is subject to an ASBCA Protective Order.
+                     This version has been approved for public release.
+
+      The Board conducted an eight-day hearing in May 2025. Both liability and
+quantum are before us. The Board denies No. 62876. The Board sustains No. 63616.
+
+                                    FINDINGS OF FACT
+
+                                         Solicitation
+
+       1. On August 9, 2016, the United States Army Corps of Engineers,
+Jacksonville District, (USACE) issued the solicitation for the above-captioned
+contract, Hurricane and Storm Damage Reduction Project, Brevard County, Florida,
+Mid-Reach Segment - Mitigation Feature (R4, tab 1 at 1-2). The solicitation originally
+provided for the submission of bids on September 12, 2016, but the deadline was
+extended to September 26, 2016 (id. at 2, 745 1).
+
+        2. The solicitation provided that the contractor would manufacture, transport,
+and install concrete reef mats with coquina rock surfaces to establish a 4.8-acre
+artificial reef in water depths of 14 to 16 feet Mean Low Water, 1,000 feet from shore.
+A reef mat consists of 18 reef blocks (2.6-feet by 2.6-feet by 1-foot-high pieces of
+concrete/coquina) connected by longitudinal and lateral cabling in a three by six block
+pattern to form an articulated mat of about 8 by 16 feet. Forty-five reef mats placed
+together form a reef set of approximately 0.14 acres. The project consisted of 36 reef
+sets at 10 sites, for a total of 1,620 mats. (Id., tab 1 at 208-09)
+
+       3. The placement area for the mats extended for about five miles off the coast
+of Brevard County beginning 16 miles south of Cape Canaveral, near two
+municipalities, Satellite Beach and Indian Harbor Beach, and unincorporated Brevard
+County. This area, which is in the middle of the approximately 40-mile section of
+Brevard County south of Cape Canaveral, is referred to as the “Mid-Reach.” (Id.
+at 209; tr. 4/131)
+
+        4. The solicitation provided that the contractor would lower the reef mats and
+place them on the bottom no more than 12 inches from adjacent reef mats. It
+prohibited dropping the mats through the water or pushing or pulling them after they
+were in contact with the floor or geotextile, meaning that the contractor would have to
+lift and reset the mat if it was not in the correct position. (R4, tab 1 at 440, 452)
+
+
+1
+    Citations are to the .pdf page number of the electronic file.
+
+
+                                               2
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+                                 Weather Considerations
+
+       5. The solicitation did not place any restrictions on the time of year in which
+the contractor could work. However, SFI was aware that the winter months are
+generally unsuitable for marine construction in Florida (tr. 1/156-57; tr. 2/65; tr. 3/19).
+
+        6. Dr. Kevin Bodge, a coastal engineer who worked as a consultant for Brevard
+County, testified at the hearing. Dr. Bodge has worked in the Mid-Reach since 1988
+(tr. 4/132). He testified credibly that local watermen know that the best chance for
+“calm-ish” seas in Brevard County is from mid-May to mid-September. (He defined
+watermen to mean anybody who works in or recreates around the ocean, including
+marine contractors, marine surveyors, marine biologists, fishermen, and surfers.)
+(Tr. 5/106) But this is merely a rule of thumb. Dr. Bodge testified that sometimes the
+best weather can be in the winter and the worst in July and August. In his work he has
+lost entire summers to unrelenting storms, whereas the two winters preceding his
+testimony had 30-day stretches of seas like “flat glass” from January into February.
+(Tr. 5/87-88)
+
+        7. To a certain extent, the solicitation reflected these parameters. In a section
+entitled “Placement Season,” it provided “[i]t is anticipated that the placement season
+may occur between April 1st and October 1st” (R4, tab 1 at 424). In a section entitled
+“Project Order of Work,” it provided “[p]lease note, the area where placement sites are
+located experience inclement weather which typically occurs between November 1st
+and May 1st” (id. at 428). Thus, the solicitation provided that USACE “anticipated”
+that placement “may occur” in a six-month period beginning in April, but that April is
+also the last month of the inclement weather season.
+
+       8. In the “Weather and Water Stage Data” section, the solicitation provided
+cautionary guidance on the weather during the work season: “Weather Conditions.
+The project area is subject to tropical storms and hurricanes from June through
+November, and to windy and/or rainy weather during any time of the year. . . The wet
+season in the project area is from May through October” (id. at 206). The solicitation
+further provided that “the project area may be affected by stormy, windy and/or rainy
+weather, including thunderstorms, during any time of the year” (id. at 212).
+
+       9. As we discussed in SFI II, 24-1 BCA at 187,671-72, the solicitation placed
+responsibility on the bidders to determine how the weather conditions would affect
+safety and work conditions (R4, tab 1 at 206 (“[i]t shall be the contractor’s
+responsibility to obtain information concerning weather conditions in the project
+area”); id. at 212 (“The Contractor shall be responsible for obtaining information
+concerning rain, wind and wave conditions that could influence safety, dredging and
+disposal operations prior to submitting a proposal or bid”); id. at 428-29 (“The
+Contractor shall ascertain the environmental conditions which can affect water and
+
+
+                                             3
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+land access, such as climate, terrain, winds, current, waves, swells, depths, shoaling,
+and scouring tendencies”). The contract contained Federal Acquisition Regulation
+(FAR) 52.236-3, SITE INVESTIGATION AND CONDITIONS AFFECTING THE
+WORK (APR 1984). This clause provided, among other things, that:
+
+              (a) The Contractor acknowledges that. . . it has
+              investigated and satisfied itself as to the general and local
+              conditions which can affect the work or its cost, including.
+              . . . (3) uncertainties of weather, river stages, tides, or
+              similar physical conditions at the site. . . . and (5) the
+              character of equipment and facilities needed preliminary to
+              and during work performance.
+
+(R4, tab 1 at 573)
+
+       10. The solicitation identified various web sites in which wind and wave
+information from buoys or other devices in the general vicinity of the project site was
+available, although none of the sources was located within the footprint of the project
+site (R4, tab 1 at 205; app. ex. D-5; tr. 5/193). The listed sources included the National
+Data Buoy Center.
+
+                                     SFI’s Proposal
+
+        11. SFI is a marine contractor formed in 1986 that has completed hundreds of
+projects (tr. 1/36, 44). However, SFI lacked certain types of experience that would
+prove to be relevant to this project: it had never worked in the waters off Brevard
+County; it had “not very often” worked in the open ocean; it had never performed a job
+involving precise placement of an artificial reef; and it had rarely worked in low
+visibility waters (tr. 1/49, 96; tr. 2/39; tr. 3/87-88).
+
+        12. SFI appointed Carlos Varela to prepare its estimate, with SFI’s president
+and co-owner, James Royo, as his supervisor (tr. 1/36, 68). Mr. Royo testified at the
+hearing but Mr. Varela did not. When asked at the hearing whether he had
+investigated the weather conditions, Mr. Royo testified that “it didn’t seem like it
+needed to be done,” because of the window (April 1 to October 1) identified in the
+solicitation (tr. 1/128).
+
+        13. SFI did not believe that the NDBC buoys would provide pertinent
+information for the job site (tr. 1/123-24; tr. 2/30, 34). Mr. Varela instead obtained
+wind information from Melbourne, which is also not in the project area; it is on the
+Florida mainland south of the project site (tr. 1/139; tr. 2/32). The record does not
+identify the precise location of the data, but the Melbourne airport is a likely source
+(tr. 5/117).
+
+
+                                            4
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+       14. Mr. Varela “came up with a wind chart” indicating that wind speeds over
+16 nautical miles would generate 4-foot waves/swells. This was an important data
+point because SFI believed that it was capable of working in waves up to 4 feet.
+(Tr. 1/94, 138)
+
+       15. The data that Mr. Varela reviewed must have shown a small number of
+days in Melbourne with 16-knot winds, because Mr. Varela calculated that an entire
+season (April through September) would have only five days in which SFI could not
+work. This included zero days in July, August, and September, the heart of the
+tropical storm and hurricane season. (Tr. 1/138, 141-43; app. supp. R4, tab 157)
+
+       16. The problem with this methodology is that the relative absence of wind on
+the land does not mean that the ocean will be calm. Wind data on land best correlates
+to conditions on a lake or bay, not the open ocean. Ocean conditions are in large part
+controlled by the weather in the North Atlantic Ocean. Thus, while any particular day
+in Melbourne might have placid conditions on land, the sea could be rough due to a
+storm that developed hundreds of miles away. (Tr. 1/61; tr. 5/24-25, 118)
+
+       17. As a result, Mr. Varela’s calculations would not reliably predict the
+frequency of four-foot seas at the project site. Based on this, and the testimony that
+SFI had “not very often” worked in the open ocean (finding 11), we conclude that SFI
+did not understand what would cause waves/swells at the project site.
+
+        18. At the National Data Buoy Center (NDBC) web site identified in the
+solicitation, a bidder could find buoys including No. 41113, which was 16 miles north
+of the project in 32 feet of water. This buoy, like the project site, was within the
+Canaveral bight. (Tr. 5/195; app. ex. D-5) The NDBC buoys provide hourly data that
+include “wind speed, wind gusts, atmospheric pressure, air temperature, sea
+temperature, wave height, wave direction, and wave period.” (R4, tab 1 at 205) The
+data could be downloaded from the site (app. proposed finding of fact (APFOF) ¶
+105)). If a contractor was unwilling to download and analyze the data itself, there
+were numerous coastal engineers in Florida who could do it for the contractor
+(tr. 5/214).
+
+        19. Other data sources listed in the solicitation included a USACE wave
+information study site located nine miles to the east of the project site that provided “a
+hindcast time series of wave heights, periods, and directions taken at 1-hour intervals
+for the 32-year period extending from 1980-2012, at a station located in 21 meters
+(69 feet) of water.” The solicitation also listed a Florida Institute of Technology site to
+the south that provided data (real-time and archived) including “wind speed, wind
+direction, atmospheric pressure, air temperature, sea temperature, water level, wave
+height, wave period, and wave direction.” (R4, tab 1 at 205)
+
+
+                                            5
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+       20. While these data sources were not within the project site, they formed a
+triangle or triangles around the project site (tr. 5/204-06).
+
+       21. Neither party has provided the Board with wave data from these sites for
+the years prior to bid. The parties have not provided any data at all from the USACE
+wave information study site or the Florida Institute of Technology site.
+
+        22. USACE scheduled a site visit at 10:00 a.m. on August 18, 2016, which
+Mr. Varela attended (app. supp. R4, tab 328 at 1). The site visit consisted of a visit to
+the beach near the project site. Mr. Varela informed Mr. Royo that the sea was calm.
+(Tr. 1/146-49; see app. supp. R4, tab 114 at 220 (recording waves of 0.53 to 0.58
+meters between 10:00 a.m. and 12:00 p.m. on August 18, 2016)). SFI never visited the
+site in a boat or asked USACE for a more in-depth site visit before submitting its bid
+(tr. 1/148-49; tr. 2/26).
+
+      23. Neither SFI, nor any other offerors, submitted pre-bid questions about the
+weather or sea conditions (tr. 5/149).
+
+         24. SFI did not ask USACE or its subcontractors about water visibility at the
+site (tr. 2/43).
+
+       25. SFI bid the contract based on an assumption that it would place 7.5 mats
+per day (tr. 1/167).
+
+        26. The contract required SFI to place the mats at four to five sites in 2017 and
+five to six sites in 2018, or 40-50% in the first year and 50-60% in the second (R4,
+tab 1 at 424).
+
+                                      The Contract
+
+       27. On September 29, 2016, USACE awarded SFI the above-captioned
+contract in the amount of $13,236,255.08 (R4, tab 55 at 2, 4). The contract
+incorporated the solicitation (id.; R4, tab 1).
+
+       28. The contract required completion within 730 days after issuance of the
+notice to proceed (R4, tab 1 at 73). USACE issued the notice to proceed on
+November 29, 2016 (R4, tab 3).
+
+       29. Prior to the start of construction, the contract required a variety of
+submittals, including an accident prevention plan, a quality control plan, and an
+environmental protection plan. SFI would not be allowed to begin work until it
+received at least interim approval of these plans. (R4, tab 1 at 147-48, 209, 299, 300,
+325-26)
+
+
+                                            6
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+       30. The contract required SFI to submit a preliminary project schedule within
+15 days of the notice to proceed, and an initial project schedule 42 days after the notice
+to proceed (R4, tab 1 at 237).
+
+                               SFI’s Work on the Project
+
+       A. The Barge
+
+        31. One of the key decisions for SFI was the type of barge that would hold the
+crane used for placement of the mats. SFI bid the project with an anchor barge, which
+is a barge that floats on the surface and has an anchoring system. SFI hoped it would
+alleviate harsh movements caused by sea conditions, but it had never used an anchor
+barge before. (Tr. 3/95, 100-01; APFOF ¶ 181)).
+
+        32. John Wilson, the USACE contracting officer’s representative (COR) and
+project engineer, and Dr. Bodge testified credibly that a jack-up barge is more stable
+and enables a contractor to work in higher wave conditions (tr. 5/16; tr. 6/265;
+tr. 7/47). A jack-up barge has four legs that are dropped to the bottom. The platform
+is then raised above the water, allowing the contractor to avoid current and wave
+activity. (Tr. 3/96; tr. 7/64) COR Wilson testified that a jack-up barge would have
+allowed the contractor to work year-round and in rough seas (tr. 7/47). He testified
+credibly that a floating barge is “really not what you want on a wave-rich
+environment” and that it would exacerbate water visibility issues (tr. 6/266). He has
+been employed by USACE since 1987 but had never seen a contractor use an anchor
+barge to perform comparable work (tr. 6/257; 7/55-56).
+
+       33. SFI’s superintendent, Sal Daher, testified credibly that a jack-up barge
+would have been stable “like being on land” but that it would not have stopped the
+mats from swaying once they were in the water (tr. 2/129-30).
+
+       34. The Board concludes based on the weight of the evidence that a jack-up
+barge would have been more stable than an anchor barge and would have given SFI a
+greater ability to work in seas with higher waves/swells.
+
+       B. Submittals/Pre-Construction
+
+        35. On December 19, 2016, SFI submitted a preliminary project schedule
+showing that mat placement would begin on April 14, 2017 (app. supp. R4, tab 166
+at 1-2).
+
+        36. On April 7, 2017, SFI submitted an initial project schedule that pushed the
+start of mat placement to May 9, 2017 (R4, tab 169 at 42-43). In reviewing the
+schedule, USACE commented that it was not clear if SFI had taken weather into
+
+
+                                            7
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+account. SFI responded that it had and that it planned on a six-day work week that
+gave it a seventh day if there was adverse weather. (Id. at 5)
+
+      37. On May 26, 2017, SFI still had not begun mat placement. Paul Cotter, the
+USACE resident engineer and administrative contracting officer (ACO), issued a letter
+of noncompliance to SFI. Among other things, ACO Cotter stated that SFI’s accident
+prevention plan, quality control plan, and environmental protection plan had not been
+approved and required re-submittal. He also observed that SFI had only fabricated
+18 mats to date and that most of them had not been cured properly. (R4, tab 12 at 1, 3)
+
+       38. On June 16, 2017, ACO Cotter wrote to SFI by email. He stated that SFI
+had reported for weeks that the barge was being outfitted and then that it was ready to
+go. However, he had gone to see the barge the day before and found that it was not
+ready. (R4, tab 556 at 1; tr. 6/32-33).
+
+       C. 2017 Mat Placement
+
+       39. The parties agree that the contract required one tugboat per barge and that
+the tugboat had to stay with the barge (tr. 1/132; tr. 2/68; tr. 6/44; R4, tab 1 at 739). In
+2017, SFI used one barge, one tug, and one diver in the water (tr. 1/219; tr. 6/44-45).
+This was not efficient because when all the mats on the barge had been placed, the
+barge and tug had to return to port and restock, which could mean two or more days
+with no mat placement (tr. 6/44; R4, tab 4 at 351, 353).
+
+       40. Paul Stynchcomb, SFI’s expert in construction management and
+scheduling, performed an analysis of wave conditions, and prepared several graphs.
+The graphs show that most days from May 6 to June 27, 2017, had recorded wave
+heights of less than 3 feet, with only occasional spikes above that level (ex. D-6 at 2-
+3). Accordingly, the Board finds that SFI wasted more than a month in which it was
+feasible to work.
+
+      41. On June 27, 2017, SFI began mat placement but managed to place only two
+mats even though the wave heights were just 1.3 feet (R4, tab 5 at 464-65). On
+June 28, 2025, it placed six mats in waves of 1.0 feet (id. at 468-69).
+
+        42. After the first two days of placement, SFI experienced delays for which it
+was responsible involving the ladder on the barge and the motor on its crew transport
+boat (tr. 6/35-36, 175-79). With these delays and subsequent weekends and
+Independence Day, it did not resume mat placement until July 11, 2017 (R4, tab 5
+at 513; app. ex. D-11 at 1).
+
+          43. The Board finds that all of the delays through July 10, 2017, were the fault
+of SFI.
+
+
+                                              8
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+       44. As of July 31, 2017, SFI had placed only 90 mats (ex. G-14 at 2; app.
+ex. D-11 at 1).
+
+       45. SFI was unable to work on July 31 and August 1, 2017, because of a
+tropical storm (R4, tab 4 at 373, 377).
+
+       46. As of August 31, 2017, SFI had placed 234 mats (ex. G-14 at 2; app. ex. D-
+11 at 1).
+
+        47. Hurricane Irma made landfall in the Florida Keys on September 10, 2017,
+and then moved to the north, reaching north Florida on September 11.
+https://www.weather.gov/mfl/hurricaneirma.
+
+        48. Merely observing that the hurricane was over Florida for two days
+understates the effect on the project. The USACE quality assurance report for
+September 4, 2017, states that SFI placed 13 mats before stopping to prepare for Irma.
+USACE stated that the seas were 1-2 feet that day. (R4, tab 4 at 484) The USACE
+quality assurance report for September 5, 2017, states that Port Canaveral had denied
+SFI’s request to remain at the port for the hurricane; SFI eventually brought the barge
+to Green Cove Springs, Florida (id. at 489, 493). By September 7 the seas were 5-6
+feet (id. at 493). On September 8, they were 7-8 feet (id. at 496). On September 9,
+they were 8-10 feet (id. at 499). On September 10-11, when the hurricane was over
+Florida, the seas reached 23 feet (id. at 502, 505). On September 12, 2017, the seas
+were 6-7 feet; on September 13, they were 4 feet (id. at 508, 511). While the seas then
+briefly returned to the 2–4-foot level, by September 16, 2017, they were back to 5-7
+feet (id. at 514, 517, 520). Two more hurricanes, albeit not as close to Florida, were
+yet to come.
+
+       49. In an October 2, 2017 email to USACE, SFI stated that its invoice for
+September was “next to nothing due to the effects of hurricane[s] Irma, Jose and
+Maria” (R4, tab 4 at 577). More than a year later, by letter dated November 21, 2018,
+from SFI to ACO Cotter, SFI requested a time extension and attached a report by a
+meteorologist analyzing weather on the east coast of Florida in September 2017 (R4,
+tab 36 at 3). The analysis stated:
+
+             September of 2017 was a particularly difficult month due
+             mainly to tropical cyclones . . . Hurricane Irma tracked
+             north through the western Florida peninsula and shows up
+             in the data from roughly September 7-12. Hurricane Jose
+             tracked through the Atlantic well east of Florida, but it
+             shows up in the sea state data from about September 17-20,
+             and hurricane Maria tracked north to the east of Florida a
+
+
+                                           9
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+              bit later in the month, and shows up in the data from about
+              September 23-27.
+
+(Id. at 14). While there were short gaps of time between the three hurricanes, the sea
+did not sufficiently calm for SFI to resume work before the next hurricane (or the end
+of the season) occurred.
+
+       50. By letter dated October 10, 2017, SFI notified ACO Cotter that it was
+demobilizing for the season. It stated that “deteriorating weather conditions since
+September 4, 2017, Hurricane Irma, have hampered our ability to return to normal
+operations.” (R4, tab 14)
+
+        51. SFI placed 252 mats in 2017 (Ex. G-14 at 2; app. ex. D-11 at 2). This was
+about 15.4% of the total and far short of the 40-50% required by the contract. As
+described above, SFI had informed USACE that it had planned the work based on a
+six-day work week, which, in theory, gave SFI some cushion if there was adverse
+weather (or other delays), even if it had bid zero weather days from July through
+September (findings 15, 36). Despite the schedule, the record shows that SFI placed
+mats on only three Saturdays and three Sundays in 2017 (Ex. G-14 at 2; app. ex. D11
+at 1-2). For example, the SFI quality control reports for Saturday, July 29 and Sunday
+July 30, 2017, state that there were 1.0-foot seas but that these were non-workdays and
+that there were no SFI personnel at the site (R4, tab 5 at 581, 583). The USACE
+quality assurance report for July 31, 2017, stated that SFI had not worked “by choice”
+the previous two days (R4 tab 4 at 373).
+
+       52. The Board further observes that SFI’s one-barge, one-tug operation that
+required a return to port to load mats and its failure to work on weekends resulted in
+five days without mat placement in July in a period of good sea conditions. The
+record shows that SFI placed mats on Wednesday, July 19, 2017, and then returned to
+port (R4, tab 4 at 348). It did not resume placing mats until Tuesday, July 25, 2017.
+SFI’s quality control reports list the sea conditions on every one of these days except
+Sunday, July 23, 2017. On each of these days the seas are listed as 1.3 or 1.6 feet.
+(Ex. G-14 at 2; ex. D-11 at 1; R4, tab 5 at 547, 551, 555, 558, 560) Thus, SFI failed to
+take advantage of five days of good weather.
+
+       53. In summary, the Board finds that SFI’s poor performance in 2017 was
+largely caused by its management and work plan, the late start, and the three
+hurricanes in September.
+
+
+                                           10
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+       D. 2018 and 2019 Work
+
+      54. Contract section 01 32 01, paragraph 3.9, Failure to Achieve Progress,
+provides:
+
+              Should the progress fall behind the approved project
+              schedule for reasons other than those that are excusable
+              within the terms of the contract, the CO may require
+              provision of a written recovery plan for approval. The plan
+              must detail how progress will be made-up to include which
+              activities will be accelerated by adding additional crews,
+              longer work hours, extra work days, etc.
+
+(R4, tab 1 at 242)
+
+       55. Citing this paragraph, ACO Cotter issued a notice of noncompliance to SFI
+on March 5, 2018. He stated that SFI was approximately 225 days behind schedule
+but that he could not identify the exact number because SFI had failed to submit the
+required periodic schedule updates. While he acknowledged that there had been
+“several tropical storms” in September 2017, he observed that SFI had not requested a
+time extension. He demanded that SFI submit a recovery schedule per paragraph
+3.9.3, Recovery Schedule (R4, tab 20 at 2-4)
+
+        56. On March 15, 2018, SFI met with USACE officials to discuss the project
+(tr. 1/215). SFI then made three important changes for 2018. First, it changed its
+project manager (tr. 3/21). Second, SFI added a second diver, which allowed for one
+diver at each end of the mat to maneuver it into place (tr. 1/219; tr. 3/178; tr. 6/44-45).
+This was important because, according to Sal Daher, SFI’s superintendent, SFI had
+had to pick up mats, which weighed about 12,000 pounds, and reposition them as
+many as 40 times to get them in the proper place (tr. 2/83, 102). Third, SFI added a
+second barge, used as a dedicated material barge, and a second tug, that allowed for
+continuous placement rather than stopping for two or more days while the single barge
+returned to port and reloaded (tr. 1/190; tr. 2/68; 3/79; tr. 6/44).
+
+       57. SFI was able to begin mat placement in April 2018, in line with the
+placement season referenced in the solicitation. On April 18-20, it placed 8, 10, and
+18 mats respectively (ex. G-14 at 3; app. ex. D-11 at 2) and appeared to be off to a
+good start. But on April 21 USACE shut down SFI’s mat placement because it did not
+have a standby diver (R4, tab 5 at 1168). ACO Cotter testified credibly that putting a
+diver in the water without a standby diver was a “heinous safety violation” (tr. 6/59).
+SFI remained shut down until April 28, 2018 (R4, tab 26 at 2).
+
+       58. Despite this initial misstep, the changes made by SFI resulted in a dramatic
+
+
+                                            11
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+improvement in performance. We observe, for example, that between June 1 and 12,
+2018, SFI placed more mats than in all of 2017 (Ex. G-14 at 3-4; app. ex. D11). If it
+had continued at this rate, SFI would have completed the contract early. But it did not
+recognize until it was too late that it was placing mats more quickly than it was
+manufacturing them. While SFI eventually ordered its supplier to increase production,
+it was too late. (Tr. 3/203, 208). SFI released the second barge and tug boat from the
+site (tr. 3/210). While it is not clear exactly when it stopped working with the two-
+barge, two-tug system, SFI stopped recording hours for the second tug in its quality
+control reports on June 22, 2018 (R4, tab 5 at 1558) SFI’s expert calculated that SFI’s
+average daily mat placement then dropped by more than 50% (app. ex. D-10).
+
+       59. SFI brought the second barge and tug back to the site on August 8, 2018
+(R4, tab 5 at 1694). Another burst of productivity followed; SFI placed more mats
+from August 8 to 24 than it had in the 2017 season (ex. G-14 at 4; app. ex. D11 at 4).
+
+       60. The sea conditions remained good for the rest of August with waves
+ranging from about 1.0 to 2.5 feet (ex. D-6 at 11), but in the period from August 25-31,
+2018, SFI conducted placement on only August 29-30, when it placed 45 mats. The
+delays during this period were the fault of SFI because it had placed 18 mats in the
+wrong location and it also had to wait for concrete test results (R4, tab 5 at 1745, 1747,
+1755; ex. G-14 at 4; app. ex. D-11 at 4).
+
+        61. The weather had already started to decline by September 8, 2018, when
+USACE noted no work that day due to powerful swells and an approaching hurricane
+(R4, tab 4 at 1052). On September 11, 2018, USACE noted that SFI was demobilizing
+due to the approach of Hurricane Florence (id. at 1053). On September 17, 2018, SFI
+stated in its quality control report that it had lost seven days due to “storm activity”
+(R4, tab 5 at 1800). SFI placed 51 mats on September 19-20, 2018, but that was the
+end of its 2018 season (ex. G-14 at 5; app. ex. D-11 at 5).
+
+       62. On September 28, 2018, SFI notified ACO Cotter that due to deteriorating
+conditions after September 20, 2018 it had decided to demobilize from the site (R4,
+tab 33).
+
+       63. In 2018, SFI placed 69.4% of the mats, more than quadrupling its 2017
+performance, but not enough to make up for the poor results in that year (ex. G-14;
+app. ex. D11).
+
+       64. SFI mobilized for a third season and resumed mat placement on June 5,
+2019. It placed the final mats on June 22, 2019. (R4, tab 5 at 2323, 2357). Due to
+some minor changes, the final number of mats increased from 1,620 to 1,638 (ex. G-14
+at 5).
+
+
+                                           12
+                          DOCUMENT FOR PUBLIC RELEASE
+      The decision issued on the date below is subject to an ASBCA Protective Order.
+                     This version has been approved for public release.
+
+                                    SFI’s Certified Claim
+
+        65. On October 21, 2020, SFI submitted a certified claim seeking $2,838,231
+(R4, tab 50). The crux of SFI’s claim was that the weather in April, May, and
+September “differed vastly from the working conditions forecasted in the Contract
+Documents” (id. at 13). Among other things, SFI complained that during these
+months, waves often exceeded one meter 2, which caused “murky underwater
+conditions” and “rendered the requisite underwater diving operations unsafe, as well as
+impeding the ability of the crane barge to remain on position for the precision mat
+placement requirements.” (Id.) SFI contended that it was able to work on only 11.1%
+of the available workdays in September 2017, 46.2% of the workdays in April and
+May 2018, and on 29.2% of the workdays in September 2018 (id.).
+
+       66. Exhibit 8 to SFI’s claim was a report by Locus Weather (R4, tab 50(h)).
+While not signed, the first page of the document lists four people with degrees in
+Atmospheric Sciences or Meteorology. The report states that the best source of data is
+the weather buoys in the region and that Locus Weather had used the data from the
+National Data Buoy Center. The wave data in the report is based on Buoy 41113 (16
+miles to the north of the project site), Buoy 41009 to the northeast (20 miles east of
+Cape Canaveral), and Buoy 41114 (40 miles to the south) (id. at 3; ex. D-5).
+
+        67. Locus Weather observed that wave heights greater than one meter occurred
+more frequently at Buoy 41009, “which makes sense as it is farther offshore” (id. at 4).
+It concluded that the other two buoys, which are closer to shore, “may be a better
+indicator of difficult conditions at the job site” but that data from 410009 “should not
+be totally discounted” (id.). Locus Weather prepared a spreadsheet identifying days
+when waves exceeded one meter. The spreadsheet supported SFI to the extent that it
+showed that most days from September 7, 2017, to the end of that month had waves of
+at least one meter and that there were also numerous days in April, May and
+September of 2018, with waves of at least one meter, albeit less so at Buoy 41113 (id.
+at 13-15, 19).
+
+      68. Because SFI’s claim focuses on poor water visibility and high
+waves/swells, we will summarize the evidence on both issues.
+
+
+2
+    1 meter = 3.28 feet or 3 feet, 3 and 3/8 inches
+
+
+                                              13
+                         DOCUMENT FOR PUBLIC RELEASE
+     The decision issued on the date below is subject to an ASBCA Protective Order.
+                    This version has been approved for public release.
+
+                                      Water Visibility 3
+
+        69. To begin, the Rule 4 file does not document a consistent problem with low
+visibility water. Appellant’s expert, Mr. Stynchcomb, summarized the evidence as
+follows:
+
+                Q (App. counsel) And did you also assess visibility
+                impacts in connection with this analysis?
+
+                A There were constant complaints about turbidity, but the
+                record only shows three or four days in which the -- the
+                divers could not see. So that was a -- a bit more elusive to -
+                - to try to pin down to a day.
+
+(Tr. 8/38-39)
+
+        70. Despite the lack of documentation, witness testimony convinced the Board
+that the site often had low visibility. SFI Superintendent Daher, Dr. Bodge, and COR
+Wilson all agreed that the water could be turbid or low visibility when there was
+significant wave activity (tr. 2/144; 5/35; 7/80).
+
+       71. The Board will now consider whether the low visibility impacted the
+divers, and whether the conditions were foreseeable by bidders.
+
+        72. SFI did not use ordinary laborers to place the mats but rather professional
+divers (tr. 1/102). Unrebutted testimony establishes that such divers often work in low
+visibility water. SFI’s president, Mr. Royo, Brevard’s consultant, Dr. Bodge, and
+USACE’s construction representative, Howard Lyons, all agreed on this point
+(tr. 1/105; 2/40; 5/36; 6/142, 194, 254). While this might have left the door open to
+testimony from the divers that the water was worse than the low visibility water that
+they usually experience, SFI did not present testimony from any of the divers.
+Accordingly, SFI has not proven that the visibility at the site was outside the range of
+what commercial divers ordinarily encounter.
+
+       73. As to foreseeability, we have already found that SFI did not ask USACE or
+any of its subcontractors about visibility prior to bid (finding 24). SFI seems to have
+
+3
+    During the hearing, the parties frequently used the words “turbid” and “turbidity”
+         when discussing low visibility water. Turbidity refers to sediment suspended in
+         the water and is one cause of low visibility. From a coastal engineering
+         perspective when discussing diving operations, it is more common to speak of
+         “visibility.” (Tr. 4/240)
+
+
+                                             14
+                         DOCUMENT FOR PUBLIC RELEASE
+     The decision issued on the date below is subject to an ASBCA Protective Order.
+                    This version has been approved for public release.
+
+had a rather passive approach; Mr. Royo testified he did not discuss visibility with the
+subcontractors because he assumed they would tell him about any such issues without
+him asking (tr. 2/43).
+
+        74. Part of the problem may be SFI’s location in Broward County, Florida and
+its lack of experience in Brevard County (tr. 1/49; finding 11). Dr. Bodge testified
+credibly that southeast Florida, of which Broward is part, has “chronically good
+underwater visibility” (tr. 5/35). Brevard County is only five counties north of
+Broward. 4 But, as Dr. Bodge explained, there is a big change in water conditions
+north of Palm Beach County, such that the conditions in Brevard are “the polar
+opposite” of southeast Florida (id.).
+
+       75. Dr. Bodge testified credibly that commercial divers would “absolutely” be
+aware of how water visibility changes as one moves up the coast (id.). Moreover, even
+if SFI did not know what the visibility is like, the information is readily obtainable
+through research or discussions with people experienced in the area (tr. 5/36). SFI did
+not present any testimony to the contrary.
+
+       76. Accordingly, the Board finds that the water visibility issues were
+foreseeable prior to bid.
+
+                                       Wave Heights
+
+        77. Superintendent Daher testified concerning the difficulty of mat placement
+at various wave heights. He testified that if the waves were 2 feet or less, SFI was able
+to work. He described placing mats in waves in the 2- to 3-foot range as
+“manageable” but that it started to become more difficult after 2 feet. He testified that
+work became increasingly difficult after the waves exceeded 3 feet. He described
+work in 4-foot waves as “very difficult to almost unmanageable at times.” (Tr. 2/98-
+99). He acknowledged that SFI placed mats on a limited number of days where there
+were seas greater than 4 feet (tr. 2/99, 145).
+
+        78. Mr. Stynchcomb prepared an exhibit showing that SFI placed 83% of its
+mats when waves were 2.0 feet or less and 98% of the mats when waves were 2.5 feet
+or less. He found that SFI placed no mats in seas above 3 feet. (Ex. D-8) While we
+believe it is true that SFI placed the vast majority of the mats in seas less than 3 feet,
+Mr. Stynchcomb’s analysis is not entirely accurate based on Mr. Daher’s testimony.
+Mr. Stynchcomb was forced to admit on cross examination that there were days in
+which SFI placed mats in 4-foot seas (tr. 8/102).
+
+4
+    From north to south, the counties are: Brevard, Indian River, St. Lucie, Martin,
+        Palm Beach, Broward, and Miami-Dade.
+        https://floridadep.gov/sites/default/files/CPI-coastal-Florida-map.pdf.
+
+
+                                             15
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+       79. There is no dispute that waves of 3-feet or more occurred on a significant
+number of days or that SFI was progressively less successful as wave heights
+increased. Rather, the dispute is whether the conditions were foreseeable based on a
+review of the data from the NDBC buoys. To answer that question we must determine
+whether these buoys provided a reasonable approximation of the site conditions.
+
+        80. The only SFI fact witness who might have been able to answer this
+question was Mr. Daher. But he never observed conditions at the buoy sites. He
+testified that he was 15 miles from a buoy. This may be an overstatement but, based
+on his testimony that the crew boat would travel to the site at 100 yards from the
+beach, he may never have been within several miles of a buoy (tr. 2/125-127).
+
+       81. We turn to SFI’s daily quality control reports. In 2017, SFI recorded wave
+heights by citing Buoy 41113 until August 7, 2017 (R4, tab 5 at 610; tr. 3/37). In the
+days that followed, SFI stopped recording wave heights (e.g., R4, tab 5 at 614, 617).
+On some days for the remainder of the project SFI stated that there were “high swells”
+or “heavy swells” or “rough seas” (id. at 620, 652, 1210, 1660). There are also some
+days where SFI did list wave heights but without identifying the source of the
+information (e.g., R4, tab 5 at 1140, 1460).
+
+        82. SFI’s quality control manager was responsible for preparing the quality
+control reports (tr. 3/28). Unfortunately, he did not testify and we do not know why
+he failed to keep consistent track of sea conditions or what the source of his
+information was when he did list wave heights.
+
+       83. We next turn to SFI’s experts. As described above, in its certified claim,
+SFI submitted a report from Locus Weather that described the area buoys as the “best
+source for data…” (finding 66). While the report examined data from three buoys, it
+concluded that Buoy 41113 and Buoy 41114 (to the south) would give the most
+accurate information for the project site (finding 67)
+
+        84. SFI’s testifying expert, Mr. Stynchcomb, prepared an analysis of wave
+heights at the project site to determine the number of compensable weather days
+(tr. 8/16-18, 38-40). He reviewed SFI’s daily reports and other documents but found
+that “[t]here were large periods of time in which there was no report” (tr. 8/39).
+Mr. Stynchcomb used Buoy 41113 to prepare a graphical depiction of the wave
+heights in each work season and to prepare the table in which he concluded that SFI
+placed 98% of the mats in seas of 2.5 feet or less (app. ex. D-6, D-8). He used this
+buoy because it was “fairly close” to the site and he believed it was “the best we could
+do” (tr. 8/17-18, 106). Mr. Stynchcomb spent two to three days downloading the data
+and preparing the graph and table (tr. 8/114).
+
+
+                                           16
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+        85. Dr. Bodge testified that the data from the NDBC buoys would have
+provided “a good historical overview of the kind of conditions that have been observed
+[in the Mid-Reach] over the last 10, 15, 20 years prior to reef construction” (tr. 5/27).
+
+       86. Based on this record, there is no basis for the Board to conclude that the
+site conditions differed in a meaningful way from those at the NDBC buoys.
+
+       87. The only NBDC data in the record prior to bid is from Buoy 41113 in
+2016. The Board observes that this buoy recorded wave heights greater than one
+meter on 29 of the 91 days from April 1 to June 30, 2016. (R4, tab 114 at 87-173)
+Accordingly, if SFI had reviewed this data, it would have realized that a bid based on
+five weather days per season was unreasonable.
+
+                            The Superior Knowledge Claim
+
+        88. SFI contends that USACE had superior knowledge of the weather and site
+conditions. SFI’s claim is largely based on a document that Dr. Bodge wrote in 2007
+when he was employed by Olsen Associates, Inc., entitled “Practical Considerations of
+Depth for the Construction of Nearshore Mitigation along the Mid Reach Coastline of
+Brevard County, Florida” (hereinafter “Olsen 2007”) (R4, tab 135). SFI was not
+aware of, and did not obtain Olsen 2007, until after it filed this appeal (tr. 1/188-89).
+But it is undisputed that Brevard County had provided Olsen 2007 to USACE before
+USACE issued the solicitation (R4, tab 137b at 20).
+
+                              Olsen 2007 and Bodge 2013
+
+        89. Olsen 2007 is a document Dr. Bodge wrote on behalf of Brevard County,
+which wanted to replenish the sand on its beaches (tr. 4/127, 146, 166). The
+replenishment was complicated by the presence of natural rock outcroppings (or reefs)
+that extend 400 feet from the shoreline to water depths of about -4 feet mean low water
+(tr. 4/140-42; tr. 5/9; R4, tab 135 at 2). While these rocks can be a nuisance to bathers,
+they provide habitat for ocean life (tr. 4/142-43). A large-scale addition of sand would
+bury the rocks, which necessitated the development of “mitigation features” (id.
+at 140-41, 143).
+
+       90. Dr. Bodge crafted a two-step approach in which an artificial reef would be
+constructed in tandem with the beach replenishment (id. at 149-51). In about 2005, he
+proposed a “simple mattress and boulder solution,” which was rejected by the
+regulatory agency, the Florida Department of Environmental Protection (FDEP) (id.
+at 148-49, 161).
+
+       91. Dr. Bodge drafted the Olsen 2007 report in response to questions he had
+received from the regulators, who wanted “in-kind mitigation” (tr. 4/192, 194; 5/9).
+
+
+                                           17
+                         DOCUMENT FOR PUBLIC RELEASE
+     The decision issued on the date below is subject to an ASBCA Protective Order.
+                    This version has been approved for public release.
+
+This would have required construction of the artificial reef where the naturally
+occurring rocks were, which was in the surf zone.
+
+       92. Dr. Bodge did not believe that construction of an artificial reef in the surf
+zone in Brevard County was safe or feasible. In Olsen 2007 he set out to explain why.
+(Tr. 5/9-11) With respect to safety, he stated that the placement of an artificial reef in
+the surf zone near shore could lead to drownings, broken bones, or other injuries (R4,
+tab 135 at 19-20).
+
+         93. With respect to construction, prior to writing the report, Dr. Bodge
+purchased information about waves in the Mid-Reach from a Dr. William Dally. This
+information is referred to as the “Dally Data.” The Dally Data are a hindcast, meaning
+that it involves modeled predictions of past conditions, rather than data from buoys.
+The Dally Data contains wave height information from June 1954 to June 2004 and
+consists of 1,449 pages and 73,000 lines. (R4, tabs 131a-131i; tab 109 at 3; tr. 5/22-
+23; APFOF 46-47, 104) The Dally Data came from water 1 to 3 feet deeper 5 than the
+project site. While the precise location is unclear, it is closer to the project site than
+the NDBC buoys. (Tr. 5/23; R4, tab 135 at 7 (stating that the Dally Data was recorded
+offshore of R-106); R4, tab 1 at 209 (stating that the project area includes
+unincorporated Brevard County from R-105 to R-119))
+
+       94. Dr. Bodge obtained the Dally Data because it “was packaged and ready to
+use” (tr. 5/45). But Dr. Bodge believes that the data from the NDBC buoys would
+have provided “a good historical overview of the kind of conditions that have been
+observed [in the Mid-Reach] over the last 10, 15, 20 years prior to reef construction.”
+He testified that he would not expect the Dally Data to be significantly different from
+the buoy data. (Tr. 5/27, 42-43)
+
+       95. Neither party has provided the Board with an analysis comparing the Dally
+Data to data from the NDBC buoys. Accordingly, we do not know if there is any
+difference in the wave heights in the two sources and there is no basis for the Board to
+conclude that the Dally Data was superior to the NDBC buoy data.
+
+       96. Olsen 2007 contains a mixture of Dr. Bodge’s observations of the site,
+analysis of the Dally Data, and opinions about how the sea conditions will affect
+construction access to the site.
+
+5
+    We draw this conclusion by reconciling the standards used in Olsen 2007 to reflect
+        water depth. The Dally Data comes from water -19.4 ft. NGVD (National
+        Geodetic Vertical Datum), which equates to -17.5 ft. MLLW (mean low low
+        water) (R4, tab 135 at 7, n.7). -17.5 MLLW would be approximately -17.2 feet
+        MLW (mean low water) (id. at 21), which is about 1 to 3 feet deeper than the
+        areas in which SFI placed the mats.
+
+
+                                            18
+                         DOCUMENT FOR PUBLIC RELEASE
+     The decision issued on the date below is subject to an ASBCA Protective Order.
+                    This version has been approved for public release.
+
+       97. Dr. Bodge observed in Olsen 2007 that the water in the Mid-Reach has
+“chronically limited, near-zero visibility” (R4, tab 135 at 6). (He testified that he
+defined near zero visibility to mean visibility of 0 to 6 feet at most (tr. 5/33)). With
+respect to wave heights, Dr. Bodge expressed the opinion that the sea conditions are
+well known: “[t]he general area - from Cocoa Beach through Satellite Beach and
+Indialantic -- is well known for its consistent, high swell. It is not coincidental that
+multi-time world surfing champions Kelly Slater, Lisa Anderson, and others, grew up
+surfing in this area” (R4, tab 135 at 6).
+
+      98. Dr. Bodge expressed an opinion concerning the maximum wave heights in
+which a contractor would schedule work and in which it would be feasible to work, an
+opinion that was much more pessimistic than SFI’s 4-foot projection:
+
+                In general, a significant wave height of 2-ft or less is a
+                reasonable proxy for the maximum swell in which a
+                marine contractor would schedule or conduct vessel
+                operations for the present work. Work in 3-ft seas is mostly
+                infeasible.
+
+(Id. at 7)
+
+       99. Based on his review of the Dally Data, Dr. Bodge stated that the site
+experienced significant wave heights 6 of 2 feet or less only 25% of the year. In the
+calmest months - June, July, and August - seas of 2 feet or less occurred somewhat
+more frequently: 33% - 48% of the time. Dr. Bodge then opined that the marine
+construction window for the project was “pragmatically limited to between mid-May
+and mid-September.” (Id. at 9)
+
+       100. Dr. Bodge compared waves in Brevard County to those in West Palm
+Beach and Ft. Lauderdale. He stated that in those locations waves were 1 foot or less
+20% of the time and were at the 1-2 foot level 32% of the time. By contrast, in the
+Mid-Reach waves were 1 foot or less only 2% of the time and were at the 1-2 foot
+level 21% of the time. (R4, tab 135 at 12). He also stated that on any given day, wave
+heights in the Mid-Reach were 47% larger than in West Palm Beach and 69% larger
+than in Ft. Lauderdale (id. at 14).
+
+
+6
+    Significant wave height means “the average height of the highest one-third of waves
+         encountered over a specified period of time.” Bean Dredging, LLC v. United
+         States, 699 F. Supp. 2d 118, 123 (D.D.C. 2010)
+
+
+                                            19
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+          101. In the conclusion of his analysis of construction access issues, Dr. Bodge
+stated:
+
+                The construction of mitigation reef structures in shallow
+                water along Palm Beach and Broward Counties is not
+                evidence that such structures can be practically
+                constructed along the Mid Reach. Particularly in light of
+                the greater distances that separate the Mid Reach site from
+                the nearest port, the generally higher seas, and the less-
+                frequent duration of calm-seas, the ability to safely and
+                reliably work in very shallow nearshore waters is
+                significantly more limited along the Mid Reach than in
+                south Florida.
+
+(Id.) (Emphasis by Dr. Bodge)
+
+        102. It is important to note that Olsen 2007 is focused on the difficulties of
+working in water from +1 to -4 feet mean low water where the natural rock
+outcroppings were present. As Dr. Bodge testified, the purpose of the report “was
+strictly to identify the seabed depth at which these restructures [sic] may be
+constructed, which differed from the very, very shallow depths which the regulatory
+agencies had requested the placement” (tr. 5/7-8). While the report is dense and
+somewhat opaque at times, there is abundant support in the report for this testimony
+(R4, tab 135 at 2-3 (discussing probes taken at -3 to -6 ft MSL); at 3 and 6 (analyzing
+construction of the reef from shore which would restrict placement to within 60 ft. of
+shore); at 5 (analyzing difficulties of placement in less than 8 feet of water and also
+opining that 8 to 14 foot depths would also cause problems) at 6 (opining that the surf
+would cause the mats to fracture the natural reef); and at 19 (discussing dangers posed
+to swimmers if mats were placed in the swimming area). Dr. Bodge did not opine
+about the difficulties of working at -14 to -16 feet mean sea level with proper
+equipment and there is simply no way to know if any of the statements in the report
+concerning the difficulties of working in 3-foot waves in the surf zone would apply to
+working in 3-foot swells 1,000 feet from shore.
+
+          103. Dr. Bodge explained why it would be so difficult to work close to the
+beach:
+
+                As seas rise, the ability to work in shallow water declines
+                sharply. At issue is not only the wave surge - but also the
+                risk of losing moorings or anchoring or other control of a
+                vessel when in such shallow water. That is, in shallow
+                water, closer to shore, the margin of physical space and
+                water available to maneuver and recover control of a large
+
+
+                                             20
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+              vessel - before it becomes dangerously and/or intractably
+              lost to the surf - is of paramount concern.
+
+(R4, tab 135 at 7). While this is again not perfectly clear, the references to “the margin
+of physical space” and the danger of losing control of the vessel in the surf, suggest
+that he was only trying to explain to the regulatory agency why they should not build
+the artificial reef in the same place as the existing reef, that is, in water to a depth of -4
+feet.
+
+        104. Dr. Bodge did not analyze in depth how equipment choices would affect
+the work but he suggested that if a jack-up barge were used the problems he described
+would be reduced to transporting the barge from port to the site (id.). At the hearing
+he testified that equipment choice was “fundamentally important” (tr. 5/17).
+
+        105. With respect to his opinions concerning the feasibility of working in 2-
+and 3-foot seas, Dr. Bodge testified that he had used these numbers because
+“operations often change when you get to two to three feet” (tr. 5/76). He testified that
+he did not consider 3 feet to be the actual limit at which the mats could be placed, but
+rather “a threshold for consideration of operations,” and that he had performed marine
+construction from an oil platform in seas of up to six feet (tr. 5/74, 76). He testified
+that the purpose of his report was strictly to identify the depth at which the artificial
+reef could be placed, and not to be a definitive analysis of when and how they could be
+constructed, and that it was not intended for the development of cost estimates (tr. 5/7-
+8, 61-62). He testified that whether the contractor could actually work in 3-foot seas
+would be determined by the type of equipment it used, the number of pieces of
+equipment, the contractor’s work plan and schedule (tr. 5/15).
+
+                                        Bodge 2013
+
+        106. More than five years after Olsen 2007, Dr. Bodge wrote a memorandum
+to a Brevard County official entitled “Mid Reach Reef Mitigation Design” (R4,
+tab 136) (Bodge 2013). USACE had Bodge 2013 while it was preparing the
+solicitation (R4, tab 137b at 20). The purpose of Bodge 2013 was to relay “several
+additional ideas related to the fabrication & installation” of the mats (id. at 1). Most of
+the memorandum is not relevant to this dispute. However, the last page contains a cost
+estimate in which Dr. Bodge made some statements or assumptions that SFI relies
+upon in further support of its superior knowledge claim.
+
+        107. Dr. Bodge calculated a cost of $1,534,000 for the first acre based on what
+appears to be a season of “May-August only” (R4, tab 136 at 5). He then adds “[f]or
+construction that continues into or after mid-September, add $600,000” (id.). He also
+stated that additional acres “might cost, say, $1,270,000” (id.). The phrasing appears
+
+
+                                             21
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+to indicate these are just rough estimates and we observe that the actual award price
+was about double Dr. Bodge’s estimate (finding 27).
+
+       108. Dr. Bodge’s estimate also assumed “plus, say, 50 weather days” (R4,
+tab 136 at 5).
+
+       109. The Bodge 2013 estimate takes up about one page (id.). Dr. Bodge
+described it at the hearing as “spitballing ideas” (tr. 5/114).
+
+                               Claim Denial and Appeal
+
+       110. On March 26, 2021, CO Grisell Gonzalez-Aquino denied SFI’s claim (R4,
+tab 49).
+
+      111. SFI filed a timely appeal on April 6, 2021, that the Board docketed as
+No. 62876.
+
+                                    SFI’s Damages
+
+     112. SFI’s expert, Mr. Stynchcomb, calculated a total of $2,664,084 in
+damages (app. ex. D-13). He itemized this amount as follows:
+
+              Delay, lost productivity, and acceleration costs:
+                      $1,382,585
+              2018-19 hiatus & 2019 mobilization and demobilization:
+                      $642,645
+              General and administrative costs of 15.6%:
+                      $314,982
+              Profit at 10.2%:
+                      $238,702
+              Bond premium of 0.887%:
+                      $22,870
+               Change proposal preparation costs:
+                      $62,300
+
+                     TOTAL                =      $2,664,084
+(Id.)
+
+       113. The delay damages are based on Mr. Stynchcomb’s calculation that there
+were 92 weather delay days, of which 61 days were compensable (ex. G-18 at 4). Of
+the 61 days, 21 occurred during what he called the “Olsen Window” of May 15 to
+September 15 in which the seas were from three to four feet (id. at 4, 22; tr. 8/43 ).
+He classified days with waves greater than four feet as excusable but not compensable,
+
+
+                                           22
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+apparently because SFI had not planned to work on those days (ex. G-18 at 22;
+tr. 8/45)).
+
+       114. The remaining 41 compensable days occurred between September 16 to
+October 1, 2017, April 1 to May 15, 2018, and September 16 to October 1, 2018.
+During these periods Mr. Stynchcomb classified all days in which SFI could not work
+due to weather as compensable. (Tr. 8/43) It is not entirely clear why he applied a
+different standard for these periods other than that he believed SFI “should not have
+been working during those periods” (tr. 8/14; app. ex. D-29).
+
+       115. In his calculation of 61 compensable weather days, Mr. Stynchcomb
+included 18 compensable weather days in September 2017 that correspond with the
+three hurricanes (app. ex. D-29 at 1-2).
+
+       116. Mr. Stynchcomb included a total of 16 compensable weather days from
+April 2018, which was identified in the solicitation as the last month of the inclement
+weather season. Four of these days were also days in which USACE had shut down
+SFI for failure to maintain safe diving conditions (app. ex. D-29 at 3; findings 7, 57).
+
+       117. Mr. Stynchcomb counted two compensable weather days in September
+2018 that correspond to Hurricane Florence ((app. ex. D-29 at 5; finding 61).
+
+       118. Mr. Stynchcomb also calculated that SFI experienced a 20-day loss of
+productivity in 2018 when it placed mats in the April 2 to May 15 period and during
+the summer months when it was working with only one barge and one tug (app. ex. D-
+16)
+
+       119. Mr. Stynchcomb testified that there is nothing unique about the waves in
+Brevard County. In response to a question from USACE counsel, he agreed that a 2.5-
+foot wave is the same regardless of whether it is in Brevard County or in south Florida.
+(Tr. 8/101)
+
+                         USACE’s Liquidated Damages Claim
+
+    120. The contract incorporated FAR 52.211-12, LIQUIDATED DAMAGES –
+CONSTRUCTION (SEPT 2000). The clause provided:
+
+              (a) If the Contractor fails to complete the work within the
+              time specified in the contract, the Contractor shall pay
+              liquidated damages to the Government in the amount of
+
+
+                                           23
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+                 $1,230 for each calendar day of delay until the work is
+                 completed or accepted.
+
+(R4, tab 1 at 502).
+
+      121. The contract did not contain any provision listing the number of expected
+adverse weather days per month. Instead, it contained a chart listing the average
+number of days per month with rain greater than 0.1 inches:
+
+ Gage Name        Jan    Feb   Mar    Apr   May    Jun   Jul   Aug    Sep   Oct   Nov   Dec
+ Melbourne
+ Intl Airport,
+ FL               4.2    4.5   4.5    3.5   4.7    9.2   8.7   10.4   9.3   6.8   4.1   3.6
+
+(R4, tab 1 at 206)
+
+        122. COR Wilson testified credibly that mat placement would not be affected
+by rainfall; it would be more affected by “oceanographic influences” (tr. 7/19). A light
+rainfall might actually aid mat fabrication (id. at 20).
+
+       123. On February 16, 2023, CO Gonzalez-Aquino issued a final decision
+assessing $249,690 in liquidated damages based on her finding that SFI did not
+complete the contract until August 1, 2019 (R4, tab 58 at 4). She found that there were
+42 excusable but non-compensable adverse weather days, which extended the contract
+completion date to January 10, 2019. She assessed the liquidated damages based on
+the 203 days from January 11, 2019 to August 1, 2019. (Id.)
+
+        124. CO Gonzalez-Aquino also issued Modification No. P00002 (Mod. P2)
+which extended the contract completion date by the 42 excusable weather days (R4,
+tab 57). The modification showed how she had calculated the number of days of
+delay. She found that there was a total of 84 days in which the weather caused a
+critical delay (37 in 2017 and 47 in 2018). She treated the chart showing the average
+number of days of rain greater than 0.1 inches as days of adverse weather and
+subtracted this from the number of weather delay days. For example, with respect to
+September 2017, she found that there were 25 days in which the weather caused
+critical day. She then subtracted the 9.3 days of rain greater than 0.1 inches (finding
+121) to reach an excusable delay of 15.7 days, which she rounded up to 16 days. She
+went through a similar exercise in all other months, finding that SFI was also entitled
+to an extension of nine days in April 2018, nine days in May 2018, and eight days in
+September 2018. (Id. at 2)
+
+     125. In its post-hearing brief, USACE explains the assessment of liquidated
+damages through August 1, 2019, by pointing to its quality assurance report for that
+
+
+                                             24
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+date. The report states that three SFI workers were at the site that day to install a buoy
+marker at mat set no. 2 (R4, tab 5 at 2437).
+
+      126. SFI filed a timely appeal on May 12, 2023, that the Board docketed as
+No. 63616.
+                                     DECISION
+
+                                   ASBCA No. 62876
+
+       I. Superior Knowledge
+
+        The superior knowledge at issue is Olsen 2007 (and, to a lesser extent, Bodge
+2013), which, according to SFI, contained vital knowledge and should have been
+disclosed. SFI does not contend that USACE should have given bidders the 1,449
+pages of the Dally Data, and there is no evidence that the Dally Data would have been
+easier to review or provided superior data to that which was available from the NDBC
+buoys (finding 95). SFI is relying solely upon Dr. Bodge’s interpretation of the Dally
+Data, as well as his observations of the site and his opinions related to construction.
+
+       A. Standards of Review
+
+        The superior knowledge doctrine “is generally applied to situations where: (1)
+a contractor undertook to perform without vital knowledge of a fact that affects
+performance costs or duration; (2) the government was aware the contractor had no
+knowledge of and had no reason to obtain such information; (3) any contract
+specification supplied misled the contractor or did not put it on notice to inquire; and
+(4) the government failed to provide the relevant information.” Giesler v. United
+States, 232 F.3d 864, 876 (Fed. Cir. 2000) (citing Hercules Inc. v. United States,
+24 F.3d 188, 196 (Fed. Cir. 1994)).
+
+        “[A]s a general matter, the Government may be found in breach of a contract
+where it deliberately withholds information vital to the contract’s performance,
+thereby misleading the contractor and causing him injury.” Petrofsky v. United States,
+616 F.2d 494, 497 (Ct. Cl. 1980) (citing Helene Curtis Indus., Inc. v. United States,
+312 F.2d 774, 777-78 (Ct. Cl. 1963)). “The corollary to this rule is that the
+Government is under no duty to volunteer information which the contractor can
+reasonably be expected to seek out himself.” Id. (citing H. N. Bailey & Assoc. v.
+United States, 449 F.2d 376, 383 (Ct. Cl. 1971)). The government is not obligated to
+volunteer facts that “could reasonably have been discovered through [the contractor’s]
+own investigation and pursuit of leads given by the contract papers.” Hunt & Willett,
+Inc. v. United States, 351 F.2d 980, 985 (Ct. Cl. 1964). The contractor cannot claim to
+be misled unless it reviewed the information to which it was directed by the contract.
+Id. at 986 (contractor failed to investigate the site and failed to examine logs of drill
+
+
+                                            25
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+holes). For example, in a case involving the manufacture of a steel shoe for armored
+personnel carriers, the Court of Claims held that the government was not liable
+because the information in question could have been obtained from “metallurgical
+literature.” Firestone Tire & Rubber Co. v. United States, 558 F.2d 577, 589 (Ct. Cl.
+1977); accord Giesler, 232 F.2d at 877 (government not liable because the ingredients
+of a nut mix labeled “CID A-A-20164” were publicly available); H.N. Bailey & Assoc.
+v. United States, 449 F.2d 376, 382-83 (Ct. Cl. 1971) (information necessary for
+casting a manganese bronze alloy was obtainable from “textbooks and other scholarly
+works”).
+
+       “A Government contractor, regardless of its size, locality or experience, is
+bound to understand the complexities and consequences of its undertaking.” Tony
+Downs Foods Co. v. United States, 530 F.2d 367, 374 (Ct. Cl. 1976). Thus, the
+government does not have a duty to inquire into the knowledge of an experienced
+contractor. GAF Corp. v. United States, 932 F.2d 947, 949 (Fed. Cir. 1991). The
+government is not required to attach a warning to a solicitation that states “only
+knowledgeable and experienced contractors need apply.” Am. Ship Bldg. Co. v.
+United States, 654 F.2d 75, 79 (Ct. Cl. 1981). It is “reasonable for the government to
+assume that a contractor is the best judge of its competency and will exercise good
+judgment in deciding to bid on a contract.” Id.
+
+       B. USACE Generally Disclosed the Weather Conditions that Affected the Site
+
+       This is an appeal about weather that would occur up to about 26 months after
+USACE issued the solicitation (findings 1, 7, 26). Weather that far into the future is
+not predictable with any certainty, although there may be general parameters of what
+can be expected.
+
+       The solicitation contained multiple warnings about the types of unfavorable site
+conditions that could be encountered. It informed bidders that: a) April is part of the
+inclement weather season; b) the project area is subject to tropical storms and
+hurricanes from June to November; and c) stormy, windy, and rainy weather,
+including dangerous thunderstorms, can occur at any time of year (findings 8-9).
+USACE did not make any promises or representations that the seas would be calm or
+largely calm in the April 1st to October 1st timeframe.
+
+        The weather that SFI experienced was consistent with the warnings in the
+solicitation. SFI lost almost all of September 2017 to three hurricanes, as well as part
+of September 2018 to another hurricane (findings 47-49, 61). To the extent it was
+necessary to warn SFI, a Florida-based contractor, that September was in the hurricane
+season, USACE included this in the solicitation (finding 8). See Glasgow Assoc. v.
+United States, 495 F.2d 765, 769 (Ct. Cl. 1974) (Air Force was not required to warn
+
+
+                                          26
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+bidders of the risk that interest rates might change because they would know such
+changes are always possible).
+
+       Similarly, SFI contends that it lost more than half of April 2018 to poor weather
+(finding 116). The solicitation informed bidders that April was an inclement weather
+month (finding 7). SFI can hardly claim to be surprised that there was some inclement
+weather in April. The Board also observes that, despite this warning, SFI was able to
+place mats in April 2018 but had to stop because it did not maintain adequate diver
+safety practices (finding 57)
+
+        The majority of the days that SFI claims as compensable delays relate to the
+hurricanes or April weather disclosed in the solicitation. The remaining weather days
+(and at least some of the lost productivity days) relate to more discrete weather events
+of unknown origin that resulted in waves/swells at the project site that fall under the
+solicitation’s warning that the site is subject to stormy, windy, and rainy weather
+throughout the entire year. See Hardeman-Monier-Hutcherson, J.V. v. United States,
+458 F.2d 1364, 1371 (Ct. Cl. 1972) (Hardeman) (observing that “it is difficult, if
+indeed not impossible, for us to separate the sea conditions from the weather.”).
+
+       C. SFI’s Bid Was Based on Errors in Judgment
+
+       The record demonstrates that SFI would have learned of the water visibility
+issues and the relative frequency of waves exceeding three feet if it had conducted a
+proper pre-bid site investigation. As we have found, SFI did not ask USACE or its
+subcontractors about water visibility conditions prior to bid (finding 24). Dr. Bodge’s
+credible testimony convinced the Board that SFI’s diving subcontractor would have
+known of the water visibility issues in Brevard County and, even if it did not, this
+information is readily available from those who worked in these waters (finding 75).
+
+       With respect to wave heights, SFI believed when it prepared its bid that it had
+the capability to place mats in seas up to four feet (finding 14). This proved to be a
+serious misjudgment. The record shows that SFI had little success in placing mats in
+seas more than 2.5 feet (finding 78). SFI also did not understand what would cause
+waves/swells at the project site, so it relied on wind data from the Florida mainland.
+SFI’s overestimation of its mat placement capabilities and its use of wind data from
+the Florida mainland to calculate the number of weather days caused it to grossly
+underestimate the number of days in which the weather would prevent it from
+working. (Findings 13-17)
+
+       Wave height data was available for download from the NDBC website, among
+other sources (finding 18). SFI disregarded these sources, despite being directed to
+them in the solicitation, and instead relied on wind data from the Florida mainland
+(findings 13-14). While these buoys are outside the project site, the evidence has
+
+
+                                           27
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+convinced us that the buoys provide a reasonably accurate depiction of conditions
+at the project site (findings 66-67, 81-86). SFI acted unreasonably in failing to review
+this data and, instead, relying on wind speed data from the mainland.
+
+        In its reply brief, SFI invites the Board to disregard the buoy data and rely upon
+what SFI characterizes as testimony that conditions at the site were worse than at the
+buoys (app. reply at 15). We decline this invitation because the witness to whom SFI
+refers, Superintendent Daher, never saw conditions at the buoys (finding 80).
+
+        This leaves SFI in the difficult position of trying to justify its failure to rely on
+the buoy data at the time of bid (finding 13) while at the same time basing its claim on
+the very same buoys (findings 83-84). The only plausible argument SFI makes to
+reconcile these positions comes from its expert, Mr. Stynchcomb. He contended that
+downloading and analyzing the buoy data would have been too much work for a
+contractor to do in the limited time it had to prepare the bid (tr. 8/106, 114). He
+testified that it took him two to three days to perform this task (finding 84). The Board
+does not view two to three days as unreasonable because SFI had more than six weeks
+to prepare its bid (finding 1). Moreover, even if this was beyond SFI’s capabilities,
+there were numerous coastal engineers it could have retained to perform the task
+(finding 18).
+
+        Finally, SFI compounded these errors by selecting an anchor barge, which it
+had never used before. This barge floated on the water and likely exacerbated water
+visibility issues. SFI should have used a jack-up barge, which would have isolated the
+barge from the movement of the waves. (Findings 31-34)
+
+       D. USACE Was Not Obligated to Provide the Bodge Documents to Bidders
+
+        According to SFI, Olsen 2007 contained four categories of vital information:
+1) the statement that 2 feet was “a reasonable proxy for the maximum swell” a
+contractor would schedule vessel operations in the Mid-Reach, with work in 3-foot
+seas being “mostly infeasible”; 2) Dr. Bodge’s “synthesis of the wave climate” using
+the Dally Data; 3) his categorization of the construction season as being
+“pragmatically limited” to the mid-May to mid-September period; and 4) his
+description of the water as having “chronically limited, near-zero underwater visibility
+(app. br. at PFOF 53, and p. 72).
+
+       Our findings have addressed much of this. The visibility of the water was well
+known, as were general weather and sea condition trends in the area, and SFI would
+have discovered this pre-bid if it had made reasonable inquiries (findings 6, 75, 97).
+Similarly, wave information for 2016 and prior years was available from the NDBC
+buoys and other sources to the north, east, and south of the project site (findings 18-
+
+
+                                             28
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+20). SFI has not shown that the Dally Data provides information about the site
+conditions that was not available from the NDBC buoys (finding 95).
+
+       However, Dr. Bodge’s statement that 2 feet was a “reasonable proxy” for the
+maximum swell in which a contractor would schedule work and that work in 3-foot
+seas was “mostly infeasible” is another matter. The prediction that working in 3-foot
+seas would be mostly infeasible was consistent with SFI’s experience, and we
+understand why SFI relies on it. However, there are several problems with SFI’s
+reliance.
+
+        Dr. Bodge’s intent when he wrote the report was to explain to the regulatory
+agencies why it was not safe or feasible to work in the very shallow waters within 400
+feet of shore at a maximum depth of -4 feet, mean low water (findings 92, 102).
+Dr. Bodge never stated in his report that working in 3-foot seas was infeasible if the
+contractor was working in -14 to -16 feet, mean low water. His report contains no
+analysis of equipment choices, other than a single sentence in which he implied that a
+jack-up barge would alleviate some of the problems discussed in the report (finding
+104). He testified credibly at the hearing that equipment choice would be
+“fundamentally important” (finding 104). Accordingly, because Olsen 2007 did not
+address the actual project to be built, it risked misleading or confusing contractors.
+See Am. Ship Bldg., 654 F.2d at 79 (“[i]t would be irresponsible procurement to seek
+to deter bidders from bidding, or even seem to do so”).
+
+       Second, Dr. Bodge, who was a percipient witness, did not work for USACE,
+and there is no evidence that USACE shared the opinions that contractors would be
+unwilling to work in seas greater than 3 feet or that they would be able to work only
+from May 15 to September 15. Testimony at the hearing showed that USACE
+believed that a contractor could work at higher wave levels with proper equipment and
+could possibly work year-round (finding 32).
+
+        Third, even if USACE agreed with Dr. Bodge, Dr. Bodge was merely offering
+his opinion on the maximum swells in which a contractor could work and the length of
+the placement season (if it were placing mats in very shallow water). The first prong
+of the superior knowledge test speaks of the contractor performing “without vital
+knowledge of a fact that affects performance. . .” Giesler, 232 F.3d at 876 (emphasis
+added). Opinions are not facts, and both the Board and the Court of Federal Claims
+have held that undisclosed opinions are not superior knowledge. ACC Constr. Co.,
+Inc., ASBCA Nos. 62265, 62937, 22-1 BCA ¶ 38,194 at 185,481 aff’d 2024 WL
+2064620 (Fed. Cir. 2024). As the Court of Federal Claims explained in Northrop
+Grumman Corp. v. United States, 47 Fed. Cl. 20, 90 (2000), a technical judgment or
+prediction made by the government is “not a ‘fact’ that affected performance cost or
+duration.”
+
+
+                                          29
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+        Finally, to the extent that SFI relies on Bodge 2013, this document contains a
+less than one-page estimate that Dr. Bodge described at the hearing as “spitballing
+ideas” (finding 109). The Board determines that this rough estimate was not well
+thought out and was not vital knowledge that USACE was obligated to provide to
+bidders.
+
+       E. Hardeman-Monier-Hutcherson and H&L Contracting Do Not Compel a
+          Different Result
+
+        In SFI II, the Board denied the government’s summary judgment motion with
+respect to superior knowledge based on the Court of Claims’ decision in Hardeman.
+SFI II, 24-1 BCA at 187,679. There are some similarities between that case and the
+present appeal: both involved sea conditions that were more difficult than expected,
+and the agency had information about those conditions that it did not disclose. After
+further development of the record in this appeal, the Board concludes that the
+similarities end there.
+
+       The Hardeman contract involved a project to construct a pier in a remote,
+uninhabited area of Australia, 850 miles from Perth, in the 1960s. Hardeman,
+458 F.2d at 1365. The government commissioned two site investigations to decide
+upon the location and design of the pier. The first investigation was cut short after the
+vessel captain concluded that no one would build a pier at the location due to the
+severe weather and sea conditions. The second investigation also encountered bad
+weather and rough seas. Id. at 1365-66. The plaintiff made a concerted effort to
+research the site conditions but found only limited information. Id. at 1367, 1369. It
+requested the reports commissioned by the government, but the government refused to
+provide them. Id. at 1367. The solicitation warned bidders about winds and cyclones
+but also stated that clear weather could be expected over large portions of the year. Id.
+at 1366-67.
+
+        This appeal is far different. As we have already explained at length, the site
+at issue is just off the coast of Florida where there was abundant data available for
+download from the internet. SFI simply failed to do an adequate site investigation.
+Moreover, the Olsen 2007 report prepared for regulators to address why the mats
+should not be placed in very shallow water (different from the depths required by the
+contract) does not compare to the reports in Hardeman, which were directly on point
+to the project and were the only meaningful source of data. Id. at 1369.
+
+       Finally, the Board’s recent decision in H&L Contracting LLC, ASBCA
+No. 63695, 25-1 BCA ¶ 38,896 also does not help SFI. H&L Contracting involved a
+USACE contract to dredge a harbor. Unlike here, USACE’s solicitation made specific
+representations about the sea conditions at the project site, including wave heights, that
+the Board found to be misleading. Id. at 189,346-47. USACE had dredged the same
+
+
+                                           30
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+harbor 12 years earlier in 2010 and had included in that solicitation more information
+and warnings about the severe sea swells that could be expected and dictated minimal
+equipment requirements to deal with the conditions. Instead of including the same
+information, warnings and requirements in the subsequent solicitation, USACE based
+its description of sea conditions on those in a different harbor five miles up the coast,
+where the dredging contractor had successfully used equipment less robust than
+USACE had previously deemed necessary for the harbor at issue. Id. at 189,336-37.
+
+        In addition, USACE possessed, but did not disclose, specific factual
+information about the wave conditions at the project site that the Board found would
+have prevented the contractor from selecting inadequate equipment for the job. Id.
+at 189,337-39, 344-46. The Board emphasized that the contractor’s bid was
+reasonable in light of the fact that the solicitation’s representations led USACE’s own
+internal estimating team to reach the same faulty conclusions about the sea conditions
+as the contractor had. Id. at 189,344-47. The contractor, however, encountered
+conditions similar to those described in the 2010 solicitation and in the undisclosed
+information and, as a result, incurred increased costs. Id. at 189,342-43. The Board
+held the agency liable for withholding superior knowledge.
+
+       H&L Contracting is not comparable to this appeal. The solicitation here did not
+contain misleading misrepresentations as to the wave conditions SFI could expect, and
+there was no prior contract at the site from which USACE could incorporate a
+description of the sea conditions. While USACE did have Olsen 2007, that document
+addresses placement of mats in very shallow water, which was not the goal of the
+contract awarded to SFI. Unlike the undisclosed information in H&L Contracting,
+nothing in Olsen 2007 or Bodge 2013 rendered the information in the solicitation
+misleading to SFI.
+
+       For all of the foregoing reasons, SFI’s superior knowledge claim is denied.
+
+       II. Constructive Acceleration
+
+       In the alternative, SFI contends that it is entitled to recover under a constructive
+acceleration theory. To recover for such a claim, the Federal Circuit has held that the
+contractor must prove that: (1) the contractor encountered a delay that is excusable
+under the contract; (2) the contractor made a timely and sufficient request for an
+extension of the contract schedule; (3) the government denied the contractor’s request
+for an extension or failed to act on it within a reasonable time; (4) the government
+insisted on completion of the contract within a period shorter than the period to which
+the contractor would be entitled by taking into account the period of excusable delay,
+after which the contractor notified the government that it regarded the alleged order to
+accelerate as a constructive change in the contract; and (5) the contractor was required
+
+
+                                            31
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+to expend extra resources to compensate for the lost time and remain on schedule.
+Zafer Taahhut Insaat v. Ticaret A.S., 833 F.3d 1356, 1362 (Fed. Cir. 2016).
+
+       To establish excusable delay, a contractor “must show that the delay resulted
+from ‘unforeseeable causes beyond the control and without the fault or negligence of
+the Contractor.’” Sauer Inc. v. Danzig, 224 F.3d 1340, 1345 (Fed. Cir. 2000) (quoting
+48 C.F.R. § 52.249–10(b)(1)).
+
+       SFI’s claim stems from ACO Cotter’s March 5, 2018 letter in which he stated
+that SFI was approximately 225 days behind schedule and demanded a recovery
+schedule, while acknowledging that there had been some excusable delays, that is,
+“several tropical storms” in September 2017 (finding 55).
+
+       ACO Cotter’s actions were consistent with contract section 01 32 01, paragraph
+3.9, Failure to Achieve Progress. This clause allowed the CO, if he concluded that the
+contractor was behind schedule, to “require provision of a written recovery plan” that
+“detail[ed] how progress will be made-up to include which activities will be
+accelerated by adding additional crews, longer work hours, extra work days, etc.”
+(finding 54).
+
+        SFI cannot prove a constructive acceleration claim because the vast majority of
+the delays as of March 5, 2018, had been caused by SFI and were not excusable.
+When ACO Cotter wrote the March 5 letter, he knew that he had spent a significant
+amount of time in the spring of 2017 urging SFI to begin mat placement and
+inspecting SFI’s preparations, only to find that SFI had not been candid about its
+readiness (findings 37-38). He also knew that SFI had done almost nothing in terms of
+mat placement prior to July 11, 2017, more than halfway through the season (finding
+41-43). As discussed above, SFI’s slow progress in 2017 was caused by its use of a
+single anchor barge and a single diver, its failure to consistently work on weekends,
+and its mistaken belief that it could place mats in seas up to 4 feet, among other things
+(findings 32, 52-53, 56, 58, 78).
+
+        While it is true that USACE later agreed that there were 37 weather days in
+2017 (finding 124), a more realistic bid than SFI’s would have anticipated many of
+these days (finding 87). In any event, SFI had not requested a time extension as of
+March 5, 2018, and did not do so until after the 2018 season (finding 49). Because SFI
+failed to request a time extension prior to the 2018 season, it also did not advise
+USACE that its failure to issue the time extension was tantamount to an order to
+accelerate.
+
+
+                                           32
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+       Accordingly, SFI cannot meet the first four elements of a constructive
+acceleration claim.
+
+       III. Breach of the Duty of Good Faith and Fair Dealing
+
+       SFI contends that USACE breached the duty of good faith and fair dealing by
+not providing SFI with Olsen 2007 and Bodge 2013 and by not rejecting SFI’s initial
+schedule and work plan. SFI also contends that it is entitled to compensation under the
+Changes clause “given the divergence of the ‘estimate, or general guideline’ provided
+by USACE from actual conditions” (app. br. at 89).
+
+       As the Federal Circuit explained in Scott Timber Co. v. United States, 692 F.3d
+1365, 1372 (Fed. Cir. 2012), USACE could not have breached the duty of good faith
+and fair dealing by not providing bidders with the Bodge documents because the duty
+does not exist until the contract is signed.
+
+        As for the alleged duty to reject SFI’s schedule and work plan, USACE raised
+concerns about whether SFI had accounted for weather in its schedule, to which SFI
+responded that it had considered the weather and planned to work a six-day week, and
+could work a seventh day if necessary. This turned out not to be entirely true.
+(Findings 36, 42, 52) But in May 2017, USACE was unaware of how inept SFI would
+be at placing mats in 2017 and did not know that three hurricanes would impact the
+site in September 2017. Under the circumstances, USACE acted within its discretion
+in accepting SFI’s assurances and in not rejecting the schedule.
+
+        Finally, with respect to SFI’s theory based on the Changes clause, weather
+conditions historically have been viewed as acts of God for which the contractor is not
+entitled to increased costs. The Changes clause does not shift the risk of adverse
+weather to the government. Turnkey Enters., Inc. v. United States, 220 Ct. Cl. 179,
+186-87 (1979). The Board sees no reason to depart from that rule in this appeal.
+
+                                  ASBCA No. 63616
+
+       The assessment of liquidated damages is an affirmative government claim for
+which the government bears the burden of proving that the contractor failed to
+complete the project on time. Liquidated damages cannot be assessed on a
+construction contract after the date the project is substantially completed. Whether the
+contract is substantially complete is a factual determination made by the Board after
+considering the quantity of work remaining to be done and the extent to which the
+project was capable of serving its intended purpose. Amigo Bldg. Corp., ASBCA
+No. 54329, 05-2 BCA ¶ 33,047 at 163,823.
+
+
+                                           33
+                       DOCUMENT FOR PUBLIC RELEASE
+   The decision issued on the date below is subject to an ASBCA Protective Order.
+                  This version has been approved for public release.
+
+       USACE has clearly met its burden of proving that SFI did not complete the
+contract on time. The pertinent questions, in our view, are the date that SFI achieved
+substantial completion and whether the time extension in Mod. P2 was calculated and
+applied correctly.
+
+         SFI’s affirmative claim was the primary focus of the eight-day hearing, not
+USACE’s liquidated damages claim. Based on the evidence that the Board heard, the
+purpose of the project was to allow Brevard County to replenish the sand on its
+beaches, the price for which was the construction of an artificial reef (findings 89-90).
+USACE’s own evidence showed that SFI completed construction of the artificial reef
+by placing the last mat on June 22, 2019 (finding 64). Neither party addressed through
+testimony the buoy marker installed by SFI on August 1, 2025, but, as far as we can
+tell, this was a minor shortcoming that did not prevent the project from serving its
+intended purpose. The Board finds that SFI achieved substantial completion on
+June 22, 2019.
+
+        Next, we consider whether the CO properly calculated the time extension to
+which SFI was entitled and whether she applied the extension correctly. With respect
+to the former question, the Board holds that the CO did not calculate the extension
+correctly. The CO determined that there were 84 weather days from which she
+subtracted 42 adverse weather days that she believed were in the contract, for a net 42-
+day time extension (finding 124). However, the contract did not contain a clause
+listing an expected number of adverse weather days. It contained a clause listing only
+days with at least 0.1 inches of rain, information that was not particularly notable
+because a light rain might actually have been helpful to SFI (findings 121-22). The
+clause containing the expected number of days with rain of at least 0.1 inch cannot be
+treated as an adverse weather day clause. Accordingly, we conclude that SFI is
+entitled to a full 84-day extension.
+
+        The more difficult question is determining the period to which the extension
+should be applied. The CO started the time extension on the contract completion date,
+resulting in an extension to January 10, 2019 (finding 123). Adding another 42 days to
+this would result in a completion date of February 21, 2019. However, under these
+circumstances, where the record suggests that winter is mostly unsuitable for
+construction (findings 5-6), the Board does not believe that it would be reasonable to
+require a contractor to attempt to place mats in the December through February time
+period.
+
+      It is more reasonable in our view to apply the time extension to the placement
+season identified in the contract, which starts on April 1 (finding 7). 84 days starting
+from April 1, 2019, is June 23, 2019. Because SFI achieved substantial completion
+one day earlier on June 22, 2019, no liquidated damages are due.
+
+
+                                           34
+                          DOCUMENT FOR PUBLIC RELEASE
+      The decision issued on the date below is subject to an ASBCA Protective Order.
+                     This version has been approved for public release.
+
+                                     CONCLUSION
+
+            ASBCA No. 62876 is denied. ASBCA No. 63616 is sustained.
+
+            Dated: April 6, 2026
+
+
+                                                    MICHAEL N. O’CONNELL
+                                                    Administrative Judge
+                                                    Vice Chairman
+                                                    Armed Services Board
+                                                    of Contract Appeals
+
+ I concur                                           I concur
+
+
+ OWEN C. WILSON                                     THOMAS P. MCLISH
+ Administrative Judge                               Administrative Judge
+ Acting Chairman                                    Armed Services Board
+ Armed Services Board                               of Contract Appeals
+ of Contract Appeals
+
+
+       I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA Nos. 62876, 63616, Appeals of
+Shoreline Foundation, Inc., rendered in conformance with the Board’s Charter.
+
+      Dated:
+
+
+                                                 PAULLA K. GATES-LEWIS
+                                                 Recorder, Armed Services
+                                                 Board of Contract Appeals
+
+
+                                            35

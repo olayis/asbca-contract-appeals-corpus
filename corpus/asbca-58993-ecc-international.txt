@@ -1,0 +1,2561 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+ Appeals of -                                )
+                                             )
+ ECC International, LLC                      )    ASBCA Nos. 58993, 60167, 60283
+                                             )
+ Under Contract No. W912DQ-11-C-4009         )
+
+ APPEARANCES FOR THE APPELLANT:                   R. Dale Holmes, Esq.
+                                                  Amy M. Kirby, Esq.
+                                                   Cohen Seglias Pallas Greenhall & Furman, PC
+                                                   Philadelphia, PA
+
+ APPEARANCES FOR THE GOVERNMENT:                  Michael P. Goodman, Esq.
+                                                   Engineer Chief Trial Attorney
+                                                  Sarah L. Hinkle, Esq.
+                                                  Michael E. Taccino, Esq.
+                                                  Matthew Tilghman, Esq.
+                                                  Kathryn G. Morris, Esq.
+                                                   Engineer Trial Attorneys
+                                                   U.S. Army Engineer District, Middle East
+                                                   Winchester, VA
+
+                OPINION BY ADMINISTRATIVE JUDGE O’SULLIVAN
+
+        ECC International, LLC (ECCI or appellant), appeals from deemed denials of its
+claims arising from the performance of a contract with the U.S. Army Corps of Engineers
+(USACE, Corps, or government) to construct a Military Police School and a Signal
+School for the Afghan National Army at Camp Shaheen, Afghanistan. Three primary
+issues are presented in these appeals: (1) the “collapsible soils claim” contends that
+ECCI is entitled to be compensated for the cost of mitigating collapsible soils found at
+the site because, by accepting ECCI’s offer which excluded collapsible soil mitigation
+from its bid, the Corps awarded a contract that excluded that work; (2) the “BCOE claim”
+contends that USACE unreasonably imposed and enforced a period of performance that it
+had reason to know would be difficult to impossible to accomplish, and is liable for the
+damages caused; and (3) the “DBA insurance claim” contends that USACE wrongly
+deprived ECCI of reimbursement for DBA insurance premiums that ECCI actually paid,
+and for which it was entitled to be reimbursed. We have jurisdiction under the Contract
+Disputes Act, 41 U.S.C. §§ 7101-7109. We sustain the appeals.
+                                    FINDINGS OF FACT
+
+Background and Contract Provisions
+
+      1. The United States Army Corps of Engineers, Kansas City District (NWK),
+awarded Contract No. W912DQ-11-C-4009 (the contract) to ECCI on April 8, 2011.
+The contract was for the construction of a Military Police School and a Signal School for
+the Afghan National Army as part of a planned expansion of Camp Shaheen in the
+Mazar-e-Sharif area, Balkh Province, Afghanistan. The contract price as awarded was
+$27,613,870.20. (R4, tab 11 at GOV000322-24)
+
+       2. USACE, through the Afghanistan Engineer District – North (AED or AEN),
+performed contracting functions for the Combined Security Transition Command –
+Afghanistan (CSTC-A), for the design and construction of facilities for the Afghan
+National Army (ANA) throughout Afghanistan. In late 2010, with an increasing
+workload, AEN looked to certain Engineer Districts back in the United States for help in
+awarding contracts. (Tr. 10/20, 167-69) AEN specifically asked the Northwestern
+Division, Kansas City District (NWK or Kansas City), for help in awarding contracts for
+the Camp Shaheen expansion because many Corps employees working at NWK had
+previously deployed to Afghanistan and were familiar with the unique issues Afghanistan
+projects could present. (Tr. 7/143, 10/20, 172) In addition to the Military Police and
+Signal Schools, the Camp Shaheen expansion included a project called the Group A
+Expansion.
+
+       3. ECCI was one of several bidders on the Military Police (MP) and Signal
+School project, which was solicited by Kansas City on February 24, 2011 (R4, tab 4).
+ECCI also bid on the Group A Expansion, which was solicited on March 29, 2011 (R4,
+tab S-733). The Group A project was also awarded to ECCI, on May 17, 2011 (R4,
+tab S-48 at 36).
+
+       4. The MP/Signal School and Group A Expansion project sites were adjacent to
+one another (R4, tab S-545 at 8). The projects were similar in that both employed arch
+span structures 1 for most of the project square feet. The MP/Signal School contract
+called for a total of 20,039 square meters of arch span buildings (R4, tab 11
+at GOV000380, GOV000484). The Group A Expansion contract called for a total of
+
+1
+    Arch span construction, also known as K-span construction (a proprietary term of
+         M.I.C. Industries), is a streamlined process of erecting structures using machines
+         to corrugate rolled steel and cranes to place the arch on top of a slab. The process
+         speeds up construction and requires less material and labor than conventional
+         brick and mortar construction. (Tr. 4/204-05, 217-18)
+
+      • A Glossary of Acronyms used throughout this opinion is appended at the end.
+                                               2
+29,934 square meters of arch span buildings (R4, tab S-48 at 94-97). Both contracts
+called for the use of austere design standards 2 (R4, tab 11 at GOV000369, GOV000475,
+R4, tab S-48 at 83). The designs for the two projects were similar enough that at one
+point both projects were combined in the design review process (tr. 9/103-04).
+
+       5. The MP/Signal School contract contained two separate specifications, one for
+the MP School and one for the Signal School. The specification for the MP School called
+for 29 design-build facilities and 12 site adapt facilities to be constructed. The Signal
+School specification called for the construction of 19 design-build facilities and 8 site
+adapt facilities. 3 (R4, tab 11 at GOV000380-81, GOV000484) Both specification
+sections required that the contractor complete the designs for the design build facilities.
+For the site adapt facilities, the contractor was to complete construction in conformance
+with the standard design drawings provided. (Id. at GOV000380-81, GOV000484)
+
+        6. The MP/Signal School solicitation and contract as awarded contained “Design
+Concept Documents” that were not standard designs but were to be used by the contractor
+as “the basis for the project design and construction documents.” Following award, the
+contractor was to complete the design and construction documents and construct the
+project in accordance with the completed documents. The design review process
+contemplated four submittals before the final design submission and encouraged the
+contractor to develop and submit “multiple cost saving proposals for innovative design
+alternatives.” (R4, tab 9 at GOV000174, tab 11 at GOV000359) The contract contains
+the following Order of Precedence clause with respect to design:
+
+              5.2 ORDER OF PRECEDENCE
+              In case of conflict, duplication, or overlap of design criteria
+              specified in the documents referenced in this section, the
+              following order of precedence shall be followed:
+
+                     1. Contract Award Document and referenced publications
+                        therein;
+                     2. Written requirements and specifications;
+                     3. Drawings.
+
+2
+  “Austere design” is a design philosophy employed in Afghanistan that embraces
+       minimalistic design of facilities that are easily operated, have low maintenance
+       requirements, and use construction methods tailored to the local workforce (R4,
+       tab S-587 at 2).
+3
+  Generally speaking, design-build means that the contractor designs the building to the
+       project owner’s criteria and then constructs it to the approved design. Site-adapt
+       means that the contractor receives an existing design from the project owner and
+       adapts the design to fit a specific site, taking into account the existing physical
+       characteristics of the land.
+                                              3
+(R4, tab 11 at GOV000362-63) This section further provides that only the work plan,
+boundary survey plan, and topographic survey plan are mandatory design criteria, and
+that all other criteria are considered non-mandatory and may be enhanced, improved, or
+substituted to better suit design requirements (id. at 363).
+
+         I. The Collapsible Soils Claim, ASBCA No. 58993
+
+        7. Soils in Afghanistan include a type known as loess. To oversimplify, loess is a
+kind of fine silt left behind as glaciers melt. Winds will pick up the particles and blow
+them to other locations where, with time, other material such as clay or calcium carbonate
+will seep down and glue the particles together. However, with rain or other water
+sources, the glue, depending on what it is in a particular location, may break down. Not
+all loess soils are considered to be collapsible soils and, in most cases, one cannot tell
+from looking at the soil whether it is a loess deposit or not. There are indirect tests
+geotechnical engineers can perform that will indicate whether the soil is potentially
+collapsible, but the only way to determine the degree of collapse risk is to run a
+consolidometer test known as the ASTM D-5333. (Tr. 5/246-2530) 4
+
+        8. The two separate specifications for MP/Signal School required, in
+Section 01010, that the contractor was to perform a geotechnical investigation of the site
+and, if collapsible soils were present, the contractor should follow the procedures for
+mitigation provided in Section 01015 (R4, tab 11 at GOV000385, GOV000487). The
+Signal School specification, Section 01015, para. 2.5.5, specified particular grading,
+drainage, and foundation preparation measures to be undertaken if collapsible soils were
+identified. These measures included over-excavation to a depth of three meters within the
+entire building footprint and extension of the over-excavation 1.5 meters beyond the outer
+edge of the building footprint, then backfill with approved fill material in “loose lift”
+layers and compaction of the fill to specified densities. (R4, tab 11 at GOV000509-10) In
+contrast, the MP School specification Section 01015 contained no collapsible soil
+mitigation measures (R4, tab 11 at GOV000410-11).
+
+       9. During the time that the solicitation was pending and before bids were due, one
+of the bidders posed a question to USACE about the differing specifications:
+
+                Could you please confirm “excavate the footings 3.0 meters
+                below the level of intended bottom of the footing foundation”
+
+4
+    Testimony of Dr. Charles Neubauer, appellant’s expert in structure and soil mechanics.
+         The government’s testifying expert, Dr. (Lt. Col) Christopher Senseney,
+         substantially agreed with Dr. Neubauer on these points. (Tr. 6/239-40, 245,
+         7/135-36)
+                                              4
+              is requirement for both Military Police and Signal School
+              sites since these are adjacent? Currently out of 2
+              Section 01015s . . . only one of them mentions collapsible soil
+              mitigation.
+
+(R4, tab S-79 at 6) USACE’s response was, “Bid it as you see it.” (Id.) No geotechnical
+information for the site was included in the solicitation, and the presence or absence of
+collapsible soils, as well as the degree of collapse risk, could not be definitively
+determined until after award, when the geotechnical investigation would be conducted
+(tr. 2/68-69, 70; R4, tab S-636 at 2).
+
+        10. The presence of collapsible soils in Afghanistan was not known to allied
+forces engaged in construction until the soil collapsed underneath buildings constructed
+for the ANA Garrison on the Kunduz plateau in northern Afghanistan in December of
+2009. An April 30, 2010 report by the Special Inspector General for Afghanistan
+Reconstruction (SIGAR) found that severe soil settling after heavy rains had rendered
+several structures unusable. (R4, tab S-107 at 27)
+
+        11. Thereafter, USACE’s approach to collapsible soils mitigation began to evolve,
+and was still evolving at the time the MP/Signal School solicitation was issued.
+Following the Kunduz plateau collapse, USACE recognized the need to assess collapse
+risk and began requiring that geotechnical investigations at project sites include the
+ASTM D-5333 test for the severity of collapse risk. (R4, tabs S-558, S-600, S-616;
+tr. 9/214) Both testifying geotechnical experts (for ECCI and the government) agreed
+that the ASTM D-5333 test, while it may be difficult for geotechnical engineering firms
+to perform correctly, is the only test that will accurately predict the degree of collapse
+risk presented at a particular site (tr. 5/249-50, 276, 7/135-36). Indirect tests, such as
+comparing the liquid limits versus dry density of soil samples, can determine the potential
+presence of collapsible soils, but not the degree of collapse risk (tr. 5/249-50).
+
+       12. The degree of collapse risk revealed by the ASTM D-5333 testing is
+categorized as “slight” by the test itself if the results are between 0.1 to 2 percent. Two
+other authoritative sources are the NAVFAC (Naval Facilities Engineering Command)
+Design Manual 7.01, Soil Mechanics, and the USACE Engineering Manual (EM)
+1110-1904. The Board takes judicial notice of the NAVFAC Design Manual. Both
+the NAVFAC and the USACE Manuals characterize a result between zero and
+1 percent as a zero or negligible collapse potential. The USACE Manual and the
+ASTM D-5333 characterize results in the 2.1% to 6% range as moderate risk, results in
+the 6.1% to 10% range as moderately severe risk, and anything above 10% as severe
+risk. (USACE EM 1110-1-1904 at 5-15; R4, tab S-558 at 5; tr. 2/48-51) The
+NAVFAC DM 7.01 at 7.1-41 characterizes results in the 2-5% range as “Moderate
+trouble,” in the 5-10% range as “Trouble,” and in the 10-20% range as “Severe
+Trouble.”
+
+                                              5
+       13. At some point toward the end of 2010, USACE adopted an initial mitigation
+standard of over excavation of three meters (approximately 10 feet), based on
+calculations done by Juan Carlos Escajadillo, a USACE AEN engineer (tr. 9/203-04).
+This standard was described by USACE engineer Matthew Bird as “very conservative,”
+time consuming, and expensive (tr. 7/190-91). Mr. Escajadillo testified that this standard
+did not take into account the different degrees of collapse risk that would be revealed by
+ASTM D-5333 testing (tr. 9/215-16). On April 14, 2011 (only six days after award of the
+MP/Signal School contract), USACE NWK engineer Scott Mensing emailed
+Mr. Escajadillo about the inclusion of this standard in the Group A Expansion (Camp
+Shaheen) solicitation:
+
+             The current solicitation is generating comments on whether to
+             include or not include the required excavation for the
+             collapsible soils (which may or may not be present). Since
+             the Contractor is required to provide their own geotechnical
+             investigation and remediation, if necessary, NWK requests
+             that we remove all language pertaining to collapsible soils in
+             the project specifications. If collapsible soils are found
+             during the investigation by the Contractor, then a mod will
+             have to be issued for the additional work.
+
+(R4, tab 590 at 3) This inquiry was forwarded to AEN engineer Matthew Bird, who
+responded:
+
+             We prefer to keep the language in the solicitation.
+             Collapsible soils are a huge issue here and the potential exists
+             in a large portion of AED-N. . . . Without the language we
+             are leaving the construction office open to millions of dollars
+             in modifications, which will be severely inflated by nature.
+
+             If the project is in Kunduz, then the project bid should include
+             the . . . remediation of collapsible soil and the cost associated
+             with it. Anywhere else collapsible soils should be treated as
+             an option in the contract so that we know the cost up front.
+
+             Please see the attached 01010 and 01015 regarding
+             collapsible soils as a bid option and specific to Kunduz.
+
+(Id. at 2) (The two different 01010 sections, but not the 01015 sections, were attached to
+these emails in the Rule 4 file. Id. at 4-11.) The 01010 specification for Kunduz differed
+from the version included in the Signal School specification in that excavation of three
+
+
+                                            6
+meters was reserved for conditions involving “deep” collapsible soils to a depth of three
+meters or more (id. at 6).
+
+        14. Thus, by April 14, 2011, USACE settled on a course of including a mandatory
+specification for soil mitigation for projects in Kunduz and including a bid option for soil
+mitigation for projects outside the Kunduz area where the risk was less predictable.
+Under the mandatory specification, contractors were to assume that collapsible soils were
+present and include the cost of mitigation in their bid prices. (However, they would still
+not know how deep the excavation had to be until a geotechnical investigation was
+conducted after award of the contract.) Under the bid option approach, contractors were
+to price the work without the cost of soil mitigation, but include a priced option for
+mitigation that could be exercised by the government should the requisite degree of
+collapse risk be discovered following the geotechnical investigation. (R4, tab S-590;
+tr. 2/114-17) The MP/Signal School contract, awarded on April 8, 2011, did not contain
+a bid option for mitigation of collapsible soils (R4, tab 11). The Group A Expansion
+solicitation, however, was amended after April 14, 2011 to contain a bid option for
+mitigation of 5000 cubic meters of soil (tr. 2/118-19).
+
+       15. ECCI, at the time of bidding on the MP/Signal School solicitation, had been
+working on Camp Shaheen since 2008 and had not experienced or observed any issues
+with collapsible soils. Its experience elsewhere in Afghanistan (except for the Kunduz
+plateau) was similar. For instance, ECCI had completed three projects in the Mazar-e-
+Sharif area, approximately 90 miles from the Kunduz plateau, under task orders (TO) 4,
+5, and 8 under old MATOC. 5 The geotechnical investigations for those projects had been
+completed and had not found collapsible soils to be present. 6 The buildings for TOs 4
+and 5 were constructed in 2008 and completed in 2010 and exhibited no collapse issues
+as of 2014 (tr. 2/44-45, 49-50). The site for TO 8 was on Camp Shaheen (tr. 2/51), and
+involved 17 buildings spread across the camp, including one location adjacent to the
+MP/Signal School site (tr. 2/45, 51, 57-58). The buildings in that location were two-story
+barracks with a design bearing load of 2000 pounds per square foot, greater than the
+design bearing load for the MP/Signal School project buildings at 1500 pounds per
+square foot (tr. 2/59-60). Mr. Hayward testified that problems with collapsible soil, if
+any existed, would be more likely to manifest with the higher load buildings, but no
+issues were observed from the time the buildings were completed in early 2011 through
+2014, when ECCI was finishing up the MP/Signal School project (tr. 2/58-60).
+
+
+5
+  Old MATOC and new MATOC are multiple award task order contracts under which
+        USACE conducted competitions for the award of task orders for individual
+        projects.
+6
+  At this time, there was not the level of concern about collapsible soils that emerged later
+        and no requirement to conduct the ASTM D-5333 test as part of the geotechnical
+        investigation (tr. 2/49-50).
+                                             7
+        16. In addition to its own buildings, ECCI did not observe any signs of cracking
+or settling in any other buildings on Camp Shaheen during the three years it was working
+there before bidding on MP/Signal School (tr. 2/51-52, 10/283-84). ECCI’s expert
+witness, Dr. Charles Neubauer, testified that one of the best indicators of collapsible soil
+is the presence of buildings showing signs of failure (tr. 5/279, 251-52). The Signal
+School’s collapsible soils mitigation requirements, including the 3.0 meters of over
+excavation under foundation footings, mirrored what USACE was requiring for projects
+on the Kunduz plateau, where there was a known problem. But there was no known
+problem at Camp Shaheen.
+
+        17. Mitigation of collapsible soils at both the MP School and Signal School sites,
+to the degree required by the Signal School specification (three meters), would have
+been, as confirmed by USACE engineer Matthew Bird (finding 13), very expensive.
+Mr. Hayward described the problem in an internal ECCI email shortly before proposals
+were due:
+
+              Here’s the dilemma... the cost to do the overexcavation for
+              both projects is at least $2 million (Omran has indicated
+              $2 million) but I think the cost is probably over $5 million if
+              we do everything stated in the Tech Requirements of the
+              Signal School for both projects. It is completely
+              unreasonable for the Government to leave this kind of
+              unknown and significant cost issue up in the air on a fixed
+              price contract. The RFP doesn’t say the soil is collapsible. It
+              just says that if it is, then you must do the additional work. If
+              we include the cost in the bid we will not win. If we leave it
+              out and the soil is determined to be collapsible, we will
+              probably have a significant and time consuming fight on our
+              hands, because the contract explicitly says that if the soil is
+              collapsible, the[n] do the work. It is crazy for the Gov to
+              have not defined which way the bidders should assume on
+              this issue. But I think the just as crazy answer to the question
+              might give us the room we need to assume the soil is not
+              collapsible, and if it is, it is a change. The Gov will say it’s
+              not an unforeseen condition because the contract clearly
+              identified the possibility that the soil was collapsible. Our
+              response could be that, as instructed, we bid it as we saw it
+              and we didn’t have any collapsible soil issues on TO 8 at
+              Camp Shaheen so we reasonably assumed the soil wasn’t
+              collapsible.
+
+(R4, tab S-78 at 1-2)
+
+
+                                              8
+        18. Without a bid option available to mitigate the substantial uncertainties
+inherent in the solicitation, ECCI determined to “bid it as it saw it,” and excluded any
+cost for collapsible soil modification from its price proposal. ECCI’s proposal spelled
+out its rationale for excluding the cost in a full page bid clarification sheet immediately
+following the SF 1442 form into which it inserted its bid prices for the work, and before
+the detailed pricing information. In relevant part, ECCI stated:
+
+              Based on (1) the Government’s bidder inquiry response to
+              “Bid it as you see it”; (2) the language in Section 01010,
+              Paragraphs 4.16 and 4.17, which states that “Existing
+              geotechnical information is not available at the project site”
+              and that mitigation measures are only required if collapsible
+              soils are discovered; and (3) our experience at Camp Shaheen
+              and the Mazar-e-Sharif area in general, where we have not
+              experienced collapsible soil issues; we believe the probability
+              of discovering collapsible soils at the site is very low.
+              Therefore we do not anticipate having to execute the
+              significant additional work described in the Signal School
+              Section 01015, Paragraph 2.5.5 for either project and would
+              view the discovery of collapsible soils as an unforeseen and
+              changed site condition. We believe this approach provides
+              the Government with the best possible pricing by excluding
+              costly and schedule impacting mitigation measures that are
+              unlikely to be required.
+
+(R4, tab S-68 at 112)
+
+       19. The MP/Signal School contract was awarded to ECCI by USACE without a
+request for clarification or any questions or discussion. Mr. Jay Denker, the NWK
+contract specialist for the procurement, noted that it was the first solicitation and award
+that NWK had conducted on behalf of AEN (tr. 7/143). After the bid inquiry came in
+about the disparity between the MP and Signal School specifications regarding
+mitigation for collapsible soils, the response of “bid it as you see it” came from
+Mike McCollum in the NWK design branch. Mr. Denker “copied and pasted” that
+response and sent it out to the bidders. He interpreted the response as meaning the
+contractors are there on the ground and should use their professional judgment.
+(Tr. 7/149-50) When the proposals came in, and there were seven of them, he reviewed
+both the technical and the price proposal portions and then pushed them out to separate
+evaluation boards. There is a “firewall” between the two boards to ensure that the
+technical evaluation is made purely on technical factors and the price evaluation is made
+purely on price factors. (Tr. 7/151-55) In addition to Mr. Denker, the Source Selection
+Authority (Nicholas DeGuire), who made the source selection decision, had access to
+
+
+                                             9
+both the technical and the price proposals submitted by all the offerors 7 (tr. 7/176). It
+was the Source Selection Authority’s decision not to seek any clarifications or to
+conduct discussions before making award (tr. 7/173).
+
+       20. Following award to ECCI, the geotechnical investigation was conducted by
+Omran Geotechnical Company, an Afghan firm. In its report submitted June 20, 2011,
+Omran included the results of the ASTM D-5333 test for the soils collected from various
+points on the project site. The collapse index results ranged from .95% to 1.55%, with an
+average of 1.168%. (R4, tab S-174 at 56; tr. 2/52) Thus, the soils at the site presented a
+negligible to slight risk of collapse (finding 12). Omran’s report also recommended over
+excavation of 600 mm (60 cm) under building foundations, and 300 mm (30 cm) under
+slab on grade and sub base layers of roads and parking lots (R4, tab S-174 at 75).
+Omran’s initial report was C coded by USACE, requiring a re-submission (R4, tab S-15).
+The revised report, submitted July 27, 2011, revised the over excavation recommendation
+to 300 mm under building foundations (R4, tab S-626 at 69). A cover page submitted
+with the revised report called the government’s attention to the revised over excavation
+recommendation (app. ex. 18). USACE approved the revised report on August 17, 2011
+(R4, tab S-16). Mr. Hayward testified that his view was that a negligible to slight
+collapse risk did not require any mitigation, and noted that the contract as awarded did
+not specify a threshold level of collapse risk that would require mitigation (tr. 3/6).
+
+        21. The testifying experts in this appeal presented differing views on whether
+ECCI should have anticipated the discovery of collapsible soils at the project site and
+included the cost for mitigation in their proposal. Dr. Senseney8 testified that by using
+indirect tests prior to bidding, a contractor could have determined whether the site was
+underlain with collapsible soils (tr. 7/26-27). However, he declined to disagree with the
+analysis in a USACE engineer’s report that indirect tests will indicate the potential
+presence of collapsible soils, requiring follow-up testing with the ASTM D-5333
+(tr. 7/92). It was his opinion that collapsible soils were widespread throughout Kunduz,
+but he had not himself observed building damage from collapsible soils in the Mazar-e-
+Sharif area where Camp Shaheen is located (tr. 7/80, 98-99). Of the three bases for his
+opinion that ECCI should have foreseen collapsible soils at the MP/Signal site, two rely
+on the Omran geotechnical report that existed only after award and the conduct of a
+geotechnical investigation, and the other relies on a geotechnical report from the
+SOFJOC project at Camp Marmal, a site which is approximately 12 miles away from
+the MP/Signal School project site at Camp Shaheen, which found soils with negligible
+
+7
+  Mr. Denker drafted the source selection decision (R4, tab S-69; tr. 7/155). The Source
+        Selection Authority, Nicholas DeGuire, was not called to testify.
+8
+  Dr. (Lt. Col) Senseney was an Associate Professor at the Air Force Academy at the time
+        of his testimony. He has a Ph.D. in civil engineering from the Colorado School of
+        Mines with a focus on geotechnical engineering. He served two tours of duty in
+        Afghanistan, from 2006 to 2007 and from 2012-2013. (Tr. 6/230-31)
+                                              10
+to slight collapse risk (indices ranging from 0.7% to 1.6%) (R4, tab S-13 at 42;
+tr. 7/112-15).
+
+        22. Dr. Charles Neubauer 9 disagreed with the government’s contention that
+collapsible soils should have been anticipated by ECCI in and around Camp Shaheen. In
+fact, based on his personal experience with ECCI projects, there were collapsible soils at
+the Kunduz plateau and some were found at the old MATOC TO 3 site nearby, but they
+had not run into the problem at any of their other locations. Specifically, at the
+MP/Signal School site and Camp Shaheen generally, they had been working for three
+years and had seen no evidence of damage from collapsible soils. Since the government
+provided no geotechnical information whatsoever with the solicitation, and there was no
+evidence of collapsible soils in that area, in his opinion it was sensible not to bid
+mitigation. (Tr. 5/256-57)
+
+        23. USACE’s position on collapsible soils and the appropriate mitigation therefor
+continued to evolve over the summer of 2011. As summarized by Mark Hoague,
+USACE’s Chief of Engineering (AEN) from April of 2011 to April of 2013, following
+the Kunduz plateau collapse they started with a very conservative position of three meters
+over excavation under foundations. (Tr. 10/16, 83) USACE soon learned that was not
+going to work because there was constant pressure to speed up the construction and the
+extensive over excavation was slowing it down. Mr. Hoague decided USACE needed to
+take more risk. (Tr. 10/84) As of July 8, 2011, as geotechnical reports came in, his
+office was recommending 500 mm of over excavation for slight collapsibility, and
+700 mm for moderate. He believed they did not see anything in excess of an ASTM
+D-5333 collapse index of 2.2 reported during this time frame. (Tr. 10/86) They were
+also recommending other measures, including surface treatment with a compacted clay
+top layer to prevent moisture from getting to the collapsible soils, sloping ground away
+from the buildings, and extending the downspouts three meters away from the building
+(tr. 10/86-87). But they were still getting pressure to do away with the over excavation
+altogether. In a new policy adopted September 24, 2011, they decided not to require over
+excavation for soils with collapse indices falling within the slight to moderate risk
+categories under ASTM D-5333 (i.e, a collapse index of 6% or less). Grading and
+drainage requirements would still apply. For collapsible soils with a collapse index of
+6.1% or above, the minimum foundation mitigation would be over excavation of 700 mm
+
+9
+    Dr. Neubauer has a Ph.D. in Civil Engineering with a major in foundation
+         engineering and a minor in geology from the University of Illinois. He began
+         his career as a civil engineer with the United States Air Force, retiring at the
+         rank of Colonel, then was at the National Aeronautics and Space Administration
+         as Director of Space Shuttle Facilities from 1976 to 1986. He then held a
+         number of positions in private industry, culminating in a position with ECCI as
+         Director of ECCI’s Design Build Center of Excellence, from which he retired in
+         2015. (R4, tab S-553)
+                                             11
+and backfill with a structural fill. (Tr. 10/88-90; R4, tab S-644) Mr. Hayward of ECCI
+believed that it was an error not to require mitigation at a collapse index of 5-6%, but
+agreed it was not required at 2% or less (tr. 3/6-7).
+
+        24. USACE’s September 24, 2011 policy was unevenly applied in practice. ECCI
+had a task order, TO 9, under the new MATOC. The work was about halfway between
+Kunduz and Mazar-e-Sharif, and the soils there had collapse indices up to 1.95%. ECCI
+received a letter from USACE on September 28, 2011, informing them that TO 9’s bid
+option for mitigation of collapsible soils, which USACE had exercised at award, would
+be de-scoped since USACE, under the new policy, would not be requiring mitigation of
+soils with a “slight” collapse risk. (R4, tab S-649 at 1-2) ECCI inquired whether the new
+guidance would be applied to all projects in the Balkh, Samangan, and Kunduz provinces
+of Afghanistan (R4, tab S-649 at 1). At a meeting with USACE on October 1, 2011,
+ECCI was informed that projects would be evaluated on a case by case basis and it should
+submit an RFI (request for information) for each project (tr. 2/213-14). This information
+was followed up in a letter from USACE dated October 4, 2011, reiterating that “due to
+the uniqueness of each project site” the decision on mitigation would be handled on a
+site-by site basis; however, the criteria USACE would employ in making decisions were
+not articulated (R4, tab S-650).
+
+        25. ECCI submitted an RFI for MP/Signal School on October 3, 2011. It pointed
+out that the collapse indices ranged between 0.95% and 1.55% at the site and that
+mitigation would entail unnecessary additional costs (estimated at $900,000) and an
+adverse impact on schedule (three months delay). It also reminded USACE that it had
+excluded costs for mitigation from its bid and warned that it would view the discovery of
+collapsible soils at the site as a differing site condition. ECCI’s recommendation was to
+cease all planned mitigation measures for the site, and it asked for USACE’s prompt
+concurrence, since it was continuing to incur additional costs for which USACE would be
+liable. (R4, tab S-5 at 20)
+
+       26. USACE (Project Engineer William “Brad” Long) responded to the RFI on
+October 17, 2011, stating that the geotechnical report recommended over excavation of
+30 centimeters, and “[w]ith the remainder of construction needed at the project site, the
+USACE recommends that it would be prudent to continue with the remainder over
+excavation as originally recommended....” (R4, tab S-5 at 20).
+
+       27. ECCI submitted a total of six RFIs for six projects. The responses it received
+from USACE recommended continuing with the mitigation work, despite the fact that
+four of the projects had soils with collapse indices with ranges less than 2%. One of the
+projects had ranges not exceeding 3%, and the last project had a range extending to
+3.95%. (For the latter project, ECCI recommended continuing with the mitigation work
+even though the new policy established a threshold of 6.1%.) (R4, tab S-5 at 1-5, 16-21)
+ECCI believed that these RFI responses were driven by USACE’s view that the
+
+                                            12
+contractor would bear responsibility for the cost of mitigation on those projects (id. at 1).
+On TO 9, proceeding with mitigation would have meant that USACE would pay for it
+under the bid option that they had exercised, and on that TO USACE decided instead not
+to proceed with mitigation and to de-scope the optional CLIN from the contract (id. at 4).
+
+       28. The guidance provided by the project engineers in response to the RFIs was
+problematic to ECCI because it explicitly disclaimed any contractual effect. A standard
+note in bold font at the bottom of the RFI responses read:
+
+              The RFI system is intended to provide an efficient
+              mechanism for responding to contractor’s requests for
+              information. It does not provide authority to proceed
+              with additional work. If the contractor considers the RFI
+              response a changed condition, provide written notice to
+              the contracting officer’s representative in accordance with
+              contract provisions.
+
+(R4, tab S-5 at 16-21) ECCI therefore sought guidance from the ACO (Administrative
+Contracting Officer), Tyrone Crear, in an October 22, 2011 letter summarizing the
+inconsistent guidance that it was receiving on its various Afghanistan projects (R4,
+tab S-5). On November 1, 2011, ECCI followed up with a letter to the Contracting
+Officer’s Representative (COR), Stan Dowdy, specifically referencing the MP/Signal
+School project. ECCI stated that after it received USACE’s RFI response, it inquired
+whether an RFP would be forthcoming in order to price the additional work. Having not
+received a reply to that inquiry, it gave notice that it was stopping work on collapsible
+soils replacement activities and that it was being delayed by lack of contractual direction
+from the government. (R4, tab S-6) In response, the USACE ACO, Mr. Crear, issued a
+letter dated November 5, 2011, stating that ECCI was “required to work in conformance
+[sic] the contract, the geotechnical report, and approved plans. Any work stoppage and
+associated negative project impacts that occur as a result of the work stoppage is [sic]
+solely ECCI’s responsibility. USACE will continue to work with ECCI to address any
+request for equitable adjustments through the established contractual processes.” (R4,
+tab S-7) Mr. Crear’s letter was drafted by Brad Long, the project engineer who had
+responded to ECCI’s RFI (tr. 9/254).
+
+       29. Mr. Michael Johnson, who came on board as resident engineer at the end of
+September 2011, replacing Stan Dowdy, further researched the matter and commented in
+an email dated November 27, 2011, that it appeared to him “virtually conclusively that it
+was a negotiated award to ECCI. Based on this, we need to come to a resolution with
+ECCI to address the collapsible soil issue once and for all. Since we negotiated this
+award and we bought off on little or no mitigation for collapsible soil at award, we must
+make whole this matter via a mod and move on, regardless if we like it or not.”
+Mr. Johnson was not called to testify at the hearing. Mr. Long, the project engineer,
+
+                                             13
+testified that he received Mr. Johnson’s email and then inquired of USACE’s Kansas City
+District whether or not there was a bid item in the contract covering collapsible soil
+mitigation. He was informed, incorrectly, that the contract contained such an optional bid
+item covering mitigation work should collapsible soils be discovered. He then relayed
+this incorrect information to Mr. Johnson. (Tr. 9/248-53; R4, tab S-238 at 1) At some
+point after he left the project, Mr. Long learned that there was not an optional bid item in
+the contract, but he maintained that the work was called for by the specification and
+should have been included in the proposed price (tr. 9/257, 270).
+
+        30. ECCI proceeded to over excavate 300 mm under all building foundations,
+road, and parking areas on the MP/Signal School project, and ended up over excavating
+an additional 200 mm below that because they were not getting proper compaction at the
+original level (tr. 2/193-205; R4, tab S-657 at 2-3, tab S-321). On March 21, 2012, ECCI
+submitted a request for equitable adjustment (REA) for the direct costs of the additional
+work as well as the additional costs that ECCI incurred for its personnel and facilities
+during the 30 days that this work delayed the project completion time. The total amount
+requested was $814,310.84. (R4, tab S-8 at 1-3) ECCI did not charge for the additional
+200 mm of over excavation (tr. 2/205).
+
+        31. Mr. Hayward testified that the collapsible soil mitigation work delayed the
+project by at least 30 days and possibly as many as 82 calendar days due to the need to
+perform the work under all the structures and the resulting impact on the critical path,
+which ran through the arch span buildings (tr. 3/19-22). He also testified that most of the
+mitigation work, approximately 83 percent, was performed on the MP School project,
+which had no requirement for collapsible soil mitigation in its technical specification,
+Section 01015 (tr. 2/36).
+
+       32. On May 2, 2013, ECCI submitted a certified claim for the $814,310.84 cost of
+collapsible soil mitigation on the MP/Signal School contract (R4, tab S-9). USACE
+never issued a contracting officer’s final decision on the claim, and ECCI’s appeal to the
+Board from a deemed denial was docketed as ASBCA No. 58993 on November 4, 2013.
+
+       II. The BCOE Claim, ASBCA No. 60167
+
+The Period of Performance
+
+      33. USACE has an internal regulation which requires it to evaluate the
+biddability, constructability, operability, and environmental (BCOE) aspects of projects
+and ensure that a high degree of BCOE review is integrated into the construction
+procurement documents for all projects (Regulation No. (ER) 415-1-11; R4, tab S-555).
+Among the aspects of a project requiring evaluation is the period of performance
+(ER 415-1-11, Section 6 (b)(2); R4, tab S-555 at 4).
+
+
+                                            14
+        34. The 365-day period of performance for the MP/Signal School project was
+driven by CSTC-A’s request that the facilities be available for fielding ANA troops by
+mid-2012 (tr. 7/146-47, 9/95-96; R4, tab S-578, S-580, tab S-111 at 3-4). NWK prepared
+a Project Management Plan (PMP) dated January 15, 2011, to control the award of the
+multiple Camp Shaheen projects, including MP/Signal School. The PMP concluded that
+the MP and Signal Schools must be operational by April of 2012, and ready to house
+ANA troops by winter of 2011/2012 and that, therefore, “[t]he primary project objective
+is the construction schedule,” while “Quality and Cost are secondary objectives.” (R4,
+tab S-587 at 74-75) The PMP further noted that the “design criteria and standards
+developed by CSTC-A requires [sic] austere facilities with minimal finishes,” “K-span
+standard designs...will be used to the greatest extent possible,” and “customer and project
+objectives for the quality of this project include complete and usable facilities for the
+Afghanistan National Army (ANA) that conform to the ‘Austere Design’ standard.” (Id.
+at 74, 76, 80)
+
+       35. The BCOE review for MP/Signal School was assigned to and conducted by
+Kevin Lynch, an engineer who had previously deployed twice to Afghanistan for a total
+time in country of four years (tr. 4/149-153). During his time there he acquired
+knowledge of common issues with construction projects in Afghanistan, and he
+participated in BCOE reviews with a focus on biddability and constructability. In his
+experience, it was common for projects in Afghanistan to extend beyond the contract
+completion date. (Tr. 4/154-55) In performing his review of the MP/Signal School
+project, he made the following comment on the 365-day period of performance on
+February 17, 2011:
+
+              Simply put, the Period of Performance (PoP) of 365 calendar
+              days from NTP is NOT POSSIBLE. It would be
+              exceptionally challenging to complete a $30M+ contract in
+              this amount of time here in the United States. It has NEVER
+              been done in Afghanistan. This is a promise we know we
+              will not keep. I would strongly suggest that we utilize a
+              formal PoP analysis prepared by an experienced scheduling
+              consultant in order to determine the appropriate PoP.
+              Currently, the nice round one year PoP appears to be a
+              SWAG. I would bet it does not take such things as weather,
+              Afghan holidays or the time of year for award into
+              consideration. We must communicate to our customer that
+              this is not possible. Without a formal analysis, I would
+              recommend no less than 540 days, or longer.
+
+(R4, tab 569 at 4) Mr. Lynch in his testimony at trial explained that “SWAG” stands for
+“scientific wild-ass guess” (tr. 4/168).
+
+
+                                            15
+        36. The next day, Michael Coates, the design team lead for the MP/Signal School
+project, responded: “We agree with you in prin[c]iple. However, we were directed to
+use 365 days by AEN. We will send a request to AEN that they consider a longer period
+of performance and that they consult with Baker 10 on actual time to construct based upon
+the SOW, not just an [sic] customer requirement” (R4, tab 569 at 5). Mr. Lynch did not
+know if such a request was ever directed to AEN (tr. 4/174-75), and Mr. Coates testified
+that, to his knowledge, the request was not made. He searched his records and could not
+find such an email. (Tr. 9/96)
+
+        37. Mr. Lynch testified that his recommended PoP of 540 days or longer was
+based on his experience with projects in Afghanistan. He was frustrated that the Corps
+in Afghanistan routinely acquiesced in customer demands for periods of performance
+that it knew it could not deliver. (Tr. 4/164) What also routinely happened in
+Afghanistan was that the Corps was very liberal in granting time extensions. It was the
+rule, not the exception, according to Mr. Lynch, that every contract was late. And in
+terms of assessing liquidated damages, the Corps in Afghanistan had to balance its
+response. If they administered every contract by the letter, Mr. Lynch opined, they
+risked having the projects fail because there would be no incentive for the contractor to
+finish. (Tr. 4/180-81)
+
+        38. Although USACE did not request a formal PoP analysis from Baker Hill for
+the MP/Signal School project, they did so for its sister project at Camp Shaheen,
+Expansion Group A. The Group A analysis was performed by Philip DiSalvi. At the
+time of his testimony, Mr. DiSalvi had worked in construction for several decades, had
+about 25 years of experience with critical path analysis, and significant experience in
+both Iraq and Afghanistan on behalf of USACE training local nationals in scheduling
+techniques, helping contractors who were behind schedule to develop recovery plans, and
+doing period of performance analysis on a significant percentage of the 80 projects that
+Hill International worked on for USACE in Afghanistan over two years. (Tr. 5/136-41)
+His March 21, 2011 analysis of the period of performance for Group A, which was also
+365 days, concluded that a reasonable schedule for the project should be no less than
+520 calendar days if arch span construction was used, and 750 days if standard structural
+concrete was used. The analysis included likely weather delays but did not include a
+three week loss of productivity due to Ramadan. (R4, tab S-577; tr. 5/144-48)
+Additional assumptions that went into Mr. DiSalvi’s recommended schedule were that, if
+arch span construction was employed, the contractor would use six arch-span forming
+machines with six experienced arch span erection crews (R4, tab S-577 at 1).
+
+        39. Frank Albert, the AEN engineer in Afghanistan acting as Program Manager
+for the ANA projects, emailed the Kansas City District/NWK on March 23, 2011 with
+
+10
+     Baker Group/Hill International were under contract to provide scheduling expertise and
+         support to USACE.
+                                             16
+regard to the Group A Expansion. He noted that a 520 day PoP had been recommended
+and that their customer, CSTC-A, had requested a 365-day PoP. He said:
+
+             I am torn between customer wishes and what our scheduler
+             recommends as a schedule; also what the experience of our
+             field personnel will tell me. I believe they are managing some
+             contracts now that have pretty aggressive schedules...and I
+             don’t know if these schedules have done us any good. To
+             appease our customer, we have recently gone to Phased
+             construction schedules. . . . Deliver “life support” facilities
+             first, then the remaining work. If those Live [sic] Support
+             features are at least delivered within the CSTC-A Fielding
+             Date I recently provided, I believe we are delivering as best
+             as we can for our customer. With that in mind, I would like
+             our scheduler to review a possible phased schedule, to deliver
+             the life support and supporting infrastructure first, then the
+             other items of work. . . . I believe that you have a schedule of
+             365 days, based upon CSTC-A request. I just want to assure
+             that the PDT is ok with requesting this schedule, vs. a
+             possible phased schedule, which may take a bit longer for
+             total construction, but which would provide for fielding
+             support of troops earlier (barracks, DFAC, etc.). [T]his is a
+             tough one; comes up all of the time with trying to meet the
+             ever increasing fielding needs.
+
+(R4, tab S-580) In response, NWK (Mike McCollum, PDT member) said that they had
+received comment on every project from former deployed personnel that the 365 days
+would not be met and that he concurred, but considered it the responsibility of AEN to
+notify the CSTC-A staff “as they turnover.” Absent a document from CSTC-A requiring
+a phased turnover or alternate schedule, “we will be submitting the 365 day requirement.”
+(R4, tab S-578)
+
+      40. At Mr. Albert’s request, Mr. DiSalvi’s analysis was revised on March 26,
+2011 (R4, tab S-583). The revised analysis set forth assumptions that could result in a
+reduced period of performance:
+
+      Three civil crews (460 day POP)
+                • Should the cont[r]actor provide 3 civil crews including all
+                    necessary earth moving equipment, the POP can theoretically
+                    be reduced as follows.
+                        o Assuming the three civil crews starting work
+                           simultaneously in each of the main areas of work, the
+                           overall project duration could be reduced by 60 days.
+                                            17
+      Working two 10 hour shifts per day (382 day POP)
+              • Should the cont[r]actor work two shifts each day, the
+                 following would apply.
+                     o The schedule assumes the first 60 (+/-) days following
+                        NTP will be consumed by preconstruction efforts and
+                        early stages of design.
+                     o This condition leaves 460 days for construction.
+                     o Assuming two shifts per day, the construction duration
+                        (460 days) might be reduced by 30% for a revised
+                        construction duration of 322 days
+                     o When adding back the 60 days of preconstruction to
+                        the 322 construction days, the total POP would be 382
+                        days
+
+(Id. at 1) The revised analysis further recommended RFP language to inform the bidders
+that the shorter period of performance was based on (1) using three civil crews, (2)
+working two full 10 hour shifts, and (3) providing 6 arch span forming machines and six
+experienced arch span erection crews. As with the original analysis, Mr. DiSalvi warned
+that this schedule included average weather delays and Afghan national holidays, but not
+Muslim holidays such as Ramadan and Eid. (Id. at 2)
+
+        41. When Stan Dowdy, the Resident Engineer at Camp Shaheen, learned that the
+revised PoP analysis contemplated two 10 hour shifts per day, he emailed Mr. Albert to
+inform him that the ANA commander at Camp Shaheen might allow two shifts, but that
+he was “almost positive” that two 10 hour shifts would not be allowed (R4, tab S-585).
+Mr. Albert responded that perhaps by having the three civil crews work extended hours,
+just not 10 hour shifts, they could get to a 420 day PoP (R4, tab S-584 at 1).
+Donna Street, the AED Area Engineer, concurred in the 420 day PoP and recommended
+that the solicitation set out the assumptions underlying the PoP—three civil crews,
+extended hours, six arch span machines, etc. (id.).
+
+       42. NWK proceeded to advertise the Group A Expansion project on March 29,
+2011, with a 365-day PoP, and did not include in the solicitation any mention of the
+assumptions that the USACE engineers thought would be necessary to meet the schedule
+for a 420 day PoP (R4, tab S-733). The award of the MP/Signal School contract was
+made shortly thereafter on April 8, 2011, again without any discussion of what would be
+necessary to meet the schedule, or any warning of limitations on the ability to work
+double shifts (R4, tab 11 at GOV000322).
+
+
+                                           18
+ ECCI’s Knowledge of Afghanistan and Expectations to Perform the 365-Day PoP
+
+        43. At the time the MP/Signal School project was solicited, Dan McFerrin,
+ECCI’s AFCEE 11 Program Manager, had managed multiple arch span projects in Iraq
+and had just finished ECCI’s first arch span project in Afghanistan, for AFCEE/U.S. Air
+Force at Camp Bastion (tr. 1/109-10). Scott Hayward, ECCI’s Program Manager for
+projects in Northern Afghanistan, had considerable experience both with projects in
+Northern Afghanistan and in managing fast-track projects for the U.S. Navy and for
+Kellogg Brown & Root at the time he oversaw preparation of the MP/Signal School bid
+(tr. 1/91-97, 100-04). In preparing ECCI’s proposal for MP/Signal School, Mr. Hayward
+had the benefit of Mr. McFerrin’s expertise and experience with arch span projects
+(tr. 1/109-10). ECCI had also completed the Tombstone project for AFCEE in Helmand
+Province, which was dangerous and a difficult place for construction, prior to bidding on
+MP/Signal. ECCI managed to erect 17 arch span buildings to house 800 commandos in
+five and a half months. (Tr. 4/228-30; R4, tab S-68 at 11) Several factors made this kind
+of speed possible.
+
+        44. First, the use of austere standards. Tombstone was a design build project.
+ECCI brought its arch span designs from Iraq and proposed them to the Air Force, who
+took them to CSTC-A and the Afghan commandos who liked them, so ECCI was able to
+use its existing austere designs and get the work done quickly. (Tr. 4/230) As
+Mr. McFerrin described:
+
+                [It] was all sandwich panel. Very few ceilings. The latrines
+                were built in such a way that centralized all the latrines with
+                the exception of some of the officer’s quarters and some of
+                the U.S. Forces quarters. . . . There was some epoxy flooring,
+                but very little floor finish. But the main things were that there
+                were very few exterior wall finishes. . . . [A]ll the enlisted
+                barracks, all of your warehousing, all of your operational
+                training buildings had no sidewalls they were just the K-span
+                foundation, the arch steel, the polyurethane with a coat sealer
+                over it and that was the exterior wall.
+
+(Tr. 4/230-31) Mr. McFerrin added that the stem walls were very small “compared to
+what we would later see,” and more like the “classic” stem walls that ECCI learned
+from M.I.C. Industries, and that there were no fire boundaries or thermal insulation
+(tr. 4/231-32).
+
+       45. Austere standards were incorporated in the MP/Signal School contract. The
+version explicitly listed in the solicitation was the August 16, 2009 austere standards, but
+
+11
+     AFCEE, at the time, was the Air Force Center for Engineering and the Environment.
+                                               19
+the contract specified that the “current” version was to be followed. 12 The “current”
+version was the updated version which was published on February 3, 2011, prior to
+issuance of the MP/Signal School solicitation on February 24, 2011 (tr. 1/127-29; R4,
+tab 11 at GOV000369, GOV000475; R4, tabs S-556, S-587 at 47). By the time the
+Expansion Group A solicitation was issued by NWK a month after the MP/Signal School
+solicitation, NWK had expressly incorporated the February 2011 austere standards
+guidance as the current version (R4, tab S-48 at 83). The austere standards that were
+followed by ECCI on the Tombstone project were also the CSTC-A February 3, 2011
+austere standards, which were implemented by the Air Force on that project in advance of
+their publication (tr. 1/125-26). The ability to construct to the February 3, 2011 version
+of the austere standards figured prominently in ECCI’s proposal to meet the 365-day PoP
+for MP/Signal School (tr. 1/132-33).
+
+        46. Second, fast tracking of design and over-the shoulder review. The Air Force
+team at Camp Bastion was co-located at Camp Bastion, so the review process for the
+designs on that project was expeditious. When a design was submitted, they pulled it up
+right away and either approved it or called ECCI and there would be a meeting at which
+they would review the design together and decisions would be made (tr. 4/232).
+Similarly, on the Tombstone project, the Air Force team was on site daily and did over-
+the-shoulder design reviews, and were willing to compromise and make quick decisions
+for the sake of speedy completion of the project (tr. 1/122-23).
+
+       47. A brigadier general at CSTC-A had actually visited ECCI’s project at Camp
+Bastion with a colonel from AED South and was very pleased by the project and said he
+wanted to “see these everywhere.” USACE shortly afterward began holding forums in
+late 2010 announcing its intent to speed up construction by shifting to arch span and
+employing austere standards in the design and construction of facilities for the use of the
+ANA. It also sent out requests (“sources sought”) for expressions of interest from
+companies that had the capability to do accelerated construction, to which ECCI
+responded. (Tr. 1/110-12, 4/236-37) Mr. McFerrin attended a conference in Kabul held
+by CSTC-A and/or AED at which the future of arch span construction was discussed.
+The conference was attended by representatives of CSTC-A, USACE, and many prime
+contractors. (Tr. 4/237-38)
+
+      48. Against this background, ECCI also had access to the January 15, 2011
+Program Management Plan Reachback Support to AED North (PMP) document (R4,
+
+12
+     Section 01010, para. 1. GENERAL, states in relevant part: “[t]he work within this
+          contract shall meet and be constructed in accordance with current U.S. design and
+         International Building Codes (IBC), Life Safety Code (NFPA-101), Force
+         Protection and security standards.” (Emphasis added) There then follows a partial
+         listing of references, including the August 16, 2009 austere standards
+         memorandum. (R4, tab 11 at GOV000369, GOV000475)
+                                             20
+tab S-112) at the time it was preparing its proposal for MP/Signal. The PMP, prepared
+by the Kansas City District, covered the MP/Signal School project and other
+construction projects intended for use by the ANA, and provided guidance to follow in
+the solicitation and award of contracts on behalf of AED North. The PMP made it clear
+that the “primary objective is the construction schedule,” and that cost and quality were
+secondary objectives. The PMP confirmed that the design criteria and standards
+developed by CSTC-A required austere facilities with minimal finishes. (R4, tab S-112
+at 7-8) The clear message to ECCI was that the Corps was prepared to implement
+austere standards and fast tracking practices and otherwise administer the contract in
+such a way as to achieve completion in 365 days, consistent with CSTC-A’s objectives
+(tr. 4/242-45).
+
+       49. Third, unfettered access to the work site, combined with the ability to work
+double shifts and/or longer hours. At its prior accelerated projects in Afghanistan, ECCI
+controlled access to the work sites (tr. 4/232). ECCI had done work at Camp Shaheen,
+under 2007 MATOC Task Order 8, and that project was just being finished as ECCI
+prepared to bid on the MP/Signal School project. ECCI had also done work outside the
+boundaries of Camp Shaheen on a range, and ECCI had experienced no restrictions on its
+access to the work site either inside or outside of the camp. The MP/Signal School site
+was located outside the boundaries of Camp Shaheen. Mr. Hayward testified that,
+typically, one would not expect additional restrictions outside the perimeter of a
+command space when there were no restrictions inside. (Tr. 1/150-52)
+
+        50. Additionally, Mr. McFerrin had met with the ANA Commander prior to the
+submission of ECCI’s proposal, and came away from the meeting with a commitment
+from the Commander that ECCI management personnel would be able to access the work
+site from ECCI’s logistic support area (LSA) for Task Order 8, which was on the base
+and very close to the fence line with the MP/Signal School site, through a side gate
+(Gate A) between the two contiguous sites (tr. 5/8-9, 12-13). The only restriction on
+using Gate A was that ECCI move out of it in the morning and move back through it in
+the evening and pre-organize the movements with the ANA security manager (id.). ECCI
+would also be able to fully control the ECP (entry control point) to the work site which
+was located outside the perimeter of the base, and through which ECCI’s workforce
+entered the work site (tr. 5/12-13). Mr. McFerrin testified that ECCI knew from previous
+experience in contingency environments that if it could not control entry to the work site,
+it could not control its workforce, and that control of the ECP was critical to ECCI’s
+decision that it could achieve an accelerated schedule (tr. 5/9-10).
+
+        51. Because it thought that it could control the ECP, ECCI did not anticipate any
+restriction on its work hours. Mr. McFerrin testified that ECCI had no reason to believe
+that its work hours would be constrained:
+
+
+                                            21
+              I just can’t conceive that we would have been restricted in
+              hours. It wouldn’t have occurred to me to say it [expressly in
+              the proposal, that ECCI expected to work double shifts]
+              because I never thought that as an accelerated project, we
+              would ever encounter that.
+
+              We checked to make sure we had access to the ECP, and that
+              we controlled that. We controlled that. It was off the site of
+              the installation. And we just knew that this was the perfect
+              project because we would have control of our entry control
+              point, and no one could tell us to restrict our hours. That’s
+              what we thought.
+
+(Tr. 5/128-29) Mr. Hayward also testified that there was no way a project like MP/Signal
+School could be completed in 365 days without working in double shifts and being able
+to work “whenever you need to,” and he concluded that ECCI would be able to do so
+based on the information in the solicitation that the contractor would control site security
+and that the project was located outside the installation. ECCI was not privy to the
+internal USACE email from Stan Dowdy warning that the ANA Commander would not
+allow two ten-hour shifts on the project, and there was no notice of potential restrictions
+in the solicitation. (Tr. 1/141, 151-52)
+
+Contract Administration Following Award
+
+Austere Standards
+
+       52. The austere standards contained in the February 3, 2011 CSTC-A
+Memorandum for Record were intended to “provide consistent criteria to construct
+sustainable garrisons and facilities [for the Afghan Army and Police] that can be
+constructed with speed, are easier to maintain, and generate lower lifecycle cost.”
+CSTC-A expected that its detailed guidance “will be used by all who use Afghan Security
+Forces Funds,” and allowed for only limited exceptions (R4, tab S-587 at 47).
+
+       53. The following provisions of the February 2011 austere standards are relevant:
+
+              Facilities will be constructed using standard designs. These
+              designs will be maintained by the U.S. Army Corps of
+              Engineers (USACE) and updated with lessons learned during
+              construction or as requirements change
+
+              The basic building system for permanent facilities of 796
+              people or larger will be on-site fabricated arch steel
+              structures, commonly referred to as K-Spans. No stem walls
+
+                                            22
+             are [sic] the preferred design, up to 1m high walls may be
+             used if additional height is required for a specific function.
+
+             Codes . . . applicable to United States construction or U.S.
+             Forces in CENTCOM do not apply to projects constructed for
+             the ANSF . . . . Facilities do not have to be designed or
+             constructed to NFPA, NEC, UFC 4-010-01, or other codes.
+
+             K-Span stem walls should be avoided whenever possible and
+             not over 1m in height.
+
+             Polyurethane foam shall be used on the interior of all
+             K-Spans to provide the maximum insulation possible.
+
+             K-Span walls will be left exposed with polyurethane
+             insulation.
+
+             Doors and doorways do not need to meet fire boundary code
+             standards.
+
+             Interior walls will be prefabricated metal sandwich panels.
+             Interior walls do not need to meet fire boundary code
+             requirements.
+
+(R4, tab S-587 at 49-52)
+
+       54. The contract specifications contained some provisions that had not been
+updated to reflect the February 2011 CSTC-A guidance on the use of austere design
+standards. For instance, Section 01015 of the contract specifications for both the MP and
+Signal Schools, in paras. 3.10 and 3.13 respectively, called for insulated arch span
+roofing systems to be supported by reinforced concrete stem walls one meter high,
+regardless of whether the additional height was necessary for a specific function. (R4,
+tab 11 at GOV000416, GOV000513) The solicitation and contract also included “design
+concept drawings” for the design build facilities. These stemmed from the August 2009
+austere design guidance, which required standard designs. Looking to comply with the
+2009 guidance, USACE had contracted for its own designs which, by the time they
+arrived for use, were, in Mr. McFerrin’s opinion, over-engineered and incompatible with
+the 2011 austere design guidance incorporated in the contract (tr. 5/31-32).
+
+       55. The MP/Signal School solicitation and contract referenced “standard designs,”
+but these were for the site adapt facilities. In answering ECCI’s pre-bid inquiries,
+USACE confirmed that the standard designs were to be strictly complied with for the site
+
+
+                                            23
+adapt facilities and that the conceptual designs for the design build facilities could be
+modified:
+
+                Question: This paragraph [Section 01010, para. 4.12.2,
+                design build facilities] would suggest that standard 13
+                drawings provided for the listed facilities are only for
+                reference and that the contractor is to provide its own design
+                for each facility; is this correct?
+
+                Government Response: Yes, contractor is responsible for
+                completing the design. . . .
+
+                Question: Can contractor assume that any drawing provided
+                for the listed [design build] facilities can be modified to
+                improve on the design, site adapt the design, and enhance the
+                cost effectiveness of the design?
+
+                Government Response: Site Adapt facilities shall be
+                constructed as Site Adapt facilities. Design Build facilities
+                are the responsibility of the Designer of Record. . . .
+
+                Question: This paragraph [Section 01010, para. 4.12.3, site
+                adapt facilities] would suggest that standard drawings
+                provided for the listed facilities are to be constructed without
+                deviation or modification for the listed facilities; is this
+                correct?
+
+                Government Response: Yes, this is correct.
+
+(Pre-bid Inquiries and Responses Nos. 3840073, 3840092, and 3840068; R4, tab S-79
+at 5-6)
+
+        56. We find that ECCI reasonably believed before bidding that any apparent
+disconnects in the solicitation did not present an issue. USACE had communicated its
+commitment to transitioning from a more cumbersome and time consuming construction
+process to a more rapid one using arch span construction and austere standards
+(findings 47-48). USACE’s responses to pre-bid inquiries (finding 55) led them to expect
+that after award they would be able to use their own designs, which had been adopted by
+
+
+13
+     The term “standard drawings” was erroneously used in the cited paragraph 4.12.2, but
+         in fact only non-standard conceptual designs were provided for the design build
+         facilities.
+                                               24
+CSTC-A and which formed the basis for CSTC-A’s February 2011 guidance, as an
+improvement to the outdated conceptual designs in the solicitation (tr. 5/20-21).
+
+       57. Following receipt of the Notice to Proceed on May 2, 2011, ECCI met with
+USACE/AED at Camp Shaheen on May 28, 2011. One of the primary purposes of the
+meeting was to discuss use of the austere standards, and in particular the elimination of
+stem walls, on the MP/Signal School contract, since ECCI was in the process of
+designing the foundations for the buildings. Mr. McFerrin attended this meeting for
+ECCI. AED was represented by Donna Street, Mazar-e-Sharif Area Engineer and the
+Administrative Contracting Officer (ACO) on the MP/Signal School contract. (R4,
+tab S-159; tr. 1/162-63, 5/26, 28)
+
+        58. The elimination of concrete stem walls, in accordance with the austere
+standards in the contract, would save five to six weeks of construction time (tr. 1/133),
+and therefore was important to achieving the 365-day PoP (tr. 5/64). ECCI proposed at
+the meeting not only to eliminate stem walls, but also to erect the arch span buildings
+using the UBM (Ultimate Building Machine) rather than the ABM (Automatic Building
+Machine) system to form the steel spans. 14 Mr. Hayward testified that UBM is more
+practical because it creates vertical rather than curved walls (tr. 1/134). The ABM shape
+is a semi-circle, while the UBM is a vertical wall that a six-foot person can walk right up
+to, so you get more useable floor space with a smaller footprint (tr. 1/167). Instead of
+having to have window dormers manufactured offsite, shipped and then installed to fit the
+arch of an ABM building, you can erect straight walls and then put conventional
+windows in, which also saves considerable time (tr. 5/28).
+
+       59. Area Engineer Street did not discuss the proposal with ECCI and make a
+decision at the meeting, as the Air Force had. Instead, she requested that ECCI submit its
+proposal as a Request for Information (RFI). (Tr. 1/163) On June 12, 2011, ECCI
+submitted two separate RFIs (Nos. 5 and 6) requesting to use the UBM system, which
+would eliminate the need for stem walls (R4, tabs S-167, S-168; tr.1/167). USACE
+responded to RFI 5 requesting more design information (R4, tab S-167). USACE’s
+processes were not set up for fast tracking design decisions. Design submittals on
+Afghanistan North projects went to AED’s Engineering Branch in Kabul for review and
+analysis, through a system known as Dr. Checks (tr. 10/27-29). As Mark Hoague, the
+head of that branch, testified, he had a very small staff, between three and five people,
+and “couldn’t keep up with dozens of construction jobs where somebody wanted to
+change something” (tr. 10/60). He stated that maybe they could have gone back to the
+consultant who provided the non-standard conceptual designs to AED and asked if the
+consultant had a problem with the elimination of the stem walls, but after the designs
+were delivered to AED at the end of April 2011, the consultants’ task order was complete
+
+14
+     M.I.C. Industries introduced the UBM technology in 1994 as the successor to the ABM
+         system (http://www.micindustries.com).
+                                            25
+and USACE would have had to negotiate a new contract. So, as much as “I wanted to try
+to help get this stuff done,” he and his staff were swamped “and I had to say no.”
+(Tr. 10/60-61)
+
+       60. Mr. McFerrin testified that he knew the invocation of the RFI process was a
+bad sign for a project that was supposed to be accelerated (tr. 5/26-27). He had thought
+USACE was prepared to implement austere standards, but that turned out not to be the
+case. Mr. McFerrin believed that the USACE project management and contract
+administration people were working within a system that did not give them the authority
+to make the necessary decisions. (Tr. 5/30-31)
+
+       61. ECCI concluded that they had to choose between an extended design review
+process and moving forward with the project. Given the accelerated schedule and the
+pressure to procure materials and line up subcontractors, ECCI determined it did not have
+the time to spare, so the decision was made to move forward with the stem walls.
+(Tr. 1/168, 5/33-35)
+
+        62. USACE employees charged with administering the contract were either
+unaware or denied that the contract required the use of austere design standards.
+Mr. Albert, the AED Project Manager for MP/Signal School, testified that he
+remembered sending a memorandum on austere standards to NWK but did not recall that
+it was in the contract (tr. 10/176-77). Mr. Comeau, the Contracting Officer’s
+Representative (COR) for the contract throughout 2012, testified that “[t]here are no
+references in the contract to austere standards.” This assertion was based on doing a
+“word search” of the contract award package. (Tr. 8/220) He further testified that the
+contract had one reference to a memorandum “discussing austere conditions, but there is
+not [a] contract requirement for the implementation of austere as it was issued” (tr. 8/144,
+8/203). It was not until after Mr. Comeau received a copy of a NATO Training Mission-
+Afghanistan (NTM-A) memorandum 15 providing criteria for implementation of austere
+standards, in May of 2012, that he began the process of modifying contracts to implement
+selected austere standards on the MP/Signal School project and ANSF projects generally
+(tr. 8/142-43; R4, tab S-311). The NTM-A September 5, 2011 memorandum that
+prompted Mr. Comeau to begin modifying contracts, including MP/Signal School, to
+adopt austere standards in May of 2012, was an update to the February 2011 CSTC-A
+memorandum that was already incorporated into the MP/Signal School contract.
+(Compare, R4, tab S-587 at 47 with R4, tab S-311)
+
+       63. By the time Mr. Comeau began modifying the MP/Signal School contract, it
+was too late to realize most of the benefits in terms of cost and time savings that would
+have accrued if USACE had allowed the use of austere standards at the inception of
+contract performance. The stem walls had already been built. It was too late to use
+
+15
+     NTM-A, in addition to CSTC-A, was a customer of USACE’s in Afghanistan.
+                                            26
+sandwich panels because those were long lead items that shipped from Dubai, and ECCI
+had already framed a lot of the interior partitions with metal studs. They were able to
+implement deletion of fire doors and fire boundaries. However, it was too late to
+implement deletion of the thermal barrier that ECCI was required to install over the
+polyurethane insulation and which ended up costing them a significant amount of time on
+the project. (Tr. 1/169-71)
+
+Restricted Access to the Work Site and Restricted Working Hours
+
+       64. The MP/Signal School contract provided that all communication and
+coordination by the contractor with the host nation “shall be through and in full liaison
+with the Contracting Officer” (R4, tab 11 at GOV000344). Mr. La Rosa, who was the
+ACO on the contract from April 2013 through completion of the contract, testified that
+the CORs on the contract had an authorization letter that directed them to assist the
+contractor on issues related to site access, so both the CO and the COR had the authority
+and duty to assist the contractor with respect to that and other matters (tr. 10/257-58).
+
+        65. The Republic of Afghanistan had granted to the United States a Right of Entry
+to the work site for the purposes of the construction “without any interruption whatsoever
+by the HOST NATION or its agents” until transfer of the facilities by the United States to
+the Host Nation (Master Plan, Camp Shaheen & Camp Spann, Mazar-e-Sharif, R4,
+tab S-108 at 88-93). However, after ECCI started work, the ANA commander changed
+his position on access. He started by revoking permission for ECCI management
+personnel to access the work site through Gate A from its LSA. ECCI’s workers were
+still able to access the work site by coming through the town of Dehdadi, outside the gate
+of the ANA base. Then, later in 2011, the ANA commander further restricted the
+movements of ECCI’s workers with a pronouncement that they could not work any time
+before dawn or after dusk unless the workers were camped on the site overnight. In other
+words, transit would be allowed only during daylight hours. So, ECCI was limited to
+working as little as seven and a half hour days on the site during the winter, and while
+they could work longer shifts in the summer, they were never able to consistently work
+double shifts. (Tr. 1/153-54, 5/40-41, 55)
+
+        66. USACE (AED) was aware of the issue of restrictions on access to the work
+site through multiple notifications from ECCI at weekly meetings (tr. 5/47). ECCI first
+attempted to resolve the site access issue directly with the ANA commander without
+success (tr. 5/46). AED then went to the coalition commander responsible for training
+the ANA, and a security manager who was a Navy chief petty officer met with ECCI’s
+security manager and the ANA commander, but to no avail. AED did not pursue or
+elevate the issue further after that to ECCI’s knowledge (tr. 5/47-48), and there is no
+evidence in the record of any further efforts on the part of AED to facilitate ECCI’s
+access to the work site.
+
+
+                                           27
+        67. The inability to work extended shifts, or up to 20 hours a day, was described
+by Mr. McFerrin as a “gut punch” to ECCI’s productivity. Construction sites have only
+so many areas that can be worked in simultaneously, and the key to productivity is to be
+able to phase the work on and in a building so the different trades are not getting in each
+other’s way. (Tr. 5/49-50) If they had known access and hours would be restricted, they
+would have planned the work very differently, and perhaps would have engaged a
+subcontractor who would build a man camp on the work site and bring in workers from
+tribes far away, because local workers would not tolerate not being able to go home after
+their shift. This option would definitely have been more expensive. (Tr. 5/50)
+
+        68. Mr. Hayward testified that the restriction to daylight hours prevented ECCI
+from extending the work day during a critical time when they needed to work inside the
+buildings to finish them out. The interior finishing work, such as the finishes, the studs
+for the partition walls, doors, hardware, lights, sockets etc., especially if not constructed
+to austere standards, is the most time consuming and labor-intensive part of the work.
+Lack of unrestricted site access slowed down this process because ECCI couldn’t get the
+workers on the site for a full shift during the winter and couldn’t do double shifts, and
+thus could not man the project to the extent that it planned to and otherwise would have.
+(Tr. 4/137-39)
+
+       69. Especially since they had been prevented from implementing austere
+standards, working extended hours was really the only way to get close to meeting the
+contract schedule (tr. 5/45). With both the use of austere standards and the ability to
+work extended hours denied, ECCI did what they could to speed up performance. They
+incentivized subcontractors and if that did not produce results, they changed out
+subcontractors. ECCI began procuring materials directly, and they began to perform
+more of the work themselves. (Tr. 5/52)
+
+USACE Failed to Grant Reasonable Time Extensions during Contract Performance
+
+        70. During contract performance, Mr. Hayward testified, ECCI experienced a
+number of excusable or government-caused delays that justified time extensions for
+performance, but the government did not timely act on the requests for extension and
+instead continued to enforce the unrealistic 365-day PoP (tr. 1/216). Among the delays
+for which ECCI did not receive a time extension while performing the contract were:
+(1) government delay of the 65% design review and issuance of partial clearance for
+construction; (2) government direction to separate design packages for MP/Signal School
+and Expansion Group A projects after it had agreed to combine them; (3) suspension of
+work due to presence of human remains; (4) excusable delays to delivery of steel, foam
+insulation and thermal barrier; (5) 2011-2012 winter weather delays; (6) Afghan National
+Army interference in work (site access and work hours restrictions); and (7) government
+failure to provide electrical power for the project. ECCI had to file a certified delay
+claim after contract performance was complete, which was ultimately settled by
+
+                                             28
+agreement of the parties effective September 21, 2016. The settlement included a total
+time extension of 294 days of non-compensable time, remission of liquidated damages
+assessed for those days, and an additional lump sum. (Gov’t br., attach. 1)
+
+       71. USACE failed to grant time extensions during performance despite two
+separate recommendations from Baker/Hill scheduler Christopher McGinty.
+Mr. McGinty, in his review of ECCI’s February 2012 schedule submission, said:
+
+              This project will most likely have an overall duration of 550
+              to 600 days. That being said, the fact that this contractor is
+              earning over $1,000,000 per month average over the last
+              4 months, is one of the more productive projects going on in
+              AEN. The reality is, that this is a 600 day project.
+              Recommend the COR do whatever it takes to continue to
+              encourage the contractor to make substantial progress,
+              including adding any additional time to the PoP that may be
+              warranted.
+
+(R4, tab S-672 at 2) In his May 2012 review of ECCI’s schedule, Mr. McGinty reiterated
+that the “PoP for similar projects has been typically closer to 600 days from NTP” and
+that a PoP of 730 days was “right in line with what the typical PoP is for a project of this
+magnitude” (R4, tab S-678 at 1). Mr. McGinty testified at trial that in May of 2012, the
+project was making good progress and doing considerably better than most of the other
+projects in Afghanistan (tr. 5/185).
+
+USACE Demanded Recovery Schedules, Issued Interim Unsatisfactory Performance
+Ratings, Withheld Funds, and Assessed Liquidated Damages
+
+         72. On December 13, 2011, USACE issued a Letter of Concern about ECCI’s
+failure to make sufficient progress against the original 365-day schedule, which USACE
+was still enforcing by failing to grant time extensions for several excusable and
+government-caused delays, and demanded that ECCI submit a “recovery schedule.”
+USACE also announced its intent to withhold 10 percent of future progress payments
+until such time as the project was “back on-schedule.” (R4, tab S-245) In a letter dated
+January 13, 2012, USACE notified ECCI of its intent to begin withholding funds from
+Progress Payment No. 7 (R4, tab S-252). Thereafter, USACE withheld a total of
+$989,389.51 from Progress Payments 7-13, covering work performed from December 1,
+2011 to June 30, 2012 (R4, tabs 43-49). On January 17, 2012, USACE issued a letter
+notifying ECCI that its current level of performance was considered unsatisfactory “and
+endangers the completion of this contract in a timely manner” (R4, tab S-258 at 1). At
+this point, the project schedule was 400 days, reflecting the only time extension that
+USACE had granted, 35 days for the government’s relocation of the project site after
+award (R4, tab 13). ECCI responded, noting among other matters certain excusable and
+
+                                            29
+compensable delays that had occurred up to that point but had not yet been accounted for
+by adjustments to the completion date (R4, tab 28 at 2).
+
+         73. On February 8, 2012, USACE issued a proposed interim Unsatisfactory
+Performance Evaluation, in which it stated that the project was about 30% behind
+schedule “with no viable solution to achieve” the contract completion date (app. br., ex. 3
+at 2). Despite professional scheduler Chris McGinty’s advice that the project was in
+reality a 600 day project, that it was one of the more productive projects currently
+ongoing in Northern Afghanistan, and that it should be managed accordingly, including
+the grant of warranted time extensions (finding 71), on May 5, 2012, USACE finalized
+and published the interim unsatisfactory evaluation on the government’s Construction
+Contractor Appraisal Support System (CCASS), a database that is available to all
+government agencies to assess contractors’ past performance. The published
+unsatisfactory evaluation did not include ECCI’s extensive comments, and incorrectly
+stated that the contractor had neither signed nor commented. (App. ex. 4 at 1, 3)
+
+       74. When the contract completion date was reached, USACE still had not granted
+time extensions for the rest of the excusable and compensable delays ECCI had
+experienced. USACE began assessing liquidated damages of $960 per day and continued
+to do so throughout the remainder of ECCI’s performance of the contract. (Tr. 2/21; R4,
+tab 11 at GOV000329 (Liquidated Damages Clause), tabs 66-68).
+
+        75. On November 14, 2012, USACE issued another interim unsatisfactory
+performance evaluation, which was published in CCASS on January 12, 2013 (R4,
+tab S-441). After the project was completed and accepted on November 11, 2013,
+USACE replaced this second unfavorable performance evaluation with a Final
+Performance Evaluation with an overall Satisfactory rating (app. ex. 2).
+
+         76. Mr. Hayward testified that USACE’s enforcement of the original
+unreasonable schedule, by failing to grant reasonable time extensions during contract
+performance, assessing liquidated damages, and issuing unsatisfactory performance
+ratings, forced ECCI to take measures to accelerate performance to try to achieve the
+contract schedule (tr. 3/40-41). ECCI filed, on June 15, 2015, a certified claim for
+damages of $5,584,820 alleged to have been caused by the government’s failure to
+cooperate with ECCI either to achieve the schedule or to extend the schedule to a
+reasonable length during performance of the contract (R4, tab S-75 at 2). USACE never
+issued a contracting officer’s final decision on ECCI’s claim and this appeal ensued.
+
+       III. The DBA Premium Claim, ASBCA No. 60283
+
+       77. The MP/Signal School contract contained a provision requiring the contractor
+to obtain Defense Base Act (DBA) insurance (workers compensation insurance for
+foreign workers on U.S. contracts) and maintain it until performance was complete.
+
+                                            30
+Paragraph 2.10 of Special Requirements, Contract Section 01060 (R4, tab 11
+at GOV000599). Contract Line Item Numbers (CLINs) 0002 and 0004 required offerors
+to list the estimated amount of DBA premiums for price evaluation purposes, and stated
+that the actual amount paid by the government after award would be determined by the
+amount shown on the insurance company’s invoice to the contractor. Further, “In the
+event of recalculation of the premium by CNA [Continental Insurance Company] based
+on actual payroll amounts, the contracting officer will adjust this CLIN by contract
+modification to reflect actual premium amounts.” (R4, tab 11 at GOV000323-24)
+
+         78. The contract included ECCI’s estimated DBA premium cost, including that
+of its subcontractors, of $96,048.74 for MP School and $63,903.46 for Signal School,
+$159,952.20 in total (R4, tab 11 at GOV000323-24; tr. 3/45). ECCI’s subcontractors
+included their estimated premiums in the price of their firm fixed price subcontracts and
+ECCI did not separately reimburse its subcontractors’ DBA premiums. Rather, the
+premium cost, as well as their other costs of performance, were reimbursed as ECCI paid
+invoices against the firm fixed subcontract price. (Tr. 3/59-62) On June 27, 2011,
+USACE reimbursed ECCI for the total initial DBA premium cost of $159,952.20 (R4,
+tab 37 at 1-2; tr. 3/47). DBA premium costs were also paid by ECCI and its
+subcontractors in subsequent years of contract performance (R4, tab S-713).
+
+         79. During contract performance, the SIGAR issued a report criticizing several
+aspects of the DBA program and, relevant to this appeal, “determined that CNA’s process
+for billing and reimbursing contractors for DBA costs commingles funds in violation of
+U.S. funding restrictions and limits USACE and C-JTSCC [CSTC-A] oversight over
+actual costs.” In summary:
+
+             CNA’s broker agent issues one policy per contractor—often
+             including multiple contracts—and, at the end of the year,
+             applies credits from contracts that had overestimated labor
+             costs to contracts with underestimated labor costs. If these
+             contracts have different funding sources, this process can
+             violate U.S. funding restrictions. Furthermore, contracting
+             officers lack oversight over actual DBA costs. For example,
+             we found that contractors may purchase less DBA coverage
+             than indicated in their contracts and receive refunds, but
+             contracting officers are unaware when this occurs.
+
+(R4, tab S-194 at 4) One of the ways in which USACE responded to this SIGAR report
+was to amend its DBA insurance contract to require that refunds of overpaid DBA
+premiums be sent directly to the government (tr. 3/51, 10/200).
+
+        80. The annual reconciliation of ECCI’s master contract with CNA found that
+actual payroll for the MP/Signal School project was below what had been projected for
+
+                                           31
+the 2010-2011 contract year. A refund of DBA premiums paid by ECCI in the amount of
+$64,283 was sent directly to USACE. (App. br., ex. 6 at 3; tr. 3/50-51, 10/220) USACE
+received the refund, and issued unilateral Modification No. P0004 adjusting the amount
+of CLIN 0002 to reflect “the actual premium amount paid” and decreasing the MP/Signal
+School CLIN 0002 contract price in the amount of $64,283 on September 27, 2012 (R4,
+tab S-40 at 2). The parties disagree as to a basic fact--whether this deduction from the
+contract price resulted in USACE recovering the amount of the refund twice.
+
+        81. ECCI’s subcontractors had their own accounts with CNA for DBA insurance.
+They paid their premiums directly and provided ECCI with stamped invoices showing the
+amounts billed and paid. The initial premium amounts were included in the firm fixed
+prices of the subcontracts, and the amounts that ECCI was obligated to pay its
+subcontractors did not change if the premiums were revised. (Tr. 3/60-61) Two of the
+subcontractors underwent the reconciliation process with CNA and had their initial
+premiums adjusted based on actual payroll for the first 12 months of performance.
+Subcontractor [DEOA] 16 had its premium for the period 2013-2014 reduced by $602, and
+this amount was refunded to USACE. Subcontractor [VENCO] had its premium for the
+period 2011-2012 reduced by $6,033, and this amount was refunded to USACE. None of
+the other subcontractors underwent the reconciliation process. (Tr. 3/62; R4, tab S-713)
+
+        82. In all, ECCI’s subcontractors paid a total of $62,244 in DBA premiums
+during contract performance, $6,635 of which was refunded to USACE (R4, tab S-713).
+ECCI paid a total of $161,241 17 for DBA premiums on its own account during contract
+performance, $64,283 of which was refunded to USACE (app. br., ex. 6 at 3; R4,
+tab S-713). During a later reconciliation process, ECCI’s premium for the 2011-2012
+contract year was reduced by $13,189, which was not refunded to USACE and was
+applied by the insurer to offset other premiums owed by ECCI. ECCI therefore reduced
+the amount of premiums paid on its own account by the amount of the credit, to
+$148,052. (R4, tab S-713; tr. 3/56) The resulting total amount of premiums paid by
+ECCI during contract performance, including the subcontractor premiums, is $210,296
+($148,052 plus $62,244).
+
+        83. With regard to ECCI’s subcontractors, USACE took the position that it
+would not reimburse premiums paid if the subcontractor had not gone through the
+reconciliation process. Mr. La Rosa, who was the contracting officer at the time that
+performance was completed, testified that at the end of the contract, an “audit” is
+
+16
+   The names of subcontractors in Afghanistan have been deleted from the public version
+       of this decision for safety reasons pursuant to Board policy.
+17
+   This number is the sum of ECCI’s initial payment of $69,669 for policy year
+       2010-2011, its initial payment of $46,842 for policy year 2011-2012, its revised
+       premium of $39,965 for policy year 2012-2013, and its revised premium of $4,765
+       for policy year 2013-2014 (R4, tab S-713).
+                                           32
+performed at the government’s request. He stated that several of the subcontractors did
+not turn in their actual payroll numbers, so “we can’t perform that part of the audit.”
+(Tr. 10/204) It appears in context that he is referring to an audit by the insurance
+company, not by USACE, of the subcontractors’ worksheets showing actual payroll
+numbers, e.g., the reconciliation process. And, Mr. La Rosa asserted that until USACE
+knew what the labor cost was for the subcontractors, “we cannot verify because we fall
+under the rules of the Government. We can’t pay until we do verify.” (Tr. 10/205)
+Mr. La Rosa did not cite to any particular requirement of law, regulation, or contract in
+support of this statement. He also acknowledged that subcontractors in Afghanistan
+sometimes “disappear” after they have finished their work. (Tr. 10/218)
+
+         84. The government maintains that it did not collect the $64,283 refund twice. It
+says it accounted for the $64,283 decrease in contract price effected by Modification
+No. P0004 on September 27, 2012 (R4, tab 18) only by retaining the refund, and that it
+never reduced any payment otherwise due to ECCI by the amount of the refund. (Gov’t
+Proposed Finding of Fact (RPFF) 199; gov’t br. at 99) However, the record indicates
+otherwise. Modification No. P0004 itself states that it reduces the contract price by
+$64,283. (R4, tab 18 at 1-2) Payment Estimate No. 15 reduces ECCI’s contract earnings
+by $64,283 and shows a negative $64,283 on line L, for the amount due to the contractor
+(R4, tab 51 at 1). The last payment estimate in the record, No. 32 (presumably generated
+just before the payment due date of November 2, 2013), displays CLIN 0002, DBA
+insurance for the MP School contract, reduced from the original amount of $96,048.74 to
+$31,765.74, and in the total paid to date column, shows only $31,765.74 as having been
+paid. (R4, tab 68 at 2) Thus, more than a year following USACE’s receipt of the refund
+and its unilateral Modification No. P0004 decreasing the contract price, USACE’s
+payments to ECCI continued to be reduced by the amount of the refund and the decrease
+in contract price. The government has failed to direct us to any offsetting credit to ECCI.
+
+      85. We find as fact that USACE did indeed recover the $64,283 reduction in
+premium twice, first by receiving the refund, and second by reducing its payments to
+ECCI by the amount of the refund.
+
+         86. As to the subcontractor DBA premiums, USACE does not dispute that the
+invoiced DBA insurance premiums were paid by ECCI and its subcontractors
+(tr. 10/245). Rather, it insists that it cannot reimburse any amount unless and until the
+subcontractors have gone through the reconciliation process and any resulting adjustment
+to the paid premiums based on actual payroll vs. estimated payroll for the relevant
+periods (finding 83). ECCI contends, on the other hand, that the contract was clear that
+payment would be based on invoices stamped paid, and would be subsequently adjusted
+if premiums were adjusted as the result of the reconciliation process, but there was no
+requirement in the contract that a contractor or subcontractor undergo the reconciliation
+process (app. reply br. at 130). If ECCI is correct, the amount USACE owes ECCI for
+subcontractor premiums is $62,244. If the government is correct, the amount that it owes
+
+                                            33
+ECCI for subcontractor premiums is $9,610—the total of initial DBA premium payments
+for the two subcontractors who underwent the reconciliation process. 18
+
+       87. On January 14, 2015, ECCI submitted a certified claim for its unreimbursed
+DBA insurance premium payments (R4, tab S-73 at 18-19). On October 15, 2015, ECCI
+appealed from the deemed denial of its claim.
+
+                                        DISCUSSION
+
+         I. The Collapsible Soils Claim, ASBCA No. 58993
+
+        ECCI argues that the government knew of ECCI’s pre-award interpretation of the
+contract to exclude collapsible soils mitigation, and by awarding the contract to ECCI, it
+is bound by that interpretation, citing Cresswell v. United States, 173 F. Supp. 805, 811
+(Ct. Cl. 1959), and subsequent cases. ECCI also cites to decisions of the ASBCA holding
+that when the government accepts a contractor’s proposal which alters the terms of the
+solicitation, the government is not entitled to demand performance of the original
+requirements. See, e.g., Marcon Eng’g, Inc., ASBCA No. 57471, 15-1 BCA ¶ 35,974.
+Therefore, it asserts, the government’s direction to ECCI to proceed with mitigation of
+the soils at the site by over excavation of 300 millimeters, backfill, and compacting was a
+compensable change to the contract. (App. br. at 177-79, 202-08)
+
+        ECCI also argues that the discovery of slightly collapsible soils at the project site
+during the geotechnical investigation constitutes either a Type I or Type II differing site
+condition (app. br. at 212-18). As to Type II, where a contractor encounters unknown
+conditions at the site of an unusual nature which differ materially from those ordinarily
+encountered, ECCI points to its experience in Afghanistan and the fact that it had not
+encountered collapsible soils in its work at Camp Shaheen for three years, or more
+generally in the Mazar-e-Sharif area of Balkh Province during its work there. ECCI also
+states that it could not reasonably anticipate collapsible soils from the solicitation, since it
+contained no geotechnical information on the project site and the specification for the MP
+School, which was the larger of the two schools, contained no requirement for mitigation
+whatsoever (app. br. at 210-14). As to Type I, subsurface or latent conditions at the site
+which differ materially from those indicated in the contract, ECCI states that the lack of
+mitigation measures in the MP School specification, combined with the government’s
+acceptance of ECCI’s proposal stating that the probability of discovering collapsible soils
+at the site was very low, resulted in a contract that did not expect collapsible soils to be
+
+
+18
+     The amount initially paid by the subcontractors is not subject to adjustment downward
+         to account for the revised premiums, because USACE received those refunds
+         directly and any downward adjustment reflecting the reduced premiums would
+         result in double recovery by USACE.
+                                              34
+encountered. Therefore, ECCI believes it is entitled to an equitable adjustment for the
+cost of mitigation. (Id. at 215-18)
+
+        The government counters, as to the existence of a differing site condition, that a
+Type I cannot be established on this record, because far from representing that there were
+no collapsible soils at the site, the solicitation provisions expressly raised the possibility
+that the site was underlain with collapsible soils and stated that the contractor had the
+responsibility after award for determining whether this was the case. It further argues
+that a Type II cannot be established because, at the time of bidding, ECCI had in hand a
+geotechnical report from a project at Camp Marmal, 12 miles away from Camp Shaheen,
+that indicated the presence of collapsible soils with ASTM D-5333 collapse indices from
+0.7% to 1.6%, and which recommended over excavation of up to 60 centimeters.
+Moreover, at Camp Shaheen, while ECCI may not have observed any indications of
+damage to buildings, it did not have any geotechnical reports containing D-5333 test
+results to definitively demonstrate the absence of collapsible soils. (Gov’t br. at 120-24)
+
+        As to the contract interpretation issue, the government argues that the Cresswell
+doctrine cases cited by ECCI do not apply because, in those cases, there were facts
+establishing that the government knew about and considered the contractor’s
+interpretation before overtly or impliedly accepting it. Here, the government says, there
+is no evidence that ECCI’s bid qualification was considered and accepted or even known
+to the government. Because the qualification was in the price proposal, the technical
+evaluators would not have seen it and the price evaluators may not have realized its
+significance. Thus, Marcon Eng’g is not applicable because in that case, the departure
+from the solicitation design was plainly set forth in the technical proposal and the
+technical evaluators were simply negligent in performing their evaluation. (Gov’t reply
+at 20-23)
+
+       We address the differing site condition theory of recovery first. For the following
+reasons, we agree with the government that the facts of this appeal do not support ECCI’s
+claim of a Type I or Type II differing site condition. A Type I differing site condition is
+defined in the Federal Acquisition Regulation (FAR) as “subsurface or latent physical
+conditions at the site which differ materially from those indicated in this contract.”
+FAR 52.236-2(a)(1). Thus, the elements to be proven are: (1) the condition indicated in
+the contract differs materially from those encountered during performance; (2) the
+conditions actually encountered were reasonably unforeseeable based on all information
+available to the contractor at the time of bidding; (3) the contractor reasonably relied
+upon its interpretation of the contract and contract-related documents; and (4) the
+contractor was damaged as a result of the material variation between expected and
+encountered conditions. Stuyvesant Dredging Co. v. United States, 834 F.2d 1576, 1581
+(Fed. Cir. 1987); Zafer Constr. Co., ASBCA No. 56769, 17-1 BCA ¶ 36,776 at 179,234.
+
+
+                                             35
+        ECCI has not met its burden of proving the first element. The condition indicated
+in the contract was that there was a possibility that the site was underlain with collapsible
+soils. Specification section 01010 for both MP School and Signal School stated in
+para. 4.16 that the contractor’s geotechnical investigation “shall specifically address the
+possibility that the site is underlain with collapsible soils” (finding 8). ECCI attempts to
+overcome this by arguing that by virtue of the government’s acceptance of its pre-dispute
+interpretation that collapsible soil mitigation work was not included in the solicitation,
+the contract did not indicate that collapsible soils were present (app. br. at 215-16). We
+do not find this argument to be persuasive. ECCI’s interpretation of an ambiguity in the
+specification regarding the mitigation work does not erase the solicitation’s clear warning
+that collapsible soils might be encountered.
+
+        A Type II differing site condition is “unknown physical conditions at the site, of
+an unusual nature, which differ materially from those ordinarily encountered and
+generally recognized as inhering in work of the character provided for in the contract.”
+FAR 52.236-2(a)(2). To establish a Type II differing site condition, the contractor must
+prove: (1) the recognized and usual conditions; (2) that the actual physical conditions
+encountered at the site were “unusual” (differed from the known and usual); and (3) that
+the different conditions caused an increase in the cost of performance. Charles T. Parker
+Constr. Co. v. United States, 433 F.2d 771, 778 (Ct. Cl. 1970); Nova Group, Inc.,
+ASBCA No. 55408, 10-2 BCA ¶ 34,533 at 170,329. Most important is proving the
+“unusual” nature of the condition encountered, “one that might not be reasonably be
+anticipated given the nature and location of the work.” Kilgallon Constr. Co., ASBCA
+No. 51601, 01-2 BCA ¶ 31,621 at 156,224.
+
+        The actual physical condition encountered by ECCI at the project site was
+collapsible soils with a negligible to slight collapse risk per the ASTM D-5333 test.
+ECCI did not encounter soils with a severe collapse risk. (Finding 20) ECCI’s
+experience up to the time it submitted its proposal for MP/Signal School included three
+years of work at Camp Shaheen where it had not witnessed any damage to buildings
+built there without collapsible soil mitigation (finding 15). Up to that point, however, it
+had conducted no ASTM D-5333 testing of soils at Camp Shaheen. It had recently
+conducted a geotechnical investigation employing the ASTM D-5333 test, at a project
+site a Camp Marmal, 12 miles away. The reported results of that testing showed
+collapsible soils with negligible to slight collapse risk (indices ranging from 0.7% to
+1.6%). (Finding 21) Collapsible soils were present throughout northern Afghanistan to
+a greater or lesser extent, with varying degrees of collapse risk, and their presence was
+known to both the government and to contractors there after the SIGAR report came out
+in April of 2010 (findings 10-11). Thus, we hold that encountering collapsible soils at
+Camp Shaheen does not qualify as an unknown condition of an unusual nature in and of
+itself. Had ECCI encountered collapsible soils with a moderately severe or severe
+collapse risk at Camp Shaheen (or anywhere in Mazar-e-Sharif), of a kind requiring
+extensive mitigation measures on the order of two or three meters of over excavation,
+
+                                             36
+that might very well be a different matter. But ECCI encountered soils with a negligible
+to slight degree of collapse risk, a condition that was not unusual in Afghanistan and one
+that we think should reasonably have been anticipated.
+
+       However, we do not conclude that the work to mitigate the collapsible soils at
+Camp Shaheen was required by the contract awarded to ECCI. In this respect, we agree
+with ECCI that the government’s acceptance of ECCI’s proposal constituted its
+acquiescence to ECCI’s clearly expressed interpretation of a solicitation ambiguity
+created by the government. Thus, we construe the contract, as awarded, to not require the
+mitigation of collapsible soils, and we conclude that the government’s direction to ECCI
+to mitigate for the MP/Signal School project was a compensable change to the contract.
+
+        In matters of contract interpretation, the preferred approach is to read the entire
+contract as a whole, and to give the language of the contract its plain meaning. In doing
+so, different parts of the contract are to be read in harmony, if possible, and preference is
+given to an interpretation that gives effect to all the terms of the contract and does not
+render one or more of them meaningless. Jowett, Inc. v. United States, 234 F.3d 1365,
+1368 (Fed. Cir. 2000); Christos v. United States, 300 F.3d 1381, 1384 (Fed. Cir. 2002);
+Air-Sea Forwarders, Inc. v. United States, 166 F.3d 1170, 1172 (Fed. Cir. 1999); United
+Pacific Ins. Co. v. United States, 204 Ct. Cl. 686, 693-694 (1974). Pursuant to these
+principles, a court or board of contract appeals examining a contract such as MP/Signal
+School containing two separate but related projects and two different specification
+sections, one of which contains a requirement that is missing from the other one, might—
+without anything further to go on--conclude that a proper interpretation would be to read
+the missing section into both specification sections. This might be particularly true
+where, as in this appeal, the missing requirement has to do with ensuring that the soils
+underlying the two projects are properly prepared to support the weight of the buildings
+that will be resting on them.
+
+        However, there are three reasons why such a result is not correct in this appeal.
+First, there was a bidder inquiry about the discrepancy between the two sections. If in
+fact USACE meant for the requirement to be in both sections, it had the opportunity to
+say so in response to the inquiry. Instead, it threw open the door for bidders to make their
+own interpretations of the requirement with the response “bid it as you see it” (finding 9).
+The government’s response created more ambiguity rather than less.
+
+       Second, if USACE had answered the inquiry by confirming that the Signal School
+specification for collapsible soil mitigation applied as well to the MP School, significant
+uncertainties would have remained. All the bidders would have faced the need to
+increase their bids by a significant amount to cover the possibility that collapsible soils
+would be encountered and three meters of over excavation would be required. ECCI
+estimated the additional costs as at least $2 million and possibly more like $5 million.
+(Finding 17) Since there was no reason to expect collapsible soils at Camp Shaheen to
+
+                                             37
+the degree that had been experienced on the Kunduz plateau, bidders would have to
+decide whether to increase their bids by a significant amount and possibly lose the
+competition, or assume the risk of having to do the mitigation and expose themselves to a
+potentially substantial loss. Putting bidders in this dilemma runs directly counter to the
+government’s best interest, because a bidder who did not price the full amount of
+mitigation might be unable or at least unwilling to complete the job if it faced substantial
+losses, and a bidder who included the full potential cost in its bid and was awarded the
+contract could potentially complete the job with a few million dollars of extra profit at
+taxpayer expense. In short, requiring bidders to price such a significant unknown
+quantity into a fixed price contract makes no sense from the perspective of either the
+government or the contractor.
+
+       Third, ECCI (and surely other bidders as well), taking the government at its word,
+told the government “how they saw it” in their proposal—they believed the probability of
+discovering collapsible soils at Camp Shaheen requiring anywhere near the specified
+level of mitigation was very low and so they were excluding any amount for mitigation
+from their bid and would view it as a changed condition if mitigation were required. “If
+one party to a contract knows the meaning that the other intended to convey by his words,
+then he is bound by that meaning. The same is true if he had reason to know what the
+other party intended.” Cresswell v. United States, 173 F. Supp. 805, 811 (1959), and
+authorities therein cited. See also Perry and Wallis, Inc. v. United States, 427 F.2d 722,
+725 (1970); Ship Analytics Int’l, Inc., ASBCA No. 50914, 01-1 BCA ¶ 31,253
+at 154,352; Space Gateway Support, LLC, ASBCA Nos. 55608, 55658, 13 BCA ¶ 35,232
+at 172,957-58. Additionally, our own precedent holds that if the government accepts a
+proposal that varies the terms of the solicitation, the variation effectively changes the
+contract terms at award. Marcon Eng’g, Inc., ASBCA No. 57471, 15-1 BCA ¶ 35,974
+at 175,769-71.
+
+        It is undisputed that the MP/Signal School procurement was the very first one that
+USACE’s Kansas City District had conducted on behalf of AEN (finding 19). It is also
+undisputed that at the time the MP/Signal School solicitation was issued, on February 24,
+2011, USACE’s policy on mitigation of collapsible soils was unsettled (finding 11).
+There were two major aspects to that policy that needed to be addressed. The first was
+determining the presence of collapsible soils and the severity of the risk, which would
+logically drive the mitigation procedures employed, including the extent of the over
+excavation. The other was how to address all of these unknowns up front in the
+solicitation to facilitate bidding.
+
+        USACE did not recognize collapsible soils as a significant issue until after the
+SIGAR’s report on the collapse at Kunduz came out in April of 2010 (findings 10-11).
+The record is unclear about the point in time at which USACE began inserting collapsible
+soils provisions into its contracts. However, USACE began by requiring geotechnical
+investigations to include the ASTM D-5333 test to determine the severity of collapse risk
+
+                                            38
+(finding 11). By April 14, 2011, USACE adopted its policy of imposing mandatory over
+excavation and other mitigation requirements only for projects in Kunduz, and soliciting
+all other projects in Afghanistan with an optional bid item that would be exercised only if
+collapsible soils requiring mitigation were discovered after award (finding 14). As to the
+degree of mitigation should collapsible soils be encountered, that too evolved over the
+course of 2011. USACE abandoned its initial three meters of over excavation standard
+and by July of 2011 adopted a “tiered” approach to the amount of over excavation, geared
+to the degree of collapse risk identified by the ASTM D-5333 test. By September 24,
+2011, USACE guidance changed again, eliminating the requirement of over excavation
+for soils with a collapse index of 6% or less. (Finding 23)
+
+        This evolution of approach played out in the changing solicitation terms that ECCI
+and other bidders saw coming out of the Kansas City District on behalf of AEN. The
+design engineer who drafted USACE’s March 23, 2011 response to the MP/Signal
+School bid inquiry of “bid it as you see it” was not called to testify. However, the
+contract specialist who sent it out to the bidders, Jay Denker, did testify, and stated that
+he thought what was meant was that the contractors are there on the ground and should
+use their professional judgment. (Finding19) The government argues that the response
+“bid it as you see it” was meant to advise the bidders that “the risk involved in estimating
+what to bid regarding collapsible soils for the project rested with the contractor” (gov’t
+br. at 126), but this assertion is practically meaningless since it amounts to USACE
+telling contractors something that they already knew, instead of answering their very real
+concerns about risk. And, while we have ECCI’s pre-dispute interpretation in the record,
+there is nothing in the record to tell us how USACE interpreted the mitigation provisions
+in the MP/Signal School specifications prior to this dispute arising.
+
+       There were multiple ambiguities and uncertainties for bidders inherent in the
+Signal School collapsible soils mitigation specification. First, given that the specification
+was only for Signal School, did it apply to both projects, only to Signal School, or to
+neither? Second, if it applied to one or both, what was the likelihood that collapsible
+soils would be discovered after award? Third, if collapsible soils were discovered, how
+severe would the collapse risk of those soils be, and how much mitigation would need to
+be performed? Even if the government’s response to the bidder’s inquiry in the
+MP/Signal School procurement had answered the first question, which it did not, the
+answers to the remaining two questions would have been impossible to ascertain until
+after award. The likelihood of encountering collapsible soils, and the likely degree of
+mitigation work that would have to be performed, would both have to be known in order
+for bidders to have any chance of formulating a reasonable estimate of their costs to do
+the work and therefore be able to offer a firm-fixed price for that work. The bid option
+that USACE adopted only one week after awarding the MP/Signal School contract
+resolved that dilemma, because bidders could much more reasonably estimate a price for
+mitigation of a known quantity of soil (5000 cubic yards). That price could be extended
+to cover the actual amount of soil requiring mitigation.
+
+                                             39
+        Because collapsible soils was such a significant issue at the time, and because
+ECCI was quite clear and unambiguous in its proposal, it was highly unlikely that ECCI’s
+notice to USACE that it was interpreting the solicitation not to include mitigation
+requirements could or should have escaped notice. While ECCI included its
+interpretation in the pricing section of its proposal (where it may not have been seen by
+the technical evaluators), both Mr. Denker, the contract specialist, and the CO who was
+acting as the Source Selection Authority had access to the entire proposal. Mr. Denker
+testified that as the proposals came in, he reviewed both the technical and price proposals
+before sending them to the evaluation boards. And Mr. Denker, in particular, was well
+aware of the fact that a bidder had asked for guidance on the subject and that the response
+he himself sent out to all bidders was “bid it as you see it.” (Finding 19) Since he knew
+that bidders were invited to submit their own solutions to the issue, what they proposed
+ought to have been a particular focus of the proposal review that he conducted. We hold
+that regardless of the state of Mr. Denker’s actual knowledge, or that of the Source
+Selection Authority (matters which were curiously not addressed by testimony at trial),
+how a bidder proposed to handle the collapsible soils issue was a matter that USACE
+“had reason to know” under Cresswell and its progeny. Both Mr. Denker and the Source
+Selection Authority either saw the bid qualification, or should have seen it; either way,
+whether by acquiescence or negligence, the government accepted ECCI’s qualification
+when it awarded the contract without discussions.
+
+        We conclude that ECCI chose the only reasonable course open to it in the
+circumstances. The three meters of over excavation required in the Signal School
+specification was USACE’s initial standard, but only a week after the MP/Signal School
+contract was awarded, USACE had backed off requiring it, even for projects in Kunduz
+where a known problem existed, unless “deep” collapsible soils were found (finding 13).
+ECCI’s expectation that soils requiring that kind of mitigation would not be found at
+Camp Shaheen, based on the lack of observable damage to buildings over three years,
+(findings 15-16), was right on the money. The ASTM D-5333 testing done as part of the
+geotechnical investigation after award found the soil at the project site to have negligible
+to slight collapse potential (indices of .95% to 1.55%). ECCI began over excavation at a
+much reduced level of 300 mm (vs. three meters), one tenth of the depth specified in the
+Signal School specification, at the recommendation of the geotechnical report.
+(Finding 20) ECCI believed that even this reduced level was not necessary, and USACE
+itself appeared to agree when it adopted its September 24, 2011 guidance eliminating any
+requirement for over excavation for soils with a collapse index of 6% or less (findings 20,
+23). However, USACE insisted nevertheless that ECCI continue with over excavation
+and other mitigation measures at the MP/Signal School site (findings 26, 28).
+
+
+                                            40
+                                        DECISION
+
+       The government is responsible for creating ambiguity in the solicitation and is
+bound by ECCI’s reasonable and clear pre-award, pre-dispute interpretation. As a result,
+the contract as awarded did not contain any requirement to mitigate collapsible soils, and
+USACE’s insistence that ECCI proceed with mitigation at the MP/Signal School project
+site was a constructive change to the contract entitling ECCI to an equitable adjustment.
+
+       In light of our decision, the government’s pre-trial motion for summary judgment
+on the collapsible soils issue is dismissed as moot.
+
+       II. The BCOE Claim, ASBCA No. 60167
+
+Affirmative Defenses and Jurisdiction
+
+        In post-hearing briefing, the government contended that the BCOE claim, at least
+as to ECCI’s superior knowledge and commercial impracticability theories of recovery,
+goes far beyond what was presented to the CO in ECCI’s certified claim submitted
+June 15, 2015, and constitutes new claims over which we lack jurisdiction since they
+were never decided by the CO. On October 29, 2021, the government filed a motion to
+dismiss ASBCA No. 60167 in its entirety for lack of jurisdiction, arguing that, in addition
+to the two “new” claims that were the subject of its post-hearing brief, the Board lacks
+jurisdiction over the theories of recovery (breach of the duty of good faith and fair
+dealing and breach of the warranty of specifications) presented to the CO in ECCI’s
+original claim, because they are separate claims as to which ECCI failed to state separate
+sums certain. Appellant filed its opposition to the government’s motion on December 29,
+2021. On January 25, 2022, the Board issued its decision denying the government’s
+motion as to the breach of the duty of good faith and fair dealing, breach of the implied
+warranty of specifications, and superior knowledge theories of recovery. It granted the
+government’s motion as to ECCI’s commercial impracticability theory of recovery. ECC
+International, LLC, ASBCA No. 60167, slip op. (January 25, 2022).
+
+        We next turn to the government’s affirmative defenses, as to which the
+government bears the burden of proof. The government argues that: (1) ECCI waived its
+BCOE claim by entering into an agreement to participate in a settlement conference; and
+(2) the BCOE claim is foreclosed as settled and released, since the evidence presented all
+relates to seven delay claims that were settled in 2016. (Gov’t br. at 99-102, 104-07)
+
+       The government and ECCI entered into an agreement, dated January 15, 2015, to
+participate in an “Executive Session” to attempt to reach settlement of disputes arising
+under a number of contracts, including the one at issue in these appeals (R4, tab S-74).
+Footnote 3 to the agreement states, in pertinent part:
+
+
+                                            41
+              Any further claims, REAs, and appeals to the Board or to the
+              Court of Federal Claims arising from any of ECCI’s contracts
+              with USACE, for projects performed in Afghanistan, under
+              which performance has been completed as of the date of this
+              agreement, must be submitted or filed with specific notice
+              given to the Army Corps of Engineers, Middle East District
+              Office of Counsel on or before May 15, 2015, provided that
+              the (substantive, as opposed to procedural) transactions or
+              occurrences underlying such claims, REAs, or appeals have
+              occurred before that date. . . . If any REAs, claims, or appeals
+              (on completed Afghanistan projects) are not filed or
+              submitted and brought to the attention of USACE prior to
+              May 15, 2015, they shall be forever waived.
+
+(Id. at 1 n.3) The government contends that because ECCI’s BCOE claim arose under a
+completed Afghanistan contract and was not submitted to USACE until June 15, 2015,
+that ECCI has waived the claim in its entirety.
+
+       At the hearing, the Board expressed doubt that it had jurisdiction to decide the
+government’s waiver defense since it was based on a private agreement between the
+parties to enter into settlement talks, which is not an agreement within the purview of the
+Contract Disputes Act, 41 U.S.C. §§ 7101-7109 (tr. 2/8-10). The government’s
+post-hearing brief attempts to persuade us otherwise by citing to cases involving
+concluded settlement agreements or binding ADR proceedings (gov’t br. at 99-101),
+neither of which are before us. We therefore conclude that we lack jurisdiction to
+consider the government’s affirmative defense of waiver based on a private agreement to
+negotiate a settlement.
+
+        Additionally, the BCOE claim was based on documents that ECCI received from
+the government in discovery shortly before the Executive Session began on June 9, 2015
+(tr. 1/80 [gov’t counsel]; R4, tab S-74 at 3). Neither party disputes that the claim was
+unknown to ECCI before receipt of the documents in discovery. Even if we possessed
+jurisdiction to consider the government’s affirmative defense, the government, which
+bears the burden of proof, adduced no evidence showing that ECCI, when it entered into
+the agreement, intended to waive a claim that it did not know existed. The agreement’s
+language is no help to the government here. The purported waiver does not expressly
+include unknown claims, and the words “appeals, claims and REAs” employed in
+footnote 3 imply that the matter is not only known, but is already part of the negotiation
+or disputes process.
+
+      We turn next to the government’s affirmative defense that the BCOE claim was
+subsumed within a settlement agreement covering seven delay claims, executed on
+September 22, 2016. ECCI objects to the government’s attaching the settlement
+
+                                            42
+agreement, which is not part of the record in this appeal, to its post-hearing brief without
+making or supporting a request to re-open the record. We have briefly cited to the
+settlement agreement in our findings of fact, and while we appreciate ECCI’s point, we
+do not think that our limited reference to the agreement in our findings causes any harm
+to ECCI. Nor is consideration of the agreement necessary in order to rule on the
+government’s affirmative defense.
+
+        The government contends, giving examples, that nearly every settled delay claim
+is cited by ECCI as evidence that the contract could not be performed in 365 days, in
+support of ECCI’s claim that the government has breached its warranty of specifications
+(the period of performance) (gov’t br. at 105-06). ECCI responds that its BCOE claim
+arises from the government’s knowing imposition of an unreasonably short period of
+performance, and does not depend on any particular instance of delay, but on the
+government’s overall administration of the contract in a manner that, far from facilitating
+ECCI’s performance, actually made it more difficult to meet the schedule (app. reply br.
+at 92).
+
+        Despite the government’s assertion that ECCI’s BCOE claim is just a “new theory
+of liability in order to recover a second time” for the settled delay claims, we are satisfied
+that the BCOE claim is qualitatively different from a delay claim. ECCI’s theories of
+recovery—breach of the duty of good faith and fair dealing, breach of the implied
+warranty of specifications, and breach of the duty to disclose superior knowledge, all
+allege that the government breached the contract and that its breach has caused ECCI to
+suffer damages by expending many millions of dollars more than it was paid, trying to
+achieve the contract’s period of performance in the face of government contract
+administration at odds with the purpose of the contract. The damages sought by ECCI
+are distinct from the relief under the contract (time extensions, compensable delays,
+remission of liquidated damages) that would typically be granted on a successful delay
+claim.
+
+        This appeal addresses entitlement only, and we are not privy to the details of
+ECCI’s BCOE claim for damages. Ultimately, we see the government’s argument not as
+a bar to ECCI’s pursuit of its BCOE claim, but more as a note of caution in the area of
+quantum of damages should ECCI prevail on its claim. If there is any potential overlap
+between the damages sought on the BCOE claim and the relief granted in settling the
+delay claims (a matter on which we express no opinion), that can be addressed, either in
+the parties’ negotiation of quantum, or the Board’s determination of same. We conclude
+that the settlement of seven delay claims does not bar ECCI from pursuing its BCOE
+claim.
+
+
+                                             43
+Entitlement—Breach of Warranty of Specifications
+
+        ECCI advances three surviving legal theories of recovery under its BCOE claim.
+The first is that the contractual period of performance was a defective contract
+specification under which the government warranted that the contract could be completed
+in that time. ECCI also argues that the defective period of performance specification was
+a latent defect, in that ECCI could not know at the time of bidding that the government’s
+own schedulers had concluded that the 365-day PoP was not achievable, or that none of
+the conditions that would in ECCI’s experience have allowed ECCI to achieve the
+schedule (use of austere standards, real time over-the-shoulder design review,
+unrestricted access to the work site) would be allowed to occur. (App. br. at 63-93)
+
+       The government, on the other hand, argues that a due date in a contract is not a
+warranty by the government that the contract can be performed within the prescribed
+period, citing Am. Ship Bldg. Co. v. United States, 654 F.2d 75, 79 (Ct. Cl. 1981), and
+Finast Metal Prods., Inc., ASBCA 19860, 85-1 BCA ¶ 17,873. The government
+contends appellant was a large and experienced contractor and it, not the government,
+was in the best position to determine whether it had the capabilities to complete the
+contract by the due date (gov’t br. at 110-14).
+
+       In support of its argument, ECCI cites to Appeal of Kora & Williams Corp.,
+DCCAB No. D-839, 1994 WL 750301 (Mar. 7, 1994), for the proposition that the
+government’s warranty of specifications includes the specified time for completion of the
+work. Kora & Williams involved a contract for demolition and construction of a parking
+and bus garage and station access at Union Station. 19 The D.C. Appeals Board found that
+the designer of the project committed numerous errors in the project design, and
+calculated the project duration without consideration of important mandatory
+construction phasing and sequencing detail:
+
+                S & P has admitted that its designers spent all of one hour
+                calculating the contract duration for the Union Station
+                Project. (F.F.332). The calculation was made without benefit
+                of a written schedule of activities or any real feasibility study.
+                (Id.) Thomas Caruso testified that it should have taken up to
+                two months to calculate the contract durations for the Link
+                and overall Project (F.F.341); and accordingly, a written
+                schedule of activities comprising 5% to 10% of the activities
+                on the final CPM should have been generated by S & P. This
+                would result in 250 activities on a summary bar chart. (Id.)
+
+19
+     Decisions of other boards of contract appeals are not binding precedent, although we
+         may find them persuasive.
+
+                                               44
+              Caruso testified that it would be impossible to calculate
+              accurate completion dates and contract durations for the
+              Project using S & P's method. (Id.). S & P's design for the
+              Project was criticized by the District and others for lack of
+              detail. In particular, lack of sufficient construction phasing
+              and sequencing detail was noted by the District as the design
+              was developed. (F.F. 20, 21). Even after the design was 100%
+              complete, the U.S. Department of Transportation was
+              informed that S & P should have included “more detailed
+              parameters” in the construction phasing plan relating to
+              passenger access to railroad tracks during construction of the
+              Link and Inbound Passageway. (F.F. 23). Later, the 900–day
+              duration was called “intentionally tight” by the District, in an
+              internal memorandum, “considering the necessary restraints
+              involved in constructing in an area of intense pedestrian and
+              railroad activity.” (F.F. 333). The District even accused S &
+              P, at a coordination meeting, of having “not considered the
+              limitation created by the track outage requirements for
+              properly sequencing construction activities.” (F.F. 331).
+
+              As a result of S & P's failure to consider the impact of the
+              phasing sequencing requirements on the project, Caruso
+              concluded that the 900– and 550–day specified contract
+              completion dates were not feasible for a contractor to meet.
+              (F.F. 339, 340). The original contract completion durations
+              were, therefore, a design defect. The District materially
+              breached the contract when it refused to correct the design
+              defects.
+
+(Id. at 98)
+
+       From this opinion, we draw the conclusion that the cited lack of attention to
+construction phasing and sequencing detail on the part of the project designer resulted in
+numerous design errors, on top of which the designer’s calculation of contract duration
+was faulty because it reflected the lack of phasing and sequencing detail in the underlying
+design. We are unable to embrace the broader conclusion, urged by ECCI, that a contract
+duration or period of performance, without more, can in and of itself constitute a design
+or specification defect.
+
+        In Am. Ship Bldg. Co. v. United States, 228 Ct. Cl. 220 (1981), the court reasoned
+that whether a requirement to perform in a set period of time is a due date agreed to by
+the contractor, or a warranty by the government, is a matter of contract interpretation.
+For a warranty to exist, the court stated, “there must be either an affirmation or a promise
+
+                                            45
+which relates to performance under the contract,” which may be express or implied. The
+court evaluated the actions of the parties and the surrounding circumstances, as well as
+the “realistic and legitimate expectations” of parties to government contracts, and
+concluded that there was no warranty by the government, but a due date that the
+contractor warranted it would meet by entering into the contract. The court also observed
+that how long it takes to perform a contract is a function of the specification requirement
+and the contractor’s capabilities, and that normally the government knows only one of
+those, while the contractor knows both. Finast Metal Prods., Inc., ASBCA No. 19860,
+85-1 BCA ¶ 17,873 at 89,521 (citing Am. Ship Bldg., 228 Ct. Cl. at 224-225).
+
+        In the absence of an affirmation or promise, express or implied, that amounts to a
+warranty of the performance period, applicable precedent requires that there be a defect
+in the design or the specifications with which the contractor is required to comply in
+order to bring the government’s implied warranty of specifications into play. In
+Laburnum Constr. Corp v. United States, 163 Ct. Cl. 339 (1963), the delays the plaintiff
+experienced in completing the project resulted from deficient specifications, entitling the
+contractor to damages resulting from the government’s breach of its implied warranty
+that the contractor, if he complies with the specifications, will be able to complete the
+project within the contemplated period of time. In H&H Elec., Inc., ASBCA No. 29621,
+86-3 BCA ¶ 19,303, the contractor claimed a price increase for a delay in contract
+completion caused by a defective specification. The original contract completion date
+was 450 days after receipt of notice to proceed. The Board found that the contract was
+objectively impossible to perform at the time of contract award because it required
+software that could not be developed within the 450-day period. It concluded that since
+the government was responsible for the content of the specification and set the time for
+performance of the contract, the government warranted to H&H that the contract was
+possible to perform at commercially practicable cost within the specified time. Id.
+at 97,603.
+
+        In this appeal, however, ECCI asserts that the 365-day PoP in and of itself
+constitutes a defective specification. In that respect, we find Wunderlich Contracting
+Co. v. United States, 351 F.2d 956 (Ct. Cl. 1965), to be illuminating. Wunderlich
+involved a period of performance of 540 days for a complex construction project, the
+final bid package for which contained numerous errors, omissions, and discrepancies.
+The Court of Claims observed that the errors in the bid package would for the most part
+have been apparent to an experienced bidder. The plaintiff and others urged the
+government to extend the period of performance, and in response a bid option was added
+to bid a longer period at higher cost, but plaintiff did not avail itself of the option.
+351 F.2d at 961. The plaintiff then encountered circumstances that were not ideal in
+performing the contract. The progress of the work was found to have been substantially
+impeded by materials and labor shortages precipitated by the Korean War, and less
+substantially impeded by the errors and omissions in the drawings. The latter were
+
+
+                                            46
+corrected reasonably promptly and were compensated for by the government on an
+ongoing basis with equitable adjustments. Id. at 962-63.
+
+        The Wunderlich court concluded that the plaintiff had not proven that the
+government-supplied documents were so substantially deficient or unworkable, in the
+context of a very complex construction project, as to constitute a breach of contract.
+Moreover, the plaintiff necessarily had knowledge of the actual state of the project plans
+and was cognizant of the fact that performance could be completed within 540 days only
+under ideal conditions. It chose not to bid an extended performance period but “willingly
+assumed the substantial risk of completing the project within the tight schedule of
+540 days.” Id. at 964. Therefore, the court concluded, the plaintiff had not established
+that the government breached its implied warranty of reasonable accuracy or that it was
+misled into assuming greater risks and responsibilities than it had anticipated. Id.
+
+        We think the same result is appropriate in this appeal. ECCI was aware that the
+solicitation contained conceptual designs based on outdated austere standards guidance
+that were inconsistent with the 365-day PoP, but believed that it would be able to
+implement its updated austere designs, or would be able to apply enough resources to the
+project to otherwise meet the PoP (findings 56, 67-69). We therefore conclude that the
+365-day contract duration was not a warranty by the government that the contract could
+be performed within that time, and deny ECCI’s breach of warranty claim.
+
+Entitlement—Breach of Duty of Good Faith and Fair Dealing
+
+        ECCI’s second theory of recovery is that the government breached its implied
+duty of good faith and fair dealing by imposing a PoP that it knew was not achievable
+under a business as usual approach, and then failing to cooperate with ECCI to
+implement any of the measures that would have made it achievable. ECCI points to the
+advice of USACE’s own schedulers that the 365-day PoP was not achievable and to the
+testimony of USACE personnel that there would have been no point in conducting an
+analysis to establish a more realistic schedule because USACE did not want to raise the
+matter with its customer, CSTC-A. And while pre-contract actions in and of themselves
+cannot form the basis for a claim of breach of the implied duty, ECCI asserts that, with
+knowledge of the unreasonable PoP, USACE proceeded to administer the contract in
+such a way as to make it impossible for ECCI to achieve the PoP, while at the same time
+refusing to add time to the contract, even for excusable or government-caused delays.
+The government issued unfavorable interim performance ratings and started withholding
+payments and assessing liquidated damages in an effort to force ECCI to accelerate
+performance, but these measures had the opposite effect of substantially impeding
+ECCI’s ability to perform. The government allegedly slow-rolled ECCI’s efforts to
+implement the austere design standards contained in the contract, only partially
+implementing them in May of 2012 after it was too late to realize most of the time saving
+benefits the standards could have afforded. And, appellant contends, the government
+
+                                           47
+failed to assist ECCI in obtaining unrestricted access to the work site, thereby preventing
+ECCI from implementing double shifts or extended hours, which were necessary to
+complete the work within the original schedule. (App. br. at 95-123)
+
+         The gist of the government’s argument with respect to breach of the implied duty
+of good faith and fair dealing is that: (1) ECCI relies primarily on pre-contract actions to
+make its case, but under the applicable case law, the implied duty does not attach until a
+contract is formed; (2) a witness for the Corps testified that during his two years in
+Afghanistan, the Corps “bent over backwards” to help ECCI on this project because the
+Corps wants its contractors to succeed; (3) the implied duty cannot be used to expand a
+party’s duties under the contract, and under the contract it was clearly the contractor’s
+responsibility to comply with installation access requirements and not the government’s
+to facilitate site access; and (4) the government’s enforcement of the terms of the contract
+as awarded cannot be the basis of a claim for breach of the implied duty. (Gov’t br.
+at 117-20)
+
+         “Every contract imposes on each party a duty of good faith and fair dealing in its
+performance and enforcement.” Metcalf Constr. Co. v. United States, 742 F.3d 984, 990
+(Fed. Cir. 2014) (quoting RESTATEMENT (SECOND) OF CONTRACTS § 205 (1981)). The
+covenant of good faith and fair dealing “imposes obligations on both contracting parties
+that include the duty not to interfere with the other party’s performance and not to act so
+as to destroy the reasonable expectations of the other party regarding the fruits of the
+contract.” Centex Corp. v. United States, 395 F.3d 1283, 1304 (Fed. Cir. 2005). While
+the implied duty of good faith and fair dealing cannot expand a party’s contractual duties
+beyond those in the express contract or create duties inconsistent with the contract’s
+provisions, it “prevents a party’s acts or omissions that, though not proscribed by the
+contract expressly, are inconsistent with the contract’s purpose and deprive the other
+party of the contemplated value.” Metcalf Constr., 742 F.3d at 991 (citing First
+Nationwide Bank v. United States, 431 F.3d 1342, 1350 (Fed. Cir. 2005)). “The duty to
+cooperate is an aspect of the implied duty of good faith and fair dealing.” Agility Pub.
+Warehousing KSCP v. Mattis, 852 F.3d 1370, 1384 (Fed. Cir. 2017), (citing Precision
+Pine & Timber, Inc. v. United States, 395 F.3d 817, 820 n.1 (Fed. Cir. 2010)).
+
+        We begin our analysis by considering that USACE imposed a 365-day period of
+performance despite unanimous contemporaneous internal opinion 20 that the period of
+performance was far too short and should more appropriately have been at least 550-600
+days. While the implied duty of good faith and fair dealing does not attach before a valid
+contract is formed, “[t]his does not suggest that pre-contract actions by the government
+
+20
+     While two witnesses for the government testified at trial that they thought the 365-day
+         period of performance could have been achievable, we find the contemporaneous
+         expressions and actions of government personnel more deserving of weight.
+
+                                              48
+cannot bear on the question of whether the government has complied with its obligations
+that are eventually imposed by the contract.” Scott Timber Co. v. United States, 692 F.3d
+1365, 1372 (Fed. Cir. 2012).
+
+         The USACE engineer who conducted the BCOE review for the MP/Signal
+School project, Kevin Lynch, had previously deployed to Afghanistan twice for a total of
+four years. He termed the 365-day period of performance “NOT POSSIBLE” and stated
+that “[i]t has NEVER been done in Afghanistan.” He “strongly” suggested that a formal
+PoP analysis be done, and said “[w]e must communicate to our customer that this is not
+possible. Without a formal analysis, I would recommend no less than 540 days, or
+longer.” (Finding 35) The next day, the NWK design team lead, Michael Coates, agreed
+with Mr. Lynch, but said “we were directed to use 365 days by AEN. We will send a
+request to AEN that they consider a longer period of performance.” That request was
+never made, nor did NWK request that a formal PoP analysis be done. (Finding 36)
+
+          A formal PoP analysis was done for the sister project to MP/Signal School, the
+Group A Expansion at Camp Shaheen, which also had a 365-day period of performance.
+Philip DiSalvi, the Baker/Hill scheduler who did the analysis, also had considerable
+experience in Afghanistan. He recommended that no less than 520 days be allowed for
+construction, if arch span construction was used. (Finding 38) Frank Albert, the AEN
+engineer in Afghanistan acting as Program Manager for ANA projects, responded that
+perhaps a possible phased construction schedule delivering life support facilities first
+(Barracks, DFAC) and the remainder of the facilities later, would be more realistic but
+still deliver what USACE’s customer needed. The response he received from NWK was
+that on every project former deployed personnel commented that a 365-day schedule
+would not be met, but that NWK intended to move ahead with the 365-day PoP unless
+they received a document from CSTC-A requesting a phased or other alternative
+schedule. (Finding 39)
+
+        USACE/NWK proceeded to advertise the MP/Signal School and Group A
+Expansion projects with a period of performance of 365 days, knowing that the 365 days
+was likely not achievable. Even assuming three civil crews working simultaneously, in
+two 10-hour shifts per day, with six arch span forming machines and six experienced arch
+span crews, Mr. DiSalvi was unable to bring the projected construction duration for the
+Group A project down to 365 days. NWK was also aware that the ANA commander at
+Camp Shaheen would not allow two 10 hour shifts. (Findings 40-42) None of this
+information was disclosed to potential offerors.
+
+      ECCI, on the other hand, thought that the schedule was aggressive but achievable
+because it believed, based on what it heard from USACE in meetings in late 2010, that
+USACE was committed to achieving accelerated construction in Afghanistan (finding 47).
+ECCI had experience with, and had successfully executed, accelerated construction in
+Afghanistan on Air Force projects (findings 43-44). While preparing ECCI’s proposal, its
+
+                                           49
+personnel had access to the January 15, 2011 Program Management Plan, prepared by
+NWK, that provided guidance to follow in the solicitation and award of contracts for the
+MP/Signal School project and other construction projects intended for use by the ANA.
+This document made it clear that the “primary objective is the construction schedule,” and
+that cost and quality were secondary objectives. It also confirmed that the applicable
+design criteria required austere facilities with minimal finishes. (Finding 48) Given these
+clear and unambiguous pre-award messages from USACE, ECCI’s belief was reasonable.
+
+        Following award, despite its knowledge of the unreasonable PoP, USACE failed
+to cooperate with ECCI either to achieve the schedule, or to extend the schedule, even for
+government-caused or excusable delays during contract performance. USACE was not
+prepared to administer the contract to facilitate its stated purpose of accelerated
+construction. The USACE AED personnel charged with administering the contract did
+not appear to be aware that speed was more important than quality or cost, or even that
+the contract, by its terms, contained the February 2011 version of the austere standards
+that their customer, CSTC-A, wanted to be used to speed up construction of ANA
+facilities in Afghanistan. (Findings 62-63) Rather, the USACE contract administration
+team and the USACE design team in Kabul hesitated to implement those austere
+standards and made it clear that ECCI would have to go through a time consuming RFI
+process for each requested departure from the specifications and conceptual design
+drawings in the contract, and that they had little time to review requested changes
+(findings 57-59).
+
+        The specifications and conceptual design drawings that were in the contract were
+based on the August 2009 version of CSTC-A’s austere standards and thus were already
+outdated by the time that USACE publicized its commitment to accelerated construction
+in late 2010 and the updated austere standards came out in February 2011 (finding 54).
+USACE’s insistence that ECCI adhere to the conceptual designs rather than the austere
+design standards in the contract was directly contrary to the purpose of the contract.
+USACE’s customer, CSTC-A, wanted the facilities ready in 365 days and issued its
+February 2011 guidance which it meant to be followed to achieve accelerated construction
+for ANSF facilities. But while USACE incorporated that guidance into the contract, it
+then ignored it or denied its existence. The government correctly asserts that its
+enforcement of the terms of the contract as awarded cannot be the basis for a claim of
+breach of the implied duty of good faith and fair dealing. But the contract as awarded
+gave USACE the flexibility to approve designs that departed from the conceptual
+drawings and specifications in ways that were not only compatible with the most recent
+guidance, but were also better suited to achieve completion in 365 days (findings 55-56). 21
+USACE chose not to do so.
+
+21
+     Even if USACE believed there was an actual conflict between the CSTC-A guidance
+         and its conceptual designs, it could have resolved that conflict by referring to the
+         contract’s Order of Precedence clause, which would have given the CSTC-A
+                                               50
+       USACE also failed to assist its contractor in gaining the unfettered access to the
+work site that was necessary if ECCI were to work the double shifts and extended hours
+necessary to achieve the schedule in the face of USACE’s failure to cooperate in allowing
+implementation of the current austere design standards. ECCI reasonably expected
+unfettered access to the work site. The work site was outside the perimeter of the base,
+and in its previous work both inside and outside the wire at Camp Shaheen, ECCI had
+experienced no restriction on access or work hours (finding 24). Following a meeting
+with the ANA commander, ECCI was confident it would be able to fully control the
+Entry Control Point (ECP) to the work site (finding 25). In addition, the Republic of
+Afghanistan had granted to the United States a Right of Entry to the work site for the
+purposes of the construction “without interruption whatsoever by the host nation or its
+agents” until transfer of the facilities by the United States to the Host Nation.
+Nevertheless, following award, the ANA commander began to impose restrictions on
+ECCI’s access to the work site that culminated in ECCI only being able to work seven
+and a half hours per day during the winter instead of the 20 hours that they had been
+prepared to work (finding 65).
+
+        USACE contract administration personnel, both COs and CORs, had the authority
+and the duty to assist contractors on issues related to site access (finding 64). During
+contract performance, in response to ECCI’s multiple notifications that their access to the
+work site was being restricted, USACE made one attempt to intervene on ECCI’s behalf,
+and then failed to pursue or to elevate the issue further (finding 66). And USACE knew
+prior to award, but did not disclose to ECCI or other offerors, that the ANA commander
+was unlikely to allow two 10-hour shifts at the work site (finding 41).
+
+       Having failed to facilitate ECCI’s access to the work site, and despite the negative
+impact of restricted access to the work site on ECCI’s ability to make progress against the
+365-day schedule through double shifts and extended hours, (findings 68-69), USACE
+refused throughout contract performance to grant relief from that schedule, either for
+government-caused and excusable delays, or in recognition that the original schedule was
+unrealistic—as urged by its professional scheduler (findings 70-71). Rather, USACE
+withheld funds, issued and published interim unsatisfactory performance ratings, and
+assessed liquidated damages against ECCI (findings 72-75).
+
+       We conclude that by advertising its intent to implement accelerated construction
+and austere design standards on the MP/Signal School project, and then administering the
+contract in a manner at odds with its stated purpose, USACE breached the covenant of
+good faith and fair dealing. USACE’s failure to cooperate in achieving the schedule by
+
+       guidance precedence (as a referenced publication) over both specifications and
+       drawings (finding 6).
+
+                                            51
+implementing the current austere design standards, or by facilitating ECCI’s access to the
+work site, deprived ECCI of the contemplated value of the contract. USACE’s refusal to
+grant reasonable time extensions during performance, and its interim unsatisfactory
+performance ratings, withholding of funds, and assessment of liquidated damages had the
+punitive effect of forcing ECCI to try to accelerate to meet an unreasonable completion
+date. ECCI is entitled to recover its damages flowing from this breach.
+
+Entitlement—Superior Knowledge
+
+        ECCI’s third theory of recovery is under the doctrine of superior knowledge.
+ECCI asserts that USACE had superior knowledge that it withheld from ECCI, including
+that its professionals with knowledge of USACE projects in Afghanistan were unanimous
+that the project could not be completed within 365 days without providing the contractor
+with “full designs,” which were not provided. ECCI was also unaware that USACE’s
+scheduling consultant had recommended a PoP of 541 days to complete the comparable
+Group A Expansion project, which he concluded could be achieved within 382 days only
+by having three civil crews working simultaneously and working double 10-hour shifts.
+ECCI believed, based on prior experience and its meeting with the ANA commander, that
+its access to the work site, outside the perimeter of Camp Shaheen, would be unrestricted.
+However, USACE possessed knowledge that the ANA commander would be unlikely to
+allow two 10-hour shifts, and this was never disclosed in the solicitation. Finally, ECCI
+was unaware that despite its apparent desire to speed up construction in Afghanistan,
+USACE was entirely unprepared to make it happen. ECCI contends these facts would
+have been critical to ECCI’s decision to bid, but while they were discussed internally by
+USACE, they were not made public in the procurement process. (App. br. at 123-30)
+
+        The government asserts that there is nothing in the record that supports a finding
+that the government withheld superior knowledge. Specifically, the government argues
+that appellant had years of experience working with USACE, and cannot reasonably
+claim that it was not in a position to know that USACE had no experience administering
+contracts in the way the Air Force had in order to achieve an accelerated schedule.
+Appellant was familiar with the way in which USACE administered contracts in
+Afghanistan. USACE contends it did not withhold knowledge that the contract was
+impossible to perform in 365 days; and there were no internal, “confidential” conclusions
+that the contract would be impossible to perform in 365 days. (Gov’t br. at 115-17)
+
+       The doctrine of superior knowledge is generally applied to situations where (1) a
+contractor undertakes to perform without vital knowledge of a fact that affects
+performance costs or duration, (2) the government was aware that the contractor had no
+knowledge of and had no reason to obtain such information, (3) any contract specification
+supplied misled the contractor, or did not put it on notice to inquire, and (4) the
+government failed to provide the relevant information. Hercules, Inc. v. United States,
+24 F.3d 188, 196 (Fed. Cir. 1994); Scott Timber, 692 F.3d at 1373.
+
+                                            52
+       USACE’s pre-award BCOE provided it with the knowledge that 365 days was
+highly unlikely to be enough time, and a period more like 550 to 600 calendar days
+would likely be necessary to perform the contract. USACE was aware that ECCI did not
+possess this knowledge, since it was only discussed internally. (Findings 35-36) USACE
+was also aware that a period of performance of no less than 520 days had been
+recommended for the sister project at Camp Shaheen, the Group A Expansion. USACE
+knew that the only realistic prospect of shortening the period of performance involved
+working two 10-hour shifts throughout most of the period of performance (finding 40).
+Yet USACE also knew that this would likely not be allowed (finding 41). ECCI and the
+other bidders were not privy to USACE’s knowledge of these vital facts, USACE knew
+they did not know, and USACE failed to provide the information to them.
+
+       ECCI was misled by the contract terms and USACE’s expressed intent to engage
+in accelerated construction to believe that USACE would implement the February 2011
+austere design standards and administer the contract so as to facilitate accelerated
+construction, and that the contract could therefore be performed in 365 days. USACE
+knew, but did not disclose, that it was unprepared to implement the February 2011
+austere design standards, or to take any other measures to facilitate accelerated
+construction which were necessary to meet the 365-day PoP.
+
+       USACE’s unwillingness to allow implementation of the February 2011 austere
+design standards required ECCI to perform costly and time consuming work that was not
+required under those standards, including the fabrication and installation of concrete stem
+walls for the arch span buildings, the framing and fireproofing of interior partitions
+instead of being able to use sandwich panels, and the installation of a thermal barrier over
+the polyurethane insulation instead of leaving it exposed (findings 53, 58, 63). ECCI
+believed it could have overcome this setback by applying enough resources to the project,
+most importantly working double ten hour shifts and extended shifts, to meet the original
+completion date. But then the ANA commander restricted access to the work site and
+effectively blocked the ability to work double shifts or even extended hours during a
+good part of the year, an action which USACE expected but did not warn ECCI about,
+and which ECCI had no reason to expect based on its past experience at Camp Shaheen.
+(Findings 65-69)
+
+       Finally, despite its undisclosed internal knowledge that the original period of
+performance was unrealistically short, and that it was unprepared to facilitate accelerated
+construction, USACE refused to grant reasonable time extensions during performance
+and engaged in punitive measures such as withholding funds, issuing unsatisfactory
+interim performance evaluations, and assessing liquidated damages against ECCI, all of
+which had the effect of making performance even more difficult and increasing the time
+and cost of performance (findings 70-76).
+
+
+                                            53
+       We thus conclude that USACE breached its duty to disclose superior knowledge,
+and that ECCI is entitled to recover the damages caused by that breach.
+
+         III. The DBA Premium Claim, ASBCA No. 60283
+
+       With respect to ECCI’s cost of DBA premiums for its own account, we have
+resolved the sole factual issue—whether or not USACE double-recovered a premium
+refund of $64,283 by also reducing the contract price and payments to ECCI by the same
+amount—in ECCI’s favor (finding 85). There are no legal issues associated with these
+premium costs. Therefore, it is a matter of arithmetic. ECCI paid DBA premiums during
+contract performance on its own account totaling $161,241. Of that amount, $13,189 was
+used by the insurer to offset other amounts owed by ECCI. Therefore, the net amount of
+premiums paid by ECCI on its own account was $148,052. USACE has already received
+the benefit of the other downward adjustment of $64,283, which was refunded to
+USACE. (Finding 82) By decreasing the contract price by $64,283 and reducing
+payments to ECCI by that amount, USACE reduced its initial payment of $159,952 by
+$64,283 to a payment of $95,669 (findings 84-85). Thus, for ECCI’s DBA premium
+payments on its own account, the government owes ECCI the sum of $52,383.
+
+       ECCI also reimbursed its subcontractors for their DBA premiums which were
+included in their subcontracts’ firm-fixed prices (finding 81). We have previously found
+these DBA premiums to total $62,244 (finding 82). For the two subcontractors who
+underwent reconciliation and had their premiums adjusted downward, USACE has
+already received the benefit of that downward adjustment in the form of a refund of
+$6,635 (finding 81).
+
+        ECCI contends that the terms of the contract are clear: the government promised
+to pay based on the amount of the insurer’s invoice, stamped “paid,” which was to be
+submitted by the contractor after award (app. br. at 223). The contract further specified
+that, “in the event of recalculation of the premium by CNA, based on actual payroll
+amounts, the contracting officer will adjust [the contract CLINs] by contract modification
+to reflect the actual premium amounts paid (finding 77).” 22 ECCI has documented the
+amounts paid in DBA premiums ($148,052 for ECCI and $62,244 for its subcontractors),
+and USACE does not contest that the costs were incurred and paid. USACE originally
+paid the full amount of the estimated premiums, but subsequently reduced the price of
+
+22
+     The Board notes that this adjustment mechanism would have worked just fine if the
+         contractor had received the refund. However, subsequent to award of the contract,
+         the SIGAR report came out and USACE insisted on receiving the refunds directly
+         from CNA. In the case of any refund directly received, a downward price
+         adjustment in the amount of the refund, without a corresponding credit to the
+         contractor, would have worked a double recovery for the government, as it did in
+         this case.
+                                             54
+CLIN 0002 of the MP School contract by $64,283, the amount of the refund it received
+directly from the insurer, and reduced its payments for CLIN 0002 accordingly. Thus,
+USACE has reduced its total payment to ECCI for DBA premiums to $95,669, and still
+owes ECCI $114,627. (App. br. at 22325)
+
+         USACE maintains that under FAR Part 31, which it contends applies to the
+determination of allowable cost under the DBA insurance contract CLINs 0002 and 0004,
+it is required to ensure that the costs of the contract are reasonable and adequately
+supported. Since the basis of the DBA premiums was the subcontractor’s labor cost,
+without records showing subcontractor labor expenditures, USACE says it has no way of
+knowing whether all or part of the premium paid by the subcontractor was necessary to
+provide coverage for the actual labor force under the contract and was therefore
+reasonable (gov’t br. at 142-45).
+
+       ECCI counters that USACE has not established the applicability of FAR Part 31 to
+the determination of cost under the DBA insurance CLINs. FAR 31.000 states that
+Part 31 contains cost principles and procedures for: (a) “the pricing of contracts,
+subcontracts, and modifications to contracts and subcontracts whenever cost analysis is
+performed (see 15.404-1(c)” and (b) “the determination, negotiation, or allowance of
+costs when required by a contract clause” (emphasis added). ECCI points out that
+USACE has not identified a clause in the MP/Signal School contract that requires that
+allowable costs be determined in accordance with FAR Part 31, nor has it argued that cost
+analysis was performed in connection with the pricing of any part of the contract (app.
+reply at 131).
+
+       USACE responds that ECCI is reading FAR 31.000 too restrictively, and that it
+does not mean that the contract must contain a clause that requires the determination,
+negotiation, or allowance of contract costs “in accordance with FAR Part 31,” but rather
+that FAR Part 31 applies whenever the contract contains a clause that requires the
+determination, negotiation, or allowance of costs (gov’t reply at 25-26).
+
+      We conclude that ECCI has the better argument. The MP/Signal School contract
+was advertised and awarded as a firm-fixed price contract. It contains the clauses
+normally found in a firm-fixed price construction contract. 23 Had it been a cost
+reimbursement contract, it presumably would have contained FAR 52.216-7,
+ALLOWABLE COST AND PAYMENT (DEC 2002), as prescribed by FAR 16.307(a).
+The Allowable Cost and Payment clause specifically conditions the reimbursement of
+
+23
+     These clauses included FAR 52.232-5, PAYMENTS UNDER FIXED-PRICE
+         CONSTRUCTION CONTRACTS (SEP 2002); FAR 52.249-10, DEFAULT
+         (FIXED-PRICE CONSTRUCTION) (APR 1984); and FAR 52.249-2
+         TERMINATION FOR CONVENIENCE OF THE GOVERNMENT (FIXED-
+         PRICE) – ALTERNATE I (SEP 1996). (R4, tab 11 at GOV000327)
+                                           55
+costs incurred by a contractor in performing the contract on a determination by the
+contracting officer that the costs are allowable in accordance with the terms of the
+contract and FAR Subpart 31.2. Thus, it is an example of a contract clause requiring the
+application of Subpart 31.2 in determining allowable costs. However, the MP/Signal
+School contract did not contain this clause, or any other contract clause incorporating the
+requirements of FAR Part 31.
+
+       Significantly, the government’s argument, if accepted, would mean that FAR
+Part 31 would apply to a contract despite the absence of any actual contract clause
+incorporating FAR Part 31 and its requirements into the contract. If that were the intent
+of FAR 31.000, it could simply state that the FAR Part 31 cost principles apply to the
+“determination, negotiation and allowance of costs” under all contracts. But it does not
+say this. It adds the qualifier “when required by a contract clause.” Thus, we cannot
+accept the government’s proffered reading of FAR 31.000 because it nullifies these
+qualifying words in the regulation.
+
+       Additionally, we cannot accept the government’s argument because the contract
+gave no notice that FAR Part 31 cost principles would be applied in determining the
+amount of DBA insurance costs that would be reimbursed. For the contract’s two CLINS
+for DBA insurance, the CLINs themselves informed the contractor how DBA insurance
+costs would be reimbursed—the actual amount paid by the government would be
+determined by the amount shown on the insurance company’s invoice. This amount was
+subject to adjustment by contract modification “[i]n the event of recalculation of the
+premium . . . based on actual payroll amounts.” (Emphasis added) (Finding 77) No other
+circumstance allowing for adjustment of the amount paid was stated. Moreover, there
+was no requirement for contractors or subcontractors to maintain or submit actual payroll
+records to the insurance company and go through the reconciliation process to be
+reimbursed. USACE may have intended for this to happen, but it did not require it in the
+contract, and we will not read it into the contract after the fact.
+
+       Accordingly, we sustain ECCI’s DBA premium appeal. The sum owed to ECCI
+by the government for DBA premiums paid, in accordance with the terms of the contract,
+is $114,627, plus Contract Disputes Act interest on that amount from the date of claim
+submission, January 14, 2015, to the date of payment.
+
+
+                                            56
+                                    CONCLUSION
+
+       ASBCA Nos. 58993 and 60167 are sustained, and are returned to the parties for
+determination of quantum. ASBCA No. 60283 is sustained in the amount of $114,627
+plus Contract Disputes Act interest.
+
+       Dated: February 24, 2022
+
+
+                                                 LYNDA T. O’SULLIVAN
+                                                 Administrative Judge
+                                                 Armed Services Board
+                                                 of Contract Appeals
+
+ I concur                                         I concur
+
+
+ RICHARD SHACKLEFORD                              OWEN C. WILSON
+ Administrative Judge                             Administrative Judge
+ Acting Chairman                                  Vice Chairman
+ Armed Services Board                             Armed Services Board
+ of Contract Appeals                              of Contract Appeals
+
+
+                                          57
+                         APPENDIX-- Glossary of Acronyms
+
+        Appeals of ECC International, LLC, ASBCA Nos. 58993, 60167, 60283
+
+
+ABM—Automatic Building Machine
+ACO—Administrative Contracting Officer
+AED—Afghanistan Engineer District-North
+AEN—Afghanistan Engineer District-North
+ANA—Afghan National Army
+ASTM—American Society for Testing and Materials
+BCOE--Biddability, Constructability, Operability and Environmental
+CCASS—Construction Contractor Appraisal Support System
+COR—Contracting Officer’s Representative
+CSTC-A—Combined Security Transition Command-Afghanistan
+DBA—Defense Base Act
+ECP—Entry Control Point
+LSA—Logistic Support Area
+MATOC—Multiple Award Task Order Contract
+NAVFAC—Naval Facilities Engineering Command
+NTM-A—NATO Training Mission-Afghanistan
+NTP—Notice to Proceed
+NWK—Kansas City District, USACE
+PDT—Project Delivery Team
+PMP—Project Management Plan
+PoP—Period of Performance
+RFI—Request for Information
+SIGAR—Special Inspector General for Afghanistan Reconstruction
+TO—Task Order
+UBM—Ultimate Building Machine
+USACE--United States Army Corps of Engineers
+
+
+                                         58
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA Nos. 58993, 60167, 60283,
+Appeals of ECC International, LLC, rendered in conformance with the Board’s Charter.
+
+      Dated: February 25, 2022
+
+
+                                              PAULLA K. GATES-LEWIS
+                                              Recorder, Armed Services
+                                              Board of Contract Appeals
+
+
+                                         59

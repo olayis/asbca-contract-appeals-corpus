@@ -1,0 +1,1095 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeals of --                               )
+                                            )
+Lockheed Martin Services, Inc.              )      ASBCA Nos. 58028, 58794
+                                            )
+Under Contract No. MDA220-0l-D-0002         )
+
+APPEARANCE FOR THE APPELLANT:                      Joseph J. Dyer, Esq.
+                                                    Seyfarth Shaw LLP
+                                                    Washington, DC
+
+APPEARANCES FOR THE GOVERNMENT:                    Regina M. DelaRosa, Esq.
+                                                   April M. Breck, Esq.
+                                                    Trial Attorneys
+                                                    Defense Finance & Accounting Service
+                                                    Indianapolis, IN
+
+                 OPINION BY ADMINISTRATIVE JUDGE CLARKE
+
+       Lockheed Martin Services, Inc. (LMSI), appeals from the Defense Finance
+& Accounting Service (DFAS) contracting officer's (CO's) decisions denying LMSI's
+claim for $1,140,462.56 in additional costs and asserting DFAS' claim demanding the
+return of a license fee of $799,089.39. We have jurisdiction pursuant to the Contract
+Disputes Act of 1978 (CDA), 41 U.S.C. §§ 7101-7109. We sustain LMSI's appeals.
+
+                                 FINDINGS OF FACT
+
+       1. DFAS awarded Contract No. MDA220-0l-C-0002 (Contract 0002), effective
+28 September 2001, to ACS Government Solutions Group, Inc. (ACS), for the
+performance of the Defense Retired/Annuitant Pay System (DRAS) (R4, DVD-A,
+tab C-0002 at PDF 1 of 189). On 13 March 2006 the contract number was changed to
+MDA220-01-D-0002 (R4, DVD-A, tab D-0002 at PDF 1 of 259).
+
+       2. Contract section C, Description and Specifications, Performance Work
+Statement (PWS) (R4, DVD-A, tab C-0002 at PDF 31, 85 of 189), includes the following
+relevant paragraphs:
+7.0 GOVERNMENT-FURNISHED PROPERTY AND
+SERVICES
+
+7.1 Government Furnished Property and Services
+The government will provide the property, facilities,
+materials, and services described in Section J-4 and
+proposed by the contractor. The contractor shall maintain
+accountability of all accepted Government property and
+shall comply with all applicable policy and guidance
+regarding its use.
+
+
+7.1.2 Defense Retired/Annuitant Pay (DRAS) Automated
+Information System (AIS)
+If the contractor uses the Government-furnished DRAS
+AIS, the DRAS software technical data rights thereto, and
+data files, as updated, shall be returned to DF AS at the
+completion of the performance period.
+
+7.1.3 Facilities
+          The government will provide the facilities
+      described in Section J .4 and proposed by the
+      contractor in the current "where-is/as is"
+      configuration. The Contractor will utilize, to the
+      extent possible and most efficiently to DFAS, the
+      existing facilities, equipment and software ofDFAS.
+      Government furnished facility space will remain
+      subject to space allocation policies prescribed in
+      applicable property management regulations ....
+
+
+7.1. 4 Equipment
+            The government will provide the
+       "where-its/as-is" equipment listed in Section J-4.
+       The contractor shall be responsible for all
+       maintenance, repair, and replacement of all accepted
+       government equipment. The contractor shall
+       maintain custody of the material and return the
+       material to the government at the end of its useful
+       life or at the termination of the contract.
+
+
+                             2
+             8.0 Contractor-Furnished Services and Materials
+             If the contractor uses an AIS other than DRAS, the
+             contractor shall make available to DFAS, or its agents,
+             licenses for continued use of the AIS following the
+             expiration or termination of the contract. Such license
+             shall be made available at the most favorable terms, prices,
+             and conditions provided to any other customer of the
+             contractor. The contractor is responsible for providing all
+             property, materials, and services except as provided in
+             Section J-4.
+
+(R4, DVD-A, tab C-0002 at PDF 46-4 7 of 189)
+
+       3. Contract section H - Special Contract Requirements, contains the following
+relevant clauses:
+
+             H.8 REFRESH OF DEFENSE RETIRED/
+             ANNUITANT PAY SYSTEM TECHNOLOGY
+
+             If the contractor proposes the Defense Retired/Annuitant
+             Pay System (DRAS) to perform the requirements and
+             during performance determines it is more efficient to
+             refresh the DRAS technology and change the system
+             configuration, the contractor shall submit a proposal to the
+             contracting officer for consideration. The contracting
+             officer and contractor shall negotiate the terms and
+             conditions of the agreement and process the change as a
+             contract modification. Refresh of DRAS Technology is not
+             considered to be routine or normal maintenance to sustain
+             system operability.
+
+
+             H.10 VENDOR PROPRIETARY TECHNOLOGY
+
+             The contractor shall (a) obtain prior written approval from
+             the Contracting Officer Representative (COR) prior to
+             using contractor or third party proprietary technology to
+             perform the services; and (b) provide, upon the
+             Government's request, at no additional cost, a perpetual,
+             irrevocable, non-exclusive, world-wide, royalty-free
+
+
+                                          3
+               license to install, use, copy, modify and incorporate into
+               DFAS' proprietary and licensed systems, any of the
+               contractor and third party proprietary technology that the
+               contractor used in providing services to DFAS; provided
+               that clause (b) will not apply to software, code or
+               modifications which are generally commercially available
+               on reasonable terms.
+
+(R4, DVD-A, tab C-0002 at PDF 58, 61-62of189)
+
+       4. Contract section J -List of Documents, Exhibits, and Other Attachments,
+includes the following:
+
+                                       Section J.4
+
+                  GOVERNMENT-FURNISHED PROPERTY AND
+                              SERVICES
+
+
+               J.4.3. GOVERNMENT-FURNISHED EQUIPMENT
+               (GFE). If the contractor proposed to utilize specific items
+               of GFE, the government will furnish and/or make available
+               items described in the contractor's technical proposal in an
+               "as is, where is" condition. The contractor's proposal's
+               description of specific items of GFE is incorporated
+               herein.CI]
+
+               J.4.3.1. REPLACEMENT OF
+               GOVERNMENT-FURNISHED EQUIPMENT. Should
+               any item of government-furnished equipment require
+               replacement, the contractor shall be responsible for such
+               replacement at no cost to the government.
+
+               J.4.3.2. GFE INVENTORIES. In conjunction with the
+               transfer of responsibility for pay services operations during
+               the base period of the contract, specific items of govemment-
+               furnished equipment will be jointly inventoried. A joint GFE
+               inventory will be accomplished during each contract option
+
+1
+    The proposal lists only Cleveland and Denver facilities with "equipment" "existing
+        property as is" (R4, tab 66 at 0998).
+
+
+                                            4
+               period, and a final joint inventory will be made upon contract
+               termination or expiration of any contract period during which
+               the contractor has not received notice of exercise of a contract
+               option ....
+
+              J.4.3.3. GFE MAINTENANCE. The government will
+              not maintain or repair GFE. All GFE is provided on an "as
+              is, where is" basis. The contractor shall be responsible for
+              maintenance of Government-Furnished equipment for its
+              useful life.
+
+              J.4.3.4. REPLACEMENT OF GFE. The government
+              will not replace GFE; GFE is offered on a one-time, "as is,
+              where is" basis at the outset of contract performance. If
+              GFE items require replacement the contractor shall be
+              responsible for such replacement at no cost to the
+              government.
+
+
+              J.4.5. USE OF GFE, GFP,l21 AND GFS. Use will be
+              limited to that required for the performance of tasks in
+              the PWS.
+
+              J.4.6. LIST OF PROPERTIES, FACILITIES,
+              MATERIALS AND SERVICES OFFERED BY THE
+              GOVERNMENT
+
+                    GOVERNMENT FURNISHED PROPERTY
+
+              DRAS Automated Information System
+
+              [List of DRAS hardware and software omitted]
+
+(R4, DVD-A, tab C-0002 at PDF 106-09 of 189)
+
+Mail Imaging Routing and Optical Reporting System
+
+      5. Prior to Contract 0002 DFAS performed the DRAS function itself using
+government-owned hardware and software known collectively as the Mail Imaging
+Routing and Optical Reporting System, "MIRORS." In its 23 January 2001 proposal for
+
+2
+    Government-Furnished Property (R4, DVD-A, tab C-0002 at PDF 81 of 189).
+
+                                            5
+this contract ACS stated it planned to replace MIRORS with ACS Intelligent Queue (IQ)
+(supp. R4, tab 67 at 1155). ACS explained that replacing MIRORS with ACS IQ would
+result in a net savings from a reduction in staff (id.). After contract award, DFAS
+provided ACS Government-Furnished Equipment in the form of computers, data bases
+and the MIRORS system. MIRORS converted incoming mail to digital images and
+distributed them within ACS as needed. (Tr. 1/34) ACS commenced performing using
+MIRORS. When ACS started performing, MIRORS was ten years old and it was
+recognized that it was behind current technology (tr. 1/36). MIRORS hardware
+experienced increasing failures and the manufacturer of the "SAN tower," Hewlett
+Packard, would no longer provide maintenance (tr. 1137).
+
+       6. Both parties agree that the contract did not require that ACS replace MIRORS
+(gov't reply br. at 2; app. br. at 4). By letter dated 29 April 2003 to Ms. Kleinknecht,
+DF AS contracting officer, ACS stated it intended to replace the MIRO RS with a new
+system using the latest technology. ACS stated:
+
+              It is our intent to attach a Functional Requirements
+              Document ("FRD") of the high-level requirements for the
+              MIRORS, upon DFAS' concurrence as required by section
+              H.5 of the prime contract. A copy of the FRD is provided
+              for your review and approval.. ..
+
+
+             ACS will submit a detailed proposal to DFAS, in
+             accordance with Section H.8, to negotiate the terms and
+             conditions for data transfer, use and licenses to third party
+             software, continuity of services, and ownership of the
+             system at contract termination.
+
+(R4, tab 69 at 1258) The record does not contain evidence of a response to this letter by
+CO Kleinknecht or anyone else at DFAS (tr. 1/44). Both parties agree that ACS asked
+DFAS if it would pay for the development of the MIRORS replacement and DF AS
+refused (gov't reply br. at 2; app. br. at 5; tr. 1142; gov't ex.Cat 2264-65).
+
+       7. By email dated 6 May 2003, at DFAS' request, ACS sent CO Kleinknecht a
+copy ofa draft MIRORS System Replacement Statement of Work (SOW). The SOW
+explained that the MIRORS system was "eleven years old and the hardware and software
+are obsolete." (R4, tab 70 at 1335, 1337)
+
+        8. LMSI purchased ACS in early 2004 (tr. 1133, 38). LMSI determined that ACS'
+IQ system would not work as a replacement for MIRORS and decided to develop its own
+(tr. 1158-60). By letter dated 1 June 2004 Mr. Vittori, LMSI's contracts administrator,
+
+
+                                           6
+notified Mr. Peter Joyce, DFAS contract specialist, that LMSI intended to replace
+MIRORS with an internal LMSI Corporation product, with terms and conditions to be
+addressed later (tr. 11130-32; R4, tab 71 at 1344). The replacement was based on the
+E-STARS system that was customized for the retired and annuitant pay system (tr. 1138).
+E-STARS was an integrated system that used third party software "knitted together" using
+LMSI proprietary code (tr. 1144-45). The replacement system was referred to as "RAPID"
+(tr. 1141). LMSI began transitioning to RAPID in December 2004 (tr. 1/50). In the letter
+Mr. Vittori refers to ongoing discussions between LMSI and DF AS and a presentation "on
+E*Stars that will address functional capabilities, DRAS interface approach, and requisite
+terms and conditions" (R4, tab 71 at 1344). DFAS' refusal to pay for the replacement of
+MIRORS and the fact that MIRORS was failing "drove LM to define and purchase a
+replacement, entirely funded by LM" (gov't ex.Cat 2264). RAPID software was never
+added to the contract by modification (id. at 2265).
+
+       9. By email dated 26 July 2004 to Mr. Joyce, Mr. Vittori wrote:
+
+             FYI- major issue with MIRORS. We cannot process
+             work unless it is manual. We are accessing situation and
+             will be back in touch with risk mitigation. Debra has been
+             briefed by Jim. We are expediting the E*Stars as fast as
+             possible. I likely will be asking for relief on J-1 measures
+             if the situation with this GFE system does not improve
+             quickly.
+
+(R4, tab 76 at 1388)
+
+       10. By internal DFAS email dated 6 August 2004, Mr. Joyce wrote:
+
+             The original contract assumed this happening (ACS
+             proposed later in the contract life to provide a replacement,
+             its "ACS Intelligent Queue (IQ)sm" system, and from my
+             conversations with LMGS it will be a cost they pick up in
+             full. There is a caveat in a sense that when we get to the
+             end of the contract and ifLMGS is not awarded the follow
+             on there may be a need to purchase usage rights to the
+             E-Stars replacement, but really that would depend on how
+             a follow on might be worded.
+
+(R4, tab 78 at 1391) Later that same day Mr. Joyce sent out another internal email
+where he wrote:
+
+             This is really representative of the problem with this
+             contract. I'd think that those managing it as CORs and
+
+
+                                           7
+              COTRs would be monitoring situations such as this so if it
+              came to be (as it has here), that we had a system that was
+              simply breaking down due to age (the hardware
+              replacements are no longer manufactured) that we would
+              have a few options, or would have thought about a few
+              options. But since we are spending so much time on
+              repetitive oversight and because we believe "where is - as
+              is" also means "if it is falling apart it[']s not our problem
+              now" we end up with this scenario. There is absolutely no
+              foresight, no vision, no thought as to what might happen
+              tomorrow. I'd really liked to have had a better idea of how
+              bad this was.
+
+(R4, tab 78 at 1391)
+
+       11. Appellant's RAPID system received all of its required approvals and was
+implemented in December 2004 (R4, tab 89 at 1441, see also tab 53 at 590). Mr. Vittori
+was asked on cross-examination if "RAPID is generally commercially available upon
+reasonable terms" and he responded, "No" (tr. 1/208). Mr. Vittori testified that to his
+knowledge, RAPID has not been sold to third parties (id.).
+
+DFAS Decides to Bring DRAS Back In-House
+
+        12. In about April 2009 DF AS decided not to exercise any remaining contract
+options and to return to performing the pay services itself (tr. 1/131). It exercised contract
+line item number (CLIN) 0052, Transition Out Period (R4, DVD-A, tab D-0002 at PDF
+101 of259), and asked LMSI for a transition plan (R4, tab 92 at 1511). By email dated
+11August2009, Mr. Vittori submitted a revised proposal for contract transition (tr. 1/132;
+R4, tab 10). LMSI proposed a price of$3,074,514.15 for RAPID as follows:
+
+             Part 3- RAPID
+
+                               RAPID Baseline Value $1,513,132.92
+                RAPID Third Party Software-UPDATE $ 341,094.04
+                           RAPID Hardware-Refresh $ 694, 781.22
+                                Enhancements to Base $ 525,505.97
+                                         SUBTOTAL $3,074,514.15
+
+(R4, tab 10 at 144)
+
+       13. By email dated 2 September 2009 to Mr. Miller, DFAS contract specialist,
+Mr. Vittori provided a licensing agreement, dated 28 October 2002, between LMSI and
+Fluor Hanford, Inc. (Hanford), to explain "the parameters related to ownership and
+
+
+                                            8
+development ofE-Stars" (R4, tab 15 at 197, 200). The license provides that the
+Department of Energy (DOE) owns the copyright to E-STARS and that Hanford, acting as
+DOE's agent, grants to LMSI "a nontransferable, exclusive license to copy, market,
+distribute and service E-STARS for commercial purposes" (id. at 200). The license
+specifically provides that DOE retains ownership ofE-STARS but that LMSI retains
+ownership of"derivative works including improvements, additions and/or upgrades to
+E-STARS" developed by LMSI at its private expense (id. at 200-01).
+
+DFAS Requests DCAA Audit
+
+       14. DFAS requested a DCAA audit ofLMSI's transition proposal. By email
+dated 8 September 2009 to Ms. Clark, DCAA, Mr. Miller, DFAS, stated:
+
+               Just to clarify, the request [for audit] only pertains to part 3
+               of the proposal, not the entire proposal. Specifically,
+               DFAS is trying to ascertain that LM is only proposing the
+               costs to develop RAPID and has not included profit. The
+               costs to develop RAPID are allowable according to clause
+               H.10 below.
+
+(R4, tab 16 at 204) Mr. Miller was stating DFAS' interpretation ofH.10 at that time
+(tr. 2/196). CO Minnich, DFAS (tr. 2/115), agreed with this email and explained that he
+interpreted the words "at no additional cost" in H.10 to allow for the payment of the cost to
+develop RAPID and then DFAS would have the right to a no-cost license (tr. 2/137-38).
+CO Minnich was persuaded that LMSI had not billed nor been paid for the development of
+RAPID (id.). CO Minnich would not allow profit because H. l 0 used the term "costs" and
+cost does not include profit (tr. 2/139). Mr. Vittori also recalled that CO Minnich believed
+that LMSI's cost to develop RAPID was allowable (tr. 1/142-43). CO Minnich did not
+consider H.8 when arriving at his first interpretation ofH.10 because RAPID was not part of
+DRAS (tr. 2/189).
+
+Tentative Agreement on Price for RAPID
+
+       15. Mr. Vittori recalled a 20 October 2009 meeting he attended with
+Mr. Jim Egeland, LMSI program manager, Mr. Doug Smith, DFAS project office lead, and
+CO Miller, 3 DFAS (by phone) (tr. 1/137-38). CO Miller recalled the 20 October 2009
+meeting/conference call and testified that Mr. Smith and Mr. Egeland started "haggling"
+over the purchase price for RAPID and agreed on $2.6M. CO Miller did not participate in
+the "haggling" and agreement on price. He did not agree to the price. (Tr. 2/196-98) At
+the end of the meeting CO Miller stated that DFAS would have to provide information that
+
+3
+    Sometime before this meeting Mr. Miller was apparently elevated from contract
+       specialist to contracting officer.
+
+                                              9
+would allow him to determine that the $2.6M was fair and reasonable (tr. 2/200).
+Mr. Vittori testified that the $2.6M was less than LMSI's proposal and did not include profit
+(tr. 11139). He also recalled CO Miller added the caveat about reasonableness at the end of
+the meeting (tr. 11139-40). He testified that the $2.6M included the initial development,
+enhancement, third party software and hardware, what he referred to as "one bundled price"
+(tr. 11140).
+
+The 20 November 2009 DCAA Audit
+
+        16. The results ofDCAA's 20 November 2009 audit were summarized as
+follows:
+                                                   Unsupported
+                           Proposed    Questioned      Costs     Difference
+Element of Cost              Costs       Costs       (Note 2)     (Note 1)            Notes
+Enhancements (Labor)      $ 255,319   $            $             $ 255,319              3
+Other Direct Costs:
+  Original Investment      1,276,608    911,727                     364,881             4
+  Third Party Software       287,776                    31,617      256,159             5
+  Hardware Refresh           586,177                    43,136      543,041             5
+Material                     543,746                  543,746                           6
+Overhead                     168,766                                168,766             7
+Subtotal                  $3,118,392  $ 911,727    $ 618,499     $1,588,166
+Product Line Works-Civil      28,321     10,029                      18,292             8
+Total Cost Input          $3,146,713  $ 921,756    $ 618,499     $1,606,458
+G&A                           171,275        62,877                         108,398     9
+Total Costs                $3,317,988     $ 9842633      $ 618A92        $127142856
+Profit                        300,272                                                   10
+Total Price (FFP)          $326182260
+
+
+(R4, tab 29 at 272) There are differences between the numbers in the transition proposal,
+part 3 (finding 12), and the above table that are not explained in the record. We use the
+numbers in the audit, which we consider the most accurate.
+
+        17. Ms. Clark, DCAA lead auditor (tr. 11210), explained that "[q]uestioned
+costs" are costs that DCAA received evidence for, but not enough for DCAA to "say
+[the] costs were okay" (tr. 11221). Unsupported costs are costs for which DCAA did not
+receive any supporting evidence (id.).
+
+       18. Exhibit Bis LMSI's cost proposal that was audited by DCAA (tr. 1186-87).
+Exhibit B includes an amortization table that identifies monthly payments totaling
+$2,300,624 spread over June 2005 through November 2011 charged to project code
+
+
+                                          10
+DFFROD 4 (gov't ex.Bat 2155). Mr. Jablonowski testified that the $2,300,624 "was the
+original cost of RAPID done by the Hanford site" (tr. 1/73). The monthly amortization
+amounts between June 2005 and November 2011 were payments out ofLMSI's profit on
+Contract 0002 to pay for the $2,300,624 original development cost of RAPID done at
+Hanford (tr. 1/73-74; gov't ex.Bat 2155). The $1,276,607.89 listed in the audit was
+calculated by subtracting the $1,024,016 value of items "that were not in service and use in
+operation" from the $2,300,624 original cost of RAPID (tr. 1/75; gov't ex.Bat 2003).
+
+        19. Ms. Clark testified she looked at the labor charged to RAPID between 2004
+and 2009 that is summarized on exhibit Bat page 2134 (tr. 1/223). Contrary to
+Ms. Clark's testimony, Mr. Jablonowski testified that the labor data seen on exhibit B, at
+page 2134, was for all Hanford labor for 2004 to 2009 regardless of scope, not just for
+RAPID (tr. 1/78-79). Hanford did all of the work developing and enhancing RAPID
+(tr. 1/38, 71), but that was not the only work Hanford did. Exhibit B identifies
+$1,021,276.41 in Hanford labor costs 5 from 2004 to 2009 (tr. 2/29-30; gov't ex.Bat
+2134). Hanford estimated that 25% of that labor was for enhancements to RAPID
+(tr. 1/79-80). The $255,319 enhancement labor in the DCAA audit is based on 25% of
+$1,021,276.41 (.25 x $1,021,276 = $255,319) (tr. 1/225, 2/20-21). Mr. Jablonowski
+verified that the $255,319 was for labor at Hanford relating to enhancements of RAPID
+(tr. 1/71-72; gov't ex.Bat 2001). Ms. Clark testified that because the $255,319 was
+calculated based on a 25%6 estimate DCAA could not audit the actual number and
+therefore questioned the entire amount (tr. 1/226).
+
+        20. Mr. Zeuke also worked on the 20 November 2009 audit (tr. 2/62).
+He evaluated the Other Direct Costs/Original Investment amount of $1,276,608
+(tr. 2/63-64). He agreed with Mr. Jablonowski that the $1,276,608 was calculated using
+the amortization table for the RAPID (R4, tab 55 at 684) and LMSI's "shelved or no
+longer used or a future use value cost associated with the original investment"
+(tr. 2/64-65). The amortization table shows amortization of$2,300,624 for RAPID
+(tr. 2/65; R4, tab 55 at 684). The value of the shelved items was $1,024,016 (tr. 2/66;
+gov't ex.Bat 2002-03). Therefore, $2,300,624 - $1,024,016 = $1,276,608 is the number
+for original investment on the summary table in the audit (tr. 2/66). Note 4 in the audit
+explains why DCAA questioned the $911,727, "we question $911,727 of the contractor's
+$1,276,608 RAPID Original Investment amount, based on a recalculation of the asset's
+book value at the date of the start of the period of performance for this task order/contract"
+(R4, tab 29 at 274). Mr. Zeuke explained that the $911,727 in Questioned Costs
+
+4
+    DFFROD is a code associated with Contract 0002 (tr. 2/106-97; R4, tab 29 at 6).
+5 Ms. Clark testified that they verified that LMSI was charging the correct labor
+
+      rates-DCAA did not find any discrepancies to what they were charging based
+      on their books and records (tr. 1/227).
+6
+  There is no labor code for RAPID™ enhancement which is why they used an
+      engineering estimate of 25% for enhancement labor (tr. 1/121-22).
+
+                                            11
+"represents the amount of the original investment that would have been amortized and
+charged to the contract up until the period of performance begins for the new proposal
+which was February of 2010"7 (tr. 2/67; R4, tab 29 at 272, 274). The $364,881 was the
+unamortized remainder. Mr. Zeuke agreed that he did not question that LMSI actually
+incurred the $911,727 (tr. 2/68).
+
+       21. Mr. Zeuke testified that he believed that LMSI had been paid for RAPID's
+"original investment" cost:
+
+               In the case of the original investment, that was a business
+               decision by Lockheed to develop this system to meet the
+               requirements of their fixed price contract and it was
+               considered as part of their pricing.
+
+(Tr. 2/84)
+
+LMSI 's Position on H 10
+
+       22. Although it is unclear from the record what LMSI was responding to, by
+email dated 31 December 2009 to CO Minnich, Mr. Vittori presented LMSI's position on
+Clause H.10 and RAPID. Mr. Vittori took the position that H.10 did not apply to RAPID
+because DFAS had never paid LMSI for the development of RAPID, had never modified
+the contract to incorporate RAPID into the contract and because RAPID was a
+commercial product. (Tr. 1/146-47; R4, tab 99 at 1570-71)
+
+        23. By email dated 21January2010 to Mr. Vittori, CO Minnich stated, "While we
+agree that a price agreement was reached at $2.6M, I have to have an adequate basis for
+the award, technical support could not provide support for the agreed to price, and for all
+the reasons we previously discussed H.10 applied to RAPID" (R4, tab 36 at 322;
+tr. 1/165-66).
+
+LMSl's Certification
+
+       24. By email dated 9 December 2009 to CO Minnich, Mr. Vittori stated, "An
+area of audit concern seems to be the $91 lK of 'questioned' costs. As I stated
+yesterday, we can certify that all costs have not been charged or claimed since that is
+the basis as to why DCAA challenged that amount." (R4, tab 33 at 295; tr. 1/156-57)
+Mr. Vittori recalled that CO Minnich agreed that LMSI incurred the $911,727; his
+concern was that they had somehow been paid that amount (tr. 1/158-59).
+
+7   The $911,727 was calculated by multiplying $1,276,608 by the ratio of the
+        accumulated depreciation for February 2010 ($1,643,058.58) to the total
+        depreciation ($2,300,624) (see R4, tab 55 at 684).
+
+                                            12
+        25. By email dated 26 January 2010 to CO Minnich, Mr. Vittori provided a draft
+certification with attached financial data (amortization table) that he offered to sign to
+support the fact that LMSI had not been paid the $911, 727 questioned in the DCAA audit
+(tr. 1/170-72; R4, tab 37). Mr. Vittori ultimately signed8 the certification and submitted it
+to DCAA on 30 June 2010 (tr. 1/176; R4, tab 9; gov't ex.Cat 2332-35). The certification
+reads:
+
+                In response to DCAA Exception Note 4 of audit report No.
+                6271-2009B21000015 [November 20, 2009], LM has
+                reviewed the $911,727 of costs and these costs are in
+                relation to the original RAPID™ investment baseline
+                installed in 2004. These costs were charged to an internal
+                account to capture costs that are non-reimbursable (code
+                DFFROD). We have verified that this specific account
+                code is one that does not generate an invoice and have
+                confirmed that these costs have not been previously billed
+                or charged to DFAS or other US Government entity.
+
+                Based on the above analysis, LM certifies that, to the best
+                of our knowledge and belief, the cost data submitted in
+                support of the Lockheed Martin Proposal for RAPID™
+                [dated August 5, 2009] was based on actual incurred costs,
+                accrued and booked in the Lockheed Martin Services, Inc.
+                accounting system and although they may not reflect all
+                costs incurred toward the product support and
+                development, they are current, accurate and complete
+                regarding the LM internal project RAPID™ in accordance
+                with FAR Part 15. [Brackets in original]
+
+(R4, tab 9)
+
+Modification No. P00089
+
+        26. On 8 January 2010, CO Minnich issued unilateral Modification No. P00089
+(R4, tab 3 at 15; tr. 1/123). In his transmittal letter to LMSI he stated that LMSI was
+entitled to just compensation under H. l 0 for RAPID cost, which was included in the
+modification, based upon the amount the DCAA audit substantiated. He noted that LMSI
+could seek different terms through a request for equitable adjustment or the contract's
+disputes provisions. (R4, tab 35 at 301-02)
+
+8
+    The certification date of 5 August 2009 is incorrect because the certification states it
+        is in response to the 20 November 2009 audit (R4, tab 9).
+
+                                              13
+       27. Unilateral Modification No. P00089 paid LMSI a total of $1,459,537.44 as
+follows:
+
+               User License: $779,089.39
+               Hardware:     $485,626.09
+               Software:     $194,821.96
+               Total:      $1,459,537.44
+
+(R4, tab 3 at 16) The $1,459,537.44 was calculated by reducing the $1,714,856 in the
+audit's Total Costs "Difference" column by the audit's "Enhancements (Labor)" of
+$255,319 because this was based on a 25% estimate (tr. 2/132-33; R4, tab 29 at 272;
+ex. A, column A). The $485,626.09 was calculated by "straight line ten year"
+depreciation ($57,415) of the $543,041 in the audit's Hardware Refresh "Difference"
+column (tr. 2/131-32; R4, tab 29 at 272; ex. A, block Cl I). The $194,821.96 was
+calculated by reducing the audit's $256,159 in the Third Party Software "Difference"
+column by $61,337 for software not in use (tr. 2/132; R4, tab 29 at 272; ex. A, block C12).
+The $779,089.39 User License is simply the difference between Total Costs and the sum
+of depreciated Hardware Refresh and adjusted Third Party Software: $1,459,537.44 -
+($485,626.09 + $194,821.96) = $779,089.39 (tr. 2/133; ex. A, column B) Profit was not
+paid because CO Minnich interpreted Clause H.10 to preclude profit (tr. 2/134).
+
+       28. Unilateral Modification No. P00089 9 added DFAS Local Clause 2010-01,
+Price Redetermination-RAPID, which provided for either an increase in the contract
+amount or a decrease and repayment to the government. The clause stated in part:
+
+               (a) General. The total price stated in this contract may be
+               redetermined in accordance with this clause and clause
+               H-10 ... but in no event shall the total amount paid under
+               this contract exceed $2,600,000.00.
+
+
+               (c) Data Submission ...
+
+
+9   Effective 19 February 2010 Modification No. P00089 was replaced in its entirety by
+        unilateral Modification No. P00091, executed by CO Miller. The modifications
+        are identical except for the name of the contractor. (R4, tab 4 at 38 et seq.) We
+        will use P00089 in this decision.
+
+                                            14
+             .. .If it is later determined that the Government has overpaid
+             the Contractor, the excess shall be repaid to the
+             Government immediately.
+
+             (d) Price determination. Upon the Contracting Officer's
+             receipt of the certified cost and pricing data required by
+             paragraph (c) of this section, the Contracting Officer and
+             the Contractor shall promptly negotiate to redetermine fair
+             and reasonable prices for supplies delivered and services
+             performed by the Contractor under this contract.
+
+
+             (g) Disagreements. If the Contractor and the Contracting
+             Officer fail to agree upon redetermined prices ... the
+             Contracting Officer shall promptly issue a decision in
+             accordance with the Disputes clause.
+
+(R4, tab 35 at 304-05)
+
+      29. By email dated 21January2010 to Mr. Vittori, CO Minnich writes:
+
+             While we agree that a price agreement was reached at
+             $2.6M, I have to have an adequate basis for the award,
+             technical support could not provide support for the agreed
+             to price, and for all the reasons we previously discussed
+             H.10 applied to RAPID .
+
+             ... The $91 lK has not been adequately documented. The
+             statement you provided in supporting the $91 lK affirms
+             the position that these charges were not billable, but your
+             statement does not rise to a level of cost or pricing data
+             certification as proscribed in FAR 15.406. I still do not
+             understand the basis for the $911 K. Also beyond meeting
+             the specific issue identified by the Audit, I also have to
+             overcome the overall remark by the auditor that they found
+             the proposal unsuitable for a basis for negotiations.
+
+(R4, tab 36 at 322-23)
+
+       30. By email dated 26 January 2010 to CO Minnich, Mr. Vittori submitted
+"support for DFFROD" in the form of an amortization table and profit and loss statement
+(R4, tab 55). The amortization table shows that the $2,300,624 original expense was
+
+
+                                          15
+amortized each month from June 2005 through November 2011 in the amount of
+$27,582.06 (June 2005 to July 2008) and $31,312.64 (August 2008 to November 2011)
+(tr. 2/104-05; R4, tab 55 at 684). On 7 April 2010 CO Minnich forwarded the documents
+to CO Miller stating, "Here is additional documentation showing that the LM investment
+for RAPID against non-chargeable accounts meets and exceeds the amount of the agreed
+to value/cost of RAPID" (R4, tab 55 at 682).
+
+The License Agreement
+
+        31. Mr. Vittori and CO Minnich signed a software license agreement for RAPID on
+27 and 28 January 2010 respectively (tr. 2/124; R4, tab 38 at 337). The license granted
+DFAS a "perpetual, irrevocable, non-exclusive, world-wide, royalty-free license to install,
+use, reproduce, modify and integrate the Product [RAPID] into your DFAS proprietary and
+licensed systems" (R4, tab 38 at 333; tr. 1/54-55). Mr. Vittori and CO Minnich did not put
+in a price for the license because they did not agree on the amount (tr. 1/203; R4, tab 38 at
+334). The payment clause (paragraph 6) simply directs that DFAS agrees to pay the fee
+specified in Modification No. P00089 (R4, tab 38 at 334).
+
+       32. Mr. Vittori recalled attending an "in-person" meeting in Cherry Hill,
+New Jersey, on 3 August 2010 with DCAA to discuss RAPID (tr. 1/191-92). The record
+contains a "Summary Rapid Meeting 8-3-10" in bullet format apparently written by
+Ms. Clark, 10 DCAA (R4, tab 44). One bullet reads, "We questioned how LMSI paid for
+RAPID since it was not a part of the original bid - they claimed to have borrowed profit
+& that they amortized it over time, RAPID was paid over time with LMSI' s profit" (id.).
+
+Certified Claim
+
+        33. On 19 July 2011, LMSI submitted 11 a certified claim to CO Miller requesting
+that the contract price be raised pursuant to the price redetermination clause from the
+$1,459,537.44 authorized by Modification No. P00089 to the full capped amount of
+$2,600,000, for a claimed amount of $1,140,462.56 (R4, tab 53 at 587, 601).
+
+       34. By final decision dated 21December2011, CO Miller denied LMSI's
+claim (R4, tab 63). The decision reads in part:
+
+                    IV. Contracting Officer's Decision:
+                    Clause H. l 0 requires LMSI to provide DFAS a
+                    "perpetual, irrevocable, non-exclusive, world-wide,
+                    royalty-free license" to "install, use, copy, modify
+
+10
+   A box on the bottom of the document indicated "Auditor JLC" and one of the
+      attendees was Jamie Clark ofDCAA (R4, tab 44).
+11
+   Sent by email (R4, tab 53 at 587).
+
+                                           16
+                    and incorporate" RAPID into DFAS' s systems "at
+                    no additional cost." Therefore, LMSI must provide
+                    the license to DFAS for an amount equal to LMSI's
+                    actual costs to develop RAPID. LMSI has argued
+                    that its actual costs to develop RAPID exceed
+                    $2,600,000.00, so DFAS should increase CLIN
+                    0065 to the not-to-exceed amount of$2,600,000.
+                    However, DFAS is unable to validate LMSI's
+                    claimed costs because LMSI did not properly
+                    account for the development costs at the time the
+                    costs were incurred. Therefore, the DFAS
+                    Contracting Officer has determined that the original
+                    obligated price of $1,459,537.44, based on and
+                    supported by the DCAA audit, is the final purchase
+                    price for the RAPID license, and will not increase
+                    the price to the not-to-exceed amount of $2,600,000
+                    as LMSI has demanded in its certified claim.
+
+(R4, tab 63 at 856-57)
+
+      35. On 15 March 2012 LMSI appealed the 21December2011 final decision to
+the ASBCA. On the same day the Board docketed the appeal as ASBCA No. 58028.
+
+DFAS 's Motion for Partial Summary Judgment
+
+        36. On 1October2012, DFAS filed a motion for partial summary judgment
+asking the Board to decide that LMSI was not entitled to any license fee for its use of
+RAPID. On 20 February 2013 the Board issued its decision finding that since there was
+no final decision demanding the return of the license fee of $779,089.39 the Board lacked
+jurisdiction to consider the motion. Lockheed Martin Services, Inc., ASBCA No. 58028,
+ 13 BCA ~ 35,244.
+
+DFAS Demands the License Fee Back
+
+       37. Unilateral Modification No. P00092, signed by CO Minnich on 6 May 2013,
+was issued to "correct modification P00091" (we use P00089 in this decision) to reduce
+the $779,089.39 license fee to zero and stated that LMSI was indebted to DFAS in that
+amount (supp. R4, tab 124 at 1690). Modification No. P00092 did not change
+Modification No. P00089's allowance of $485,626.09 for hardware and $194,821.96 for
+software. CO Minnich previously interpreted H.10 to allow him to pay for the cost of
+RAPID since Mr. Vittori insisted that LMSI had not been paid for RAPID (tr. 2/117-18,
+120). However, CO Minnich now believes that he was mistaken because RAPID was a
+"replacement" for GFE/MIRORS and that it does fall within H.10 (tr. 2/121-22,
+
+
+                                          17
+2/180-81). Modification No. P00092 was issued in final decision format with appropriate
+appeal rights stated (supp. R4, tab 124 at 1692).
+
+       38. On 18 July 2013, LMSI appealed the final decision to the ASBCA. On
+25 July 2013 the Board docketed LMSI's appeal as ASBCA No. 58794.
+
+                                       DECISION
+
+      LMSI replaced DRAS AIS (MIRORS) with RAPID which it developed and
+enhanced at its own expense. DFAS now performs DRAS work using LMSI's RAPID
+system but for the reasons discussed herein contends it is not obligated to pay for it. In its
+appeals LMSI asks that this Board require DFAS to pay it $1,140,462.56 for RAPID, the
+unpaid amount remaining in the $2.6M cap it agreed to and reflected in Modification
+No. P00089.
+
+        Resolution of this appeal requires the Board to interpret clauses in contract Sections
+C (PWS), H, and J. DFAS relies on section J.4.3.1, Replacement of Government-
+Fumished Equipment, for the proposition, "There can be no question that Appellant's
+replacement ofMIRORS with RAPID was the replacement ofGFE, which was to be done
+as part of the Contract price" (gov't br. at 17-18). DFAS assumes, without any analysis of
+contract language, that the DRAS AIS is GFE. DFAS interprets H.10 Vendor Proprietary
+Technology, to require LMSI to provide it with a license to use RAPID at no additional
+cost (gov't br. at 18-19). LMSI chooses to focus on Modification No. P00089 arguing that
+DFAS is attempting to improperly rescind its agreement to pay for RAPID (app. br. at
+14-18). We disagree with both parties' arguments.
+
+DRAS AIS is Not GFE
+
+        PWS paragraph 7 .1.4, with respect to GFE, states that the GFE for the contract is as
+listed in section J.4 of the contract (finding 2). Section J.4.3 does not list the GFE but
+instead states that the specific items of GFE shall be as stated in the contractor's proposal
+(finding 4). The contractor's proposal does not list any specific items of GFE (fn. 1).
+Moreover, section J .4.6 identifies the item that the government now alleges is GFE as GFP
+(finding 4). It is clear that the contract distinguishes between GFE, GFP and GFS (finding
+4). We cannot accept the government's interpretation. Alternatively, because there is
+some confusion in terminology in the contract, if we were to continue to interpret the
+various relevant clauses in the contract the result would not be different. We consider
+PWS, paragraph 7, Government-Furnished Property and Services (finding 2). We take
+particular notice of which subparagraphs of PWS paragraph 7 refer to contract section J.4,
+Government-Furnished Property and Services. 12 Paragraph 7.1, Government-Furnished
+Property and Services, states that the government "will provide the property, facilities,
+
+12
+     We note that WBS paragraph 7 and contract section J.4 share the same title.
+
+                                            18
+materials, and services described in Section J-4" (id.). Subparagraph 7.1.2, Defense
+Retired/Annuitant Pay (DRAS) Automated Information System (AIS), states that ifthe
+contractor uses "Government-furnished DRAS AIS" that it will return the updated data
+files to DFAS at the end of the contract. Importantly, this subparagraph does not refer to
+contract section J.4. (Id.) Subparagraph 7.1.3., Facilities, states that the "government will
+provide the facilities described in Section J.4 and proposed by the contractor in the current
+'where-is/as is' configuration" (id.). Subparagraph 7 .1.4, Equipment, states that the
+government "will provide the 'where-is/as-is' equipment listed in Section J-4" (id.). It is
+significant that DRAS AIS in paragraph 7 .1.2 is separate and distinct from "Equipment" in
+subparagraph 7.1.4. We conclude from this that DRAS AIS is not "equipment."
+
+        Now we tum to contract section J, List of Documents, Exhibits, and Other
+Attachments. Subparagraph J.4.3., Government-Furnished Equipment (GFE), states that
+the government will furnish GFE "in an 'as is, where is' condition" (finding 4).
+Subparagraph J.4.3.1., Replacement of Government-Furnished Equipment, states that
+replacement of government-furnished equipment is the contractor's responsibility at no
+cost to the government (id.). This is the provision DFAS relies upon to support its
+argument it should receive RAPID at no cost. Subparagraph J.4.3.2., GFE Inventories,
+states that GFE will be ''jointly inventoried" (id.). Subparagraph J.4.3.3., GFE
+Maintenance, again provides that GFE is provided "as is, where is" and that maintenance is
+the responsibility of the contractor (id.). Subparagraph J.4.3 .4., Replacement of GFE, 13
+again states that GFE is provided "as is, where is" and any required replacement is the
+responsibility of the contractor at no cost to the government (id.). Significant is the total
+absence of any mention of DRAS AIS in subparagraph J.4.3. Also, subparagraph J.4.5.,
+Use of GFE, GFP, and GFS, makes a distinction between "GFE," "GFP" and "GFS" (id.).
+The contract defines "GFE" as "government-furnished equipment" and "GFP" as
+"government-furnished property" but curiously does not define "GFS" 14 (id.). In
+interpreting contract language we must read the contract as a whole. NVT Technologies,
+Inc. v. United States, 370 F.3d 1153 at 1159 (Fed. Cir. 2004) (When interpreting the
+contract, the document must be considered as a whole and interpreted so as to harmonize
+and give reasonable meaning to all of its parts.). We therefore read PWS section 7 in
+harmony with contract section J.4.3 to reach our interpretation. Because (1) DRAS is listed
+as GFP in paragraph J.4.6.; (2) DRAS AIS in PWS paragraph 7.1 is not "equipment";
+(3) PWS subparagraph 7.1.2, Defense Retired/Annuitant Pay (DRAS) Automated
+Information System (AIS), does not refer to contract section J.4.; and (4) the DRAS AIS is
+not referenced in contract section J.4.3., Government-Furnished Equipment (GFE), we
+conclude that DRAS AIS is not GFE. Therefore, DFAS' argument that DRAS AIS is GFE
+and must be replaced at no cost is unpersuasive.
+
+13
+     This appears to be a duplicate of paragraph J.4.3.1.
+14
+     Since section J.4 refers to government furnished property and services, we surmise
+         the "GFS" stands for government-furnished services but have no way of
+         determining if "GFS" includes MIRORS.
+
+                                            19
+Contract Clause H.10 Does Not Require LMSI to Give DFAS a No-Cost License
+
+        Next we consider the proper interpretation of contract clauses H.8, H.10 and PWS
+8.0 (findings 2, 3). Initially CO Minnich interpreted H.10 to allow for reimbursement of
+the cost of developing RAPID. However, he interpreted H.10 standing alone; he did not
+consider the relationship between H.8, PWS 8.0 and H.10. (Finding 14) We consider
+CO Minnich's initial interpretation to be correct.
+
+        Clause H.8 requires that the contractor start performance using DRAS: "If the
+contractor proposes the Defense Retired/Annuitant Pay System (DRAS) to perform the
+requirements" (finding 3). DRAS is MIRORS (finding 5). Next H.8 deals with the
+situation where during performance the contractor decides DRAS needs to be "refreshed"
+to "change the system configuration" (finding 3). Clause H.8 envisions the contractor
+submitting a proposal for the change to DF AS and the parties would "negotiate the terms
+and conditions" of a contract modification if DFAS allows LMSI to "change the system
+configuration" (id.). We interpret "negotiate the terms and conditions" to mean that LMSI
+would be paid for said change.
+
+       PWS 8.0 applies when "the contractor uses an AIS other than DRAS" (finding 2).
+We interpret this to mean the replacement ofDRAS AIS. PWS 8.0 envisions a paid
+license for the new AIS, "[s]uch license shall be made available at the most favorable
+terms, prices, and conditions provided to any other customer of the contractor" (finding 2).
+The difference between H.8 and PWS 8.0 is that H.8 provides for an unspecified payment
+and PWS 8.0 provides for a paid license. We conclude that PWS 8.0 and H.8 do not
+conflict because H.8 does not prohibit payment from taking the form of a license. Both,
+however, envision payment for a replacement ofDRAS AIS.
+
+       Clause H.10 requires LMSI to provide "at no additional cost" a license ifDFAS
+gives LMSI "written approval" to use "contractor or third party proprietary technology to
+perform the services" (finding 3). The free license afforded by H.lO(b) "will not apply to
+software, code or modifications which are generally commercially available on reasonable
+terms" (id.). RAPID is a combination of DOE owned E-STARS software and LMSI owned
+derivative software (finding 13). Mr. Vittori testified that RAPID had not been sold
+commercially (finding 11). We conclude that RAPID is not "generally commercially
+available on reasonable terms" and the exclusion in H.10 does not apply.
+
+       We again follow the well known rules of contract interpretation that require us to
+favor an interpretation that gives meaning to all parts of the contract. NVT Technologies,
+370 F.3d at 1159 (An interpretation that gives meaning to all parts of the contract is to be
+preferred over one that leaves a portion of the contract useless, inexplicable, void, or
+superfluous.). Ifwe were to interpret H.10 to require a free license to use RAPID as
+DFAS argues, we create a direct conflict between H.8, PWS 8.0 and H.10. H.8 provides
+
+
+                                           20
+that DFAS would pay LMSI for RAPID, whereas H.10, according to DFAS, gives DFAS
+the right to a free license to use RAPID. There is obviously no reason for DFAS to pay
+for RAPID if it had the right to use it for free. DFAS' interpretation renders H.8
+superfluous. PWS 8.0 provides for a paid license whereas H.10, according to DFAS,
+provides for a free license - a direct conflict rendering PWS 8.0 superfluous if we adopt
+DFAS' interpretation.
+
+        To avoid conflicts and give reasonable meaning to H.8, PWS 8.0 and H.10, we
+interpret H.8 to allow payment for the replacement of the existing DRAS and H.10 to apply
+to (1) the introduction of "proprietary technology" but while still using DRAS AIS
+(MIRORS) or (2) to a replacement AIS paid for under H.8. The words in H.10 "at no
+additional cost," are consistent with our interpretation that DFAS would pay for RAPID
+under H.8. and then receive a free license under H.10. PWS 8.0 fills in the gap and provides
+for a paid license ifDFAS has not paid for RAPID under H.8. This interpretation avoids the
+conflicts discussed above, harmonizes H.8, PWS 8.0 and H.10, is reasonable and does not
+render H.8 or PWS 8 superfluous. FSEC, Inc., ASBCA No. 49509, 99-2 BCA if 30,512 at
+150,665 (an interpretation which gives a reasonable meaning to all parts of an instrument
+will be preferred to one which leaves a portion of it useless, inexplicable, inoperative, void,
+insignificant, meaningless, or superfluous, nor should any provision be construed as being
+in conflict with another unless no other reasonable interpretation is possible). Since we
+interpret H.10 to apply in situations where the DRAS is not replaced or a replacement is
+paid for under H.8, it does not apply to RAPID. Under this interpretation, DFAS is not
+entitled to a free license to use RAPID.
+
+Modification No. P00089 and the $2. 6 Million Cap
+
+       DFAS allowed LMSI to develop and implement RAPID, but did not exercise its
+discretion to negotiate payment under H.8 15 (findings 5-9). Clause H.8 bestows upon
+DFAS the discretion to do this, ''the contractor shall submit a proposal to the contracting
+officer for consideration" (finding 3) (emphasis added). It is clear from the record that
+MIRORS was obsolete and needed replacement (findings 9, 10). LMSI made the decision
+to replace MIRORS at its own expense in order to successfully perform the contract
+(finding 8). RAPID was implemented commencing in December 2004 (finding 11).
+LMSI performed the contract using RAPID for five years until DFAS decided to bring the
+work back in-house (finding 12).
+
+        After DFAS decided to bring DRAS back in-house in 2009, LMSI submitted a
+transition proposal in the amount of$3,074,514.15 comprised of: RAPID Third Party
+Software $341,094.04; RAPID Hardware-Refresh $694,781.22; RAPID Baseline Value
+
+15
+     The first notice by ACS that it intended to replace MIRORS invoked H.8 as
+        authority for negotiation of "terms," including ownership of the replacement
+        system at contract termination (finding 6).
+
+                                           21
+$1,513,132.92; and Enhancements to Base $525,505.97 (finding 12). DCAA conducted
+an audit ofLMSI's proposal (findings 14, 16-20). At this time CO Minnich interpreted
+H.10 to allow DFAS to pay for the cost of developing RAPID (findings 14, 26).
+CO Minnich and LMSI reached tentative agreement on a payment for the cost of
+development of RAPID of $2.6 million subject to support that the amount was fair and
+reasonable (findings 23, 29).
+
+        CO Minnich issued unilateral Modification No. P00089 agreeing to pay LMSI
+$1,459,537.44 for RAPID (finding 27). The modification included the $2.6 million cap
+(id.). The $1,459,537.44 was the amount substantiated by the DCAA audit and adjusted
+downward by DFAS (finding 16). Modification No. P00089 allowed: Software
+$194,821.96; Hardware $485,626.09; and User License $779,089.39 (findings 28, 34).
+Modification No. P00089 provided that the $1,459,537.44 could be redetermined 16 to
+allow up to the full $2.6 million cap or a repayment ifLMSI was found to have been
+overpaid (findings 27, 28). After Modification No. P00089, LMSI and DFAS entered
+into a license for RAPID (finding 31). The license did not include the license fee because
+the parties did not agree on what that fee would ultimately be (id.).
+
+The $779,089.39 Was Not an Overpayment
+
+        In 2013 CO Minnich changed his interpretation of H.10. He now believes that he
+was mistaken because RAPID was a "replacement" for DRAS and pursuant to H.10
+DFAS was entitled to a free license (finding 37). On 6 May 2013, CO Minnich issued
+unilateral Modification No. P00092, to recoup the $779,089.39 license fee for RAPID he
+allowed in unilateral Modification No. P00089 (id.). Modification No. P00092 recited
+that it was issued to "correct modification P00091" (P00089) (id.).
+
+        The correctness of Modification No. P00092 hinges on ifthe $779,089.39 was an
+overpayment. It was not. DFAS' overpayment argument is based on its belief that it is
+entitled to a royalty free license for RAPID pursuant to H.10. Our interpretation discussed
+above concluded that H.10 does not apply to RAPID. Therefore, the government is not
+entitled to the $779,089.39 demanded in Modification No. P00092.
+
+LMSI has not been Paid for RAPID
+
+      DFAS agreed to pay up to $2.6 million for RAPID in Modification No. P00089;
+LMSI accepted that cap on its recovery (finding 28). LMSI's certified claim for
+$1,140,462.56 (finding 33) is the difference between the $1,459,537.44 paid in
+
+16
+     In its argument that DFAS cannot "rescind" Modification No. P00089 to recover
+          the $779,089.39 license fee LMSI overlooks this provision that allows the
+          government to reopen Modification No. P00089 to make corrections for
+          overpayments (app. br. at 16-18).
+
+                                           22
+Modification No. P00089 and $2.6 million cap. In his final decision denying LMSI's
+claim, CO Minnich stated that while the $1,459,537.44 was supported by the DCAA audit,
+the audit did not support an additional payment and "DF AS is unable to validate LMSI' s
+claimed costs because LMSI did not properly account for the development costs at the time
+the costs were incurred" (finding 34). The issues for the Board to decide are did LMSI
+incur up to the additional $1,140,462.56 to develop and enhance RAPID and if so, has it
+been paid?
+
+        MIRORS was obsolete and required replacement (findings 7, 9-10). LMSI's
+Hanford organization did all of the development and enhancement work on RAPID
+(findings 19, 20). The development work was performed before December 2009 when
+RAPID was deployed (finding 11). The costs to develop RAPID were allocated to project
+code DFFROD that was a non-reimbursable account (findings 17, 25, 30). The original
+development cost of RAPID was $2,300,624 (findings 18-20). LMSI paid Hanford the
+$2,300,624 out of its Contract 0002 profits. This was done on a monthly basis between
+June 2005 and November 2011 that is documented on an amortization table. (Finding 30)
+The amortization table is important because DFAS used it to question development costs
+in its audit (finding 20 n.6). DFAS does not contest that LMSI incurred the $2,300,624
+(findings 19-20).
+
+       The original investment number in the DCAA audit summary is $1,276,608. This
+was arrived at by subtracting $1,024,016 for out-of-service items from the $2,300,624
+original investment (findings 19-20). Since both appellant's witness, Mr. Jablonowski
+(finding 18), and the government's witness, Mr. Zeuke (finding 20), accepted this
+reduction as correct, we accept it.
+
+        In its audit, DCAA questioned $911,727 of the $1,276,608 original investment
+(findings 16, 20). The $911,727 was the amount of the $1,276,608 amortized through
+February 2010 (finding 20 n.6). DCAA found that LMSI incurred the $911,727 (id.).
+DCAA questioned the costs because it believed that the amortized costs had been charged
+to Contract 0002 (findings 20-21). The basis for DCAA's belief that the amortized
+amount of $911, 727 was charged to the contract is not explained in the record. If it is
+based on DFAS' position that DRAS AIS is GFE and contract clause J.4.3.1. required
+LMSI to replace GFE at no cost to DFAS (gov't br. at 17-18), we found that
+interpretation to be wrong above. Mr. Zeuke also testified that the original investment of
+RAPID "was a business decision by Lockheed to develop this system to meet the
+requirements of their fixed price contract and it was considered as part of their pricing"
+(finding 21). Mr. Zeuke's testimony is unsupported by the record and based on a legal
+interpretation ofH.10 that Mr. Zeuke is not competent to offer. LMSI submitted a signed
+certification to DCAA on 30 June 2010 stating that the $911, 727 had never been billed to
+the government or otherwise paid by the government (finding 25). This certification is
+unrebutted by DF AS. We conclude that LMSI has not been paid the development costs
+for RAPID.
+
+
+                                          23
+         The record contains a listing of labor costs at Hanford from 2004 through 2009 in
+ the amount of $1,021,276.41 (findings 19-20). Ms. Clark audited these costs and verified
+ their accuracy (id.). The $255,319 enhancement cost was based on Hanford's estimate
+ that 25% of its work after RAPID was deployed was for enhancement (finding 20). The
+ $255,319 was not "questioned" in the audit summary, but was subtracted from the
+ amount paid to LMSI by Modification No. P00089 because DCAA could not audit an
+ estimate (findings 16, 19). The validity of the 25% estimate is unrebutted by DFAS. We
+ see no reason why Hanford cannot reasonably estimate the labor it spent on
+ enhancements to RAPID and we accept the 25% and the $255,319 as the amount incurred
+ by LMSI for enhancements to RAPID. Under these circumstances, this amount should
+ not have been subtracted from the $1,714,856 in the DCAA audit that was used by DFAS
+ to justify payment in Modification No. P00089.
+
+        The difference between the $2.6 million cap and what LMSI was paid in
+ Modification No. P00089 is $1,140,462.56 (findings 15, 23, 27). The sum of the
+ improperly questioned $911,727.00 in original investment cost and improperly excluded
+ $255,319.00 enhancement cost is $1,167,046.00. This amount is greater than the
+ $1,140,462.56 remaining in the $2.6 million cap. Therefore, LMSI has proven its
+ entitlement to the remainder of the capped amount.
+
+                                    CONCLUSION
+
+       LMSI's appeals in ASBCA Nos. 58028 and 58794 are sustained in the amount of
+ $1,140,462.56 with CDA interest running from 19 July 2011 the date its certified claim was
+ submitted to the CO.
+
+       Dated: 8 December 2015
+
+
+                                                 CRAIG S. LARKE
+                                                 Administra ·ve Judge
+                                                 Armed Services Board
+                                                 of Contract Appeals
+
+ I concur                                        I concur
+
+~~ .,/k-/·H-                                442\
+ STEMPL~
+/ MARK N.
+  Administrative Judge
+                                                             .
+                                                 RICHARD SHACKLEFORD
+                                                 Administrative Judge
+  Acting Chairman                                Vice Chairman
+  Armed Services Board                           Armed Services Board
+  of Contract Appeals                            of Contract Appeals
+
+
+                                           24
+     I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA Nos. 58028, 58794, Appeals of
+Lockheed Martin Services, Inc., rendered in conformance with the Board's Charter.
+
+      Dated:
+
+
+                                              JEFFREY D. GARDIN
+                                              Recorder, Armed Services
+                                              Board of Contract Appeals
+
+
+                                        25

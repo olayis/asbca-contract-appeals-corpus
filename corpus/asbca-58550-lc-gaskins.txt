@@ -1,0 +1,2294 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeals of --                               )
+                                            )
+L.C. Gaskins Construction Co., Inc.         )      ASBCA Nos. 58550, 59901, 59902
+                                            )
+Under Contract No. N69450-09-C-5068         )
+
+APPEARANCES FOR THE APPELLANT:                     Dirk D. Haire, Esq.
+                                                   Alexa Santora, Esq.
+                                                   P. Sean Milani-nia, Esq.
+                                                    Fox Rothschild LLP
+                                                    Washington, DC
+
+APPEARANCES FOR THE GOVERNMENT:                    Ronald J. Borro, Esq.
+                                                    Navy Chief Trial Attorney
+                                                   Ellen M. Evans, Esq.
+                                                   Stephen D. Tobin, Esq.
+                                                   David M. Marquez, Esq.
+                                                    Senior Trial Attorneys
+
+                OPINION BY ADMINISTRATIVE JUDGE THRASHER
+
+       This appeal arises from L.C. Gaskins Construction Co., Inc.'s (Gaskins'),
+performance of a contract with the Naval Facilities Engineering Command (Navy or
+government) to provide structural repairs to Hangar 1552 at Mayport Naval Station,
+Florida. Gaskins subcontracted with an industrial coatings contractor, DACA, LLC
+(DACA), to perform a subset of the repair work requiring DACA to abrasively blast
+existing paint off of 34 hangar trusses, recoat the trusses with new paint, and dispose of
+the spent blast debris. Gaskins' seeks damages as well as excusable and compensatory
+time extensions resulting from alleged differing site conditions and changes caused by the
+government. In response, the government asserts affirmative defenses of fraud in
+performance and fraud in the inducement as well as asserting two affirmative claims:
+(1) assessment of liquidated damages resulting from alleged 32 calendar days of
+contractor delay, and; (2) damages resulting from alleged defective welding and deficient
+quality control. The Board conducted a nine-day hearing in Jacksonville, Florida. We
+only decide entitlement.
+                                  FINDINGS OF FACT
+
+       Project and Solicitation Requirements
+
+        1. Solicitation No. N69450-09-R-5068, dated 1 December 2008, requested
+proposals for Hangar 1552 structural repairs at Naval Station Mayport, Florida. Pertinent
+to these appeals, a subset of the repair work required the contractor to environmentally
+contain its work, abrasively blast existing paint off of the 34 hangar trusses, recoat the
+trusses with new paint, and dispose of the spent blast debris. (R4, tab 1 at 1-4)
+
+        2. Hangar 1552 is a rectangular building approximately eight-hundred (800) feet
+long, one-hundred and fifty (150) feet wide, and thirty (30) feet high. The building is
+primarily dedicated to maintenance and repair of helicopters but also includes two floors
+of office space. The hangar roof is supported by thirty-four (34) external steel trusses
+that extend approximately twenty (20) feet above the roof. (R4, tab 1at161;
+tr. 7/169-75) Each of the 34 trusses supports a structural load (tr. 7/174). Because the
+trusses extend above the roof, they were exposed to the elements and, in the time since
+Hangar 1552 was originally erected, had become severely corroded (R4, tab 1 at 161;
+tr. 7/175). At the time the RFP was issued, the trusses were so corroded that the
+structural integrity of the roof, and therefore the hangar, was in question (tr. 7/175-76).
+
+     3. The source selection was conducted as a negotiated procurement pursuant to
+FAR Part 15 and the solicitation was structured in six parts:
+
+              Part 1, "Proposal Forms and Documents" containing the bid
+              schedule, solicitation submittal requirements, and contract
+              clauses (R4, tab 1 at 1-48);
+
+              Part 2, "General Requirements" (id. at 51-155);
+
+              Part 3, "Project Program" containing a "Project Description,"
+              "Project Objectives," "Site Analysis," and an extensive
+              section entitled "Engineering Systems Requirements" (id.
+              at 156-70);
+
+              Part 4, "Performance Technical Specifications" (id.
+              at 171-216);
+
+              Part 5, "Prescriptive Technical Specifications" (R4, tab 3
+              at 465-93); and
+
+              Part 6, "Attachments" which included "A-Drawings,"
+              "B-Reports," and "C-Contractor Data Required." At
+
+                                             2
+       "B-Reports" there are three reports: B. l, a Field Visual
+       Inspection Report from URS Group, B.2, Environmental
+       Testing by ENCO, and B.3, a Geotechnical Evaluation by
+       Wolf Technologies, Inc. (R4, tab 1at218-451)
+
+4. Part 1 of the solicitation incorporated the following pertinent clause:
+
+       5252.236-9312, DESIGN-BUILD CONTRACT-ORDER OF
+       PRECEDENCE (AUGUST 2006)
+
+       (A) In the event of a conflict or inconsistency between any of
+       the below described portions of the conformed contract,
+       precedence shall be given in the following order:
+
+              ( 1) Any portions of the proposal or final design that
+              exceed the requirements of the solicitation.
+                     (a) Any portion of the proposal that exceeds the
+                     final design.
+                     (b) Any portion of the final design that exceeds
+                     the proposal.
+                     ( c) Where portions within either the proposal or
+                     the final design conflict, the portion that most
+                     exceeds the requirements of the solicitation has
+                     precedence.
+
+              (2) The requirements of the solicitation, in descending
+              order of precedence:
+                     (a) Standard Form 1442, Price Schedule, and
+                     Davis Bacon Wage Rates.
+                     (b) Part I - Contract Clauses.
+                     (c) Part 2 - General Requirements.
+                     (d) Part 3 - Project Program Requirements.
+                     (e) Part 6 - Attachments (excluding Concept
+                     Drawings).
+                     (f) Part 5 - Prescriptive Specifications exclusive
+                     of performance specifications.
+                     (g) Part 4 - Performance Specifications
+                     exclusive of prescriptive specifications.
+                     (h) Part 6 -Attachments (Concept Drawings).
+
+
+                                       3
+              (B) Government review or approval of any portion of the
+              proposal or final design shall not relieve the contractor from
+              responsibility for errors or omissions with respect thereto.
+
+(R4, tab 1 at 40)
+
+Environmental Status of the Project
+
+        5. In May 2008, approximately seven months prior to release of the solicitation,
+the government contracted with a third-party, a certified laboratory, to conduct two tests
+of the existing paint on the roof trusses: Totals testing and Toxicity Characteristic
+Leaching Procedure (TCLP) testing (app. 2nd supp. R4, tab 143). Totals testing provides
+the total metal content of the paint. TCLP testing is designed to determine the
+leachability of metals present in the paint. Essentially, TCLP testing is designed to
+determine the likelihood of metals leaching into a landfill, once the paint is disposed of as
+a waste. (Tr. 6/129-30)
+
+        6. Upon receiving the test results in May 2008, Ms. Patricia Kostic (an
+Environmental Site Manager working for Naval Station Mayport and the individual
+responsible for selecting the truss locations for testing) remarked "Chromium, Cadmium,
+and Lead is off the chart for worker protection but, good for Non-haz[ ardous] disposal"
+(app. 2nd supp. R4, tab 143 at 223). Ms. Kostic then forwarded the results to her
+supervisor, Ms. Cheryl Mitchell (Naval Station Mayport's Environmental Director).
+Ms. Mitchell also remarked that the results were "[b]ad news for worker exposure but
+good news for waste disposal. You win some, you lose some." (App. 2nd supp. R4,
+tab 14 2 at 221)
+
+        7. The test results were released to the offerors as attachment B.2 of the
+solicitation which indicates lead, chromium and other metals in the paint. One report
+shows lead at 9200 "mg/kg wet" and chromium at 3300 "mg/kg wet." (R4, tab 1 at 345,
+349) The report incorrectly identifies the samples as roof tiles but the chain of custody
+record correctly identifies them as having come from roof trusses and a schematic
+drawing shows the samples were taken from the trusses (id. at 358-59). Also included in
+attachment B.2 was an email from Ms. Mitchell, expressly advising offerors that:
+
+              [T]he paint did not exceed TCLP levels for metal so it wasn't
+              HW [Hazardous Waste] but the blast grit/paint chips are still
+              a regulated waste that will require proper containerization &
+              disposal through out [sic] HW facility so a line of accounting
+              needs to be set-up & containers ord[ er]ed in advance through
+
+
+                                              4
+                the facility. Gen'l guide specs section 01575 describe that
+                process in detail.
+
+(R4, tab 1 at 360)
+
+        8. On 24 December 2008, and after a pre-bid site visit, the government published
+Amendment No. 0001 in response to a bidder's question regarding whether the
+"structural steel [on the hangers was] lead based." Although there was testimony that
+paint is considered "lead based" if it contains any concentration of lead (regardless of
+amount), the response in solicitation Amendment No. 0001 provided that "[for] basis of
+bid assume that the paint is not lead based, but is still regulated waste. See Attachment
+B.2." (R4, tab 2 at 454, Q. 11; tr. 9/143)
+
+        9. On 7 January 2009, the government issued Amendment No. 0002 to the RFP
+adding a requirement that the coatings subcontractor be the Society for Protective
+Coatings 1 (SSPC) QP 2 Category A certified (a certification pertaining to a contractor's
+proficiency with hazardous coatings removal) (R4, tab 3 at 459, 463). Two days after
+publication of Amendment No. 0002, Gaskins submitted a Request for Information (RFI)
+to the contracting officer (CO) requesting clarification, stating,
+
+                3. The painting requirement for SSPC-QP 2 is a nationally
+                recognized program that evaluates the capabilities of
+                industrial paint contractors for their ability to safely remove
+                and properly manage hazardous coat material in the field.
+                According to the inspection and test reports there are no
+                hazardous materials present. The blasting material is to be
+                treated as a regulated material and not as a hazardous
+                material. Possibly this requirement should be eliminated?
+                4. Amendment #2 added an additional requirement to the QP
+                2 saying that the SSPC QP 2 should also be Category A
+                Certified. This applies to lead paint removal. Are the
+                inspection and test reports wrong in that there is lead paint
+                on the project? [Emphasis added]
+
+(App. 2nd supp. R4, tab 147)
+
+       10. On 9 January 2009, Mr. Wittman (a member of the source selection board)
+sent an email to Ms. Mitchell posing Gaskins' questions:
+
+                The second question I have is a result of an RFI we received
+                from a bidder. The current bid documents indicate that the
+
+1
+    The Society for Protective Coatings was formerly the Steel Structures Painting Council.
+                                               5
+              Contractor should be certified per SSPC QPl and SSPC QP2
+              Category A. The question from the bidder is whether or not
+              SSPC QP2 Category A certification is really necessary for
+              this project since we don't have a Hazardous Waste. I
+              reviewed the SSPC QP2 document and it notes that it is
+              primarily geared towards the removal of coatings containing
+              lead and the Category A involves systems with engineered
+              ventilation systems providing negative pressure. Can you
+              give me any recommendations as to whether you believe this
+              extensive of containment is required for this project given the
+              testing done on the existing paint?
+
+(App. 2nd supp. R4, tab 150 at 305)
+
+        11. Ms. Mitchell forwarded Mr. Wittman's email to Ms. Racine and
+Ms. Julie Kaiser. She stated that if the waste was going to be non-hazardous, and going
+to be a lot, she was inclined to allow the contractor to dispose of the waste off-base to
+avoid the "painful process" of having to order Defense Reutilization and Marketing
+Service (DRMO, later renamed to Defense Logistics Agency (DLA)) roll-off containers
+for transferring waste to the on-site temporary storage facility. Ms. Mitchell also
+remarked that off-site disposal had been permitted on prior projects and acknowledged
+that the General Guide specification section she referred to in her prior email was
+outdated, but that "Di" (Diane Racine, another Environmental Department employee)
+should be able to identify the replacement specification. (App. 2d supp. R4, tab 150
+at 304)
+
+       12. Ms. Racine responded explaining that the Temporary Environmental Controls
+specification section:
+
+             [O]utlines exactly what the contractor will need to do to make
+             sure that the waste is disposed properly if it is hazardous
+             waste, and the Abrasive Blasting paragraph refers the
+             contractor back to Solid Waste Disposal if it is not hazardous
+             waste. We shouldn't have to add anything to the RFP.
+
+(App. 2nd supp. R4, tab 150 at 304)
+
+       13. Mr. Wittman forwarded these emails back to the CO, commenting that the
+government should have someone from the Environmental Department directly respond
+to Gaskins' questions (app. 2nd supp. R4, tab 152 at 342). Despite this suggestion, no
+response was provided to Gaskins' (tr. 1/71-72, 6/216-18).
+
+
+                                             6
+Disposal ofAbrasive Blasting Debris
+
+        14. Removal of the existing paint on the trusses would require abrasive blasting
+that would generate spent blast debris (spent debris). The spent debris consisted of a
+combination of the existing paint and abrasive material used to blast the existing paint off
+the trusses. There were two possible disposal sites for the spent debris, off-site at an
+approved landfill or on-site through Naval Station Mayport Hazardous Waste Storage
+Facility (Mayport HWSF or Part B Facility) 2 . The Naval Station possesses a Resource
+Conservation and Recovery Act (RCRA) permit, known as a "Subpart B" or "Part B"
+permit, which allows it to store hazardous waste for up to a year before final disposal at
+an approved Treatment, Storage, and Disposal Facility (TSDF) off-site (tr. 61128, 140-41,
+9/7). The permit requires that all hazardous waste generated on base be processed for
+disposal through the Mayport HWSF (tr. 9/14). The Mayport HWSF charges contractors
+the same commodity rate for disposal of hazardous waste and nonhazardous waste
+(tr. 8/147). By charging the contractor the same commodity rate regardless of the type of
+waste, however, the Navy assumes the price risk related to the disposal of hazardous
+waste (tr. 91100).
+
+        15. Part 2 of the solicitation, General Requirements at Section 01 57 19 .00 25,
+Temporary Environmental Controls, both defined and directed how blasting spent debris
+on this project would be categorized and disposed (R4, tab 1 at 133-51 ). The definition
+of "Solid Waste," found in paragraph 1.2.2, expressly excluded any hazardous waste or
+hazardous debris (id. at 133). "Debris" was defined at paragraph 1.2.3 in pertinent part as
+"Non-hazardous solid material generated during the construction, demolition, or
+renovation of a structure" (id. at 134). In contrast, "Hazardous Debris" was defined at
+paragraph 1.2.4 as "debris that contains hazardous waste per 40 CFR 261." Finally,
+"Regulated Waste" at paragraph 1.2 .11, was defined - separately from Hazardous Waste
+- as "[t]hose solid waste that have specific additional Federal, state, or local controls for
+handling, storage, or disposal." (Id. at 134-35)
+
+        16. Part 2 ofthe solicitation, Section 015719.00 25 also describes the Control
+and Disposal of Solid Wastes, Hazardous Wastes, Regulated Wastes and Abrasive
+Blasting (R4, tab 1at146, 148, 150-51). This part of the solicitation directs that
+hazardous waste be disposed of on-site through the Mayport HWSF. Paragraph 5.3 .1,
+"Hazardous Waste/Debris Management" directs that all hazardous waste be disposed of
+through the Mayport HWSF (id. at 146). Likewise, a later provision of this same part of
+the solicitation, paragraph 3.7, "ABRASIVE BLASTING," pertains specifically to
+
+2
+    The Mayport HWSF is operated by the DLA at Naval Station Mayport. Naval Station
+        Mayport is a large quantity generator of hazardous waste, as that term is defined
+        by the Resource Conservation and Recovery Act (RCRA). (R4, tab 1, ii 1.9.1
+        at 139; 40 C.F .R. part 261)
+
+                                              7
+requirements for abrasive blasting, directs that abrasive blasting debris will be disposed
+of per paragraph 3.7.2, "Disposal Requirements," which provides in pertinent part
+"Hazardous waste generated from blasting operations will be managed in accordance
+with paragraph entitled 'Hazardous Waste/Debris Management'"(~ 3.5.1), which directs
+the contractor to dispose of all hazardous waste through the Mayport (HWSF) (id.
+at 151 ). However, this part of the solicitation is internally inconsistent regarding the
+disposal of the blast debris if it is not hazardous; it directs disposal of regulated waste
+on-site but directs non-hazardous waste to be disposed of off-site despite the fact the
+spent blast debris is both regulated and non-hazardous waste. Paragraph 3.5.1.5,
+"Disposal of Regulated Wastes," requires that, "[r]egulated wastes, except for asbestos
+and petroleum contaminated wastes, shall be disposed through Naval Station Mayport
+HWSF and shall not be taken off Station by the Contractor" (id. at 148). In contrast
+to disposal of regulated waste(~ 3.5.1.5), paragraph 3.7.2 mandates disposal of
+non-hazardous abrasive blasting debris will be in accordance with the paragraph entitled,
+"CONTROL AND DISPOSAL OF SOLID WAS TES" (~ 3 .4) which directs the
+contractor to take such waste off-site (id. at 146).
+
+        17. Part 3 of the RFP, under Project Description, also specially addressed the
+disposal of the blast debris (at § F2020 1.1.) that would necessarily be created by
+preparing the trusses for new paint stating it would "be treated as regulated waste and
+containerized for disposal through the Navat Station Mayport hazardous waste storage
+facility (HWSF)" (R4, tab 1 at 159). Likewise, section B201009, "EXTERIOR
+PAINTING AND COATINGS," specified that "blast grit and paint chips" would be
+treated as regulated waste in accordance with the RFP section entitled "Paint Related
+Work" which states the paint is not considered hazardous waste but "the blast grit/paint
+chips are a regulated waste that will require proper containerization and disposal through
+the Naval Station Hazardous Waste Storage Facility (HWSF)" (id. at 164-65, 170).
+
+        18. Amendment No. 0002 to the RFP also added, Part 5, Prescriptive Technical
+Specifications, Section 09 97 13. 27 (Exterior Coating of Steel Structures) (R4, tab 3
+at 464). Subparagraph 3.6.6, Disposal of Used Abrasive, directed the coating contractor
+to "[d]ispose of used abrasive off Government property in accordance with Federal, State,
+and Local mandated regulations" (id. at 482).
+
+Gaskins' Proposal
+
+        19. Gaskins' initial proposal, submitted on 15 January 2009, provided in pertinent
+part the following statement describing how it intended to prepare the surface of the
+trusses and dispose of the particles, blast grit, and debris resulting from the surface
+preparation - "[ s]urface preparation and the removal of existing paint requires that the
+truss be shrouded during the preparation phase and that all particles, blast grit and debris
+be treated as regulated waste and containerized for disposal through the Naval Station
+Mayport hazardous waste storage facility" (R4, tab 5 at 589). This language remained
+
+                                             8
+the same through each of Gaskins' revised proposals and its Best and Final Offer (BAFO)
+(id.). The proposals were evaluated by a Source Selection Board (SSB) that consisted of
+three voting members: Angela Hocutt, Adam Hocutt, and Kurt Wittman (tr. 6/219,
+7/204-05, 8/165). All three members of the SSB testified at trial that they understood the
+statement in Gaskins' proposal about disposing of blast debris through the Mayport
+HWSF to mean Gaskins would dispose of the blast debris through the Mayport HWSF,
+and that they relied on that statement in recommending award to Gaskins (tr. 6/210,
+7/214-16, 81166-67).
+
+        20. Mr. Frost (Gaskins) testified that he supervised Mr. Malcom Beasley, the
+proposal estimator, and reviewed Gaskins' proposal before it was submitted (tr. 1/61).
+Gaskins' subcontracted with DACA for the blasting and painting scope of the work and
+relied upon DACA for that part of their proposal (tr. 1/72-73). Based upon DACA's
+inputs, the proposal for the blasting and painting scope of the job was based upon the
+understanding that this was a no lead job (tr. 1161, 71-72, 2/77, 5/245). Gaskins' final bid
+incorporated DACA's bid submittal to Gaskins for the blasting and coatings scope of
+work (tr. 1/72-73, 103-04). Because Amendment No. 0001 told offerors to bid the job as
+involving no lead-based paint, Gaskins and DACA did not include any costs of handling
+or disposing of lead-based paint in its bid. Instead, Gaskins and DACA assumed that - if
+lead-based paint was discovered - the government would provide additional
+compensation. (Tr. 5/51) DACA bid the blasting and coatings work at a total cost of
+$424,891.00, using nine workers, and anticipated a start date of 15 August 2009, and a
+finish date of20 December 2009 (app. 2nd supp. R4, tab 288; tr. 3/75-77). The proposal
+and all revisions were signed by Mr. Gaskins (R4, tab 5 at 50 I).
+
+        21. Regarding disposal of the spent debris, DACA based its proposal on
+solicitation Amendment No. 0002, § 09 07 13 .27, Part 3 .6.6, i.e., that the spent debris
+would be disposed of off-site (app. 2nd supp. R4, tab 128). Mr. Mike Mingle, who
+prepared and submitted DACA's bid to Gaskins, testified that he read the entire RFP and
+calculated DACA's price for disposing of the spent debris off-site disposal. However, he
+did not remember ever communicating this to Gaskins. (Tr. 5/230, 277) The bid
+submitted to Gaskins does not describe the method of disposing of the spent debris (app.
+2nd supp. R4, tab 270). Mr. Frost testified it was his understanding that the section
+proposing to dispose of all spent debris on-site was the result of a "cut and paste" error by
+the architect-engineering firm (A&E) hired by Gaskins (tr. 5/75). Neither Mr. Gaskins
+nor Mr. Beasley, who prepared the proposal, testified at the hearing.
+
+        22. Gaskins was awarded Contract No. N69450-09-C-5068 on 12 March 2009
+(R4, tab 8 at 627-28). The contract completion date (CCD) was 26 June 2009 for
+contract line item number (CLIN) 0001 and 7 May 2010 for CLINs 0002, 0003, and 0004
+(id. at 631 ). Additionally, the contract incorporated Gaskins' technical proposal as part
+of the contract documents (id. at 664). Thereafter, on 16 April 2009, Gaskins entered
+
+
+                                              9
+into a subcontract with DACA to perform the paint removal and recoating requirements
+of the contract (app. supp. R4, tab 101 at 895).
+
+Surface Preparation and Coating Plans, Blasting and Coating Plans and Vacuum Plans
+
+        23. Gaskins was contractually required to submit and obtain approval of various
+site specific environmental plans prior to commencing work. Pertinent to this appeal,
+Gaskins (DACA) submitted various versions of a Site Specific Workplan for Surface
+Preparation and Coating Application (Surface Preparation and Coating Plan), Site
+Specific Environmental Plan for Blasting and Coating Activities (Blasting and Coating
+Plan), and a Site Specific Vacuum Plan for Vacuuming Spent Blast Media Activities
+(Vacuum Plan) for government review. Government witnesses who were involved in the
+review process testified that the submittal process began in the fall of 2009 and described
+the submittal process as "piecemeal," and that DACA repeatedly altered its plans and did
+not adhere to the submittal review process (tr. 8/12-13). One witness testified the
+submittal process was "chaotic" as a result the government had trouble tracking Gaskins'
+submittals because they were often incomplete (tr. 7/234, 236-37). A review of the
+record supports these witnesses' testimony and also confirms the government could not,
+or did not, control the process.
+
+        24. Pertinent to this appeal, the Surface Preparation and Coating Plan specifically
+addressed where the spent blasting debris would be sent for disposal. Gaskins submitted
+DACA's initial Surface Preparation and Coating Plan on 15 December 2009 but this
+initial draft plan did not specify the disposal location of abrasive blast media or waste
+disposal (R4, tabs 78, 79 at 71, ~ 10.3.1, at 82, ~ 20.2). The CO informed Gaskins on
+21 December 2009 that the plan was rejected and provided specific comments dated
+17 December 2009 (R4, tab 80 at 1, 3-4). Comment No. 1, regarding section 10.3.1,
+stated in pertinent part, "disposal is to be through the Mayport Part B Facility in
+accordance with (iaw) SOPA(ADMIN)MYPTINST 5090.lSERIES" (id. at 3). Comment
+No. 2 similarly stated: "all industrial process waste and hazardous waste is to remain
+on-Base and be disposed through the Mayport Part B Facility" (id. at 4).
+Subsequently, on 11 January 2010, Gaskins revised a draft Surface Preparation and
+Coatings Plan stating the spent abrasive would be disposed of at the Mayport Part B
+facility (R4, tab 350(g) at 32of33, ~ 20.3).
+
+       25. Thereafter, in late January 2010, DACA began taking the position that the
+spent debris could be taken off base to a landfill. Mr. Mingle, DACA's regional
+manager, met with government personnel including, Ms. Joann Mason,
+Ms. Julie Kaiser (Moleski) 3 and Mr. David Moody, at NA VF AC's environmental office
+to discuss disposal of abrasive blast waste (tr. 8/46-48).
+
+3 Ms. Julie Kaiser's last name by the time of the hearing was Moleski.  Since her name
+       was Kaiser during the contract, this decision will use the name Kaiser.
+                                            10
+        26. Mr. Mingle (DACA) was of the opinion the waste could be disposed of
+off-base based upon his reading of the specification added by Amendment No. 0002 to
+the RFP, which,~ 3.6.6 Disposal of Used Abrasive, states "[d]ispose of used abrasive off
+Government property in accordance with Federal, State, and Local mandated regulations"
+(tr. 8/46-47, 50-51). On 26 January 2010, Mr. Mingle forwarded a letter to Gaskins'
+project manager, in which he referred to "our meeting on Monday, January 25 at the job
+site regarding hazardous waste disposal" and stated, "[t]he owner [Navy] agrees with the
+position ofDACA, Inc., that any hazardous waste will be disposed of off-site by DACA
+consistent with Amendment 2, Section 09 97 13.27, Part 3.6.6. This is the specification
+to which DACA bid the project." (App. 2nd supp. R4, tab 128) That same day, DACA
+(Mr. Mingle/David Ogletree) sent a change order request form to Gaskins asserting that
+the change in disposal methods from what was specified in paragraph 3 .6.6 of
+Amendment No. 0002 of the solicitation would amount to a $528,803 impact on DACA.
+The description of the change referred to "comments dated 12117/2009 [presumably the
+government's comments on DACA's Surface Preparation and Coating Plan] all waste to
+be disposed of on-site at the Part B facility." (R4, tab 90)
+
+        27. The record is devoid of evidence corroborating Mr. Mingle's account of the
+meeting or that the CO was aware of the meeting or approved Mr. Mingle's position.
+Contrary to Mr. Mingle's recollections, Ms. Mason testified that she and Ms. Kaiser told
+Mr. Mingle during the meeting that they understood the contract to require disposal of
+abrasive blasting waste through the Mayport HWSF (tr. 8/48-49). Mr. Mingle could not
+remember ever receiving any written confirmation of his position from the government
+(tr. 5/268). Mr. Anderson (Gaskins) testified he never attended any meeting where a
+government employee told Gaskins or DACA it was acceptable to dispose of spent debris
+at an off-site facility (tr. 5/200-02). Likewise, the CO testified she could not recall
+attending any meeting in January 2010 with Mr. Mingle or Mr. Anderson, had never seen
+Mr. Mingle's letter to Gaskins, and never approved any off-site disposal of waste
+(tr. 7/22-23).
+
+        28. Gaskins submitted a revised draft Surface Preparation and Coating
+Application Plan on 1 February 2010 that stated spent abrasive debris would be "hauled
+to a landfill for disposal" (R4, tab 350(h) at 32-33 of 33, ~ 20.3). This plan was followed
+by another draft on 23 November 2010 which also specified disposal at a landfill but for
+the first time specified a specific landfill, the Chesser Island Road Landfill in Folkston,
+Georgia (R4, 350(n) at 26 of26 ~ 19.2.1). The government provided comments, on
+Gaskins "Revised CWP & ABP for Hangar 1552" on 1February2011 stating:
+
+
+                                             11
+     Page 26 of 26,      Plan states: "The spent abrasive will then be characterized,
+     Section 19.2.1,     manifested, and transported to Chesser Island Road Landfill in
+     Waste               Folkston, GA ... "
+     Management and
+     Disposal            All spent blast media regardless of characterization (i.e.
+                         hazardous and/or non-hazardous) is to be disposed through
+                         the Mayport HWSF. NO blast media is to be disposed at
+                         the Chesser Island Road Landfill in Folkston, GA ... "
+
+(R4, tab 350(a) at 22)
+
+        29. Despite the plans submitted the same month, on 9 February 2010, that
+specified disposal at a landfill off-site, DACA (Mr. Mingle) submitted a Blasting and
+Coating Plan which stated both hazardous waste and regulated waste were to be
+"managed" by the Mayport HWSF (R4, tab 95 at 3, 8). On 10 February 2010,
+Brian Price (NAVFAC SE) emailed Gaskins, copying the CO, Ms. Bushey, "[i]n an
+effort to move forward, the Blasting and Coating Plan is approved, w/ comments. Since
+it appears the comments require pages to be inserted into our copies, please email those
+pages to us." (App. 2nd supp. R4, tab 157 at 1, tab 158 at 1) The forwarding email
+referenced "Site Plan Submittal #4." Comments are included at that Rule 4 tab but they
+do not mention disposal or reference which revision the comments are associated with.
+Additionally, the draft plan is not included in the file with the comments. (Id.)
+Consequently, it is impossible to tell whether this copy of the plan was ever approved.
+
+        30. The record includes an 11March2010 email forwarding revision 6 of
+DACA's site specific workplan to the government (app. 2nd supp. R4, tab 159 at 374). A
+copy of a site specific workplan is included in the record behind the email purporting to
+be the attachment. This plan specifies disposal off-site. (Id. at 406,, 20.3) However,
+this plan is dated some seven months later (22 October 2010) than the email ( 11 March
+2010) and does not identify a revision number (id. at 375). Again, it is impossible to tell
+whether this plan was approved.
+
+       31. On 30 March 2010, Gaskins forwarded DACA's Revised Vacuum Plan to the
+CO (app. 2nd supp. R4, tab 277). DACA's approved Vacuum Plan does not specifically
+address disposing of waste off-base. The Vacuum Plan included an email from Mr. Price
+to Mr. Ryals (DACA), on 4 June 2010, stating: "Your Vacuum Plan is approved w/ one
+comment" which related to labeling the containers to be disposed (id. at 1119). The
+Vacuum Plan includes a map of the base labeled "HAUL ROUTE" indicating a route
+from the work site to the "CONTRACTOR'S GATE" (id. at 1121).
+
+       32. The Vacuum Plan submittal also included a revised Blasting and Coating Plan
+and a Surface Preparation and Coating Application Plan, which were specifically revised
+to indicate disposal off-base (app. 2nd supp. R4, tab 277 at 1126, 3708). DACA included
+                                            12
+a cover page to the included Surface Preparation and Coating Application Plan that states
+that one revision has been made to the plan "paragraph 20.3" (id. at 1126). Paragraph
+20.3 states in pertinent part, "[t]he spent abrasive will then be characterized, manifested
+and hauled to Chesser Island Road Landfill in Folkston, GA by EnviroVac Industrial &
+Environmental Services for disposal" (id. at 1158). Likewise, DACA made one revision
+to the Blasting and Coating Plan adding a paragraph to the section addressing "Hazardous
+Waste Prohibition" stating in pertinent part, "Once the spent blast media is tested and
+passed it will be profiled, manifested and hauled to Chesser Island Road Landfill in
+Folkston GA by EnviroVac Industrial & Environmental Services" (id. at 1161, 1167).
+Perhaps consistent with disposal off-base, the plan also includes an attachment of a map
+with a designated "HAUL ROUTE" (id. at 1171 ). However, the section on "Disposal
+Documentation for Hazardous and Regulated Waste," as in the original submittal, states
+"not applicable because it will be managed by NS Mayport's HWSF" (id. at 1164). We
+find it is impossible to determine from the record whether the government ever approved
+the specific revisions to these plans.
+
+       33. We find that most of the plans in the record lack a date or fail to indicate
+whether they are revised submittals. It is almost impossible to correlate government
+comments with specific submitted plans. This problem is compounded by the fact that
+most submittals and government approvals and comments were forwarded by emails with
+attachments. Most attachments are not included in the record, only the forwarding email.
+This results in making it impossible to correlate government comments/approvals with a
+specific submittal. In those few instances where we can correlate the comments with a
+specific plan, the government consistently required on-site disposal.
+
+Steel Profile Issue: Additional Layer ofIntermediate Paint/Modification No. (Mod.) P00003
+
+        34. Shortly after starting its work in March 2010, DACA discovered that the
+existing profiles of the trusses were deeper than indicated by the Specifications (R4,
+tab 105). The contract specified a coating thickness to be achieved after the application
+of all coating layers. The test blasting indicated the standard three-coat system specified
+by the solicitation and adopted by the Designer of Record would not achieve the required
+thickness. (Tr. 8/149-150) The CO suspended work on 31March2010 and by 26 May
+2010, both the government and Gaskins agreed to resolve the steel profile issue by the
+application of an additional intermediate layer of paint (R4, tab 115 at 2; tr. 8/150-51).
+
+       35. On 16 June 2010, the government internally agreed that Gaskins' proposal,
+requesting $508,979 and assuming a 5 July 2010, re-start date, was "fair and reasonable."
+(app. 2nd supp. R4, tab 173; R4, tab 118). On 3 August 2010, the government issued
+Gaskins a notice to proceed and stated a modification was forthcoming. The email
+explained the government agreed with Gaskins' and DACA's costs for the new work and
+application of the intermediate coating application ($249,175) but not the time and cost
+regarding the associated delay. As a result, the modification would include an extension
+
+                                            13
+of 34 working days to apply the additional layer of intermediate paint (thereby extending
+the contract completion date by 53 calendar days from 30 July 2010 to 20 September
+2010) until the delay and associated costs could be negotiated. (R4, tab 130)
+
+       36. Unilateral Mod. P00003 was issued on 30 September 2010 increasing the
+price by $466,988.36 and adding 159 calendar days to the schedule (R4, tab 11 ). This
+amount was less than Gaskins' proposal of $508,979, which assumed that the notice to
+proceed would be issued a month earlier than it was (app. 2nd supp. R4, tab 173; R4,
+tab 118 at 1).
+
+       3 7. The combination of new work and delay days added to the contract also
+extended the contract completion period over a second Christmas holiday not anticipated
+by the original schedule or the solicitation (R4, tab 11; app. 2nd supp. R4, tab 252).
+However, Mod. P00003 counts the holiday period as part of the time in which Gaskins
+would be permitted to perform the additional work (tr. 7/69).
+
+Perry Roofing
+
+        38. During the performance of CLIN 0001 in 2009, Gaskins' roofing
+subcontractor, Perry Roofing, made dozens of penetrations in the hangar roof to facilitate
+installation of temporary shoring (tr. 8/41-42). Mr. Richard Erdman, Perry Roofing's
+senior field superintendent, testified Perry Roofing's original plan was to start work in the
+fall of 2009 and complete its work in May 2010 (tr. 3/56-57). Instead, Perry Roofing
+could perform only minor work prior to November 2010 and lower roof work
+(constituting approximately 20% of its scope) between November 2010 and July 2011
+(tr. 3/59-60). Perry Roofing did not complete its scope until January 2012 (tr. 3/64). The
+start-and-stop periods resulted in Perry Roofing incurring greater administrative costs
+than it could foresee prior to execution of its subcontract (tr. 3/60-61). Mr. Erdman also
+testified that although the government allotted Perry Roofing a small staging area -
+which permitted Perry Roofing to purchase, store, and invoice for 20% of the required
+materials - Perry was nonetheless unable to purchase, store, or invoice for the remaining
+80% of required materials until a later point in time, after expiration of its purchasing
+window and during a time of increased materials costs (tr. 1/60-64; app. 2nd supp. R4,
+tab 309). Contradicting Mr. Erdman's testimony, Ms. Mason testified that Perry asked
+permission to store roofing materials at the project site in February 2011, which was
+granted and the government paid for the materials to be stored. The materials constituted
+80% of the materials required for the roof and were paid for during February 2011.
+(Tr. 8/42-46) The vendor notices related to Mr. Erdman's reference to increased material
+costs were not effective until 1 March 2011 (app. 2nd supp. R4, tab 309).
+
+
+                                             14
+Discovery of Defective Welds on the Trusses
+
+       39. CLIN 0002 of the contract required Gaskins to repair external structural
+trusses involving welding certain truss members to strengthen old welds that were failing
+(R4, tab I at 3). Under the contract, Gaskins was responsible for inspecting and testing
+the welding work for quality control (R4, tab 352 at 52, ~ 3.2). Per the contract, Gaskins
+chose to contract with a third-party, certified weld inspector (CWI), Ellis & Associates,
+Inc. (Ellis), to verify that the newly installed welds met contract requirements.
+
+        40. On 12 April 2010, Mr. Brian Thomas, an independent "NACE"4 (coatings)
+inspector hired by DACA, forwarded DACA (Mr. Page Wright) a summary of his
+observations that some welds on the trusses appeared to be defective (R4, tab 108 at 3-4).
+Mr. Wright documented Mr. Thomas' observations in two reports which he forwarded to
+DACA and Gaskins the following day (R4, tab 110 at I; tr. 2/247-48). Mr. Wright
+testified that Gaskins verbally responded advising him that no corrective action would be
+taken because the government had already "bought off' on the welds. He documented
+this conversation in a Work Condition Report and then forwarded it to DACA's corporate
+office. (R4, tab I 09; tr. 2/251-52)
+
+        41. Neither Gaskins nor DACA notified the government about Mr. Thomas'
+concerns regarding the defective welds (tr. 719, 8/29). Additionally, the government's
+ability to independently discover the defects in the welds was hindered because Gaskins'
+CWI, Ellis, had previously submitted reports to the government approving the same
+welds and in early 2010 the government implemented a safety "stand down," unrelated to
+the welding, prohibiting NAVF AC SE employees from climbing scaffolding (where they
+might have detected the defective welds) until they had undergone retraining in fall
+protection (tr. 8/29-30).
+
+        42. The government only learned of Mr. Thomas' concerns a month or two later
+when Ms. Mason discovered Mr. Wright's reports among documents Gaskins submitted
+to the government in support of a request for additional time relating to the steel profile
+issue (tr. 7/8, 8/28-30, 154-55). Upon examining the reports, Ms. Mason inspected the
+trusses, identified defective welds and prepared a report for the CO reflecting her findings
+(R4, tab 121; tr. 8/32).
+
+       43. On 29 June 2010, the CO notified Gaskins' president, Mr. Larry Gaskins, of
+the defective welds and demanded the removal of the Gaskins employee who was
+
+
+4
+    The National Association of Corrosion Engineers (NACE) International is an
+         organization that sets standards for inspection in the protective coating industry
+         and provides certification programs in various areas, including a coating
+         certification program.
+                                               15
+functioning as its quality control manager at the time 5 (R4, tab 124). Gaskins responded
+by disputing that any welds were defective, but proposed to have Ellis appoint an
+independent certified welding inspector. Ellis identified Mr. John Champion, who in
+2009 had previously inspected unrelated welds on the project. 6 (R4, tab 125)
+Mr. Champion testified that when he arrived to investigate the concerns raised by the
+government, he was instructed by Gaskins to inspect the truss apexes, which he had not
+previously inspected (i.e. the new welds performed by Garrison Steel, Gaskins' steel
+subcontractor) (tr. 7/130-32). Gaskins did not offer any evidence to refute
+Mr. Champion's testimony that he was told to inspect only welding performed by
+Garrison Steel.
+
+        44. Mr. Champion found that on each of the 34 truss apexes there were one or
+more welds that did not comply with the weld acceptance criteria published by the
+American Welding Society (AWS). Defects he observed included, but were not limited
+to, rolls, cracks, and undercut and undersized welds. (Tr. 7II 07) He testified that each
+one of these types of defects, as well as others, could result in failure of the affected
+welds (tr. 7/109). He documented his findings in reports and contemporaneous
+photographs that he provided to both Ellis and Gaskins (R4, tab 352 at 97-190 (reports),
+tab 355(b) (photographs); tr. 7/94-95). During his testimony, Mr. Champion described at
+length the defective welds depicted in several of his photographs, generally
+characterizing the welds as "extremely bad" (tr. 7/164-65). Mr. Champion also testified
+that no one at Gaskins ever expressed any disagreement to him about the conclusions in
+his reports (tr. 7/148).
+
+       45. Michael Herring, a NA VF AC senior structural engineer with 36 years of
+experience, who was qualified as an expert in structural engineering, testified at trial that
+the defects observed by Mr. Champion were located on structural welds, i.e. welds
+designed to support a structural load (tr. 7/179). Mr. Herring expressly refuted earlier
+testimony of Harry Frost and Tim Anderson, of Gaskins, that the defective welds were
+"non-structural" and that rework was only necessary to ensure the quality of the coating
+application (tr. 7/198-99 (Herring), 1/200-0 I (Frost)). Mr. Herring also testified that if
+the defects documented by Mr. Champion had not been discovered and corrected, the
+welds could have failed, resulting in a "major catastrophe" by causing the roof to collapse
+on people and equipment inside the building (tr. 7/202). We find Mr. Herring's
+testimony more credible than that of Mr. Frost and Mr. Anderson.
+
+
+5
+  The removal demand was issued per the "Materials and Workmanship" clause,
+       52.236-5(c) (R4, tab 124 at 3).
+6 The government initially hired its own welding inspector but after a short period of
+
+       concurrent inspections developed sufficient confidence in Mr. Champion to move
+       forward solely with him (tr. 8/156).
+                                             16
+Hazardous Waste Confirmed in Spent Blast Debris
+
+        46. On 12 October 2010, DACA provided Gaskins the analytical results for the
+first group of spent blast debris. Gaskins provided the same to the government on
+13 October 2010. (App. 2nd supp. R4, tab 92) Ms. Kaiser (the Mayport hazardous waste
+program manager), confirmed that the results were "[n]on-haz, but the '2nd Analysis of
+spent abrasive Truss 2' has HIGH chromium (4.0 mg/Land 5.0 mg/Lis HW). I need to
+verify with Cheryl [Mitchell] that she is ok sending off base." (App. 2nd supp. R4,
+tab 185) On 14 October 20 I 0, Ms. Kaiser sent an email to Ms. Mitchell asking the
+following question in the subject line: "Do you have a problem with 4.0mg/L TCLP
+Chromium Black Beauty blast grit going off as NONHAZ???" (app. 2nd supp. R4,
+tab 188). That same day at 11 :06 AM, Ms. Kaiser sent the following message to
+Mr. Brian Price (the CO's representative) and Ms. Joann Mason (the CO's engineering
+technician):
+
+             Spoke with Cheryl regarding the analysis. Additional
+             information from the contractor is required for a decision on
+             disposal.
+
+             1- Where does the contractor intend to dispose the blast
+             media?
+             IA- Chester Island road landfill, Permit #024-006D PO Box
+             128 Folkston Ga. 31537
+
+             2- Will the contractor be completing a waste profile at the
+             disposal facility for Env. review and signature)?
+             2A- Yes, once the blast media is delivered to landfill, a
+             manifest stating the amount. A waste profile will then be sent
+             to you and Joann Mason for review.
+
+             3- How many tons of blast grit were generated for trusses
+             4-6?
+             3A- Approx 10-12 tons. This is for trusses 4 and half of truss 5.
+
+             4- Has the contractor already blasted trusses 1-3? If yes,
+             where did this blast grit go for disposal?
+             4A- In truss group #1 only truss #1 and the apex's on trusses
+             #2 &#3 have been blasted. No disposal at this time.
+
+             5- Did the contract specify disposal through the Mayport
+             HWSF?
+             5A- This has not been determined Hazardous material Per the
+             TCLP (see attached results)
+
+                                           17
+             Unfortunately, I will be on leave from tomorrow through next
+             Tuesday (returning 10/20/10). If you can get this information
+             to me today, I will try to have an answer before I leave.
+             Thanks, Julie
+
+(App. 2nd supp. R4, tab 186 at 464-65) Ms. Kaiser then forwarded this entire exchange
+to Mr. David Moody (a Gaskins Superintendent) at 1:24 PM (id. at 464).
+
+       4 7. Separately at 1: 14 PM, Ms. Mason emailed Ms. Kaiser the following answer
+to her questions:
+
+             Item# 1 - landfill Folkston Georgia
+             Item # 2 - assume is required.
+             Item # 3 - Contractor does not know the weight at this time,
+             will provide upon delivery to the landfill/or estimated until
+             turned in.
+             Item # 4 - response is the contractor has not blasted trusses
+             1-3, with exception of the trusses for the welding
+             inspection/corrections.
+             Item # 5 - Media is allowed to be disposed off-site if it is
+             non-hazardous.
+
+(App. 2nd supp. R4, tab 190 at 490)
+
+        48. Ms. Mitchell testified that waste disposal requires a waste manifest to
+maintain a chain of custody throughout the disposal process. This document provides the
+government with notice of the circumstances of the disposal and an opportunity to
+approve or disapprove the disposal. Normally, at Mayport, this document would be filled
+out and signed by an employee in the environmental office. (Tr. 6/151-52) However,
+these procedures were not followed in this case. Without notice of approval from the
+government, Envirovac (under contract to DACA) disposed of the first batch (two
+containers) of spent blast debris off-site at the Chesser Island Landfill on 18 October
+2010 (R4, tab 155). Mr. Wright (DACA) improperly signed the manifests in lieu of the
+environmental office. The manifest and the associated documents also misidentified the
+waste generator as DACA, rather than Mayport, identified the point of contact as the
+contractor (rather than a government employee required by the contract) and
+misidentified the waste as "sandblast media" (tr. 9/38-40). The government did not learn
+of the disposal until later on 22 October 2010 when Gaskins emailed the disposal tickets
+to the environmental office (app. 2nd supp. R4, tabs 197-98).
+
+      49. At 1:02 PM on 20 October 20 I 0, after returning from leave, Ms. Kaiser
+provided the following response, directly to Gaskins: "I am good with Che[ss]er Island
+
+                                           18
+Road Landfill (note the spelling) .... With respect to question 5. I need to read the
+language in your contract. While the waste is technically non-hazardous, it came close to
+HW levels for chromium." (App. 2nd supp. R4, tab 192 at 495) At 2:44 PM that same
+day, Ms. Mason responded-with a "cc" to the CO, Ms. Angela Hocutt, 7 stating "Team,
+Please see the enclosed amendment 0002 page that specifically allows for off-site
+disposal." Attached to Ms. Mason's email was paragraph 3.6.6 of the "Exterior Coating
+of Steel Structures" specification section, as added to the RFP as part of Amendment
+0002. (App. 2nd supp. R4, tab 195 at 521)
+
+       50. Two minutes after receiving Ms. Mason's email attaching paragraph 3.6.6,
+Ms. Kaiser provided, "Joann, Thanks, that was what I needed. Please be aware that the
+chromium level is high, but is below the HW limit for chromium. However, Chesser
+Island Road Landfill does have the right to reject acceptance of the waste (I don't think
+they will, but it is conceivable)." (App. 2nd supp. R4, tab 192 at 495)
+
+       51. Ms. Hocutt testified that Ms. Mason did not have authority to change the
+terms of the contract. Ms. Hocutt's testimony establishes that she read the email and
+disagreed with Ms. Kaiser and Ms. Mason's representations that the contract allowed
+disposal off-site but did not take any action to correct the statements made to the
+contractor. Her explanation for remaining silent was that at the time she did not think she
+had an action because she expected the contractor to request a variance to the contract.
+She also understood the email was directed to Gaskins as well as the government
+personnel. (Tr. 7/4 7-50)
+
+       52. On 3 December 2010, DACA received the testing results for the next group of
+spent blast debris, which Gaskins forwarded to the government on 6 December 2010.
+The government characterized the results as Hazardous Waste, based on the chromium
+value of 9.6 mg/L (almost twice the Hazardous Waste threshold of 5.0 mg/L). Upon
+receiving the results, Ms. Kaiser found both the results and the sampling techniques used
+by DACA and its third-party laboratory to be valid. (App. 2nd supp. R4, tab 202)
+
+        53. On 14 December 2010, Gaskins sent a follow-up letter to the government
+requesting direction for how to proceed in light of the chromium discovery (R4, tab 194).
+On 17 December 2010, the CO responded by email to Gaskins' 14 December letter that
+the contract required Gaskins to dispose of "all particles, blast grit chips, and debris"
+through the Mayport HWSF. In addition, the CO directed that that no additional blasting
+could be performed until DACA submitted another site specific sampling plan to replace
+its previously approved, stating, "It has also come to our attention that the required waste
+determination has not been properly performed. Per Part 2, Section 07 57 19.00 25,
+Paragraph 1.5 LABORATORY ANALYSIS." (R4, tab 19)
+
+
+7 Ms. Hocutt's name at the time of the email was Angela Bushey.
+
+                                             19
+      54. On 7 January 2011, Gaskins and the CO participated in a discussion
+concerning the discovery of hazardous waste (R4, tab 203). In an email sent directly to
+Gaskins' personnel and summarizing the meeting, the CO provided that she:
+
+             Reiterated email of December 17th stating that Part 3 and
+             [the] contractor's technical proposal indicated spent media
+             would be disposed of as regulated waste through Part B so
+             that portion of the effort was not considered a change.
+             However, is [sic] material did re-test as hazardous using new
+             approved sample plan and having representative results, the
+             difference in the containment and PPE required would be a
+             change provided that it wasn't the virgin media causing the
+             hazardous material results.
+
+(R4, tab 203 at 32175) Also in an email dated 7 January 2011, Ms. Mason confirmed that
+DACA re-tested the virgin media (i.e., the abrasive material without any addition of
+existing paint) and the virgin media results were non-hazardous (id. at 58144).
+
+       55. Gaskins responded by letter on 19 January 2011 questioning the CO's
+direction and informed the CO it had already disposed of two containers of spent blast
+media off-site (R4, tab 20 at 720-21 ).
+
+       56. On 24 January 2011, the CO authorized the blasting efforts to proceed, based
+upon the fact DACA's revised Site Specific Abrasive Sampling Plan was in the
+government review process (app. 2nd supp. R4, tab 214).
+
+        57. The CO responded to Gaskins' 19 January 2011 letter on 27 January 2011 and
+again directed Gaskins to dispose of spent blast media at Mayport's HWSF (R4, tab 22).
+Mr. Joiner (DACA) testified that the on-site rates, during DACA's performance,
+exceeded what DACA paid for Envirovac to directly dispose of the waste at an off-site
+landfill (tr. 3/95-96).
+
+        58. On 2 February 2011, Gaskins notified the CO that Gaskins had taken six
+additional samples that when tested indicated "extremely high levels of chromium." The
+letter continued stating:
+
+             The RFP indicated that chromium levels in the existing
+             coatings were below the action level. ... [T]he attached test
+             results conflict with the RFP, therefore ... please consider this
+             as notice of a differing site condition .. ..
+
+             Additionally, since Paragraph (a) of FAR Clause 52.236-2
+             requires that we notify you 'before the conditions are
+
+                                             20
+               disturbed,' we will suspend all surface preparation activities
+               until we receive direction from you on how to proceed.
+
+(R4, tab 24)
+
+        59. On 17 February 2011, the CO responded to Gaskins' 2 February 2011 notice
+of a differing site condition explaining that, regardless of the TCLP test results, the
+solicitation required that all paint removal debris, whether hazardous or regulated, be
+treated as regulated waste and disposed of at Mayport's HWSF, which would be the same
+cost under either circumstance (R4, tab 26).
+
+       60. Gaskins submitted four claims between 11 March and 3 May 2011 (R4,
+tabs 25, 30, 33, 34). On 9 November 2011, Gaskins submitted a consolidated claim, on
+behalf of itself and its subcontractors, seeking $6,225 ,23 5 .82 resulting from the discovery
+of hazardous materials, as well as other impacts (R4, tab 36 at 1111, 1121). On 2 January
+2012, the government acknowledged receipt of Gaskins' claim and provided notice the
+CO would issue a contracting officer's final decision (COFD) by 30 June 2012 (app.
+supp. R4, ex. 3). The CO did not issue a COFD by 30 June 2012 and Gaskins appealed
+the CO's deemed denial to the Board on 11 February 2013. We docketed their appeal as
+ASBCA No. 58550.
+
+Worker Protection/Personal Protective Equipment (PPE) & Environmental Containment
+
+        61. Mr. Mingle (DACA) testified regarding the impact the discovery of high
+levels of chromium in the spent blast debris had on DACA. He testified that DACA was
+required to dispose of its previously approved personal protective equipment (PPE) as a
+Hazardous Waste, due to the hazardous, abrasive debris residue contaminating the PPE.
+Because the PPE was now classified as a Hazardous Waste, DACA could not reuse the
+PPE, as it had originally planned to do. Instead, DACA was required to continually
+dispose of the PPE at Mayport's on-site hazardous waste storage facility, at a cost, and
+purchase new PPE. (Tr. 5/258-59) Mr. Frost (Gaskins) testified that the delay from
+December 17th through January 24th caused by the CO's directive that DACA submit
+another sampling plan to replace its previously approved sampling plan, and the
+inefficiency of using the DLA-provided roll-off containers, required DACA to increase
+its workforce from the as-bid 9 workers to - at times - up to 20 workers, in an attempt to
+keep up. Each of these new workers needed to be outfitted with PPE. (Tr. 3/97-99)
+Mr. Hames (DACA) testified that DACA erected a second containment for its workers to
+remove the PPE (outside of the primary containment) because the dust from workers'
+PPE could not be released beyond the containment and, as a result, workers were not
+permitted to remove their PPE within the containment (tr. 21127).
+
+      62. Mr. Mitchell Blum provided an expert report, a supplemental report
+incorporating testimony provided at the hearing, and testified during the hearing as a
+
+                                             21
+government expert witness qualified in Construction Health and Safety and Hazardous
+Material Management (R4, tabs 4l(a), 4l(b); tr. 9/125-52). His report specifically
+addressed alleged changes in required level of containment and worker protection
+resulting from the discovery of elevated levels of chromium in the spent abrasive waste
+(R4, tab 4l(b) at GOV4-12, iii! 2.1, 4.0). His overall conclusion was that the discovery of
+elevated levels of chromium in the spent debris did not change the required level of
+worker protection or containment.
+
+Worker Protection
+
+        63. Mr. Blum opined that, contrary to Gaskins and DACA's claims and
+testimony, the level of worker protection is not determined by the level of hazardous
+waste found in the spent abrasive waste or by the tests (the TCLP test results) included in
+the solicitation regarding the level of heavy metals in the paint. The level of worker
+protection for this project was controlled by OSHA regulations and the USACE in
+EM 3 85-1-1. Those regulations do not set any minimum levels for metals in paint at
+which a project meets any criteria as a "lead" or other metals "project." Instead, the
+level of worker protection is determined by the level of exposure indicated by exposure
+monitoring during performance. (R4, tab 1 at 93-94, tab 41(b) at GOV9)
+
+       64. Internal DACA emails establish that DACA understood this in February 2011.
+On 6 February 2011, Mr. Gram asked Mr. Morgan, "What you set up with the CIH was
+based on the original two TCLP readings. Now that we have 5 of 6 with Chromium and
+such high levels, does that change the need for a different setup?" Mr. Morgan
+responded the next day stating, "The TCLP tests are irrelevant. If there is a suspected
+hazard, you must follow protocol until you can prove there is not a hazard. Air
+monitoring is used to determine if there is no risk to the employees. TCLP is for waste
+stream determination." (R4, tab 221 at 2) Mr. Anderson (Gaskins) also recognized that
+worker protection was not determined from TCLP tests in a February of 2011 letter to
+Mr. Joyner (R4, tab 232).
+
+       65. Mr. Blum's report also noted that Gaskins and DACA recognized the
+requirement for exposure monitoring prior to the discovery of the elevated levels of
+chromium in the spent debris. Gaskins' Safety, Health & Accident Prevention Plan,
+dated 7 May 2009 and its Abrasive Blasting Plan acknowledged that "[a]ir sampling will
+be conducted during the initial phase of the project to determine the presence of toxic air
+contaminants commonly contained in industrial coatings to include RCRA Metals."
+(R4, tab 4l(b) at GOV137, ii 1.3)
+
+        66. However, worker exposure monitoring was not conducted at the start of the
+project. On 18 November 2010 DACA's project Certified Industrial Hygienist (CIH)
+stated, "Air sampling for RCRA metals has not been completed by PIHS" (R4, tab 4l(b)
+at GOV145, § 1.3). Mr. Blum's report indicates a 3 March 2011 email to DACA
+
+                                            22
+regarding air sampling results appears to be the first record of worker exposure
+monitoring conducted on the site (id. at GOV 10, -149).
+
+       67. Additionally, Mr. Blum's report directly contradicted Gaskins and DACA's
+assertions that the level of chromium required changes in PPE (R4, tab 41 (b)
+at GOVl0-12). His review disclosed Gaskins' Safety, Health & Accident Prevention
+Plan dated 7 May 2009, along with all subsequent submittals by DACA indicated the
+level of worker protection required and the level of respiratory protection for the
+abrasive blaster did not change, nor did the level of personal protective equipment (id.
+at GOVlO).
+
+       68. Mr. Blum's conclusions related to worker protection are summarized as
+follows:
+
+              OSHA and the USACE EM 385-1-1 require the contractor to
+              conduct an assessment as to the hazards of the job and
+              determine the level of PPE. I believe that the initial level of
+              PPE as selected by both Gaskin and DACA, and maintained
+              all the way through Mansfield Industrial, was adequate for
+              the workers on this project. In fact, the level of worker
+              protection used on this project is similar to most of my
+              current projects involving lead or other recognized health
+              hazards to the workers. What Gaskins and DACA failed to
+              do in the way of worker protection was to conduct initial,
+              appropriate air monitoring of their workers, provide proper
+              training for its employees and conduct the appropriate
+              medical testing.
+
+(R4, tab 4l(b) at GOV13)
+
+       69. Mr. Blum did not express an opinion regarding the need to hire more
+employees (and PPE) resulting from the alleged delay from 17 December through
+24 January caused by the CO's directive that DACA submit another sampling plan to
+replace its previously-approved sampling plan and the inefficiency of using the
+DLA-provided roll-off containers.
+
+Containment
+
+       70. DACA notified Gaskins by letter on 28 April 2011 that a change in
+containment would be required because of the presence of heavy metals, specifically,
+from a Class 2 to a Class 1 containment (R4, tab 304). Additionally, Mr. Hames testified
+the secondary containment was also required for transferring the waste from the
+
+
+                                             23
+Envirovac vacuum boxes to the DLA-containers provided by the government for DACA
+use after the discovery of Hazardous Waste (tr. 2/164).
+
+       71. Mr. Blum's report explains that SSPC Guide 6 does not dictate the level of
+containment required but instead is an industry guide on how to construct a containment to
+meet criteria established by the owner (here, the government) (R4, tab 4l(b) at GOVS).
+The contract, by Amendment No. 0002, § 09 93.37 ~ 3.5.1 required the contractor to
+design a containment system to meet the requirements of SSPC Guide 6, Class 2 (R4,
+tab 3 at 479, ~ 3.5.1). SSPC Guide 6, Class 2A and Class lA containment both require
+negative pressure to be maintained throughout the use of the containment (R4, tab 41 (b)
+at GOV6). Additionally Mr. Blum opined that, based upon his review of the Gaskins' and
+DACA's submitted plans, there was no intention of meeting the SSPC Guide 6 Class 2
+containment requirements (id. at GOV7).
+
+        72. Mr. Blum did not address Mr. Hames' testimony regarding the requirement
+for a secondary containment for transferring the waste from the Envirovac vacuum boxes
+to the DLA-containers provided by the government for DACA use after the discovery of
+Hazardous Waste.
+
+Directed Use ofDLA - Provided Containers
+
+        73. The government directed Gaskins and DACA to use only DLA-provided
+containers for transferring the waste to the Mayport HWSF (R4, tab 197). The
+government then informed Gaskins that the Mayport HWSF was unable to provide DLA
+boxes or accept third-party vacuum boxes (R4, tab 254). As a result of the government's
+direction, DACA transferred the spent blast debris from the Envirovac vacuum boxes to
+HWSF supplied roll-off containers. Mr. Wright (DACA) testified that the on-site facility
+did not have containers readily available and, to avoid even further delays, DACA
+transferred the material to the available Envirovac boxes while it waited for available
+DLA containers. (Tr. 2/163-64) In April 2011, Ms. Mason was informed that the
+Mayport HWSF "will not deliver anymore roll-offs [containers] until the (2) on-site
+[containers] are turned in and it may take 15 days before they can replenish the roll-off."
+This resulted in limiting DACA to storing two DLA roll offs at the worksite at any given
+time and that the pickup and drop off services (provided by the government) could be
+delayed by up to 15 days. (R4, tab 281) .
+
+DACA 's Termination and Settlement Negotiations
+
+       74. On 7 October 2010, DACA's attorney emailed Gaskins' attorney, Mr. Haire,
+copying Gaskins (Mr. Joiner and Mr. Ogletree) complaining that DACA's progress was
+being impeded by Gaskins' welding subcontractor who was performing work in the same
+area as DACA, stating, "DACA cannot absorb the cost of this interference" and "DACA
+will be financially ruined" ifthe situation is not corrected (R4, tab 145). The email also
+
+                                            24
+stated that DACA had already spent $100,000 while only performing 1% of the work.
+DACA again complained to Gaskins on 8 October 2010 about the interference caused by
+the welding contractor (R4, tab 146). Gaskins responded that same day with a letter
+taking the position that DACA should have anticipated the actions of the welding
+subcontractor as part of the required scope of the job (R4, tab 147).
+
+        75. On 17 November 2010, Gaskins issued a cure notice to DACA, citing
+DACA's failure to maintain the schedule it submitted to Gaskins (R4, tabs 176). DACA
+responded on 19 November 2010 acknowledging the schedule slippage but blamed the
+delays upon defective welding work by Gaskins' welding subcontractor, Garrison Steel
+(R4, tab 178 at 16540). Subsequently, on 22 November 2010, Gaskins issued a second
+cure notice to DACA (R4, tab 182). DACA submitted a notice of claim letter to Gaskins
+on 7 December 2010 seeking compensation for and a time extension resulting from
+interference and delays caused by Gaskins' welding subcontractor, Garrison Steel (app.
+supp. R4, tab 27).
+
+        76. Gaskins notified the government on 2 February 2011 after heavy metals were
+discovered in the paint on the trusses in early February 2011 (R4, tab 24). Thereafter,
+DACA also submitted numerous claim letters to Gaskins seeking compensation for the
+heavy metals discovered on the trusses. By 7 March 2011 DACA had submitted three
+letters to Gaskins with estimates of the impact of the change pressing Gaskins to submit
+their claim to the government (app. supp. R4, tab 37). By April 2011, DACA informed
+its surety of the issues described above, and DACA's surety notified Gaskins on 28 April
+2011 that it was prepared to revoke DACA's performance bond for a "cardinal change"
+(app. supp. R4, tab 53 at 486; tr. 1/91-92).
+
+       77. On 5 May 2011, the government notified Gaskins that it was concerned about
+Gaskins' ability to meet the current contract completion date and directed Gaskins to
+provide an explanation how it would meet its contract obligations (R4, tab 311 at 2).
+Gaskins responded on 16 May 2011 notifying the government that it was in talks with
+several potential subcontractors to supplement or replace DACA (R4, tab 315 at 2).
+
+        78. Internal government communications establish the CO and her team were
+aware ofDACA's claims against Gaskins but not involved in the resolution of the dispute
+between Gaskins and DACA. Gaskins forwarded an email to the CO's attention with the
+subject "Change to work hours and meeting request" on 5 May 2011. (App. 2nd supp.
+R4, tab 249) The CO was puzzled why she was the recipient of this email and forwarded
+it to her team. Although the attachment is not in the record, the context of internal
+government email chain indicates part of the attachment related to the dispute between
+Gaskins and DACA. The information was passed up the management chain and
+Ms. Butler informed LCDR LeBeau that,
+
+
+                                           25
+             We 'have' read and understood, this 1st surfaced (to us) at
+             last week's QC mtg when DACA brought this up and was
+             info' d he was to take this matter up directly with Prime
+             (LCG), LCG is responsible to work this out with their sub, if
+             they cannot reach agreement they need to get another
+             contractor in to take over for DACA. The Government
+             cannot directly solve the issue with DACA. Gov re enforced
+             that at last week's Mtg. Sandra and I are conf calling Tim to
+             find out their course of action.
+
+(Id.) Later, on 18 May 2011, LCDR LeBeau informed the CO and her team that
+Mr. Anderson (Gaskins) told him of DACA's claims against Gaskins and there would be
+an upcoming meeting between Gaskins and DACA to resolve DACA's future on the
+contract (app. 2nd supp. R4, tab 250).
+
+       79. In May 2011, DACA's representatives, Gaskins' representatives, Gaskins'
+parent company's representatives, legal counsel for both DACA and Gaskins, and
+DACA's surety met to discuss potential solutions to address the situation (tr. 1/93;
+3/104-05). On 19 May 2011, Gaskins and DACA agreed to terminate DACA's
+subcontract for convenience. Pursuant to the Termination Agreement, Gaskins agreed to
+compensate DACA for the reasonable and allowable costs (as judged by FAR and
+Defense Contract Audit Agency (DCAA) standards) of its actual performance and
+demobilization. (R4, tab 36 at 1171) Mr. Frost testified that Gaskins decided to terminate
+DACA:
+
+             Because it became evident that, DACA's a small company,
+             and with the additional cost and requirements that the job was
+             piling up on, they could not, they couldn't, we felt they
+             wouldn't be able to finish the job on time, certainly, and
+             maybe not at all.
+                     We thought it was in the best interest of the project to
+             terminate them for convenience, pay them their reasonable
+             costs, as it says here, and then get somebody else to finish the
+             work.
+
+(Tr. 1/94)
+
+      80. Mr. Frost and Mr. Anderson spoke with Ms. Sandra Shelton, the CO, on
+20 May 2011 and informed her that Gaskins had severed ties with DACA and DACA
+would begin demobilizing the next week. Ms. Shelton forwarded this information to
+Ms. Butler that same day. (R4, tab 317) DACA began demobilizing on 20 May 2011
+and was completely demobilized from the work site by 31 May 2011, having completed
+
+
+                                            26
+only approximately 15% of its scope of work at the time of the termination agreement
+(tr. 6/43-44; app. 2nd supp. R4, tab 311 at 2011 ).
+
+       81. On 1 June 2011, the government issued a cure notice to Gaskins stating that it
+considered Gaskins' removal ofDACA to be a serious breach creating a work stoppage
+and delay (R4, tab 321 at 2). Gaskins responded by letter on 3 June 2011 informing the
+government that it would replace DACA with Mansfield Industrial (Mansfield) (R4,
+tab 326). Gaskins then contracted with Mansfield to complete the remainder ofDACA's
+scope of the work. Mansfield began to mobilize on 22 June 2011 and began work by
+28 June 2011 (app. 2nd supp. R4, tab 311 at 2148). Mansfield completed the work by
+24 October 2011, three days ahead of its projected completion date of27 October 2011
+(R4, tab 39A at 17 of 22).
+
+       82. DACA provided Gaskins with its settlement proposal of its incurred costs for
+performing the work (tr. 1195). Gaskins reviewed DACA's submittal, found the costs too
+high and told DACA to scrub their numbers and resubmit them. After DACA
+resubmitted its costs and Gaskins again rejected them, DACA served Gaskins with a
+demand for arbitration and filed for arbitration on 13 September 2011. (Tr. 1195-97; R4,
+tab 334) Thereafter, Gaskins and DACA entered into arbitration over a 12-14 month
+period culminating in a settlement requiring Gaskins pay DACA a fixed amount and
+agreeing to submit the agreed fixed amount plus the remainder ofDACA's claimed
+damages in a certified claim to the government (R4, tab 316).
+
+       83. On 9 November 2011, while still in settlement negotiations with DACA,
+Gaskins submitted a certified claim to the government requesting $6,225,235.82 and a
+time extension of 250.5 calendar days as a result of encountering hazardous materials in
+the coatings on the trusses, constituting a differing site condition (R4, tab 36 at 1112,
+1118, 1124).
+
+       84. On 11February2013, Gaskins filed a notice of appeal and complaint
+(complaint) with the Board which was docketed as ASBCA No. 58550. The complaint
+asserted causes of action for differing site conditions, changes, and government caused
+delay requesting that the Board grant it an equitable adjustment in the amount of
+$8,911,078.86, plus interest, and a 361.5 calendar day extension to the contract.
+
+Gaskins' Delay Claims
+
+       85. Gaskins' delay claim includes both excusable and compensatory delay
+incurred in performing work under CLINs 0002, 0003 and 0004 of the contract. 8 The
+
+8 The contract consisted of four CLINs (R4, tab 8 at 629).
+                                                        CLIN 0001 's original
+       completion date was extended by Mod. POOOO 1 to 13 July 2009 (R4, tab 9 at 666).
+       Work on CLINs 0002, 0003 and 0004 could not begin until work on CLIN 0001
+                                            27
+12 March 2009 award letter established a completion date of 7 May 2010 (421 days) for
+CLINs 0002, 0003 and 0004 (R4, tab 7). However, there were eight modifications
+(P00002-P00009) 9 that ultimately extended the completion date for CLIN 0002, 0003 and
+0004 to 19 September 2011, an additional 500 days. Gaskins achieved substantial
+completion on 21 October 2011 (R4, tab 344 at 2).
+
+      86. Gaskins asserts entitlement to a total schedule extension of 361.5 calendar
+days of excusable delay based upon the following six issues:
+
+ Gaskins' Delay Claim                                              Days Requested
+ Replacement with Mansfield Industrial                                 43
+ Perry Roofing                                                         55
+ Discovery of Hazardous Materials                                      91.5
+ Dispose of Spent Media at Mayport B Facility                          36.5
+ Transfer Spent Media to DLA Dumpsters                                 36.5
+ Application of Intermediate Layer of Paint: Mod.P00003                99
+ Total                                                                361.5
+
+(Compl. ~~ 64, 88, 96, 100-14) Additionally, Gaskins asserts entitlement to
+compensation for 411.5 days of compensatory delay for additional labor, equipment,
+material, and other direct charges (361.5 based upon the issues above, as well as, an
+additional 50 days that were not compensated by Mod. P00009) (comp I. ~~ 115-18).
+
+Evidence from Gaskins' Delay Expert
+
+       87. Gaskins retained Trauner Consulting Services, Inc. (Trauner Consulting) to
+perform a review of Gaskins' delay claims, evaluate the time extensions granted in
+modifications 1 through 9 and the government's claim for liquidated damages assessed in
+Mod. 010 (app. 2nd supp. R4, tab 287 at 1518). Mr. J. Scott Lowe, ofTrauner
+Consulting, authored an expert report (Lowe Report) and was accepted as Gaskins'
+expert in construction scheduling and delay analysis. Mr. Lowe rejected the use of
+Gaskins' project schedules finding they were not adequate to serve as a basis for
+quantifying critical project delays (tr. 4/16-17; app. 2nd supp. R4 tab 311 at 2008).
+Instead, he developed a project critical path from an as-built plot derived from the daily
+reports. Mr. Lowe's as-built plot begins on 5 January 2010 with the review ofDACA
+submittals, not contract award, and progresses through thirteen critical path tasks until
+completion on 21 October 2011 (app. 2nd supp. R4, tab 311 at 2008). Mr. Lowe
+
+       was completed (R4, tab 17 at 701). Since Gaskins completed the work on CLIN
+       0001 on time, Gaskin's claim does not include any delays associated with CLIN
+       0001 (app. 2nd supp. R4, tab 311at2010).
+9
+  All but two of the modifications were bilateral. Those two modifications are the only
+       ones pertinent to Gaskins' delay claim - P00003 and P00009. (R4, tabs 11, 17)
+                                            28
+explained during his testimony that he began his review 5 January 2010 because his focus
+was upon issues in dispute and there were not any issues in dispute until after 5 January
+2010 (tr. 4/21-22). Mr. Lowe's analysis focused upon each of the issues asserted by
+Gaskins and concluded that Gaskins is entitled to 361.5 additional calendar days of
+excusable delay and 313 days of compensable delay (app. 2nd supp. R4, tab 311 at 2025,
+2027).
+
+Evidence Submitted by the Government's Delay Expert
+
+       88. The government retained Delta Consulting to evaluate Gaskins' schedule and
+any delays on the contract (R4, tab 39(a) at 1 of22). 10 Mr. Charles Heckman, of Delta
+Consulting, authored a report and was accepted as the government's expert in
+construction scheduling and delay analysis. In contrast to Mr. Lowe's approach,
+Mr. Heckman employed an "'As Planned vs. As Built Analysis" as the basis for his
+conclusions. The As Planned schedule was submitted by Gaskins and approved by the
+government (pre-dispute). (R4, tab 39(a) at 5of22) Mr. Heckman noted the plan
+provided for an early completion date of 4 March 2010, resulting in 64 calendar days of
+float on the planned critical path (id. at 4 of 22). The As Built data was derived from
+Gaskins' submitted schedule updates and spot checked for accuracy with information
+contained within Gaskins' daily reports. Mr. Heckman's approach, in contrast to
+Mr. Lowe's approach, was to progress through the As-Built schedule reconciling
+observed delays and applicable contract modifications (id. at 5 of 22). Mr. Heckman
+concluded the project was delayed 532 calendar days and that Gaskins was responsible
+for 232 calendar days of non-excusable delay over the course of the project. However, he
+also found that bilateral contract modifications, as well as Mansfield's successful
+performance, reduced Gaskins' delay responsibility from 232 calendar days to 32
+calendar days. (Id. at 21 of 22)
+
+Discovery of Hazardous Materials and Replacement with Mansfield Industrial Delays
+
+        89. Mr. Lowe did not express an opinion on the existence of a differing site
+condition but did analyze the impact such a condition would have had on the critical path
+(tr. 4/37). He likewise did not distinguish between the existence of a differing site
+condition and the replacement with Mansfield, combining the delay attributed to
+discovery of chromium in the paint on the trusses and DACA's replacement by Mansfield
+(tr. 4/39; app. 2nd supp. R4, tab 311 at 2010). He concluded that the discovery of
+elevated levels of chromium and the replacement of DACA with Mansfield Industrial
+resulted in a critical path delay of 74 calendar days. His opinion was based upon the fact
+that: Gaskins issued a notice of a differing site condition to the government on
+2 February 2011; the daily reports documented that by 15 April 2011 Gaskins had
+
+10
+     The government's Rule 4 file designated Mr. Heck.man's initial report as tab 39(a) and
+         his supplemental report as tab 39(b).
+                                              29
+stopped blasting and painting on the project; Gaskins terminated DACA for convenience
+on 19 May 2011 and replaced DACA with Mansfield; and, Mansfield did not begin work
+until 28 June 2011. (App. 2nd supp. R4, tab 311 at 2011-12)
+
+       90. In contrast, Mr. Heckman did not directly address the discovery of hazardous
+materials issue, assuming the government's position in his analysis. However, he did
+address the issue of Gaskins' replacement of DACA with Mansfield. His assessment was
+there was a 39 calendar day delay from DACA's termination till Mansfield began work
+which would be attributable to Gaskins. (R4, tab 39(a) at 16of22)
+
+       91. After the discovery of hazardous waste in the spent debris, on 17 December
+2010 the CO directed DACA to stop work until a replacement sampling plan was
+developed and approved by the government (R4, tab 19). The CO's direction states, "It
+has also come to our attention that the required waste determination has not been properly
+performed. Per Part 2, Section 07 57 19.00 25, Paragraph 1.5 LABORATORY
+ANALYSIS." (Id. at 717) The revised plan was submitted on 19 January 2011 and
+approved with comments and direction to proceed on 24 January 2011 (app. 2nd supp.
+R4, tab 214).
+
+Perry Roofing Delays
+
+        92. Gaskins complaint also alleges the discovery of hazardous materials delayed
+one of its subcontractors, Perry Roofing (Perry), work resulting in a 55-day delay in the
+project schedule (compl. ~ 96). Mr. Lowe's conclusion from his review of the as-built
+plot was that the roofing work was not on the critical path but was concurrent with the
+blasting and painting activities at the trusses. With regard to the claimed delay related to
+work, he found that the work was started late and "the daily reports do not document
+substantial periods where rain impacted the progress of Perry's work." (App. 2nd supp.
+R4, tab 311 at 2012-13) Consequently, he did not allocate any excusable delay to this
+issue. Mr. Heckman did not address this issue in his report. We find Gaskins is not
+entitled to any excusable delay or compensable delay related to this issue.
+
+Disposal of Spent Media at Mayport HWSF and Transfer Spent Media to DLA Dumpsters
+Delays
+
+       93. Mr. Lowe found that although the alleged change may have resulted in
+additional costs, "it does not appear that the critical path of work was delayed by the
+requirement to dispose of the hazardous waste at the Mayport B facility" (app. 2nd supp.
+R4, tab 311 at 2013). Likewise, Mr. Lowe found that, "it [transfer of the spent media to
+DLA Dumpsters] does not appear that the critical path of work was delayed by the
+requirement" (id. at 2014 ). Thus, he also did not find any excusable delay resulting from
+
+
+                                             30
+this issue. Mr. Heckman did not address this issue in his report. We find Gaskins is not
+entitled to any excusable or compensatory delay related to this issue.
+
+Steel Profile Issue: Additional Layer of Intermediate Paint/Mod. P00003 Delays
+
+       94. In March 2010, Gaskins discovered that the surface profile was deeper than
+anticipated in the specifications and the 2 to 3 millimeter required profile would not be
+attainable without a change to the contract (see finding 34 ). Mr. Lowe found that the
+daily reports confirm that Gaskins suspended its work pending direction from the
+government as to how to proceed. On 24 June 2010 the government approved a solution
+proposed by DACA for the coating issue and the associated cost but the government did
+not issue a Notice to Proceed until 3 August 2010 (app. 2nd supp. R4 tab 311
+at 2014-15).
+
+       95. On 30 September 2010, the government executed Mod. P00003 for the
+additional layer of intermediate paint required to obtain the necessary profile, which
+provided a 159 calendar-day time extension to the contract (see finding 36). 11 Gaskins
+refused to sign the modification and on 14 February 2011 submitted a letter to the
+government stating its basis for entitlement to more time and describing how the
+additional 99 days of delay was calculated (app. 2nd supp. R4, tab 311 at 2015 (citing
+ex. 21 at 2179)).
+
+        96. Although Mod. P00003 recognized only 159 calendar days of delay,
+Mr. Lowe found Gaskins was actually due 214 calendar days. In his opinion, Gaskins
+was prevented from making progress on the critical path from 31 March 2010, when the
+condition was acknowledged by the government, to 3 August 2010, when the Notice to
+Proceed was issued, a period of 125 calendar days of delay. In addition, he reviewed the
+government's 3 1 May 2011 internal memo that confirmed the government agreed
+Gaskins was entitled to an additional 14 days for remobilization, and 7 days for
+containment repair. Since these 21 days represent a 21-day critical delay to the project
+and this delay was the result of the amount of time the government took to provide
+direction, Mr. Lowe opined Gaskins is entitled to a 21-day time extension for this delay.
+(App. 2nd supp. R4, tab 311 at 2016)
+
+       97. Gaskins stated that the additional work took 34 days that was not accounted
+for in Mod. P00003. On 17 June 2010, the government confirmed that Gaskins was due
+34 days to complete the new work (R4, tab 120). Gaskins' proposal dated 20 June 2010,
+also included a 34-workday duration for the change work (app. 2nd supp. R4, tab 311
+
+11
+     Gaskins complaint mistakenly states Mod. P00003 extended the schedule by 158
+         calendar days (comp I. ~ 107). It actually extended the schedule by 159 calendar
+         days (R4, tab 11 at 677). Mr. Lowe mistakenly also used the 158 number in his
+         analysis (app. 2nd supp. R4, tab 311 at 2015-18).
+                                              31
+at 2192). This conclusion, was confirmed by an email dated 3 August 2010, where the
+government stated that the delay resulting from the additional work was 34 working days,
+and extended the contract completion date from 30 July 2010 to 20 September 2010, or a
+total of 52 calendar days (R4, tab 130). Because the work associated with providing an
+intermediate paint layer was critical, Mr. Lowe opined this entitled Gaskins to
+52 calendar days (34 working days) of excusable delay (app. 2nd supp. R4, tab 311
+at2017).
+
+       98. In addition Mod. P00003 extended the schedule from 30 July 2010 to
+5 January 2011. This period fell over the Mayport Christmas shutdown but the
+modification did not take this period into account. Regarding such a shutdown, the
+specifications stated, "No work shall be performed during the period December 24, 2008
+to January I, 2009 (9 days), inclusive, without prior written approval of the Contracting
+Officer." (R4, tab 1 at 54, § 01 14 00.05 20, ~ 1.3.3 Exclusionary Period) Mr. Lowe's
+review of the daily reports documented that Gaskins worked on 17 December 2010, but
+did not return until 3 January 2011, incurring 16 calendar days of delay ( 18 December
+2010 - 2 January 2011) (app. 2nd supp. R4, tab 311 at 2017). Although the specification
+holiday work exclusion period only references the 2008/2009 holiday period that was
+contemplated at award, we find that the intent of the contract was to exclude these dates
+from any applicable extensions to the contract performance period. Consequently
+Gaskins is entitled to 9 days of excusable delay for this issue.
+
+        99. Mr. Lowe concluded that the intermediate layer of paint issue resulted in a
+total critical path delay of 214 calendar days, as follows:
+
+            Acknowledgment of differing site condition through
+            NTP and the time required for [the government] to           125
+            provide direction
+            DACA re-mobilization                                       21
+            Time to perform additional work in calendar days            52
+            Mayport Christmas shutdown                                  16
+                                                          Total        214
+
+(App. 2nd supp. R4, tab 311 at 2018) Since Mod. P00003 granted an excusable delay of
+158 days, Mr. Lowe found that Gaskins would be entitled to an additional 56 calendar
+day time extension (id.). Mr. Heckman merely accepted the 159 calendar day extension
+found in Mod. P00003 in his analysis (R4, tab 39(a) at 10of22). Based upon the one day
+mistake in Mr. Lowe's report of the number of days granted by the government in
+Mod. P00003 ( 15 8 versus 159) and our finding that Gaskins is only entitled to 9 calendar
+days for the holiday exclusion, we find Gaskins is entitled to 48 calendar days of
+excusable delay for this issue.
+
+
+                                            32
+Delay Associated with the Welding Rework Concurrent with the Steel Profile Issue
+
+        100. Mr. Heckman submitted his initial report on 15 April 2015, finding the
+duration of the welding rework period to be 104 calendar days total of delay attributable
+to Gaskins/Garrison Steel but that a 70 calendar day portion of this period overlaps and is
+concurrent with the Steel Profile issue period- 29 June 2010 through 11 October 2010.
+Mr. Heckman later submitted a supplement to his report, revising his conclusions. (R4,
+tab 39(b)) After submitting his report, Mr. Heckman interviewed Mr. Champion, the
+welding inspector hired to inspect the defective welds. Mr. Heckman determined that
+Mr. Champion was regularly on the site from September 2010 through October 2011 and,
+as a result of Mr. Champion's interview, Mr. Heckman changed his opinion of the
+concurrency of the delay at the end of the project. He opined that the welding rework
+interfered with the progress of the on-going work (critical path) through the end of the
+project. As a result, his revised opinion is that the concurrent delay was 95 calendar
+days. (R4, tab 39(b) at 2-3 of 6)
+
+       101. Mr. Lowe did not address the welding delay in his report and testified it was
+not on the critical path (tr. 4/74-75). We find Mr. Heckman's conclusions more
+persuasive and find the welding delay was on the critical path and 95 calendar days of
+concurrent delay associated with the steel profile issue is attributable to Gaskins' welding
+subcontractor, Garrison Steel. Consequently, we find that Gaskins is entitled to
+48 calendar days of excusable delay and no compensable delay.
+
+Compensable Delay under Mod. P00009 - Delay in Approval to Erect Multiple
+Containments
+
+       102. Under the contract, Gaskins was restricted to erecting only two containment
+systems on the project. On 9 April 2010, Gaskins submitted a request to erect four (two
+additional) containment systems on the project and, having received no response, Gaskins
+followed-up with a second request on 8 September 2010 (app. 2nd supp. R4, tab 311
+at 2279-81). The government requested additional information which was provided on
+14 September 2010. The contract required that the government respond to such a request
+within 21 days, 5 October 2010 (14 September - 5 October 2010) (R4, tab 1 at 78, § 01
+00. 05 20, if 1.4.2.1). The government did not respond until 24 November 2010,
+50 calendar days later than required by the contract (5 October 2010 - 24 November
+2010). The government responded to Gaskins' request on 16 November 2011 granting its
+request for additional containments and agreed Gaskins was entitled to a 50 calendar day
+time extension for the delay but denied Gaskins was entitled to any compensation for the
+delay (app. 2nd supp. R4, tab 311 at 2283).
+
+      103. The government executed Mod. P00009 on 14 October 2012, granting a 50
+calendar day extension to the contract for the delay associated with the approval of
+
+
+                                             33
+multiple containments (R4, tab 17). 12 Gaskins executed Mod. P00009 on 28 September
+2012 but reserved its rights to "to pursue time extensions and monetary damages" (id.
+at 701, 704 ). Mr. Lowe concluded Gaskins was entitled to a compensable delay of
+25 days (half the total delay) because he found that the work impacted by this delay was
+critical and that granting Gaskins' request would have doubled its productivity (app. 2nd
+supp. R4, tab 311 at 2024). Mr. Heckman did not analyze this issue but adopted the time
+allotted in Mod. P00009 of 50 calendar days (R4, tab 39(a) at 14).
+
+       104. Mr. Lowe concluded that Gaskins is entitled to an additional 130 calendar
+days of excusable delay and 313 days of compensable delay (app. 2nd supp. R4, tab 311
+at 2025-27).
+
+Government Affirmative Claims
+
+Government Assessment ofLiquidated Damages: ASBCA No. 59902
+
+       105. The government issued Mod. POOOlO (Mod. 10) on 5 September 2014,
+assessing, $92,000.00 in liquidated damages, stating:
+
+              As of modification P00009, the contract completion date is
+              19 September 2011. Acceptance was taken 21 October 2011.
+              32 days of liquidated damages are being assessed as follows.
+
+              CLIN 0002 32 days at a liquidated damages rate of $2,000.00
+              per calendar day= $64,000.00
+              CLINs 0003/0004 32 days at a liquidated damages rate of
+              $875[.]00 per calendar day= $28,000.00
+                 Total liquidated damages being assessed - $92,000.00
+
+(R4, tab 344) A COFD was issued on 8 December 2014 asserting a claim for
+$94,000.00 13 in LDs and retained the assessed amount from Gaskins' final payment (R4,
+tab 346; tr. 8/123-24).
+
+
+12 Mod. P00009 also provided an additional 17 day time extension to correct an oversight
+       in Mod. POOOO 1. However, this delay is not in dispute in this appeal.
+13 The amount of $94,000.00 assessed by the COFD appears to be a clerical error (R4,
+
+       tab 346 at 1). Mod. 10 only assessed $92,000.00 (a copy of which is attached to
+       the COFD) (id. at 5). Additionally, a LD calculation chart attached to the COFD
+       also reflects the $92,000.00 assessment, despite the fact it mistakenly recognizes
+       34 rather than 32 days of delay (id. at 10).
+                                            34
+Government Assessment for Defective Welding and Deficient Quality Control: ASBCA
+No. 59901
+
+        106. The same COFD that assessed LDs on 8 December 2014 also assessed costs
+in the amount of $80,268.31 resulting from defective welding and deficient quality
+control. This sum was comprised of the cost of the welding inspection services
+($7,115.00) and a portion of the cost incurred by the government under the follow-on
+contract for hangar 15 52 (phase II) attributable to the defective welds, deficient quality
+control and the required re-work under the contract ($73,153.31). The damages relating
+to the suspension of Phase II was based on a "pro rata" share of the damages the
+government paid out for suspending Phase II, which the government found was
+proportionately the responsibility of Gaskins. The calculation of this amount was based
+upon the premise that Phase II of the project was suspended for a period of 43 7 days at a
+cost of $925,000.00 paid out under a subsequent contract, of which 32 days was
+attributable to Gaskins. (R4, tab 346)
+
+        107. Gaskins appealed the 8 December 2014 COFD to the Board on 27 March
+2015. 14 The government claim for defective welding was docketed as ASBCA
+No. 59901 and the claim for LDs was docketed as ASBCA No. 59902.
+
+                                             DECISION
+
+Fraud in the Inducement
+
+        The government asserts three fraud-related affirmative defenses: (a) fraud related
+to the representation in Gaskins' proposal that spent blast debris would be disposed
+through the on-site facility; (b) fraud related to DACA' s lack of QS-1 certification at the
+time of award; and ( c) fraud related to Gaskins' alleged concealment of defective welds
+approved by Gaskins' welding inspector. Gaskins addresses all three defenses in its brief
+(app. reply br. at 28). However, it appears the government has abandoned its defense in
+the case of the certification issue and the defective welding claim because it does not
+address these issues in its post-hearing briefs. Therefore, we consider these two defenses
+to have been waived. Since a ruling for the government in the fraud or misrepresentation
+in the inducement defense related to the waste disposal issue would render the contract
+void ab initio, thus barring appellant's claims in their entirety, it is a threshold issue that
+we will address before addressing the merits of the claims in these appeals.
+
+       The common law defense of fraud in the inducement may be established by proof of
+fraud or material misrepresentation. RESTATEMENT (SECOND) OF CONTRACTS
+§ 164( 1) ( 1981 ). However, unlike the Court of Federal Claims, the Board does not have
+
+14
+     Due to a mistake the COFD was not mailed until 18 December 2014 and received by
+         Gaskins on 29 December 2014.
+                                              35
+jurisdiction to impose civil or criminal penalties and forfeitures for a fraudulent claim.
+Supreme Foodservice GmbH, ASBCA No. 57884 et al., 16-1 BCA ii 36,387 at 177,400 n.17
+(citing United Technologies Corp., ASBCA No. 46880 et al., 95-2 BCA ii 27,698
+at 13 8,079 n. l.) The only time the Board may base its determination regarding this defense
+upon fraud grounds is when a court of competent jurisdiction has determined that a fraud
+occurred. Supreme Foodservice, 16-1BCAii36,387 at 177,384 n.17; Environmental
+Systems, Inc., ASBCA No. 53283, 03-1 BCA ii 32,167 at 159,053 (on recon.) (citing Martin
+J. Simko Construction, Inc. v. United States, 852 F.2d 540, 547-48 (Fed. Cir. 1988)). In
+instances where there has not been fraud found by a court, we may make findings as to the
+material facts relating to misrepresentation and the contract and how the acquisition
+regulations, statutes and contract clauses operate given those findings. Supreme
+Foodservice, 16-1 BCA ii 36,387 at 177,384; Servicios y Obras Isetan S.L., ASBCA
+No. 57584, 13 BCA ii 35,279 at 173,162 (citing United States v. Acme Process Equipment
+Co., 385 U.S. 1381 (1966)); Toombs & Co., ASBCA Nos. 35085, 35086, 89-3 BCA
+ii 21,993. It is well established that when one party to a contract induces the other party to
+enter into an agreement through fraud or misrepresentation, the contact is void ab initio.
+J.E.T.S., Inc. v. United States, 838 F.2d 1196, 1200 (Fed. Cir 1988), cert. denied. 486 U.S.
+1057 (1988); Supreme Foodservice, 16-1BCAii36,387 at 177,384. The Restatement
+defines a misrepresentation as, "an assertion that is not in accord with the facts."
+RESTATEMENT (SECOND) OF CONTRACTS§ 159 (1981).
+
+Disposal Through the On-Site Waste Disposal Facility
+
+        The government argues the facts establish Gaskins made a false statement by
+stating in its proposal that it would dispose of the paint blast debris at Mayport's HWSF,
+as required by the RFP, but the government alleges that Gaskins had no intention of
+doing so (gov't br. at 68-72; gov't reply hr. at 10-15). The solicitation stated in two
+places that the waste resulting from the blasting was regulated waste and would be
+disposed through the Mayport HWSF (finding 16). Gaskins 15 January 2009 proposal
+clearly stated that the waste generated would be treated by Gaskins as regulated waste
+and disposed of through the Mayport HWSF. All three source selection board members
+testified they evaluated Gaskins proposal and relied upon Gaskins statement that all blast
+debris would be disposed of through the Mayport HWSF in recommending Gaskins for
+award. (Finding 19) However, three years later, after the blast debris tested hazardous
+and the CO required the disposal on-site through the Mayport HWSF, Gaskins took the
+position that the solicitation allowed DACA to dispose of the blast media off-site and that
+the change from the as planned disposal off-site to the Mayport HWSF was a change to
+the contract that resulted in higher disposal costs (findings 53-55, 57). Thus, the
+government's argument relies solely upon the language in Gaskins' proposal and
+Gaskins' actions years later when hazardous waste was discovered (gov't br. at 68-72).
+
+      In response, Gaskins asserts there was no fraud or misrepresentation in the
+inducement related to waste disposal. Gaskins argues there was no misrepresentation
+
+                                            36
+because inclusion of the statement in its proposal was inadvertent and did not reflect the
+RFP requirements as changed by solicitation Amendment No. 0002. (App. reply br.
+at 29) Perhaps, in hindsight, Gaskins believes inclusion of this language was a mistake
+but we are not persuaded it was inadvertent. There is no evidence to support that
+conclusion. Gaskins points to the testimony of Mr. Frost who testified it was his
+understanding that it was the result of a "cut and paste" error by the architect -
+engineering firm (A&E) firm hired by Gaskins (finding 21 ). 15 We put little credence in
+Mr. Frost's testimony on this issue since he did not prepare the proposal but merely
+reviewed it. Conspicuously, Gaskins did not call the designer of record or anyone from
+the architect firm to testify about the alleged mistake. Likewise, Gaskins did not present
+testimony from Mr. Beasley, the estimator who prepared the bid, or Mr. Gaskins who
+signed the proposal on behalf of the company (findings 20-21). Additionally, as the
+government points out (gov't reply br. at 11), this language was inserted in Gaskins'
+initial proposal and remained there through amended proposals that were submitted after
+Amendment No. 0002 but it did not raise this issue during discussions or otherwise
+question the statement in the solicitation (finding 21 ).
+
+        We conclude Gaskins has failed to establish the language in the proposal was
+inadvertent and the logical conclusion from that fact is that Gaskins' intent at the time of
+proposal submittal was exactly what a plain reading of the language indicates, that all
+disposal would be on-site through the Mayport HWSF. The record supports the
+conclusion that the intent of Gaskins' proposal was that all regulated waste would be
+disposed of on-site through the Mayport HWSF but that DACA's intent was that it would
+be disposed of off-site; that there was a lack of communication between the prime and its
+sub in preparing the proposal. Mr. Frost testified that Gaskins' proposal relied upon its
+subcontractor's methodology and there is no evidence DACA ever communicated its
+intent to dispose of waste off-base to Gaskins during the source selection. In fact,
+Mr. Mingle (DACA) testified he does not remember ever communicating the proposed
+method of disposal to Gaskins. This is supported by the record, which only indicates
+DACA submitted pricing information to Gaskins (finding 21).
+
+        Based on these findings, we conclude that the government has not proven that
+Gaskins' proposal contained a misrepresentation. When a contractor makes a promise of
+future performance in a proposal and later fails to perform, this generally will be a basis
+for liability for breach of contract but not for misrepresentation. To also prove
+misrepresentation, the government must prove a misrepresentation at the time of
+proposal, such as that the contractor did not intend to perform or knew it could not
+perform. RESTATEMENT (SECOND) OF CONTRACTS § 159 cmt. c, d ( 1981 ). The
+
+15
+     Gaskins argues that the government attempts in its brief to introduce deposition
+         testimony to impeach Mr. Frost's testimony during the hearing after close of the
+         record and his deposition testimony is not admissible evidence in rendering our
+         decision (app. br. at 29). We sustain Gaskins' objection.
+                                              37
+government has not done so in this appeal and has, therefore, not proven its fraud in the
+inducement defense.
+
+       Finally, the government focuses solely upon two assertions in Gaskins' proposal
+stating that spent blast debris would be disposed of on-site but ignores other parts of
+Gaskins' proposal that required off-site disposal. Our findings establish the solicitation's
+disposal specifications were so ambiguous on this point that we conclude they cannot
+support a finding of fraud in the inducement (see findings 15-17).
+
+       For all the reasons stated, we conclude Gaskins' representations on this issue do
+not constitute fraud in the inducement.
+
+                                  DECISION ON THE MERITS
+
+GASKINS' CLAIMS: ASBCA No. 58550
+
+Differing Site Condition: Discovery of Hazardous TCLP Results in Spent Blast Debris
+
+       Gaskins alleges the presence of hazardous material in the existing paint constitutes
+a Type I Differing Site Condition because the specifications stated the existing paint was
+non-hazardous and the existence of the hazardous materials could not be discovered
+through reasonable diligence prior to bidding. As a result, the differing site condition
+caused appellant and its subcontractors to incur damages and negatively impacted the
+contract schedule. (App. br. at 40)
+
+      In order to prevail on a claim for a Type I differing site condition, the contractor
+must prove by a preponderance of the evidence that:
+
+              [T]he conditions indicated in the contract differ materially
+              from those actually encountered during performance; the
+              conditions actually encountered were reasonably
+              unforeseeable based on all information available to the
+              contractor at the time of bidding; the contractor reasonably
+              relied upon its interpretation of the contract and
+              contract-related documents; and the contractor was damaged
+              as a result of the material variation between expected and
+              encountered conditions.
+
+Comtrol, Inc. v. United States, 294 F.3d 1357, 1362 (Fed. Cir. 2002) (citing H B. Mac.
+Inc. v. United States, 153 F.3d 1338, 1345 (Fed. Cir. 1998)). The "indication" in the
+contract "need not be explicit or specific" if it "provide[ s] sufficient grounds to justify a
+bidder's expectation of latent conditions materially different from those actually
+encountered." P.J Maffei Bldg. Wrecking Corp. v. United States, 732 F.2d 913, 916
+
+                                              38
+(Fed. Cir. 1984) (citation omitted). Determining what the contract indicated requires
+contract interpretation performed by stepping into "the shoes of a reasonable and prudent
+contractor and decid[ing] how such a contractor would act in interpreting the contract
+documents." Randa/Madison Joint Venture Illv. Dahlberg, 239 F.3d 1264, 1274 (Fed.
+Cir. 2001) (quotations and citation omitted).
+
+       Gaskins contends the solicitation clearly defined the existing paint on the trusses
+and the resulting abrasive debris as regulated, non-hazardous waste and the specifications
+defined regulated waste as a type of solid waste that specifically precludes hazardous
+waste (app. br. at 42). Furthermore, attachment B.2 of the solicitation informed the
+offerors that the paint did not exceed TCLP levels for metal and that it was not hazardous
+waste but directed offerors to treat the waste as regulated waste (id.). Gaskins also
+contends that it interpreted the solicitation to define the waste as non-hazardous and that
+the government agreed there was no hazardous waste/materials when it failed to respond
+to appellant's request for information (RFI) during the source selection and the waste was
+only determined to be hazardous during performance (id. at 42-52).
+
+        The government counters contending there was no differing site condition because
+the RFP disclosed the presence of hazardous materials in the paint because the total metal
+test results disclosed in the RFP identified the presence of chromium and lead in the
+existing coatings which should have alerted any reasonable industrial painting contractor
+to the need to employ appropriate worker protection measures (gov't reply br. at 4-10). 16
+
+        We agree with Gaskins that the discovery of hazardous levels of chromium in the
+spent blast debris differed materially from the conditions disclosed in the RFP. Our
+findings indicate the solicitation communicated to the offerors that any metals in the paint
+did not exceed hazardous levels and the waste debris would not be hazardous but would
+be treated as regulated waste. Attachment B.2 of the solicitation provided the offerors
+with the testing results that indicated the existence of lead, chromium and other metals in
+the paint and instructed the offerors that the paint did not exceed TCLP hazardous levels
+so was not hazardous waste but was still regulated waste. (Finding 7) Amendment
+No. 0001 to the solicitation, in response to an offeror's question during a pre-proposal
+site visit, stated that the paint was not lead based but the waste would be regulated waste
+(finding 8). The solicitation defined regulated waste to specifically exclude hazardous
+waste. Specification Section 01 57 19.00 25, ii 1.2.11, defined Regulated Waste as a type
+of solid waste and defined solid waste as "[g]arbage, refuse, debris, sludge, or other
+discharged material (except hazardous waste as defined in paragraph entitled 'Hazardous
+
+16
+     The government makes a distinction between hazardous materials and hazardous waste
+         i.e. content of paint before blasted and waste debris stream after blasting (gov't
+         reply br. at 4-10). Although the parties may have used the terms incorrectly and
+         interchangeably in their pleadings and during this appeal, we conclude it does not
+         impact our decision.
+                                              39
+Waste' or hazardous debris as defined in paragraph entitled 'Hazardous Debris"'
+(finding 16).
+
+       Amendment No. 0002 to the solicitation added a requirement that the contractor
+be SSPC QP 2 certified, which pertains to a contractor's proficiency in hazardous paint
+removal. Appellant submitted an RFI to the CO requesting clarification on the need for
+such a certification since the test results indicated there are no hazardous materials
+present and the blasting material will be treated as regulated material. (Finding 9)
+Although this question did not directly address chromium, it clearly communicated to the
+government that appellant interpreted the RFP to indicate that the test reports indicated
+there were no materials in the paint measuring above hazardous levels and the waste
+would be regulated but not hazardous. This allowed the government an opportunity to
+correct appellant's reading to conform to the interpretation the government now takes.
+Although appellant's question was examined by the government, appellant's question
+was never answered. (Findings 10-13) Consequently, the government is bound by this
+interpretation. See, e.g., Schuster Eng'g, Inc., ASBCA No. 28760 et al., 87-3 BCA
+~ 20,105; Edgemont Constr. Co., ASBCA No. 16759, 73-2 BCA ~ 10,234; Triple "A"
+South, ASBCA No. 27736, 86-2 BCA ~ 18,968 (also finding that where a contractor
+attempts to clarify a solicitation ambiguity before submitting its bid, and the government
+did not respond, the government is bound by the contractor's interpretation of the
+ambiguity).
+
+        Likewise, we conclude that neither Gaskins nor DACA could reasonably foresee
+that the existing paint and resulting abrasive debris would be classified as hazardous
+waste prior to execution of the contract and that they reasonably relied on the solicitation
+documents and possessed a reasonable interpretation of the solicitation documents in this
+regard.
+
+        Although Gaskins has proved four of the five elements required to establish the
+existence of a differing site condition, it must additionally prove it was damaged as a
+result of the material variation between expected and encountered conditions to be
+entitled to an equitable adjustment as a result of a differing site condition. Comtrol, 294
+F .3d at 1362. Gaskins asserts five discrete damages resulting from this differing site
+condition: (1) additional costs of complying with the government's on-site disposal
+directive (app. br. at 55-61 ); (2) additional costs of disposing of contaminated PPE (id.
+at 61); (3) additional costs and time transferring waste from previously approved vacuum
+boxes to DLA approved containers (id. at 62-63 ); (4) additional costs and time erecting a
+second containment (id. at 62); and (5) time to develop a replacement plan (id. at 64).
+We address each in turn.
+
+
+                                             40
+Disposal of Spent Blast Debris On-Site
+
+       DACA disposed of the first two containers of spent debris, which tested
+non-hazardous, off-site (findings 48-50). Upon the discovery of hazardous waste in the
+following batch of spent debris, the CO directed appellant to dispose all spent debris
+on-site at the Mayport HWSF (finding 53). Gaskins contends this action was a change to
+the contract because it bid this project on DACA's expectation it would only be required
+to dispose of non-hazardous waste and that waste would be disposed of off-site (app. br.
+at 55-61). In response, the government contends Gaskins' disposal claim fails outright
+because it is contrary to the plain language of the contract (which includes Gaskins'
+proposal), and Gaskins has not proved pre-bid reliance on its post hoc interpretation of
+the RFP as allowing disposal at an offsite landfill (gov't br. at 73-78).
+
+       It is undisputed that Gaskins' proposal mirrored the RFP language that stated, "all
+particles, blast grit and debris be treated as regulated waste and containerized for disposal
+through the Naval Station Mayport hazardous waste storage facility" (finding 19).
+Despite its representations in in its proposal, Gaskins now argues the contract did not
+require disposal of regulated non-hazardous waste on-site. Assuming arguendo Gaskins'
+interpretation is correct, it would still contractually be required to dispose of all spent
+blast debris on-site. This source selection was a best value negotiated procurement
+pursuant to FAR part 15 that allows an offeror to propose performance that exceeds the
+requirements of the solicitation, which Gaskins' contends it did (finding 3). Since
+Gaskins' proposal was incorporated into the contract upon award, Gaskins was required
+to dispose of the spent blast debris, whether hazardous or non-hazardous, on-site
+(finding 22).
+
+       There was some testimony to the effect the language in Gaskins' proposal was a
+mistake (finding 20). However, we have already rejected this argument in our decision
+related to the government's arguments for fraud or misrepresentation in the inducement,
+concluding there is no credible evidence of a mistake in the sense that it was inadvertent.
+
+       Furthermore, the contract contains an Order of Precedence clause for design-build
+contracts identified as specification provision 5252.236-9312 (finding 4). This clause
+provides that any portion of the proposal that exceeds the requirements of the solicitation
+has precedence. Macro-Z-Technology, ASBCA No. 56711, 13 BCA ii 35,225 at 172,833.
+Assuming arguendo Gaskins' position is correct, that the solicitation permitted
+non-hazardous waste to be disposed of off-site, this clause would require Gaskins to
+dispose of non-hazardous waste on-site because it proposed to dispose of all hazardous
+waste on-site.
+
+       Additionally, a review of the contract quickly discloses several contradictory
+requirements pertaining to disposal of regulated waste. The provisions in Part 2 are
+internally inconsistent (findings 15-16), Part 3 mandates on-site disposal (finding 17) and
+
+                                             41
+Part 5 (Amendment No. 0002) directs off-site disposal (finding 18). Per the provisions of
+the Order of Precedence clause Part 3 would take precedence since Part 2 is internally
+inconsistent. Consequently, we conclude Gaskins (DACA) was required to dispose of all
+spent blast debris on-site, whether hazardous or non-hazardous.
+
+        Even if Gaskins' had not proposed off-site disposal and there was not an order of
+precedence clause in the contract, the result would be the same. We conclude the
+solicitation was patently ambiguous imposing a duty upon Gaskins to inquire. Having
+not done so, the ambiguity must be resolved against Gaskins. Triax Pac., Inc. v. West,
+130 F.3d 1469, 1475 (Fed. Cir. 1997); Phoenix Management, Inc., ASBCA No. 57234,
+11-1BCAii34,734 at 171,005.
+
+       Additionally, Gaskins contends the government never relied upon this language in
+its proposal because the government approved plans that specifically stated that the spent
+blast debris would be disposed of off-site, agreed with DACA's interpretation in a
+meeting, and by email the CO ratified environmental personnel and technical personnel's
+statements that the contract allowed off-site disposal (app. br. at 56-58).
+
+        Our findings establish that Gaskins (DACA) first submittal of a Surface
+Preparation and Coating Plan was rejected because it did not address the disposal issue.
+The CO's comments, dated 17 December 2009, stated disposal would be on-site.
+Gaskins then revised the plan to direct on-site disposal. (Finding 24) However, later that
+month, DACA began taking the position the contact allowed disposal off-site. Gaskins
+now contends the government approved of off-site disposal in late January 2010 (app. br.
+at 57). This is a reference to a meeting between DACA and government environmental
+personnel during which DACA advocated for its interpretation that off-site disposal was
+authorized under the contract and later represented that the government approved off-site
+disposal during that meeting. Our findings establish there is no credible evidence to
+support Gaskins argument; contrary to DACA's representations regarding the meeting,
+the government personnel testified they told DACA that the contract required on-site
+disposal and the CO testified she did not remember ever attending or hearing of such a
+meeting and did not approve off-site disposal. (Findings 25-27)
+
+       Clearly the government approved plans submitted by DACA per the contract that
+allowed DACA to proceed with the work. Additionally, it is clear from the record that
+DACA repeatedly submitted plans that indicated disposal off-site. However, our findings
+establish that it is impossible to establish from the record what specific draft submittals
+were approved, what, if any, comments were associated with those approvals, and what
+specific provisions were included in the plans approved. Additionally, a review of those
+plans fails to correlate approval with specific plans. Those comments that are in the
+record indicate the government required on-site disposal. (Finding 33)
+
+
+                                            42
+       Gaskins also contends the government is bound by the CO's ratification of
+environmental and technical personnel's email communication to the contractor that the
+contract allowed off-site disposal. On 20 October 2010, in response to a set of questions,
+Ms. Kaiser (Mayport hazardous waste program manager) stated in an email to other
+government personnel and Mr. Moody (Gaskins) that she was "good with [Chesser]
+Island Road Landfill" for disposal off-site. Then Ms. Mason (CO's engineering
+technician) forwarded this email to the "Team" that included government personnel and
+Mr. Moody, copying the CO, Ms. Bushey (Hocutt), stating that solicitation Amendment
+No. 0002 specifically allowed off-site disposal, a copy of which she attached to the email.
+Ms. Bushey took no action in response to the email. (Findings 49-51)
+
+       Gaskins contends that the CO ratified the contract interpretation expressed by the
+government personnel in the email string when she did not respond or take some action
+(app. br. at 57-58). We have already concluded that the contract required on-site
+disposal. Ms. Mason did not have authority to change the terms of the contract
+(finding 51). Ms. Bushey's (Hocutt) testimony confirms she did not take any action in
+response to the email, i.e. she remained silent. Silence in and of itself is not sufficient to
+establish ratification. There must also be a showing of actual or constructive knowledge
+of the action being ratified. Harbert/Lummus Agrifuels Projects v. United States, 142
+F.3d 1429, 1433-34 (Fed. Cir. 1998), cert denied, 525 U.S. 1177 (1999). We have held
+implied ratification to occur in situations similar to those presented here where the CO
+remains silent while in the presence of unauthorized government personnel making
+incorrect representations to the contractor that the contractor reasonably relies upon.
+Brown Constr. Co., ASBCA No. 22648, 79-1BCAii13,745 at 67,368 (Government
+personnel at pre-bid conference made incorrect representations regarding the contract
+requirements. Although the CO, was present, heard the statements and knew they were
+incorrect, the CO took no action to correct them.); Lox Equipment Co., ASBCA
+No. 8985, 1964 BCA ii 4463 at 21,472 (inspector issued improper directives causing the
+contractor to perform work in excess of the contract requirements were ratified by the CO
+when he received knowledge of the inspectors directives and how they were being
+interpreted but failed to take effective action to correct the situation).
+
+       Here, the CO's testimony established that she read the email, understood
+Ms. Kaiser and Ms. Mason's interpretation of the contract that off-site disposal was
+allowed and disagreed with their interpretation. She also was aware the email was sent to
+Gaskins personnel. (Finding 51) Although being copied on the email alone would not be
+enough, given these facts, we conclude the CO ratified the actions of the government
+personnel and their interpretation on this issue, constructively changing the contract to
+allow off-site disposal prospectively. The discovery of hazardous waste in the spent
+debris was shortly after the constructive change requiring the hazardous waste to be
+disposed of on-site. Since disposal on-site was more expensive than off-site, Gaskins
+would normally be entitled to an equitable adjustment for the difference in costs.
+However, that is not the case here. Gaskins proposed disposing of all waste on-site
+
+                                             43
+(finding 19) presumably pricing these costs into its proposal. Consequently, Gaskins is
+not entitled to such an equitable adjustment for disposal of the hazardous debris on-site
+after the ratification occurred because it constitutes a windfall to Gaskins.
+
+        Regarding the prior off-site disposals, the CO could not have ratified the disposal
+of the containers already taken off-site because she did not have knowledge of them at
+the time of her ratification. DACA's subcontractor disposed of the waste off-site on
+18 October 2010 but the government (CO) was not notified of the disposals until
+22/23 October 2010 (finding 48). 17
+
+       Gaskins also asserts entitlement to 36.5 days of excusable and compensatory delay
+associated with this issue (finding 86). Since we have concluded Gaskins was
+contractually required to dispose of all spent blast debris on-site at award, Gaskins bears
+responsibility for any delays related to this issue and is not entitled to any excusable or
+compensatory delay for this issue.
+
+Additional Costs of Disposal ofContaminated/PPE and Additional Costs and Time
+Transferring Waste.from the Previously Approved Vacuum Boxes to DLA-Approved
+Containers.
+
+        Our findings establish that upon discovering the spent debris contained hazardous
+waste the government directed Gaskins (DACA) to dispose of the spent debris through the
+Mayport HWSF using only DLA-provided containers, but that shortly thereafter, also
+informed Gaskins (DACA) that the Mayport HWSF was unable to provide DLA-provided
+vacuum boxes or accept third-party vacuum boxes (finding 73). Gaskins contends this
+action introduced delays and unanticipated inefficiencies requiring DACA to transfer
+debris from the vacuum boxes to DLA-approved open-top containers involving DACA
+personnel handling the abrasive debris twice - once to vacuum it and once to transfer it -
+costing DACA additional labor hours, costs to pay those laborers, costs for outfitting
+additional laborers with PPE, and costs for disposing of that PPE as a hazardous waste
+(app. br. at 62-63). We conclude that the order to use DLA-provided containers was not a
+change to the contract and Gaskins is not entitled to any costs related to the conversion
+from a third-party vacuum box to the DLA approved boxes, including the transfer from
+the third-party containers to DLA containers. Gaskins was required to dispose of all waste
+through the Mayport HWSF from the time of award. All offerors were warned in
+
+
+17
+     Under proper procedures, the government would have signed the documentation
+        allowing the contractor to dispose of the waste off-site and, thus, would have
+        known of the action when it occurred. However, in this case the contractor
+        improperly signed as generator and approval for disposal on the documentation
+        and disposed of the waste without informing the government. (Finding 48)
+                                             44
+attachment B.2 of the solicitation that they needed to establish an account to order DLA
+approved containers in advance through the facility (finding 7).
+
+       Regarding the PPE related damages, Gaskins concedes that the discovery of
+elevated chromium levels in the paint did not change the PPE used by DACA's original
+workforce through the conclusion ofDACA's involvement on the project. Consequently,
+Gaskins does not claim damages for the PPE used by DACA's original nine workers.
+Instead, Gaskins claims (a) the costs of disposing of the PPE as a hazardous waste and
+purchasing replacement PPE for the original nine workers and (b) the costs for outfitting
+additional workers (beyond the original nine workers included in DACA's bid) with PPE
+(app. reply br. at 12)
+
+       Mr. Blum's opinion substantiates Gaskin's position that the level of worker
+protection did not change as a result of the discovery of elevated levels of chromium in
+the spent debris (findings 66-68). However he did not opine on the need to hire more
+employees that would necessarily have required PPE (finding 69). It is unclear from the
+record whether the additional workers were also required to work on the jobsite (blasting)
+as well as transferring debris for temporary storage waiting on DLA containers from the
+government. We conclude that Gaskins has met its burden of proof related to the original
+nine workers. Gaskins has also met its burden of proof regarding the additional workers
+for costs incurred in transferring the debris to/from temporary containers because of the
+government's delay in providing DLA containers.
+
+       Gaskins also asserts 36.5 days of excusable and compensatory delay for transfer of
+spent media to DLA containers (finding 86). Gaskins' delay expert opined that any such
+delays were not on the critical path. As a result, our findings establish no entitlement to
+any excusable delay or compensable delay for this issue (finding 93).
+
+Additional Costs and Time Erecting a Second Containment
+
+        Gaskins contends that DACA was required to erect a second containment for
+workers to remove their contaminated PPE and to transfer hazardous waste from the
+previously approved, Envirovac vacuum boxes into DLA- provided containers (app. br.
+at 62). We fail to find any evidence in the record supporting Gaskins' assertion that a
+second containment for workers to remove their contaminated PPE was a change to the
+contract. We are persuaded by Mr. Blum's opinion that the containment requirements
+found in the contract did not change as a result of the discovery of elevated levels of
+chromium in the spent debris. As to the transfer issue, Mr. Blum did not address the need
+for a secondary containment to transfer hazardous waste from the Envirovac vacuum
+boxes. Gaskins presented testimony that the second containment was required to transfer
+the debris to the vacuum containers for temporary storage in response to the
+government's delay in providing DLA containers (finding 70). As we have already
+stated, Gaskins is not entitled to any costs related to the conversion from a third-party
+
+                                            45
+vacuum box to the DLA approved boxes per se, but is entitled to costs incurred with
+transferring spent debris for temporary storage because of the government's delays in
+providing DLA containers. Consequently, we conclude Gaskins is also entitled to costs
+for a second containment to facilitate these transfers.
+
+       Gaskins does not specifically break out a claim for delay associated with the
+contaminated issue. Our findings establish this alleged delay was not on the critical path.
+As a result, there is no entitlement to any excusable delay or compensable delay on this
+issue.
+
+Time to Develop a Replacement Sampling Plan
+
+        After the discovery of hazardous waste in the spent debris, on 17 December 2010
+the CO directed Gaskins to stop work until a replacement sampling plan was developed
+and approved by the government (finding 53). The revised sampling plan was approved
+with comments and direction to proceed on 24 January 2011 (finding 56). Gaskins
+contends there was an approved plan already in place that the government considered
+valid but the CO provided no explanation why a new one was required. This, Gaskins
+contends, resulted in a delay of performance from 17 December 2010 to 24 January 2011,
+constituting a 38 calendar days of excusable delay and a direct consequence of the
+differing site condition (discovery of hazardous waste) (app. br. at 64). The government
+did not address this issue in its briefs.
+
+        We conclude Gaskins is not entitled to any delay resulting from the CO's
+direction. The underlying premise of Gaskins' argument, that there is no explanation for
+the CO's direction, is incorrect although a bit terse. The CO did provide an explanation
+stating, "It has come to our attention that the required waste determination has not been
+properly performed. Per Part 2, Section 07 57 19.00 25, Paragraph 1.5 LABORATORY
+ANALYSIS." (Finding 53) Based upon the circumstances involved, we conclude the
+CO's actions were reasonable. Gaskins is not entitled to any excusable or compensable
+delay for this issue.
+
+Steel Profile Issue: Additional Compensation Mod. P00003
+
+       The government concedes this issue constituted a differing site condition but
+argues Gaskins was fully compensated by execution of Mod. P00003. In contrast,
+Gaskins' appeal appears to seek both direct damages for additional costs not reimbursed
+for additional work and damages for delay to the schedule that are not reimbursed in
+Mod. P00003 (compl. ~ 53; app. hr. at 65-67). As to the direct damages, the record
+establishes Gaskins was reimbursed less in Mod. P00003 than the amount submitted in its
+change proposal (finding 36). We conclude Gaskins is entitled to the proven reasonable
+
+
+                                            46
+incurred cost of additional work that was not included in the amount reimbursed by
+Mod. P00003.
+
+        Gaskins also asserts 99 days of excusable and compensatory delay as a result of
+this issue (app. br. at 65-67). Our findings establish Gaskins is entitled to 48 days of
+excusable delay resulting from this differing site condition and no compensable delay
+(finding 101).
+
+DACA Termination, Arbitration Expenses and Replacement with Mansfield Industries
+
+        Gaskins contends it is entitled to recover its incurred costs in arbitrating and
+settling DACA's claims that were directly and proximately caused by the government's
+failure to recognize and pay for clearly changed work requirements (app. br. at 68-73).
+Specifically, Gaskins contends the combined effect of the Mod. P00003 shortfall and lack
+of any compensation for the discovery of hazardous waste resulted in DACA never being
+able to perform as it bid and left DACA financially devastated (id. at 68). Gaskins
+contends the specific damages it and DACA incurred resulted from: "(a) arbitrating and
+settling the dispute proximately caused by the government's failure to pay; (2) legal fees
+and consultant cost to review DACA's submissions, prepare for, and participate in the
+arbitration; and (3) subcontracting the remainder of DACA's work to Mansfield, for an
+additional cost" (id. at 69).
+
+        We are not persuaded that DACA's financial condition was the direct and proximate
+result of the government's failure to pay the claimed Mod. P00003 shortfall. Our findings
+establish that after the discovery that the existing profile of the trusses was deeper than
+indicated in the specifications, the CO suspended work on 31 March 2010. DACA
+remained mobilized and the parties eventually agreed to solve the issue by an additional
+layer of paint. Gaskins submitted a proposal of $508,979, assuming a re-start date of 5 July
+2010. However, notice to proceed was not issued until 3 August 2010 and the modification
+was not issued until 30 September 2010. Mod. P00003 increased the contract price by
+$466,988.36, approximately 92% of the Gaskins' proposal. (Findings 34-37)
+
+        Only seven days after issuance of Mod. P00003, DACA's attorney emailed
+Gaskins' attorney, copying DACA (Mr. Joiner and Mr. Ogletree), complaining that
+DACA's progress was being impeded by Gaskins' welding subcontractor, Garrison Steel,
+who was working in the same area as DACA. This contemporaneous email indicates that
+DACA was in a difficult financial position at the tim~ of the surface profile issue and
+execution of Mod. P00003 but that DACA considered the cause to be the interference by
+Gaskins' welding subcontractor, not the government. There is conspicuously no mention
+of the surface profile issue, a shortfall associated with Mod. P00003 or government
+responsibility for its financial plight. (Finding 74) Thereafter, on 17 November 2010,
+Gaskins issued a cure notice to DACA for failure to maintain schedule. DACA's
+response on 19 November 2010, acknowledged the schedule slippage but again blamed
+
+                                            47
+the delay on the defective welding work by Gaskins' welding subcontractor not the
+government. This was followed by a second cure notice to which DACA responded with
+a claim letter seeking compensation and a time extension for the interference caused by
+Gaskins' subcontractor. (Finding 75) The record is devoid of any contemporaneous
+evidence that DACA's financial plight was the result of the surface profile differing site
+condition. Rather, the evidence indicates DACA's financial plight at this period of time
+was the result of Gaskins' welding subcontractor.
+
+         We are also not persuaded that DACA's financial plight was the direct and
+proximate result of the failure of the government to pay Gaskins' claims resulting from
+the discovery of hazardous levels of heavy metals in spent blast debris. A large financial
+component of Gaskins' claim is based upon asserted changes requiring DACA to dispose
+of all spent blast debris on-site, add more staff and occupational exposure protection
+methods for hazardous materials, including medical surveillance, respirators, HEPA
+filters, protective clothing, shower and eyewash stations, and other precautions. In
+addition to the above, Gaskins' asserts the discovery of hazardous materials in the
+existing coatings required DACA to revise the containment system from a "Class II" to
+an air-sealed "Class I" containment. We have already addressed these alleged
+consequences and concluded the discovery of hazardous material in the spent blast debris
+did not entitle Gaskins to an equitable adjustment for the requirement to dispose of all
+blast debris on-site, require DACA to revise the containment system from a "Class II" to
+a "Class I" system, or change the worker protection/PPE requirements. Although
+Gaskins has proven entitlement to some damages as a result of the discovery of
+hazardous materials in the spent blast debris, we are not persuaded they constitute the
+direct and proximate cause of DACA's financial plight.
+
+        Gaskins' asserts the government is solely responsible for DACA's financial plight
+which resulted in DACA's termination, Gaskins' incurrence of arbitration expenses and
+the replacement with Mansfield. Although the two differing site conditions may have
+contributed to DACA's financial plight, we are not persuaded they were the sole, or even
+paramount, cause ofDACA's financial plight. Rather, our review of the evidence related
+to this issue causes us to conclude that the direct and proximate cause ofDACA's
+termination, the incurrence of arbitration expenses and replacement with Mansfield was
+not the result of the differing site conditions but rather a combination of interference from
+one of Gaskins' other subcontractors, Garrison Steel, and DACA' s determination to
+dispose of spent debris off-site, contrary to Gaskins' proposal, which in turn was caused
+by the failure of communication between DACA and Gaskins during the source selection.
+Consequently, we conclude Gaskins has failed to meet its burden of proof on this issue
+and is not entitled to these damages.
+
+      Gaskins also notes that the government was aware of its actions to terminate
+DACA and hire Mansfield and references an internal government email exchange in
+support of its assertion the government approved of this action (app. br. at 68-69). Our
+
+                                             48
+findings establish the government did have knowledge of Gaskins' actions and internally
+agreed Gaskins should replace DACA if it could not bring DACA back on schedule.
+However, there is no evidence anyone in the government ever communicated this opinion
+to Gaskins or ordered Gaskins to terminate DACA. (Finding 78)
+
+        Gaskins seeks 43 days of excusable and compensatory delay for replacing DACA
+with Mansfield (finding 86). Given Gaskins' failure to meet its burden of proof on this
+issue, there is no entitlement to either excusable or compensatory delay.
+
+Delay Associated with Discovery of Hazardous Waste in Spent Debris
+
+        Gaskins seeks 91.5 days of excusable and compensatory delay associated with the
+discovery of hazardous waste in the spent debris (compl. ~~ 100-01). Gaskins' delay
+expert combined this alleged delay with the replacement of Mansfield opining there were
+74 days of delay associated with both issues, assuming that this issue directly resulted in
+DACA's termination and replacement with Mansfield (findings 89-90). This analysis is
+contrary to Gaskins' complaint that asserts two separate claims, i.e. 91.5 days delay for
+this issue and 43 days delay for replacement of Mansfield (compl. ~~ 100-01, 109-10).
+Mr. Lowe's analysis is based upon the date Gaskins gave notice of the differing site
+condition, the date DACA stopped work and the date Mansfield began work; his opinion
+turns upon the assumption the government was the sole cause ofDACA's termination.
+We have already concluded the discovery of hazardous waste was not the sole cause of
+DACA's termination and replacement with Mansfield. Consequently, we conclude
+Gaskins has failed to meet its burden of proof on this issue.
+
+Perry Roofing
+
+        Gaskins, in its complaint, alleges the discovery of hazardous materials resulted in
+project delays and, as a result, Perry was unable to commit to vendors within the ordering
+window resulting in increased material costs and forced Perry to work in the rainy season
+requiring Perry to work on smaller portions of the roof at a time (comp I. ~~ 93-95).
+Gaskins' brief alleges an additional cause of delay and disruption resulting from the
+government's delay in issuing Mod. P00003 (app. br. at 67). Mr. Erdman, Perry
+roofing's senior field superintendent, testified that government-caused delays pushed
+their work out beyond their originally planned work period resulting in great
+administrative costs and cost increases in prices for 80% of its materials. Mr. Erdman's
+testimony was contradicted by Ms. Mason's testimony. Ms. Mason testified she was on
+site during this period and that Perry Roofing requested and was allowed to store
+approximately 80% of its roofing materials on-site. Additionally, she testified Perry
+Roofing invoiced the government and was paid for these materials in February 2011.
+The price increases referenced by Mr. Erdman were not effective until 1March2001.
+(Finding 38) We find Ms. Mason's testimony more credible on this issue and conclude
+
+
+                                            49
+Gaskins has failed to meet its burden of proof and, consequently, is not entitled to any
+compensation for the alleged delays or disruption to Perry Roofing's performance.
+
+        Gaskins also seeks 55 days of excusable and compensatory delay resulting from
+this issue (finding 86). Mr. Lowe, Gaskins' delay expert, did not allocate any excusable
+or compensable delay for this issue based upon his review of the daily reports
+(finding 92). Our findings indicate this work was not on the critical path but concurrent
+with the blasting and painting work and, therefore, is not entitled to any excusable or
+compensatory delay (id.).
+
+Multiple Containment Request: Mod. P00009
+
+       Gaskins was granted a 50 calendar day excusable delay by Mod. P00009 for
+government delays to process its request to erect two additional containments on the
+hangar worksite. This modification was bilateral but Gaskins reserved its right to seek
+additional time and compensation. (Findings 102-03) Gaskins seeks 50 additional days
+of compensable delay (comp I. iii! 116-17). Based upon Gaskins' delay expert's
+conclusions, our findings establish Gaskins' is entitled to a compensatory delay of
+25 days (finding 103).
+
+Summary of Gaskins' Delay Claim
+
+      Below is a summary of our conclusions on Gaskins' delay claim:
+
+                Compensable Delay                     Claimed     Granted
+                Replacement with Mansfield               43          0
+                Industrial
+                Discovery of Hazardous                  91.5         0
+                Materials
+                Perry Roofing                            55          0
+                Dispose of Spent Media at               36.5         0
+                Mayport B Facility
+                Transfer Spent Media to DLA             36.5         0
+                Dumpsters
+                Application of Intermediate              99          0
+                Layer of Paint (P00003)
+                MOD P00009 Delay in Approval             50          25
+                for Request to Erect Multiple
+                Containments.
+                Total                                  411.5         25
+
+
+                                            50
+                Excusable Delay Issues                Claimed Granted
+                Replacement with Mansfield               43      0
+                Industrial
+                Discovery of Hazardous Materials        91.5        0
+                Perry Roofing                            55         0
+                 Dispose of Spent Media at              36.5        0
+                Mayport B Facility
+                Transfer Spent Media to DLA             36.5        0
+                Dumpsters
+                Application of Intermediate Layer        99         48
+                of Paint (P00003)
+                Replacement Sampling Plan                38          0
+                Total                                   399.5       48
+
+Government's Affirmative Claims: Government Assessment for Defective Welding and
+Deficient Quality Control (ASBCA No. 59901) and Assessment of Liquidated Damages
+(ASBCA No. 59902)
+
+        The government assessed liquidated damages based upon 32 days of delay
+(finding 105). The government is not entitled to these damages because we determined
+Gaskins is entitled to 48 days of excusable delay. The government also assessed costs
+resulting from defective welding and deficient quality control. This assessment included
+a discrete cost for the weld inspection services and a portion of the cost incurred by the
+government under the follow on contract for hangar 1552 (phase II) attributable to the
+defective welds, deficient quality control and the required re-work under the contract.
+(Finding 106) The government is entitled to recover the costs of the required inspection
+and any damages incurred on the Phase II contract attributable to delay caused by
+Gaskins. However, the damages relating to the suspension of Phase II was based on a
+"pro rata" share of the damages the government paid out for suspending Phase II, which
+the government found was proportionately the responsibility of Gaskins. This calculation
+was based upon the premise that Gaskins delayed the schedule by 32 days. (Id.) Our
+findings establish Gaskins is entitled to 48 days of excusable delay, rather than
+responsible for 32 days of delay (finding 104). Consequently, we conclude the
+government has failed to meet its burden of proof regarding the damages related to the
+Phase II delays but is entitled to the costs of the inspection.
+
+                                        CONCLUSION
+
+       Gaskins' appeal in ASBCA No. 58550 is sustained in part and denied in part for
+the reasons stated. The appeal in the government's claim in ASBCA No. 59901 is
+sustained in part and denied in part for the reasons stated. The appeal in the
+
+
+                                           51
+government's claim in ASBCA No. 59902 is denied for the reasons stated. ASBCA
+Nos. 58550 and 59901 are returned to the parties for a negotiation of quantum.
+
+      Dated: 9 June 2017
+
+
+                                                     Armed Services Board
+                                                     of Contract Appeals
+
+                                                     I concur
+
+
+                                                                       u1{\c:·(/\,'-.-'
+                                                 \
+                                                     'y                 \I      4
+
+
+                                                     MICHAEL N. O'CONNELL
+ Administrative Judge                                Administrative Judge
+ Vice Chairman                                       Armed Services Board
+ Armed Services Board                                of Contract Appeals
+ of Contract Appeals
+
+
+      I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA Nos. 58550, 59901, 59902,
+Appeals ofL.C. Gaskins Construction Co., Inc., rendered in conformance with the
+Board's Charter.
+
+       Dated:
+
+
+                                                     JEFFREY D. GARDIN
+                                                     Recorder, Armed Services
+                                                     Board of Contract Appeals
+
+
+                                            52

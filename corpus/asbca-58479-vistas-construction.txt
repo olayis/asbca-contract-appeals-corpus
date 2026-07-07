@@ -1,0 +1,2043 @@
+ARMED SERVICES BOARD OF CONTRACT APPEALS
+
+Appeals of --                                 )
+                                              )
+Vistas Construction of Illinois, Inc.         )      ASBCA Nos. 58479, 58480, 58481
+                                              )                 58482, 58483, 58486
+                                              )                 58487, 58488
+Under Contract No. W912P8-08-C-0036           )
+
+APPEARANCES FOR THE APPELLANT:                       Thomas 0 . Mason, Esq.
+                                                     Francis E. Purcell, Jr., Esq.
+                                                      Cooley LLP
+                                                      Washington, DC
+
+APPEARANCES FOR THE GOVERNMENT:                      Thomas H. Gourlay, Jr., Esq.
+                                                      Engineer Chief Trial Attorney
+                                                     William G. Meiners, Esq.
+                                                      Engineer Trial Attorney
+                                                      U.S. Army Engineer District, New Orleans
+
+                OPINION BY ADMINISTRATIVE JUDGE O' CONNELL
+
+        These appeals arise out of a contract between appellant, Vistas Construction of
+Illinois, Inc. (Vistas), and the U.S. Army Corps of Engineers, New Orleans District,
+(Corps) to enlarge a levee in Louisiana. After the conclusion of the project, Vistas
+submitted a request for equitable adjustment (REA) seeking more than $17 million for a
+variety of issues, which it later certified as a claim. The contracting officer decided that
+Vistas was entitled to about $1.15 million. Vistas appealed to the Board, which assigned
+the discrete issues 10 ASBCA numbers of which eight remain. 1 The Board held a
+four-day hearing in Falls Church, Virginia, from 26-29 January 2015. At the hearing, the
+Board admitted large Rule 4 file supplements from both parties, including Vistas' REA,
+which alone consists of more than 44 volumes. Both entitlement and quantum are before
+us. For the reasons set forth in this opinion we sustain ASBCA Nos. 58483 and 58488 in
+part. All other appeals are denied or dismissed.
+
+                                 FINDINGS OF FACT
+
+The Project
+
+       The contract is a post-Hurricane Katrina project at Lake Cataouatche in Jefferson
+Parish, Louisiana, which provided for the enlargement of approximately 5,000 feet of
+
+1
+    ASBCA Nos. 58484 and 58485 were previously dismissed at the request of
+       appellant.
+levee. The work included placement of bedding stone, construction of temporary
+granular fill closures, granular fill, compacted and uncompacted fills, installation of two
+rows of 54-inch diameter double walled plastic pipe culverts, excavation within the
+existing drainage canal, levee degrading, sheetpile installation, grouted stone scour
+protection, rip rap, and above and below water surface geotextile placement. Vistas
+agreed to perform the work for a firm-fixed-price of $I4,622,356.54. (Ex. A-883
+(hereinafter "REA"), tab E.I at 5; R4, tab I at I ; R4, appx. at I, 3)
+
+       The contracting officer executed the contract on I 9 March 2008 and issued a
+notice to proceed on 28 March 2008 (R4, tab 6). Vistas started work on-site on
+24 April 2008 (supp. R4, tab 69 at 3; tr. 2/25). The contract provided for completion
+within 320 days (R4, app 'x, tab A, § 00700, if 52.2I I-IO).
+
+Changes to the Work
+
+        Almost immediately, Vistas discovered a problem with the contract drawings,
+which it described in a letter to the Corps dated 9 May 2008 (R4, tab 7 at I). The Request
+for Proposals (RFP) included drawing L-04 (New Sheet Pile and Culvert
+Section - Typical Section I). In the RFP, this drawing indicated in a 325-foot section
+from station I2I +75 to I25+00 that the levee would be constructed with a I vertical,
+4 horizontal (IV on 4H) slope of compacted fill (REA, tab E.I at 566). For unexplained
+reasons, the executed contract contained a different version of L-04, which included a new
+detail showing a slope of IV on I2H ofuncompacted fill from station I2I +25 to I23+43,
+a distance of about 2I 8 feet. From station I23+43 to I25+00 the drawing was consistent
+with the RFP drawing in that it depicted a IV on 4H slope of compacted fill. (Compare
+REA, tab E.I at 566 with tab E.2 at I06 & R4, app'x, tab Bat L-04)
+
+       The geometry of the IV on I2H slope was not feasible because it would have
+extended the work outside the right of way (tr. 3/82). Nevertheless, Vistas stated in its
+9 May 2008 letter that field representatives of the Corps had directed Vistas to "continue
+placing compacted fill in the canal per the IV to I2H slope detail" (R4, tab 7 at 2).
+Because more fill would be required to construct the IV on I 2H slope, Vistas also asked
+the Corps to "clarify how the additional fill materials are to be paid for" (id.).
+
+       The Corps seemingly solved the problem four weeks later on 6 June 2008 when it
+issued Modification No. A00002 (A00002). This modification included a new L-04, in
+which the detail showing the IV on I2H slope had been removed. The drawing now
+indicated that the entire length from station I2I+75 to I25+00 would be a IV on 4H slope
+of compacted fill, just as depicted in the RFP drawings. (supp. R4, tab 8 at 3, 4)
+
+       With respect to compensation for the changed work, A00002 provided that no partial
+payments would be made under the modification. Rather, payment would be directed by a
+separate modification containing an agreed upon equitable adjustment. (Supp. R4, tab 8 at 3)
+
+
+                                            2
+       Vistas began performing the work with the 1V on 4H slope, but a new problem
+developed before the parties definitized A00002. At 2:00 p.m. on 13 July 2008, the
+Corps' inspector noticed that the embankment had begun to fail, that is, it had begun to
+shear and move towards the water in a nearby ditch. The inspector directed Vistas to stop
+work for safety reasons. (Supp. R4, tab75 at GOV46816-17) On the following day, that
+same inspector described the incident as "a severe embankment failure" (id. at
+GOV46812). This embankment failure occurred in the 168 feet between station 121+75
+and 123+43 ; thus it was within the area that went from a 1Von4H slope in the RFP
+drawings, to 1V on 12H after award, and then back to 1V on 4H in A00002. The Corps
+absolved Vistas of any responsibility for the slope failure and recognized that the design
+needed to be changed (supp. R4, tab 13 at GOV43196).
+
+        The area where the work had to be stopped due to the slope failure was on the
+critical path for the project and, due to phasing in the contract, there was no other work
+available (supp. R4, tab 13 at GOV43196). While the Corps approved some
+out-of-sequence work, it is clear that the slope failure caused a major delay (see id.).
+
+       The Corps did not change the design immediately; it required until 7 October 2008
+to issue Modification No. POOOOl (POOOOl) to repair the drainage canal slope failure and
+to revise the pipe installation procedure (supp. R4, tab 28 at 1-2). The modification
+included a new L-04, which now depicted a 1V on 7H slope of compacted fill from
+station 123+43 to 125+00 (supp. R4, 8 April 2015 filing), which would have been
+adjacent to the area that suffered the slope failure.
+
+        POOOOl contained only a short explanation of the nature of the change, stating that
+"[t]his modification is to repair the drainage canal side slope failure and to revise the pipe
+installation procedure." It then listed seven drawings and six specification sections that
+were being replaced. (Supp. R4, tab G-28 at 2)
+
+       In a memorandum to the Corps Office of Counsel from Stuart Waits, P.E., chief,
+construction division, dated 27 August 2012, Mr. Waits described the POOOOl work as
+"changing the pipe installation method." Mr. Waits stated that before POOOOl , Vistas
+would excavate the canal, add geotextile fabric, add bedding material, then dewater and
+place pipe culvert. After the modification, Vistas was required to dewater prior to
+excavation. (App. supp. R4, tab 1157 at 2, ii 17)
+
+        At the hearing, the Corps construction manager, Ezra Batte, elaborated on the
+difficulties presented by dewatering prior to excavation. According to Mr. Batte,
+excavating in wet conditions in some respects is more difficult than a dry excavation
+because the contractor has to pull the dirt through water and place it on the ground where
+it does not hold any particular form. The contractor has to wait for the dirt to dry on the
+ground or place it in a lined truck that will hold the water. However, excavating in the dry
+presented Vistas a different set of problems because the weight of the water was no longer
+there to hold the side slopes in place, and cave-ins occurred. Moreover, when Vistas
+
+                                             3
+placed the rock, mudwaves began to develop; Vistas would then push the mud waves out
+of the way and excavate again. (Tr. 3/84-85)
+
+       In terms of payment for the changed work, POOOO 1, like A00002, stated that the
+modification did not include any additional payment and that any such change would
+occur through a separate modification containing an agreed upon equitable adjustment.
+The modification contained a definitization schedule that provided for Vistas to submit a
+proposal by 6 November 2008, for negotiations to begin on 17 November, and for a
+modification to issue by 28 November 2008. (Supp. R4, tab 28 at 2-3)
+
+       During this time period, the Corps believed that it would be entitled to a credit as a
+result of POOOOl. A 22 September 2008 memorandum from the Corps engineering
+division to the construction division estimated the savings at $1,685,692 (app. supp. R4,
+tab 78 at 3) and, as late as 23 January 2009, the Corps still estimated the credit to be more
+than $1 million (supp. R4, tab 17 at GOV43072). At the hearing, Mr. Batte attributed
+these conclusions to the relative inexperience of his predecessor as construction manager
+and her focus upon the cost savings that resulted from excavating "in the dry" without
+recognizing the increased difficulties that it presented (tr. 3/84).
+
+The Vistas ' Proposal and the DCAA Audit
+
+       Due to the expectation of a credit for the POOOO 1 work, the Corps must have been
+quite surprised when it received a proposal from Vistas on 19 December 2008 seeking
+more than $18.5 million to perform the changed work (REA, tab E.9). The proposal
+included a six-page letter from Vistas along with more than 400 pages of spreadsheets and
+other documentation. Notably, for reasons which will become clear when we discuss the
+amounts for profit and G&A in the REA, Vistas sought 10% profit and 10% G&A in the
+19 December proposal (id. at 173).
+
+       On 22 January 2009, the contracting officer wrote to Vistas instructing it to
+"resubmit its proposal in accordance with the format specified in Table 15-2,
+(INSTRUCTIONS FOR SUBMITTING COST/PRICE PROPOSALS WHEN COST OR
+PRICING DATA ARE REQUIRED), of FAR 15.408" (app. supp. R4, tab 186). She also
+informed Vistas that the Corps would require an audit under FAR 15.404-2, which
+effectively made the rapid definitization schedule impossible. Vistas thereafter revised
+the proposal in letters dated 19 February 2009 and 13 March 2009 (R4, tabs 14-15). In
+the 13 March submission, Vistas raised the amount it sought to $24,826,181.78, although
+the amount now also included the work involved with modification A00007 dated
+5 February 2009, which addressed differential settlement of culvert pipe (R4, tab 15 at 2).
+
+       The contracting officer informed Vistas that the audit could take up to 90 days to
+complete (app. supp. R4, tab 193 at 3). DCAA did not issue its report, however, until
+4 June 2010, more than 16 months later (supp. R4, tab 14). The lack of a completed audit
+impeded the Corps' ability to definitize and pay Vistas for the POOOO 1 work. We discuss
+
+                                            4
+the audit and a related criminal investigation in more detail below in our discussion of
+ASBCA No. 58483.
+
+The Corps Makes Partial Payments to Vistas
+
+       The parties agree that during the course of the project the Corps made 19 payments
+to Vistas totaling $21 ,246,217.77 (R4, tab 1 at 6; tr. 2/21-22). These records reflect
+regular invoices and payments to Vistas from June to December 2008:
+
+       No.    Invoice Date         Due Date              Amount
+       1      09 Jun 2008          23 June 2008          $1,448, 303 .22
+       2      02 Jul 2008          16 July 2008          $ 1,923 ,125.19
+       3      14 Aug 2008          28 Aug 2008           $        566.08
+       4      02 Oct 2008          02 Oct 2008           $ 393,908.70
+       5      20 Nov 2008          04 Dec 2008           $ 2,462,634.36
+
+                                          Subtotal:      $ 6,228,537.55
+
+(R4, tab 1 at 6, tab 29)
+
+         Due to the language in A00002 and POOOOl (as well as other modifications), which
+provided that there would be no partial payments and that payment would be made only
+after the issuance of an agreed upon modification, Vistas temporarily stopped submitting
+invoices after invoice no. 5 dated 20 November 2008 (R4, tab 1 at 6). On 20 January 2009,
+Vistas' president, Samuel Zepeda, Jr., wrote to the contracting officer requesting an interim
+payment (app. supp. R4, tab 180). Mr. Zepeda observed that in light of the DCAA audit he
+anticipated two or more months before Vistas could submit another payment application but
+that it could not withstand the financial impact of not billing on the contract and continuing
+to finance the changed work (id.).
+
+         On the following day, 21 January 2009, the contracting officer, Cynthia Nicholas,
+wrote to another Corps official, Timothy Roth, stating "there are several small
+modifications on this contract that are old. I thought I could give him a partial pay on the
+large one that Jenny is working on but since talking with her I don't think that is possible
+at this time." (App. supp. R4, tab 184) ("Jenny" is presumably Jennifer Honeycutt, the
+construction manager at that time.) Ms. Nicholas further stated "Is there any way we can
+get some of these smaller ones finalized so we can pay him. He is an 8(a) contractor and
+I feel like these small mods could be done very quickly and easily." (Id.)
+
+        By letter dated 23 January 2009, the contracting officer requested a meeting with
+Vistas on 3 February 2009 "to discuss the possibility of a partial payment." She further
+stated that "I do understand that you have not been able to invoice the Government for
+payment since October 31, 2008, and as a small business, you must have income to
+finance your operations." (App. supp. R4, tab 193)
+
+                                            5
+        The parties met on 3 February as planned (App. supp. R4, tab 1157 at 2, ii 24),
+leading to the issuance on 19 February 2008 of Modification No. P00003 (P00003),
+which provided for a partial payment of $500,000 for the POOOO 1 work (supp. R4, tab 28
+at 5-6). The Corps thereafter paid Vistas this amount.
+
+        The record reflects fairly regular payments by the Corps to Vistas from March 2009
+until July 2010, when, as discussed below, the Corps deleted the remaining work from
+Vistas' contract:
+
+       No.    Invoice Date         Due Date             Amount
+       6      11Mar2009            25 Mar 2009          $ 601,653.99
+       7      18 Mar 2009          01Apr2009            $ 290,000.00
+       8      14 May 2009          28 May 2009          $ 1,700,000.00
+       9      01Jul2009            15 July 2009         $ 924,431 .54
+       10     4 Sept 2009          18 Sept 2009         $ 2,500,000 .00
+       11     26 Oct 2009          09 Nov 2009          $ 1, 132,943 .21
+       12     18 Dec 2009          01Jan2010            $ 1,400,000.00
+       13     01Mar2010            15 Mar 2010          $ 965,000.00
+       14     21Apr2010            05 May 2010          $ 1,664,999 .99
+       15     28 May 2010          11June2010           $ 846,146.82
+       16     29 Jun 2010          13 Jul 2010          $ 992,504.97
+                             Subtotal Invoice 1-16      $19 ,246,218. 07
+
+(R4, tab 1 at 6, tab 29 at 16-49)
+
+       The invoices Vistas submitted after invoice no. 6 included significant amounts for
+the A00002 and POOOO 1 work. In fact, the record indicates that the payments for invoice
+nos. 8 to 16 were almost entirely directed at the A00002 and (mostly) the POOOOl work.
+(Supp. R4, tab 28 at 8-39; R4, tab 29 at 22-51)
+
+       On 26 July 2010, the contracting officer issued Modification No. POOO 17 (POOO 17),
+which deleted the remaining contract work (supp. R4, tab 28 at 40). At the hearing, the
+contracting officer testified that she issued this modification because the Corps was "trying
+to meet schedules and Vistas was having a hard time completing the project" (tr. 4/80).
+
+The Corps Adopts a Total Cost Approach and Vistas Submits an REA
+
+        By the time DCAA issued the audit report on Vistas ' revised proposal on
+4 June 2010, Vistas had been working on the project for more than two years and had
+performed most of the work it would perform due to the deletion of the remaining work
+the following month as noted above. Thus, by the time that DCAA issued its report, the
+report was largely irrelevant because Vistas had performed the work and there was actual
+cost data.
+
+                                            6
+       According to Mr. Batte, the Corps faced a dilemma in determining how to finalize
+compensation for the .modifications. On the one hand, it did not see a way to measure the
+difference in time and cost between excavating in the dry versus the wet. Although the
+Corps based its determination that Vistas was entitled to additional compensation for
+POOOOI on the mud waves that developed, Mr. Batte testified that the wet excavation may
+also have presented problems with such waves. (Tr. 3/96) In addition, Mr. Batte testified
+that while the IV on 7H slope required more dirt to construct, it was also easier to operate
+heavy equipment on the more gradual slope (tr. 3/83 , 97).
+
+       Mr. Batte discussed how to proceed with his supervisor; they were concerned that
+by paying Vistas on a total cost basis the Corps would be paying for cost increases for
+which the Corps was not responsible. However, they settled upon the total cost method
+for lack of a better alternative. (Tr. 3/96, 99)
+
+       It is clear that there was a wide gap in the parties' expectations as to how Vistas
+should proceed with finalizing compensation for the modifications. Mr. Batte testified that
+he asked for "a simple accounting of their, what I would call hard costs. Labor, materials,
+supplies, subcontractors, etcetera, field office overhead, you know whatever they spent
+essentially." Mr. Batte informed both Samuel and Ignacio Zepeda (Vistas president and
+project manager, respectively) of these expectations in June 2010. (Tr. 3/99-100)
+
+        Vistas ultimately took more than I 0 months after the discussions with Mr. Batte to
+prepare its REA, which is dated 26 April 2011. (Vistas later submitted a one-page
+certification of the REA as a claim on 3 May 2012 (R4, tab 4)). Vistas rejected the
+Corps' total cost approach using what it referred to as "a reasonable actual cost approach
+and estimates of cost." (REA, Executive Summary (exec. summ.) at 2).
+
+       The REA contains a 23-page executive summary, followed by a 29-page
+methodology of cost allocation with attached letters from its cost expert and attorneys.
+These materials are then followed by 44 binders of information. The heart of the analysis
+is contained in the first 26 binders, which contain five "levels" of "work papers," that is,
+spreadsheets, in some cases quite lengthy, detailing various costs and calculations, along
+with supporting documents.
+
+       In the REA, Vistas claimed entitlement to a total contract sum of $36,990,484. 71.
+Subtracting contract payments of $19,246,218.07, it sought a net amount of $17,744,266.64.
+(Exec. summ. at 20-21)
+
+       Subsequent to Vistas' submission of the REA, the Corps made three further
+payments to Vistas in the latter part of201 l and early 2012 totaling $2 million (R4, tab 1 at
+6). The modifications that authorized these payments indicated that they were additional
+payments for the POOOOl work (supp. R4, tab 28 at 43-60). These payments brought the
+total amount paid to Vistas to $21,246,218.07.
+
+
+                                            7
+        The Corps analyzed the REA by breaking it down into components such as labor,
+equipment, profit and other categories (see R4, tab 1 at 18). Because the Board adopted this
+approach when it assigned ASBCA numbers to the matters in dispute, and because Vistas
+adopted it when it filed its complaint, we will continue with that approach. We observe that
+there is no pending issue involving payment for labor, materials, or equipment on either the
+changed or unchanged work. The issues before the Board involve: G&A, profit, interest,
+costs to respond to the DCAA audit, bonding costs, and REA preparation costs.
+
+                         G&A Expenses -ASBCA No. 58479
+
+                        ADDITIONAL FINDINGS OF FACT
+
+       Vistas' initial bid price for this project was $16,050,700.86, which included an
+"overhead" rate of 10% (exec. summ. at 1O; supp. R4, tab 22). After the contracting
+officer notified Vistas that its price was high, Vistas reduced its price by more than
+$1.4 million, which resulted in the contract price of $14,622,356.54 (exec. summ. at 6).
+Vistas achieved this lower price by reducing its profit and G&A (id.). The final contract
+price included G&A of7.7% (supp. R4, tab 14 at 18; app. supp. R4, tab 413 at 8).
+
+       In Vistas' 19 December 2008 proposal for POOOOl , it requested "overhead" of 10%
+(R4, tab 11, last page; REA, tab E.9 at 173). In its 13 March 2009 amendment to that
+proposal, Vistas increased its "general and administrative overhead expense" from 10 to 14%
+(R4, tab 15 at 1).
+
+        In the REA, Vistas sought G&A of$2,585 ,601 , or 13.7% of its direct costs (R4, tab 1
+at 18; compl. ii 126). The REA stated that Vistas had used a "value-added cost input" basis
+as defined in 48 C.F.R. § 9904.410-50 (Cost Accounting Standards) to determine G&A
+(exec. summ. at 14). The difference between using the contractor's total costs and value-
+added cost input for the allocation base is that total cost includes everything except G&A
+while value-added removes materials and subcontractors from the base (tr. 3/54). 48 C.F.R.
+§ 9904.410-50( d)(2). A value-added base is used where inclusion of material and
+subcontract costs would significantly distort the allocation of the G&A expense pool in
+relation to the benefits received, and where costs other than direct labor are significant
+measures of total activity (tr. 3/54). 48 C.F.R. § 9904.410-50(d)(2). Vistas attached to the
+REA a letter from its eventual expert at trial, Darrell J. Oyer, CPA. In his letter, Mr. Oyer
+stated that Vistas had used an "added value base" and opined that this was permissible under
+the FAR and appropriate u·n der the circumstances (Oyer ltr. at 3 (exec. summ. at .pdf 56/83)).
+
+        In her final decision, the contracting officer determined that use of the value-added
+approach was not appropriate. Among other things, she observed that Vistas had used a total
+cost input method on all modifications. She took the 2008 G&A rate determined by DCAA,
+8.5% (see R4, tab 25 at 19), and used that rate for the entire project. Multiplying 8.5% by
+total direct costs of $18,805,339, the contracting officer determined that Vistas was entitled
+to total G&A of $1,598,454, about $987,000 less than Vistas sought (R4, tab 1 at 8-9).
+
+                                            8
+        In its complaint, Vistas contended that it had properly used a value-added base "at
+the advice of its expert consultant" and that it was entitled to $2,585,601 in G&A costs,
+which amounted to a rate of 13.7% (compl. ~ 126). In its prehearing brief filed just two
+weeks before the start of trial, Vistas continued to assert that it had used a valued-added
+base, but it now stated without explanation that it was entitled to application of a 13.5%
+rate (app. pre-hearing br. at 7-8).
+
+Vistas' Contentions at the Hearing
+
+        At the hearing, Vistas changed its position. Vistas' director of corporate affairs and
+finance, Maribel Zepeda, testified that in calculating G&A, "we took our experts advice and
+utilized the total cost input to capture a fair and actual amount of G&A" (tr. 2/6). In fact,
+she went so far as to testify that she was not familiar with the value-added method and could
+not respond to a question about it (tr. 2/58). Subsequently, Mr. Oyer testified that Vistas
+had used a total cost input base (tr. 3/24), which contradicted his 25 April 2011 letter
+attached to the REA (exec. summ. at .pdf 54/83).
+
+       During cross-examination, Mr. Oyer was fairly adamant and convincing that total
+cost input was the proper method for calculating Vistas ' G&A:
+
+                      Q. Now you state in this paragraph 10 that, in fact,
+              Vistas used the total cost input method to calculate G&A.
+              Is that correct?
+
+                     A. That' s correct, yes.
+
+                     Q. And are you confident of that?
+
+                     A. Yes.
+
+                    Q. And so you also are confident that Vistas did not
+             use the value added method to calculate G&A?
+
+                     A. Yes.
+
+
+                    Q. Now is it your expert opinion that in this case it
+             is appropriate for Vistas to use the total cost input method
+             to calculate G&A?
+
+                     A. Yes.
+
+
+                                            9
+                      Q. And that it is, in fact, the most appropriate
+                method, correct?
+
+                       A. Yes.
+
+                       Q. And why is that?
+
+                       A. They did not have -- if you do a value added
+                base, you need to also have subcontract administration
+                material handling. So you can allocate some indirect costs
+                to the materials and subcontracts. They don' t get a free
+                ride under the value added ....
+
+                [T]he company had not set up material handling
+                subcontract administration pool in the past. We would have
+                to go back and do that retroactively which sometimes is
+                frowned on by auditors .
+
+                        Q. And so isn' t it correct, Mr. Oyer, that in your
+                review of the accounting records of Vistas, you determined
+                that it was Vistas' established practice to calculate G&A
+                based upon the total cost input method?
+
+                      A. Yes.
+
+                       Q. And isn't it correct that to your knowledge, Vistas
+                has never used a value added method to calculate G&A?
+
+                      A. Not to my knowledge.
+
+(Tr. 3/54-56)
+
+        During the government's cross-examination of Mr. Oyer an explanation for
+Vistas ' switch to a total cost input base emerged: using a rate of 13 .7% and a
+value-added base would actually reduce the amount of G&A to which Vistas is entitled to
+about $1.3 million, or about $300,000 less than the contracting officer awarded in her
+final decision (tr. 3/59-60; R4, tab 1 at 18).
+
+        Vistas also called Louis Butler, the consultant who worked with Vistas during the
+project, as a witness. Contrary to Ms. Zepeda and Mr. Oyer, Mr. Butler testified that " [w] e
+used the value added approach" because Vistas had to subcontract out a project in Chicago
+that it had planned to self-perform (tr. 2/ 155-56). Mr. Butler, who describes himself as "a
+CPA" but "not a practicing CPA" (tr. 2/167), did not seem aware that Vistas had switched
+
+
+                                             10
+to advocating a total cost input base; he testified that use of the value-added approach "was
+obviously supported" and "ratified by" Mr. Oyer (tr. 2/156).
+
+         Mr. Butler testified as a fact witness not as an expert. His work for Vistas
+included preparation of the work papers in which Vistas calculated its REA, including the
+G&A calculation (tr. 1/130, 137, 2/13-14, 18, 155-58). Unfortunately, Mr. Butler seemed
+unsure on how he had calculated the G&A; he was not able to explain how he calculated
+the amount sought despite repeated questions from Vistas' attorney on direct examination
+(tr. 2/1 55-65).
+
+       In its initial post-hearing brief, Vistas continued to maintain that it had used a total
+cost input approach, that it was entitled to a G&A of 13.7%, and total G&A of $2,585,601
+(app. br. at 24). Vistas stated that it had "mislabel[ed]" the methodology in the REA but
+requested that the Board apply a total cost input rate and award it $2,585,601 (id. ).
+
+The Government 's Position
+
+       In its brief, the government made a convincing case that Vistas had, in fact, used a
+value-added base in the REA. The government analyzed the REA work papers for the four
+periods that Vistas divides its claim. 2 For example, one of the periods of time is calendar
+year 2009, for which Vistas calculates the appropriate amount of G&A to be $1 ,089,499.32
+(see REA, tab D.8 at 65 (WP NN-2, Summary of General and Administrative Expenses
+Fiscal Year 2009)). Vistas arrived at this amount by calculating its total direct costs of
+construction for all jobs ($21 ,622,323 .28) and then subtracting its material and subcontract
+costs for all jobs ($16,792,296.96) to reach a value-added base of $4,830,026.32. 3 Next,
+G&A expenses of $1 ,218,111.19 (REA, tab D.8 at 65 (WP NN-2)) are divided by the
+value-added base of $4,830,026.32, resulting in a rate of25.2195559%. Finally, this rate is
+multiplied by the Lake Cataouatche direct costs (minus materials and subcontracts) of
+$4,320,057.51 4 (REA, tab D.8 at 16 (WP DD-2)), resulting in the $1 ,089,499.32 that Vistas
+sought for 2009 5 (REA, tab D.8 at 65, WP NN-2). The total G&A amount calculated by
+
+2
+  These periods are: 1 January to 15 November 2008; 16 November to 31 December
+       2008; 1 January to 31 December 2009; and 1 January to 30 September 2010
+       (see , e.g. , REA, tab D.2 at 169, tab D.8 at 63-66).
+3
+  These numbers come from REA, tab D.8 at 16 (WP DD-2, Profit Loss by Job). The
+       calculation requires adding the numbers in the "Lake Cataouatche" and "All
+       Other Contracts" columns. Thus, the total direct costs of construction are
+       $7,297,681.28 + $14,324,642 = $21 ,622,323.28. From this amount, the
+       numbers in lines 50300 (Direct Costs-Direct Materials) and 50400 (Direct
+       Costs-Subcontractors) are subtracted. The value-added cost base is the sum of
+       the amounts in the "Value-Added Cost Input" columns: $4,320,057.51 (Lake
+       Cataouatche) + $509,968.81 (All Other Contracts)= $4,830,026.32.
+4
+  $7,297,681.28- $2,977,623.77 = $4,320,057.51.
+5
+  $4,320,057.51 x .252195559 = $1,089,499.32 .
+                                              11
+Vistas for all time periods was $2,832,190.93 6, from which it deducted $246,589.95 in
+unallowable consulting and other costs, including nearly $100,000 for Kenneth Nix (REA,
+tab D.8 at 62/75), a consultant whose work is discussed below in our decision on the
+DCAA audit appeal, which resulted in the final claim number of $2,585,601.
+
+           The government provided its own calculations of G&A using a total cost input base:
+
+                         Total Cost Rate Total Project Costs      Amount
+
+    2008 thru
+    Nov. 15                    11.406%        $5 ,988,349.17      $683 ,031.11
+
+    Nov. 16-
+    Dec. 31 , 2008                5.65 %          $649,233 .16     $36,681.11
+
+    2009                          5.63%       $7 ,297 ,681 .28    $410,859.46
+
+    2010
+    (thru Sept 30)             12.085%        $4, 116,512.80      $497,480.57
+
+                                                     Total=      $1,628,052.25
+
+(Gov't br. at 39) By way of example, for 2009, the government divided the G&A expenses
+of $1 ,218, 111.19 for all jobs by the total direct costs of construction for all jobs of
+$21 ,622,323.28 (see REA, tab D.8 at 16 and n.2 above), to arrive at the rate of 5.63 %.7
+Then, it took total Lake Cataouatche direct constructions costs for 2009 of $7 ,297 ,681.28 8
+and multiplied it by 5.63% to arrive at total cost input G&A of $410,859.46.9
+
+       The amount that the government calculates for G&A, $1 ,628,052.25, is about
+$30,000 higher than the amount awarded by the contracting officer (R4, tab 1 at 18). But,
+as the government observes, Vistas has also conceded that $246,589.95 should be
+
+
+6
+    Dates                     G&AAmount        Citation
+    01/01/08-11/15/08         $ 654,275.68     REA tab D.2 at 169
+    11/16/08-12/31/08         $     37,906.04  REA tab D.8 at 63
+    01/01/09-12/31/09         $ 1,089,499.32   REA tab D.8 at 65
+    01/01/10-09/30/l 0        $ 1,050,509.89   REA tab D.8 at 66
+                              =$2,832,190.93
+7
+  $1 ,218,111.19 -7- $21 ,622,323.28 = 5.63%.
+8
+  See REA, tab D.8 at 16 (WP DD-2) in the row marked "Total COGS [cost of goods
+        sold]" in the Lake Cataouatche column.
+9 $7,297,681.28 x .0563 = $410,859.46.
+
+
+                                             12
+deducted from the final G&A number because ofunallowable costs, including $98,250 for
+Kenneth Nix (REA, tab D.8 at 62, 67 (WPs NN & NN-4.1)). Thus, the government
+concludes that Vistas has been overpaid by more than $200,000.
+
+Vistas ' Reply Brief
+
+         Faced with the government' s computations, Vistas abandoned total cost input in
+its reply brief; it now concedes that it used value-added but contends that this is the
+proper approach. It does not attempt to explain the testimony of Ms. Zepeda or Mr. Oyer,
+but it does provide an all new set of calculations using both the value-added method and,
+in the alternative, the total cost method. Under the value-added method, it now contends
+that the proper calculation is $3,345,032.16, but states that it is not requesting more than
+the $2,585,601 it sought in its claim (app. reply at 11).
+
+        In its total cost input calculation, Vistas calculates that it is entitled to $1 ,905,485 .64,
+or about $307,000 more than the contracting officer awarded (app. reply at 11). Vistas'
+calculations contain minor differences in the November - December 2008 and the January -
+December 2009 time periods as compared to the Corps (compare app. reply at 9 and gov't br.
+at 39). However, its calculations contain significant differences for 1 January through 15
+November 2008 ($927,170.88 vs. $683,031.11 for the Corps) and for 2010 ($589,732.70 vs.
+$497,480.57) (id.). But Vistas' new calculations have obvious errors. For one thing, it
+adjusts the 2008 G&A expenses through 15 November up from $754,769.82 to
+$1,016,974.94, an increase of $262,205.12 (app. reply at 9). The source of this calculation,
+Work Paper N, the summary of G&A expenses through 15 November, does not support this
+change. This work paper contains an amount for "Allowable G&A Expenses" of
+$754,769.82, the G&A amount for all contracts for the entire year. Because more than 86%
+of this amount was attributable to Lake Cataouatche, it further states that $654,275.68 is for
+"Allowable G&A Chargeable to Corps contract." (REA, tab D.2 at 169/173) The
+$654,275.68 is further broken down into $262,205.12, which is "Allowable G&A Expense
+incurred prior to April 24, 2008 initiation of field operations," and $392,070.56, which is
+"Allowable G&A Expense incurred subsequent to April 24, 2008 initiation of field
+operations" (id.). Thus, the $262,205.12 is a component of the $754,769.82, not a separate
+amount that should be added to it.
+
+        Second, for this same time period in 2008, Vistas increases the total direct costs of
+construction of all jobs from $6,617,269.84 to $11,245,398.83 by adding $2,180,097.07 in
+materials and $2,448,032.42 in subcontracts (app. reply at 9). But Work Paper N-1 , Profit
+Loss by Job Jan 1- Nov 15, 2008, clearly indicates that the materials and subcontract costs
+are already included in the $6,617,269.84 10 (REA, tab D.2 at 172).
+
+
+10
+     This amount is calculated by adding "Total COGS" of $5,988,349.17 for Lake
+         Cataouatche and $628,920.67 for "All other contracts." Note that these
+         amounts already include lines 50300 - Direct Costs-Direct Materials, and 50400
+                                            13
+        Finally, Vistas' calculations for 2010 are different from the Corps because it uses a
+total G&A amount of $1,477,749.42 instead of the $1,244,116.37 used by the Corps
+(compare app. reply at 9 & gov't brief at 38). Vistas' use of this number appears to be an
+error. It cites REA tab D.8, Work Paper DD-3 , Profit Loss by Job, in support of its
+assertion. This work paper does contain the number $1 ,477,749.42, but it appears in the
+row entitled "Net Income." (REA, tab D.8 at 17) The number used by the Corps is
+contained in Work Paper NN-3, Summary of General and Administrative Expenses, in
+the column entitled "Distributable G&A Overhead Pool" and the row marked "Total
+G&A" (REA, tab D.8 at 66). Thus, we find that the Corps used the correct number.
+
+                                       DECISION
+
+        When a contractor files an appeal or lawsuit challenging a contracting officer' s
+final decision, the findings of fact in that decision are not binding and are not entitled to
+any deference. The claimant has the burden of proving the fundamental facts of liability
+and damages de novo. Wilner v. United States, 24 F.3d 1397, 1401 (Fed. Cir. 1994)
+(en bane). Once an action is brought following a contracting officer's decision, the
+parties start before the Board with a "clean slate." Id. at 1402. The Board has the
+authority to decrease or increase the amount awarded by the contracting officer.
+Id. at 1401 (citing Assurance Co. v. United States, 813 F.2d 1202, 1206 (Fed. Cir. 1987)).
+
+        The basic question to be resolved in Vistas' G&A claim is whether the contracting
+officer awarded Vistas the proper amount. However, we must first decide whether Vistas
+may use a value-added base despite its historical use of total cost input. In PACCAR, Inc. ,
+ASBCA No. 27978, 89-2 BCA ii 21 ,696 at 109,080, we observed that it is well established
+that a change in the method of accounting for indirect costs may be justified under special
+circumstances in order to produce equitable results, and that "the change may be retroactive
+where unusual circumstances in the contractor' s operations do not become apparent" until
+the time proximate to the requested change. Id. (citing Celesco Industries, Inc.,
+ASBCA No. 20569, 77-1 BCA ii 12,445; Zero Manufacturing Co. , ASBCA No. 14558,
+70-2 BCA ii 8489); FAR 31.203(e) (2008). The Board has been reluctant to permit either
+party to benefit from retroactive accounting changes. Id. (citing Falcon Research and
+Development Co., ASBCA No. 19784, 77-1BCAii12,312; Celesco Industries, Inc. ,
+ASBCA No. 23165, 80-1BCAii14,455), and have taken note of the "commercial havoc"
+that could result by permitting the practice in the absence of "peculiar" circumstances. Id.
+(citing Blue Cross and Blue Shield Ass 'n, ASBCA No. 26529, 86-2 BCA ii 18,751 , ajf'd,
+13 Cl. Ct. 710, ajf'd, 852 F.2d 1294 (Fed. Cir. 1988) (table).
+
+       We conclude that Vistas has not carried its burden of demonstrating that
+retroactive application of a value-added base is appropriate. We reach this conclusion
+
+
+       - Direct Costs-Subcontractors. Thus, Vistas double counts materials and
+       subcontractors in its reply brief.
+                                          14
+based not only on the head-spinning changes in Vistas' position, which undermine its
+case, but also on several other considerations. First, the only company employee who
+testified on this issue, Maribel Zepeda, Vistas' director of corporate affairs and finance,
+testified that she had never heard of the value-added method and understood Vistas to be
+using a total cost input method. This significantly undercuts any assertion that the
+company made a reasoned determination that a switch to a value-added base would be
+appropriate. Second, Vistas' retained expert, Darrell Oyer, opined at trial that total cost
+input was the appropriate base. In support of his conclusion, Mr. Oyer cited Vistas '
+historical use of total cost input, its failure to establish a material handling subcontract
+administration pool, and the fact that retroactive changes are "frowned on by auditors"
+(tr. 3/56). Mr. Oyer also candidly admitted that application of the value-added base at the
+13. 7% rate claimed by Vistas would result in a significantly lower award than that
+calculated by the contracting officer.
+
+        Third, although Louis Butler testified that Vistas had used a value-added base in
+calculating the REA, his testimony overall was rather vague and unhelpful on this issue.
+Although Mr. Butler did testify that Vistas had used a value-added base in the REA
+because Vistas had experienced increased subcontracting on a project in Chicago
+(tr. 21155-56), his inability to explain how he had calculated the G&A despite repeated
+questions from Vistas' attorney on direct examination causes us to give his testimony
+little weight. Moreover, it would seem to us that the witness in the best position to
+explain how Vistas' subcontracting needs on the Chicago project necessitated a switch to
+a value-added base would have been Ms. Zepeda, but she provided no such testimony.
+
+       The question then becomes whether Vistas is entitled to the $1,905,485.64 that it
+contends it is entitled to if total cost input is used, or to some other amount in excess of
+the $1,598,454 awarded by the contracting officer using total cost input. We have
+already found that the $1 ,905,485.64 calculation contains three errors that inflate the
+amount sought. Given our conclusion, we will not address whether it is appropriate to
+consider calculations raised for the first time in a reply brief.
+
+       The Corps has calculated the total cost input G&A to be $1 ,628,052.25 minus
+$246,589.95 in consulting and other costs that Vistas removed from the claim because
+they represent unallowable costs. This would result in a final amount of $1 ,381 ,462.30
+and would mean that the contracting officer overpaid Vistas by more than $200,000. We
+find the calculation of the $1,628,052.25 to be convincing. The methodology the Corps
+used is similar to that used by Vistas in its reply; they reach different conclusions simply
+because Vistas' calculations contain incorrect numbers, as we have found.
+
+       In its reply brief, Vistas did not challenge the Corps' assertion that Vistas had
+subtracted $246,589.95 in unallowable costs from the REA, nor did it challenge the Corps '
+assertion that this amount should be deducted from the final G&A calculation, whether it
+was value-added or total cost input. Accordingly, we agree with the government that
+
+
+                                            15
+Vistas was entitled to $1,381,462.30 in G&A on its certified claim. Because this is less
+than the amount granted by the contracting officer, we deny the appeal.
+
+                                   Profit-ASBCA No. 58480
+
+                          ADDITIONAL FINDINGS OF FACT
+
+        The majority of the money that Vistas is seeking is profit: $4,421 ,891.60 on what it
+refers to as the firm-fixed-price contract work (that is, the work not affected by
+modifications or other impacts, see exec. summ. at 10-11); plus $4,573,921.84 on the
+undefinitized modifications, including POOOOl (id.; app. br. at 20); and, although not
+addressed in Vistas' opening post-hearing brief, $131 ,292.44 in profit for work performed
+on negotiated, definitized modifications. Given the magnitude of these amounts (more than
+$9 .1 million), some discussion of the profit levels and method of calculation is in order.
+
+Vistas ' Profit in its Proposals
+
+       Vistas ' initial bid price included profit of seven percent (exec. summ. at 1O; supp. R4,
+tab 22). After Vistas reduced its G&A and profit by more than $1.4 million, Vistas' final
+proposal included profit of just 4.44% (supp. R4, tab 14 at 21; app. supp. R4, tab 413 at 8).
+
+      As described above, when Vistas submitted its original proposal for POOOO 1, it
+sought profit of 10 % (REA, tab E.9 at 33). By its second revision to this proposal on
+13 March 2009, Vistas had increased profit to 10.29% (R4, tab 15 at 2). Negotiated
+modifications A00003, A00004, and A00005 contained profit rates of 7.71 , 9.35 , and
+10.0%, respectively (methodology at 26).
+
+        In the REA, Vistas acknowledged that it was a small business with no prior
+experience in levee enlargements and that it entered into the contract knowing that it
+would encounter a steep learning curve (exec. summ. at 5). Vistas alleged that the Corps
+improperly induced it to reduce its offer by $1.4 million (id. at 6-10). It further stated that,
+during construction it encountered a host of problems, including the unavailability of the
+entire project site, errors in other drawings besides L-04, and the design issues that led to
+the embankment failure (id. at 6-7). While these ingredients - a low bid price, an
+inexperienced contractor, erroneous drawings, an allegedly unscrupulous agency, and
+difficult working conditions - might lead one to expect a loss on the project, that is not
+Vistas' contention here. Rather, it contends that, due to its "productivity, efficiencies and
+value engineering" (exec. summ. at 12), it made a profit of $4,421 ,891.60 on the
+firm-fixed-price contract work (id. at 11 , 20). But Vistas did not offer any evidence at the
+hearing that proved any productivity, efficiencies or value engineering. Vistas
+nevertheless contends that it earned a 34.81 profit on the firm-fixed-price work. Vistas
+seeks to apply the same 34.81 % profit to the undefinitized modifications, bringing the
+total profit for these two items to nearly $9 million.
+
+
+                                             16
+       As we observed above, Vistas' has submitted volumes of information in support of
+its damage calculations, much of which is difficult to review. However, at the highest
+level, Vistas' profit calculations are easily understood. It contends that it received
+$12,702,495.70 in payments from the Corps for the firm-fixed-price (unchanged) contract
+work and that it incurred $10,012,708.90 in costs for such work (Methodology at 26). It
+contends that, because this latter amount was incurred over 869 days instead of the
+original 320 days, it incurred unabsorbed indirect costs and escalations in prices and wage
+rates amounting to $1 , 817,55 5 .21 ; subtracting this amount from its costs results in an
+"actual cost" of performing the firm-fixed-price contract work of $8,280,604.10. (Id. )
+Finally, $12,702,495 .70 in payments minus $8,280,604.10 in costs, minus $85 ,450.41 in
+allocable bond premiums equals $4,421 ,891.60 in profit. 11 While it is reasonable to
+contemplate that costs may increase if work is performed over a much longer period of
+time, Vistas did not spend any time at the hearing or in its briefs explaining how it
+calculated more than $1.8 million in unabsorbed costs and price escalations. Further, both
+Vistas' calculation of the amounts it received from the Corps for the firm-fixed-price
+contract work, and the cost of performing that work, have problems.
+
+Vistas ' Calculation ofAmounts Paid for the Firm-Fixed-Price Work
+
+       With respect to the amount paid to Vistas, this much is known: the Corps made five
+payments to Vistas totaling $6,228,537.55 for the period through the end of October 2008,
+the month that the contracting officer issued POOOO 1. Vistas characterizes all of this as
+payments for the firm-fixed-price contract work (Methodology at 26). However, this
+amount is still less than half of the $12,702,495.70 that Vistas contends it received for that
+work. Vistas closes this gap by characterizing nearly $6.5 million in what it refers to as
+"unallocated partial payments" as payments for the firm-fixed-price contract work (id.).
+Vistas identifies these payments in Work Paper B (Summary of Contract Payments by
+COE) (REA, tab D.1 at 48). However, a review of Work Paper Band the pertinent contract
+modifications readily indicates that these payments were for POOOO 1 work (the changed
+work), not the unchanged work.
+
+        For example, on 1 September 2009, the contracting officer issued Modification
+No. P00007 in the amount of $2.5 million (supp. R4, tab 28 at 17-19). The modification
+specifically stated that it was a "partial payment in the amount of $2,500,000.00 for
+Modification POOOO 1" (id. at 18). Vistas submitted an invoice three days later, and the
+Corps paid Vistas the $2.5 million on 18 September 2009 (R4, tab 1 at 6). Thus, it is hard
+for us to believe that Vistas did not realize that the 18 September payment was for POOOO 1.
+In fact, in its post-hearing fact brief, Vistas acknowledges that the payment was for POOOOl :
+
+              163. On September 1, 2009, the Corps issued unilateral
+              Modification P00007, which increased the Contract price by
+
+
+11 12, 702,495.70 - (10,012,708.90 - 1,817,555.21) -   85,450.41 = 4,421,891.60
+                                           17
+              $2,500,000 as partial payment for the changed work
+              required by Modification POOOOl. R4 Vol I Tab Cat 21-22.
+
+But in Work Paper B Vistas allocated all of the $2.5 million to the firm-fixed-price
+contract work, and none to POOOOl work (REA, tab D.l at 48). Thus, Vistas'
+post-hearing brief contradicts the REA.
+
+       Similarly, as described above, Mr. Zepeda wrote to the Corps on 20 January 2009
+requesting payment for the undefinitized modifications, including A00002 and POOOO 1
+(app. supp. R4, tab 180). The parties met to discuss his request and the contracting officer
+issued Modification No. P00003 on 19 February 2009, which approved payment of
+$500,000 to Vistas for the POOOO 1 work (supp. R4, tab 28 at 5). Despite this history, in
+Work Paper B, Vistas allocated this $500,000 to the firm-fixed-price contract work (REA,
+tab D.l at 48). Yet, in paragraph 81 of its post-hearing fact brief, Vistas acknowledged that
+this payment was for POOOO 1. Again, we are puzzled by these inconsistent positions.
+
+       Based on the foregoing, we find Vistas' contention that it received
+$12,702,495.70 in payments for the firm-fixed-price contract work to be unproven. Vistas
+has no evidence that nearly $6.5 million in payments designated by the contracting officer
+for POOOO 1 were really payments for the unchanged work. While we accept as true that
+Vistas received $6,228,537.55 in payments for the firm-fixed-price work, this is all that
+Vistas has proven. This amount by itself would result in a loss on the firm-fixed-price
+work, even if we accepted Vistas' contention that it incurred $8,280,604.10 in costs to
+perform that work, which we discuss next.
+
+Vistas ' Calculation of Costs to Perform the Firm-Fixed-Price Contract Work
+
+       A.     $1,817,55 5 .21 in Unabsorbed Indirect and Escalation Costs
+
+        We find Vistas calculation of $8,280,604.10 in costs to perform the
+firm-fixed-price contract work to be even more problematic than its calculation of the
+amounts paid for that work. First, Vistas actually calculates that it cost $10,012,708.90 to
+perform the firm-fixed-price work (Methodology at 26). However, it subtracts
+$1,817,555.21 in what it refers to as unabsorbed indirect and escalation costs. As best we
+can tell, this amount is somehow derived from the calculations in: Work Paper (WP) A
+(Detail of Request for Equitable Adjustment); WP A-3 (Increased Costs CLIN 0001);
+WP A-3.l ("Should Have Cost" Labor Burden); WP A-3.2 ("Should Have Cost" Labor
+Burden); WP A-3.3 (FFP Equipment Should Have Cost); WP A-3.4 (CLIN 0007 Trucking
+Should Have Cost); WP C (Summary Analysis and Allocation of Costs Incurred, Apr 24,
+2008 - Nov 15, 2008); and WP CC (Summary of Contract Performance), plus any further
+work papers to which these papers cite. (See REA, tab D.l at 1, 17-39, tab D.2 at 1-18,
+
+
+                                           18
+tab D.8 at 1-10). These work papers are nearly impenetrable due to their complexity. 12
+While these work papers might have provided some support for the claimed amount if a
+witness had explained the methodology, identified the underlying source of information,
+and made that documentation available to the Board, none of this occurred. The principal
+architect of the REA, Louis Butler, testified, but neither he nor any other Vistas witness
+explained how Vistas calculated the unabsorbed indirect and escalation costs. The
+spreadsheets are not helpful standing alone and we do not give them any weight.
+
+        B.     Vistas ' Calculation of Costs to Perform the Unchanged Work
+
+        In evaluating Vistas ' contention that it cost $10,012,708.90 to perform the
+firm-fixed-price work, several basic questions arise, namely : what were Vistas' total
+costs on the project; how did Vistas determine whether costs arose from the changed or
+unchanged work; and how accurate was its methodology. In Work Paper A, Vistas
+indicates that its "Total Cost Incurred Through General and Administrative Expense" for
+the project was $23 ,555,257 .15 (REA, tab D.l at 1). Subtracting $10,012,708.90 for the
+unchanged work, results in a total of $13 ,542,548.25 in costs incurred on changed work,
+according to Vistas. Vistas distributes this amount among item numbers 18 to 65, which
+it has created in addition to contract line item numbers (CLINs) 1-17 in the original
+contract (id.; R4, appx., tab A at 3; tr. 1/48). Vistas presented little evidence at the
+hearing explaining these additional items. However, it appears that Vistas contends that
+about $13 .1 of the $13.5 million in costs is attributable to Modification Nos. POOOOI ,
+A00002, and A00007 (which addressed differential settlement of culvert pipe but was the
+subject of only brief testimony). (See REA, tab D.1 at 1 ("transferring" costs of impacts
+in the amount of$571 ,689.59 and $6,970,709.10 to Mod. POOOOl costs of$2,026,635.54
+and then aggregating these amounts with A00007 costs of $3 ,204,974.64 and POOOOl
+new activities costs of $365,213 .03); tr. 1/41-42)
+
+        The accuracy of Vistas ' method of segregating costs between changed and unchanged
+work is a matter of considerable controversy. The REA methodology of allocation contains a
+description of Vistas' process; Vistas also presented witness testimony explaining how it
+classified the costs.
+
+        1. Vistas ' REA Methodology
+
+        In the REA methodology section, Vistas stated that it had derived its direct costs by
+performing an "extensive analysis" of "the direct labor hours cost recorded in the weekly
+certified payrolls submitted to the COE and of equipment hours/cost" (methodology at 5).
+Vistas stated that it analyzed the labor hours and cost reflected in the certified payrolls and
+segregated them into: i) definitized modifications; ii) all undefinitized modifications; iii)
+"its Impacts" ; and iv) the firm-fixed-price contract (id.) . However, it is not clear from the
+
+
+12   For example, the work papers include A-3 , which includes 18 pages of spreadsheets
+        and, in tum, references work papers A-3.1 , 3.2, 3.3, 3.5, A-8, C, and CC.
+                                           19
+face of these payrolls how they could have been used to determine the labor to be allocated
+to the firm-fixed-price contract. While these documents list the names of workers, their
+hours for each work day, and their work classification, they do not identify the CLINs or
+the tasks performed by the worker that day, nor do they identify the equipment used (see
+supp. R4, tab 69). Vistas cites to various work papers (WPs F-2, FF-2, F-1 , FF-1 , C, CC, E
+and EE (Methodology at 6)) but does not explain how Vistas used the certified payrolls to
+untangle the firm-fixed-price work from POOOOl and other impacted work.
+
+        With respect to equipment, Vistas submitted to the Corps a daily contractor' s
+quality control report that the parties refer to as a daily report or daily log (E.g., supp. R4,
+tab 70). Among other things, this report required Vistas to list the equipment used on the
+project on that day and to specify the operating and standby hours for each piece of
+equipment. The report requires the contractor to "certify that this Report is complete and
+correct" (e.g., id. at GOV 46139). While these daily reports would seemingly be the
+foundation for any equipment costs in the claim, Vistas states that "the COE requested
+that Vistas amend the use of the [application for creating the report] as if we were
+working on a cost plus contract" (methodology at 6). Vistas contends that based on the
+directives it received from the Corps, both the operating and standby hours listed in the
+daily reports are "not reliable" (id.). Vistas has not, however, identified any
+contemporaneous document where it protested or documented an alleged demand by the
+Corps to under report equipment hours.
+
+        Vistas stated that it instead used the certified payrolls to determine equipment
+hours, just as it did with the labor costs (methodology at 6). However, just as with
+labor, it is not clear from the face of these payrolls how they could have been used to
+determine the equipment to be allocated to the firm-fixed-price work because they do
+not identify the equipment used (see supp. R4, tab 69).
+
+        An explanation begins to emerge in the REA Executive Summary, in which Vistas
+stated that it had used the "certified payroll records, daily reports and accounting records as
+primary source data" for the REA. While this statement appears to be inconsistent with the
+statement in the REA Methodology section that the daily reports are not accurate, Vistas
+clarified this assertion in a footnote. Vistas stated that it included with the REA copies of its
+daily reports "with notations to assist USACE in any reconstruction of the costs and estimates"
+and that it also included copies of the certified payrolls. (Exec. summ. at 13 and n.59)
+
+       Review of the daily reports and certified payrolls submitted with the REA indicate
+that Vistas did not merely add notations to "assist" the Corps; it essentially re-wrote these
+documents when it drafted the REA. For example, Vistas submitted a signed daily report
+to the Corps for 23 May 2008. In that report, Vistas certified that no work was performed
+due to previous weather conditions and that there were no equipment hours being
+reported (supp. R4, tab 70 at GOV47009-10). By contrast, in the REA Vistas submitted
+an unsigned copy of this document in which it hand wrote 34 equipment operating hours
+
+
+                                             20
+(REA, tab D.5 .1 at 128/376). Vistas' superintendent, Fernando Balderas, testified that he
+added these notations to the daily reports when Vistas prepared the REA (tr. 1/84, 90).
+
+        Similarly, Vistas hand wrote in the certified payrolls the pieces of equipment that
+the employee allegedly used that day (e.g. , REA, tab D.7 at 7/220; tr. 1/97). Apparently,
+the final step in this process was the creation of work papers that purported to assign the
+equipment and labor to specific items, which, in turn, allowed Vistas to allocate these
+costs to the changed or unchanged work (REA, tabs D.3 , D.6, D.9, D.10.1 , D.10.2).
+
+       By taking such liberties with previously certified information, Vistas dramatically
+increased its equipment operating hours. In its daily reports, it kept a cumulative total of
+equipment operating hours. For 15 November 2008 (the last day of what Vistas refers to
+as Period 1), Vistas certified that it had 8,043.5 equipment operating hours to date
+(supp. R4, tab 70 at GOV46335). Yet, in Work Paper E-1.1 , the Period 1 Hour and Cost
+Summary created for the April 2011 REA, Vistas asserted that it had 16,125 operating
+hours, more than double the number in the daily reports (REA, tab D.2 at 29/173). This
+work paper further indicated that more than 90% of these hours had been expended on
+items 18 to 65 that represented the changed work (id.) .
+
+       2. Vistas ' Testimony Concerning Profit Methodology
+
+        Perhaps realizing the problem with its methodology, Vistas' employees took a new
+tack at the hearing, testifying that all of the data in the REA was based on contemporaneous
+documentation. Thus, at the hearing it identified a new source document that had gone
+unmentioned in the REA: time sheets. Mr. Balderas, (the superintendent), testified that each
+day he recorded on a time sheet the hours for each worker and the CLIN upon which he or
+she worked (tr. 1156). Vistas' project manager, Ignacio Zepeda, testified that they used the
+time sheets to determine equipment hours for the REA (tr. 11114-15). When asked what was
+the "base set of documents that you used to prepare your REA?", Mr. Zepeda responded
+"Certified payrolls and then time sheets" (tr. 11177). Similarly, Maribel Zepeda testified:
+
+                 So we utilized primarily that timesheet, those payroll
+              records, other contract records, letters and transmittals that
+              had been sent to the government. All kind of daily
+              correspondence with them to use in this segregation effort ....
+
+(Tr. 2/ 16)
+
+      According to Maribel Zepeda, Vistas derived Work Paper F-4, Weekly Labor
+Allocation (REA, tab D.6) from the time sheets (tr. 2/19-20, 38-39). Work Paper F-4 is a
+132-page document that contains various spreadsheets that purport to show the CLIN
+upon which each Vistas employee worked and the amount of costs allocated to each
+CLIN as a result of that labor. She testified that Vistas ' effort to segregate costs to the
+
+
+                                           21
+firm-fixed-price contract began with the time sheets and their classification of the work
+into various CLINs (tr. 2/ 15-16).
+
+        The time sheets are not in the record and there is no reference to them in the REA
+Executive Summary or Methodology of Cost Allocation. This is particularly noteworthy
+because in the 44 volume REA, Vistas included virtually everything else but the kitchen
+sink. For example, despite stating that the information in the daily reports is "not
+reliable," Vistas included 8 binders of those daily reports in the REA (see REA,
+tabs D.5J-5 .8). Yet, it contends that, in the time sheets, it has contemporaneous
+documents that identify the CLINs on which its employees performed their work and the
+CLINs on which each piece of equipment was used (tr. 11103, 115, 177, 2/15-16), but that
+it neglected to mention them or attach them to the REA.
+
+        After Messrs. Balderas and Zepeda had testified, and at the conclusion of the
+direct examination of Ms. Zepeda, counsel for Vistas sought to move the time records
+into evidence (tr. 2/39-40). This drew an immediate objection from the government' s
+counsel who noted that the time to supplement the record had passed and that the
+government had specifically requested these documents in discovery but had been told by
+Vistas that the government had all of its records. Vistas' attorney conceded that the
+government had requested these documents in discovery (tr. 2/40). Vistas still had not
+provided the time records to the government at this time, but counsel stated that he could
+"get them this week" (tr. 2/42). Based on this representation, and the representation of
+counsel that the information in the time records was the same -as in the certified payrolls
+that were already in the record (tr. 2/40-42), the Board did not immediately rule on Vistas
+request to supplement the record or on the government's objection. Instead, the Board
+ordered Vistas to produce the records to the government, which could examine them and
+determine whether it still objected (tr. 21 43-44). The parties never reported back to the
+Board (except in the post-hearing briefs) and the time sheets have not been added to the
+record.
+
+       3. Louis Butler' s Testimony
+
+        Mr. Butler, the consultant who worked with Vistas during the project, testified that he
+set up the process for separating the costs of the changed and unchanged work (tr. 2/132).
+Mr. Butler stated that he wrote the Methodology of Cost Allocation (tr. 2/ 134) and that he
+was responsible for allocating costs between the changed and unchanged work (tr. 2/ 144-45).
+Notably, Mr. Butler did not testify that he had relied upon the time sheets in preparing the
+REA. Moreover, Mr. Butler's billing records in the months leading up to the submission of
+the REA contain no mention of the time sheets; rather, they point squarely to his use of the
+certified payrolls to calculate the REA.
+
+
+                                           22
+      Thus, in an entry for 9 September 20 I 0 in which Mr. Butler billed nine hours,
+he wrote:
+
+              Preparation of Vistas' REA proposal.... The general ledger
+              activity for 2008 and 2009 was reconciled to company's
+              published financial statements; direct cost was allocated to
+              "scopes of contract performance" based on analyses of
+              certified payrolls prepared by Vistas field overhead
+              personnel. ...
+
+(REA, tab D .13 at 56/178) (Underlining added) Similarly, in an entry for 27 January 2011
+in which Mr. Butler billed 10.5 hours, he wrote:
+
+              Preparation of submission documentation of Vistas ' REA
+              proposal, which was primarily based on extensive and
+              detailed analysis and segregation of direct labor based on
+              certified payrolls, field overhead time, EP 1110 equipment
+              cost calculations ....
+
+(Id. at 58-59/178) (Underlining added) After each of these quoted provisions Mr. Butler's
+billing summaries also include numerous entries stating that he is continuing preparation
+of the REA proposal "as described above" (id. at 56-59/178).
+
+        In its post-hearing brief, the government represented that Vistas never provided it
+with the time sheets that the Board had directed Vistas to provide to the government. In its
+reply brief, Vistas does not dispute this (app. reply at 26). Vistas has not explained why it
+failed to provide these records either in discovery or in response to the Board' s order.
+
+The Accuracy of Vistas' Calculations of Cost to Perform the Firm-Fixed-Price Work
+
+       In evaluating the reasonableness of Vistas methodology of assigning costs to
+changed or unchanged work, one question that comes to mind is how could Vistas identify
+two to three years after the fact the equipment that a particular worker used on any
+particular day. During his testimony, Superintendent Balderas offered an explanation, he
+suggested that operators always used the same piece of equipment, so this allowed him to
+use labor hours to identify equipment used (tr. 1/60-61 , 63-64). Yet, as the government
+points out in its brief, this is exactly the opposite of what Vistas told DCAA in a
+I September 2009 letter. In that letter, Vistas stated that it allowed its operators to "float"
+between multiple pieces of equipment, "which would negate any tie-in between labor
+hours and equipment usage" (ex. A-458 at 24/75).
+
+       In its brief, the government contends that there are hundreds of errors in Vistas '
+calculation of labor and equipment hours (gov't br. at 85). The government then spends
+12 pages of its brief providing examples of these errors. These errors include: conflicts
+
+                                            23
+between the certified payrolls and the labor or equipment allocation sheets; claimed
+equipment hours when there were no operators present to operate that equipment,
+specifically, for Period 1 the government calculates that there are more than 1,900 more
+equipment hours billed than there were hours recorded for laborers; and conflicts between
+the information submitted in Vistas' original POOOO 1 proposal and the REA, including
+equipment listed in the proposal as having been idle that it changed in the REA to have
+been operating, and changes to the CLINs upon which employees performed their work.
+(Gov't br. at 86-97) In its reply, Vistas does not dispute any of the errors that the
+government identified; it just dismisses the government' s analysis as finding "a few
+alleged errors" (app. reply at 35).
+
+Vistas ' Calculation ofProfit on Definitized Modifications
+
+       As a fallback position, Vistas requests that the Board award it the 24.41 % profit it
+contends that it earned on definitized Modification Nos. A00003 (clay veneer change),
+A00004 (emergency preparation for Hurricane Gustav), A00005 (interim storm scour
+protection, and AOOO 17 (Bypass pumping) (see exec. summ. at 20). This profit contrasts
+with the negotiated profit percentages on A00003 , A00004, and A00005of7.71 , 9.35 ,
+and 10.0%, respectively (see methodology at 26).
+
+       According to the REA Executive Summary, Vistas received payments for these
+modifications totaling $535,305.44, while the cost of performing the work was
+$406,500.29 (exec. summ. at 20). Vistas' method of assigning costs to the definitized
+modifications is apparently the same method it used to assign costs to the firm-fixed-price
+contract work (methodology at 5).
+
+The Contracting Officer 's Decision
+
+        In the contracting officer' s final decision, Ms. Nicholas agreed that Vistas is
+entitled to a fair profit on its work but determined that Vistas had not substantiated the
+34.81 profit rate that it had requested. Ms. Nicholas applied the weighted guidelines in
+EFARS (Engineer FAR Suppplement) 15.404-73-100 then in effect and determined that a
+profit rate of 8.7% was appropriate (R4, tab 1 at 9). Thus, she concluded that Vistas was
+entitled to $1,105,117 on the firm-fixed-price contract work, $634,647 on the
+undefinitized modifications, and $35,366 on the definitized modifications (id. at 18).
+
+                                       DECISION
+
+       The parties disagree as to the proper methodology for calculating damages. In her
+final decision, the contracting officer used a total cost method to which she then applied
+the weighted guidelines to determine the profit rate (R4, tab 1 at 6), while Vistas
+advocates use of actual costs. Under the total cost method, the measure of damages is the
+difference between the actual cost of the contract and the contractor's bid. The total cost
+method of recovery is not favored and will not be used ifthere is another, more reliable
+
+                                           24
+method available by which to establish the contractor's damages. Hi-Shear Technology
+Corp. v. United States, 356 F.3d 1372, 1383 (Fed. Cir. 2004).
+
+        We have no quarrel with Vistas' contention that it is entitled to the actual profit it
+earned on the unchanged work. However, Vistas has not demonstrated that it earned any
+profit on the unchanged work, and certainly has not demonstrated that it earned profit of
+34.81 %. First, Vistas simply asks us to accept at face value its assertion that its
+"productivity, efficiencies and value engineering" led to such a high profit rate, even in
+the face of its own inexperience and the challenges that this project presented. The Corps
+contends that this profit rate is unreasonable on its face and should be rejected by the
+Board. (Gov't br. at 59) While we believe that this is an overstatement, it is fair to say
+that Vistas' failure to explain what it did to earn such a healthy profit rate causes us to
+view the claim with some skepticism.
+
+        Second, as we have found, Vistas has not proven that the Corps paid Vistas
+$12,702,495.70 to perform the unchanged work. Vistas' unilateral designation of
+payments that were designated for POOOO 1 as payments for the unchanged work is
+self-serving and unreasonable. We are mystified that Vistas on the one hand concedes in
+its post-hearing fact briefthat these payments were for POOOOl , but still includes them in
+its $12.7 million calculation of payments for the unchanged work. Vistas' method is
+sufficiently arbitrary that it could just as easily contend that it had received $10, $12, or
+$14 million in payments from the Corps without it being any more or less unreasonable
+than the $12.7 million it contends it received.
+
+       Third, as we have found, Vistas has not demonstrated that it incurred unabsorbed
+indirect costs and escalations in prices and wage rates amounting to $1,817,555.21.
+While there may be some information in the myriad work papers submitted with the REA
+that would flesh this out, we do not consider work papers prepared by a consultant to be
+probative in the absence of witness testimony or other evidence that gives substance to it.
+
+        Fourth, we are troubled by Vistas' alleged reliance on the time sheets and its failure
+to produce them. Vistas has both shirked its discovery obligations and disregarded the
+direction of the Board to provide these documents to the government. It seems rather odd
+to us that Vistas would have spent the time to rewrite multiple volumes of certified
+payrolls and daily reports if it had contemporaneous records that proved its case.
+Moreover, it also seems to us that, if Vistas had relied on the time sheets, it would have
+mentioned them in the REA Executive Summary or Methodology of Cost Allocation, and
+that Louis Butler, as the author of the Methodology and the person behind the REA
+preparation, would have mentioned them in his billing records. In place of the time
+sheets, Vistas has submitted certified payrolls and daily reports marked up long after the
+fact. As the Supreme Court has explained, "[t]he production of weak evidence when
+strong is available can lead only to the conclusion that the strong would have been
+adverse. Silence then becomes evidence of the most convincing character." Interstate
+Circuit, Inc. v. United States, 306 U.S. 208, 226 (1939) (citations omitted). Accordingly,
+
+                                            25
+we draw the inference that if Vistas had produced the time sheets, they would not have
+been favorable to its case.
+
+        Fifth, we have volumes of daily reports certified by Vistas' employees as being true
+and accurate. Vistas witnesses now ask the Board to ignore those certifications and accept
+as true the heavily edited daily reports, which provide a much different version of the events
+on the project. We find it very difficult to believe that Vistas would have under reported its
+equipment hours by more than 8,000 hours in the period from April to 15 November 2008
+without at least protesting or documenting some alleged direction by the Corps to
+misrepresent the actual hours. Combined with the mystery of the never-produced time
+sheets, this has seriously undermined the credibility of Vistas' witnesses.
+
+        Finally, we agree with the government that there are serious errors and
+inconsistencies in Vistas' calculations of the labor and equipment to be allocated to the
+changed and unchanged work. Based on the methodology Vistas used, its profit on the
+unchanged work would have increased whenever it allocated costs to the changed work.
+Thus, it was incumbent on Vistas to demonstrate that its methodology was accurate and
+reasonable. But its witnesses never provided a satisfactory explanation with respect to the
+criteria that they used to determine the CLINs upon which its employees worked and its
+equipment operated for each day on the project. Although it would be difficult to quantify
+the exact magnitude of the errors in Vistas' calculations, the government has demonstrated
+through its cross examination of Vistas' witnesses and the many examples it provided in
+its brief, that Vistas' marked up certified payrolls and daily reports, and its labor and
+equipment allocation work papers, contain a critical mass of errors. Thus, even if there
+were not all of the other problems we just described, we still would not accept that Vistas
+had incurred $10,012,708.90 to perform the unchanged work.
+
+       Vistas seeks to apply the same profit rate on the undefinitized modifications,
+including POOOOl (methodology at 26). Thus, because its profit calculation fails on the
+unchanged work, it also fails with respect to POOOO 1 and any other undefinitized
+modification. Although Vistas invites the Board to award additional profit based on a jury
+verdict approach, there is no basis for us to do so. As we have already discussed, there is
+no evidence that Vistas earned any profit on the unchanged work that could be
+extrapolated to the changed work. Moreover, Vistas has not provided us with any analysis
+or argument concerning the contracting officer's application of the EFARS weighted
+guidelines that would provide a basis for increasing the 8. 7% profit she awarded.
+
+        Finally, with respect to profit on the undefinitized modifications, we do not
+understand what Vistas seeks. The REA Executive Summary appears to indicate that:
+Vistas had been paid $535,305.78 to perform these modifications; that it had cost Vistas
+$406,500.29 to perform these modifications; and that $2,486.95 remained to be paid on
+modification POOO 17. Summing this up, Vistas stated that it had earned $131,292.44 on
+these modifications. (Exec. summ. at 20) Vistas never explained why it contends it was
+entitled to an additional $131,292.44 (if that is its contention). No Vistas' witness explained
+
+                                           26
+this at the hearing and Vistas did not address it in any of its post-hearing briefs. To the
+extent that Vistas has not abandoned this claim, we find that there is a complete failure of
+proof and that it is not entitled to any additional profit on these definitized modifications.
+
+       This appeal is denied.
+
+                    ASBCA No. 58481 - Change To Payment Terms
+
+                         ADDITIONAL FINDINGS OF FACT
+
+        In this claim, Vistas seeks $1 ,170,831 as a result of an alleged inability to invoice as
+a result of POOOOl and other modifications that: a) required Vistas to proceed with the
+changed work; and b) provided for an agreed upon modification to be issued later
+(exec. summ. at 14-15). As described above, the rapid definitization schedule that the
+Corps originally envisioned for POOOO 1 was derailed when Vistas submitted a much larger
+proposal than the Corps expected and the DCAA audit took more than five times longer
+than the Corps estimated. Among other things, this played at least some role in the gap
+between Vistas' submission of invoice no. 5 dated 20 November 2008 and invoice no. 6
+dated 11 March 2009 (R4, tab 1 at 6). However, in her final decision denying this aspect of
+the claim, the contracting officer concluded that "POOOOl did not remove Vista' s [sic] right
+to submit progress payment invoices. Vistas still retained this fundamental right under the
+contract." (R4, tab 1 at 10)
+
+       Vistas' calculations for this issue are set forth in Work Papers A, A. l , and A.1.1
+(REA, tab D.l at 1-5). The calculations purportedly use the interest rates provided for in
+the Prompt Payment Act and are based on total contract earnings of $31 ,068,633.85. This
+amount includes profit on the firm-fixed-price work and on the undefinitized
+modifications totaling about $9 million, as discussed above.
+
+        Rather than focus on POOOO 1 or other modifications, Vistas seeks interest going back
+to the beginning of the project. Vistas ' calculations are based on a hypothetical
+reconstruction of history in which it submitted an invoice for a month' s work on the last day
+of that month, making the payment due on the 14th day of the following month. Thus, it
+posits a scenario where it submitted its first invoice for contract earnings of $1 ,718,846.35 on
+31May2008, which came due on 14 June 2008. (REA, tab D.l at 2 (WP A-1 , Summary of
+Prompt Payment Interest)) Because the Corps did not pay anything according to Work Paper
+A. l, $2,907 .91 in interest accrued, which continued to increase thereafter (id.).
+
+        This scenario ignores the reality that Vistas submitted an invoice that was both
+smaller and later than in the scenario presented in the REA- it sought $1 ,448,303.22 on
+9 June 2008 (R4, tab 1 at 6). There is no evidence that the Corps forced Vistas to submit
+its invoice on 9 June rather than 31 May. Further, the Corps timely paid the invoice (id. ).
+In fact, as far as we can determine, there is no dispute that the Corps paid all of the
+invoices that Vistas submitted within 14 days (id. ; tr. 2/21-22).
+
+                                            27
+        Similarly, in the following month, June 2008, Vistas posits a scenario where it
+submitted an invoice for $2,657,126.96 on 30 June, which thus came due on 14 July 2008
+(REA, tab D.1 at 2). What really happened is that Vistas submitted an invoice for
+$1 ,923 ,125.19 on 2 July, which the Corps paid on time on 16 July 2008 (R4, tab 1at6).
+For reasons that are not clear, in the scenario presented in the REA work papers, Vistas
+credits the $1 ,448,303 .22 paid for invoice no. 1 as a partial payment for invoice no. 2.
+Thus, because more than $1 million was left unpaid, and because interest apparently
+continued to accrue on invoice no. 1, the total interest due after month two more than
+quadrupled to $12,933 .39 (REA, tab D.1 at 2). It then nearly doubled the following
+month to $25,703.82 (id.).
+
+       The contract contained FAR 52.232-5, PAYMENTS UNDER FIXED-PRICE
+CONSTRUCTION CONTRACTS (SEP 2002) (R4, appx., tab A, § 00700 at iii). This clause,
+among other things, provided that "The Government shall pay the Contractor the contract
+price as provided in this contract." FAR 52.232-5(a). The contract also incorporated
+FAR 52.232-27, PROMPT PAYMENT FOR CONSTRUCTION CONTRACTS (SEP 2005) (R4,
+appx., tab A, § 00700 at iii).
+                                       DECISION
+
+       The Prompt Payment Act (PPA) provides in relevant part that "the head of an
+agency acquiring property or service from a business concern, who does not pay the
+concern for each complete delivered item of property or service by the required payment
+date, shall pay an interest penalty to the concern on the amount of the payment due."
+31 U.S.C. § 3902(a). The contract's prompt payment clause provided that the due date for
+progress payments was 14 days after the billing officer received a proper payment request.
+The PPA further provides that it "does not require an interest penalty on a payment that is
+not made because of a dispute between the head of an agency and a business concern over
+the amount of payment or compliance with the contract." 31 U.S.C. § 3907(c).
+
+       In both its pre-hearing and post-hearing briefs, the government cited two Board
+cases that illustrate a limitation on the obligation to pay PPA interest. In HZ. &
+Company, Ltd. , ASBCA No. 31055, 86-2 BCA ii 18,976, the appellant, like Vistas,
+performed changed work when directed to do so, but then sought interest due to the
+length of time it took to negotiate the price of the change and the cost of financing the
+work. Id. at 95,846-47, iii! 35, 42. The contract at issue, like the contract in this case,
+required the government to pay "the contract price." Id. at 95 ,849. The Board denied the
+appeal, holding that until a change order had been formalized, the amount of money
+involved in that change could not be added to the value of the contract and that the
+government could not pay an amount greater than the contract price. Id.
+
+        More recently, in Dick Pacific/GHEMM, JV, ASBCA No. 55829, 08-2 BCA
+ii 33,937 at 167,942, we held that "there is nothing in the PPA or the Prompt Payment
+clause that would apply the PP A to alleged constructive withholdings based upon a
+
+                                           28
+contractor's stated inability to invoice under modifications that have not been
+definitized." Similarly, the Court of Federal Claims has held that the government is only
+obligated to pay interest under the PPA when a payment is inadvertently late, not when
+the government refuses to pay or questions its underlying liability. Laure/wood Homes
+LLC v. United States, 78 Fed. Cl. 290, 293 (2007); Inversa, S.A . v. United States,
+73 Fed. Cl. 245 , 247 (2006).
+
+       Although the government cited HZ. & Company and Dick Pacific in both its pre and
+post-hearing briefs, Vistas has not attempted to distinguish them. Accordingly, we are
+bound by our precedent. Vistas is not entitled to an interest penalty based upon the
+government's failure to pay an amount greater than the contract price. As we have found,
+from the time that Vistas submitted its original proposal for POOOO 1 there has been a
+disagreement as to the amount the government owed Vistas and, in fact, the government
+originally thought POOOO 1 would result in a credit to the government. Further, there is no
+dispute that the government paid all of the invoices in the amount specified within 14 days.
+Thus, there is no basis for the award of interest under the PPA. This appeal is denied.
+
+                 ASBCA No. 58482-Interest Impact on Borrowings
+
+                         ADDITONAL FINDINGS OF FACT
+
+         Vistas seeks $266, 740 .15 in interest owed to an affiliated company due to
+increased borrowing that resulted from the gaps in payment on this project. According to
+Maribel Zepeda, Vistas was unable to obtain financing from a bank so it turned to an
+affiliate, Vistas Belize Limited (Vistas Belize) (tr. 2/53). Vistas Belize is wholly owned
+by appellant (methodology at 52). Vistas' calculation of its damages is contained at
+Work Paper A-6.1, Accrual of Interest on Borrowings (REA, tab D.1at43). This work
+paper references a promissory note in the amount of $962,472.96 dated 29 December
+2006 (supp. R4, tab 6). This note provided for an interest rate of 4.99%. It also
+contained a payment schedule that called for repayment in full by 30 September 2007, or
+about six months before the parties entered into the contract at issue. However, it appears
+that Vistas made only one payment of $137,499.99 and two smaller payments totaling
+about $10,000, and, based on the language of the note, Vistas appears to have been in
+default at the time it entered into the contract with the Corps. Work Paper A-6.1 also
+indicates that Vistas continued to borrow money from Vistas Belize in 2008-09 so that
+the total principal outstanding reached $1,939,911.29, or about double the face value of
+the note. While there is a second promissory note in the record (supp. R4, tab 5) that
+would accommodate such borrowing, Vistas did not reference it in its work papers.
+
+       Ms. Zepeda acknowledged that Vistas had borrowed money from Vistas Belize in
+the past, but testified that the gaps in payments on this project resulted in an increase in
+the need to borrow, which led to increased interest payments (tr. 1/214, 2/51-52). Work
+Paper A-6.1 shows a total of $314,389.09 in accrued interest (REA, tab D.1 at 43), of
+
+
+                                            29
+which it is seeking $266,740.15. The Corps has not challenged Vistas ' calculation of
+quantum on this item.
+
+        The contract incorporates Defense Federal Acquisition Regulation Supplement
+(DFARS) 252.243-7001, PRICING OF CONTRACT MODIFICATIONS (DEC 1991)
+(R4, app 'x, tab A, § 00700 at iv). This clause provides: "When costs are a factor in any
+price adjustment under this contract, the contract cost principles and procedures in
+FAR part 31...in effect on the date of this contract, apply." Part 31 appears to bar the
+interest that Vistas seeks, providing in subsection 31.205-20, Interest and other financial
+costs, that "Interest on borrowings (however represented) .. .[is] unallowable."
+
+                                       DECISION
+
+       Vistas relies upon Wickham Contracting Co. v. Fischer, 12 F.3d 1574, 1582 (Fed.
+Cir. 1994), in which the Federal Circuit held that "a contractor may recover interest
+actually paid on funds borrowed because of the government's delay in payments and used
+on the delayed contract." Wickham , however, must be read with a caveat because, as the
+Court of Federal Claims has explained, the decision by the General Services Board of
+Contract Appeals under review in that case did not address the predecessor regulation to
+FAR 31.205-20, which contained the same substantive provision barring payment of
+interest on borrowed funds. Thus, the Wickham court did not have the opportunity to
+address the ef~ect of this regulation. Northern States Power Co. v. United States, 78 Fed.
+Cl. 449, 471 n.16 (2007).
+
+       The Federal Circuit has come to a different result when it has addressed
+FAR 31.205-20 or a similar regulation. Servidone Constr. Corp. v. United States,
+931 F.2d 860, 863 (Fed. Cir. 1991). In Servidone the Federal Circuit upheld the Claims
+Court' s denial of a claim for interest on funds borrowed to cover excess costs because the
+contract incorporated a Defense Acquisition Regulation provision that, like the provision
+applicable in this case, provided that "[i]nterest on borrowed funds (however represented)
+[is] unallowable." Servidone Constr. Corp. v. United States, 19 Cl. Ct. 346, 383 (1990);
+accord VA Venture Pueblo, LLC v. Principi, 119 F. App'x 274 (Fed. Cir. 2004) (affirming
+Veterans Board of Contract Appeals decision denying interest based on FAR 31.205-20);
+Centennial Leasing v. Austin, 17 F.3d 1443 (Fed. Cir. 1994) (table) (affirming General
+Services Board of Contract Appeals decision denying financing costs based on FAR
+31.205-20); Tomahawk Construction Co., ASBCA No. 45071, 94-1BCAii26,312.
+
+       Because the contract bars the interest that Vistas seeks, this appeal is denied.
+
+
+                                            30
+                ASBCA No. 58483 - Costs to Respond to DCAA Audit
+
+                         ADDITIONAL FINDINGS OF FACT
+
+The Audit
+
+       The audit of Vistas ' POOOO 1 proposal unfolded in what could be described as
+three phases. Phase I began in late January 2009 when the Corps requested the audit
+and Vistas retained Mr. Butler (supp. R4, tab 23). Mr. Butler began charging his time
+to the DCAA audit on 21January2009 (REA, tab D.13 at 36).
+
+       The audit appears to have started without any problems; as late as 3 March 2009,
+DCAA indicated that its field work would be complete by 23 March, and its report issued
+by 31 March 2009 (app. supp. R4, tab 260 at 2). However, the original auditor soon
+became concerned about an evolving scope for the audit (app. supp. R4, tab 314 at 2-3 ,
+tab 362 at 1-2, tab 365 at 1-4). In late April, DCAA concluded that Vistas' proposal
+should be treated as an REA and that it would appoint a new auditor, Howard Salita
+(app. supp. R4, tab 381).
+
+       Phase II began in late April with the appointment of Mr. Salita. Vistas soon began
+registering complaints with the contracting officer and DCAA about the volume of
+information Mr. Salita was requesting (supp. R4, tab 48) and his inquiries into technical
+aspects of the contract (app. supp. R4, tab 552). According to Maribel Zepeda,
+Mr. Salita, came to Vistas' office " 18 times, whole days on occasions" (tr. 1/196).
+Ms. Zepeda testified that her interactions with Mr. Salita were a "grinding dialogue."
+Further, she stated that:
+
+              [W]e had to sit here and walk him through every aspect of
+              the proposal. He went layer after layer after layer he
+              would ask for one thing. We would have to support the
+              thing with another thing below, below, below. It got down
+              to having to provide him cancelled checks ....
+
+(Id.)
+
+       On 20 July 2009, a DCAA supervisory auditor informed Vistas that the audit
+would be completed by the end of September (app. supp. R4, tab 606). Mr. Salita' s
+field work ended on 14 August 2009 and DCAA conducted an exit conference on
+18 August 2009, thus ending Phase II (supp. R4, tab 55 at l; app. supp. R4, tab 690.1 ).
+
+       Phase III took place from the exit conference until 4 June 2010 when DCAA
+issued its report. Why it took so long to issue the report is not entirely clear and
+Mr. Salita' s absence as a witness makes our factual inquiry more difficult. However, the
+record indicates that three levels of supervisors reviewed Mr. Salita's report and that they
+
+                                           31
+were dissatisfied with some of his work product or conclusions. The supervisors
+identified problems in his report and pointed to specific provisions in the FAR and
+Defense Contract Audit Manual in support of their positions but Mr. Salita clung to his
+positions based on his notion of "equity." The internal debates at DCAA went on for
+months. (app. supp. R4, tab 769 (3 December 2009 email from DCAA branch manager
+to regional manager: "I've attached some emails sent to Howard to have him explain
+some inconsistencies/errors in the audit report. I'm trying to get to the bottom on it but it
+is difficult. A lot ofHoward' s numbers are not correct."), tabs 791 , 795, 813, 828, 833 ,
+834 (email from Salita to all three supervisors dated 19 February 2010 that stated: "My
+disagreement is based on equity ... I don 't think it is right to pay $3 ,000,000 that they have
+not incurred."), tabs 912, 918, 925). As these debates went on, the date for issuance of
+the report continued to slip. By early June 2010, the Corps had reached the limit of its
+patience. On 3 June 2010 the Corps sent the DCAA regional manager a scathing email
+that concluded with the Corps requesting that DCAA cancel the audit and return the
+$126,721 that the Corps had paid DCAA (app. supp. R4, tab 1012). DCAA issued its
+report the following day (supp. R4, tab 14).
+
+       Robert Starks was Mr. Salita' s supervisor at DCAA. He became Mr. Salita' s
+supervisor on 1 October 2008 - six weeks after the exit conference - and was not involved
+with this matter prior to that. (Tr. 4/8) He was the only DCAA witness who testified.
+
+The Criminal Investigation
+
+       While DCAA was performing the audit, other government agencies were
+conducting a criminal investigation. It is not clear when Vistas began to suspect that the
+government was conducting such an investigation. However, Maribel Zepeda testified that
+by 7 July 2009 it had become "very apparent" that a criminal investigation was being
+conducted and Samuel Zepeda raised this as an issue at a meeting with the Corps (tr. 2/36).
+Because Mr. Zepeda did not testify, we do not know how much he knew by this point in
+time. However, as events unfolded it is clear that he had a good reason for concern: The
+Federal Bureau of Investigation (FBI) listed both Vistas and Mr. Zepeda as subjects of the
+investigation in a 5 October 2009 affidavit submitted in support of the search warrant
+application (supp. R4, tab 64 at 2289).
+
+        The contracting officer learned of the investigation on 10 June 2009 (ex. A-292).
+Mr. Salita met with the criminal investigators two to three times after an agent from the
+FBI contacted him (ex. A-876 at 41-42). Mr. Salita was cited as a source of information
+in the affidavit submitted with the search warrant application (supp. R4, tab 64 at 2294).
+There is no evidence that the Corps or DCAA initiated or directed the criminal
+investigation.
+
+        The investigation involved the execution of a search warrant at Vistas ' job site
+and home office on 7 October 2009 (app. supp. R4, tab 738; tr. 1/73, 205-06). As a
+result of that investigation, Kenneth Nix, who worked at various times as a Vistas
+
+                                             32
+employee or consultant and who was also a former contracting officer, and his wife,
+also a former contracting officer, were indicted and convicted by the government,
+although no witness specified the basis of the convictions (tr. 2/57-58). (According to
+the docket in the Western District of Texas, Mr. Nix pled guilty to filing false tax
+returns, 26 U.S.C. § 7206(1), and aiding and abetting, 18 U.S.C. § 2, and received a
+sentence of 30 months in prison (W.D. Tex. No. SA-1 l-CR-523-0LG, Dkt. No. 246)).
+According to the sentencing memorandum filed in the district court by the
+government, Mr. Nix' s relationship with Vistas (identified only as "Company A" but
+clearly Vistas based on other documents in that record, e.g. Dkt. No. 237), involved,
+among other things, Mr. Nix's award, as branch chief of the Army Contracting Agency
+- Americas, of contracts to Vistas after he had received payments from Vistas invoiced
+under a false company name (id., Dkt. No. 242 at 1-2).
+
+Vistas ' Claimed Costs
+
+        Vistas is seeking $876,552.10 in costs related to the DCAA audit (app. post-hearing
+br. at 39). This amount includes the following:
+
+       Consulting Fees and Cost           $567,835.32
+       Samuel Zepeda                      $118,328.24
+       Maribel Zepeda                     $ 69,389.56
+       Maria Zepeda                       $ 69,185.87
+       Ignacio Zepeda                     $51,813.11
+
+(REA, tab D.1 at 47 (WP A-9, Summary ofDCAA Audit Cost)) The consulting fees
+include $339,875 in "Audit Support" from Mr. Butler, plus $63,345.06 for his expenses
+such -as airfare, lodging and meals (REA, tab D.8-at 67 (WP NN-4.1)). They also include
+$134,262 for George Munoz, Attorney/CPA for "Legal Fees in Propriety and Interpretation
+of Audit Results" and $22,949.51 in fees from the law firm Cohn Mohr (id.).
+
+       A. Louis Butler
+
+       The record contains a 21 January 2009 "Independent Consultant Agreement"
+between Vistas and Mr. Butler (supp. R4, tab 23). The agreement lists five work
+categories for Mr. Butler, including: the preparation of cost or pricing data in support of
+pending modifications; evaluation of the company's financial and accounting systems;
+consulting on the applicability of various procurement regulations; and interaction with
+DCAA (id. at 1-2). The agreement capped his total hours at 400 and his fees at $35,000,
+but also provided that the parties could agree that further services would be provided.
+Based on our review of the billing summaries provided in REA tab D.13, it appears that
+Mr. Butler eventually charged more than 2,300 hours to the audit work but neither party
+has directed us to an additional agreement between Vistas and Mr. Butler that governed
+his time above the initial 400 hours.
+
+
+                                           33
+       The itemization of Mr. Butler's time is contained in two different documents in
+REA tab D.13. The first is a 13-page spreadsheet entitled "Summary of Louis Butler
+CPA's Services in Connection with DCAA Audit in 2009" and covers the period from
+21 January to 15 September 2009 (REA, tab D.13 at 36). The second document covers
+the period from 16 September 2009 to 11 April 2011 and is entitled "Summary of
+Consulting Total Hours and Fees for Louis R. Butler, CPA Subsequent to DCAA Field
+Audit Report" (REA, tab D.13 at 49). This document includes time for Mr. Butler on
+not only the DCAA audit, but also general services and REA preparation.
+
+       Both of these documents state the number of hours billed on each work day, and
+the hourly rate. The first document indicates that Mr. Butler worked 286 hours at $75 per
+hour and 1,128.5 hours at $125 per hour for a total amount billed of$162,512.50
+(REA tab D.13 at 48). The second document indicates that Mr. Butler performed work
+on the audit totaling $113,843.75 (id. at 56). Adding these amounts ($162,512.50 +
+$113,843.75) equals $276,356.25, which is significantly less than the $339,875 that
+Vistas has included in the claim (REA, tab D.8 at 67). Adding to the confusion, Work
+Paper NN-4.1 states that Vistas' general ledger reflects an even lower number for
+Mr. Butler's time, $260,455, but under the heading "Adjustments and Reclassifications"
+an additional $79,420 is added to this amount to reach the amount claimed (id.).
+Mr. Butler did not address this in his testimony.
+
+        There are also other problems with Mr. Butler's time. There are significant blocks
+of time for which the description of Mr. Butler' s services has been redacted. For
+example, all of his time from 17 April to 7 May 2010, a total of 162.5 hours, is redacted
+(REA, tab D.13 at 49). Further, there are other blocks of time charged to the audit claim
+for which Mr. Butler was providing other assistance to Vistas that was not audit support
+(tr. 2/176-77; REA, tab D.13 at 37). Mr. Butler also spent a large amount of time on the
+criminal investigation but he billed the work to the audit (tr. 2/101, 189-90; REA
+tab D.13 at 50).
+
+        With respect to the $63,345.06 that Vistas is seeking for Mr. Butler's expenses,
+Work Paper NN-4.1 indicates that Vistas' general ledger lists $38,912.23 in such
+expenses (REA, tab D.8 at 67). The remainder comes from another unexplained
+adjustment or reclassification to the general ledger. Vistas apparently expects us to
+simply accept the amount claimed despite a lack of testimony; in terms of support, Vistas
+has given us nearly 100 pages of bills to credit cards issued to Maria Zepeda. Vistas has
+not attempted to organize or explain these bills either through testimony or in its briefs.
+We decline the invitation to go through them line by line but it is obvious that many of
+the charges bear no relationship to Mr. Butler's expenses. Examples of such charges are
+a $2,640 charge to "Concrete Clinic, New Lenox, IL," airline tickets for various members
+of the Zepeda family, and a number of charges for DirecTV service (REA, tab D.13 at 99,
+101, 113). We find that the claim for Mr. Butler's expenses has not been adequately
+supported.
+
+
+                                           34
+       B. Other Consultants/Attorneys
+
+       The record contains $10,622.75 in bills from Mr. Oyer (REA, tab D.13 at
+29-34) of which Vistas has allocated $7,403.75 without explanation to the audit claim
+(REA, tab D.8 at 67). The record does not contain any written agreement between
+Vistas and Mr. Oyer.
+
+         As for the $134,262 included in the claim for George Munoz, Attorney/CPA, other
+than a passing reference during Maribel Zepeda' s testimony (tr. 2/13), no witness
+explained what services Mr. Munoz performed that furthered Vistas' response to the
+audit, nor has Vistas mentioned Mr. Munoz in its post-hearing briefs. In tab D.13, there
+are a series of invoices from Mr. Munoz from 2009 to 2011 that total $212,672.72 (REA,
+tab D.13 at 64). The bills appear to stem from Mr. Munoz's work as an attorney in that
+they are from "Law Offices of George Munoz" (id. at 66, 69, 78) and do not appear to
+involve any accounting work product. Eliminating work performed in 2011 (the year
+after DCAA issued its report) during which Mr. Munoz appears to have concentrated on
+the REA (see id.) leaves a balance of $134,423.62, which is close to the amount Vistas is
+seeking in the DCAA audit appeal for Mr. Munoz's work. However, at least some of the
+work Mr. Munoz performed in 2009 and 2010 appears to be related to preparation of the
+REA, for which Vistas has a separate appeal, or is for work unrelated to the Corps
+(e.g., id. at 75) but Vistas has included it in the audit claim.
+
+        Finally, Vistas has included $22,949.51 in fees from the law firm Cohn Mohr. The
+REA contains an invoice from Cohn Mohr in this amount for work performed in May 2010,
+the month before DCAA issued its report (REA, tab D.13 at 23-27). Although there are
+numerous references to DCAA in these invoices, it is not entirely clear what Cohn Mohr
+had been tasked to do. The individual entries indicate that Vistas was concerned about a
+government claim under the Truth in Negotiation Act or the False Claims Act. For
+example, the invoice reflects that an attorney spent about 10 hours (at $360 per hour before
+a discount) on 27-28 May 2010 "Reviewing TINA Act cases for guidance on standards
+applied and elements of Government claim" and "Drafting memorandum on TINA and
+defective pricing." (Id. at 26) In the only testimony during trial about Cohn Mohr's
+involvement with respect to the DCAA audit support claim, Ms. Zepeda testified "I'm not
+sure if [Cohn Mohr] was involved here but probably not" (tr. 2/13).
+
+       C. Vistas' Employees
+
+       With respect to the $308,716.78 Vistas is seeking for its four employees, these
+amounts are broken down in Work Paper NN-4.1 , Analysis of Consultant, Legal and
+Accounting Cost (REA, tab D.8 at 67). Mr. Butler prepared this work paper (tr. 2/14).
+Curiously, it states that Vistas' general ledger contained only $13,267.86 in costs for
+these employees related to the audit (REA, tab D.8 at 67). However, under the heading
+"Adjustments and Reclassifications," Mr. Butler again added an additional amount - a
+very large amount in this instance, $295,448.92 - to bring the total to $308,716.78 (id.).
+
+                                           35
+Neither Mr. Butler nor any other witness explained this adjustment/reclassification at the
+hearing. (In the one instance during the hearing that Mr. Butler was asked to explain one
+of the adjustments/reclassifications to the general ledger he could not explain it, stating
+that the information was on an "old laptop" he has in Houston (tr. 2/157-59)).
+
+        Work Paper NN-4.1 identifies the number of hours charged for each employee and
+the rate. The largest number of hours belonged to Vistas' president, Samuel Zepeda, who
+is listed as having worked 1,497.70 hours on the audit in 2009 and 2010. In addition,
+Maribel Zepeda is listed as having worked 1,145 hours, Maria Zepeda is listed at
+1, 146.5 hours and Ignacio Zepeda is listed at 719.52 hours . (REA, tab D.8 at 68). There
+are no time sheets or any other document in the record that evidences these hours.
+Samuel Zepeda did not testify so we have no explanation as to how he spent nearly
+1,500 hours working on the audit. Although Ms. Zepeda testified to Mr. Salita's 18 visits
+to her office and the "grinding dialogue" that ensued, the testimony at the hearing was
+completely inadequate to explain how these four employees_collectively spent a total of
+more than 4,500 hours on the audit.
+
+        Work Paper NN-4.1 also identifies the hourly rate charged for each of the four
+employees' time on the audit claim. With respect to Samuel Zepeda, it states that he had
+a "2008 Salaried Personnel Cost of$91 ,000" (REA, tab D.8 at 68). Elsewhere in tab D.8,
+Vistas submitted Work Papers FF-1.2 and FF-1.3 (each entitled "Payroll Summary") that
+identified Mr. Zepeda's 2009 "total gross pay" at $98,875.00 (id. at 30) and his total
+gross pay for the first nine months of 2010 to be $75,075.05 (id. at 39). Vistas did not
+use any of these amounts, however, in calculating the hourly cost of Mr. Zepeda for the
+audit support claim in Work Paper NN-4.1. Instead, Work Paper NN-4.1 uses hourly
+rates for 2009 and 2010 that are "Based on 1.5 Time Vistas 2008 Salaried Personnel Cost
+of $91 ,000 Plus 20% Fringes Benefits and Impacted by 7% Raise for 2009 and 201 O"
+(id. at 68). Cutting through the math, Vistas is seeking an amount more than 50% higher
+than Mr. Zepeda's compensation during this period. 13 Vistas calculated the amounts it is
+seeking for the other three employees in the same manner (id.).
+
+
+13 After the government pointed out these issues during its cross-examination of
+
+       Ms. Zepeda, on re-direct (after a 10 minute break) Ms. Zepeda contended that
+       Mr. Zepeda's actual compensation was $165,000 and that the additional
+       amounts had been paid to him in subsequent pay periods (tr. 2/65-66). We do
+       not find this testimony to be credible. Ms. Zepeda admitted on re-cross that she
+       could not identify any documents in this voluminous record that supported her
+       assertion (tr. 2/68). Nor has Vistas identified any in its post-hearing briefs.
+                                            36
+                                         DECISION
+
+       Vistas contends that the costs that it is seeking are allowable as costs incidental
+to contract administration, citing Bill Strong Enterprises, Inc. v. Shannon, 49 F.3d
+1541 (Fed. Cir. 1995), overruled in part on other grounds Reflectone, Inc. v. Dalton,
+60 F.3d 1572 (Fed. Cir. 1995) (en bane). In Bill Strong, the Federal Circuit considered
+whether consultant costs were allowable under FAR 31 .205-33 , Professional and
+consultant service costs.
+
+        The court of appeals first observed that there are at least three distinct categories of
+legal, accounting, and consultant costs in the contract cost principles: (1) costs incurred in
+connection with the work performance of a contract; (2) costs incurred in connection with
+the administration of a contract; and (3) costs incurred in connection with the prosecution
+of a CDA claim. The court held that the first two categories are presumptively allowable,
+if they are also reasonable and allocable, while the third category is unallowable.
+Bill Strong, 49 F.3d at 1549. The court also observed that the line between costs that are
+incidental to contract administration and costs that are incidental to prosecution of contract
+claims is "rather indistinct." Id. The court explained that:
+
+                [T]he contractor and the CO usually enter a negotiation
+                stage after the parties recognize a problem.... Although
+                there is sometimes an air of adversity in the relationship
+                between the CO and the contractor, their efforts to resolve
+                their differences amicably reflect a mutual desire to
+                achieve a result acceptable to both. This negotiation
+                process often involves requests for information by the CO
+                or Government auditors ~or both, and, inevitably, this
+                exchange of information involves costs for the contractor.
+                These costs are contract administration costs, which should
+                be allowable ....
+
+Id. at 1549-50 (underlining added). In considering such claims, the Federal Circuit
+directed the Board to examine the objective reason why the contractor incurred the cost.
+If the contractor incurred the cost for the purpose of materially furthering the negotiation
+process, the cost normally is allowable under FAR 31.205-33 as a contract administration
+cost even ifthe negotiation ultimately fails. On the other hand, if the cost is incurred to
+promote the prosecution of a claim, then the costs are unallowable. 14 Id. at 1550.
+
+14
+     In its post-hearing brief, the government contends that Vistas' Bill Strong theory is a
+           new theory. We agree that Vistas' position has evolved considerably in its
+           post-hearing briefs and have considered whether we possess jurisdiction to
+           entertain this claim. See K-Con Bldg. Sys., Inc. v. United States, 778 F.3d 1000,
+           1005-06 (Fed. Cir. 2015). While it was not the focus of Vistas' claim, Vistas
+           did present its Bill Strong theory to the contracting officer. (Exec. summ. at 17
+                                                 37
+       Under FAR 3 l .205-33(f), consultant fees are allowable only when supported
+by evidence of the nature and scope of service furnished. This subsection further
+provides that:
+
+              Evidence necessary to determine that work performed is
+              proper and does not violate law or regulation shall include-
+
+                     (1) Details of all agreements (e.g., work
+              requirements, rate of compensation, and nature and amount
+              of other expenses, if any) with the individuals or
+              organizations providing the services and details of actual
+              services performed;
+
+                     (2) Invoices or billings submitted by consultants,
+              including sufficient detail as to the time expended and
+              nature of the actual services provided; and
+
+                    (3) Consultants' work products and related
+              documents, such as trip reports indicating persons visited
+              and subjects discussed, minutes of meetings, and collateral
+              memoranda and reports.
+
+48 C.F.R. § 31.205-33(f).
+
+Vistas ' Employee Costs
+
+       In considering Vistas' claim in light of FAR 31.205-33, one immediate problem for
+Vistas is that this regulation expressly excludes costs for officers or employees of the
+company. FAR 3 l .205-33(a) (2008). Accordingly, Bill Strong does not support Vistas
+position that the $308,716.78 it is seeking for its four employees are allowable. Moreover,
+even if these costs were potentially allowable, we would still deny them because Vistas
+has not proved its damages. As we have found, other than numbers written on a
+spreadsheet, there is no support for the hours alleged. Moreover, the amount sought is
+based upon a large increase in the amount reflected in Vistas' general ledger - from
+$13,267.86 to $308,716.78 - by virtue of an unexplained adjustment or reclassification.
+Finally, the hourly rates used by Vistas represent nothing more than wishful thinking on
+the part of Vistas in that they are more than 50% higher than the amounts actually paid to
+the employees in question.
+
+
+      (referring CO to legal opinion), at 74 (legal opinion citing FAR 31.205-33 and
+      Bill Strong). Thus, we possess jurisdiction.
+                                           38
+The Consultant and Attorney Costs
+
+        In considering the remaining portion of the audit claim (the consultant costs), a
+second line of cases is relevant. In Orlando Helicopter Airways, Inc. v. Widnall,
+51F.3d258 (Fed. Cir. 1995), the government investigated the contractor for flight safety
+violations and fraud. After the Department of Justice conducted a criminal investigation
+that closed without any charges filed, the contractor submitted a claim for costs related to
+that investigation. Id. at 259. After the Board granted the government summary
+judgment based on the sovereign acts doctrine, the Federal Circuit affirmed. The court of
+appeals held that the government's police powers "are an ancient and fundamental indicia
+of sovereignty" and that the contractor lacked any remedy under the contract when the
+contracting officer did not initiate and direct the investigation. Id. at 262. As we have
+found, there is no evidence in this case that the contracting officer initiated or directed the
+criminal investigation.
+
+       A. Attorney Fees
+
+        Mindful of these considerations, we start with the bills from the attorneys at
+Cohn Mohr and George Munoz. First, as we have found, Vistas did not make any
+effort at the hearing to demonstrate why these fees are reasonable and allowable. No
+one from either of these firms testified and there were only passing references to these
+attorneys by other witnesses, which, in the case of Cohn Mohr, was Maribel Zepeda's
+testimony that she did not believe that Cohn Mohr had worked on the audit. Nor has
+Vistas addressed the attorney costs in its post-hearing briefs.
+
+        Second, Vistas has not brought to our attention any retainer agreement that
+explains~ the scope of work that either firm provided to Vistas. This, combined with
+the lack of testimony, leaves us uncertain as to the purpose for which Vistas retained
+these firms, particularly in light of the pending criminal investigation. Thus, Vistas
+has not met its burden with respect to FAR 31.205(±)(1). See Fru-Con Constr. Corp. ,
+ASBCA Nos. 55197, 55248, 07-2 BCA il 33,697 at 166,815 (lack of specificity in
+agreement with consultant used as a factor in reducing fees by about 90%).
+
+        Third, although Vistas included in the REA bills from both firms, some of the
+explanations as to the work performed lack sufficient detail or appear to be for work
+on something other than the audit, as we have found. For example, a bill for $10,000
+from attorney Munoz for August 2009 states little more than that he talked to Vistas
+about the audit, reviewed "materials being submitted" to the government, and that he
+"worked on" the exit conference. Another entry for an out-of-pocket expense for
+Mr. Munoz states merely "Gen. Creer $3,911.12"; a few pages earlier, the bills stated
+that a "Ret. Robert Crear" had been retained for a $3,000 fee. (REA, tab D.13 at 73 ,
+76) Presumably Creer and Crear are the same person, but there is no indication as to
+his line of work or what he did for Vistas.
+
+
+                                            39
+       For the foregoing reasons, we conclude that Vistas has not met its burden of
+demonstrating that it incurred these fees for the purpose of materially furthering the
+negotiation process or that they were reasonable. Vistas has not explained why it
+retained these firms, what they did (beyond the bare outlines in the bills), what work
+product they produced, or why the fees were in the amount billed.
+
+       B. Darrell Oyer
+
+        With respect to Mr. Oyer, Vistas fails to meet the requirements of FAR 3 l .205-
+33(f). As we have found there is no written agreement that provides the details of the
+tasks Mr. Oyer was retained to perform. The record does contain invoices for
+Mr. Oyer but they lack sufficient detail as to the time expended and the nature of the
+actual services provided in that they merely state such things as "Visit to your office
+including prep and follow up," and "Review documents" (REA, tab D.13 at 31-32).
+The record does not appear to contain any work product for Mr. Oyer for the genuine
+purpose of materially furthering the negotiation process. Vistas did not address these
+fees in Mr. Oyer' s testimony or in its briefs. There is no basis for us to award Vistas
+fees for Mr. Oyer.
+
+       C. Louis Butler
+
+        With respect to Mr. Butler, the issue is more complex. As we have found, the
+record contains an Independent Consultant Agreement between Mr. Butler and Vistas
+that defines a scope of work, at least up to the first 400 hours. There also appears to be
+no dispute that Mr. Butler did, in fact, spend significant time on work related to the
+audit (see app. post-hearing fact br., ilil 123-24).
+
+       On the other hand, there are a number of pieces of evidence that have to be
+construed as red flags. First, as we have found, Vistas is seeking $339,875 for Mr. Butler' s
+time on the audit work but his billing summaries support only $276,356.25, reflecting an
+unexplained increase of more than $63,000. Vistas did not address this discrepancy at the
+hearing or in its briefs.
+
+        Second, there is no dispute that Mr. Butler spent a great deal of time on work
+related to the criminal investigation. In its brief, the government identifies a total of
+454 hours of work between 18 October 2009 and 15 January 2010 that, based on
+Mr. Butler's testimony (tr. 2/190), may have been spent entirely on work related to the
+criminal investigation. We cannot determine how many hours Mr. Butler spent on work
+related to the criminal investigation, but we note that a portion of his testimony could be
+read to state that he actually spent half his time on the criminal work (tr. 2/189).
+
+      Mr. Butler attempted to justify his billing the criminal work to the audit claim
+by contending that the search warrant would not have been issued but for DCAA' s
+cooperation with the criminal investigators (tr. 2/194). This is at best speculation. To
+
+                                           40
+the extent that Vistas is asking us to carve out an exception to Orlando Helicopter
+simply because Mr. Salita cooperated with the FBI after the FBI made such a request,
+we decline that invitation.
+
+       Third, we do not believe it was reasonable for Vistas to allow Mr. Butler to bill
+more than 2,300 hours, considerably more than a full year of work at 40 hours per week.
+In comparable circumstances in Fru-Con, we held that consultant fees were not
+reasonable because the contractor' s lack of oversight had almost given the consultant a
+blank check. Fru-Con, 07-2 BCA ii 33,697 at 166,815 .
+
+        In terms of compliance with the FAR 3 l .205-33(f) requirements, the evidence is
+mixed. Vistas has provided us with its agreement with Mr. Butler, but it covers only the
+first 400 hours and $35 ,000 in fees . Vistas has also provided Mr. Butler' s billing
+summaries but it is questionable whether many of the entries provide sufficient detail
+under FAR 31.205-33(£)(2). For example, entries from 20-25 February 2009 describe
+Mr. Butler' s services as "Preparation of file analyzing historical project activity" and bills
+44 hours to this activity. In terms of work products and related documents under
+FAR 31.205-33(£)(2), Vistas has directed our attention to several dozen emails authored by
+Mr. Butler, but nothing that would substantiate more than 2,300 hours of work. Some of
+Mr. Butler' s work product is not in the record. When asked by the government' s attorney
+where one could see the work product of his efforts for 20-25 February 2009, Mr. Butler
+testified that it "may be" on a laptop he has in Houston (tr. 2/ 175).
+
+       In Fru-Con, we recognized that the public policy identified in Bill Strong favors
+payment of the contractor's contract administration costs. However, because of the
+various deficiencies in the claim that we identified, we awarded the contractor about
+11.5% of-the amount claimed as ajuryverdict. The Federal Circuit has held that to use
+the jury verdict method "[the Board] must first determine three things: (1) that clear
+proof of injury exists; (2) that there is no more reliable method for computing damages;
+and (3) that the evidence is sufficient for a [board] to make a fair and reasonable
+approximation of the damages." Grumman Aerospace Corp. v. Wynne , 497 F.3d 1350,
+1358 (Fed. Cir. 2007) (quoting Dawco Constr., Inc. v. United States, 930 F.2d 872, 880
+(Fed. Cir. 1991)).
+
+        In this case, we are satisfied that the first two elements of this test have been met
+because Mr. Butler clearly performed work in response to the audit and that there is no
+more reliable method of calculating damages. With respect to the third prong of the test,
+the question is more difficult. Based on the issues we have identified, including the
+criminal investigation, the lack of a written agreement for hours above 400, the cursory
+nature of the billing records, the lack of work products to support the hours claimed, and
+the apparent blank check that Vistas gave Mr. Butler, any amount awarded to Vistas
+should represent a sharp reduction from the amount sought. After careful consideration
+of the record, we have determined that a fair and reasonable approximation of Vistas
+
+
+                                            41
+damages can be achieved by awarding Vistas the $35 ,000 contemplated by its agreement
+with Mr. Butler.
+
+       Accordingly, this appeal is sustained in part.
+
+           ASBCA No. 58486-Impact of Bond Premium on Deleted Work
+
+       Vistas seeks $13, 174.59 for what it describes as "unnecessary bond premium costs
+that Vistas paid for work that was deleted from the contract" (compl. iJ 158). As we
+described above, in July 2010, POOOl 7 deleted the work remaining on the contract but did
+not reduce the contract price (supp. R4, tab 28 at 40). No witness discussed this issue at
+the hearing and Vistas did not introduce any evidence that indicates that it paid more for
+bond costs than it received from the Corps.
+
+        In its post-hearing brief, the government observes, among other things, that the
+contracting officer approved total bond costs of$221 ,789 (see R4, tab 1at18). The
+government contends that because Vistas did not offer any evidence with respect to
+bond costs, let alone that it incurred more than $221 ,789, it is not entitled to any
+recovery. In its reply brief, Vistas contends that it incurred bond costs of $102,027.70
+(app. reply at 53-54). Assuming that this is accurate, we do not see why this would
+entitle Vistas to bond costs of $13 ,174.59 in addition to the $221 ,789 approved by the
+contracting officer.
+
+                                        DECISION
+
+       Vistas has not proven entitlement or quantum. This appeal is denied.
+
+                       ASBCA No. 58487 - Contract Reformation
+
+       In this appeal, Vistas sought $3 ,215 ,991.77 based on a contention that ifit had
+known the actual site conditions and defective drawings issued by the Corps, it would
+have bid the project with a 21 % profit rate (exec. summ. at 10). During its opening
+statement, Vistas ' counsel stated that it did not intend to pursue this appeal (tr. 1/23) and it
+thereafter did not submit any evidence. Vistas stated in its post-hearing brief that it is
+withdrawing this appeal (app. br. at 1 n.l).
+
+                                        DECISION
+
+       This appeal is dismissed with prejudice.
+
+
+                                             42
+                       ASBCA No. 58488 -Proposal Preparation Costs
+
+                         ADDITIONAL FINDINGS OF FACT
+
+       Because we draw upon the facts and analysis of Vistas' DCAA audit support
+costs appeal, familiarity with our decision in ASBCA No. 58483 is presumed.
+
+      Vistas seeks $1 ,268,288 for costs related to the preparation of its REA. This
+amount includes $850,314.93 for costs or estimated costs of its consultants and
+employees, plus G&A of 10.64% or $90,473.51 , plus profit of $327,499 .78
+(REA, tab D.l at 41 (WP A-5)).
+
+       The $850,314.93 includes $67,884.14 for outside consulting and legal costs
+through 30 September 2010 (REA, tab D.l at 41). Vistas also seeks $286,267.59 in
+estimated costs for outside legal and consulting fees from 1 October 2010 to proposal
+submission (REA, tab D .1 at 41 ), bringing the total for consultant and legal costs to
+$354,151.73. According to Mr. Butler' s billing records, he billed 1,598.5 hours and
+$199,812.50 to REA preparation (REA, tab D.13 at 60), which was in addition to the
+2,300+ hours he billed for audit support. Further, there are bills from Attorney Munoz in
+2011 for work relating to the REA that total $78,254.10 (id. at 64-71) and from Cohn
+Mohr from July 2010 to April 2011 in the amount of $36,780.50 (id. at 1-22). Finally, as
+we found above, the record contains $10,622.75 in bills from Mr. Oyer (REA, tab D.13 at
+29-34) but Vistas has allocated $7,403 .75 to the audit claim (REA, tab D.8 at 67), which
+effectively leaves, at most, a balance of $3 ,219 in work on the REA. Adding up these
+various amounts results in a total of $318,066.10 for the attorneys and consultants.
+
+       With respect to its employees, Vistas seeks an estimated $496, 163 .20 for eight
+individuals for "Involvement Above and Beyond Routine Employment Functions in the
+Preparation and Through Submission of REA Proposal" (REA, tab D.1 at 41). While the
+REA does not tell us how Vistas calculated these amounts, presumably Vistas used the same
+method that greatly increased the hourly rates for the DCAA audit claim that we rejected
+above. There is no documentation of the hours spent by the employees on the REA.
+
+        In the contracting officer's final decision, Ms. Nicholas rejected the REA
+preparation costs in their entirety because she found them to be unreasonable. Among
+other things, she observed that the $1,268,288.23 Vistas sought for proposal preparation
+costs exceeded the $1, 154,494 to which she had concluded Vistas was entitled. She
+stated that the Corps had requested a "simple accounting" of Vistas ' final costs but Vistas
+had responded with something much more complex. She found many of the documents
+provided by Vistas to be "confusing, unusable and unhelpful to the resolution of this
+matter." Ms. Nicholas stated that "it is my finding that Vistas' proposal did not
+materially further the negotiation process." (R4, tab 1 at 17)
+
+
+                                           43
+                                       DECISION
+
+        In its brief, the government agrees that REA preparation costs are generally
+allowable under Bill Strong. Vistas has submitted an REA that was much more time
+consuming to prepare than the total cost proposal that the Corps requested but contends
+that it was under no obligation to submit its costs in the format requested by the Corps.
+We agree but precedent, including Bill Strong, limits its recovery to reasonable costs and
+requires Vistas to prove those costs. In this case, Vistas' 44-volume REA is more
+confusing than helpful, relies on theories and calculations that are fanciful, unsupported,
+or barred outright, and fails to document anywhere near the amount of REA preparation
+costs that Vistas is seeking.
+
+         We also agree with the government that there is a serious question as to whether
+Vistas was in a litigation posture the entire time, which would bar it from recovering
+REA preparation costs. Bill Strong, 49 F.3d at 1549-50. For example, in the REA Vistas
+sought more than $3 .2 million for contract reformation costs that it ultimately dropped on
+appeal (exec. summ. at 20). FAR 33.205(b) specifically requires the contracting officer
+to treat contract reformation as a claim. In addition, for the reasons set forth in this
+opinion, Vistas could not have reasonably believed that the government would pay many
+of the items that it sought, either because the amounts were so high, such as the profit
+claim, or they were outright barred, like the interest claim, or because the calculations
+were so convoluted and flawed, like the G&A claim. We conclude that either Vistas was
+in a litigation posture on at least significant portions of the REA from the outset or, to the
+extent it actually believed that the government would enter into negotiations, that belief
+was not reasonable. See TMS Envirocon, Inc. , ASBCA No. 57286, 12-2 BCA ii 35,084
+(REA preparation costs rejected where expectation of negotiations was unreasonable);
+Grumman Aerospace Corp., ASBCA No. 50090, 01-l BCA ii 31,316 (claim preparation
+costs denied where contractor was in litigation posture from the outset).
+
+        We have examined the record carefully to determine whether a jury verdict award
+is feasible. As we have found, there is no record support for the time spent by Vistas'
+employees on the REA, and there are no agreements in the record between Vistas and
+Mr. Munoz, Cohn Mohr, or Mr. Oyer. Nor can it be said that there is an agreement
+between Mr. Butler and Vistas because the agreement that we discussed in connection
+with the DCAA audit support claim did not cover REA preparation. Neither Mr. Munoz
+nor anyone from Cohn Mohr testified. We have no doubt that Mr. Butler spent an
+enormous amount of time on the REA, as evidenced by his nearly $200,000 in bills.
+Although Mr. Butler' s skills are surely impressive in certain areas, his skill in claims
+preparation on a government construction project is lacking. According to his testimony,
+he drew on his knowledge of "hospital accounting" to prepare the REA (tr. 2/ 132) but the
+result was an unwieldy REA that did not come close to achieving the lofty aims to which
+Vistas aspired.
+
+
+                                            44
+        On the other hand, the REA was not completely unsuccessful. As we found above,
+after the submission of the REA, the Corps made partial payments to Vistas totaling
+$2 million and the contracting officer awarded Vistas an additional $1 , 154,494 in the
+contracting officer's final decision. However, it is our conclusion that Vistas could have
+achieved these results more quickly and easily with a much simpler approach. As a jury
+verdict, we award Vistas $50,000, which represents about 25% of Mr. Butler's fees.
+
+       Accordingly, this appeal is sustained in part.
+
+                                    CONCLUSION
+
+      For the foregoing reasons, we sustain ASBCA Nos. 58483 and 58488 in part. We
+deny ASBCA Nos. 58479, 58480, 58481 , 58482 and 58486. We dismiss ASBCA No. 58487.
+
+       Dated: 12 January 2016
+
+                                                rr<1~01 - C)<~
+                                                  MICHAEL N. O' CONNELL
+                                                  Administrative Judge
+                                                  Armed Services Board
+                                                  of Contract Appeals
+
+I concur                                          I concur
+
+
+Administrative Judge                              Administrative Judge
+Acting Chairman                                   Vice Chairman
+Armed Services Board                              Armed Services Board
+of Contract Appeals                               of Contract Appeals
+
+       I certify that the foregoing is a true copy of the Opinion and Decision of the
+Armed Services Board of Contract Appeals in ASBCA Nos. 58479, 58480, 58481 ,
+58482, 58483, 58486, 58487, 58488, Appeals of Vistas Construction of Illinois, Inc.,
+rendered in conformance with the Board' s Charter.
+
+      Dated:
+
+
+                                                  JEFFREY D. GARDIN
+                                                  Recorder, Armed Services
+                                                  Board of Contract Appeals
+
+
+                                           45
